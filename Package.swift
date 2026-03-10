@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "ro-data-converter",
+    name: "ragnarok-data-converter",
     platforms: [
         .macOS(.v13),
     ],
@@ -14,7 +14,7 @@ let package = Package(
     ],
     targets: [
         .executableTarget(
-            name: "ro-data-converter",
+            name: "ragnarok-data-converter",
             dependencies: [
                 .product(name: "ArgumentParser", package: "swift-argument-parser"),
                 .product(name: "Lua", package: "swift-lua"),

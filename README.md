@@ -5,7 +5,7 @@ A tool for converting Ragnarok Online resource files.
 ## Usage
 
 ```bash
-swift run ro-data-converter Input Output
+swift run ragnarok-data-converter Input Output
 ```
 
 ## Copyright
