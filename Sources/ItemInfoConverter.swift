@@ -1,6 +1,6 @@
 //
 //  ItemInfoConverter.swift
-//  ro-data-converter
+//  ragnarok-data-converter
 //
 //  Created by Leon Li on 2025/8/4.
 //
@@ -82,15 +82,16 @@ struct ItemInfoConverter {
 
             let lines = string.split(separator: "\r\n")
             for line in lines {
-                if line.trimmingCharacters(in: .whitespacesAndNewlines).starts(with: "//") {
+                let trimmedLine = line.trimmingWhitespacesAndNewlines()
+                if trimmedLine.starts(with: "//") {
                     continue
                 }
 
                 let columns = line.split(separator: "#").map(String.init)
                 if columns.count >= 2,
-                   let itemID = Int(columns[0].trimmingCharacters(in: .whitespacesAndNewlines)) {
+                   let itemID = Int(columns[0].trimmingWhitespacesAndNewlines()) {
                     let itemID = String(format: "%07d", itemID)
-                    let itemDisplayName = columns[1].trimmingCharacters(in: .whitespacesAndNewlines)
+                    let itemDisplayName = columns[1].trimmingWhitespacesAndNewlines()
                     identifiedItemNames[itemID] = itemDisplayName
                 }
             }
@@ -108,15 +109,16 @@ struct ItemInfoConverter {
 
             let lines = string.split(separator: "\r\n#\r\n")
             for line in lines {
-                if line.trimmingCharacters(in: .whitespacesAndNewlines).starts(with: "//") {
+                let trimmedLine = line.trimmingWhitespacesAndNewlines()
+                if trimmedLine.starts(with: "//") {
                     continue
                 }
 
                 let columns = line.split(separator: "#").map(String.init)
                 if columns.count >= 2,
-                   let itemID = Int(columns[0].trimmingCharacters(in: .whitespacesAndNewlines)) {
+                   let itemID = Int(columns[0].trimmingWhitespacesAndNewlines()) {
                     let itemID = String(format: "%07d", itemID)
-                    let itemDescription = columns[1].trimmingCharacters(in: .whitespacesAndNewlines)
+                    let itemDescription = columns[1].trimmingWhitespacesAndNewlines()
                     identifiedItemDescriptions[itemID] = itemDescription
                 }
             }

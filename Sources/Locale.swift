@@ -1,6 +1,6 @@
 //
 //  Locale.swift
-//  ro-data-converter
+//  ragnarok-data-converter
 //
 //  Created by Leon Li on 2025/8/4.
 //
@@ -60,23 +60,5 @@ extension Locale.Language {
         let nsEncoding = CFStringConvertEncodingToNSStringEncoding(cfEncoding)
         let encoding = String.Encoding(rawValue: nsEncoding)
         return encoding
-    }
-}
-
-extension String {
-    mutating func transcode(from: String.Encoding, to: String.Encoding) {
-        let string = data(using: from).flatMap { data in
-            String(data: data, encoding: to)
-        }
-        if let string {
-            self = string
-        }
-    }
-
-    func transcoding(from: String.Encoding, to: String.Encoding) -> String {
-        let string = data(using: from).flatMap { data in
-            String(data: data, encoding: to)
-        }
-        return string ?? self
     }
 }
