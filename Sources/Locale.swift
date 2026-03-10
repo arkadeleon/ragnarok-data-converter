@@ -49,6 +49,8 @@ extension Locale.Language {
             CFStringConvertWindowsCodepageToEncoding(1145)
         case .thai:
             CFStringConvertWindowsCodepageToEncoding(874)
+        case .turkish:
+            CFStringConvertWindowsCodepageToEncoding(1254)
         case .vietnamese:
             CFStringConvertWindowsCodepageToEncoding(1258)
         default:
