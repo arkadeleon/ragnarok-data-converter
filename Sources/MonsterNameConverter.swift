@@ -9,7 +9,7 @@ import Foundation
 
 struct MonsterNameConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
-        let url = input.appending(components: locale.path, "mobname.txt")
+        let url = input.appendingPathComponents(locale.path, "mobname.txt")
         guard let string = try? String(contentsOf: url, encoding: .utf8) else {
             return
         }
@@ -31,7 +31,7 @@ struct MonsterNameConverter {
         let encoder = JSONEncoder()
         encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
         let jsonData = try encoder.encode(monsterNames)
-        let jsonURL = output.appending(components: locale.path, "MonsterName.json")
+        let jsonURL = output.appendingPathComponents(locale.path, "MonsterName.json")
 
         try FileManager.default.createDirectory(at: jsonURL.deletingLastPathComponent(), withIntermediateDirectories: true)
         try jsonData.write(to: jsonURL)

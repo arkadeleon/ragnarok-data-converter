@@ -10,10 +10,10 @@ import Foundation
 
 @main
 struct Convert: ParsableCommand {
-    @Argument(transform: { URL(filePath: $0, directoryHint: .isDirectory) })
+    @Argument(transform: { URL(fileURLWithPath: $0, isDirectory: true) })
     var input: URL
 
-    @Argument(transform: { URL(filePath: $0, directoryHint: .isDirectory) })
+    @Argument(transform: { URL(fileURLWithPath: $0, isDirectory: true) })
     var output: URL
 
     func run() throws {

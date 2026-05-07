@@ -1,7 +1,7 @@
 # Ragnarok Data Converter
 
 ![Swift 6.0](https://img.shields.io/badge/Swift-6.0-F05138?logo=swift&logoColor=white)
-![Platform macOS 13+](https://img.shields.io/badge/Platform-macOS%2013%2B-000000)
+![Platform macOS](https://img.shields.io/badge/Platform-macOS-000000)
 ![License GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)
 
 Convert Ragnarok Online client resource files into normalized JSON datasets organized by locale.
@@ -11,14 +11,15 @@ This project reads a mix of legacy text tables and Lua-based `.lub` resources, a
 ## Features
 
 - Converts multiple Ragnarok Online data sources in one pass.
-- Preserves locale-specific encodings for supported client languages.
+- Preserves locale-specific legacy Windows encodings for supported client languages.
+- Normalizes locale identifiers into hyphenated `*.lproj` output paths.
 - Outputs deterministic JSON with sorted keys and readable formatting.
 - Handles both Lua-backed and text-backed item data depending on the source files available.
 - Skips optional datasets automatically when a locale does not provide the required source file.
 
 ## Requirements
 
-- macOS 13 or later
+- macOS with a Swift 6-compatible toolchain
 - Swift 6.0 or later
 
 ## Quick Start
@@ -49,7 +50,7 @@ The converter expects:
 
 ## Generated Output
 
-Output is written per locale using the same `*.lproj` directory convention as the source data:
+Output is written per locale using hyphenated `*.lproj` directory names:
 
 ```text
 Output/
@@ -75,7 +76,7 @@ Some files are only generated when the corresponding source files exist for a lo
 
 ## Supported Locales
 
-The repository currently includes input data for:
+The converter currently processes these locales:
 
 `de`, `en`, `es`, `fr`, `id`, `it`, `ja`, `ko`, `pt-BR`, `ru`, `th`, `tr`, `zh-Hans`, `zh-Hant`
 
@@ -93,7 +94,7 @@ The repository currently includes input data for:
 ## Notes
 
 - The converter uses `swift-argument-parser` for the CLI and `swift-lua` for evaluating Lua-based game data.
-- Source files may use different legacy encodings depending on locale; the converter normalizes them during export.
+- Source files may use different legacy encodings depending on locale; the converter chooses the target encoding from the locale identifier and normalizes strings during export.
 
 ## License
 

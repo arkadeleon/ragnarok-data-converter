@@ -1,5 +1,5 @@
 //
-//  String.swift
+//  String+Transcoding.swift
 //  ragnarok-data-converter
 //
 //  Created by Leon Li on 2026/3/10.

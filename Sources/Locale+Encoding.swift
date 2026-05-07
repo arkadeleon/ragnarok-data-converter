@@ -1,5 +1,5 @@
 //
-//  Locale.swift
+//  Locale+Encoding.swift
 //  ragnarok-data-converter
 //
 //  Created by Leon Li on 2025/8/4.
@@ -8,50 +8,51 @@
 import Foundation
 
 let locales = [
-    Locale(languageCode: .chinese, script: .hanSimplified),
-    Locale(languageCode: .chinese, script: .hanTraditional),
-    Locale(languageCode: .english),
-    Locale(languageCode: .french),
-    Locale(languageCode: .german),
-    Locale(languageCode: .indonesian),
-    Locale(languageCode: .italian),
-    Locale(languageCode: .japanese),
-    Locale(languageCode: .korean),
-    Locale(languageCode: .portuguese, languageRegion: .brazil),
-    Locale(languageCode: .russian),
-    Locale(languageCode: .spanish),
-    Locale(languageCode: .thai),
-    Locale(languageCode: .turkish),
+    Locale(identifier: "zh-Hans"),
+    Locale(identifier: "zh-Hant"),
+    Locale(identifier: "en"),
+    Locale(identifier: "fr"),
+    Locale(identifier: "de"),
+    Locale(identifier: "id"),
+    Locale(identifier: "it"),
+    Locale(identifier: "ja"),
+    Locale(identifier: "ko"),
+    Locale(identifier: "pt-BR"),
+    Locale(identifier: "ru"),
+    Locale(identifier: "es"),
+    Locale(identifier: "th"),
+    Locale(identifier: "tr"),
 ]
 
 extension Locale {
     var path: String {
-        identifier(.bcp47) + ".lproj"
+        identifier.replacingOccurrences(of: "_", with: "-") + ".lproj"
     }
-}
 
-extension Locale.Language {
     var preferredEncoding: String.Encoding {
+        let identifier = identifier.lowercased().replacingOccurrences(of: "_", with: "-")
+        let languageCode = identifier.split(separator: "-").first.map(String.init) ?? identifier
+
         let cfEncoding = switch languageCode {
-        case .arabic:
+        case "ar":
             CFStringConvertWindowsCodepageToEncoding(1256)
-        case .chinese where script == .hanSimplified:
+        case "zh" where identifier.contains("hans"):
             CFStringConvertWindowsCodepageToEncoding(936)
-        case .chinese where script == .hanTraditional:
+        case "zh" where identifier.contains("hant"):
             CFStringConvertWindowsCodepageToEncoding(950)
-        case .japanese:
+        case "ja":
             CFStringConvertWindowsCodepageToEncoding(932)
-        case .korean:
+        case "ko":
             CFStringConvertWindowsCodepageToEncoding(949)
-        case .russian:
+        case "ru":
             CFStringConvertWindowsCodepageToEncoding(1251)
-        case .spanish where region == .latinAmerica:
+        case "es" where identifier.contains("419"):
             CFStringConvertWindowsCodepageToEncoding(1145)
-        case .thai:
+        case "th":
             CFStringConvertWindowsCodepageToEncoding(874)
-        case .turkish:
+        case "tr":
             CFStringConvertWindowsCodepageToEncoding(1254)
-        case .vietnamese:
+        case "vi":
             CFStringConvertWindowsCodepageToEncoding(1258)
         default:
             CFStringConvertWindowsCodepageToEncoding(1252)

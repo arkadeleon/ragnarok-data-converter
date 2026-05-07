@@ -10,16 +10,16 @@ import RagnarokLua
 
 struct ItemRandomOptionNameConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
-        let addrandomoptionnametableURL = input.appending(components: locale.path, "addrandomoptionnametable.lub")
-        guard FileManager.default.fileExists(atPath: addrandomoptionnametableURL.path()) else {
+        let addrandomoptionnametableURL = input.appendingPathComponents(locale.path, "addrandomoptionnametable.lub")
+        guard FileManager.default.fileExists(atPath: addrandomoptionnametableURL.path) else {
             return
         }
 
         let context = LuaContext()
         context.loadJSONModule()
 
-        let enumvarURL = input.appending(component: "enumvar.lub")
-        let addrandomoptionfURL = input.appending(component: "addrandomoption_f.lub")
+        let enumvarURL = input.appendingPathComponent("enumvar.lub")
+        let addrandomoptionfURL = input.appendingPathComponent("addrandomoption_f.lub")
 
         context.loadData(at: enumvarURL)
         context.loadData(at: addrandomoptionnametableURL)
@@ -40,13 +40,13 @@ struct ItemRandomOptionNameConverter {
             names.enumerated().map({ (String(format: "%03d", $0.offset + 1), $0.element) }),
             uniquingKeysWith: { first, _ in first }
         ).compactMapValues { name in
-            name?.transcoding(from: .isoLatin1, to: locale.language.preferredEncoding)
+            name?.transcoding(from: .isoLatin1, to: locale.preferredEncoding)
         }
 
         let encoder = JSONEncoder()
         encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
         let jsonData = try encoder.encode(itemRandomOptionNames)
-        let jsonURL = output.appending(components: locale.path, "ItemRandomOptionName.json")
+        let jsonURL = output.appendingPathComponents(locale.path, "ItemRandomOptionName.json")
 
         try FileManager.default.createDirectory(at: jsonURL.deletingLastPathComponent(), withIntermediateDirectories: true)
         try jsonData.write(to: jsonURL)

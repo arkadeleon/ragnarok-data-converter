@@ -9,14 +9,14 @@ import Foundation
 
 struct MapNameConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
-        let url = input.appending(components: locale.path, "mapnametable.txt")
+        let url = input.appendingPathComponents(locale.path, "mapnametable.txt")
         guard let string = try? String(contentsOf: url, encoding: .isoLatin1) else {
             return
         }
 
         var mapNames: [String : String] = [:]
 
-        let lines = string.split(separator: "\r\n")
+        let lines = string.components(separatedBy: "\r\n").filter { !$0.isEmpty }
         for line in lines {
             if line.trimmingCharacters(in: .whitespaces).starts(with: "//") {
                 continue
@@ -29,7 +29,7 @@ struct MapNameConverter {
                     .replacingOccurrences(of: ".rsw", with: "")
                 let mapName = columns[1]
                     .trimmingCharacters(in: .whitespaces)
-                    .transcoding(from: .isoLatin1, to: locale.language.preferredEncoding)
+                    .transcoding(from: .isoLatin1, to: locale.preferredEncoding)
                 mapNames[rsw] = mapName
             }
         }
@@ -37,7 +37,7 @@ struct MapNameConverter {
         let encoder = JSONEncoder()
         encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
         let jsonData = try encoder.encode(mapNames)
-        let jsonURL = output.appending(components: locale.path, "MapName.json")
+        let jsonURL = output.appendingPathComponents(locale.path, "MapName.json")
 
         try FileManager.default.createDirectory(at: jsonURL.deletingLastPathComponent(), withIntermediateDirectories: true)
         try jsonData.write(to: jsonURL)

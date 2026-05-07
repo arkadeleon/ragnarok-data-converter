@@ -17,24 +17,24 @@ struct ItemInfo: Codable {
 
 struct ItemInfoConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
-        let itemInfoURL = input.appending(components: locale.path, "itemInfo.lub")
-        var itemInfos = if FileManager.default.fileExists(atPath: itemInfoURL.path()) {
+        let itemInfoURL = input.appendingPathComponents(locale.path, "itemInfo.lub")
+        var itemInfos = if FileManager.default.fileExists(atPath: itemInfoURL.path) {
             try luaItemInfos(from: input, for: locale)
         } else {
             txtItemInfos(from: input, for: locale)
         }
 
         for itemID in itemInfos.keys {
-            itemInfos[itemID]?.unidentifiedItemName?.transcode(from: .isoLatin1, to: locale.language.preferredEncoding)
-            itemInfos[itemID]?.unidentifiedItemDescription?.transcode(from: .isoLatin1, to: locale.language.preferredEncoding)
-            itemInfos[itemID]?.identifiedItemName?.transcode(from: .isoLatin1, to: locale.language.preferredEncoding)
-            itemInfos[itemID]?.identifiedItemDescription?.transcode(from: .isoLatin1, to: locale.language.preferredEncoding)
+            itemInfos[itemID]?.unidentifiedItemName?.transcode(from: .isoLatin1, to: locale.preferredEncoding)
+            itemInfos[itemID]?.unidentifiedItemDescription?.transcode(from: .isoLatin1, to: locale.preferredEncoding)
+            itemInfos[itemID]?.identifiedItemName?.transcode(from: .isoLatin1, to: locale.preferredEncoding)
+            itemInfos[itemID]?.identifiedItemDescription?.transcode(from: .isoLatin1, to: locale.preferredEncoding)
         }
 
         let encoder = JSONEncoder()
         encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
         let jsonData = try encoder.encode(itemInfos)
-        let jsonURL = output.appending(components: locale.path, "ItemInfo.json")
+        let jsonURL = output.appendingPathComponents(locale.path, "ItemInfo.json")
 
         try FileManager.default.createDirectory(at: jsonURL.deletingLastPathComponent(), withIntermediateDirectories: true)
         try jsonData.write(to: jsonURL)
@@ -44,7 +44,7 @@ struct ItemInfoConverter {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let itemInfoURL = input.appending(components: locale.path, "itemInfo.lub")
+        let itemInfoURL = input.appendingPathComponents(locale.path, "itemInfo.lub")
         context.loadData(at: itemInfoURL)
 
         try context.parse("""
@@ -73,14 +73,14 @@ struct ItemInfoConverter {
 
     private func txtItemInfos(from input: URL, for locale: Locale) -> [String : ItemInfo] {
         let identifiedItemNames: [String : String] = {
-            let url = input.appending(components: locale.path, "idnum2itemdisplaynametable.txt")
+            let url = input.appendingPathComponents(locale.path, "idnum2itemdisplaynametable.txt")
             guard let string = try? String(contentsOf: url, encoding: .isoLatin1) else {
                 return [:]
             }
 
             var identifiedItemNames: [String : String] = [:]
 
-            let lines = string.split(separator: "\r\n")
+            let lines = string.components(separatedBy: "\r\n").filter { !$0.isEmpty }
             for line in lines {
                 let trimmedLine = line.trimmingWhitespacesAndNewlines()
                 if trimmedLine.starts(with: "//") {
@@ -100,14 +100,14 @@ struct ItemInfoConverter {
         }()
 
         let identifiedItemDescriptions: [String : String] = {
-            let url = input.appending(components: locale.path, "idnum2itemdesctable.txt")
+            let url = input.appendingPathComponents(locale.path, "idnum2itemdesctable.txt")
             guard let string = try? String(contentsOf: url, encoding: .isoLatin1) else {
                 return [:]
             }
 
             var identifiedItemDescriptions: [String : String] = [:]
 
-            let lines = string.split(separator: "\r\n#\r\n")
+            let lines = string.components(separatedBy: "\r\n#\r\n").filter { !$0.isEmpty }
             for line in lines {
                 let trimmedLine = line.trimmingWhitespacesAndNewlines()
                 if trimmedLine.starts(with: "//") {

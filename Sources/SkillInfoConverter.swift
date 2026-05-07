@@ -18,19 +18,19 @@ struct SkillInfoConverter {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let jobinheritlistURL = input.appending(component: "jobinheritlist.lub")
+        let jobinheritlistURL = input.appendingPathComponent("jobinheritlist.lub")
         context.loadData(at: jobinheritlistURL)
 
-        let skillidURL = input.appending(component: "skillid.lub")
+        let skillidURL = input.appendingPathComponent("skillid.lub")
         context.loadData(at: skillidURL)
 
-        let skillinfolistURL = input.appending(components: locale.path, "skillinfolist.lub")
+        let skillinfolistURL = input.appendingPathComponents(locale.path, "skillinfolist.lub")
         context.loadData(at: skillinfolistURL)
 
-        let skilldescriptURL = input.appending(components: locale.path, "skilldescript.lub")
+        let skilldescriptURL = input.appendingPathComponents(locale.path, "skilldescript.lub")
         context.loadData(at: skilldescriptURL)
 
-        let skillinfofURL = input.appending(component: "skillinfo_f.lub")
+        let skillinfofURL = input.appendingPathComponent("skillinfo_f.lub")
         context.loadData(at: skillinfofURL)
 
         try context.parse("""
@@ -66,14 +66,14 @@ struct SkillInfoConverter {
         let decoder = JSONDecoder()
         var skillInfos = try decoder.decode([String : SkillInfo].self, from: json.data(using: .utf8)!)
         for skillID in skillInfos.keys {
-            skillInfos[skillID]?.skillName?.transcode(from: .isoLatin1, to: locale.language.preferredEncoding)
-            skillInfos[skillID]?.skillDescription?.transcode(from: .isoLatin1, to: locale.language.preferredEncoding)
+            skillInfos[skillID]?.skillName?.transcode(from: .isoLatin1, to: locale.preferredEncoding)
+            skillInfos[skillID]?.skillDescription?.transcode(from: .isoLatin1, to: locale.preferredEncoding)
         }
 
         let encoder = JSONEncoder()
         encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
         let jsonData = try encoder.encode(skillInfos)
-        let jsonURL = output.appending(components: locale.path, "SkillInfo.json")
+        let jsonURL = output.appendingPathComponents(locale.path, "SkillInfo.json")
 
         try FileManager.default.createDirectory(at: jsonURL.deletingLastPathComponent(), withIntermediateDirectories: true)
         try jsonData.write(to: jsonURL)
