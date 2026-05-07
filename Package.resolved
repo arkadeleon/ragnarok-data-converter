@@ -1,22 +1,22 @@
 {
-  "originHash" : "fd9869aa35819d182c7ba25566967e22efac350dbd5e90234579d4114762d440",
+  "originHash" : "fbfcacb80234eb4027f01a061ab7a95b621ff12aae9628dde6e49b874abc335c",
   "pins" : [
+    {
+      "identity" : "ragnarok-lua",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/arkadeleon/ragnarok-lua.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a43c463e2c20c30561ba4c16592666c63e93268a"
+      }
+    },
     {
       "identity" : "swift-argument-parser",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-argument-parser.git",
       "state" : {
-        "revision" : "c5d11a805e765f52ba34ec7284bd4fcd6ba68615",
-        "version" : "1.7.0"
-      }
-    },
-    {
-      "identity" : "swift-lua",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/arkadeleon/swift-lua.git",
-      "state" : {
-        "branch" : "master",
-        "revision" : "06ee34fc258592f582e8a8fe4562ec2801023efc"
+        "revision" : "626b5b7b2f45e1b0b1c6f4a309296d1d21d7311b",
+        "version" : "1.7.1"
       }
     }
   ],

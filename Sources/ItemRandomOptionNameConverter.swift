@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Lua
+import RagnarokLua
 
 struct ItemRandomOptionNameConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {

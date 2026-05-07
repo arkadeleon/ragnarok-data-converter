@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Lua
+import RagnarokLua
 
 struct StatusInfo: Codable {
     var statusDescription: String

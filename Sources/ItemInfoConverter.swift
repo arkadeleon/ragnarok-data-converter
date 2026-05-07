@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Lua
+import RagnarokLua
 
 struct ItemInfo: Codable {
     var unidentifiedItemName: String?

@@ -5,7 +5,7 @@
 //  Created by Leon Li on 2025/8/4.
 //
 
-import Lua
+import RagnarokLua
 
 extension LuaContext {
     func loadJSONModule() {

@@ -9,15 +9,15 @@ let package = Package(
         .macOS(.v13),
     ],
     dependencies: [
-        .package(url: "https://github.com/apple/swift-argument-parser.git", from: "1.6.0"),
-        .package(url: "https://github.com/arkadeleon/swift-lua.git", branch: "master"),
+        .package(url: "https://github.com/apple/swift-argument-parser.git", from: "1.7.0"),
+        .package(url: "https://github.com/arkadeleon/ragnarok-lua.git", branch: "master"),
     ],
     targets: [
         .executableTarget(
             name: "ragnarok-data-converter",
             dependencies: [
                 .product(name: "ArgumentParser", package: "swift-argument-parser"),
-                .product(name: "Lua", package: "swift-lua"),
+                .product(name: "RagnarokLua", package: "ragnarok-lua"),
             ],
             resources: [
                 .copy("Lua/dkjson.lua"),
