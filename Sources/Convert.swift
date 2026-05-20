@@ -17,53 +17,41 @@ struct Convert: ParsableCommand {
     var output: URL
 
     func run() throws {
+        try ItemCommonInfoConverter().convert(from: input, to: output)
+
         for locale in locales {
             print("Converting item info for \(locale.path)")
-
-            let converter = ItemInfoConverter()
-            try converter.convert(from: input, to: output, for: locale)
+            try ItemInfoConverter().convert(from: input, to: output, for: locale)
         }
 
         for locale in locales {
             print("Converting item random option name for \(locale.path)")
-
-            let converter = ItemRandomOptionNameConverter()
-            try converter.convert(from: input, to: output, for: locale)
+            try ItemRandomOptionNameConverter().convert(from: input, to: output, for: locale)
         }
 
         for locale in locales {
             print("Converting map name for \(locale.path)")
-
-            let converter = MapNameConverter()
-            try converter.convert(from: input, to: output, for: locale)
+            try MapNameConverter().convert(from: input, to: output, for: locale)
         }
 
         for locale in locales {
             print("Converting message string for \(locale.path)")
-
-            let converter = MessageStringConverter()
-            try converter.convert(from: input, to: output, for: locale)
+            try MessageStringConverter().convert(from: input, to: output, for: locale)
         }
 
         for locale in locales {
             print("Converting monster name for \(locale.path)")
-
-            let converter = MonsterNameConverter()
-            try converter.convert(from: input, to: output, for: locale)
+            try MonsterNameConverter().convert(from: input, to: output, for: locale)
         }
 
         for locale in locales {
             print("Converting skill info for \(locale.path)")
-
-            let converter = SkillInfoConverter()
-            try converter.convert(from: input, to: output, for: locale)
+            try SkillInfoConverter().convert(from: input, to: output, for: locale)
         }
 
         for locale in locales {
             print("Converting status info for \(locale.path)")
-
-            let converter = StatusInfoConverter()
-            try converter.convert(from: input, to: output, for: locale)
+            try StatusInfoConverter().convert(from: input, to: output, for: locale)
         }
     }
 }
