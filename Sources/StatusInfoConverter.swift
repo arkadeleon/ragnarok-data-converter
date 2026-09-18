@@ -29,7 +29,7 @@ struct StatusInfoConverter {
         context.loadData(at: stateiconimginfoURL)
         context.loadData(at: stateiconinfoURL)
 
-        try context.parse("""
+        try context.evaluate("""
         function convert()
           local result = {}
           for statusID, value in pairs(StateIconList) do
@@ -43,7 +43,7 @@ struct StatusInfoConverter {
         end
         """)
 
-        let json = try context.call("convert", with: []) as! String
+        let json = try context.call("convert", with: []).stringValue!
 
         let decoder = JSONDecoder()
         var statusInfos = try decoder.decode([String : StatusInfo].self, from: json.data(using: .utf8)!)

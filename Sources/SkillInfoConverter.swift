@@ -33,7 +33,7 @@ struct SkillInfoConverter {
         let skillinfofURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "skillinfo_f.lub")
         context.loadData(at: skillinfofURL)
 
-        try context.parse("""
+        try context.evaluate("""
         function convert()
           local result = {}
           for skillAegisName, skillID in pairs(SKID) do
@@ -61,7 +61,7 @@ struct SkillInfoConverter {
         end
         """)
 
-        let json = try context.call("convert", with: []) as! String
+        let json = try context.call("convert", with: []).stringValue!
 
         let decoder = JSONDecoder()
         var skillInfos = try decoder.decode([String : SkillInfo].self, from: json.data(using: .utf8)!)

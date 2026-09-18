@@ -47,7 +47,7 @@ struct ItemInfoConverter {
         let itemInfoURL = input.appendingPathComponents(locale.path, "System", "itemInfo.lub")
         context.loadData(at: itemInfoURL)
 
-        try context.parse("""
+        try context.evaluate("""
         function convert()
           local result = {}
           for itemID, value in pairs(tbl) do
@@ -64,7 +64,7 @@ struct ItemInfoConverter {
         end
         """)
 
-        let json = try context.call("convert", with: []) as! String
+        let json = try context.call("convert", with: []).stringValue!
 
         let decoder = JSONDecoder()
         let itemInfos = try decoder.decode([String : ItemInfo].self, from: json.data(using: .utf8)!)

@@ -40,7 +40,7 @@ struct ItemCommonInfoConverter {
         let itemInfoURL = input.appendingPathComponents(locale.path, "System", "itemInfo.lub")
         context.loadData(at: itemInfoURL)
 
-        try context.parse("""
+        try context.evaluate("""
         function convert()
           local result = {}
           for itemID, value in pairs(tbl) do
@@ -56,7 +56,7 @@ struct ItemCommonInfoConverter {
         end
         """)
 
-        let json = try context.call("convert", with: []) as! String
+        let json = try context.call("convert", with: []).stringValue!
 
         let decoder = JSONDecoder()
         let itemCommonInfos = try decoder.decode([String : ItemCommonInfo].self, from: json.data(using: .utf8)!)

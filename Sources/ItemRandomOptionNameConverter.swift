@@ -25,13 +25,13 @@ struct ItemRandomOptionNameConverter {
         context.loadData(at: addrandomoptionnametableURL)
         context.loadData(at: addrandomoptionfURL)
 
-        try context.parse("""
+        try context.evaluate("""
         function convert()
           return dkjson.encode(NameTable_VAR, { indent = true })
         end
         """)
 
-        let json = try context.call("convert", with: []) as! String
+        let json = try context.call("convert", with: []).stringValue!
 
         let decoder = JSONDecoder()
         let names = try decoder.decode([String?].self, from: json.data(using: .utf8)!)

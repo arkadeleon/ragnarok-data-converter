@@ -5,6 +5,7 @@
 //  Created by Leon Li on 2025/8/4.
 //
 
+import Foundation
 import RagnarokLua
 
 extension LuaContext {
@@ -12,7 +13,7 @@ extension LuaContext {
         let dkjsonURL = Bundle.module.url(forResource: "dkjson", withExtension: "lua")!
         let dkjson = try! String(contentsOf: dkjsonURL, encoding: .utf8)
 
-        try! parse("""
+        try! evaluate("""
         function load_dkjson()
           \(dkjson)
         end
