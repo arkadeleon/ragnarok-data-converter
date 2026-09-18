@@ -14,7 +14,7 @@ struct StatusInfo: Codable {
 
 struct StatusInfoConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
-        let stateiconinfoURL = input.appendingPathComponents(locale.path, "stateiconinfo.lub")
+        let stateiconinfoURL = input.appendingPathComponents(locale.path, "data", "luafiles514", "lua files", "stateicon", "stateiconinfo.lub")
         guard FileManager.default.fileExists(atPath: stateiconinfoURL.path) else {
             return
         }
@@ -22,8 +22,8 @@ struct StatusInfoConverter {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let efstidsURL = input.appendingPathComponent("efstids.lub")
-        let stateiconimginfoURL = input.appendingPathComponent("stateiconimginfo.lub")
+        let efstidsURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "stateicon", "efstids.lub")
+        let stateiconimginfoURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "stateicon", "stateiconimginfo.lub")
 
         context.loadData(at: efstidsURL)
         context.loadData(at: stateiconimginfoURL)

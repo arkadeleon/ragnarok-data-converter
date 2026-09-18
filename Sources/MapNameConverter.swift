@@ -9,7 +9,7 @@ import Foundation
 
 struct MapNameConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
-        let url = input.appendingPathComponents(locale.path, "mapnametable.txt")
+        let url = input.appendingPathComponents(locale.path, "data", "mapnametable.txt")
         guard let string = try? String(contentsOf: url, encoding: .isoLatin1) else {
             return
         }

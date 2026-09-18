@@ -18,19 +18,19 @@ struct SkillInfoConverter {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let jobinheritlistURL = input.appendingPathComponent("jobinheritlist.lub")
+        let jobinheritlistURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "jobinheritlist.lub")
         context.loadData(at: jobinheritlistURL)
 
-        let skillidURL = input.appendingPathComponent("skillid.lub")
+        let skillidURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "skillid.lub")
         context.loadData(at: skillidURL)
 
-        let skillinfolistURL = input.appendingPathComponents(locale.path, "skillinfolist.lub")
+        let skillinfolistURL = input.appendingPathComponents(locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skillinfolist.lub")
         context.loadData(at: skillinfolistURL)
 
-        let skilldescriptURL = input.appendingPathComponents(locale.path, "skilldescript.lub")
+        let skilldescriptURL = input.appendingPathComponents(locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skilldescript.lub")
         context.loadData(at: skilldescriptURL)
 
-        let skillinfofURL = input.appendingPathComponent("skillinfo_f.lub")
+        let skillinfofURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "skillinfo_f.lub")
         context.loadData(at: skillinfofURL)
 
         try context.parse("""
