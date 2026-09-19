@@ -1,0 +1,77 @@
+%faf0e6
+^000088No importa quién seas: nuestra abundante cocina te llenará 
+sin importar si eres un hombre hambriento, un Poring o un Poporing.^000000
+
+Estos son los secretos de nuestra abundante cocina, las recetas de cocina de nivel 7.
+
+
+^ff0000Asado entero:^000000 ¡disfruta de esta picante carne asada!
+Ingredientes: ^4b008210 unidades de Carne, 1 Carbón encendido, 2 Carbones, 1 unidad de Salsa picante, 15 Troncos y 10 Hierbas blancas. ^000000
+Instrucciones: 
+	1. Lavar la Carne con agua corriente.
+	2. Cubrir bien la Carne con Salsa picante.
+	3. Picar las Hierbas blancas y esparcirlas sobre la Carne marinada.
+	4. Hacer fuego con el Carbón encendido y los Carbones.
+	5. Asar la Carne marinada sobre los Carbones.
+	6. Agregar más Salsa picante sobre la Carne varias veces mientras se asa.
+	7. Servir con las Hierbas blancas picadas esparcidas arriba.
+
+^0000ffTé de hierbas especial con jalea real:^000000 disfruta el dulce sabor de este té de hierbas especial con miel.
+Ingredientes: ^4b00824 unidades de Jalea real, 2 unidades de Miel, 5 Hierbas blancas, 10 Hojas de Hinalle y 1 Especia amarilla. ^000000
+Instrucciones: 
+esta receta es básicamente igual al plato de nivel 3, el Té de hierbas con miel, 
+pero se le agregan hierbas de mejor calidad, Hojas de Hinalle y Jalea real.
+
+
+^800000Pan mimalma:^000000 ¡cuidado! ¡Este pan podría robarte el alma con su sabor celestial!
+Ingredientes: ^4b008210 Panes, 5 Frutas de Mastela, 1 unidad de Salsa dulce, 5 Mentas, 5 Amuletos y 2 Manzanas inmaduras. ^000000
+Instrucciones:
+	1. Pelar las Frutas de Mastela y las Manzanas, y luego cortarlas en cubos pequeños.
+	2. Lavar las Mentas y molerlas para extraer el jugo. Mezclar el jugo de Menta con azúcar 
+con una proporción de 1 a 1.
+	3. Cubrir las Frutas de Mastela y las Manzanas con este jugo azucarado de Menta.
+	4. Refrigerar la mezcla durante 30 minutos.
+	5. Hervir la mezcla a temperatura alta hasta que burbujee.
+	6. Reducir a fuego medio, agregar azúcar y reducir hasta que se forme una mermelada.
+	7. Asegurarse de revolver la mermelada de forma constante mientras se reduce.
+	8. Machacar los Amuletos y mezclaros con la Salsa dulce. Refrigerar esta nueva mezcla 
+hasta que la mermelada esté lista.
+	9. Untar la mermelada y la Salsa dulce mezclada con Amuletos sobre rebanadas de pan y disfrutar.
+
+^008040Caimán al vapor con vegetales:^000000 carne tierna y chiclosa de cocodrilo al vapor 
+con verduras frescas.
+Ingredientes: ^4b008210 Pieles de Anolian, 10 Calabazas de Halloween, 10 Zanahorias, 10 Hojas de aloe, 
+10 Hierbas amarillas y 1 Especia amarilla. ^000000
+Instrucciones: 
+	1. Lavar la Piel de Anolian y amasarla mientras se la mezcla con sal, pimienta, agua 
+y la Especia amarilla.
+	2. Cortar las Zanahorias en rebanadas finas y largas. Cocer las Hojas de aloe y las Hierbas amarillas a medias, 
+y luego estrujarlas para que se sequen. Cortar las Calabazas de Halloween en rodajas finas, 
+freírlas y luego enfriarlas.
+	3. Extender un paño de algodón sobre un plato de madera grueso y colocar la Piel de Anolian amasada 
+sobre la tabla. Colocar el plato dentro de una vaporera y cocer al vapor durante 15 minutos.
+	4. Cortar la piel en bocados y servir con verduras.
+
+^ff8040Festín suntuoso:^000000 participa en este delicioso banquete preparado con ingredientes exclusivos.
+Ingredientes: ^4b008210 Colas de pescado, 5 Hojas de aloe, 10 Crines, 2 Pescados frescos, 10 unidades de Comida para mascotas 
+y 1 unidad de Salsa dulce. ^000000
+Instrucciones: 
+	1. Cocer las Hojas de aloe a medias en agua salada.
+	2. Quitarles las escamas a los Pescados frescos, cubrirlos con Salsa dulce y dejar reposar 
+durante 10 minutos.
+	3. Envolver los Pescados frescos marinados con las Hojas de aloe. Cocinar los pescados envueltos y 
+las Colas de pescado al vapor durante 10 minutos, y luego servirlos en un plato.
+	4. Cortar las Crines en piezas de 4 cm de largo y luego cocerlas a medias.
+	5. Cortar la Comida para mascotas en trozos y mezclarlos con la Salsa dulce.
+                    Asar la Comida para mascotas cortada en una sartén.
+         
+
+^400080Pincho surtido:^000000 ¡deliciosos pinchos preparados con carne, verduras y almejas!
+Ingredientes: ^4b008210 Corazas escamosas, 5 Branquias, 10 Hojas suaves de hierba, 5 unidades de Carne, 10 Hongos comestibles y 10 unidades de Carne de almeja. ^000000
+Instrucciones: 
+	1. Cortar las Hojas suaves de hierba en piezas de 4 cm de largo y cortar los Hongos comestibles en rodajas.
+	2. Lavar las Corazas escamosas y las espinas más largas de las Branquias con agua corriente fría.
+	3. Cocer la Carne y la Carne de almeja a medias.
+	4. Pinchar los ingredientes en las espinas largas de las Branquias: primero, pinchar la carne, luego las verduras 
+y, por último, la Carne de almeja.
+	5. Calentar las Corazas escamosas a fuego medio y colocar los pinchos sobre las corazas para que se cocinen.

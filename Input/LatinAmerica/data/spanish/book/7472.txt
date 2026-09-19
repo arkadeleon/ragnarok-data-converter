@@ -1,0 +1,59 @@
+%faf0e6
+^000088- Cuando te encuentres a solas en medio de la nada, no entres en pánico.
+¡Puedes sobrevivir con las recetas de este libro! -^000000
+
+¡Puedes hacerlo: cocina de nivel 1!
+
+^ff0000Patas de saltamontes fritas:^000000 no te preocupes, las Patas de saltamontes son bastante sabrosas 
+y no saltarán por todos lados una vez que estén fritas.
+Ingredientes: ^4b00825 Patas de saltamontes, 1 Sartén vieja y 1 Aceite de cocina. ^000000
+Instrucciones: 
+	1. Calentar la Sartén vieja a temperatura media. (Las sartenes nuevas tienden a absorber el aceite 
+y tardan más en calentarse. Si no se tiene una sartén usada, usar 
+grasa de Salvaje para curar una sartén nueva).
+	2. Agregar 2 cucharaditas de Aceite de cocina en la sartén y freír ligeramente 3 Patas de saltamontes.
+                   Cuando las patas se doren, agregar las otras 2 patas y 1 cucharadita 
+de Aceite de cocina, luego freír hasta que estén crujientes.
+
+^0000ffTé de hierbas con jugo de uva:^000000¡estará listo apenas mezcles las uvas con las pociones!
+Ingredientes: ^4b00823 Uvas y 2 Pociones rojas. ^000000
+Instrucciones: 
+	1. Moler 1 Uva y luego mezclarla con 1 Poción roja en una batidora.
+                    Aviso: No quitar las semillas ni la piel de la Uva. Una vez que se mezclen la Uva 
+y la Poción roja, agregar otra Poción roja a la batidora y luego 
+batir durante 10 segundos.
+
+
+
+^800000Zumo de uva con miel:^000000 ¡solo debes mezclar Miel y Uvas, y eso es todo!
+Ingredientes: ^4b00821 unidad de Miel, 2 Uvas y 1 Poción roja. ^000000
+Instrucciones: es la misma receta que para el Té de hierbas con jugo de uva, solo que se agrega miel 
+en lugar de Poción roja en el último paso.
+
+^008040Sopa de tinta de calamar con huevos de rana:^000000sopa a la que se le agrega un poco de saludable tinta de calamar.
+Ingredientes: ^4b00821 Bolsa de granos, 10 Huevos de rana y 1 unidad de Tinta de calamar. ^000000
+Instrucciones: 
+	1. Colocar los Huevos de rana en un cuenco con agua fría para aumentar su gomosidad y luego moler 
+los granos.
+	2. Mezclar los granos con agua y luego hervir la mezcla a fuego lento hasta que se vuelva espesa.
+   	3. Agregar los Huevos de rana a la mezcla hirviendo a fuego lento.
+	4. Cuando los Huevos de rana estén tiernos, agregar la Tinta de calamar como salsa y luego aumentar la temperatura 
+hasta que la mezcla hierva.
+          
+^ff8040Pinzas de cangrejo al vapor:^000000 ¡es divertido desgranar y comer cangrejos!
+Ingredientes: ^00804010 Pinzas, 10 Hierbas verdes y 1 Poción amarilla. ^000000
+Instrucciones:
+	1. Marinar las Pinzas en la Poción amarilla durante la noche anterior a cocinarlas.
+	2. Cubrir una vaporera con una tela de algodón limpia y luego agregar las Hierbas verdes 
+y las Pinzas marinadas.
+	3. Cocer las Pinzas al vapor hasta que color de la coraza sea de un rojo intenso.
+
+^400080Colas de mono fritas:^000000 quizás te preocupe que las colas de mono sean muy duras de masticar, 
+pero la verdad es que son fáciles de comer.
+Ingredientes: ^0080405 Colas de Yoyo, 1 Sartén vieja y 1 Aceite de cocina. ^000000
+Instrucciones: 
+	1. Pelar las Colas de Yoyo y cortarlas en trocitos.
+	2. Calentar la Sartén vieja a temperatura media, agregar Aceite de cocina y luego freír una pequeña cantidad 
+de las Colas de Yoyo. La carne quedará muy dura si se cocina toda 
+junta, así que se deben cocinar las colas en pequeñas porciones.
+          

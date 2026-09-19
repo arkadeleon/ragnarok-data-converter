@@ -34,12 +34,15 @@ Input/
   Thailand/       data/ System/                  → th
   Indonesia/      data/ System/                  → id
   Russia/         data/ System/                  → ru
-  Europe/         data/{german,spanish,french,italian,turkish}/ …
+  Europe/         data/{german,french,italian,turkish}/ …
                   data/luafiles514/{german,…}/lua files/ …
-                                                 → de, es, fr, it, tr
+                                                 → de, fr, it, tr
+  LatinAmerica/   System/spanish/ …
+                  data/spanish/LuaFiles514/lua files/ …
+                  data/MsgStringTable_ml.csv     → es
 ```
 
-Single-language clients keep everything in `data/` and `System/`. The euRO client ships one subdirectory per language with only the translated files, and falls back to the root of `data/` for the rest.
+Single-language clients keep everything in `data/` and `System/`. The euRO and latam clients ship one subdirectory per language with only the translated files, and fall back to the root of `data/` for the rest.
 
 ## Output
 

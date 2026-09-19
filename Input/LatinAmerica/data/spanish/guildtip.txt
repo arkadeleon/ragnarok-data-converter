@@ -1,0 +1,69 @@
+#
+[ Creación de Gremio ]
+ 1. Para crear un gremio, necesitas un Emperium.
+ 
+ 2. Si tienes un Emperium
+ puedes crear un gremio escribiendo
+ /guild "nombredelgremio" o pulsando
+ el botón 'Crear Gremio'.
+ 
+ 3. Presione Alt+G para acceder a la ventana
+ del gremio.
+#
+ 
+[ Información del Gremio ] 
+#
+ 1. Puedes ver el nombre del gremio, EXP, nivel,
+ emblema, nombre del líder, número de miembros,
+ nivel medio de los miembros, información del gremio rival.
+#
+ 
+ 2. Información de los miembros:
+ Puedes ver la información de los miembros del gremio.
+ Haciendo clic derecho, puedes expulsar a alguien 
+ del gremio o dejar el gremio.
+ Puedes dejar el gremio por ti mismo y
+ el líder del gremio puede echar a otros miembros del gremio.
+#
+ 
+ 3. Puesto:
+ Puede establecer la posición de los miembros del gremio y
+ establecer la contribución EXP del gremio.
+ La contribución de EXP puede fijarse en un máximo del 50%.
+ Si dejas el gremio, la EXP contribuida
+ será reseteada.
+ #
+ 
+ 4. Habilidad de Gremio:
+ 1 punto de habilidad puede ser ganado por cada
+ 1 nivel de gremio.
+ Esto se puede utilizar para subir de nivel
+ la habilidad de gremio.
+ #
+ 
+ 5. Historial de expulsiones:
+ Muestra la lista de miembros expulsados y la razón.
+ #
+ 
+ 6. Aviso del gremio:
+ Notificaciones para los miembros del gremio.
+#
+ 
+[ Crear y cambiar el emblema ]
+#
+ 1) Para crear un emblema, necesitas una imagen
+ bitmap de dimensiones 24x24 píxeles 256 colores.
+#
+ 
+ 2) Crea una carpeta Emblema dentro de la carpeta
+ del Ragnarok Online y
+ coloca la imagen del emblema.
+#
+ 
+ 3) Puedes aplicar el nuevo emblema en la
+ ventana de información del gremio.
+#
+ 
+ 4) Solo el líder del gremio puede cambiar el emblema
+ y este puede ser cambiado en cualquier momento.
+#

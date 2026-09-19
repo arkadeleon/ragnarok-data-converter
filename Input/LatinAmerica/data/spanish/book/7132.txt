@@ -1,0 +1,38 @@
+%faf0e6
+^000088Alquimia intermedia: Botella reluciente^000000
+
+
+----------------Prólogo--------------------
+
+
+La habilidad Capa energética del Mago que genera
+una capa de maná que protege a quien la lanza inspiró
+a los Alquimistas a desarrollar la Botella reluciente.
+La Botella reluciente se puede usar junto con las habilidades
+protectoras de un Alquimista que mejoran la protección
+y no se verá afectada por la mayoría de los factores externos.
+Sin embargo, estas capas artificiales pierden su eficacia
+de forma automática tras cierto límite de tiempo.
+ 
+------------------------------------------
+
+¿Qué es una ^400080Botella reluciente^000000?
+
+Una Botella reluciente es una sustancia suave y viscosa
+que puede cubrir objetos de forma segura para aumentar de forma temporal
+su resistencia al daño. Solo los Alquimistas más habilidosos
+pueden aplicar la Botella reluciente usando las habilidades
+de Yelmo bioquímico, Escudo sintetizado, Armadura sintética
+o Arma de alquimia.
+
+Materiales requeridos: ^4b00821 unidad de Alcohol, 1 Colmillo de Zenorc,
+1 Corazón de Obeaune y 1 Botella vacía.^000000
+
+Proceso: llenar a la mitad un Cuenco para medicina con Alcohol
+y luego agregar un Colmillo de Zenorc derretido. Lavar un Corazón de Obeaune
+y agregarlo a la mezcla de Colmillo de Zenorc y alcohol. Por último,
+usar la habilidad de Preparación de pociones para verter la solución
+en una Botella vacía. Tendrás que aprender habilidades especiales como
+Yelmo bioquímico, Escudo sintetizado, Armadura sintética
+y Arma de alquimia para lograr aplicarle
+la Botella reluciente al equipamiento.

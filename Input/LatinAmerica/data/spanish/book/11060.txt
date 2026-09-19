@@ -1,0 +1,225 @@
+^008040Sombrero de Mago mejorado [1]^000000
+Sombrero mágico de Hechicero talentoso. Parece raro, pero funciona bien. Remodelado para que su eficacia sea mayor.
+INT +2, PM +150.
+Cada nivel de refinamiento agrega ATQM +1.
+Cuando se refina a +7 o superior, cada nivel de refinamiento agrega INT +1.
+Clase de objeto: ^777777Yelmo^000000	Defensa: ^7777772^000000
+Ubicación: ^777777Superior ^000000 Peso: ^77777730^000000
+Nivel requerido: ^7777771^000000Clase: ^777777Mago/Vinculador de almas^000000
+Costo: 100 Cristales de energía en bruto
+
+^008040Sombrero de Mago mejorado [1]^000000
+Por arte de magia, de este Sombrero de Hechicero, puedes sacar un conejo de carne y hueso. Objeto muy firme y fuerte. Remodelado para que su eficacia sea mayor.
+DES +1, AGI +1, PM +50.
+Cada nivel de refinamiento agrega PM +5.
+Cuando se refina a +7 o superior, cada nivel de refinamiento agrega DES +1.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777776^000000
+Ubicación: ^777777Superior ^000000 Peso: ^77777750^000000
+Nivel requerido: ^77777750^000000 Clase: ^777777Mago/Acólito/Vinculador de almas^000000
+Costo: 100 Cristales de energía en bruto
+^008040Máscara de Kitsune mejorada^000000
+Una réplica de la máscara secreta de las tropas de Asesinos. Es resbaladiza. Remodelada para que su eficacia sea mayor.
+AGI +2, SUE +2.
+EVA perfecta +4 cuando el nivel de refinamiento es +7 o superior.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777772^000000
+Ubicación: ^777777Superior ^000000 Peso: ^77777730^000000
+Nivel requerido: ^7777771^000000 Clase: ^777777Todas, excepto Principiante^000000
+Costo: 100 Cristales de energía en bruto
+
+^008040Gorro de bufón mejorado [1]^000000
+Un gorro de aspecto extraño hecho para un payaso de circo. Remodelado para que su eficacia sea mayor.
+SUE +2, DEFM +5.
+Cuando se refina a +7 o superior, aumenta el daño crítico un 5 %.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777773^000000
+Ubicación: ^777777Superior ^000000 Peso: ^77777710^000000
+Nivel requerido: ^7777771^000000 Clase: ^777777Todas, excepto Principiante^000000
+Costo: 100 Cristales de energía en bruto
+
+
+^008040Vincha de orejas de conejo mejorada [1]^000000
+Un lazo para el cabello decorado con orejas de conejo. Parece bonita, pero es difícil mantenerla recta.
+Remodelado para que su eficacia sea mayor.
+SUE +2.
+Cuando se refina a +7 o superior, otorga CRÍT +5.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777773^000000
+Ubicación: ^777777Superior ^000000 Peso: ^77777710^000000
+Nivel requerido: ^7777771^000000 Clase: ^777777Todas^000000
+Costo: 100 Cristales de energía en bruto
+
+^008040Sombrero de Munak mejorado [1]^000000
+El sombrero del monstruo Munak. Es un sombrero grande con un amuleto anónimo. Remodelado para que su eficacia sea mayor.
+Reduce el daño de los monstruos Muertos vivientes un 10 %.
+Cuando se refina a +7 o superior, aumenta el daño contra los monstruos Muertos vivientes un 10 %.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777775^000000
+Ubicación: ^777777Superior, media, inferior ^000000 Peso: ^77777730^000000
+Nivel requerido: ^7777771^000000 Clase: ^777777Todas^000000
+Costo: 100 Cristales de energía en bruto
+
+^008040Sombrero de Bongun mejorado [1]^000000
+El monstruo Bongun solía llevar este sombrero con un amuleto en la punta.
+Muy firme y con una visión clara, ya que ahora el amuleto está hecho pedazos. Remodelado para que su eficacia sea mayor.
+Reduce el daño de los monstruos Demonios un 10 %.
+Cuando se refina a +7, aumenta el daño contra los monstruos Demonios un 10 %.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777775^000000
+Ubicación: ^777777Superior, media, inferior ^000000 Peso: ^77777730^000000
+Nivel requerido: ^7777771^000000 Clase: ^777777Todas^000000
+Costo: 100 Cristales de energía en bruto
+
+^008040Máscara del Fantasma de la Ópera^000000
+Una máscara que lleva el héroe oscuro de una triste historia de amor. Al mirarla, podrás sentir su tristeza.
+ATQ +5, ATQM +5.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777772^000000
+Ubicación: ^777777Media^000000 Peso: ^77777720^000000
+Nivel requerido: ^77777720^000000 Clase: ^777777Todas^000000
+Costo: 100 Cristales de energía en bruto
+
+
+^008040Binoculares avanzados^000000
+Unos lentes elegantes que sirven para ver a larga distancia. Fabricados con vidrio comprimido.
+DES +1, ataque a distancia +1 %.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777772^000000
+Ubicación: ^777777Media ^000000 Peso: ^77777710^000000
+Nivel requerido: ^77777750^000000 Clase: ^777777Arquero^000000
+Costo: 200 Cristales de energía purificados
+
+^008040Yelmo de aletas avanzado^000000
+Un yelmo con aspecto de aleta de pez que protege a los Espadachines. No se puede respirar bajo el agua con este yelmo.
+PVM +300, PVM adicionales otorgados según el nivel de base del personaje.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777775^000000
+Ubicación: ^777777Media ^000000 Peso: ^77777730^000000
+Nivel requerido: ^77777765^000000 Clase: ^777777Espadachín^000000
+Costo: 200 Cristales de energía purificados
+
+
+
+
+^008040Máscara de Asesino avanzada^000000
+Máscara oscura para Asesinos famosos. Usarla te tranquiliza.
+CRÍT +1, daño crítico +1 %.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777771^000000
+Ubicación: ^777777Inferior^000000 Peso: ^77777710^000000
+Nivel requerido: ^77777770^000000 Clase: ^777777Asesino/Sacerdote^000000
+Costo: 200 Cristales de energía purificados
+
+^008040Máscara de soldar avanzada^000000
+Máscara de acero. Fabricada con la utilidad como principal objetivo. Protege el rostro de cualquier tipo de impacto de fuego.
+Resistencia a la propiedad Fuego +10 %.
+DES +5, SUE +5.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777772^000000
+Ubicación: ^777777Media e inferior ^000000 Peso: ^77777730^000000
+Nivel requerido: ^77777750^000000 Clase: ^777777Comerciante^000000
+Costo: 200 Cristales de energía purificados
+
+
+
+^008040Anillo de seguridad avanzado [1]^000000
+Un anillo mágico que reduce el daño que recibe quien lo usa.
+DEF +10, DEFM +5, todas las estadísticas +1.
+Clase de objeto: ^777777Accesorio^000000 Defensa: ^7777770^000000
+Peso: ^77777710^000000 Nivel requerido: ^77777750^000000
+Clase: ^777777Todas, excepto Principiante^000000
+Costo: 200 Cristales de energía purificados
+
+^008040Protección angelical avanzada [1]^000000
+Túnica del ángel para Superprincipiantes. ¡Te envuelve como si estuviera hecha solo para ti!
+DEFM +30. Cuando se equipa combinada con Cárdigan angelical avanzado, otorga daño de la propiedad Neutral -5 %.
+^777777Bonificación del conjunto de objetos angelicales^000000: Protección, Reencarnación, Guardia, Cárdigan, Beso de ángel.
+PV +900, PM +100, probabilidad de lanzar Assumptio al recibir daño físico.
+Clase de objeto: ^777777Armadura^000000 Defensa: ^77777740^000000 Peso: ^77777760^000000
+Nivel requerido: ^77777799^000000 Clase: ^777777Principiante^000000
+Costo: 100 Cristales de energía purificados
+
+
+^008040Guardia angelical avanzada [1]^000000
+Escudo del ángel para Superprincipiantes. Contiene el poder sagrado de resistencia a los demonios.
+Reduce un 5 % el daño de los monstruos del tipo Demonio.
+Reduce un 5 % el daño de todos los ataques elementales, excepto los ataques de tipo Neutral.
+Todas las estadísticas +2 al equiparse con ^777777Reencarnación del ángel mejorada^000000.
+Clase de objeto: ^777777Escudo^000000 Defensa: ^77777730^000000
+Peso: ^77777740^000000 Nivel requerido: ^77777799^000000
+Clase: ^777777Principiante^000000
+Costo: 100 Cristales de energía purificados
+
+^008040Reencarnación del ángel avanzada [1]^000000
+Unas sandalias para el ángel guardián del Superprincipiante. Parece que esto aumenta la capacidad de salto.
+PVM +500, PMM +100.
+Cuando se combina con Beso de ángel avanzado, otorga ATQM +20.
+Clase de objeto: ^777777Calzado^000000 Defensa: ^7777778^000000
+Peso: ^77777730^000000 Nivel requerido: ^77777799^000000
+Clase: ^777777Principiante^000000
+Costo: 100 Cristales de energía purificados
+
+^008040Beso de ángel avanzado [1]^000000
+Un accesorio bendecido por el ángel guardián del Superprincipiante. Besado por un ángel.
+Índice de recuperación de PM +30 %.
+Cuando se combina con Cárdigan angelical avanzado, otorga ATQ +10.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777776^000000
+Ubicación: ^777777Superior ^000000 Peso: ^77777730^000000
+Nivel requerido: ^77777799^000000 Clase: ^777777Principiante^000000
+Costo: 100 Cristales de energía purificados
+
+^008040Corsario mejorado [1]^000000
+Un sombrero grande para un antiguo capitán pirata. El aspecto grotesco representa muy bien a su propio dueño.
+VIT +1, PVM +5 %.
+Cuando se refina a +7 o superior, otorga resistencia a la propiedad Neutral +1 %.
+Cuando se refina a +9 o superior, otorga PVM +3 %.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^77777710^000000
+Ubicación: ^777777Superior ^000000 Peso: ^77777750^000000
+Nivel requerido: ^77777799^000000 Clase: ^777777Todas, excepto Principiante^000000
+Costo: 300 Cristales de energía superiores
+
+^008040Yelmo de hueso mejorado [1]^000000
+Yelmo firme hecho de huesos. Es muy pesado, pero tiene un sólido índice de defensa.
+Aumenta el daño recibido de la propiedad Sombra un 15 %.
+Reduce el daño de la propiedad Neutral un 2 %.
+Cuando se refina a +7 o superior, reduce el daño de la propiedad Neutral un 2 %.
+Cuando se refina a +9 o superior, reduce el daño de la propiedad Neutral un 2 %.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^77777715^000000 Ubicación: ^777777Superior ^000000 Peso: ^77777780^000000
+Nivel requerido: ^77777770^000000 Clase: ^777777Espadachín/Comerciante^000000
+Costo: 300 Cristales de energía superiores
+
+^008040Yelmo de ángel mejorado [1]^000000
+Yelmo con alto índice de defensa y con una pluma de ángel. No se conoce quién es el creador.
+AGI +1, SUE +1, DEFM +3.
+Cuando se refina a +7 o superior, otorga AGI +2, SUE +2.
+Cuando se refina a +9 o superior, otorga Velocidad de ataque +1.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^77777710^000000
+Ubicación: ^777777Superior ^000000 Peso: ^777777160^000000
+Nivel requerido: ^77777799^000000 Clase: ^777777Segundas clases y clases superiores/Maestro de Taekwon/Vinculador de almas/Kagerou/Oboro^000000
+Costo: 300 Cristales de energía superiores
+^008040Sombrero del dios Sol mejorado [1]^000000
+Sombrero con alas doradas, un símbolo del gran dios Sol. No preguntes cómo caminar con semejante sombrero.
+FUE +3, INT +2, ATQ +10, ATQM +10.
+Cuando se refina a +7 o superior, otorga ATQ +15 y ATQM +15.
+Cuando se refina a +9 o superior, otorga ATQ +15 y ATQM +15.
+Clase de objeto: ^777777Yelmo^000000 Defensa: ^7777774^000000 
+Ubicación: ^777777Superior, media ^000000 Peso: ^777777240^000000
+Nivel requerido: ^77777799^000000 Clase: ^777777Segundas clases y clases superiores/Maestro de Taekwon/Vinculador de almas/Kagerou/Oboro^000000
+Costo: 300 Cristales de energía superiores
+
+^008040Calzado desparejo mejorado [1]^000000
+Unos zapatos de diseño extraño. Se nota la intención de hacer unos zapatos con mejor calidad que tuvo quien los creó.
+PVM/PMM +12 %.
+DEF/DEFM adicional según el índice de refinamiento.
+Clase de objeto: ^777777Calzado^000000 Defensa: ^77777713^000000
+Peso: ^77777750^000000 Nivel requerido: ^77777785^000000
+Clase: ^777777Segundas clases y clases superiores/Maestro de Taekwon/Vinculador de almas/Kagerou/Oboro^000000
+Costo: 300 Cristales de energía superiores
+^008040Anillo del Señor de la Llama mejorado^000000
+Anillo de poder del rey espíritu de Fuego. Una vez que se coloca, tu arma escupirá el sofocante poder del espíritu.
+Se combina muy bien con el objeto ^777777Anillo de resonancia bueno^000000.
+FUE +3, VIT +2, ATQ +20.
+Resistencia al daño de la propiedad Fuego +10 %.
+Cuando se inflige daño físico, lanza automáticamente varias habilidades.
+Cuando se equipa con Anillo de resonancia avanzado, aumenta la cantidad de habilidades que se lanzan automáticamente.
+Clase de objeto: ^777777Accesorio^000000 Defensa: ^7777770^000000 Peso: ^77777710^000000
+Nivel requerido: ^77777785^000000 Clase: ^777777Segundas clases y clases superiores/Maestro de Taekwon/Vinculador de almas/Kagerou/Oboro^000000
+Costo: 300 Cristales de energía superiores
+
+^008040Anillo de resonancia avanzado^000000
+Anillo faltante que hace juego con ^777777Anillo del Señor de la Llama avanzado^000000. Si se equipan juntos, se obtienen efectos adicionales para ambos anillos.
+AGI +3, VIT +1, DEFM +2, ATQM +10.
+Al recibir daño físico, lanza automáticamente varias habilidades.
+Clase de objeto: ^777777Accesorio^000000 Defensa: ^7777772^000000 Peso: ^77777710^000000 Nivel requerido: ^77777785^000000
+Clase: ^777777Segundas clases y clases superiores/Maestro de Taekwon/Vinculador de almas/Kagerou/Oboro^000000
+Costo: 300 Cristales de energía superiores.

@@ -1,0 +1,33 @@
+%faf0e6
+^000088Alquimia básica: creación de Botella de ácido^000000
+
+
+----------------Prólogo--------------------
+
+Descubrimos que podíamos elaborar cloruro
+de hidrógeno en ciertas condiciones mientras experimentábamos
+con Corazones inmortales. El ácido clorhídrico es una solución ácida
+potente con un alto grado de ionización: es tan ácida
+que puede fundir una roca y se debe manejar con las precauciones
+de seguridad adecuadas. En este libro, se detalla el proceso de elaboración
+del ácido clorhídrico para uso en Botellas de ácido.
+
+------------------------------------------
+
+
+¿Qué es el ^008040ácido clorhídrico^000000?
+
+El ácido clorhídrico es la solución acuosa
+del gas de cloruro de hidrógeno (HCI). Las Botellas de ácido que se usan
+en combate se llenan normalmente con ácido clorhídrico.
+
+Ingredientes: ^4b00821 Corazón inmortal y 1 Botella vacía.^000000
+
+Instrucciones: colocar el Corazón inmortal en un Cuenco
+para medicina y agregarle agua. Calentar el cuenco a baño maría
+manteniendo la temperatura del agua en 72 grados. Recolectar el gas
+del cuenco y destilarlo para elaborar el cloruro de hidrógeno.
+Llenar una Botella vacía con agua y combinarla con el cloruro
+de hidrógeno para formar el ácido. Lleva este libro contigo, consúltalo
+mientras reúnes los ingredientes y usa la habilidad de Preparación
+de pociones para poder crear las Botellas de ácido.

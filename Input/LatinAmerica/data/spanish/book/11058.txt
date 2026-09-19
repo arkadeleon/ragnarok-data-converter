@@ -1,0 +1,167 @@
+%faf0e6
+^4d4dffPoción roja para principiantes^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Preparación: 2 Hierbas rojas, 1 Manzana, una pequeña mente loca por las pociones.
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Cómo preparar: una vez que todos los ingredientes estén en el inventario, haz clic en “Kit de combinaciones”.>
+Cualquier Hierba roja que tengas sirve. Ya sea de la calle
+o que provenga de monstruos malvados, si tienes 2, está perfecto. La Manzana es un refrigerio.
+
+1. Preparar 2 Hierbas rojas.
+2. Frotarlas bien entre las manos (si tienes hambre, cómete la manzana).
+3. Si seguiste las instrucciones, saldrá jugo de la hierba y los restos te quedarán en las manos.
+4. Ah, espera, ¿te lavaste las manos?
+5. …Bueno, no podemos evitarlo, ya estamos en el baile.
+ * Importante: Junta las manos y reza para que eso que tienes en la mano sea una poción roja.
+
+
+^CD3278 Lupa de principiante^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Preparación: 3 buenos Bloques de madera, 1 Jellopy y manos habilidosas.
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Cómo preparar: una vez que todos los ingredientes estén en el inventario, haz clic en “Kit de combinaciones”.>
+Como si fueran míos desde el principio, los Bloques de madera tienen un buen agarre.
+El Jellopy que la luz del sol no puede atravesar… genera una hermosa armonía.
+
+1. Corta el buen Bloque de madera en la forma que quieras.
+2. Seguir cortando hasta que quede liso.
+-> Quizás el cliente diga: “Está bien, dámelo”.
+    En ese caso, puedes decirle: “Querido cliente, puedes pedirlo como quieras, pero…”.
+3. Llevó demasiado tiempo darle forma. Veamos el atardecer para descansar.
+4. Parece que nos olvidamos del espacio para el Jellopy en el paso 1, pero no importa.
+
+
+^4C1919 Ala de mosca de principiante^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Preparación: 2 Pelusas, 2 Plumas, 2 Jellopy, una mente de la que quieras alejarte "todo lo posible". 
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Cómo preparar: una vez que todos los ingredientes estén en el inventario, haz clic en “Kit de combinaciones”.>
+En algún lugar en el medio del desconocimiento y la vergüenza de la extraña combinación de Pelusas, Plumas y Jellopy.
+
+1. Había una vez 2 Pelusas.
+2. También había 2 Plumas.
+3. Un día, 2 Jellopy se llevaron las Plumas.
+4. Las Pelusas pusieron ?? en ••• de los Jellopy.
+5. Si te metes con las Pelusas, serás una ?.
+6. Ah, definitivamente ?.
+
+
+^231010Cúter de principiante^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Preparación: 10 Caparazones, 10 Caparazones de insectos, 1 Phracon, una mente que no quieras que muera a manos de los monstruos.
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+Cuando comienzas sin dinero, el arma que más utilizas es el Cúter de principiante.
+Es un buen objeto y es fácil de obtener.
+
+1. Colocar los 10 caparazones en orden.
+   Si alguien se equivoca con el orden durante el proceso, mantener la calma.
+2. En la línea del paso 1, colocar el Caparazón de insecto y el Phracon.
+3. Colocar las manos encima y dar un grito de concentración.
+
+
+ ^ff0000Si falla, repetir los pasos 1 a 3.^000000
+
+
+^006F61 Manzana inmadura que les gusta a los Poring principiantes^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Preparación: 1 Manzana, 1 Hierba verde, una mente que desee un milagro.
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+1. Lavar la Manzana y la Hierba verde con agua fría.
+2. Cubrir la Manzana con la Hierba verde.
+3. Sujetar con fuerza hasta que la Hierba verde se pegue bien a la Manzana.
+
+* Si no tienes el suficiente cuidado en el paso 3, la Hierba verde no se pegará a la Manzana de forma estable.
+ Mientras más desees, mayor será la probabilidad de que la mente de la Hierba verde se entregue a la Manzana.
+  Se puede soltar cuando la Hierba verde y la Manzana estén bien pegadas.
+
+
+
+
+
+^8B4513 Para terminar…
+
+Armamos este libro investigando y experimentando,
+
+enfrentando los fracasos, por nnn años.
+
+Aunque no se reconozca de forma oficial,
+
+igual nos sentimos afortunados de conocerlos a todos 
+
+a través del libro.^000000
+
+^0A6E0A Además, agregué un apéndice para los Principiantes que sueñan con llegar más lejos.^000000
+
+
+
+
+-	Espero que pronto puedan realizar su primer cambio de clase. ^8C4040 Poring de principiante^000000
+
+[Hacer el trébol de la suerte de cuatro hojas]
+^003A9D
+Ingredientes: 200 Tréboles, 200 Mocos pegajosos, 
+una medida de confianza en que puedes crear tu propia suerte.
+
+^000000
+Hacer el trébol en pares.
+
+1. Seleccionar un grupo de Tréboles y quitarles una hoja.
+2. Usando el Moco pegajoso, colocar la hoja en otro Trébol.
+   Tener cuidado al avanzar, te puede temblar la mano.
+3. Repetir los pasos 1 y 2 hasta completar con los ingredientes necesarios.
+4. Al repetir el proceso anterior, deberían tener al menos un Trébol listo.
+    (De no ser así, vayamos a buscar los ingredientes).
+
+Mostrarle el Trébol de cuatro hojas (falso) a un amigo.
+Si sospecha de la calidad, permitirle tirar de la hoja.
+… Antes de que sospeche más, debemos eliminarla enseguida.
+
+[Fruta saludable, jugo de verduras (serie de jugos)]
+^003A9D
+Ingredientes: Ingredientes para el jugo de banana: 1 Banana, 1 Leche, un poco de poder.
+ Ingredientes para el jugo de manzana: 1 Manzana, 1 Leche, un poco de poder.
+ Ingredientes para el jugo de zanahoria: 1 Zanahoria, 1 Leche, un poco de poder.
+ Ingredientes para el jugo de uva: 1 Uva, 1 Jugo de manzana, un poco de poder.
+
+^000000
+ Las proporciones del ingrediente principal (fruta) y los ingredientes secundarios no es de 1:1, sino de 1:0,2.
+ De los ingredientes secundarios, el 0,8 es un bocadillo para comer cuando te dé hambre.
+
+1. Machacar las frutas principales. De cualquier forma.
+2. Colocar la fruta machacada en la botella de leche en la que se debe dejar un poquito.
+    (Pero en el Jugo de uva se usa Jugo de manzana en lugar de leche).
+3. Colocarle bien la tapa y batir lo más fuerte posible.
+4. ¡Qué sabor tan delicioso! ¡¿Inesperadamente delicioso?!
+
+
+
+[¡A los Poring les encanta! Manzana inmadura]
+^003A9D
+Ingredientes: 10 Mocos pegajosos, 20 Hierbas verdes, 10 Manzanas, Mano del sol.
+      
+ ^000000
+1. Cortar las Hierbas verdes.
+2. Amontonar los trozos de Hierba verde y el Moco pegajoso.
+3. Es algo pegajoso, pero hay que tener paciencia y seguir adelante.
+4. Cuando ya no esté tan pegajoso, hacer un agujero en el medio y colocar la manzana.
+-> Las otras 9 Manzanas son un regalo para ti.
+5. Colocar la Manzana y cubrirla con masa hasta que no se vea la manzana.
+6. Darle forma redonda.
+7. Colocar la Manzana inmadura terminada en el árbol de manzanas.
+8. Si viene un pájaro y se la come, está bien.
+9. Ahora hay que dársela a los Poring.

@@ -1,0 +1,39 @@
+%faf0e6
+^000088- Receitas culinárias de nível 9 -^000000
+                                              ^800000Por Charles Orleans^000000
+
+^ff0000Saté de Tendões:^000000 FOR +9.
+Ingredientes:
+        ^0000ff1 Tendões, 1 Panela, 1 Queijo, 1 Molho Picante,^000000
+        ^0000ff1 Carvão, 1 Erva Verde, 1 Tinta de Polvo^000000			
+
+^0000ffTristam 12 Anos:^000000 INT +9.
+Ingredientes:
+        ^0000ff1 Folha de Yggdrasil, 1 Laranja, 1 Álcool, 1 Geleia Real,^000000
+        ^0000ff1 Poção Azul, 1 Condimento Amarelo, 1 Folha de Aloe^000000			
+
+^800000Suco de Frutas Divino:^000000 DES +9.
+Ingredientes:
+        ^0000ff1 Maçã Verde, 1 Morango, 1 Condimento Vermelho,^000000
+        ^0000ff1 Banana Tropical, 1 Suco de Uva, 1 Álcool, 1 Laranja^000000
+
+
+^008040Cozidão de Carne:^000000 AGI +9.
+Ingredientes:
+        ^0000ff1 Carne, 1 Geleia Real, 1 Broto, 1 Molho Saboroso,^000000
+        ^0000ff1 Erva Amarela, 1 Erva Branca, 1 Erva Vermelha^000000		
+		
+^ff8040Sopa de Dragão:^000000 VIT +9.
+Ingredientes:
+        ^0000ff1 Pele de Dragão, 1 Cauda de Dragão, 1 Folha de Yggdrasil, 1 Geleia Real, ^000000
+        ^0000ff1 Molho Picante, 1 Condimento Vermelho, 1 Minhoca Gorducha^000000	
+
+^400080Refrigerante Sangrento:^000000 SOR +9.
+Ingredientes:
+        ^0000ff1 Sangue de Animal, 1 Analgésico, 1 Aloe Vera, 1 Álcool,^000000
+        ^0000ff1 Geleia Real, 1 Condimento Vermelho e 1 Suco de Maçã^000000	
+		
+^400080Rodízio Nível 9:^000000 Todos os atributos +9.
+Ingredientes:
+        ^0000ff1 Saté de Tendões, 1 Tristam 12 Anos, 1 Cozidão de Carne,^000000
+        ^0000ff1 Suco de Frutas Divino, 1 Sopa de Dragão, 1 Refrigerante Sangrento^000000			

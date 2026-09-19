@@ -1,0 +1,41 @@
+%faf0e6
+^000088Alquimia básica: creación de Botella de fuego^000000
+
+
+----------------Prólogo--------------------
+
+El público usó el libro que detalla el proceso
+de elaboración de alcohol de varias formas
+una vez que tuvieron acceso a él. El ejército
+incorporó el proceso de elaboración
+de alcohol para desarrollar el proceso de elaboración
+de la Botella de fuego que se detalla
+en este libro. Las Botellas de fuego se desarrollaron
+para los militares: esta información se considera
+altamente peligrosa, así que no divulgar
+este libro al público en aras de prevenir
+desastres similares al fiasco del alcohol.
+
+------------------------------------------
+
+
+
+¿Qué es una ^0000ffBotella de fuego^000000?
+
+En su forma más simple, una Botella de fuego
+es una botella de vidrio que contiene gasolina.
+
+
+
+Ingredientes: ^4b00821 Alcohol, 1 Tela y 1 Botella vacía.^000000
+
+Instrucciones: 
+verter el alcohol con cuidado en un Cuenco para medicina
+y exponerlo al aire para que se oxide. Llenar una Botella vacía
+con el alcohol oxidado y colocar la Tela
+en la Botella de forma que una mitad se empape de alcohol
+y la otra mitad quede fuera de la Botella. Hacer un nudo
+en la Tela cerca de la abertura de la Botella para asegurar
+que el alcohol no se derrame. Lleva este libro contigo, consúltalo
+mientras reúnes los ingredientes y usa la habilidad de Preparación
+de pociones para poder crear las Botellas de fuego.

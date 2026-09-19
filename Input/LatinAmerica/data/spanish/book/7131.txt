@@ -1,0 +1,33 @@
+%faf0e6
+^000088Alquimia básica: creación de Esfera marina^000000
+
+
+----------------Prólogo--------------------
+Descubrimos un monstruo que se llama Esfera marina
+mientras explorábamos Izlude. Flota en paz en el agua,
+pero explota si algo entra en contacto
+con ella. Ideamos una forma para que pueda sobrevivir
+fuera del agua y moverse por el aire, y desarrollamos
+un método para que se pueda convertir a través de la alquimia
+en una botella. Creemos que usar las Esferas marinas
+como bombas podría ser útil para que los Alquimistas se defiendan
+de los enemigos hostiles.
+------------------------------------------
+
+¿Qué es una ^400080Esfera marina^000000?
+
+Las Esferas marinas son bombas vivientes que explotan
+si algo las toca. Se pueden transformar
+para poder ser embotelladas, pero se deben manejar
+con las precauciones de seguridad adecuadas. Los Alquimistas también deben
+aprender la habilidad Invocar a Esfera marina
+para regresar las botellas de Esferas marinas
+a su forma original.
+
+Ingredientes: ^4b00821 Detonador, 1 Tendón y 1 Botella vacía.^000000
+
+Instrucciones: colocar el Detonador y el Tendón
+en un Cuenco para medicina y usar la habilidad de Preparación de pociones
+mientras se usa este libro de referencia. Debes aprender la habilidad
+Invocar a Esfera marina si quieres que salga
+una Esfera marina viva de la botella.

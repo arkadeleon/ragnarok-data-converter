@@ -1,0 +1,35 @@
+%faf0e6
+^000088Alquimia básica: creación de Botella de planta carnívora^000000
+
+
+----------------Prólogo--------------------
+Usar la alquimia para darle forma y moldear seres biológicos
+es muy difícil y se considera una ciencia avanzada.
+Cuando realizamos experimentos de cambio de forma en plantas,
+no logramos transformar ninguna, ya que eran muy débiles
+como para sobrevivir a cualquier cambio alquímico. Justo antes de decidirnos a abandonar
+esta investigación, descubrimos que las plantas
+carnívoras que están cerca del monte Mjolnir y Juno son increíblemente resistentes
+y pueden soportar la transformación alquímica. Este libro detalla
+el proceso de transformación de las plantas carnívoras para ser embotelladas.
+------------------------------------------
+
+
+
+
+¿Qué es una ^ff8040Botella de planta carnívora^000000?
+
+Las Botellas de planta carnívora son plantas carnívoras sometidas
+a un proceso alquímico para transformarlas y que se puedan
+trasladar en botellas. Al arrojar esta botella al suelo,
+aparecerá un monstruo Planta maduro que atacará
+a otras criaturas. Los Alquimistas deben conocer la habilidad Invocar a Flora
+para poder transformar las Botellas de plantas carnívoras en plantas carnívoras.
+
+
+Ingredientes: ^4b00822 Flores carnívoras y 1 Botella vacía.^000000
+
+Instrucciones: colocar dos Flores carnívoras en un Cuenco
+para medicina y luego usar la habilidad de Preparación de pociones
+mientras se usa este libro de referencia. Debes aprender la habilidad Invocar a Flora
+para volver a transformar las botellas de plantas en plantas carnívoras.

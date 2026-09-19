@@ -24,6 +24,7 @@ struct Convert: ParsableCommand {
         try convertInternational()
         try convertJapan()
         try convertKorea()
+        try convertLatinAmerica()
         try convertRussia()
         try convertTaiwan()
         try convertThailand()
@@ -99,7 +100,6 @@ struct Convert: ParsableCommand {
 
         let languages: [(Locale, String)] = [
             (.de, "german"),
-            (.es, "spanish"),
             (.fr, "french"),
             (.it, "italian"),
             (.tr, "turkish"),
@@ -258,6 +258,49 @@ struct Convert: ParsableCommand {
             from: .init(directory: root.appendingPathIgnoringCase("data/luafiles514/lua files/stateicon")),
             to: output, for: .ko
         )
+    }
+
+    /// The latam client is Portuguese at the root and keeps the other languages
+    /// under `System/spanish/…` and `data/spanish/LuaFiles514/…` (euRO style), while
+    /// message strings only exist in the multi-language CSV.
+    func convertLatinAmerica() throws {
+        let root = input.appendingPathIgnoringCase("LatinAmerica")
+
+        let languages: [(Locale, String, Int)] = [
+            (.es, "spanish", 9),
+        ]
+
+        for (locale, language, messageStringColumn) in languages {
+            let system = root.appendingPathIgnoringCase("System/\(language)")
+            let luaFiles = root.appendingPathIgnoringCase("data/\(language)/LuaFiles514/lua files")
+
+            try ItemInfoConverter().convert(
+                from: .lua(itemInfoURL: system.appendingPathIgnoringCase("iteminfo_new.lub")),
+                to: output, for: locale, encoding: .utf8
+            )
+            try MapInfoConverter().convert(
+                from: .lua(mapInfoURL: system.appendingPathIgnoringCase("mapInfo.lub")),
+                to: output, for: locale
+            )
+
+            var itemRandomOptionNameInput = ItemRandomOptionNameConverter.Input(directory: root.appendingPathIgnoringCase("data/luafiles514/lua files/datainfo"))
+            itemRandomOptionNameInput.addrandomoptionnametable = luaFiles.appendingPathIgnoringCase("datainfo/addrandomoptionnametable.lub")
+            try ItemRandomOptionNameConverter().convert(from: itemRandomOptionNameInput, to: output, for: locale)
+
+            try MessageStringConverter().convert(
+                from: .csv(msgStringTableURL: root.appendingPathIgnoringCase("data/MsgStringTable_ml.csv"), column: messageStringColumn),
+                to: output, for: locale
+            )
+
+            var skillInfoInput = SkillInfoConverter.Input(directory: root.appendingPathIgnoringCase("data/luafiles514/lua files/skillinfoz"))
+            skillInfoInput.skillinfolist = luaFiles.appendingPathIgnoringCase("skillinfoz/skillinfolist.lub")
+            skillInfoInput.skilldescript = luaFiles.appendingPathIgnoringCase("skillinfoz/skilldescript.lub")
+            try SkillInfoConverter().convert(from: skillInfoInput, to: output, for: locale)
+
+            var statusInfoInput = StatusInfoConverter.Input(directory: root.appendingPathIgnoringCase("data/luafiles514/lua files/stateicon"))
+            statusInfoInput.stateiconinfo = luaFiles.appendingPathIgnoringCase("stateicon/stateiconinfo.lub")
+            try StatusInfoConverter().convert(from: statusInfoInput, to: output, for: locale)
+        }
     }
 
     func convertRussia() throws {

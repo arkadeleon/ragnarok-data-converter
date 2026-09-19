@@ -1,0 +1,65 @@
+%faf0e6
+^000088Elaborar pociones especiales para mejorar
+la resistencia a las propiedades elementales.^000000
+
+
+----------------Prólogo--------------------
+Se puede aumentar, de forma temporal, la resistencia a las propiedades
+de los cuatro elementos básicos, Fuego, Agua, Viento y Tierra,
+usando catalizadores para elaborar pociones
+que brinden protección para cada elemento. Escribo
+este libro sobre la resistencia a las propiedades con el deseo
+de que mis principios y mi conocimiento de los cuatro elementos
+básicos ayude a los futuros Alquimistas.
+------------------------------------------
+
+
+¿Qué es una ^ff0000poción de resistencia a las propiedades^000000?
+
+
+Las pociones de resistencia a las propiedades aumentan, de forma temporal,
+la resistencia a un elemento, pero también reducen la resistencia
+al elemento opuesto de dicho elemento. Por ejemplo, las Pociones
+de Fuego pueden reducir el daño de la propiedad Fuego, pero también
+aumentan el daño de la propiedad Agua.
+
+
+^0000ffPoción de Fuego^000000: mejora la resistencia a la propiedad Fuego.
+Materiales requeridos: ^4b008222 Gorgueras,
+1 Gema roja y 1 Botella para pociones vacía.^000000
+Instrucciones: colocar las Gorgueras y la Gema roja
+en un Cuenco para medicina. Usar la habilidad de Preparación de pociones
+para que la gema comience a catalizar los demás
+ingredientes y luego verter la solución
+en una Botella para pociones vacía.
+
+^800000Poción de Agua^000000: mejora la resistencia a la propiedad Agua.
+Materiales requeridos: ^4b00823 Corazones de Obeaune,
+1 Gema azul y 1 Botella para pociones vacía.^000000
+Instrucciones: colocar los Corazones de Obeaune y la Gema azul
+en un Cuenco para medicina. Usar la habilidad
+de Preparación de pociones para que la gema comience a catalizar
+los demás ingredientes y luego verter la solución
+en una Botella para pociones vacía.
+
+
+
+^008040Poción de Viento^000000: mejora la resistencia a la propiedad Viento.
+Materiales requeridos: ^4b00823 unidades de Polvo de polilla,
+1 Gema azul y 1 Botella para pociones vacía.^000000
+Instrucciones: colocar el Polvo de polilla y la Gema azul
+en un Cuenco para medicina. Usar la habilidad de Preparación de pociones
+para que la gema comience a catalizar
+los demás ingredientes y luego verter la solución
+en una Botella para pociones vacía.
+
+
+
+
+^ff8040Poción de Tierra^000000: mejora la resistencia a la propiedad Tierra.
+Materiales requeridos: ^4b00822 Jellopy grandes,
+1 Gema amarilla y 1 Botella para pociones vacía.^000000
+Instrucciones: colocar los Jellopy grandes y la Gema amarilla
+en un Cuenco para medicina. Usar la habilidad de Preparación de pociones para que la gema
+comience a catalizar los demás ingredientes y luego
+verter la solución en una Botella para pociones vacía.

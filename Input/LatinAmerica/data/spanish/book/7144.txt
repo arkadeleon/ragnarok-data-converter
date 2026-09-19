@@ -1,0 +1,97 @@
+%faf0e6
+^000088¿Puedo volverme casi autosuficiente
+si domino los conocimientos básicos de la elaboración de pociones?000000
+
+
+----------------Prólogo--------------------
+
+La elaboración de pociones se considera uno de los saberes
+básicos de la alquimia. Esta última edición detalla los procesos
+de elaboración de pociones que les permitirán a los Alquimistas restaurar
+sus PV, PM e incluso curar los estados anormales usando
+pociones creadas fácilmente por ellos mismos.
+
+------------------------------------------
+
+¿Qué es una ^ff0000poción^000000?
+
+Una poción es una dosis individual de medicina líquida
+o de veneno. La mayoría de las pociones se usan como medicina para restaurar
+los PV o los PM, curar estados anormales o mejorar el cuerpo humano
+de forma temporal. Este libro contiene instrucciones para elaborar pociones 
+rojas, amarillas, blancas y azules, anodina, aloe vera
+y embriones.
+
+^0000ffPoción roja^000000: recupera 45 PV.
+Ingredientes: ^4b00821 Hierba roja y 1 Botella para pociones vacía.^000000
+Instrucciones: preparar un Cuenco para medicina.
+          Triturar las hierbas en un cuenco.
+          Agregar agua potable de a poco y continuar triturando las hierbas.
+          Verter en una Botella para pociones vacía.
+          Para un método de elaboración simple, 
+preparar este libro y los ingredientes, y luego usar la habilidad Farmacia.
+
+
+^800000Poción amarilla^000000: recupera 175 PV.
+Ingredientes: ^4b00821 Hierba amarilla y 1 Botella para pociones vacía.^000000
+Instrucciones: preparar un Cuenco para medicina.
+          Triturar las hierbas en un cuenco.
+          Agregar agua potable de a poco y continuar triturando las hierbas.
+          Verter en una Botella para pociones vacía.
+          Para un método de elaboración simple, 
+preparar este libro y los ingredientes, y luego usar la habilidad Farmacia.
+
+
+^008040Poción blanca^000000: recupera 325 PV.
+Ingredientes: ^4b00821 Hierba blanca y 1 Botella para pociones vacía.^000000
+Instrucciones: Preparar un Cuenco para medicina.
+          Triturar las hierbas en un cuenco.
+          Agregar agua potable de a poco y continuar triturando las hierbas.
+          Verter en una Botella para pociones vacía.
+          Para un método de elaboración simple, 
+preparar este libro y los ingredientes, y luego usar la habilidad Farmacia.
+
+
+^ff8040Poción azul^000000: recupera 60 PM.
+Ingredientes: ^4b00821 Hierba azul, 1 Botella para pociones vacía y 1 Scell.^000000
+Instrucciones: preparar un Cuenco para medicina.
+          Triturar las hierbas en un cuenco.
+          Agregar agua potable de a poco y continuar triturando las hierbas.
+          Verter en una Botella para pociones vacía.
+          Para un método de elaboración simple, 
+preparar este libro y los ingredientes, y luego usar la habilidad Farmacia.
+
+
+^400080Anodina^000000: analgésico que alivia el dolor durante cierto tiempo.
+Ingredientes: ^4b00821 unidad de Alcohol, 1 Botella vacía y 1 Menta.^000000
+Instrucciones: preparar un Cuenco para medicina.
+          Triturar la Menta en un cuenco.
+          Agregar Alcohol de a poco y continuar triturando la Menta.
+          Verter en una Botella para pociones vacía.
+          Para un método de elaboración simple, 
+preparar este libro y los ingredientes, y luego usar la habilidad Farmacia.
+
+
+^008040Aloe vera^000000: reduce la defensa y aumenta los ataques durante cierto tiempo.
+Ingredientes: ^4b00821 Aloe, 1 Botella vacía y 1 unidad de Miel.^000000
+Instrucciones: preparar un Cuenco para medicina.
+          Triturar el Aloe con la Miel en un cuenco.
+          Agregar agua potable de a poco y continuar mezclando, luego verter en una Botella vacía.
+          Para un método de elaboración simple, 
+preparar este libro y los ingredientes, y luego usar la habilidad Farmacia.
+          (Lamentamos que la última vez haya habido una confusión entre el Aloe/Alcohol).
+
+^ff0000Embrión^000000: crea vida que tiene la forma embrionaria de algo.
+Ingredientes: ^4b00821 unidad de Rocío matutino de Yggdrasil, 1 Semilla de vida y 1 Olla de fuerza vital.^000000
+Instrucciones: preparar un Cuenco para medicina.
+          Colocar el Rocío de Yggdrasil y la Semilla de vida en un cuenco
+ y colocarlos en un tubo de vidrio usando la habilidad Farmacia.
+          Solo estará disponible después de estudiar Bioética.
+          Es muy peligroso y se debe estudiar bastante.
+
+^0000ffTableta de homúnculo^000000: suplementos para aumentar la intimidad de los homúnculos.
+Ingredientes: ^4b00821 Semilla de vida, 1 Hierba amarilla y 1 Botella vacía.^000000
+Instrucciones: preparar un Cuenco para medicina.
+          Triturar la Semilla de vida y la Hierba amarilla en un cuenco, 
+y luego batirlas en una Botella vacía usando la habilidad de Palmer.
+          Solo estará disponible después de estudiar Bioética.

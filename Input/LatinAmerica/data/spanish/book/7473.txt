@@ -1,0 +1,81 @@
+%faf0e6
+^000088- Comida igual a la de mamá, perfecta para curar un corazón roto y nostálgico… -^000000
+
+Estas recetas de nivel 2 podrían curar corazones rotos, aunque no restauren PV.
+
+^ff0000Pata palmípeda pegajosa sazonada:^000000 Patas palmípedas pegajosas, sabrosas y chiclosas, que no son tan pegajosas… 
+si las cocinas bien.
+Ingredientes: ^4b008220 Patas palmípedas pegajosas, 10 Hierbas verdes, 10 Hierbas amarillas, 1 Salsa sabrosa. ^000000
+Instrucciones:
+	1. Colocar las Patas palmípedas pegajosas en agua helada y picar las Hierbas verdes y las Hierbas amarillas.
+	2. Mezclar la mitad de las hierbas con algunas Patas palmípedas pegajosas.
+	3. Agregar la Salsa sabrosa y el resto de las hierbas picadas, y mezclar todo.
+	4. Asegúrate de mantener la comida refrigerada para mantener el sabor y la textura crujiente.
+
+^0000ffTé negro de otoño:^000000 disfruta de una taza de té negro con galletas y tarta.
+Ingredientes: ^4b00825 Hierbas azules, 10 Hierbas rojas y 10 Hierbas amarillas. ^000000
+Instrucciones: 
+	1. Secar y luego fermentar todas las hierbas.
+	2. Hervir agua en un tetera.
+	3. Agregar las hierbas a la tetera, cerrar bien la tapa y calentar durante 2-3 minutos.
+                    Si las hierbas se hierven durante demasiado tiempo, el té tendrá un sabor amargo.
+	4. Disfruta del té con leche, limón o lo que prefieras.
+
+
+^800000Tarta de mousse de chocolate:^000000 prueba el sabor celestial de la deliciosa tarta de mousse de chocolate.
+Ingredientes: ^4b008210 unidades de Cacao, 1 Trozo de pastel, 1 unidad de Leche y 1 Plato de porcelana.
+Instrucciones: 
+	1. Moler el Cacao.
+	2. Batir el polvo de Cacao y la leche para preparar un mousse de chocolate.
+	3. Quitar la cobertura del Trozo de pastel y dejar solo el pastel esponjoso.
+                    Te puedes comer la cobertura si lo deseas.
+	4. Cubrir la tarta esponjosa con el mousse de chocolate y refrigerar 
+hasta que el chocolate se endurezca.
+	5. Servir la tarta sobre el plato de porcelana.
+
+^008040Tallarines ricos:^000000Solo quienes sepan usar los palillos chinos pueden disfrutar los tallarines sin frustración.
+Ingredientes: ^4b00821 Bolsa de granos, 1 Salsa sabrosa, 5 Calabazas de Halloween y 3 Zanahorias. ^000000
+Instrucciones: recuerda que los tallarines son la esencia de la receta.
+	1. Moler los granos hasta obtener una harina rica en proteínas.
+	2. Mezclar la harina con agua fría y luego amasar.
+	3. Estirar la masa a lo largo y doblarla en varias capas 
+hasta que sea flexible, pero firme.
+	4. Cortar la masa en finas tiras para hacer los tallarines.
+	5. Refrigerar los tallarines durante una noche para que sean suaves y chiclosos.
+	6. Cortar una Calabaza de Halloween a la mitad y vaciarla. Se usará la cáscara de la calabaza 
+como cuenco para los tallarines.
+	7. Cocer al vapor 4 Calabazas de Halloween. Darles golpecitos suaves a las calabazas y luego estrujarlas 
+hasta que las fibras de la pulpa queden filiformes.
+	8. Cortar la zanahorias en rodajas y freírlas un poco.
+	9. Hervir los tallarines a temperatura alta. Si el agua hierve, verter una taza de agua fría 
+y volver a hervir.
+	10. Cuando los tallarines estén cocidos, colar el agua y luego lavar los fideos 
+en agua fría para que tengan una textura más chiclosa.
+	11. Colocar los tallarines hervidos y la pulpa de calabaza filiforme en el cuenco de calabaza 
+y verter caldo de anchoas hasta cubrir los tallarines y la pulpa.
+	12. Esparcir las rodajas de zanahoria fritas encima y servir.
+          
+
+^ff8040Surtido de mariscos:^000000 una variedad de mariscos frescos.
+Ingredientes: ^4b008210 unidades de Carne de almeja, 5 Branquias, 5 Aletas y 1 Pescado fresco. ^000000
+Instrucciones: 
+	1. Cocer la Carne de almeja y el Pescado fresco al vapor durante unos minutos, y luego cortarlos 
+en bocados.
+	2. Retirar las espinas de las Branquias con una pinza, cocer las Branquias al vapor durante unos minutos, y luego 
+cortarlas en trocitos.
+	3. Cocer las Aletas a medias.
+	4. Extender las Aletas cocidas a medias y agregar los demás ingredientes encima de las Aletas.
+	5. Doblar cada Aleta tres veces como abanico.
+
+^400080Mezcla de zumos:^000000¡Prueba el sabor singular de la mezcla de zumos frutales!
+Ingredientes: ^4b00823 unidades Zumo de manzana, 2 unidades de Zumo de zanahoria, 1 unidad de Zumo de uva y 2 unidades de Zumo de naranja. ^000000
+Instrucciones: el sabor de este zumo depende de las proporciones de cada ingrediente y el orden 
+en el que se mezclan.
+
+	El Zumo de zanahoria es el ingrediente principal y el sabor varía según las proporciones 
+de zumos con los que se mezcla. Si se prefiere que el zumo sea dulce 
+y ácido, se recomienda agregarle Zumo de manzana, Zumo de naranja y luego 
+Zumo de uva en ese orden. Para obtener un zumo más dulce, mezclar el Zumo de uva, 
+el Zumo de manzana y luego el Zumo de naranja en ese orden. Se pueden probar diferentes mezclas 
+de estos cuatro zumos diferentes para descubrir sabores nuevos y únicos. ¡La mezcla correcta 
+podría llevarte a un nuevo mundo de sabor!

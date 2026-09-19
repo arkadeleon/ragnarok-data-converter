@@ -1,0 +1,1814 @@
+4001#De la suerte#
+4002#Vital#
+4003#Duro#
+4004#De destreza#
+4005#Santificado#
+4006#De la suerte#
+4007#Observador#
+4008#Extra#
+4009#De luz#
+4010#Sabio#
+4011#Dinámico#
+4012#Rígido#
+4013#Excelente#
+4014#de Campeón#
+4015#Ligero#
+4016#Trepidante#
+4017#Aturdidor#
+4018#Inteligente#
+4019#Mártir#
+4020#Parpadeante#
+4021#Hábil#
+4022#de Espora#
+4023#del desierto#
+4024#Somnoliento#
+4025#Entusiasta#
+4026#Astuto#
+4027#Atlético#
+4028#De doble fuerza#
+4029#De lobezno#
+4030#Ventiscoso#
+4031#de Ares#
+4032#de Atenea#
+4033#De desintoxicación#
+4034#De astucia#
+4035#Sangriento#
+4036#Robusto#
+4037#Intocable#
+4038#de salud#
+4039#de Aristóteles#
+4040#Teletransportador#
+4041#de Hombre de arena#
+4042#de Heman#
+4043#Huracanado#
+4044#De ocultamiento#
+4045#Pesado#
+4046#de clérigo#
+4047#Fantasma#
+4048#Venenoso#
+4049#Inflamable#
+4050#de Hermes#
+4051#de destello#
+4052#Erudito#
+4053#Curativo#
+4054#Sagrado#
+4055#De hielo#
+4056#de calor#
+4057#Silenciador#
+4058#Craneal#
+4059#de cadi#
+4060#Clamoroso#
+4061#Inmortal#
+4062#De envenenamiento#
+4063#Insecticida#
+4064#Ágil#
+4065#Inframundano#
+4066#Brutal#
+4067#Atómico#
+4068#Químico#
+4069#del Sahara#
+4070#de Bruja#
+4071#Angelical#
+4072#Sólido#
+4073#De descuento#
+4074#de gargantúa#
+4075#Hipnótico#
+4076#Maldecido#
+4077#Bajo un hechizo#
+4078#de recuperación#
+4079#de empoderamiento#
+4080#De pesca#
+4081#Glorioso#
+4082#Gigante#
+4083#de Homero#
+4084#Detonante#
+4085#Endemoniado#
+4086#Crítico#
+4087#De orden#
+4088#De guardia#
+4089#De Aqua#
+4090#Amuleto#
+4091#de contraataque#
+4092#Esquelético#
+4093#De cura#
+4094#De tirano#
+4095#De Genio#
+4096#De envenenador#
+4097#Verde#
+4098#de Zephyrus#
+4099#de Ifrit#
+4100#De alma encantada#
+4101#de Gnomo#
+4102#Burlón#
+4103#Clarividente#
+4104#Del caos#
+4105#Descongelado#
+4106#Antiguo#
+4107#Plumoso#
+4108#Inofensivo#
+4109#Protector de llamas#
+4110#Viperino#
+4111#Decusata#
+4112#Inigualable#
+4113#de Fantasma#
+4114#Envenenador#
+4115#Malicioso#
+4116#Divino#
+4117#Híbrido#
+4118#Dragontino#
+4119#Maligno#
+4120#de Dragón#
+4121#Perfecto#
+4122#De Adurate#
+4123#Del portador#
+4124#Del yesero#
+4125#De Aqua#
+4126#Titánico#
+4127#Insomne#
+4128#de sordera#
+4129#de Pícaro#
+4130#Divino#
+4131#De velocidad#
+4132#de Gema#
+4133#De inmunidad#
+4134#Espiritual#
+4135#Espejado#
+4136#del infierno#
+4137#del infinito#
+4138#Satánico#
+4139#de luz de luna#
+4140#De liberación#
+4141#Mortal#
+4142#de Berserker#
+4143#Neutral#
+4144#de la eternidad#
+4145#de bocón#
+4146#Reflejo#
+4147#Guadaña#
+4148#de Kirin#
+4149#de la serenidad#
+4150#A prueba de hechizos#
+4151#Del portador del caos#
+4152#Brioso#
+4153#de Cáncer#
+4154#De dulce aroma#
+4155#De Duende mortal#
+4156#de llama fatal#
+4157#Perforante#
+4158#Diezmador#
+4159#De Luxe#
+4160#Superior#
+4161#Antimagia#
+4162#Sigiloso#
+4163#Salvaje#
+4164#De pescador#
+4165#de Insecto devorador de almas#
+4166#de infortunio#
+4167#de Bestia devoradora de almas#
+4168#de la perdición#
+4169#Del Maestro hechicero#
+4170#Solidificante#
+4171#De drenaje de almas#
+4172#Rebanador#
+4173#Hipnotizante#
+4174#Desviado#
+4175#De empuje#
+4176#Serpenteante fatal#
+4177#De piedra verde#
+4178#De Maestro arquero#
+4179#de calidad#
+4180#de Dragón devorador de almas#
+4181#Insonoro#
+4182#de Demonio devorador de almas#
+4183#De Hombre lobo#
+4184#Arrasador#
+4185#de sabiduría#
+4186#Extenuante#
+4187#de la noche espeluznante#
+4188#De piedra roja#
+4189#de desgracia#
+4190#de la última palabra#
+4191#de la Estigia#
+4192#de Piscis fatal#
+4193#de paciencia#
+4194#Abrumador#
+4195#De piedra azul#
+4196#de Jellopy#
+4197#Racha de suerte#
+4198#de Visión verdadera#
+4199#Elegante#
+4200#de resistencia mística#
+4201#Incapacitante#
+4202#de exorcismo#
+4203#Llameante#
+4204#De cazador furtivo#
+4205#Cúbico azul#
+4206#Cúbico#
+4207#Antipequeño#
+4208#Enérgico#
+4209#De violinista#
+4210#De presión#
+4211#De virtuoso#
+4212#de rebote#
+4213#de reticencia#
+4214#De antropofagia#
+4215#De racionamiento#
+4216#Congelante#
+4217#Rejuvenecedor#
+4218#De pesadilla#
+4219#De piedra mágica#
+4220#Fiel#
+4221#De coleccionista de insectos#
+4222#del sueño#
+4223#A prueba de aturdimiento#
+4224#Monzónico#
+4225#De honda#
+4226#Supremo#
+4227#De aroma ahumado#
+4228#de siesta#
+4229#de tormento#
+4230#De cobarde#
+4231#De carga#
+4232#Refrescante#
+4233#Con golpe de suerte#
+4234#de claridad#
+4235#Del Ángel caído#
+4236#Protector#
+4237#de la ira divina#
+4238#de doble poder#
+4239#De Cazador veterano#
+4240#A prueba de magia#
+4241#Milagroso#
+4242#De primera#
+4243#de fuga#
+4244#De Buscador#
+4245#de Asesino#
+4246#Fulminante#
+4247#De Estrella de mar#
+4248#De cruz resplandeciente#
+4249#De médico brujo#
+4250#Antienorme#
+4251#De la invasión#
+4252#De Trébol de cuatro hojas#
+4253#de la Guardia real#
+4254#Antimediano#
+4255#Impactante#
+4256#Deseable#
+4257#Alado#
+4258#Prodigio#
+4259#de la naturaleza#
+4260#Resistente a la confusión#
+4261#Resistente al sangrado#
+4262#Del cielo oscuro#
+4263#Con ansia de sangre desenfrenada#
+4264#Tronador#
+4265#del amanecer#
+4266#Resistente a la magia#
+4267#De Cazadragones#
+4268#De extensión#
+4269#Fantasmagórico#
+4270#de ponzoña#
+4271#De piedra amarilla#
+4272#Veloz#
+4273#Acorazado#
+4274#de Muerto viviente devorador de almas#
+4275#de Muerto viviente asesino#
+4276#Crucial#
+4277#Dominatriz#
+4278#de inmunidad mágica#
+4279#De Coleccionista de almas#
+4280#Bendito#
+4281#Diligente#
+4282#de embalse#
+4283#De esfera de maná#
+4284#de Keris#
+4285#De encantamiento élfico#
+4286#Aterrorizante#
+4287#Mágicamente protegido#
+4288#Del Maestro#
+4289#de Planta devoradora de almas#
+4290#Espejado#
+4291#De Kobold mortal#
+4292#De Planta mortal#
+4293#de azar#
+4294#Escurridizo#
+4295#de oscurecimiento#
+4296#Avaro#
+4297#De caza furtiva#
+4298#de desorden#
+4299#Del Guardián#
+4300#De carga venenosa#
+4301#Traumático#
+4302#De alto riesgo#
+4303#Místico#
+4304#De Maestro del escudo#
+4305#Explosivo#
+4306#Del Rey#
+4307#de Marino devorador de almas#
+4308#De drenaje de poder#
+4309#Reforzado#
+4310#Fatalmente maligno#
+4311#Antimaldad#
+4312#del alma#
+4313#Bogie#
+4314#A prueba de fuego#
+4315#de Maldición pétrea#
+4316#de Ángel devorador de almas#
+4317#Aural#
+4318#Del portador de tormentas#
+4319#Del Maestro espadachín#
+4320#Meteórico#
+4321#Polimórfico#
+4322#de represalia#
+4323#de escarcha#
+4324#Ártico#
+4325#Siniestro#
+4326#De aroma marino#
+4327#De flujo de hechizos#
+4328#Híper#
+4329#De obtención de almas#
+4330#Eliminador de maldiciones#
+4331#De evasión#
+4332#de talento#
+4333#de veneno caótico#
+4334#Antitirador#
+4335#De los Gnomos#
+4336#de vitalidad#
+4337#de gato salvaje#
+4338#de cambio vital#
+4339#de Muro de piedra#
+4340#de Réquiem#
+4341#De desarme#
+4342#De Mamut#
+4343#de Creador#
+4344#de valor#
+4345#De Sylph#
+4346#de cambio de poder#
+4347#De resistencia#
+4348#De Mafioso#
+4349#Antiflechas#
+4350#Ondina#
+4351#De nivel bajo#
+4352#de regeneración#
+4353#de rejuvenecimiento#
+4354#de estabilidad#
+4355#Saludable#
+4356#De cancelación mágica#
+4357#de Furia#
+4358#Apático#
+4359#de sombra#
+4360#Asesino#
+4361#de Hollgrehenn#
+4362#De golpe#
+4363#Defensor#
+4364#de sellado mágico#
+4365#de tempestad#
+4366#de lanzador#
+4367#de exprimidor#
+4368#Rápido#
+4369#de cambio de suerte#
+4370#Debilitador#
+4371#de Paladín#
+4372#De fuente vital#
+4373#Maldito#
+4374#de visión#
+4375#De nivel extra alto#
+4376#Lleno de maná#
+4377#Cariñoso#
+4378#De nivel bajo#
+4379#De nivel bajo#
+4380#De Salamandra#
+4381#de pensador#
+4382#de Erudito#
+4383#Caótico#
+4384#De devorador mágico#
+4385#De trago#
+4386#de refugio mágico#
+4387#de cambio de agilidad#
+4388#De almas#
+4389#Elemental#
+4390#Sangrante#
+4391#De refrigerio#
+4392#de cambio de destreza#
+4393#de cambio de inteligencia#
+4394#De cruz divina#
+4395#Primordial#
+4396#Aburrido#
+4397#De testarudo#
+4398#De la oscuridad#
+4399#De impregnación#
+4400#de la tentación#
+4401#Veloz#
+4402#Extraño#
+4403#de recarga#
+4404#de sangrado caótico#
+4405#de Espejo mágico#
+4406#Destellante#
+4407#de eliminación#
+4408#Del abismo#
+4409#Del pánico#
+4410#Loco#
+4411#De Arta#
+4412#Aria#
+4413#Resistente#
+4414#De Gorgona#
+4415#Azucarado#
+4416#de Yana#
+4417#de imperfección#
+4418#de granizo#
+4419#de Jack Escarcha#
+4420#de comodidad#
+4421#de Chinook#
+4422#Ventoso#
+4423#de Sharkia#
+4424#Pétreo#
+4425#Bestial#
+4426#Superador#
+4427#de fuerza#
+4428#de raquis#
+4429#de Nessus#
+4430#de Inferno#
+4431#Estigia#
+4432#Abrasador#
+4433#de Ignis#
+4434#De minero#
+4435#Escandaloso#
+4436#Lunático#
+4437#Rabioso#
+4438#Mental#
+4439#de Anatema#
+4440#de ignorancia#
+4441#Arrogante#
+4442#de cimientos#
+4443#del inframundo#
+4444#de Sahara#
+4445#de ventisca#
+4446#Afilado#
+4447#de Enveneno#
+4448#de los condenados#
+4449#de lo santificado#
+4450#Excedente#
+4451#de eje#
+4452#Mágico#
+4453#Violento#
+4454#Ceifadeiro#
+4455#Feya#
+4456#De Maestro hechicero#
+4457#Psíquico#
+4458#de la ilusión#
+4459#de celeridad#
+4460#de curación#
+4461#con Filo#
+4462#Con defensa de primera#
+4463#Con ofensiva de primera#
+4464#Fatal#
+4465#Magnífico#
+4466#De tiro recto#
+4467#Pesado#
+4468#De contaminación#
+4469#Marino#
+4470#Botanista#
+4471#Contra Dragones#
+4472#Carnívoro#
+4473#Contra Muertos vivientes#
+4474#Contra Semihumanos#
+4475#Intangible#
+4476#Entomológico#
+4477#Demoníaco#
+4478#Estranha Verdade#
+4479#Estranha Mentira#
+4480#de semirrecarga#
+4481#De semi Jack Escarcha#
+4482#de semirregeneración#
+4483#Semiespiritual#
+4484#de semigema#
+4485#Del semiabismo#
+4486#de semibocón#
+4487#De semi Inferno#
+4488#de la semiperdición#
+4489#do Místico Selado#
+4490#De semivelocidad#
+4491#de semiexprimidor#
+4492#do Herói Selado#
+4494#Semiexplosivo#
+4495#da Proteção Selada#
+4497#Del semiportador de tormentas#
+4498#da Magia Plena Selada#
+4499#Con media ansia de sangre desenfrenada#
+4500#Semiespejado#
+4501#De protección sellada#
+4502#De semi Holgren#
+4503#de semivisión#
+4504#Del semiportador#
+4505#de Bruja loca#
+4506#de Arquero#
+4507#De Scaraba#
+4508#de Berserker loco#
+4509#A prueba de insectos#
+4510#Oscurecedor#
+4511#De Silentium#
+4512#de Acólito#
+4513#de Ladrón#
+4514#Exorcizante#
+4515#De Flora#
+4516#de Muro de piedra#
+4517#de Mago#
+4518#Ardiente#
+4519#de serafín#
+4520#Gritón#
+4521#De golpe mortal#
+4522#Frío#
+4523#De Acuario#
+4524#de Espadachín#
+4525#Magnífico#
+4526#de Defensa mágica#
+4527#de Defensa#
+4528#De espíritus#
+4529#Físico#
+4530#de Comerciante#
+4531#Bajo maldición#
+4532#De aceleración#
+4533#Cegador#
+4534#De bomba de agua#
+4538#De media fuente vital#
+4539#Semiarrogante#
+4545#Principiante#
+4556#De protección de poder#
+4557#de poder de hechizos#
+4559#Blitz#
+4560#de Bragi#
+4561#de protección mágica#
+4562#de penetración#
+4563#de ácido#
+4564#de caballero#
+4565#de la Gran cruz#
+4566#de la fortuna#
+4567#de Bardo#
+4568#de la Gnosis#
+4569#de origen#
+4570#de recuperación rápida#
+4571#de unión#
+4572#de solidez#
+4573#de Bailarina#
+4574#De Maestro espadachín#
+4575#De atajo#
+4576#De deducción#
+4577#Psíquico#
+4578#De miedo#
+4579#Del Lucero del alba#
+4580#del Demonio#
+4581#Higiénico#
+4582#De resistencia#
+4583#de hierba venenosa#
+4584#Vampírico#
+4585#Maldito#
+4586#de viento#
+4587#Mutilador#
+4588#de poder#
+4589#de riqueza#
+4590#de impotencia#
+4591#de sangre#
+4592#de Maldición pétrea#
+4593#de Tirador#
+4594#de golpe letal#
+4595#de ácido#
+4596#de intelecto#
+4597#de agua#
+4598#de telequinesis#
+4599#de fuego#
+4600#de tierra#
+4601#de explosión#
+4602#de Furia#
+4603#de espíritu maligno#
+4604#de Dios maligno#
+4605#del hambre#
+4606#de venganza#
+4607#de bibliotecario#
+4608#de Caballero#
+4609#de Caballero#
+4610#de protección#
+4624#do Alto Risco Selado#
+4625#de sabio#
+4626#de eco#
+4627#Vibrante#
+4628#De horror invisible#
+4629#Escuálido#
+4630#Del guardián del tiempo#
+4631#de Mercurio#
+4632#Voltaico#
+4633#De ave reina#
+4634#Fatal#
+4635#Sólido#
+4636#De la Legión#
+4637#de drenaje#
+4638#A cuadros#
+4639#Forzudo#
+4640#De inteligencia#
+4641#de Reunión de almas#
+4642#do Escape#
+4643#da Ofensiva#
+4644#da Defensiva#
+4645#da Saúde#
+4646#do Híbrido#
+4647#Inesquecível#
+4648#Provocante#
+4649#Atacante#
+4650#Atordoante#
+4651#do Baixo Risco#
+4652#De castigo#
+4653#De Animales muertos vivientes#
+4654#De Saqueador de tumbas#
+4655#De Sepulturero#
+4656#Hipnotizador#
+4657#En llamas#
+4658#De hechicería#
+4659#De trotamundos#
+4660#De voluntad fuerte#
+4661#De dureza#
+4662#Trinitario#
+4663#Bonito#
+4664#Puro#
+4665#De miel#
+4666#De azúcar#
+4667#Del despertar#
+4668#Sedoso#
+4669#De ráfaga#
+4670#De brasa#
+4671#de Conjurador#
+4672#de Sura#
+4673#de Maestro#
+4674#de Cortador de cruces#
+4675#de Arzobispo#
+4676#de Errante#
+4677#de Mecánico#
+4678#de Brujo#
+4679#de Caballero rúnico#
+4680#de la Guardia real#
+4681#de Genetista#
+4682#de Perseguidor de sombras#
+4683#de Nómada#
+4684#Cruzado#
+4685#De Adoramus#
+4686#Carmesí#
+4687#Conjunto#
+4688#De tormenta de poder#
+4689#Ígneo#
+4690#De impulso#
+4691#De neo tormenta#
+4692#De Estocada divina#
+4693#De explosiones#
+4694#Señuelo#
+4695#De Lluvia fuerte#
+4696#De Reverberación#
+4697#De sobrecarga#
+4698#de búmeran#
+4699#de cañón doble#
+4700#(FUE +1)#
+4701#(FUE +2)#
+4702#(FUE +3)#
+4703#(FUE +4)#
+4704#(FUE +5)#
+4705#(FUE +6)#
+4706#(FUE +7)#
+4707#(FUE +8)#
+4708#(FUE +9)#
+4709#(FUE +10)#
+4710#(INT +1)#
+4711#(INT +2)#
+4712#(INT +3)#
+4713#(INT +4)#
+4714#(INT +5)#
+4715#(INT +6)#
+4716#(INT +7)#
+4717#(INT +8)#
+4718#(INT +9)#
+4719#(INT +10)#
+4720#(DES +1)#
+4721#(DES +2)#
+4722#(DES +3)#
+4723#(DES +4)#
+4724#(DES +5)#
+4725#(DES +6)#
+4726#(DES +7)#
+4727#(DES +8)#
+4728#(DES +9)#
+4729#(DES +10)#
+4730#(AGI +1)#
+4731#(AGI +2)#
+4732#(AGI +3)#
+4733#(AGI +4)#
+4734#(AGI +5)#
+4735#(AGI +6)#
+4736#(AGI +7)#
+4737#(AGI +8)#
+4738#(AGI +9)#
+4739#(AGI +10)#
+4740#(VIT +1)#
+4741#(VIT +2)#
+4742#(VIT +3)#
+4743#(VIT +4)#
+4744#(VIT +5)#
+4745#(VIT +6)#
+4746#(VIT +7)#
+4747#(VIT +8)#
+4748#(VIT +9)#
+4749#(VIT +10)#
+4750#(SUE +1)#
+4751#(SUE +2)#
+4752#(SUE +3)#
+4753#(SUE +4)#
+4754#(SUE +5)#
+4755#(SUE +6)#
+4756#(SUE +7)#
+4757#(SUE +8)#
+4758#(SUE +9)#
+4759#(SUE +10)#
+4760#(DM +1%)#
+4761#(DM +2%)#
+4762#(EVA +6)#
+4763#(EVA +12)#
+4764#(CRIT +5)#
+4765#(CRIT +7)#
+4766#(DF +2%)#
+4767#(DF +3%)#
+4786#(DEFM +2)#
+4787#(DEFM +4)#
+4788#(DEFM +6)#
+4789#(DEFM +8)#
+4790#(DEFM +10)#
+4791#(DEF +3)#
+4792#(DEF +6)#
+4793#(DEF +9)#
+4794#(DEF +12)#
+4795#(HP +100)#
+4796#(HP +200)#
+4797#(HP +300)#
+4798#(HP +400)#
+4799#(HP +500)#
+4800#(SP +50)#
+4801#(SP +100)#
+4802#(SP +150)#
+4803#(Cura 1)#
+4804#(Catolicismo)#
+4805#(AZ 1)#
+4806#(DM +3%)#
+4807#(VELA +1)#
+4808#(EL 4)#
+4809#(EL 3)#
+4810#(EL 2)#
+4811#(EL 1)#
+4812#(H 4)#
+4813#(H 3)#
+4814#(H 2)#
+4815#(H 1)#
+4816#(FI 3)#
+4817#(FI 2)#
+4818#(FI 1)#
+4819#(DF +1%)#
+4820#(EL 5)#
+4821#(EL 6)#
+4822#(EL 7)#
+4823#(EL 8)#
+4824#(EL 9)#
+4825#(EL 10)#
+4826#(H 5)#
+4827#(H 6)#
+4828#(H 7)#
+4829#(H 8)#
+4830#(H 9)#
+4831#(H 10)#
+4832#(AE 1)#
+4833#(AE 2)#
+4834#(AE 3)#
+4835#(AE 4)#
+4836#(AE 5)#
+4837#(AE 6)#
+4838#(AE 7)#
+4839#(AE 8)#
+4840#(AE 9)#
+4841#(AE 10)#
+4842#(VELA +2)#
+4843#(FI 4)#
+4844#(FI 5)#
+4848#(RN5)#
+4849#(RH5)#
+4850#(AZ 2)#
+4851#(AZ 3)#
+4852#(AZ 4)#
+4853#(S.FUE)#
+4854#(S.AGI)#
+4855#(S.VIT)#
+4856#(S.INT)#
+4857#(S.DES)#
+4858#(S.SUE)#
+4859#(EVA +1)#
+4860#(EVA +3)#
+4861#(HP +1%)#
+4862#(HP +2%)#
+4863#(F 1)#
+4864#(F 2)#
+4865#(F 3)#
+4866#(F 4)#
+4867#(HP +3%)#
+4868#(HP +4%)#
+4869#(VELA +4%)#
+4870#(SP +25)#
+4871#(SP +75)#
+4872#(VELA +6%)#
+4873#(VELA +8%)#
+4875#(G.FUE)#
+4876#(G.INT)#
+4877#(G.AGI)#
+4878#(G.VIT)#
+4879#(G.DES)#
+4880#(G.SUE)#
+4881#(VELA +10%)#
+4882#(ATQ +1%)#
+4883#(ATQM +1%)#
+4884#(PREC +1)#
+4885#(PF 1)#
+4886#(PF 2)#
+4887#(PF 3)#
+4888#(PF 4)#
+4889#(PF 5)#
+4890#(DEFM +1)#
+4891#(DEFM +3)#
+4892#(DEFM +5)#
+4893#(DEF +15)#
+4894#(ATQ +4%)#
+4895#(ATQ +5%)#
+4896#(ATQM +2%)#
+4897#(ATQM +3%)#
+4898#(ATQM +4%)#
+4899#(ATQM +5%)#
+4900#(HP +5%)#
+4902#(DEF +18)#
+4903#(DEF +21)#
+4904#(ATQ +6%)#
+4905#(ATQ +7%)#
+4906#(ATQM +6%)#
+4907#(ATQM +7%)#
+4908#(E.FUE1)#
+4909#(E.FUE2)#
+4910#(E.FUE3)#
+4911#(E.INT1)#
+4912#(E.INT2)#
+4913#(E.INT3)#
+4914#(E.AGI1)#
+4915#(E.AGI2)#
+4916#(E.AGI3)#
+4917#(E.VIT1)#
+4918#(E.VIT2)#
+4919#(E.VIT3)#
+4920#(E.DES1)#
+4921#(E.DES2)#
+4922#(E.DES3)#
+4923#(E.SUE1)#
+4924#(E.SUE2)#
+4925#(E.SUE3)#
+4927#(HP +50)#
+4928#(SP +10)#
+4930#(CR 2)#
+4931#(M.HP 1)#
+4932#(M.SP 1)#
+4933#(N 1)#
+4934#(N 2)#
+4935#(N 3)#
+4936#(DF.G 1)#
+4937#(DF.M 1)#
+4938#(DF.P 1)#
+4939#(CRIT +2)#
+4940#(CRIT +4)#
+4941#(CRIT +6)#
+4942#(EP +3)#
+4943#(EP +4)#
+4944#(EP +5)#
+4945#(E 1)#
+4946#(E 2)#
+4947#(E 3)#
+4948#(AH 1)#
+4949#(AH 2)#
+4950#(AH 3)#
+4970#(E-Fuego)#
+4971#(E-Agua)#
+4972#(E-Tierra)#
+4973#(E-Viento)#
+4974#(R-Fuego)#
+4975#(R-Agua)#
+4976#(R-Tierra)#
+4977#(R-Viento)#
+4978#(C-Corpo)#
+4979#(C-Alma)#
+4980#(C-Físico)#
+4981#(C-Mental)#
+4982#(A-FUE)#
+4983#(A-INT)#
+4984#(A-DEF)#
+4985#(A-EVA)#
+4986#(A-ATQ)#
+4987#(A-ATQM)#
+4988#(A-HP)#
+4989#(A-SP)#
+4990#(I-Gelo)#
+4991#(A-Vela)#
+4994#(RS 1)#
+4995#(RS 2)#
+4996#(RS 3)#
+4997#(RA 1)#
+4998#(RA 2)#
+4999#(RA 3)#
+27012#De protección activa#
+27013#Balcánico#
+27014#De Espejismo#
+27015#De restauración#
+27016#De exploración completa#
+27017#Tempur#
+27018#De sobreaceleración#
+27019#Depurador#
+27020#De error del sistema#
+27025#Real#
+27026#Caliente#
+27027#Llameante#
+27028#Águila#
+27029#Devorador de llamas#
+27030#Pirómano#
+27081#Lunar#
+27082#De Cola de zorro#
+27083#De crecimiento#
+27084#Macabro#
+27085#Delicado#
+27086#de Sagitario#
+27087#De la verdad#
+27088#Instigador#
+27101#Hechicero#
+27102#Ignífugo#
+27103#Vigorizante#
+27104#Compasivo#
+27105#Lamentoso#
+27106#Musical#
+27107#Dançante#
+27108#Cantante#
+27109#do Pianista#
+27110#Presuroso#
+27111#Crocante#
+27112#Fuerte#
+27113#Congelado#
+27114#Indomable#
+27115#Sagaz#
+27116#Crítico doble#
+27117#Letal#
+27118#de Perforación#
+27119#de Caparazón de tortuga#
+27120#Recuperador#
+27121#Serrasalmus#
+27122#De maremoto#
+27123#De grupo de insectos#
+27124#De cacería#
+27125#de Aqua Benedicta#
+27126#de Pitón#
+27147#Intensivo#
+27148#Predeterminado#
+27149#De francotirador#
+27150#de alto nivel#
+27151#de congelación#
+27152#Oportuno#
+27157#de madera de Aqua#
+27158#de los vientos#
+27159#De Cazador de demonios#
+27160#Evasivo#
+27161#De explosión terrestre#
+27162#De acero del alma#
+27163#Abranquio#
+27164#Coya#
+27165#Aviar#
+27166#Gélido#
+27167#Glacial#
+27168#Padre#
+27169#Infante#
+27170#De polvo#
+27171#Del crepúsculo#
+27172#De Espada afilada#
+27173#Polvoriento#
+27174#Del crepúsculo#
+27175#De Cazador pequeño#
+27176#Sucio#
+27177#Pantanoso#
+27178#Sin guardia#
+27179#De Lezna salvaje#
+27180#De quiebre de poder#
+27181#de la Banda de flagelo#
+27182#Tirador de martillos#
+27183#Arremetedor#
+27184#De la salvación#
+27196#de Nihil#
+27197#de Agnes#
+27198#de Jurgen#
+27199#das Gêmeas#
+27200#Autografado por Nihil#
+27201#Autografado por Agnes#
+27202#Autografado por Jurgen#
+27203#Autografado por Spica#
+27209#De semi Scaraba#
+27211#Media guadaña#
+27212#Semirreflejo#
+27213#de semi Bragi#
+27214#de semiprotección mágica#
+27215#de semipenetración#
+27216#de semiácido#
+27217#de semicaballero#
+27218#de la semi Gran cruz#
+27219#de media suerte#
+27220#De semi Maestro espadachín#
+27221#De semideducción#
+27222#De semimiedo#
+27224#del Semidemonio#
+27225#De semisabio#
+27249#Archi#
+27250#De Anemos#
+27251#De Mafioso#
+27252#De Bully#
+27253#De Ratero#
+27254#De Faymont#
+27255#De Ordre#
+27256#De Hase#
+27257#De Akuma#
+27258#De Ifodes#
+27259#De Licheniyes#
+27260#De Odoric#
+27261#De Ju#
+27262#De Dwigh#
+27263#De Kanavian#
+27264#De Sombra maligna#
+27265#De Fanático del mal#
+27286#De agrupación#
+27287#de luminosidad#
+27288#de trabajador#
+27289#Adecuado#
+27290#de Obsidiana#
+27291#De carga completa#
+27292#de estalactita#
+27293#Circular#
+27294#de piedra grande#
+27295#de Tirador pétreo#
+27296#de Tirador Wootan#
+27297#De puño de Wootan#
+27298#de Escudo grande#
+27304#Infernal#
+27305#Del Infierno abismal#
+27306#De Baile de fuego#
+27307#Sobrecargado#
+27308#Sacral#
+27309#de poder sagrado#
+27310#de inmortal#
+27311#De guante pesado#
+27312#De Perforación maligna#
+27313#De puño poderoso#
+27314#De Cazador de animales#
+27315#De Cazador mágico de animales#
+27316#Antiveneno#
+27317#De Perforación natural#
+27318#de poder de tigre#
+27319#De quiebre venenoso#
+27320#De mejora de fuego#
+27321#del dios Demonio#
+27322#De dominador#
+27323#Del coordinador#
+27324#De Brinaranea#
+27325#De Muspelheim#
+27326#Destructivo#
+27327#De la Parca Ankou#
+27328#De la vida corrompida#
+27334#Caótico#
+27335#de Guardia Negra#
+27336#de Víbora#
+27337#Brisa de Caza#
+27338#de Doble Poder#
+27339#Fantasma#
+27340#de Asesino Furioso#
+27341#de Concha de Agua#
+27342#Tierra Metálica#
+27343#Hechizo Sagrado#
+27346#Del orbe del aullido#
+27347#Agrietado#
+27348#De ninguna parte#
+27349#Del orbe de la barrera en llamas#
+27350#Del orbe del espíritu de Dragón#
+27351#Del orbe del corazón de Dragón#
+27352#Adormecedor#
+27353#Del orbe de la barrera demoníaca#
+27354#Del orbe de la depravación#
+27355#Depravado#
+27356#Del orbe de la guardia helada#
+27357#Del orbe del guante sucio#
+27358#Aniquilador#
+27359#De magia fría#
+27360#De magia de fuego#
+27361#De Espada pesada#
+27362#Del orbe de la reina araña#
+27363#Condenado#
+27381#del Ángel Caído#
+27382#de Acecho#
+27383#de Relajación#
+27384#de la Orden de Caballeros Mágicos#
+27385#de la Orden de Caballeros Mágicos#
+27386#del exorcista#
+27387#del exterminador de no muertos#
+27388#de gran recuperación#
+27393#Autografado por Katrin#
+27394#da Cortesia#
+27395#Autografado por Isaac#
+27396#Wigner#
+27413#(PX)#
+27414#(PO)#
+27415#(PI)#
+27416#(PU)#
+29000#(RM 1)#
+29001#(RM 2)#
+29002#(RM 3)#
+29003#(RV 1)#
+29004#(RV 2)#
+29005#(RV 3)#
+29006#(RA 1)#
+29007#(RA 2)#
+29008#(RA 3)#
+29009#(RS 1)#
+29010#(RS 2)#
+29011#(RS 3)#
+29013#(C.HP 3)#
+29026#(DEF +20)#
+29046#(Codicia)#
+29047#(M 1)#
+29052#(Recuperación)#
+29061#(Fortaleza 1)#
+29062#(Fortaleza 2)#
+29063#(Fortaleza 3)#
+29064#(Fortaleza 4)#
+29065#(Fortaleza 5)#
+29066#(Fortaleza 6)#
+29067#(Fortaleza 7)#
+29068#(Fortaleza 8)#
+29069#(Fortaleza 9)#
+29070#(Fortaleza 10)#
+29071#(EM 1)#
+29072#(EM 2)#
+29073#(EM 3)#
+29074#(EM 4)#
+29075#(EM 5)#
+29076#(EM 6)#
+29077#(EM 7)#
+29078#(EM 8)#
+29079#(EM 9)#
+29080#(EM 10)#
+29081#(Agudo 1)#
+29082#(Agudo 2)#
+29083#(Agudo 3)#
+29084#(Agudo 4)#
+29085#(Agudo 5)#
+29086#(Agudo 6)#
+29087#(Agudo 7)#
+29088#(Agudo 8)#
+29089#(Agudo 9)#
+29090#(Agudo 10)#
+29091#(MA 1)#
+29092#(MA 2)#
+29093#(MA 3)#
+29094#(MA 4)#
+29095#(MA 5)#
+29096#(MA 6)#
+29097#(MA 7)#
+29098#(MA 8)#
+29099#(MA 9)#
+29100#(MA 10)#
+29101#(Adamantino 1)#
+29102#(Adamantino 2)#
+29103#(Adamantino 3)#
+29104#(Adamantino 4)#
+29105#(Adamantino 5)#
+29106#(Adamantino 6)#
+29107#(Adamantino 7)#
+29108#(Adamantino 8)#
+29109#(Adamantino 9)#
+29110#(Adamantino 10)#
+29111#(Afecto 1)#
+29112#(Afecto 2)#
+29113#(Afecto 3)#
+29114#(Afecto 4)#
+29115#(Afecto 5)#
+29116#(Afecto 6)#
+29117#(Afecto 7)#
+29118#(Afecto 8)#
+29119#(Afecto 9)#
+29120#(Afecto 10)#
+29121#(DJ 1)#
+29122#(DJ 2)#
+29123#(DA 1)#
+29124#(DA 2)#
+29125#(DV 1)#
+29126#(DV 2)#
+29135#(FA1)#
+29136#(FA2)#
+29137#(FA3)#
+29138#(FA4)#
+29139#(FA 5)#
+29147#(Ressuscitar)#
+29209#(C.PM 2)#
+29359#(M 2)#
+29360#(M 3)#
+29361#(M 4)#
+29445#(PA 1)#
+29446#(PA 2)#
+29447#(PA 3)#
+29448#(PA 4)#
+29449#(PA 5)#
+29706#(Tenacidad 1)#
+29707#(Tenacidad 2)#
+29708#(Tenacidad 3)#
+29709#(Tenacidad 4)#
+29710#(Tenacidad 5)#
+29711#(Tenacidad 6)#
+29712#(Tenacidad 7)#
+29713#(Tenacidad 8)#
+29714#(Tenacidad 9)#
+29715#(Tenacidad 10)#
+31016#de lamento#
+31017#de odio#
+31018#De frustración#
+31019#Escalofriante#
+31020#De ira#
+31021#De la locura#
+31022#De la desesperación#
+31023#Maníaco#
+31024#Volcánico#
+31025#Mortal#
+31026#Automágico#
+300001#High Invenom#
+300002#del Chaleco Antibalas#
+300003#del Perro Salvaje#
+300004#del Muro de Hierro#
+300005#del High Walker#
+300006#Psíquico#
+300007#Ruptura Sólida#
+300008#Destello Sagrado#
+300009#Mágico Fantasmal#
+300010#Mágico de Viento#
+300011#Mágico Sagrado#
+300012#de lo Sagrado#
+300013#Reginleive#
+300014#Ingrid#
+300015#Remedio de Bajo Nivel#
+300016#del Tesoro#
+300017#High Hallowed#
+300018#High Damned#
+300019#del Cazador de Dragones#
+300020#del Cazador Furtivo#
+300021#Dragon Killer#
+300076#de la Guardia real#
+300077#de Mecánico#
+300078#De Baile demencial#
+300079#Medio seco#
+300080#Seco#
+300081#de Mago#
+300082#Perforante#
+300083#de Ninja#
+300084#de lo sagrado#
+300085#de Taekwon#
+300086#De ataque pesado#
+300087#de gato sombrío#
+300088#De flor en cruz#
+300089#de asalto#
+300090#de poder terrestre#
+300091#de pistolero#
+300092#de Comerciante#
+300093#de Acólito#
+300094#De la locura letal#
+300095#de entusiasta#
+300096#De armonía#
+300097#de Ladrón#
+300098#del Ninja#
+300099#de guardia menor#
+300100#de guardia mayor#
+300101#de Caballero rúnico#
+300102#de Genetista#
+300103#De Obeaune#
+300104#de Conjurador#
+300105#de Brujo#
+300106#Mágico de fuego#
+300107#De frutas#
+300108#de Perseguidor de sombras#
+300109#de Cortador de cruces#
+300110#de Kagerou#
+300111#de Oboro#
+300112#de Cosechador de almas#
+300113#de talento#
+300114#Inmortal mágico#
+300115#de Arzobispo#
+300116#de Sura#
+300117#de Errante#
+300118#de Maestro de las estrellas#
+300119#de Rebelión#
+300120#de banco de peces#
+300121#de agua purificada#
+300122#Sagrado#
+300123#Sin forma#
+300124#Mágico de agua#
+300125#de Invocador#
+300127#con el autógrafo de Wolf#
+300128#de Lugenburg#
+300129#con el autógrafo de Poe#
+300130#de Poe#
+300140#De mejora del trueno#
+300141#de la Sirena Malvada#
+300142#Submarino#
+300143#Antiinsectos#
+300144#Apuñalador#
+300145#de la Bruja del abismo#
+300146#De Pez fatal#
+300147#Del fondo del mar#
+300148#Del mar profundo#
+300149#de asesino de peces#
+300150#de Espadachín experto#
+300151#De pesadilla marina#
+300170#Podrido#
+300171#Cavador#
+300172#Fusión#
+300173#Irritante#
+300174#Denegado#
+300175#Desconocido#
+300176#de indefinido#
+300177#Arhi Medianoche#
+300178#Anemos Medianoche#
+300179#Ladrón Medianoche#
+300180#Gangster Medianoche#
+300181#Bully Medianoche#
+300182#Faymont Medianoche#
+300183#Ordre Medianoche#
+300184#Hase Medianoche#
+300185#Akuma Medianoche#
+300186#Ipodus Medianoche#
+300187#Odoric Medianoche#
+300188#Licheniyes Medianoche#
+300189#Ju Medianoche#
+300190#Kanavian Medianoche#
+300191#Dy Medianoche#
+300192#Pesar#
+300193#Bobetta#
+300211#Tierra mágica#
+300212#Anti Oscuridad#
+300213#Atrapa al diablo#
+300214#Cuarto de potencia#
+300215#Geotérmico#
+300216#Alta explosión#
+300217#de Colmillo Ardiente#
+300218#Alto Inmortal#
+300219#Mágico Oscuro#
+300220#Rasguño de lobo#
+300221#Exorcista intangible#
+300222#Viento fuerte#
+300223#Abordaje de lobo#
+300227#Asesina de ángeles#
+300228#Asesina del diablo#
+300230#De engendro amarillo#
+300231#De engendro real#
+300232#De engendro#
+300233#De engendro rojo#
+300234#De engendro verde#
+300235#De combate#
+300236#Terco#
+300237#Perforador#
+300238#De curación doble#
+300239#De distorsión#
+300240#fatal pesado#
+300241#Hueso fatal#
+300242#Perspicaz#
+300243#Paciente fuerte#
+300244#de espiral#
+300245#de curación rápida#
+300246#de Inmune a la Magia Gigantesca#
+300247#de Asesino de fantasmas#
+300248#de la Bruja de la Muerte#
+300249#Destructor sin forma#
+300250#Asesina de demonios#
+300251#del Alto Inmortal#
+300252#de Alto Poder Santo#
+300253#Venomous#
+300254#del Alto Marte#
+300255#Vendaval#
+300256#Fuego infernal#
+300257#Torrente#
+300258#Oscuridad profunda#
+300259#Terremoto#
+300260#de Alta Inteligencia#
+300261#de Alta Suerte#
+300262#Cazador de dragones no muertos#
+300263#de Defensor#
+300264#Alto Guardia#
+300265#Guardia Mágico#
+300266#del espadachín desconocido#
+300267#de perno de velocidad#
+300268#de perno de poder#
+300269#El mayor#
+300270#Empática#
+300271#Feliz#
+300272#Orar#
+300273#Sonrisa#
+300274#de verdadera rabia#
+300275#del verdadero horror#
+300276#Rompealas#
+300277#de Resentimiento Real#
+300278#de Vacío#
+300279#Depresión Muerta#
+300280#Espadachín Mágico Corrupto#
+300281#de Insecto de Agua#
+300292#Joker Diablo#
+300293#Venenoso#
+300294#Venenoso Muerto#
+300295#Asesino de Animales#
+300296#Bicho Loco#
+300297#Cazador Mayor#
+300307#Autografado por Meyer#
+300308#de Meyer#
+300309#Autografado por Helmut#
+300310#de Helmut#
+300421#Autografado por Catherine#
+300422#de Gaebolg#
+300423#Autografado por Friedrich#
+300424#de Stolz#
+300425#Autografado por Crux Findel#
+300426#de Findel#
+300547#de Luke#
+300550#de Fei-Chai#
+300551#de A-Ji#
+300552#de Tai-Zi#
+300618#Kung Fu Panda#
+311910#(CM)#
+311911#(CN)#
+27329#de Schmidt#
+//2018 Royal Hunt Card Prefixes
+27330#Firmado por Kronecker#
+27331#Heine#
+27332#Firmado por Skia#
+27333#Nerius#
+27389#Firmado por Wolf#
+27390#Lugenburg#
+27391#Firmado por Po#
+27392#Richard#
+300732#¡Vuela alto!!#
+300733#¡Te voy a destrozar!#
+300734#¡Disparar!#
+
+//Add Enchantment Prefixes
+310076#(B.FUE)#
+310077#(B.AGI)#
+310078#(B.VIT)#
+310079#(B.DES)#
+310080#(B.INT)#
+310081#(B.SUE)#
+29028#(ATQ +1%)#
+29029#(ATQ +1%)#
+29030#(ATQM +1%)#
+29031#(ATQM +1%)#
+29053#(Recarga 1)#
+29054#(Recarga 2)#
+29055#(Recarga 3)#
+29159#(EXP +2%)#
+29145#(EXP +2%)#
+29027#(EXP +2%)#
+29156#(Var -3%)#
+29157#(Var -3%)#
+29158#(Var -3%)#
+29358#(Var -10%)#
+29154#(Fija -0,3)#
+29056#(Fija -0,5)#
+29362#(Doble Ataque)#
+29057#(Kyrie Eleison)#
+29227#(Curar)#
+29228#(Robo)#
+29146#(Identificar)#
+29229#(Teletransporte)#
+4993#(C.SP 1)#
+4992#(C.HP 1)#
+29032#(A.SP)#
+310325#(Alcance)#
+310330#(Alcance)#
+310326#(Alcance)#
+310327#(Cuerpo)#
+310328#(Cuerpo)#
+310329#(Cuerpo)#
+29049#(Más HP)#
+29050#(Más SP)#
+29014#(FUE 3 INT)#
+29022#(AGI 3 SUE)#
+29018#(DES 3 VIT)#
+29016#(INT 3 DES)#
+29024#(SUE 3 FUE)#
+29020#(VIT 3 AGI)#
+29015#(FUE 3 DES)#
+29023#(AGI 3 FUE)#
+29019#(DES 3 AGI)#
+29017#(INT 3 VIT)#
+29025#(SUE 3 INT)#
+29021#(VIT 3 VIT)#
+
+//BIOLAB EDDA
+29594#(Seyren)#
+29595#(Harword)#
+29596#(Eremes)#
+29598#(Kathryne)#
+29599#(Margaretha)#
+29600#(Cecil)#
+29601#(Randel)#
+29602#(Flamel)#
+29603#(Gertie)#
+29604#(Celia)#
+29605#(Chen)#
+29606#(Trentini)#
+29607#(Alphoccio)#
+
+//EP 17.1
+29527#(N-DEF)#
+29528#(N-DEFM)#
+29529#(S-HPR)#
+29530#(S-SPMax)#
+29531#(S-HPMax)#
+29532#(S-SPR)#
+29533#(S-Cura)#
+29534#(S-ATQ)#
+29535#(S-ATQM)#
+29536#(S-Tiro)#
+29537#(S-Rapidez)#
+29538#(S-Magia)#
+29539#(S-CRIT)#
+29540#(U-Post)#
+29541#(U-Fija)#
+29542#(U-Total)#
+29543#(U-Vida)#
+29544#(U-Alma)#
+29545#(U-Mental)#
+29546#(U-Mana)#
+29547#(L-Eternidad)#
+29548#(L-Sortilegio)#
+29549#(L-Astucia)#
+29550#(L-Superpoder)#
+29551#(L-Destello)#
+29552#(L-Fortuna)#
+
+//EP 17.2
+310086#(B-FUE)#
+310087#(B-AGI)#
+310084#(B-VIT)#
+310088#(B-INT)#
+310089#(B-DES)#
+310085#(B-SUE)#
+310082#(B-DEF)#
+310083#(B-DEFM)#
+310090#(M-HPR)#
+310091#(M-SPR)#
+310092#(M-Encanto)#
+310093#(M-Retraso)#
+310094#(M-Fatal)#
+310095#(M-Puntería)#
+310096#(M-HPMax)#
+310097#(M-SPMax)#
+310098#(M-Cura)#
+310099#(M-ATQ)#
+310100#(M-ATQM)#
+310101#(M-Tiro)#
+310102#(M-Rapidez)#
+310103#(M-Magia)#
+310104#(M-CRÍT)#
+310105#(P-Mágico)#
+310106#(P-Bárbaro)#
+310107#(P-Artillero)#
+310108#(P-Crítico)#
+310109#(P-Curandero)#
+310110#(P-Post)#
+310111#(P-Conjuración)#
+310112#(P-Total)#
+310113#(P-Vida)#
+310114#(P-Alma)#
+310115#(P-Mental)#
+310116#(P-Maná)#
+310117#(P-Híbrido)#
+310118#(P-Robusto)#
+310119#(P-Daño)#
+310120#(P-General)#
+310178#(P-Espejo)#
+310179#(P-Reflector)#
+310121#(F-Eternidad)#
+310122#(F-Sortilegio)#
+310123#(F-Astucia)#
+310124#(F-Superpoder)#
+310125#(F-Destello	)#
+310126#(F-Fortuna)#
+310127#(H-Dragón)#
+310128#(H-Rúnico)#
+310129#(H-Lanza)#
+310130#(H-Escudo)#
+310131#(H-Hoplita)#
+310132#(H-Domini)#
+310133#(H-Cañón)#
+310134#(H-Robot)#
+310135#(H-Hacha)#
+310136#(H-Carreta)#
+310137#(H-Planta)#
+310138#(H-Química)#
+310139#(H-Cuchillas)# 
+310140#(H-Espiral)#
+310141#(H-Duelista)#
+310142#(H-Amenaza)#
+310143#(H-Deseo)#
+310144#(H-Triple)#
+310145#(H-Místico)#
+310146#(H-Arcanista)#
+310147#(H-Neutral)#
+310148#(H-Elemental)#
+310149#(H-Psíquico)#
+310150#(H-Hechizo)#
+310151#(H-Exorcismo)#
+310152#(H-Sagrado)#
+310153#(H-Santo)#
+310154#(H-Luchador)#
+310155#(H-Corporal)#
+310156#(H-Combo)#
+310157#(H-Bomba)#
+310158#(H-Tirador)#
+310159#(H-Flecha)#
+310160#(H-Canción)#
+310161#(H-Musical)#
+310162#(H-Tormenta)#
+310163#(H-Solar)#
+310164#(H-Lunar)#
+310165#(H-Estelar)#
+310166#(H-Almas)#
+310167#(H-Espíritu)#
+310168#(H-Maldición)#
+310169#(H-Revólver)#
+310170#(H-Granada)#
+310171#(H-Escopeta)#
+310172#(H-Ninpou)#
+310173#(H-Taijutsu)#
+310174#(H-Mahou)#
+310175#(H-Marea)#
+310176#(H-Jungla)#
+310177#(H-Fauna)#
+
+//Graphic Enchantment
+25136#(Gráfico)# 
+25137#(Gráfico)# 
+29160#(Gráfico)#
+29161#(Gráfico)#
+29162#(Gráfico)#
+29040#(Gráfico)#
+29041#(Gráfico)#
+29144#(Gráfico)# 
+29224#(Gráfico)#
+29225#(Gráfico)#
+29226#(Gráfico)#
+314095#(Gráfico)#
+314094#(Gráfico)#
+314171#(Huellas)#
+314172#(Huellas)#
+314813#(Huellas)#
+
+//Costume Enchantment
+29460#(Lord Caballero)#
+29461#(Lord Caballero)#
+29462#(Lord Caballero)#
+29463#(Caballero Rúnico)#
+310258#(Lord Caballero II)#
+310259#(Lord Caballero II)#
+310260#(Lord Caballero II)#
+310257#(Caballero Rúnico II)#
+29517#(Paladín)#
+29518#(Paladín)#
+29519#(Paladín)#
+29520#(Guardia Real)#
+310187#(Paladín II)#
+310186#(Paladín II)#
+310185#(Paladín II)#
+310184#(Guardia Real II)#
+29468#(Hechicero)#
+29469#(Hechicero)#
+29470#(Hechicero)#
+29471#(Brujo)#
+310181#(Hechicero II)#
+310182#(Hechicero II)#
+310183#(Hechicero II)#
+310180#(Brujo II)#
+29432#(Profesor)#
+29433#(Profesor)#
+29434#(Profesor)#
+29435#(Conjurador)#
+29617#(Profesor II)#
+29616#(Profesor II)#
+29615#(Profesor II)#
+29614#(Conjurador II)#
+29481#(Herrero)#
+29482#(Herrero)#
+29483#(Herrero)#
+29484#(Mecánico)#
+310004#(Herrero II)#
+310005#(Herrero II)#
+310006#(Herrero II)#
+310007#(Mecánico II)#
+29464#(Bioquímico)#
+29465#(Bioquímico)#
+29466#(Bioquímico)#
+29467#(Genetista)#
+310262#(Bioquímico II)#
+310263#(Bioquímico II)#
+310264#(Bioquímico II)#
+310261#(Genetista II)#
+29521#(Asesino)#
+29522#(Asesino)#
+29523#(Asesino)#
+29524#(Cortador de Cruces)#
+310191#(Asesino II)#
+310190#(Asesino II)#
+310189#(Asesino II)#
+310188#(Cortador de Cruces II)#
+29477#(Perseguidor)#
+29478#(Perseguidor)#
+29479#(Perseguidor)#
+29480#(Perseguidor de Sombras)#
+29621#(Perseguidor II)#
+29620#(Perseguidor II)#
+29619#(Perseguidor II)#
+29618#(Perseguidor de Sombras II)#
+29513#(Sumo)#
+29514#(Sumo)#
+29515#(Sumo)#
+29516#(Arzobispo)#
+310008#(Sumo II)#
+310009#(Sumo II)#
+310010#(Sumo II)#
+310011#(Arzobispo II)#
+29423#(Campeón)#
+29425#(Campeón)#
+29424#(Campeón)#
+29426#(Sura)#
+29613#(Campeón II)#
+29612#(Campeón II)#
+29611#(Campeón II)#
+29427#(Sura II)#
+29428#(Francoatirador)#
+29429#(Francoatirador)#
+29430#(Francoatirador)#
+29431#(Errante)#
+310000#(Francoatirador II)#
+310001#(Francoatirador II)#
+310002#(Francoatirador II)#
+310003#(Errante II)#
+29485#(Artista)#
+29486#(Artista)#
+29487#(Artista)#
+29488#(Músicos)#
+310266#(Artista II)#
+310267#(Artista II)#
+310268#(Artista II)#
+310265#(Músicos II)#
+29664#(Pistolero)#
+29665#(Pistolero)#
+29666#(Pistolero)#
+29667#(Rebelde)#
+29655#(Taekwon)#
+29656#(Taekwon)#
+29657#(Taekwon)#
+29658#(Estelar)#
+29651#(Vinculador)#
+29652#(Vinculador)#
+29653#(Vinculador)#
+29654#(Segador)#
+29659#(Ninja)#
+29660#(Ninja)#
+29661#(Ninja)#
+29662#(Kagerou)#
+29663#(Oboro)#
+29668#(Invocador)#
+29669#(Invocador)#
+29670#(Invocador)#
+29671#(Invocador)#
+
+//2026.06.23 EP18
+300211#Magic Ground#
+300212#Anti-Darkness#
+300213#Devil Catch#
+300214#Power Quarter#
+300215#de calor terrestre#
+300216#High Blast#
+300217#of Burning Fang#
+300218#High Immortal#
+300219#Dark Magical#
+300220#Wolf Scratch#
+300221#del exorcista de Amorfo#
+300222#High Wind#
+300223#Wolf Tackle#
+300227#Angel Killer#
+300228#Devil Killer#
+
+//2026.07.21 Tomb of Remorse
+300192#Pisar#
+300193#Boveta#
+
+300834#Baby Shark#
+300835#Familia Tubarao#

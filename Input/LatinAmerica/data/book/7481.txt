@@ -1,0 +1,39 @@
+%faf0e6
+^000088- Receitas culinárias de nível 10 -^000000
+                                              ^800000Por Charles Orleans^000000
+
+^ff0000Língua no Vapor:^000000 FOR +10.
+Ingredientes:
+        ^0000ff1 Língua, 1 Panela, 1 Álcool, 1 Aloe Vera, 1 Molho Picante,^000000
+        ^0000ff1 Geleia Real, 1 Folha de Yggdrasil, 1 Poção Azul^000000			
+
+^0000ffCoquetel do Dragão:^000000 INT +10.
+Ingredientes:
+        ^0000ff1 Raiz de Planta Carnívora, 1 Planta da Melodia, 1 Folha de Aloe,^000000
+        ^0000ff1 Geleia Real, 1 Limão, 1 Fruta Espinhosa, 1 Fruto de Yggdrasil, 1 Erva Azul^000000			
+
+^800000Tônico de Hwergelmir:^000000 DES +10.
+Ingredientes:
+        ^0000ff1 Fruto de Yggdrasil, 1 Cubo de Gelo, 1 Bactérias, 1 Geleia Real,^000000
+        ^0000ff1 Poção de Concentração, 1 Álcool, 1 Fruta Espinhosa, 1 Flor das Ilusões^000000
+
+
+^008040Escorpiões no Vapor:^000000 AGI +10.
+Ingredientes:
+        ^0000ff1 Cauda de Escorpião, 1 Pinças de Escorpião, 1 Aloe Vera, 1 Panela,^000000
+        ^0000ff1 Folha de Yggdrasil, 1 Erva Amargas, 1 Geleia Real, 1 Molho Picante^000000		
+		
+^ff8040Cozido Imortal:^000000 VIT +10.
+Ingredientes:
+        ^0000ff1 Coração Imortal, 1 Espólio, 1 Semente de Yggdrasil, 1 Analgésico,^000000
+        ^0000ff1 Coração de Sereia, 1 Molho Picante, 1 Amuleto, 1 Erva Amarga^000000	
+
+^400080Nove Caudas Cozidas:^000000 SOR +10.
+Ingredientes:
+        ^0000ff1 Nove-Caudas, 1 Trevo de Quatro Folhas, 1 Raiz de Planta Carnívora, 1 Folha Afiada,^000000
+        ^0000ff1 Folha de Yggdrasil, 1 Molho Saboroso, 1 Condimento Amarelo, 1 Izidor^000000	
+		
+^400080Rodízio Nível 10:^000000 Todos os atributos +10.
+Ingredientes:
+        ^0000ff1 Língua no Vapor, 1 Coquetel do Dragão, 1 Escorpiões no Vapor,^000000
+        ^0000ff1 Tônico de Hwergelmir, 1 Cozido Imortal, 1 Nove Caudas Cozidas^000000			

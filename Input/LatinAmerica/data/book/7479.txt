@@ -1,0 +1,39 @@
+%faf0e6
+^000088- Receitas culinárias de nível 8 -^000000
+                                              ^800000Por Charles Orleans^000000
+
+^ff0000Pé de Urso Especial:^000000 FOR +8.
+Ingredientes:
+        ^0000ff1 Pata de Urso, 1 Molho Saboroso, 1 Zé-Lanterna,^000000
+        ^0000ff1 Folha de Aloe, 1 Folha de Hinalle, 1 Cenoura^000000			
+
+^0000ffChá da Família Real:^000000 INT +8.
+Ingredientes:
+        ^0000ff1 Fruta Espinhosa, 1 Folha de Hinalle, 1 Folha de Yggdrasil,^000000
+        ^0000ff1 Folha de Aloe, 1 Geleia Real, 1 Condimento Amarelo^000000			
+
+^800000Torrada Especial:^000000 DES +8.
+Ingredientes:
+        ^0000ff1 Pão, 1 Geleia Real, 1 Carne, 1 Morango,^000000
+        ^0000ff1 Molho Picante, 1 Queijo, 1 Molho Doce^000000
+
+
+^008040Curry Picante:^000000 AGI +8.
+Ingredientes:
+        ^0000ff1 Aloe Vera, 1 Molho Picante, 1 Carne,^000000
+        ^0000ff1 Folha de Hinalle, 1 Zé-Lanterna, 1 Cenoura^000000		
+		
+^ff8040Burrito Gigante:^000000 VIT +8.
+Ingredientes:
+        ^0000ff1 Folha de Figo, 1 Carne, 1 Cenoura Arco-Íris,^000000
+        ^0000ff1 Zé-Lanterna, 1 Molho Saboroso, 1 Sacola de Grãos^000000	
+
+^400080Bolinho de Arroz com Morango:^000000 SOR +8.
+Ingredientes:
+        ^0000ff1 Sacola de Grãos, 1 Folha de Figo, 1 Molho Saboroso^000000
+        ^0000ff1 Morango, 1 Condimento Amarelo, 1 Condimento Vermelho^000000	
+		
+^400080Rodízio Nível 8:^000000 Todos os atributos +8.
+Ingredientes:
+        ^0000ff1 Pé de Urso Especial, 1 Chá da Família Real, 1 Curry Picante,^000000
+        ^0000ff1 Torrada Especial, 1 Burrito Gigante, 1 Bolinho de Arroz com Morango^000000			

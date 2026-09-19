@@ -1,0 +1,97 @@
+%faf0e6
+^000088Posso me tornar quase autossuficiente
+se eu dominar os fundamentos da preparação de poções?000000
+
+
+----------------Prefácio--------------------
+
+A preparação de poções é considerada um dos fundamentos
+essenciais da alquimia. Esta edição final detalha os processos
+de produção de poções que permitirão que Alquimistas restaurem
+HP, SP e até mesmo curem condições anormais
+usando poções que eles mesmos tenham criado!
+
+------------------------------------------
+
+O que é uma ^ff0000poção^000000?
+
+Uma poção é uma única dose de remédio ou veneno
+líquido. A maioria das poções é usada como remédio para restaurar
+HP ou SP, curar condições anormais ou aprimorar temporariamente
+o corpo humano. Este livro contém instruções para produzir
+poções vermelhas, amarelas, brancas e azuis, analgésico, aloe vera
+e embriões.
+
+^0000ffPoção Vermelha^000000: Recupera 45 HP.
+Ingredientes: ^4b00821 Erva Vermelha, 1 Garrafa de Poção Vazia^000000
+Manual: Prepare uma tigela de remédio.
+          Esmague as ervas numa tigela.
+          Adicione água limpa aos poucos e continue esmagando as ervas.
+          Despeje numa garrafa de poção vazia.
+          Para um método de preparo simples, 
+          use este livro, os ingredientes e a habilidade Farmacologia.
+
+
+^800000Poção Amarela^000000: Recupera 175 HP.
+Ingredientes: ^4b00821 Erva Amarela, 1 Garrafa de Poção Vazia^000000
+Manual: Prepare uma tigela de remédio.
+          Esmague as ervas numa tigela.
+          Adicione água limpa aos poucos e continue esmagando as ervas.
+          Despeje numa garrafa de poção vazia.
+          Para um método de preparo simples, 
+          use este livro, os ingredientes e a habilidade Farmacologia.
+
+
+^008040Poção Branca^000000: Recupera 325 HP.
+Ingredientes: ^4b00821 Erva Branca, 1 Garrafa de Poção Vazia^000000
+Manual: Prepare uma tigela de remédio.
+          Esmague as ervas numa tigela.
+          Adicione água limpa aos poucos e continue esmagando as ervas.
+          Despeje numa garrafa de poção vazia.
+          Para um método de preparo simples, 
+          use este livro, os ingredientes e a habilidade Farmacologia.
+
+
+^ff8040Poção Azul^000000: Recupera 60 SP.
+Ingredientes: ^4b00821 Erva Azul, 1 Garrafa de Poção Vazia, 1 Célula^000000
+Manual: Prepare uma tigela de remédio.
+          Esmague as ervas numa tigela.
+          Adicione água limpa aos poucos e continue esmagando as ervas.
+          Despeje numa garrafa de poção vazia.
+          Para um método de preparo simples, 
+          use este livro, os ingredientes e a habilidade Farmacologia.
+
+
+^400080Analgésico^000000: Remédio que alivia a dor temporariamente.
+Ingredientes: ^4b00821 Álcool, 1 Garrafa Vazia, 1 Menta^000000
+Manual: Prepare uma tigela de remédio.
+          Esmague a menta numa tigela.
+          Adicione álcool aos poucos e continue esmagando as mentas.
+          Despeje numa garrafa de poção vazia.
+          Para um método de preparo simples, 
+          use este livro, os ingredientes e a habilidade Farmacologia.
+
+
+^008040Aloe Vera^000000: Diminui a defesa e aumenta o ataque temporariamente.
+Ingredientes: ^4b00821 Aloe, 1 Garrafa Vazia, 1 Mel^000000
+Manual: Prepare uma tigela de remédio.
+          Esmague a aloe com mel numa tigela.
+          Adicione água limpa aos poucos e continue mexendo, depois despeje numa garrafa vazia.
+          Para um método de preparo simples, 
+          use este livro, os ingredientes e a habilidade Farmacologia.
+          (lamento por ter confundido aloe com álcool da última vez)
+
+^ff0000Embrião^000000: Crie vida com uma forma embrionária de algo
+Ingredientes: ^4b00821 Orvalho de Fruta de Yggdrasil, 1 Semente da Vida, 1 Cápsula de Criação^000000
+Manual: Prepare uma tigela de remédio.
+          Coloque o orvalho de Yggdrasil e a semente da vida numa tigela,
+          depois coloque num tubo de vidro usando a habilidade Farmacologia.
+          Estará disponível somente após estudar bioética.
+          Isso é muito perigoso e deve ser estudado adequadamente.
+
+^0000ffTábua de Homúnculo^000000: Suplementos para aumentar a intimidade do Homúnculo.
+Ingredientes: ^4b00821 Semente da Vida, 1 Erva Amarela, 1 Garrafa Vazia^000000
+Manual: Prepare uma tigela de remédio.
+          Esmague a semente da vida e a erva amarela numa tigela, 
+          depois agite numa garrafa vazia usando a habilidade do Palmer.
+          Estará disponível somente após estudar bioética.

@@ -1,0 +1,46 @@
+%faf0e6
+^000088Alquimia básica: creación de Alcohol ^000000
+
+
+----------------Prólogo--------------------
+
+Todo el mundo de la alquimia está en pánico,
+incluso mientras escribo esto. Cientos de Alquimistas, sin más esperanzas en sus estudios,
+elaboraron cantidades abundantes de alcohol usando el método
+que anunció la Asociación de Eruditos. Ninguno de nosotros
+vio venir este desastre, pero, cada vez más Alquimistas,
+se abusan de este método de elaboración de alcohol. Espero que tú, querido lector,
+jamás sucumbas a la malicia del alcohol una vez que decidas aprender alquimia.
+Te dejo este libro con la esperanza de que evite que los futuros Alquimistas
+se lastimen con los conocimientos que adquieren.
+
+“El alcoholismo… ¡No es bueno!”
+
+------------------------------------------
+
+
+
+¿Qué es el ^ff0000Alcohol^000000?
+
+En química, el alcohol es cualquier compuesto orgánico
+en el que un grupo hidroxilo (-OH) está unido a un átomo
+de carbono de un grupo alquilo o alquilo sustituyente.
+
+La fórmula general es ROH. El metanol se forma cuando
+un grupo alquilo se une a un grupo metilo, un grupo alquilo hidrófobo
+derivado del etano. El etanol se forma cuando un grupo alquilo
+se une a un grupo etilo, un grupo alquilo funcional
+derivado del etano. La estructura de un alquilo es la misma que la de su homólogo
+hidrocarburo de cadena recta, pero con un átomo de hidrógeno menos.
+ 
+
+Ingredientes: ^4b00825 Tallos, 5 Esporas venenosas,
+1 Tubo de ensayo vacío y 1 Botella vacía.^000000
+
+Instrucciones:
+Colocar los Tallos azucarados y las Esporas venenosas en la botella vacía.
+Agregar un poco de agua y hervir. Recolectar el gas y luego enfriarlo
+para la destilación. Colocar el gas condensado en el tubo de ensayo vacío. Lleva este libro contigo, consúltalo
+mientras reúnes los ingredientes y usa la habilidad
+de Preparación de pociones para poder crear Alcohol.
+

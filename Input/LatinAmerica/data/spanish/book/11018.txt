@@ -1,0 +1,27 @@
+%f5f5dc
+^000088Venta de objetos de Splendide^000000
+
+Puedes comprar los siguientes objetos con las monedas de Splendide:
+
+^008040[Mermelada frutal de Pinguicula]^000000
+Una mermelada dulce hecha a base de fruta de Pinguicula.
+El daño de los ataques físicos contra los monstruos dentro de la zona
+de Splendide aumenta un 10 % durante 10 minutos.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, León enredadera)^000000
+^ffffff_^000000
+Peso: ^7777775^000000
+
+^008040[Mermelada de miel de Luciola]^000000
+Mermelada hecha con miel y hierbas de Luciola.
+El daño físico y mágico de parte de los monstruos
+de la zona de Splendide se reduce un 10 % durante 10 minutos.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, León enredadera)^000000
+^ffffff_^000000
+Peso: ^7777775^000000
+^008040[Lágrima de Cornus]^000000
+Una poción hecha con las lágrimas de Cornus.
+No se sabe cómo se obtuvieron las lágrimas de Cornus.
+El daño de los ataques mágicos contra los monstruos
+de la zona de Splendide aumenta un 10 % durante 10 minutos.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, León enredadera)^000000
+Peso: ^7777775^000000

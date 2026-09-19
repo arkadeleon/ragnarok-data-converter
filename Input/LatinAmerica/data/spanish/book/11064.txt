@@ -1,0 +1,157 @@
+---- **Capítulo de Ardur, el Espíritu del Fuego** ----
+
+El espíritu superior de fuego invocado, Ardur, otorga al invocador un poder de fuego especial,
+y realiza diferentes acciones individuales mediante la habilidad "Control de Espíritus" del invocador.
+
+**Efecto Pasivo:** Daño de magia de elemento fuego +10%, aumenta el MATK de [Conflagración].
+
+^fa8072**[Control de Espíritus Nivel 1: Modo Pasivo]**^000000
+"Invocador, te concedo el poder de la llama."
+
+**[Técnica de Llama]**
+i. Aumenta el MATK de Bola de Fuego del invocador en un 400%.
+ii. Cuando el invocador realiza un ataque físico normal, activa Bola de Fuego Nivel 1 con un 7% de probabilidad.
+   (Si se ha aprendido un nivel más alto, se activa en ese nivel).
+iii. La propiedad de ataque de Ola Psíquica se vuelve elemento fuego.
+
+^0000ff**[Control de Espíritus Nivel 2: Modo Defensivo]**^000000
+"Invocador, recibe la bendición del fuego."
+
+**[Armadura de Llama]**
+i. Otorga elemento fuego a la armadura del invocador.
+ii. Resistencia al fuego del invocador +100, resistencia al agua -30.
+
+^ff0000**[Control de Espíritus Nivel 3: Modo Ofensivo]**^000000
+"Yo mismo me encargaré."
+
+**[Roca de Llama]**
+i. Crea una gran llama instantánea en un área de 7x7 alrededor del objetivo y Ardur, infligiendo daño mágico de elemento fuego de 2400% MATK a los enemigos en el área, ignorando la defensa mágica del objetivo.
+   (El daño aumenta adicionalmente según el nivel base del invocador).
+
+---
+
+---- **Capítulo de Diluvio, el Espíritu del Agua** ----
+
+El espíritu superior de agua invocado, Diluvio, otorga al invocador poderes especiales de agua y hielo,
+y realiza diferentes acciones individuales mediante la habilidad "Control de Espíritus" del invocador.
+
+**Efecto Pasivo:** Daño de magia de elemento agua +10%, aumenta el MATK de [Tormenta de Diamantes].
+
+^fa8072**[Control de Espíritus Nivel 1: Modo Pasivo]**^000000
+"Oh invocador, recibe el poder del hielo puro."
+
+**[Frío Poderoso]**
+i. Aumenta el MATK de Bola de Hielo del invocador en un 400%.
+ii. Cuando el invocador realiza un ataque físico normal, activa Bola de Hielo Nivel 1 con un 7% de probabilidad.
+   (Si se ha aprendido un nivel más alto, se activa en ese nivel).
+iii. La propiedad de ataque de Ola Psíquica se vuelve elemento agua.
+
+^0000ff**[Control de Espíritus Nivel 2: Modo Defensivo]**^000000
+"Oh invocador, recibe la bendición del agua."
+
+**[Armadura de Cristal]**
+i. Otorga elemento agua a la armadura del invocador.
+ii. Resistencia al agua del invocador +100, resistencia al viento -30.
+
+^ff0000**[Control de Espíritus Nivel 3: Modo Ofensivo]**^000000
+"Que mi poder sea de ayuda para el invocador."
+
+**[Era de Hielo]**
+i. Crea una tormenta de hielo en un área de 11x11 alrededor de Diluvio, infligiendo daño mágico de elemento agua de 3700% MATK a los enemigos en el área, ignorando la defensa mágica del objetivo.
+   (El daño aumenta adicionalmente según el nivel base del invocador).
+
+---
+
+---- **Capítulo de Procella, el Espíritu del Viento** ----
+
+El espíritu superior de viento invocado, Procella, otorga al invocador poderes especiales de viento y relámpago,
+y realiza diferentes acciones individuales mediante la habilidad "Control de Espíritus" del invocador.
+
+**Efecto Pasivo:** Daño de magia de elemento viento +10%, aumenta el MATK de [Tierra de Relámpagos].
+
+^fa8072**[Control de Espíritus Nivel 1: Modo Pasivo]**^000000
+"¡El poder del viento y el relámpago para el invocador!"
+
+**[Brisa Graciosa]**
+i. Aumenta el MATK de Bola de Rayo del invocador en un 400%.
+ii. Cuando el invocador realiza un ataque físico normal, activa Bola de Rayo Nivel 1 con un 7% de probabilidad.
+   (Si se ha aprendido un nivel más alto, se activa en ese nivel).
+iii. La propiedad de ataque de Ola Psíquica se vuelve elemento viento.
+
+^0000ff**[Control de Espíritus Nivel 2: Modo Defensivo]**^000000
+"¡El poder del relámpago que perfora la verdad para el invocador!"
+
+**[Ojos de Tormenta]**
+i. Otorga elemento viento a la armadura del invocador.
+ii. Resistencia al viento del invocador +100, resistencia a la tierra -30.
+
+^ff0000**[Control de Espíritus Nivel 3: Modo Ofensivo]**^000000
+"Dictaré juicio sobre los desordenados con el poder de la tormenta."
+
+**[Viento de Tormenta]**
+i. Crea un viento feroz en un área de 5x5 alrededor del objetivo y Procella, infligiendo daño mágico de elemento viento de 2600% MATK a los enemigos en el área, ignorando la defensa mágica del objetivo.
+   (El daño aumenta adicionalmente según el nivel base del invocador).
+
+---
+
+---- **Capítulo de Terremotus, el Espíritu de la Tierra** ----
+
+El espíritu superior de tierra invocado, Terremotus, otorga al invocador un poder especial de tierra,
+y realiza diferentes acciones individuales mediante la habilidad "Control de Espíritus" del invocador.
+
+**Efecto Pasivo:** Daño de magia de elemento tierra +10%, aumenta el MATK de [Impulso Terrestre].
+
+^fa8072**[Control de Espíritus Nivel 1: Modo Pasivo]**^000000
+"Siéntelo, invocador. Este es el poder de la tierra."
+
+**[Cuidado Terrestre]**
+i. Aumenta el MATK de Púa de Tierra del invocador en un 800%.
+ii. Cuando el invocador realiza un ataque físico normal, activa Púa de Tierra Nivel 1 con un 7% de probabilidad.
+   (Si se ha aprendido un nivel más alto, se activa en ese nivel).
+iii. La propiedad de ataque de Ola Psíquica se vuelve elemento tierra.
+
+^0000ff**[Control de Espíritus Nivel 2: Modo Defensivo]**^000000
+"Siente la firmeza de la tierra inconmovible."
+
+**[Protección Fuerte]**
+i. Otorga elemento tierra a la armadura del invocador.
+ii. Resistencia a la tierra del invocador +100, resistencia al fuego -30.
+
+^ff0000**[Control de Espíritus Nivel 3: Modo Ofensivo]**^000000
+"Ejecutaré la ira de la tierra."
+
+**[Avalancha]**
+i. Inflige daño mágico de elemento tierra de 450% MATK 7 veces a los enemigos en un área de 9x9 alrededor del objetivo, ignorando la defensa mágica del objetivo, con lanzas de roca sólida.
+   (El daño aumenta adicionalmente según el nivel base del invocador).
+
+---
+
+---- **Capítulo de Serpens, el Espíritu Veneno Mortal** ----
+
+El espíritu superior de veneno mortal invocado, Serpens, otorga al invocador un poder especial de veneno mortal,
+y realiza diferentes acciones individuales mediante la habilidad "Control de Espíritus" del invocador.
+
+**Efecto Pasivo:** Daño de magia de elemento veneno +10%, aumenta el MATK de [Pantano de Veneno].
+
+^fa8072**[Control de Espíritus Nivel 1: Modo Pasivo]**^000000
+"¿Puedes manejarlo, invocador?"
+
+**[Envenenamiento Profundo]**
+i. Aumenta el MATK de Nube Mortífera del invocador en un 1500%.
+ii. Cuando el invocador realiza un ataque físico normal, activa Ráfaga de Veneno Nivel 1 con un 7% de probabilidad.
+   (Si se ha aprendido un nivel más alto, se activa en ese nivel).
+iii. La propiedad de ataque de Ola Psíquica se vuelve elemento veneno.
+
+^0000ff**[Control de Espíritus Nivel 2: Modo Defensivo]**^000000
+"Te protegeré con el poder del veneno mortal."
+
+**[Escudo de Veneno]**
+i. Otorga elemento veneno a la armadura del invocador.
+ii. Resistencia al veneno del invocador +100, resistencia a lo sagrado -30.
+
+^ff0000**[Control de Espíritus Nivel 3: Modo Ofensivo]**^000000
+"¡Devoraré todo con el poder del veneno mortal!"
+
+**[Veneno Mortal]**
+i. Esparce veneno mortal en un área de 9x9 alrededor del objetivo, infligiendo daño mágico de elemento veneno de 700% MATK 5 veces a los enemigos en el área, ignorando la defensa mágica del objetivo.
+   (El daño aumenta adicionalmente según el nivel base del invocador).

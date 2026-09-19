@@ -1,0 +1,27 @@
+%f5f5dc
+^000088Venta de objetos en Manuk^000000
+
+Puedes comprar los siguientes objetos con la moneda de Manuk:
+
+^008040[Oportunidad de Manuk]^000000
+Suplemento hecho por el Centro de Investigación de Manuk.
+Se recomienda oficialmente para los trabajadores mineros.
+El daño de los ataques físicos contra los monstruos dentro de la zona de Manuk aumenta un 10 % durante 10 minutos.
+^000088(Nepenthes, Escolopendra, Larva de Escolopendra, Leones de montaña, Tatacho, Mamut rocoso)^000000
+^ffffff_^000000
+Peso: ^7777775^000000
+
+^008040[Valentía de Manuk]^000000
+Suplemento hecho por el Centro de Investigación de Manuk.
+Se recomienda oficialmente para los trabajadores mineros.
+Todo el daño de los monstruos dentro de la zona de Manuk se reduce un 10 % durante 10 minutos.
+^000088(Nepenthes, Escolopendra, Larva de Escolopendra, Leones de montaña, Tatacho, Mamut rocoso) ^000000
+^ffffff_^000000
+Peso: ^7777775^000000
+^008040[Fe de Manuk]^000000
+Suplemento hecho por el Centro de Investigación de Manuk.
+Se recomienda oficialmente para los trabajadores mineros.
+El daño de los ataques mágicos contra los monstruos dentro de la zona de Manuk aumenta un 10 % durante 10 minutos.
+^000088(Nepenthes, Escolopendra, Larva de Escolopendra, Leones de montaña, Tatacho, Mamut rocoso)^000000
+^ffffff_^000000
+Peso: ^7777775^000000

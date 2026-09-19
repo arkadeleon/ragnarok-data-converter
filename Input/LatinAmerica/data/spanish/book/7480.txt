@@ -1,0 +1,86 @@
+%faf0e6
+^000088La triste historia de un chef y su hermano que perdieron el sentido del gusto mientras intentaban 
+cocinar un legendario plato prohibido.^000000
+Se advierte que los siguientes platos podrían ser peligrosos en manos inexpertas.
+Estas son las recetas de cocina definitivas de nivel 9.
+
+
+^ff0000Satay de tendones:^000000 no todos los tendones son duros o chiclosos. Este es un plato hecho con tendones 
+suaves y tiernos.
+Ingredientes: ^4b008240 Tendones, 1 Olla, 10 Quesos, 1 unidad de Salsa picante, 2 Carbones, 30 Hierbas verdes 
+y 10 unidades de Tinta de calamar. ^000000 
+Instrucciones:
+	1. Cortar los Tendones en piezas de 3 cm de largo y espolvorearlas con sal y pimienta.
+	2. Cocer algunas Hierbas verdes a medias y luego dejarlas enfriar y picar el resto.
+	3. Verter la Tinta de calamar y agua en la Olla, y hervir a fuego lento la mezcla para preparar una salsa.
+	4. Agregar la Salsa picante a la salsa y seguir hirviendo hasta que la mezcla se vuelva espesa.
+	5. Encender un fuego con los Carbones y freír los Tendones con las Hierbas verdes cocidas a medias y el Queso 
+hasta que los Tendones se doren.
+	6. Colocar los Tendones fritos en un plato y verte la salsa de Tinta de calamar arriba.
+	7. Servir el Satay de tendones con las Hierbas verdes picadas encima.
+          
+^0000ffTristan XII:^000000vino de frutas que sabe igual al whisky.
+Ingredientes: ^4b008210 Hojas de Yggdrasil, 10 Naranjas, 5 unidades de Alcohol, 4 unidades de Jalea real, 2 Pociones azules, 
+1 Especia amarilla y 10 Hojas de aloe.^000000
+Instrucciones:
+	1. Exprimir las Naranjas.
+	2. Mezclar las Hojas de Yggdrasil bien secas y la Jalea real con la Poción azul en una batidora.
+	3. Agregar Alcohol a la mezcla y añejar durante 12 años.
+	4. Cubrir el borde de un vaso con la Especia amarilla y luego verter el trago dentro.
+	5. Servir la bebida con Jalea real.
+
+^800000Zumo de fruta celestial: ^000000¡un zumo de frutas con un sabor que te hará sentir que flotas 
+entre las nubes!
+Ingredientes: ^4b00822 Manzanas inmaduras, 10 Naranjas, 10 Fresas, 1 Especia roja, 1 Banana tropical, 
+5 unidades de Zumo de uva y 2 unidades de Alcohol. ^000000
+Instrucciones:
+	1. Pelar más Manzanas inmaduras y las Naranjas. Cortar cada manzana en 3 y cada naranja 
+en 4.
+	2. Quitar los tallos de las Fresas, y pelar y cortar las Bananas tropicales.
+	3. Colocar las frutas y la mitad del Zumo de uva en una batidora, y batir bien el contenido.
+	4. Agregar el resto del Zumo de uva y el Alcohol a la batidora, y batir durante otros 30 segundos.
+	5. Verter el zumo en un vaso y espolvorearle Especias rojas por encima.
+                    Nota: Se pueden agregar Cubos de hielo al zumo para enfriarlo y hacer
+ que el sabor sea más definido al mezclar la bebida.
+
+^008040Estofado de carne especial:^000000 ¡un estofado especial con todo tipo de carnes que tiene un aroma tentador!
+Ingredientes: ^4b008210 unidades de Carne, 5 unidades de Jalea real, 20 Brotes, 4 unidades de Salsa sabrosa, 5 Hierbas amarillas, 
+10 Hierbas blancas y 5 Hierbas rojas. ^000000
+Instrucciones:
+	1. Dejar marinar la Carne en vino durante la noche.
+	2. Cocer la Carne marinada al vapor durante 2 horas y luego cortarla en rodajas finas.
+	3. Picar la Jalea real y todas las hierbas, y luego cocer los Brotes a medias.
+	4. Agregar aceite de pimienta a una olla y calentar la olla a temperatura alta.
+                    Cuando la olla esté lo suficientemente caliente, agregar todos los ingredientes.
+	5. Cerrar la tapa de la olla y hervir el estofado a fuego lento durante 3 horas.
+          
+
+^ff8040Gloriosa sopa de dragón:^000000 ¡sopa picante que te hace sentir como un dragón que escupe fuego!
+Ingredientes: ^4b008210 Pieles de dragón, 20 Colas de Dragón, 3 Hojas de Yggdrasil, 6 unidades de Jalea real, 
+1 unidad de Salsa picante, 1 Especia roja y 1 Lombriz de tierra rechoncha. ^000000
+Instrucciones:
+	1. La Piel de Dragón es dura, así que hay que ablandarla con incisiones.
+	2. Cortar las Colas de Dragón en trozos.
+	3. Cortar la Jalea real en forma de medialuna gruesa y cortar en diagonal 
+las Hojas de Yggdrasil.
+	4. Lavar la Lombriz de tierra rechoncha y hervirla en agua a temperatura alta durante 10 minutos.
+	5. Retirar la lombriz cuando el caldo ya haya tomado su sabor. Agregar la Salsa picante 
+y la Especia roja, la Piel de Dragón, las Colas de Dragón y la Jalea real al caldo, 
+y seguir hirviendo.
+	6. Cuando la Piel y las Colas de Dragón estén bien cocidas, agregar las Hojas de Yggdrasil 
+y seguir hirviendo un ratito más.
+
+^400080Refresco con sabor a sangre:^000000 un extraño refresco cuyo sabor es un poco cobrizo… al igual que la sangre.
+Ingredientes: ^4b00821 unidad de Sangre animal, 2 unidades de Anodina, 2 Aloe veras, 2 unidades de Alcohol, 6 unidades de Jalea real, 
+1 Especia roja y 10 unidades de Zumo de manzana. ^000000
+Instrucciones: 
+	1. Picar 1 Aloe vera y remojarlo en agua a 20 grados Celsius 
+durante 5 minutos.
+	2. Picar el otro Aloe vera. Llenar una botella de agua de 3,7 litros 
+con el Aloe vera picado, azúcar y agua, y batir bien durante al menos 
+2 minutos hasta que los cristales de azúcar ya no sean visibles.
+	3. Cerrar la tapa de la botella y dejarla durante entre 4 y 6 días a temperatura ambiente.
+	4. Cortar la Jalea real en trozos y mezclarlos con el Zumo de manzana en una batidora.
+	5. Agregar el refresco de Aloe vera añejado, el Alcohol y la Anodina a la mezcla del zumo, y batir todo 
+durante otros 30 segundos.
+	6. Verter el refresco en un vaso y servir con la Especia roja espolvoreada por arriba.

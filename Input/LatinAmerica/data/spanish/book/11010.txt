@@ -1,0 +1,718 @@
+%f5f5dc
+^000088¡Objetos de premio!^000000
+Hay diferentes tipos de objetos de premio en cada campo de batalla.
+Los objetos de Valentía son un tipo específico de armas y otro equipamiento. (Valentía)
+Los objetos de premio de Valor son objetos consumibles y materiales de fabricación. (Valor)
+El tipo de premio requerido se mostrará entre paréntesis.
+Ningún objeto de premio distinguido puede considerarse el mismo que otro.
+^ff0000AVISO: Los objetos del campo de batalla están ligados al personaje. Elige con sabiduría.^000000
+
+^008040Acero de damasco de Asesino valiente (Valentía: 100)^000000
+Una daga hecha especialmente para asesinar Semihumanos.
+FUE +1, AGI +1, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 75 %.
+Ignora la defensa física de los monstruos Semihumanos un 20 %.
+Si la llevan personajes de clase Ninja, Pícaro o Perseguidor, agrega ATQM +15 %.
+Clase de arma: ^777777Daga^000000 Fuerza de ataque: ^777777120^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Principiante, Espadachín, Mago, Arquero, Comerciante, Ladrón, Vinculador de almas y Ninja^000000
+
+
+^008040Acero de damasco de Asesino valeroso (Valentía: 100)^000000
+Una daga hecha especialmente para asesinar Semihumanos.
+FUE +1, AGI +1, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 75 %.
+Tiene una probabilidad de encantar armas combinadas con el efecto Impacto de ocultismo durante
+6 segundos al atacar.
+Si la llevan personajes de clase Ninja, Pícaro o Perseguidor, agrega ATQM +15 %.
+Clase de arma: ^777777Daga^000000 Fuerza de ataque: ^777777120^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Principiante, Espadachín, Mago, Arquero, Comerciante, Ladrón, Vinculador de almas y Ninja^000000
+
+^008040Espada de gladiador valeroso (Valentía: 100)^000000
+Una de las espadas preferidas de los gladiadores, diseñada especialmente para pelear contra Semihumanos.
+FUE +1, DES +1, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 75 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Clase de arma: ^777777Espada de una mano^000000 Fuerza de ataque: ^777777115^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Principiante, Espadachín, Comerciante, Ladrón^000000
+^008040Espada de gladiador valiente (Valentía: 100)^000000
+Una de las espadas preferidas de los gladiadores, diseñada especialmente para pelear contra Semihumanos.
+FUE +1, DES +1, ATQM +10 %, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 75 %.
+Clase de arma: ^777777Espada de una mano^000000 Fuerza de ataque: ^777777115^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Principiante, Espadachín, Comerciante, Ladrón^000000
+
+^008040Lanza de atacante (Valentía: 100)^000000
+Una lanza especial hecha para arremeter contra las posiciones enemigas, diseñada especialmente
+para pelear contra Semihumanos.
+FUE +2, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 95 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Aumenta la velocidad de ataque un 20 % si la lleva un Cruzado o un Paladín.
+Clase de arma: ^777777Lanza^000000 Fuerza de ataque: ^77777760^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Espadachín^000000
+
+^008040Báculo mágico de brujo (Valentía: 100)^000000
+Un cetro modificado para magos valientes que se enfrentan en batalla a sus enemigos.
+Está diseñado especialmente para pelear contra Semihumanos.
+ATQM +15 %, INT +4, DES +3, Indestructible.
+Ignora la defensa mágica de monstruos Semihumanos un 25 %.
+Activa una probabilidad del 5 % de infligir Aturdimiento al usar ataques mágicos.
+Clase de arma: ^777777Cetro^000000 Fuerza de ataque: ^77777770^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Mago, Acólito y Vinculador de almas ^000000
+
+^008040Báculo de batalla de brujo (Valentía: 100)^000000
+Un cetro modificado para magos valientes que se enfrentan en batalla a sus enemigos.
+Está diseñado especialmente para pelear contra Semihumanos.
+ATQM +15 %, INT +3, DES +3, Indestructible.
+Aumenta el daño mágico contra monstruos Semihumanos un 15 %.
+Activa una probabilidad del 5 % de infligir Aturdimiento al usar ataques mágicos.
+Clase de arma: ^777777Cetro^000000 Fuerza de ataque: ^77777770^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Mago, Acólito y Vinculador de almas ^000000
+^008040Báculo de recuperación fuerte (Valentía: 100)^000000
+Un cetro para curar a los aliados durante la batalla. Proporciona un tratamiento especial a las heridas graves.
+ATQM +15 %, Indestructible.
+Aumenta el índice de recuperación de Curación y Santuario un 14 % cuando los lanza el portador.
+Restaura 5 PM cada 10 s.
+Clase de arma: ^777777Cetro^000000 Fuerza de ataque: ^77777770^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Mago, Acólito y Vinculador de almas^000000
+
+^008040Báculo de recuperación veloz (Valentía: 100)^000000
+Un cetro para curar a los aliados durante la batalla. Está optimizado para acelerar la curación.
+ATQM +15 %, INT +3, DES +2, Indestructible.
+Reduce el retraso de habilidad un 15 %.
+Restaura 5 PM cada 10 s.
+Clase de arma: ^777777Cetro^000000 Fuerza de ataque: ^77777770^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Mago, Acólito y Vinculador de almas^000000
+
+
+^008040Lucero del alba valeroso de campo de batalla (Valentía: 100)^000000
+Una maza mortal que suelen esgrimir los mejores luchadores; parece poder atravesar
+la armadura del enemigo.
+Está diseñada especialmente para pelear contra Semihumanos.
+FUE +1, DES +1, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 75 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Clase de arma: ^777777Maza^000000 Fuerza de ataque: ^777777105^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Principiante, Espadachín, Comerciante y Acólito^000000
+
+
+
+
+
+
+
+
+
+^008040Lucero del alba valiente de campo de batalla (Valentía: 100)^000000
+Una maza mortal que suelen esgrimir los mejores peleadores; parece poder atravesar
+la armadura del enemigo.
+Está diseñada especialmente para pelear contra Semihumanos.
+FUE +1, DES +1, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 75 %.
+Al atacar cuerpo a cuerpo, tiene una probabilidad de infligir el efecto ^FF0000Aturdimiento^000000 durante 6 s.
+Clase de arma: ^777777Maza^000000 Fuerza de ataque: ^777777105^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Principiante, Espadachín, Comerciante y Acólito^000000
+
+
+
+
+
+
+
+
+
+^008040Guitarra valerosa de campo de batalla (Valentía: 100)^000000
+Una guitarra creada para animar a los ejércitos en medio de la batalla.
+Parece útil para pelear contra Semihumanos.
+DES +2, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 95 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Clase de arma: ^777777Instrumento musical^000000 Fuerza de ataque: ^77777750^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Bardo^000000
+
+^008040Guitarra valiente de campo de batalla (Valentía: 100)^000000
+Una guitarra creada para animar a los ejércitos en medio de la batalla.
+Parece útil para pelear contra Semihumanos.
+DES +2, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 95 %.
+Aumenta el daño de Tiros arcanos un 20 %.
+Clase de arma: ^777777Instrumento musical^000000 Fuerza de ataque: ^77777750^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Bardo^000000
+^008040Lazo de guerra valeroso (Valentía: 100)^000000
+Un látigo especialmente fabricado para luchar contra Semihumanos;
+tiene la fuerza suficiente como para cortar su carne.
+DES +2, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 95 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Clase de arma: ^777777Látigo^000000 Fuerza de ataque: ^77777750^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Bailarina^000000
+
+^008040Lazo de guerra valiente (Valentía: 100)^000000
+Un látigo especialmente fabricado para luchar contra Semihumanos;
+tiene la fuerza suficiente como para cortar su carne.
+DES +2, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 95 %.
+Aumenta el daño de Tiros arcanos un 20 %.
+Clase de arma: ^777777Látigo^000000 Fuerza de ataque: ^77777750^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Bailarina^000000
+^008040Libro de estrategia de guerra valiente (Valentía: 100)^000000
+Un libro de batalla escrito por antiguos estrategas de un país del lejano oriente.
+Muchos militaristas siguen estudiándolo.
+FUE +2, INT +1, ATQM +15 %, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 75 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Clase de arma: ^777777Libro^000000 Fuerza de ataque: ^77777790^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Sacerdote, Sabio y Maestro de Taekwon^000000
+
+^008040Libro de estrategia de guerra audaz (Valentía: 100)^000000
+Un libro de batalla escrito por antiguos estrategas de un país del lejano oriente.
+Muchos militaristas siguen estudiándolo.
+FUE +2, INT +1, ATQM +15 %.
+Indestructible.
+Ignora la defensa mágica de monstruos Semihumanos un 25 %.
+Clase de arma: ^777777Libro^000000 Fuerza de ataque: ^77777790^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Sacerdote, Sabio y Maestro de Taekwon^000000
+^008040Puño de guerra valeroso (Valentía: 100)^000000
+Guantes de guerra que usan los combatientes en el campo de batalla.
+Su portador nunca se agota, ya que le otorga un poder ilimitado.
+FUE +2, AGI +1, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 95 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Cada ataque físico agrega la probabilidad de lanzar automáticamente la habilidad Zen.
+Clase de arma: ^777777Garra^000000 Fuerza de ataque: ^77777730^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Sacerdote y Monje^000000
+
+
+
+
+
+
+
+
+
+^008040Puño de guerra valiente (Valentía: 100)^000000
+Guantes de guerra que usan los combatientes en el campo de batalla.
+Su portador nunca se agota, ya que le otorga un poder ilimitado.
+FUE +2, INT +1, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 95 %.
+Reduce el tiempo de lanzamiento de Puño de guillotina un 25 %.
+Tiene una probabilidad de anular el tiempo de lanzamiento de ^FF0000Puño de guillotina^000000 durante 6 s.
+Clase de arma: ^777777Garra^000000 Fuerza de ataque: ^77777730^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Sacerdote y Monje^000000
+
+
+
+
+
+
+
+
+
+^008040Katzbalger del atacante valiente (Valentía: 100)^000000
+Una mandoble hecha para arremeter contra la posición enemiga, 
+diseñada especialmente para pelear contra Semihumanos.
+FUE +2, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 55 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Clase de arma: ^777777Mandoble^000000 Fuerza de ataque: ^777777200^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Espadachín^000000
+
+^008040Katzbalger del atacante valeroso (Valentía: 100)^000000
+Una mandoble hecha para arremeter contra la posición enemiga, 
+diseñada especialmente para pelear contra Semihumanos.
+CRÍT +20, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 55 %.
+Aumenta el daño crítico un 20 %.
+Clase de arma: ^777777Mandoble^000000 Fuerza de ataque: ^777777200^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Espadachín^000000
+^008040Pica de atacante (Valor: 100)^000000
+Lanza de dos manos hecha para arremeter contra la posición enemiga, 
+diseñada especialmente para pelear contra Semihumanos.
+FUE +2, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 25 %.
+Ignora la defensa física de monstruos Semihumanos.
+Clase de arma: ^777777Lanza de dos manos^000000 Fuerza de ataque: ^777777160^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Espadachín^000000
+
+^008040Hacha de guerra valerosa demencial (Valentía: 100)^000000
+Una aterradora hacha de dos manos que se dice que estimula los nervios para matar Semihumanos.
+FUE +3, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 55 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Clase de arma: ^777777Hacha^000000 Fuerza de ataque: ^777777200^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Espadachín y Comerciante^000000
+
+^008040Hacha de guerra valiente demencial (Valentía: 100)^000000
+Una aterradora hacha de dos manos que se dice que estimula los nervios para matar Semihumanos.
+FUE +3, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 55 %.
+Al atacar, tiene una probabilidad
+de activar una probabilidad de un 100 % de destruir la armadura del enemigo al 100 % durante 3 segundos.
+Clase de arma: ^777777Hacha^000000 Fuerza de ataque: ^777777200^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Espadachín y Comerciante^000000
+
+^008040Shuriken Huuma de la valentía (Valentía: 100)^000000
+Un Shuriken Huuma que posee una gran fuerza 
+y aporta un poder extraordinario en las batallas contra Semihumanos.
+FUE +2, DES +1, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 95 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Clase de arma: ^777777Huuma^000000 Fuerza de ataque: ^77777755^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Ninja^000000
+^008040Shuriken Huuma de la audacia (Valentía: 100)^000000
+Un Shuriken Huuma que posee una gran fuerza 
+y aporta un poder extraordinario en batallas contra Semihumanos.
+FUE +2, DES +1, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 95 %.
+Tiene una probabilidad de aumentar la fuerza de ataque de 
+^FF0000Arrojar Shuriken Huuma^000000 y ^FF0000Golpe letal^000000 un 100 % durante 10 segundos.
+Clase de arma: ^777777Huuma^000000 Fuerza de ataque: ^77777755^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Ninja^000000
+
+
+
+
+
+
+
+
+
+^008040Katar de masacre valiente (Valentía: 100)^000000
+Un Katar especialmente modificado para las batallas contra Semihumanos.
+Puede usarse para crímenes terribles si la equipa un Maestro Asesino.
+FUE +1, DES +1, SUE +1, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 70 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Clase de arma: ^777777Katar^000000 Fuerza de ataque: ^777777130^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Asesino^000000
+
+
+
+
+
+
+
+
+
+
+^008040Katar de masacre valeroso (Valentía: 100)^000000
+Un Katar especialmente modificado para las batallas contra Semihumanos.
+Puede usarse para crímenes terribles si la equipa un Maestro Asesino.
+FUE +1, DES +1, SUE +1, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 70 %.
+Aumenta el daño crítico un 20 %.
+Aumenta la Velocidad de ataque un 5 %
+Clase de arma: ^777777Katar^000000 Fuerza de ataque: ^777777130^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Asesino^000000
+
+^008040Ballesta de guerra valerosa (Valentía: 100)^000000
+Una ballesta diseñada para infligir más daño a los monstruos Semihumanos.
+DES +2, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 55 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Clase de arma: ^777777Arco^000000 Fuerza de ataque: ^777777100^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Ladrón y Arquero^000000
+^008040Ballesta de guerra valiente (Valentía: 100)^000000
+Una ballesta diseñada para infligir más daño a los monstruos Semihumanos.
+DES +2, INT +10, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 55 %.
+Clase de arma: ^777777Arco^000000 Fuerza de ataque: ^777777100^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Ladrón y Arquero^000000
+
+^008040Revólver de soldado (Valentía: 100)^000000
+Una pistola hecha para batallas a corta y media distancia contra Semihumanos.
+Parece poder atravesar incluso los chalecos a prueba de balas.
+DES +2, PREC -10, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 55 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Tiene una probabilidad de aumentar la velocidad de ataque un 100 % durante 3 segundos.
+Clase de arma: ^777777Pistola^000000 Fuerza de ataque: ^77777770^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Pistolero^000000
+
+^008040Rifle de soldado (Valentía: 100)^000000
+Un rifle hecho para batallas a corta y media distancia contra Semihumanos, que reduce el retraso al apuntar
+gracias a su diseño que reduce el temblor de las manos del tirador.
+DES +2, PREC +10, CRÍT +10, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 75 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Reduce el tiempo de lanzamiento de Seguimiento un 25 %.
+Clase de arma: ^777777Rifle^000000 Fuerza de ataque: ^77777750^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Pistolero^000000
+
+
+
+
+
+
+
+
+
+^008040Ametralladora de soldado (Valentía: 100)^000000
+Una ametralladora especializada hecha para pelear contra Semihumanos; 
+en ocasiones, dispara balas de alta potencia.
+DES +2, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 35 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Tiene una probabilidad de agregar ATQ 80 durante 6 segundos,
+pero, debido al retroceso, drenará 120 PV cada segundo.
+Drena 120 PV cada 1 s por el retroceso.
+Clase de arma: ^777777Ametralladora^000000 Fuerza de ataque: ^77777780^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000 Clases: ^777777Pistolero^0000
+
+
+
+
+
+
+
+
+^008040Escopeta de soldado (Valentía: 100)^000000
+Una escopeta con un gran poder de ataque para las batallas a corta distancia contra Semihumanos.
+Su potencia varía ampliamente con cada ataque.
+DES +2, inflige daño por salpicadura, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 55 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Tiene una probabilidad de agregar ATQ 80 durante 6 segundos, pero drena 100 PV cada segundo.
+Drena 100 PV cada 1 s por el retroceso.
+Clase de arma: ^777777Escopeta^000000 Fuerza de ataque: ^777777100^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Pistolero^000000
+
+
+
+
+
+
+
+
+^008040Lanzagranadas de soldado (Valentía: 100)^000000
+Un lanzagranadas que despliega un gran poder de fuego en batallas contra Semihumanos.
+DES +2, Indestructible.
+Aumenta la fuerza de ataque físico contra monstruos Semihumanos un 35 %.
+Ignora la defensa física de monstruos Semihumanos un 20 %.
+Tiene una probabilidad de sumar ATQ 300 durante 9 segundos, pero drena 120 PV cada segundo.
+Drena 120 PV cada 1 s por el retroceso.
+Clase de arma: ^777777Lanzagranadas^000000 Fuerza de ataque: ^777777300^000000 Peso: ^7777770^000000
+Nivel del arma: ^7777773^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Pistolero^000000
+
+^008040Manto de capitán (50)^000000
+Un manto decoroso y espléndido que se otorga a los guerreros
+que demuestran un gran honor en el campo de batalla.
+Reduce el daño de los monstruos Semihumanos un 1 %.
+PVM +50. DEFM +1.
+Clase de arma: ^777777Prenda^000000 Defensa: ^7777774^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Espadachín, Comerciante, Ladrón, Ninja, chico/chica Taekwon, Maestro de Taekwon^000000
+^008040Manto de comandante (50)^000000
+Un manto que se otorga a los comandantes superiores
+que demuestran una habilidad sobresaliente al apoyar a su base.
+Reduce el daño de los monstruos Semihumanos un 1 %.
+PVM +50. DEFM +1.
+Clase de arma: ^777777Prenda^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Mago, Acólito, Arquero y Vinculador de almas^000000
+
+^008040Manto de sheriff (50)^000000
+Un manto impregnado de la tensión y el misterioso espíritu de las tierras desoladas.
+Reduce el daño de los monstruos Semihumanos un 1 %.
+PVM +50. DEFM +1.
+Clase de arma: ^777777Prenda^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Pistolero^000000
+
+
+
+^008040Grebas de batalla (50)^000000
+Grebas que optimizan la calidad de las habilidades de batalla.
+Reducen el daño de los monstruos Semihumanos un 1 %.
+PVM +100. DEFM +1.
+Clase de arma: ^777777Calzado^000000 Defensa: ^7777774^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Espadachín, Comerciante, Ladrón, Ninja, chico/chica Taekwon y Maestro de Taekwon^000000
+
+^008040Botas de combate (50)^000000
+Calzado cómodo y con un rendimiento sólido para la batalla.
+Reducen el daño de los monstruos Semihumanos un 1 %.
+PVM +100. DEFM +1.
+Clase de arma: ^777777Calzado^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Mago, Acólito, Arquero y Vinculador de almas^000000
+
+
+
+
+^008040Botas de batalla (50)^000000
+No parecen diferentes a otras botas, pero están diseñadas exclusivamente para Pistoleros.
+Reduce el daño de los monstruos Semihumanos un 1 %.
+PVM +100. DEFM +1.
+Clase de arma: ^777777Calzado^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Pistolero^000000
+
+
+
+
+
+
+
+
+
+
+
+
+^008040Placa de atacante (80)^000000
+Diseñada para guerreros valientes que enfrentan enemigos en la primera línea.
+Produce múltiples efectos cuando se combina con un conjunto.
+Reduce el daño de los monstruos Semihumanos un 2 %.
+PVM +150, DEFM +2, VIT +3, aumenta los PVM un 12 %. 
+El efecto de la habilidad Curación y de los objetos de recuperación aumenta un 10 %.
+Aumenta el daño de todos los monstruos (excepto los Semihumanos)
+en tres cuando se equipa con Grebas de batalla y Manto de capitán.
+Tiene una probabilidad de restaurar 6000 PV durante 10 s
+cuando el portador recibe daño físico.
+Clase de arma: ^777777Armadura^000000 Defensa: ^7777777^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Espadachín, Comerciante, chico/chica Taekwon y Maestro de Taekwon^000000
+
+
+
+
+
+
+^008040Armadura de ingeniero de élite (80)^000000
+Diseñada para guerreros sobresalientes que tienen habilidades de ataque extraordinarias.
+Produce múltiples efectos cuando se combina con un conjunto.
+Reduce el daño de los monstruos Semihumanos un 2 %.
+PVM +150, DEFM +2, FUE +3, Indestructible.
+Aumenta los PVM un 12 % y el daño de Mamonita un 20 %.
+Aumenta la restauración de PV de ^FF0000Curar^000000 y ^FF0000Lanzador de pociones^000000 un 10 %.
+Aumenta el daño de todos los monstruos (excepto monstruos Semihumanos) 
+en tres cuando se equipa con Grebas de batalla y Manto de capitán.
+Clase de arma: ^777777Armadura^000000 Defensa: ^7777777^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000 Clases: ^777777Comerciante^000000
+
+
+
+
+
+
+
+
+^008040Túnica de Asesino (80)^000000
+Si lo que deseas es moverte más rápido, esto podría ser útil. 
+Produce múltiples efectos cuando se combina con un conjunto.
+Reduce el daño de los monstruos Semihumanos un 2 %.
+PVM +150, DEFM +2, AGI +3.
+Aumenta los PVM un 12 %, la velocidad de ataque y la probabilidad de ataque crítico un 5 %.
+Aumenta el daño de todos los monstruos (excepto los monstruos Semihumanos) 
+en tres cuando se equipa con Grebas de batalla y Manto de capitán.
+Tiene una probabilidad de restaurar 3000 PV por segundo durante 10 segundos
+cuando el portador recibe daño físico.
+Clase de arma: ^777777Armadura^000000 Defensa: ^7777777^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000 
+Clases: ^777777Ladrón y Ninja^000000
+
+
+
+
+
+
+^008040Túnica de batalla de Brujo (80)^000000
+Una túnica de guerra que ayuda a aumentar las posibilidades de supervivencia.
+Produce múltiples efectos cuando se combina con un conjunto.
+Reduce el daño de los monstruos Semihumanos un 2 %.
+PVM +150, DEFM +2, INT +3.
+Aumenta los PVM un 12 % y la resistencia al estado Aturdimiento un 20 %.
+Aumenta el daño de todos los monstruos (excepto los Semihumanos) 
+en tres cuando se equipa con Botas de combate y Manto de comandante.
+Tiene una probabilidad de encantar una armadura con la propiedad Fantasma durante 10 s 
+cuando el portador recibe daño físico.
+Clase de arma: ^777777Armadura^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Mago^000000
+
+
+
+
+
+
+^008040Túnica de médico (80)^000000
+Diseñada para los guerreros responsables que se encargan de la supervivencia del gremio o del grupo.
+Produce múltiples efectos cuando se combina con un conjunto.
+Reduce el daño de los monstruos Semihumanos un 2 %.
+PVM +150, DEFM +2, INT +3.
+Aumenta el daño de todos los monstruos (excepto los Semihumanos) 
+en tres cuando se equipa con Botas de combate y Manto de comandante.
+Aumenta los PVM un 12 %. Reduce el tiempo de lanzamiento de Luz sagrada un 50 %.
+Aumenta la restauración de PV de ^FF0000Curar^000000 y ^FF0000Santuario^000000 un 6 % cuando los lanza el portador.
+Tiene una probabilidad de encantar la armadura con la propiedad Fantasma durante 10 segundos 
+cuando el portador recibe daño físico.
+Clase de arma: ^777777Armadura^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Acólito^000000
+
+
+
+
+
+^008040Traje de Arquero élite (80)^000000
+Si lo que deseas es convertirte en un guerrero preciso y eficiente en combate, esto podría ser útil.
+Produce múltiples efectos cuando se combina con un conjunto.
+Reduce el daño de los monstruos Semihumanos un 2 %.
+PVM +150, DEFM +2, DES +3.
+Aumenta los PVM un 12 %. Reduce el daño a distancia un 10 % y el retraso de habilidad un 25 %.
+Aumenta el daño de todos los monstruos (excepto los monstruos Semihumanos) 
+en tres cuando se equipa con Botas de combate y Manto de comandante.
+Clase de arma: ^777777Armadura^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000 
+Clases: ^777777Arquero^000000
+
+
+
+
+
+
+
+
+^008040Traje de Pistolero de élite (80)^000000
+¡Cualquier auténtico Pistolero querría este traje!
+Produce múltiples efectos cuando se combina con un conjunto.
+Reduce el daño de los monstruos Semihumanos un 2 %.
+PVM +150, DEFM +2, DES +3.
+Aumenta los PVM un 12 %. Reduce el daño a distancia un 10 % y el retraso de habilidad un 25 %.
+Aumenta el daño de todos los monstruos (excepto los monstruos Semihumanos) 
+en tres cuando se equipa con Botas de batalla y Manto de sheriff.
+Clase de arma: ^777777Armadura^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000 
+Clases: ^777777Pistolero^000000
+
+
+
+
+
+
+
+
+^008040Medalla de honor (500)^000000
+Una medalla que se otorga a los guerreros honorables.
+ATQ +5 %, ATQM +5 %. PREC +10. PVM +500. PMM +50.
+Tiene una probabilidad de infligir el estado ^FF0000Aturdimiento^000000 a los objetivos
+al atacar a un enemigo con ataques físicos a corta distancia.
+Clase de arma: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777770^000000
+Clases: ^777777Espadachín/Maestro de Taekwon^000000
+
+^008040Medalla de honor (500)^000000
+Una medalla que se otorga a los guerreros honorables.
+ATQ +5 %, ATQM +5 %, EVA +10, PVM +300, PMM +80.
+Tiene una probabilidad de infligir el estado ^FF0000Envenenamiento^000000 a los objetivos
+al atacar al enemigo con ataques físicos a corta distancia.
+Clase de arma: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777770^000000
+Clases: ^777777Ladrón y Ninja^000000
+
+
+^008040Medalla de honor (500)^000000
+Una medalla que se otorga a los guerreros honorables.
+ATQ +5 %, ATQM +5 %, DEFM +6, PVM +600.
+Tiene una probabilidad de infligir el estado ^FF0000Silencio^000000 a los objetivos
+al atacar a un enemigo con ataques físicos a corta distancia.
+Clase de arma: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777770^000000
+Clases: ^777777Acólito^000000
+
+^008040Medalla de honor (500)^000000
+Una medalla que se otorga a los guerreros honorables.
+ATQ +5 %, ATQM +5 %, DEFM +6, PVM +600.
+Tiene una probabilidad de infligir el estado ^FF0000Piedra^000000 cuando el portador recibe daño físico.
+Clase de arma: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777770^000000
+Clases: ^777777Mago^000000
+
+
+
+^008040Medalla de honor (500)^000000
+ATQ +5 %, ATQM +5 %, CRÍT +10, PVM +300, PMM +80.
+Tiene una probabilidad de infligir el estado ^FF0000Ceguera^000000 
+al atacar a un enemigo con ataques físicos a distancia.
+Clase de arma: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777770^000000
+Clases: ^777777Arquero^000000
+
+^008040Medalla de honor (500)^000000
+Una medalla que se otorga a los guerreros honorables.
+ATQ +5 %, ATQM +5 %, VELA +10 %, PVM +500, PMM +50.
+Tiene una probabilidad de infligir el estado ^FF0000Maldición^000000 
+al atacar a un enemigo con ataques físicos a corta distancia.
+Clase de arma: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777770^000000
+Clases: ^777777Comerciante^000000
+
+
+
+^008040Insignia de sheriff: Pistolero (500)^000000
+Una insignia otorgada a los guerreros honorables.
+ATQ +5 %, ATQM +5 %. CRÍT +10. PVM +300. PMM +80.
+Tiene una probabilidad de infligir el estado ^FF0000Oscuridad^000000 
+al recibir ataques físicos a distancia.
+Clase de arma: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel requerido: ^77777780^000000
+Clases: ^777777Pistolero^000000
+
+^008040Ración rosa sabrosa (10)^000000
+Alimento preparado para situaciones de emergencia. No comas demasiado rápido o podrías atragantarte.
+^000088ATQ +15 durante 10 minutos.^000000
+Peso: ^7777777^000000
+
+^008040Ración blanca sabrosa (10)^000000
+Alimento preparado para situaciones de emergencia. No comas demasiado rápido o podrías atragantarte.
+^000088ATQM +15 durante 10 minutos.^000000
+Peso: ^7777777^000000
+
+^008040Ración militar A (5)^000000
+Ración A mejorada, ideal para la gente con vidas ajetreadas. No esperes mucho del sabor.
+^000088Restaura un 5 % del total de los PV.^000000
+Peso: ^7777777^000000
+
+^008040Ración militar B (10)^000000
+Ración B mejorada, ideal para la gente con vidas ajetreadas. No esperes mucho del sabor.
+^000088PREC +33 durante 10 minutos.^000000
+Peso: ^7777777^000000
+
+^008040Ración militar C (10)^000000
+Ración C mejorada, ideal para la gente con vidas ajetreadas. No esperes mucho del sabor.
+^000088EVA +33 durante 10 minutos.^000000
+Peso: ^7777777^000000

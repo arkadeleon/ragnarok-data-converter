@@ -1,0 +1,39 @@
+%faf0e6
+^000088- Receitas culinárias de nível 7 -^000000
+                                              ^800000Por Charles Orleans^000000
+
+^ff0000Assado Inteiro:^000000 FOR +7.
+Ingredientes:
+        ^0000ff1 Carne, 1 Lenha em Brasa, 1 Carvão,^000000
+        ^0000ff1 Molho Picante, 1 Tronco, 1 Erva Branca^000000			
+
+^0000ffChá de Ervas e Geleia Real:^000000 INT +7.
+Ingredientes:
+        ^0000ff1 Geleia Real, 1 Mel, 1 Erva Branca,^000000
+        ^0000ff1 Folha de Hinalle, 1 Condimento Amarelo^000000			
+
+^800000Pão Doce Assombroso:^000000 DES +7.
+Ingredientes:
+        ^0000ff1 Pão, 1 Mastela, 1 Molho Doce, 1 Menta,^000000
+        ^0000ff1 Amuleto, 1 Maçã Verde^000000
+
+
+^008040Crocodilo com Vegetais:^000000 AGI +7.
+Ingredientes:
+        ^0000ff1 Pele de Anolian, 1 Zé-Lanterna, 1 Cenoura,^000000
+        ^0000ff1 Folha de Aloe, 1 Erva Amarela, 1 Condimento Amarelo^000000		
+		
+^ff8040Banquete Suntuoso:^000000 VIT +7.
+Ingredientes:
+        ^0000ff1 Cauda de Peixe, 1 Folha de Aloe, 1 Crina,^000000
+        ^0000ff1 Peixe Fresco, 1 Ração para Bichinho, 1 Molho Doce^000000	
+
+^400080Espetinho Sortido:^000000 SOR +7.
+Ingredientes:
+        ^0000ff1 Casca Escamada, 1 Guelra, 1 Grama,^000000
+        ^0000ff1 Carne, 1 Cogumelo Comestível, 1 Carne de Ostra^000000	
+		
+^400080Rodízio Nível 7:^000000 Todos os atributos +7.
+Ingredientes:
+        ^0000ff1 Assado Inteiro, 1 Chá de Ervas e Geleia Real, 1 Crocodilo no Vapor,^000000
+        ^0000ff1 Pão Doce Assombroso, 1 Banquete Suntuoso, 1 Espetinho Sortido^000000			

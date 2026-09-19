@@ -1,0 +1,102 @@
+%faf0e6
+^000088¡Un libro escrito por un chef solitario que deambula por el reino de Rune-Midgarts!^000000
+ - Un tomo impresionante de recetas de cocina poéticas de nivel 8. -
+¡Déjate llevar por los maravillosos platos del misterioso mundo culinario de este chef solitario!
+
+
+^ff0000Pata de oso especial:^000000 
+Ingredientes: ^4b008220 Pieles de pata de oso, 10 Zanahorias, 10 Calabazas de Halloween, 2 Hojas de aloe, 
+1 Hoja de Hinalle y 1 unidad de Salsa sabrosa. ^000000
+Instrucciones: 
+	1. Dejar remojar la Piel de pata de oso en agua durante algunas horas.
+	2. Lavar y enjuagar la Piel de pata de oso remojada con agua corriente fría y cocerla a medias.
+                    Volver a lavar la Piel de pata de oso cocida a medias y hacerle 
+cortes transversales a la carne. Luego, envolver la carne con un paño de algodón.
+	3. Hervir la Piel de pata de oso envuelta en agua con sal, vino y pimienta. Colar la superficie 
+cuando burbujee y luego agregar jengibre y pimientos verdes.
+	4. Hervir el caldo a fuego lento durante algunas horas.
+	5. Cortar las Zanahorias y las Calabazas de Halloween en rodajas, y cocerlas a medias.
+	6. Lavar las Hojas y freírlas con sal. Servir la mitad de las hojas fritas 
+en un plato y colocar la Piel de pata de oso al vapor encima. Usar el resto 
+de las hojas para adornar el plato con las Zanahorias y las Calabazas cocidas a medias.
+	7. Agregar la Salsa sabrosa al caldo de Piel de pata de oso y hervirlo un rato más.
+                    Cuando el caldo se espese, agregarle aceite de oliva y luego verter el caldo 
+sobre la Piel de pata de oso al vapor.
+Nota: La Piel de pata de oso tiene un olor particular. Asegurarse de eliminar todos los pelos y la suciedad 
+antes de cocinar, cambiar el agua de forma frecuente mientras se remoja la Piel de pata y cocer al vapor 
+con la configuración de temperatura más alta posible.
+
+^0000ffTé de la familia real:^000000 su sabor depende de cómo se mezcle.
+Ingredientes: ^4b00824 Frutas del cactus, 10 Hojas de Hinalle, 3 Hojas de Yggdrasil, 10 Hojas de aloe, 
+6 unidades de Jalea real y 1 Especia amarilla. ^000000
+Instrucciones: 
+	1. Tostar las Frutas del cactus bien secas y las demás hojas de hierbas.
+	2. Cortar las hojas tostadas al largo deseado y mezclarlas. Usar más Frutas del cactus 
+en la mezcla si se prefiere un sabor ácido o más Hojas de Hinalle 
+si se prefiere un sabor más amargo.
+	3. Calentar agua y verter el agua caliente en una tetera antes de que hierva.
+	4. Dejar reposar las hojas pequeñas de 2 a 3 minutos y las hojas grandes 
+de 3 a 4 minutos.
+	5. Agregar Jalea real y Especia amarilla a gusto antes de beber.
+
+^800000Tostada especial:^000000 una tostada hecha con ingredientes inusuales.
+Ingredientes: ^4b008210 Panes, 2 unidades de Jalea real, 5 unidades de Carne, 10 Fresas, 1 unidad de Salsa picante, 10 Quesos 
+y 1 unidad de Salsa dulce. ^000000
+Instrucciones: 
+	1. Picar la Carne y luego mezclarla con la Salsa picante.
+	2. Hacer una hamburguesa con la carne picada y cocinar hasta que esté bien cocida.
+	3. Preparar una mermelada con las Fresas o solo cortarlas en rodajas si están frescas.
+	4. Tostar y untar mantequilla en 2 rebanadas de Pan.
+	5. Untar mermelada de fresa de un lado de una de las rebanadas de pan y luego colocar la hamburguesa 
+arriba. Untar la Salsa picante, agregar una rebanada de queso y cubrir todo 
+con la otra rebanada de pan.
+	6. Si se usan Fresas frescas cortadas, esparcir la Salsa picante de un lado de una de las rebanadas de pan 
+y colocar la hamburguesa encima. Mezclar la Salsa dulce con la Jalea real 
+y untarlas de un lado de la otra rebanada de pan, agregar una rebanada de queso 
+y las rodajas de fresas frescas encima.
+	7. Unir las rebanadas de pan para crear un sándwich.
+
+^008040Curry superpicante +9:^000000 ¡curry picante inimaginable!
+Ingredientes: ^4b00821 Aloe vera, 1 unidad de Salsa picante, 10 unidades de Carne, 10 Hojas de Hinalle, 10 Calabazas de Halloween 
+y 10 Zanahorias. ^000000
+Instrucciones: 
+	1. Secar el Aloe vera y las Hojas de Hinalle, y luego molerlas hasta que se conviertan en polvo.
+	2. Mezclar los polvos en proporciones a gusto.
+	3. Cortar la Carne en cubos de 2 cm, y espolvorearle sal y pimienta encima.
+	4. Cortar las Calabazas de Halloween y las Zanahorias en cubos, y freírlas con mantequilla.
+	5. Freír la carne cortada y las verduras por separado. Agregar las verduras fritas 
+cuando la carne esté a medio cocer y luego freírlas juntas un rato más.
+	6. Agregar el polvo de Aloe vera y de Hinalle y agua a la sartén.
+	7. Reducir la mezcla, agregar Salsa picante y seguir reduciendo 
+hasta que el curry quede espeso.
+
+^ff8040Burrito gigante:^000000 ¡lo suficientemente grande como para compartir con amigos!
+Ingredientes: ^4b008220 Hojas de higuera, 20 unidades de Carne, 5 Zanahorias arcoiris, 10 Calabazas de Halloween, 
+1 unidad de Salsa sabrosa y 2 Bolsas de granos. ^000000
+Instrucciones:
+	1. Pelar los tallos de las Hojas de higuera. Cocer las Hojas de higuera con las Calabazas de Halloween al vapor 
+y luego enfriarlas con agua corriente.
+	2. Remojar la Carne en agua para eliminar el exceso de sangre y luego atar la Carne con hilo.
+	3. Hervir las Zanahorias y las Calabazas de Halloween en agua para preparar un caldo.
+	4. Colocar la Carne atada en el caldo de Zanahoria y Calabaza de Halloween, y hervir durante 40 minutos.
+                    Agregar Salsa sabrosa a gusto.
+	5. Cuando la Carne esté cocida, apagar el fuego y dejar enfriar.
+	6. Cortar la Carne en rodajas finas.
+	7. Eliminar las cascarillas de los granos y preparar un poco de arroz.
+	8. Cortar las Zanahorias en rodajas finas y freírlas.
+	9. Extender una Hoja de higuera y doblar el tallo hacia la hoja.
+	10. Colocar el Arroz, las rodajas de Carne, las rodajas de Zanahoria y la Calabaza de Halloween cocida en la hoja.
+	11. Esparcir Salsa sabrosa arriba y enrollar la hoja para hacer… ¿un burrito?
+
+^400080Bola de arroz con sabor a fresa:^000000 una deliciosa bola de arroz, 
+también conocida como Bola de arroz con sabor a Poring.
+Ingredientes: ^4b008210 Fresas, 5 Bolsas de granos, 10 Hojas de higuera, 1 Especia amarilla, 2 Especias rojas 
+y 1 unidad de Salsa sabrosa. ^000000
+Instrucciones:
+	1. Eliminar las cascarillas de los granos y preparar arroz.
+	2. Exprimir las fresas para hacer jugo de fresas.
+	3. Colocar el arroz hervido en un cuenco grande y dejarlo enfriar.
+	4. Agregarle Salsa sabrosa, Especia amarilla y jugo de fresas al arroz, 
+y mezclarlo bien.
+	5. Tomar un puñado de arroz para formar una bola y envolverla con una Hoja de higuera a medio cocer.
+         

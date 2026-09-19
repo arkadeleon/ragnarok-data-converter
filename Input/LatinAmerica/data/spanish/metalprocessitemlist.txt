@@ -1,0 +1,311 @@
+998#
+1 Mineral de hierro
+#
+999#
+5 Hierro
+1 Carbón
+#
+1000#
+10 Polvo de estrellas
+#
+994#
+10 Sangre roja
+#
+995#
+10 Azul cristal
+#
+997#
+10 Vida verde
+#
+996#
+10 Viento de verdor
+#
+1101#
+2 Hierro
+#
+1104#
+30 Hierro
+#
+1107#
+45 Hierro
+25 Tooth of Bat
+#
+1110#
+20 Acero
+#
+1113#
+35 Acero
+#
+1122#
+40 Acero
+50 Garra de lobo
+#
+1119#
+8 Oridecon
+15 Acero
+1 Granate
+#
+1123#
+8 Oridecon
+10 Acero
+1 Topacio
+#
+1129#
+16 Oridecon
+1 Rubí
+#
+1201#
+1 Hierro
+10 Jellopy
+#
+1204#
+25 Hierro
+#
+1207#
+50 Hierro
+#
+1210#
+17 Acero
+#
+1213#
+30 Acero
+#
+1216#
+40 Acero
+#
+1219#
+4 Oridecon
+40 Acero
+1 Zafiro
+#
+1222#
+4 Oridecon
+60 Acero
+1 Zircón
+#
+1116#
+35 Hierro
+15 Mandíbula horrible
+#
+1151#
+25 Acero
+20 Decayed Nail
+#
+1154#
+45 Acero
+#
+1157#
+12 Oridecon
+10 Acero
+#
+1160#
+12 Oridecon
+20 Acero
+#
+1163#
+16 Oridecon
+20 Acero
+1 Diamond
+#
+1301#
+10 Hierro
+#
+1351#
+110 Hierro
+#
+1354#
+30 Acero
+#
+1357#
+4 Oridecon
+20 Acero
+30 Colmillo de Orco
+#
+1360#
+8 Oridecon
+10 Acero
+1 Amethyst
+#
+1501#
+3 Hierro
+#
+1504#
+30 Hierro
+#
+1507#
+20 Acero
+#
+1510#
+33 Acero
+#
+1519#
+45 Acero
+#
+1513#
+85 Acero
+1 Diamond
+#
+1516#
+100 Acero
+20 Escama afilada
+#
+1522#
+120 Acero
+1 Emblema heroico
+#
+1401#
+3 Hierro
+#
+1404#
+35 Hierro
+#
+1407#
+70 Hierro
+#
+1451#
+25 Acero
+#
+1454#
+40 Acero
+#
+1457#
+55 Acero
+#
+1460#
+8 Oridecon
+10 Acero
+5 Aguamarina
+#
+1463#
+12 Oridecon
+10 Acero
+#
+1410#
+12 Oridecon
+3 Rubí
+2 Evil Horn
+#
+1801#
+160 Hierro
+1 Pearl
+#
+1803#
+50 Acero
+#
+1805#
+65 Acero
+#
+1807#
+4 Oridecon
+10 Rubí
+#
+1809#
+8 Oridecon
+10 Topacio
+#
+1811#
+4 Oridecon
+10 Ópalo
+#
+7135#
+1 Alcohol
+1 Tela
+1 Botella vacía
+#
+7136#
+1 Corazón inmortal
+1 Botella vacía
+#
+7137#
+2 Flor carnívora
+1 Botella vacía
+#
+7138#
+1 Detonador
+1 Tendón
+1 Botella vacía
+#
+7139#
+1 Alcohol
+1 Colmillo de Zenorc
+1 Corazón de Obeaune
+1 Botella vacía
+#
+545#
+1 Poción roja
+1 Tubo de ensayo vacío
+1 Pincha de cactus
+#
+546#
+1 Poción amarilla
+1 Tubo de ensayo vacío
+1 Bigotes de topo
+#
+547#
+1 Poción blanca
+1 Tubo de ensayo vacío
+1 Arena estelar de bruja
+#
+501#
+1 Hierba roja
+1 Botella para pociones vacía
+#
+503#
+1 Hierba amarilla
+1 Botella para pociones vacía
+#
+504#
+1 Hierba blanca
+1 Botella para pociones vacía
+#
+970#
+5 Tallo
+1 Botella vacía
+5 Espora venenosa
+1 Tubo de ensayo vacío
+#
+505#
+1 Hierba azul
+1 Scell
+1 Botella para pociones vacía
+#
+605#
+1 Menta
+1 Alcohol
+1 Botella vacía
+#
+606#
+1 Aloe
+1 Miel
+1 Botella vacía
+#
+12118#
+2 Frills
+1 Gema roja
+1 Botella para pociones vacía
+#
+12119#
+3 Corazón de Obeaune
+1 Gema azul
+1 Botella para pociones vacía
+#
+12120#
+2 Jellopy grande
+1 Gema amarilla
+1 Botella para pociones vacía
+#
+12121#
+3 Polvo de mariposa
+1 Gema azul
+1 Botella para pociones vacía
+#
+7142#
+1 Rocío matutino de Yggdrasil
+1 Semilla de vida
+1 Tubo de vidrio
+#
+100371#
+1 Semilla de vida
+1 Hierba amarilla
+1 Botella vacía
+#

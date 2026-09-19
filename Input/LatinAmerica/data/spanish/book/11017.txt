@@ -1,0 +1,400 @@
+%f5f5dc
+^000088¡Objetos de premio de Kreiger Von Midgard!^000000
+
+Objetos de premio de Kreiger Von Midgard
+Opción de nivel de refinamiento de armas adicional. ^ff0000(Sin embargo, las opciones de abajo se implementarán hasta la mejora 14).^000000
+^ff0000[Diezmador]^000000 - Aumenta el poder de ataque físico.
+^fa8072[Destrucción]^000000 - Aumenta el poder de los hechizos.
+^0000ff[Bendición]^000000 - Aumenta la restauración de la habilidad Curación.
+
+
+^008040Gladius gloriosa^000000 - Indestructible.
+Ataque físico contra monstruos Semihumanos +75 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+Cuando los usuarios atacan con esta arma, tienen cierta probabilidad de lanzar automáticamente el hechizo [Lex Divina] de nivel 1.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa física de Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: al usar [Golpe sigiloso] existe una probabilidad de infligir [Sangrado] en una área de 5 x 5.
+Tipo: ^777777Daga^000000 Ataque: ^777777120^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Principiante/Espadachín/Mago/Arquero/Comerciante/Ladrón/Ninja^000000
+
+^008040Espada flamígera gloriosa^000000 - Indestructible.
+Ataque físico contra monstruos Semihumanos +75 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa física de Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +7: VELA +5 %.
+Mejora +9: VELA +5 %, al usar [Aporreo] tiene una probabilidad de activar [Herida mortal] de nivel 2.
+Tipo: ^777777Espada de una mano^000000 Ataque: ^777777130^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Principiante/Espadachín/Comerciante/Ladrón^000000
+
+^008040Espada ropera gloriosa^000000 - Indestructible.
+INT +1, ATQM +10 %, aumenta la INT según el nivel de refinamiento.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: disminuye el consumo de PM un 10 %.
+Mejora +9: INT +5.
+Tipo: ^777777Espada de una mano^000000 Ataque: ^777777130^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Principiante/Espadachín/Comerciante/Ladrón^000000
+
+
+^008040Espada vengadora sagrada gloriosa^000000 - Indestructible.
+INT +6, ATQM +10 %, aumenta la INT según el nivel de refinamiento.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: disminuye el consumo de PM un 10 %.
+Mejora +9: al usar [Gloria Domini] también se lanzará [Lex Aeterna] de nivel 1.
+Mejora +10: INT +5.
+Tipo: ^777777Espada de una mano^000000 Ataque: ^777777130^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Espadachín/Comerciante^000000
+
+^008040Lanza glorificada^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +95 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa física de monstruos Semihumanos +5 %, VELA +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: Clase Caballero: al usar [Perforar] existe una probabilidad de infligir [Herida mortal] de nivel 2.
+    Clase Cruzado: al atacar de forma normal, tiene una probabilidad de lanzar [Gloria Domini] de nivel 5.
+Tipo: ^777777Lanza de una mano^000000 Ataque: ^777777130^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Espadachín^000000
+
+^008040Báculo de arco glorioso^000000 - Indestructible.
+ATQM contra monstruos Semihumanos +15 %.
+Ignora la DEFM de los monstruos Semihumanos un 25 %.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la DEFM de los monstruos Semihumanos +5 %.
+Mejora +9: ATQM +5 %, el tiempo de lanzamiento flotante se reduce un 5 %, el retraso de habilidad se reduce un 5 %.
+Tipo: ^777777Báculo de una mano^000000 Ataque: ^77777770^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Mago/Acólito/Vinculador de almas^000000
+
+^008040Báculo de curación glorioso^000000 - Indestructible.
+Recuperación de PV +14 % al usar [Curación] o [Santuario].
+El retraso se reduce un 10 % tras usar habilidades.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la DEFM de los monstruos Semihumanos +5 %, recuperación de PV +5 %, ^0000ff[Bendición]^000000 nivel 1.
+Mejora +9: al usar [Curación] existe una probabilidad de lanzar [Curación] de nivel 10.
+Mejora +10: recuperación de PV +10 %.
+Tipo: ^777777Báculo^000000 Ataque: ^77777770^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Mago/Acólito/Vinculador de almas^000000
+
+^008040Lucero del alba glorioso^000000 - Indestructible.
+Ataque físico contra monstruos Semihumanos +75 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa física de Semihumanos +5 %, VELA +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: VELA +5 %, tiene una posibilidad de infligir [Aturdimiento] al atacar de forma normal.
+Tipo: ^777777Maza^000000 Ataque: ^777777130^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Principiante/Espadachín/Acólito/Comerciante^000000
+
+^008040Hacha de carnicero glorificada^000000 - Indestructible.
+Ataque físico contra monstruos Semihumanos +75 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional*** 
+Mejora +6: ignora la defensa física de Semihumanos +5 %, VELA +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: tiene una probabilidad de lanzar [Herida mortal] de nivel 1, VELA +5 %.
+    Al usar [Mamonita], tiene una probabilidad de lanzar [Herida mortal] de nivel 2.
+Tipo: ^777777Hacha de una mano^000000 Ataque: ^777777130^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Espadachín/Comerciante^000000
+
+^008040Guitarra gloriosa^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +95 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa física de Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: al usar [Tiros arcanos] existe una probabilidad de lanzar [Carta de tarot del destino] de nivel 5.
+Tipo: ^777777Instrumento musical^000000 Ataque: ^77777750^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Bardo ^000000
+
+^008040Lazo glorioso^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +95 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa física de Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: al usar [Tiros arcanos] existe una probabilidad de lanzar [Carta de tarot del destino] de nivel 5.
+Tipo: ^777777Látigo^000000 Ataque: ^77777750^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Bailarina^000000
+
+
+^008040Tabla gloriosa^000000 - Indestructible.
+ATQM +15 %, fuerza de ataque físico contra monstruos Semihumanos +80 %.
+Ignora el 25 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa mágica de Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: al realizar un ataque físico, existe la probabilidad de obtener ATQ +200 durante 3 segundos.
+Tipo: ^777777Libro^000000 Ataque: ^77777790^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Sacerdote/Sabio/Maestro de Taekwon^000000
+
+^008040Apocalipsis glorioso^000000 - Indestructible.
+ATQM +15 %, fuerza de ataque físico contra monstruos Semihumanos +80 %.
+Ignora un 25 % de la defensa mágica de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa mágica de Semihumanos +5 %.
+Mejora +9: ATQM +5 %, el tiempo de lanzamiento flotante se reduce un 5 %, el retraso de habilidad se reduce un 5 %.
+Tipo: ^777777Libro^000000 Ataque: ^77777790^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Sacerdote/Sabio/Maestro de Taekwon^000000
+
+
+^008040Garra gloriosa^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +95 %.
+Ignora un 25 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa de monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: al atacar, existe una probabilidad de lanzar
+ [Impacto de ocultismo] de nivel 5 y [Disminuir AGI] de nivel 1.
+Tipo: ^777777Garra^000000 Ataque: ^77777730^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Sacerdote/Monje^000000
+
+^008040Puño de acero glorioso^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +95 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa de monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: reduce el lanzamiento de [Puño de guillotina] al usar [Furia], lanza automáticamente [Zen] de nivel 1.
+Tipo: ^777777Garra^000000 Ataque: ^77777730^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Sacerdote/Monje^000000
+
+^008040Claymore glorificada^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +70 %.
+Ignora un 25 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa de los monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 2.
+Mejora +9: al realizar un ataque físico, existe una probabilidad de lanzar
+ [Lanza dínamo] de nivel 1 y [Espada de aura] de nivel 1.
+ *Si ya se aprendió un nivel superior de alguno de los hechizos, se activa el nivel correspondiente.
+Tipo: ^777777Espada de dos manos^000000 Ataque: ^777777220^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Espadachín^000000
+
+
+
+
+
+
+
+
+
+^008040Pica gloriosa^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +70 %.
+Ignora un 25 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa de los monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: si ataca la clase Cruzado/Paladín, existe una probabilidad de lanzar [Gloria Domini] de nivel 5,
+ si la clase Caballero/Lord Caballero usa [Perforación], existe una probabilidad de lanzar [Herida mortal] de nivel 2.
+Tipo: ^777777Lanza de dos manos^000000 Ataque: ^777777220^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Espadachín^000000
+
+^008040Báculo de destrucción glorioso^000000 - Indestructible.
+Fuerza de ataque mágico contra monstruos Semihumanos +15 %.
+Ignora un 25 % de la defensa mágica de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa mágica de Semihumanos +5 %, ^fa8072[Destrucción]^000000 nivel 1.
+Mejora +9: al usar [Lord de Vermilion] de nivel 10, [Tormenta de meteoros] de nivel 10 o [Nevasca] de nivel 10,
+ existe una probabilidad de lanzar [Barrera de protección] de nivel 10.
+Tipo: ^777777Báculo de dos manos^000000 Ataque: ^77777770^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Mago/Acólito/Vinculador de almas^000000
+^008040Rugido sangriento glorioso^000000 - Indestructible.
+Fuerza de ataque físico contra los monstruos Semihumanos +70 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa física de Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: al realizar un ataque físico, existe la probabilidad de obtener VELA +100 % durante 3 segundos.
+Tipo: ^777777Katar^000000 Ataque: ^777777140^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Asesino^000000
+
+^008040Jamadhar gloriosa^000000 - Indestructible.
+Fuerza de ataque físico contra los monstruos Semihumanos +70 %.
+Ataque crítico contra monstruos Semihumanos +20 %.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ataque crítico contra monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: al realizar un ataque físico, existe la probabilidad de obtener VELA +100 % durante 3 segundos.
+Tipo: ^777777Katar^000000 Ataque: ^777777140^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Asesino^000000
+
+
+^008040Hacha de dos manos gloriosa^000000 - Indestructible.
+Fuerza de ataque físico contra los monstruos Semihumanos +70 %.
+Ignora un 25 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional*** 
+Mejora +6: ignora la defensa física de los monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 2.
+ Al atacar, existe una probabilidad de lanzar [Herida mortal] de nivel 1.
+Mejora +9: al atacar, aumenta la probabilidad de lanzar [Herida mortal] de nivel 1 +5 %.
+ Al usar [Mamonita] o [Embestida de carreta veloz], existe una probabilidad de lanzar [Herida mortal] de nivel 2.
+Tipo: ^777777Hacha de dos manos^000000 Ataque: ^777777220^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Espadachín/Comerciante^000000
+
+
+
+
+
+
+
+
+
+^008040Shuriken glorioso^000000 - Indestructible.
+ATQM +15 %, fuerza de ataque físico contra monstruos Semihumanos +95 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+Al atacar, existe una probabilidad de obtener VELA +100 %
+para [Arrojar Shuriken Huuma] y [Golpe letal] durante 10 segundos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa de monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 2.
+Mejora +9: al usar [Golpe letal] lanza automáticamente [Curación] de nivel 10 sobre el usuario.
+    Al usar [Arrojar Shuriken Huuma], tiene una probabilidad de lanzar [Herida mortal] de nivel 2.
+Tipo: ^777777Huuma^000000 Ataque: ^77777755^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Ninja^000000
+
+
+
+
+
+
+
+
+^008040Arco de cazador glorioso^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +55 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional: ^ff0000hasta +10^000000, aumenta el daño crítico un máximo de (nivel de mejora x 2) %.
+Mejora +6: ignora la defensa física de los monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: [Flecha doble] ATQ +20 %.
+Tipo: ^777777Arco^000000 Ataque: ^777777100^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Arquero/Ladrón/Pícaro^000000
+
+^008040Pistola gloriosa^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +55 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa física de los monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: al usar [Secuencia frenética], lanza automáticamente [Cara o cruz] de nivel 1.
+ La fuerza de ataque de [Secuencia frenética] aumenta según el nivel de refinamiento.
+Tipo: ^777777Revólver^000000 Ataque: ^77777780^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Pistolero^000000
+
+
+^008040Rifle glorioso^000000 - Indestructible.
+Ataque físico contra monstruos Semihumanos +75 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+Aumenta un 30 % el daño de [Triple acción].
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa física de los monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: aumenta un 25 % el tiempo de lanzamiento flotante de la habilidad [Seguimiento], 
+la fuerza de ataque de [Seguimiento] aumenta según el nivel de refinamiento.
+Tipo: ^777777Rifle^000000 Ataque: ^77777790^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Pistolero^000000
+
+
+
+
+
+
+
+
+
+^008040Ametralladora gloriosa^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +35 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+Aumenta un 30 % el daño de [Triple acción].
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa física de los monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: la fuerza de ataque aumenta según el nivel de refinamiento.
+Tipo: ^777777Ametralladora^000000 Ataque: ^77777790^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Pistolero^000000
+
+
+
+
+
+
+
+
+
+
+^008040Escopeta gloriosa^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +55 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+Aumenta un 30 % el daño de [Triple acción]. Ataque disperso.
+***Opción de nivel adicional de refinamiento de arma***
+Mejora +6: ignora la defensa de los monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: la fuerza de ataque de [Ataque generalizado] aumenta según el nivel de refinamiento.
+    Tiene una probabilidad de otorgar el efecto [Aturdimiento] al usar [Ataque generalizado].
+Tipo: ^777777Escopeta^000000 Ataque: ^777777110^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Pistolero^000000
+
+
+
+
+
+
+
+
+
+^008040Lanzagranadas glorioso^000000 - Indestructible.
+Fuerza de ataque físico contra monstruos Semihumanos +35 %.
+Ignora un 20 % de la defensa física de los monstruos Semihumanos.
+Aumenta un 30 % el daño de [Triple acción].
+***Opción de nivel de refinamiento de arma adicional***
+Mejora +6: ignora la defensa de los monstruos Semihumanos +5 %, ^ff0000[Diezmador]^000000 nivel 1.
+Mejora +9: la fuerza de ataque de [Mina de Pistolero] aumenta según el nivel de refinamiento.
+    Tiene una probabilidad de otorgar VELA +20 % durante 20 segundos al atacar.
+Tipo: ^777777Lanzagranadas^000000 Ataque: ^777777330^000000 Peso: ^7777770^000000 Nivel del arma: ^7777774^000000 Nivel requerido: ^77777780^000000
+Clase: ^777777Pistolero^000000
+
+^008040Pelerina gloriosa^000000
+PV +5 %, 5 % de resistencia adicional a los ataques de los monstruos Semihumanos.
+Tipo: ^777777Prenda^000000 Defensa: ^7777770^000000 Peso: ^7777770^000000 Nivel requerido: ^77777781^000000
+Clase: ^777777Todas excepto Principiante^000000
+
+
+
+
+^008040Zapatos gloriosos^000000
+PV +10 %, 4 % de resistencia adicional a los ataques de los monstruos Semihumanos.
+Cuando te atacan cuerpo a cuerpo, existe una probabilidad de lanzar [Aumentar AGI] de nivel 1.
+Tipo: ^777777Calzado^000000 Defensa: ^7777770^000000 Peso: ^7777770^000000 Nivel requerido: ^77777781^000000
+Clase: ^777777Todas excepto Principiante^000000
+
+^008040Calzado popular glorioso^000000
+PVM +5 %, PMM +5 %.
+Tipo: ^777777Calzado^000000 Defensa: ^7777770^000000 Peso: ^7777770^000000 Nivel requerido: ^77777761^000000
+Clase: ^777777Todas excepto Principiante^000000
+
+^008040Zapatos de fabricación en serie gloriosos^000000
+PVM +5 %.
+Tipo: ^777777Calzado^000000 Defensa: ^7777770^000000 Peso: ^7777770^000000
+Clase: ^777777Todas excepto Principiante^000000
+
+
+
+
+^008040Traje glorioso^000000
+PV +20 %, 7 % de resistencia adicional a los ataques de los monstruos Semihumanos.
+Al equiparse con los Zapatos gloriosos y la Pelerina gloriosa,
+ la fuerza de ataque contra todos los enemigos aumenta un 5 %, ATQM +5 %,
+otorga recuperación de PV +3 % al usar [Curación], [Lanzador de pociones] o [Santuario].
+100 % de resistencia al estado Congelación.
+Tipo: ^777777Armadura^000000 Defensa: ^7777770^000000 Peso: ^7777770^000000 Nivel requerido: ^77777781^000000
+Clase: ^777777Todas excepto Principiante^000000
+
+^008040Traje popular glorioso^000000
+PV +600, índice de recuperación de PM +10 %.
+Tipo: ^777777Armadura^000000 Defensa: ^7777770^000000 Peso: ^7777770^000000 Nivel requerido: ^77777761^000000
+Clase: ^777777Todas excepto Principiante^000000
+
+^008040Traje de fabricación en serie glorioso^000000
+PV +500.
+Tipo: ^777777Armadura^000000 Defensa: ^7777770^000000 Peso: ^7777770^000000
+Clase: ^777777Todas excepto Principiante^000000
+
+^008040Anillo glorioso^000000
+PV +300. Resistencia a los ataques con las propiedades Agua, Viento, Tierra y Fuego +10 %.
+VELA +5 %. Velocidad de lanzamiento flotante +3 %.
+Recuperación de PV +5 % al usar [Curación], [Santuario] o [Lanzador de pociones].
+Al equiparse con una Medalla de honor, el poder de ataque contra todos los enemigos aumenta +5 %, ATQM +3 %, 
+recuperación de PV +5 % al usar [Curación], [Santuario] o [Lanzador de pociones].
+Tipo: ^777777Accesorio^000000 Defensa: ^7777770^000000 Peso: ^7777770^000000 Nivel requerido: ^77777781^000000
+Clase: ^777777Todas excepto Principiante^000000
+
+^008040Anillo popular glorioso^000000
+Todas las estadísticas +2.
+Tipo: ^777777Accesorio^000000 Defensa: ^7777770^000000 Peso: ^7777770^000000 Nivel requerido: ^77777761^000000
+Clase: ^777777Todas excepto Principiante ^000000
+
+^008040Anillo de fabricación en serie glorioso^000000
+Todas las estadísticas +1.
+Tipo: ^777777Accesorio^000000 Defensa: ^7777770^000000 Peso: ^7777770^000000
+Clase: ^777777Todas excepto Principiante^000000

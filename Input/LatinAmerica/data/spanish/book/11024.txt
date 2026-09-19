@@ -1,0 +1,107 @@
+^000088 El manual de la bebida energética: Alquimista mensual [PM de ensueño, Vol. 10] ^000000
+
+
+ Alquimista: ¡Invitamos a dos famosos Alquimistas que desarrollaron una fantástica poción de aumento de PM!
+¿Puedo pedirles que se presenten?
+
+
+Vain: ¡Yo soy el mayor! Y me gusta recolectar flores. 
+
+Vajin: Yo soy el segundo y me gusta mirar espectáculos de marionetas. Nuestros hermanos están nominados entre los 10 Alquimistas más famosos.
+Agradecemos mucho su saludo tan entusiasta.
+
+Alq.: Me enteré de que ustedes dos inventaron una serie de pociones para aumentar los PM. ¿Puedo preguntar cómo lograron estos números? 
+
+
+Vain: Sí, mientras investigábamos la piedra vital, terminamos creando pociones para los clientes para ganarnos la vida.
+        Al principio, solo creábamos y suministrábamos jugos, pero aprendimos cómo aumentar el alcance de los PM mientras investigábamos.
+Jamás tuvimos la intención de controlar el monopolio de la producción de estas pociones.
+
+
+
+
+
+
+Vajin: La técnica requiere una gran habilidad, delicadeza y mucho tiempo. Aunque aprendan cómo se hacen, no es tan fácil. Además, la probabilidad de éxito es muy baja, así que podrían simplemente desperdiciar los materiales. Así que espero que los jóvenes no pierdan mucho.
+
+
+
+
+
+
+Alq.: Es decir que se necesita más el talento de los creadores que las técnicas.
+
+
+Vain: ¡Exacto! Con los mismos materiales e ingredientes, ¡se crean distintos sabores! Lo probamos casi 136 072 veces. Así que quisiera pedirle a la gente que lo intente si cree conocer una forma mejor.
+
+
+Alq.: Pero ustedes se atreven a dedicarse al progreso y al desarrollo de este refinamiento.
+Como historia exclusiva, les agradezco infinitamente.
+
+
+Vajin: De nada. Creemos que así se mejora la actividad y se genera paz en el trabajo.
+Aunque intentemos mantener el monopolio de esta habilidad, no durará para siempre.
+
+
+
+Alq.: ¿De verdad? ¿Por qué?
+
+Vain: Como explicó mi hermano, actualmente, no existe ninguna poción que maximice los PM.
+         Hasta ahora, solo hay habilidades, cartas y equipamiento que logran maximizar los PM. 
+
+
+Aunque solo aumentamos los PM, no podemos resolver el problema principal.
+         Lo que agrandamos es el tamaño del motor, no el combustible en sí.
+ 
+Vajin: La poción de PM tiene una función de recuperación, pero el efecto no es tan grande.
+     En conclusión, logramos que se acelere la actividad del cerebro y el cuerpo para conseguir más maná.
+Hasta donde sé, muchos Monjes están de acuerdo.
+
+
+
+
+Vain: Para que los Alquimistas pudiéramos obtener mucho interés mediante este método de refinación.
+         Pero es un punto bastante interno y, además, no es una acción muy buena a largo plazo.
+
+Vajin: Sí, generaría una mala situación.
+
+
+         
+Alq.: Bueno. Entiendo su punto de vista. El secreto no durará mucho y será mejor que nos centremos en activar el mercado.
+Es la perspectiva general.
+
+
+Vain: Nosotros creemos que todo vuelve. Si hacemos el bien para los demás, el bien volverá a nosotros.
+Se llama “regla de oro”.
+
+
+
+Alq.: ¡Así que lo que descubrieron los Alquimistas es la regla de oro!
+
+
+Vain: (Sonriendo) No es una contribución tan grande. (Con vergüenza)
+
+
+Alq.: Pero creo que muchas personas podrían beneficiarse de su trabajo.
+Ambos son muy inspiradores, ¿podría preguntarles qué planes tienen a futuro?
+
+
+Vain: Nos gustaría dedicarnos a investigar la “Piedra vital”.
+        Ese era nuestro propósito fundamental. Y espero que las pociones sean útiles.
+
+
+Alq.: Gracias. Por último, ¡me gustaría que conozcan a la persona que los patrocinaría!
+
+(La receta se incluye a continuación)
+
+Receta
+
+Poción de aumento de PM (P): 10 Botellas vacías + 10 unidades de Miel + 10 Hierbas azules + 1 Salsa dulce
+Poción de aumento de PM (M): 10 Botellas vacías + 10 unidades de Miel + 10 Hierbas azules + 1 Salsa dulce
+Poción de aumento de PM (G): 10 Botellas vacías + 10 unidades de Jalea real + 15 Hierbas azules + 1 Salsa dulce 
+
+
+Efecto
+
+Maximiza los PMM entre un 1 y un 20 % durante 500 segundos. 
+Cuanto más grande, mayor será el efecto.

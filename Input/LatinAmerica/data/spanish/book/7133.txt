@@ -1,0 +1,55 @@
+%faf0e6
+^000088Alquimia intermedia: pociones concentradas^000000
+
+
+----------------Prólogo--------------------
+
+Si los conocimientos básicos de la preparación de pociones ya son una costumbre
+para ti, entonces, quizá estés listo
+para el proceso más avanzado de elaborar pociones
+concentradas. La condensación maximiza la eficacia
+de las pociones y, al mismo tiempo, minimiza su peso
+y los materiales de elaboración necesarios.
+
+------------------------------------------
+
+¿Qué es una ^ff0000poción concentrada^000000?
+
+Una poción concentrada es una poción increíblemente densa
+que tiene la misma eficacia que su homóloga
+normal, pero es mucho más liviana.
+Condensar pociones es muy práctico,
+ya que aumenta la cantidad de pociones que los Alquimistas
+y otros trotamundos pueden llevar.
+
+
+^0000ffPoción concentrada roja^000000: restaura 45 PV.
+Materiales requeridos: ^4b00821 Poción roja,
+1 Pincha de cactus y 1 Cilindro vacío.^000000
+
+Proceso: verter lentamente una Poción roja en un Cuenco
+para medicina y mezclar con la Pincha de cactus molida. Debes
+llevar este libro contigo y usarlo de referencia mientras
+usas la habilidad de Preparación de pociones para verter la solución
+en un cilindro vacío.
+
+^800000Poción concentrada amarilla^000000: restaura 175 PV.
+Materiales requeridos: ^4b00821 Poción amarilla,
+1 Bigote de topo y 1 Cilindro vacío.^000000
+
+Proceso: verter lentamente una Poción amarilla en un Cuenco
+para medicina y mezclar con el Bigote
+de topo hervido y licuado. Debes llevar este libro contigo
+y usarlo de referencia mientras usas la habilidad de Preparación de pociones
+para verter la solución en un cilindro vacío.
+
+
+
+^008040Poción concentrada blanca^000000: restaura 325 PV.
+Materiales requeridos: ^4b00821 Poción blanca,
+1 Arena estelar de bruja y 1 Cilindro vacío.^000000
+
+Proceso: verter lentamente una poción blanca en un Cuenco
+para medicina y mezclar con la Arena estelar de bruja. Debes llevar este
+libro contigo y usarlo de referencia mientras usas la habilidad
+de Preparación de pociones para verter la solución en un cilindro vacío.

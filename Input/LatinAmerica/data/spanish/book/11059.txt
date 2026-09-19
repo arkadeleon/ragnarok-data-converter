@@ -1,0 +1,260 @@
+^4d4dff Lista de objetos de la EE en alquiler ^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+ Los objetos de la EE en alquiler no se pueden intercambiar con otras cuentas.
+    Todos los objetos de la EE en alquiler se eliminarán del inventario una vez que termine el período de alquiler.
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+[Katar de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Sangrado.
+Clase de arma: Katar ATQ: 120 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Asesino
+
+[Hacha de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Congelación.
+Clase de arma: Hacha de una mano ATQ: 100 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Principiante/Espadachín/Comerciante/Ladrón
+
+[Hacha de dos manos de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Aturdimiento.
+Clase de arma: Hacha de dos manos ATQ: 150 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Espadachín/Comerciante
+
+[Pica de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Maldición.
+Clase de arma: Lanza de una mano ATQ: 100 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Espadachín
+
+[Lance de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Ceguera.
+Clase de arma: Lanza de dos manos ATQ: 150 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Espadachín
+
+
+[Libro de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Aumenta el poder de ataque mágico de los personajes de los jugadores +5 %.
+Los ataques físicos tienen una alta probabilidad de causar Ceguera.
+Cantidad de curación +5 %.
+Clase de arma: Libro ATQ: 120 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Sacerdote/Sabio/Maestro de Taekwon
+
+[Báculo de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque mágico de los personajes de los jugadores +10 %. Los ataques mágicos tienen una alta probabilidad de causar Ceguera.
+Cantidad de curación +5 %.
+Clase de arma: Báculo de una mano ATQ: 50 Peso: 0 
+Nivel del arma: 3 Nivel requerido: 40 Clase: Principiante/Mago/Acólito/Vinculador de almas
+
+[Puño de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Congelación.
+Clase de arma: Puño de acero ATQ: 150 Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Sacerdote/Monje
+
+[Guitarra de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Envenenamiento.
+Clase de arma: Instrumento musical ATQ: 100 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Bardo
+
+[Cuerda de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Ceguera.
+Clase de arma: Látigo ATQ: 100 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Bailarina
+
+[Cuchillo de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Silencio.
+Clase de arma: Daga ATQ: 100 ATQM: 100
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 
+Clase: Principiante/Espadachín/Mago/Arquero/Comerciante/Ladrón/Vinculador de almas/Ninja 
+
+[Báculo de dos manos de la EE]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque mágico de los personajes de los jugadores +20 %. Los ataques mágicos tienen una alta probabilidad de causar Aturdimiento.
+Cantidad de curación +5 %.
+Clase de arma: Báculo de dos manos ATQ: 50 ATQM: 130
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 
+Clase: Principiante/Mago/Acólito/Vinculador de almas
+
+[Pistola de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Maldición.
+Clase de arma: Pistola ATQ: 60 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Pistolero 
+
+[Rifle de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Silencio.
+Clase de arma: Rifle ATQ: 80 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Pistolero
+
+[Ametralladora de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Aturdimiento.
+Clase de arma: Ametralladora ATQ: 100 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Pistolero
+
+[Escopeta de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Envenenamiento.
+Clase de arma: Escopeta ATQ: 100 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Pistolero
+
+[Lanzagranadas de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Ceguera.
+Clase de arma: Lanzagranadas ATQ: 100 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Pistolero
+
+[Shuriken Huuma de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Sangrado.
+Clase de arma: Shuriken Huuma ATQ: 80 ATQM: +100
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Ninja 
+
+[Espada de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Envenenamiento.
+Clase de arma: Espada ATQ: 120 ATQM: +100
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Principiante/Espadachín/Comerciante/Ladrón
+
+[Maza de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Congelación.
+Cantidad de Curación +5 %.
+Clase de arma: Maza ATQ: 120 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 
+Clase: Principiante/Espadachín/Acólito/Comerciante
+
+[Arco de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Maldición.
+Clase de arma: Arco ATQ: 120 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Arquero/Ladrón/Pícaro
+
+[Espada de dos manos de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +40 %. Los ataques físicos tienen una alta probabilidad de causar Sangrado.
+Clase de arma: Espada de dos manos ATQ: 150 
+Peso: 0 Nivel del arma: 3 Nivel requerido: 40 Clase: Espadachín
+
+[Broquel de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+PV MÁX. +100, VEL MÁX. +100. Daño recibido de los personajes de los jugadores -15 %.
+Clase de arma: Escudo Defensa: 15 DEFM: +15
+Peso: 0 Nivel requerido: 40 Clase: Todas 
+
+[Escudo de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+PV MÁX. +200. Daño recibido de los personajes de los jugadores -20 %.
+Clase de arma: Escudo Defensa: 25 DEFM: +5
+Peso: 0 Nivel requerido: 40 Clase: Espadachín/Comerciante 
+
+[Guardia mágico de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+VEL MÁX. +200. Daño recibido de los personajes de los jugadores -10 %.
+Clase de arma: Escudo Defensa: 5 DEFM: +25
+Peso: 0 Nivel requerido: 40 Clase: Principiante/Mago/Acólito/Vinculador de almas
+
+[Bufanda de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico/mágico de los personajes de los jugadores 5 %. Resistencia a la escarcha +25 %.
+Clase de objeto: Prenda Defensa: 5 DEFM: +5
+Peso: 0 Nivel requerido: 40 Clase: Todas 
+
+[Manto de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico de los personajes de los jugadores +10 %. Resistencia a la escarcha +25 %.
+Clase de objeto: Prenda Defensa: 10
+Peso: 0 Nivel requerido: 40 Clase: Espadachín/Comerciante
+
+[Manto mágico de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque mágico de los personajes de los jugadores 10 %.
+Resistencia a la escarcha +25 %.
+Clase de arma: Prenda Defensa: 5 DEFM: +5
+Peso: 0 Nivel requerido: 40 Clase: Principiante/Mago/Acólito/Vinculador de almas 
+
+[Anillo de protección de la EE]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+PV MÁX. +100. Daño recibido de los personajes de los jugadores -5 %.
+Clase de objeto: Accesorio Defensa: 0
+Peso: 0 Nivel requerido: 40 Clase: Todas
+
+[Anillo de ira de la EE]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Aumento del poder de ataque físico/mágico de los personajes de los jugadores 5 %.
+Clase de objeto: Accesorio Defensa: 0 
+Peso: 0 Nivel requerido: 40 Clase: Todas
+
+[Anillo de desafío de la EE]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+Daño recibido de los personajes de los jugadores -5 %.
+Clase de objeto: Accesorio Defensa: 0 DEFM: +5
+Peso: 0 Nivel requerido: 40 Clase: Todas 
+
+
+[Calzado de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+PV MÁX. +150, VEL MÁX. +150. Aumento del poder de ataque físico/mágico de los personajes de los jugadores 5 %.
+Resistencia a la escarcha +25 %.
+Clase de objeto: Calzado Defensa: 5 DEFM: +5 Peso: 0 Nivel requerido: 40 Clase: Todas 
+
+[Botas de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+PV MÁX. +200, VEL MÁX. +100. Aumento del poder de ataque físico de los personajes de los jugadores 10 %.
+Resistencia a la escarcha +25 %.
+Clase de objeto: Calzado Defensa: 10 Peso: 0 Nivel requerido: 40 Clase: Espadachín/Comerciante
+
+[Sandalias mágicas de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+PV MÁX. +100, VEL MÁX. +200. Aumento del poder de ataque mágico de los personajes de los jugadores 5 %.
+Resistencia a la escarcha +25 %.
+Clase de objeto: Calzado Defensa: 5 DEFM: +5
+Peso: 0 Nivel requerido: 40 Clase: Principiante/Mago/Acólito/Vinculador de almas
+
+[Abrigo de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+PV MÁX. +250, VEL MÁX. +250. Daño recibido de los personajes de los jugadores -10 %.
+Resistencia a la escarcha +25 %.
+Clase de objeto: Armadura Defensa: 15 DEFM: +15 Peso: 0 Nivel requerido: 40 Clase: Todas
+
+[Cota de malla de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+PV MÁX. +450, VEL MÁX. +50. Daño recibido de los personajes de los jugadores -15 %.
+Resistencia a la escarcha +25 %.
+Clase de objeto: Armadura Defensa: 25 DEFM: +5
+Peso: 0 Nivel requerido: 40 Clase: Espadachín/Comerciante
+
+[Capa mágica de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+PV MÁX. +200, VEL MÁX. +300. Daño recibido de los personajes de los jugadores -5 %.
+Resistencia a la escarcha +25 %.
+Clase de objeto: Armadura Defensa: 5 DEFM: +25
+Peso: 0 Nivel requerido: 40 Clase: Principiante/Mago/Acólito/Vinculador de almas
+
+[Sombrero de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+ATQ +5, ATQM +5. Aumento del poder de ataque físico/mágico de los personajes de los jugadores 10 %.
+Resistencia a la escarcha +25 %.
+Clase de objeto: Accesorio para la cabeza Defensa: 5 DEFM: +5 Ubicación: Superior Peso: 0 Nivel requerido: 40 Clase: Todas 
+
+[Yelmo de hueso de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+ATQ +10. Aumento del poder de ataque físico de los personajes de los jugadores +20 %. Resistencia a la escarcha +25 %.
+Clase de objeto: Accesorio para la cabeza Defensa: 10 Ubicación: Superior
+Peso: 0 Nivel requerido: 40 Clase: Principiante
+
+[Ojos mágicos de la EE de la Guerra del Emperium]
+Opción adicional para la ubicación de la EE de la Guerra del Emperium.
+ATQM +10. Aumento del poder de ataque mágico de los personajes de los jugadores 20 %.
+Resistencia a la escarcha +25 %.
+Clase de objeto: Accesorio para la cabeza Defensa: 5 DEFM: +5 Ubicación: Superior
+Peso: 0 Nivel requerido: 40 Clase: Principiante/Mago/Acólito/Vinculador de almas

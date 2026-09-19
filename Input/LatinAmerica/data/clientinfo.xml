@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+
+	<servicetype>brazil</servicetype>
+	<servertype>primary</servertype>
+	<readfolder></readfolder>
+	<extendedslot></extendedslot>
+	<connection>
+		<display>Ragnarok Online</display>
+		<desc>None</desc>
+		<domain>lt-account-01.gnjoylatam.com:6900</domain>
+		<taaddress>lt-account-01.gnjoylatam.com:6951</taaddress>
+		<version>1</version>
+		<registrationweb>https://ro.gnjoylatam.com</registrationweb>
+		<aid>
+		</aid>
+	</connection>
+</clientinfo>

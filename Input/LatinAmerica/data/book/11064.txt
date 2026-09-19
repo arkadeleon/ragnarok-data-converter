@@ -1,0 +1,157 @@
+---- **Capítulo de Ardor, o Elemental do Fogo** ----
+
+O Elemental superior do fogo invocado, Ardor, concede ao invocador um poder de fogo especial,
+e realiza diferentes ações individuais através da habilidade "Domínio Elemental" do invocador.
+
+**Efeito Passivo:** Dano mágico de propriedade fogo +10%, aumenta o ATQM de [Conflagração].
+
+^fa8072**[Domínio Elemental Nível 1: Modo Passivo]**^000000
+"Invocador, eu te concedo o poder da chama."
+
+**[Técnica das Chamas]**
+i. Aumenta o ATQM de Lanças de Fogo do invocador em 400%.
+ii. Quando o invocador realiza um ataque físico normal, ativa Lanças de Fogo Nível 1 com 7% de chance.
+   (Se um nível mais alto foi aprendido, ativa nesse nível).
+iii. A propriedade de ataque de Onda Psíquica torna-se elemento fogo.
+
+^0000ff**[Domínio Elemental Nível 2: Modo Defensivo]**^000000
+"Invocador, receba a bênção do fogo."
+
+**[Armadura de Lava]**
+i. Concede elemento fogo à armadura do invocador.
+ii. Resistência ao fogo do invocador +100, resistência à água -30.
+
+^ff0000**[Domínio Elemental Nível 3: Modo Ofensivo]**^000000
+"Eu mesmo cuidarei disso."
+
+**[Rocha Ígnea]**
+i. Cria uma grande chama instantânea em uma área 7x7 ao redor do alvo e de Ardor, causando dano mágico de elemento fogo de 2400% ATQM aos inimigos na área, ignorando a defesa mágica do alvo.
+   (O dano é aumentado adicionalmente de acordo com o nível base do invocador).
+
+---
+
+---- **Capítulo de Diluvium, o Elemental da Água** ----
+
+O Elemental superior da água invocado, Diluvium, concede ao invocador poderes especiais de água e gelo,
+e realiza diferentes ações individuais através da habilidade "Domínio Elemental" do invocador.
+
+**Efeito Passivo:** Dano mágico de propriedade água +10%, aumenta o ATQM de [Execução Aurora].
+
+^fa8072**[Domínio Elemental Nível 1: Modo Passivo]**^000000
+"Oh invocador, receba o poder do gelo puro."
+
+**[Força Gélida]**
+i. Aumenta o ATQM de Lanças de Gelo do invocador em 400%.
+ii. Quando o invocador realiza um ataque físico normal, ativa Lanças de Gelo Nível 1 com 7% de chance.
+   (Se um nível mais alto foi aprendido, ativa nesse nível).
+iii. A propriedade de ataque de Onda Psíquica torna-se elemento água.
+
+^0000ff**[Domínio Elemental Nível 2: Modo Defensivo]**^000000
+"Oh invocador, receba a bênção da água."
+
+**[Armadura de Cristal]**
+i. Concede elemento água à armadura do invocador.
+ii. Resistência à água do invocador +100, resistência ao vento -30.
+
+^ff0000**[Domínio Elemental Nível 3: Modo Ofensivo]**^000000
+"Que meu poder seja útil ao invocador."
+
+**[Era do Gelo]**
+i. Cria uma tempestade de gelo em uma área 11x11 ao redor de Diluvium, causando dano mágico de elemento água de 3700% ATQM aos inimigos na área, ignorando a defesa mágica do alvo.
+   (O dano é aumentado adicionalmente de acordo com o nível base do invocador).
+
+---
+
+---- **Capítulo de Procella, o Elemental do Vento** ----
+
+O Elemental superior do vento invocado, Procella, concede ao invocador poderes especiais de vento e relâmpago,
+e realiza diferentes ações individuais através da habilidade "Domínio Elemental" do invocador.
+
+**Efeito Passivo:** Dano mágico de propriedade vento +10%, aumenta o ATQM de [Tormenta].
+
+^fa8072**[Domínio Elemental Nível 1: Modo Passivo]**^000000
+"O poder do vento e do relâmpago para o invocador!"
+
+**[Brisa Refrescante]**
+i. Aumenta o ATQM de Relâmpago do invocador em 400%.
+ii. Quando o invocador realiza um ataque físico normal, ativa Relâmpago Nível 1 com 7% de chance.
+   (Se um nível mais alto foi aprendido, ativa nesse nível).
+iii. A propriedade de ataque de Onda Psíquica torna-se elemento vento.
+
+^0000ff**[Domínio Elemental Nível 2: Modo Defensivo]**^000000
+"O poder do relâmpago que perfura a verdade para o invocador!"
+
+**[Armadura de Ar]**
+i. Concede elemento vento à armadura do invocador.
+ii. Resistência ao vento do invocador +100, resistência à terra -30.
+
+^ff0000**[Domínio Elemental Nível 3: Modo Ofensivo]**^000000
+"Ditarei julgamento sobre os desordenados com o poder da tempestade."
+
+**[Olho do Furacão]**
+i. Cria um vento feroz em uma área 5x5 ao redor do alvo e de Procella, causando dano mágico de elemento vento de 2600% ATQM aos inimigos na área, ignorando a defesa mágica do alvo.
+   (O dano é aumentado adicionalmente de acordo com o nível base do invocador).
+
+---
+
+---- **Capítulo de Terremotus, o Elemental da Terra** ----
+
+O Elemental superior da terra invocado, Terremotus, concede ao invocador um poder especial de terra,
+e realiza diferentes ações individuais através da habilidade "Domínio Elemental" do invocador.
+
+**Efeito Passivo:** Dano mágico de propriedade terra +10%, aumenta o ATQM de [Tremor de Terra].
+
+^fa8072**[Domínio Elemental Nível 1: Modo Passivo]**^000000
+"Sinta, invocador. Este é o poder da terra."
+
+**[Defensor da Terra]**
+i. Aumenta o ATQM de Coluna de Pedra do invocador em 800%.
+ii. Quando o invocador realiza um ataque físico normal, ativa Coluna de Pedra Nível 1 com 7% de chance.
+   (Se um nível mais alto foi aprendido, ativa nesse nível).
+iii. A propriedade de ataque de Onda Psíquica torna-se elemento terra.
+
+^0000ff**[Domínio Elemental Nível 2: Modo Defensivo]**^000000
+"Sinta a firmeza da terra inabalável."
+
+**[Armadura de Rocha]**
+i. Concede elemento terra à armadura do invocador.
+ii. Resistência à terra do invocador +100, resistência ao fogo -30.
+
+^ff0000**[Domínio Elemental Nível 3: Modo Ofensivo]**^000000
+"Executarei a ira da terra."
+
+**[Desmoronamento]**
+i. Causa dano mágico de elemento terra de 450% ATQM 7 vezes a inimigos em uma área 9x9 ao redor do alvo, ignorando a defesa mágica do alvo, com lanças de rocha sólida.
+   (O dano é aumentado adicionalmente de acordo com o nível base do invocador).
+
+---
+
+---- **Capítulo de Serpens, o Elemental do Veneno Mortal** ----
+
+O Elemental superior do veneno invocado, Serpens, concede ao invocador um poder especial de veneno,
+e realiza diferentes ações individuais através da habilidade "Domínio Elemental" do invocador.
+
+**Efeito Passivo:** Dano mágico de propriedade veneno +10%, aumenta o ATQM de [Poço Venenoso].
+
+^fa8072**[Domínio Elemental Nível 1: Modo Passivo]**^000000
+"Você consegue lidar com isso, invocador?"
+
+**[Serpente Venenosa]**
+i. Aumenta o ATQM de Maldição de Jormungand do invocador em 1500%.
+ii. Quando o invocador realiza um ataque físico normal, ativa Implosão Tóxica Nível 1 com 7% de chance.
+   (Se um nível mais alto foi aprendido, ativa nesse nível).
+iii. A propriedade de ataque de Onda Psíquica torna-se elemento veneno.
+
+^0000ff**[Domínio Elemental Nível 2: Modo Defensivo]**^000000
+"Eu te protegerei com o poder do veneno."
+
+**[Armadura Tóxica]**
+i. Concede elemento veneno à armadura do invocador.
+ii. Resistência ao veneno do invocador +100, resistência ao sagrado -30.
+
+^ff0000**[Domínio Elemental Nível 3: Modo Ofensivo]**^000000
+"Devorarei tudo com o poder do veneno!"
+
+**[Peçonha Mortal]**
+i. Espalha veneno em uma área 9x9 ao redor do alvo, causando dano mágico de elemento veneno de 700% ATQM 5 vezes aos inimigos na área, ignorando a defesa mágica do alvo.
+   (O dano é aumentado adicionalmente de acordo com o nível base do invocador).

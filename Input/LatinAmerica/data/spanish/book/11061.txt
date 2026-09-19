@@ -1,0 +1,123 @@
+%f5f5dc
+^000088Objeto de intercambio del comisario del palacio de Prontera: objeto consumible^000000
+
+^ff0000[Mapa de la ciudad]^000000
+Mapa orientativo del interior de la ciudad.
+Al usarlo, se activa el potenciador de agilidad de nivel 1.
+¡Advertencia! No se activará ningún efecto si se usa durante el lanzamiento.
+¡Advertencia! Básicamente, consume 15 PV, así que, si tienes menos de 15 PV, no se activará ningún efecto aunque lo uses, pero igual se consumirá el Mapa de la ciudad.
+Peso: 1
+
+^ff0000[Agua bendita]^000000
+Reduce el daño infligido en la Sala de la conciencia y en la Mazmorra de la invasión de Prontera un 10 % durante 3 minutos.
+Elimina Veneno, Maldición y Silencio, y recupera 1000 PV.
+Peso: 1,5
+
+^ff0000[Llave de la prisión]^000000
+Hay varias llaves viejas y sucias colgadas.
+Puede transportarte a la mazmorra subterránea del castillo de Prontera.
+Peso: 1
+
+^ff0000[Insignia de Prontera]^000000
+Una insignia en la que se guardan las coordenadas de Prontera.
+Al usarla, te transporta a Prontera.
+Peso: 1
+
+
+^000088Objeto de intercambio del comisario del palacio de Prontera: objeto de armadura^000000
+
+^ff0000[Mapa de la ciudad]^000000
+Mapa orientativo del interior de la ciudad.
+Potencia la agilidad. Disponible para el nivel 3.
+Clase de objeto: Accesorio 
+Defensa: 0
+Peso: 10 
+Nivel requerido: 40 
+Clase: todas
+Ranura: 1
+
+^ff0000[Agua bendita]^000000
+Reduce el daño infligido en la Sala de la conciencia y la Mazmorra de la invasión de Prontera un 20 %.
+Recupera 100 PV y 5 PM cada 10 segundos.
+Clase de objeto: Accesorio Defensa: 0 
+Peso: 15 
+Nivel requerido: 100 
+Clase: Todas
+Ranura: 1
+
+^ff0000[Escudo de la Guardia real]^000000
+Escudo de Caballero de la Guardia. 
+Disponible para usar el “Hechizo de escudo” de nivel 1 
+Activa Assumptio de nivel 3 sobre ti con cierta probabilidad si se inflige daño físico cuerpo a cuerpo.
+Aumenta el índice de activación de Assumptio de nivel 3 según el nivel de refinamiento.
+DEF +10 y DEFM +1 por cada nivel de refinamiento. 
+Clase de objeto: Escudo 
+Defensa: 30 
+Peso: 300 
+Nivel requerido: 100 
+Clase: Todas 
+Ranura: 1
+
+^ff0000[Insignia de Prontera]^000000
+La habilidad Regreso a Prontera está disponible para su uso.
+Después de usarla, no está disponible durante 15 minutos.
+Clase de objeto: Accesorio 
+Defensa: 0 
+Peso: 10 
+Nivel requerido: 40 
+Clase: Todas
+
+^ff0000Túnica de halagos^000000
+Atuendo para quienes usan cualquier medio necesario para hacer realidad sus deseos.
+Disponible para usar Aguante de nivel 1.
+ATQM +50 
+ATQM +50 si quien lo equipa es nivel 120 o superior.
+ATQM +50 si quien lo equipa es nivel 140 o superior.
+
+Si se equipa con la Capa del lord anciano: 
+PMM +10 %. Potencia los PMM +1 % para el nivel 1 de refinamiento de armadura
+EVA +10. Potencia la EVA +1 para el nivel 1 de refinamiento de armadura.
+Si se equipa con la Capa de supervivencia, 
+PVM +10 %. Aumenta los PVM +1 para el nivel 1 de refinamiento de armadura.
+ATQM +2 %. Potencia el ATQM +1 para el nivel 1 de refinamiento de armadura.
+Clase de objeto: Armadura 
+Defensa: 0 
+Peso: 10 
+Nivel requerido: 100 
+Clase: Todas
+Ranura: 1
+
+^ff0000Túnica de improperios^000000
+Un atuendo para quienes pueden infligir daño crítico directo al alma con palabras.
+Disponible para usar Aumento de concentración de nivel 1.
+Anula un 4 % adicional de la defensa física del enemigo humano/Demonio/Muerto viviente con refinamiento de armadura de nivel 1.
+Si se equipa con la Capa de Morianee, 
+anula un 15 % de la defensa física del enemigo humano/Demonio/Muerto viviente.
+SUE +3. Potencia la SUE +1 para el nivel 1 de refinamiento de armadura.
+CRÍT +10. Potencia el CRÍT en +1 para el nivel 1 de refinamiento de armadura.
+Si se equipa con la Capa de Valkiria, 
+anula un 15 % de la defensa física del enemigo humano/Demonio/Muerto viviente.
+PVM +10 %. Aumenta los PVM +1 para el nivel 1 de refinamiento de armadura.
+ATQ +2 %. Potencia el ATQ +1 para el nivel 1 de refinamiento de armadura.
+Clase de objeto: Armadura 
+Defensa: 0 
+Peso: 10 
+Nivel requerido: 100 
+Clase: Todas
+Ranura: 1
+
+^ff0000Reloj derretido decorativo^000000
+Da la sensación de encierro dentro del paso inevitable del tiempo.
+Clase de objeto: Decorativo 
+Defensa: 0 
+Ubicación: Media 
+Peso: 0 
+Nivel requerido: 1 
+Clase: Todas
+
+^ff0000[Mano negra del destino]^000000
+Da la sensación como si el destino te agarrara de la nuca para llevarte de un lado a otro.
+Clase de objeto: Decorativo Defensa: 0 
+Ubicación: Superior Peso: 0 
+Nivel requerido: 1 
+Clase: Todas
