@@ -15,9 +15,11 @@ struct ItemCommonInfo: Codable {
 }
 
 struct ItemCommonInfoConverter {
-    func convert(from input: URL, to output: URL) throws {
-        let locale = Locale(identifier: "ko")
-        var itemCommonInfos = try itemCommonInfos(from: input, for: locale)
+    func convert(from itemInfoURL: URL, to output: URL) throws {
+        print("Converting item common info")
+
+        let locale = Locale.ko
+        var itemCommonInfos = try itemCommonInfos(from: itemInfoURL)
 
         for itemID in itemCommonInfos.keys {
             itemCommonInfos[itemID]?.unidentifiedItemResourceName?.transcode(from: .isoLatin1, to: locale.preferredEncoding)
@@ -33,11 +35,10 @@ struct ItemCommonInfoConverter {
         try jsonData.write(to: jsonURL)
     }
 
-    private func itemCommonInfos(from input: URL, for locale: Locale) throws -> [String : ItemCommonInfo] {
+    private func itemCommonInfos(from itemInfoURL: URL) throws -> [String : ItemCommonInfo] {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let itemInfoURL = input.appendingPathComponentsIgnoringCase([locale.path, "System", "itemInfo_true.lub"])
         context.loadData(at: itemInfoURL)
 
         try context.evaluate("""

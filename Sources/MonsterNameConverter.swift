@@ -8,13 +8,10 @@
 import Foundation
 
 struct MonsterNameConverter {
-    func convert(from input: URL, to output: URL, for locale: Locale) throws {
+    func convert(from mobNameURL: URL, to output: URL, for locale: Locale) throws {
         print("Converting monster name for \(locale.path)")
 
-        let url = input.appendingPathComponentsIgnoringCase([locale.path, "mobname.txt"])
-        guard let string = try? String(contentsOf: url, encoding: .utf8) else {
-            return
-        }
+        let string = try String(contentsOf: mobNameURL, encoding: .utf8)
 
         var monsterNames: [String : String] = [:]
 

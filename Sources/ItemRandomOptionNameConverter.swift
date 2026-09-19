@@ -9,23 +9,25 @@ import Foundation
 import RagnarokLua
 
 struct ItemRandomOptionNameConverter {
-    func convert(from input: URL, to output: URL, for locale: Locale) throws {
-        print("Converting item random option name for \(locale.path)")
+    struct Input {
+        var enumvar: URL
+        var addrandomoptionnametable: URL
 
-        let addrandomoptionnametableURL = input.appendingPathComponentsIgnoringCase([locale.path, "data", "luafiles514", "lua files", "datainfo", "addrandomoptionnametable.lub"])
-        guard FileManager.default.fileExists(atPath: addrandomoptionnametableURL.path) else {
-            return
+        /// - Parameter directory: `datainfo` directory
+        init(directory: URL) {
+            enumvar = directory.appendingPathIgnoringCase("enumvar.lub")
+            addrandomoptionnametable = directory.appendingPathIgnoringCase("addrandomoptionnametable.lub")
         }
+    }
+
+    func convert(from input: Input, to output: URL, for locale: Locale) throws {
+        print("Converting item random option name for \(locale.path)")
 
         let context = LuaContext()
         context.loadJSONModule()
 
-        let enumvarURL = FileManager.default.localizedFileURL(in: input, for: locale, pathComponents: ["data", "luafiles514", "lua files", "datainfo", "enumvar.lub"])
-        let addrandomoptionfURL = FileManager.default.localizedFileURL(in: input, for: locale, pathComponents: ["data", "luafiles514", "lua files", "datainfo", "addrandomoption_f.lub"])
-
-        context.loadData(at: enumvarURL)
-        context.loadData(at: addrandomoptionnametableURL)
-        context.loadData(at: addrandomoptionfURL)
+        context.loadData(at: input.enumvar)
+        context.loadData(at: input.addrandomoptionnametable)
 
         try context.evaluate("""
         function convert()

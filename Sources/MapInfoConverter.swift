@@ -16,18 +16,18 @@ struct MapInfo: Codable {
 
 struct MapInfoConverter {
     enum Input {
-        case lua(_ url: URL, _ filename: String)
-        case txt(_ url: URL)
+        case lua(mapInfoURL: URL)
+        case txt(mapNameTableURL: URL)
     }
 
     func convert(from input: Input, to output: URL, for locale: Locale, encoding: String.Encoding? = nil) throws {
         print("Converting map info for \(locale.path)")
 
         var mapInfos = switch input {
-        case .lua(let url, let filename):
-            try luaMapInfos(from: url, filename: filename, for: locale)
-        case .txt(let url):
-            txtMapInfos(from: url, for: locale)
+        case .lua(let mapInfoURL):
+            try luaMapInfos(from: mapInfoURL)
+        case .txt(let mapNameTableURL):
+            try txtMapInfos(from: mapNameTableURL)
         }
 
         let encoding = encoding ?? locale.preferredEncoding
@@ -47,11 +47,10 @@ struct MapInfoConverter {
         try jsonData.write(to: jsonURL)
     }
 
-    private func luaMapInfos(from input: URL, filename: String, for locale: Locale) throws -> [String : MapInfo] {
+    private func luaMapInfos(from mapInfoURL: URL) throws -> [String : MapInfo] {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let mapInfoURL = input.appendingPathComponentsIgnoringCase([locale.path, "System", filename])
         context.loadData(at: mapInfoURL)
 
         try context.evaluate("""
@@ -78,11 +77,8 @@ struct MapInfoConverter {
         return mapInfos
     }
 
-    private func txtMapInfos(from input: URL, for locale: Locale) -> [String : MapInfo] {
-        let url = input.appendingPathComponentsIgnoringCase([locale.path, "data", "mapnametable.txt"])
-        guard let string = try? String(contentsOf: url, encoding: .isoLatin1) else {
-            return [:]
-        }
+    private func txtMapInfos(from mapNameTableURL: URL) throws -> [String : MapInfo] {
+        let string = try String(contentsOf: mapNameTableURL, encoding: .isoLatin1)
 
         var mapInfos: [String : MapInfo] = [:]
 

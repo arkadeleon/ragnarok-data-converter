@@ -26,8 +26,35 @@
   "06guild_r" : {
     "displayName" : "Ruang Tunggu - Guild War Arena"
   },
+  "1@cash" : {
+    "displayName" : "Gua Octopus"
+  },
   "1@cata" : {
     "displayName" : "Catacom"
+  },
+  "1@lhz" : {
+    "displayName" : "Wolfchev's Lab"
+  },
+  "1@ma_b" : {
+    "displayName" : "Tempat Persembunyian Bakonawa"
+  },
+  "1@ma_c" : {
+    "displayName" : "Gua Buwaya"
+  },
+  "1@ma_h" : {
+    "displayName" : "Bangungot Hospital 2F"
+  },
+  "1@mist" : {
+    "displayName" : "Labyrinth in the mistwood"
+  },
+  "1@nyd" : {
+    "displayName" : "Gua Nydhogg"
+  },
+  "1@orcs" : {
+    "displayName" : "Memori Gua Orc"
+  },
+  "1@pump" : {
+    "displayName" : "Culvert Dungeon"
   },
   "1@tower" : {
     "displayName" : "Endless Tower"
@@ -59,8 +86,41 @@
   "2007rwc_r" : {
     "displayName" : "Area RIC"
   },
+  "2010rwc_01" : {
+    "displayName" : "Arena 1"
+  },
+  "2010rwc_02" : {
+    "displayName" : "Arena 2"
+  },
+  "2010rwc_03" : {
+    "displayName" : "Arena 3"
+  },
+  "2010rwc_04" : {
+    "displayName" : "Arena 4"
+  },
+  "2010rwc_05" : {
+    "displayName" : "Arena 5"
+  },
+  "2010rwc_06" : {
+    "displayName" : "Arena 6"
+  },
+  "2010rwc_07" : {
+    "displayName" : "Arena 7"
+  },
+  "2010rwc_08" : {
+    "displayName" : "Arena 8"
+  },
   "2@cata" : {
     "displayName" : "Sealed Shrine"
+  },
+  "2@nyd" : {
+    "displayName" : "Gua Nydhogg"
+  },
+  "2@orcs" : {
+    "displayName" : "Memori Gua Orc"
+  },
+  "2@pump" : {
+    "displayName" : "Culvert Dungeon2"
   },
   "2@tower" : {
     "displayName" : "Endless Tower"
@@ -179,6 +239,12 @@
   "arena_room" : {
     "displayName" : "Ruang Tunggu"
   },
+  "arug_dun01" : {
+    "displayName" : "Guild Dungeon"
+  },
+  "arug_que01" : {
+    "displayName" : "Morestone"
+  },
   "auction_01" : {
     "displayName" : "Rumah Lelang"
   },
@@ -218,6 +284,15 @@
   "bat_b02" : {
     "displayName" : "Flavius"
   },
+  "bat_c01" : {
+    "displayName" : "Arena Krieger von Midgards"
+  },
+  "bat_c02" : {
+    "displayName" : "Arena Krieger von Midgards"
+  },
+  "bat_c03" : {
+    "displayName" : "Arena Krieger von Midgards"
+  },
   "bat_room" : {
     "displayName" : "Ruang Tunggu BOE"
   },
@@ -229,6 +304,27 @@
   },
   "beach_dun3" : {
     "displayName" : "Mao, Goa Timur"
+  },
+  "bif_fild01" : {
+    "displayName" : "Bifrost South"
+  },
+  "bif_fild02" : {
+    "displayName" : "Bifrost North"
+  },
+  "bra_dun01" : {
+    "displayName" : "Pintu masuk Gua Air terjun"
+  },
+  "bra_dun02" : {
+    "displayName" : "Di dalam Gua Air terjun"
+  },
+  "bra_fild01" : {
+    "displayName" : "Kota Brasilis"
+  },
+  "bra_in01" : {
+    "displayName" : "Dalam Brasilis"
+  },
+  "brasilis" : {
+    "displayName" : "Kota Brasilis"
   },
   "c_tower1" : {
     "displayName" : "Clock Tower 1F"
@@ -277,6 +373,30 @@
   },
   "comodo" : {
     "displayName" : "Pulau pantai, Comodo"
+  },
+  "dic_dun01" : {
+    "displayName" : "Lorong Pertambangan Dicastes"
+  },
+  "dic_dun02" : {
+    "displayName" : "Dungeon Scraba"
+  },
+  "dic_dun03" : {
+    "displayName" : "Dungeon Scraba"
+  },
+  "dic_fild01" : {
+    "displayName" : "Kaki Gunung Kamidal"
+  },
+  "dic_fild02" : {
+    "displayName" : "Kaki Gunung Kamidal"
+  },
+  "dic_in01" : {
+    "displayName" : "Dalam Dicastes"
+  },
+  "dicastes01" : {
+    "displayName" : "El Dicastes, Ibukota Sapha"
+  },
+  "dicastes02" : {
+    "displayName" : "Hutan Brumbeld Jorhi"
   },
   "e_tower" : {
     "displayName" : "Misty Island"
@@ -500,6 +620,18 @@
   "glast_01" : {
     "displayName" : "Glast Heim"
   },
+  "gld2_ald" : {
+    "displayName" : "Corridor of the abyss : Tear of the Hero"
+  },
+  "gld2_gef" : {
+    "displayName" : "Corridor of the abyss : Dead men's hill"
+  },
+  "gld2_pay" : {
+    "displayName" : "Corridor of the abyss : The ancient wind"
+  },
+  "gld2_prt" : {
+    "displayName" : "Corridor of the abyss : Warrior's way"
+  },
   "gld_dun01" : {
     "displayName" : "Guild Dungeon"
   },
@@ -677,6 +809,48 @@
   "jawaii_in" : {
     "displayName" : "Di dalam Jawaii"
   },
+  "job3_arch01" : {
+    "displayName" : "Ruang Tunggu Pelatihan Archbishop"
+  },
+  "job3_arch02" : {
+    "displayName" : "Kuil Odin"
+  },
+  "job3_arch03" : {
+    "displayName" : "Ruang Tunggu Pelatihan Archbishop"
+  },
+  "job3_gen01" : {
+    "displayName" : "Laboratorium Genetik"
+  },
+  "job3_guil01" : {
+    "displayName" : "Bar Rahasia"
+  },
+  "job3_guil02" : {
+    "displayName" : "Dalam Gudang Tua"
+  },
+  "job3_guil03" : {
+    "displayName" : "Sebuah Rumah Terpencil"
+  },
+  "job3_rang01" : {
+    "displayName" : "Ruang Tunggu Pelatihan Ranger"
+  },
+  "job3_rang02" : {
+    "displayName" : "Ruang Tes Pelatihan Ranger"
+  },
+  "job3_rune01" : {
+    "displayName" : "Dalam Rune Knight Templar"
+  },
+  "job3_rune02" : {
+    "displayName" : "Ruang Tes Pelatihan Rune Knight"
+  },
+  "job3_rune03" : {
+    "displayName" : "Ruang Tes Pelatihan Rune Knight"
+  },
+  "job3_war01" : {
+    "displayName" : "Ruang Tes Pelatihan Warlock"
+  },
+  "job3_war02" : {
+    "displayName" : "Ruang Tes Pelatihan Warlock"
+  },
   "job_cru" : {
     "displayName" : "Test Defender"
   },
@@ -688,6 +862,9 @@
   },
   "job_knt" : {
     "displayName" : "Knight Test"
+  },
+  "job_ko" : {
+    "displayName" : "Tempat tersembunyi"
   },
   "job_monk" : {
     "displayName" : "Kuil St. Capitolina"
@@ -720,6 +897,9 @@
     "displayName" : "Pintu masuk Juperos"
   },
   "jupe_core" : {
+    "displayName" : "Pusat Juperos"
+  },
+  "jupe_core2" : {
     "displayName" : "Pusat Juperos"
   },
   "jupe_ele" : {
@@ -788,6 +968,9 @@
   "lhz_dun03" : {
     "displayName" : "Laboratorium Somatology"
   },
+  "lhz_dun04" : {
+    "displayName" : "Human Experimentation Laboratory B4"
+  },
   "lhz_fild01" : {
     "displayName" : "Field Lighthalzen"
   },
@@ -833,11 +1016,89 @@
   "louyang" : {
     "displayName" : "Kastil Naga"
   },
+  "ma_dun01" : {
+    "displayName" : "Bangungot Hospital 1F"
+  },
+  "ma_fild01" : {
+    "displayName" : "Baryo Mahiwaga"
+  },
+  "ma_fild02" : {
+    "displayName" : "Hutan"
+  },
+  "ma_in01" : {
+    "displayName" : "Inside of Malaya"
+  },
+  "ma_scene01" : {
+    "displayName" : "Danau Bakonawa"
+  },
+  "ma_zif01" : {
+    "displayName" : "Inside of Jeepney"
+  },
+  "ma_zif02" : {
+    "displayName" : "Inside of Jeepney"
+  },
+  "ma_zif03" : {
+    "displayName" : "Inside of Jeepney"
+  },
+  "ma_zif04" : {
+    "displayName" : "Inside of Jeepney"
+  },
+  "ma_zif05" : {
+    "displayName" : "Inside of Jeepney"
+  },
+  "ma_zif06" : {
+    "displayName" : "Inside of Jeepney"
+  },
+  "ma_zif07" : {
+    "displayName" : "Inside of Jeepney"
+  },
+  "ma_zif08" : {
+    "displayName" : "Inside of Jeepney"
+  },
+  "ma_zif09" : {
+    "displayName" : "Inside of Jeepney"
+  },
   "mag_dun01" : {
     "displayName" : "Norgroad"
   },
   "mag_dun02" : {
     "displayName" : "Norgroad"
+  },
+  "mal_dun01" : {
+    "displayName" : "malangdo Dungeon"
+  },
+  "mal_in01" : {
+    "displayName" : "Malangdo"
+  },
+  "mal_in02" : {
+    "displayName" : "Malangdo"
+  },
+  "malangdo" : {
+    "displayName" : "Malangdo"
+  },
+  "malaya" : {
+    "displayName" : "Port Malaya"
+  },
+  "man_fild01" : {
+    "displayName" : "Manuk Field"
+  },
+  "man_fild02" : {
+    "displayName" : "Manuk Field"
+  },
+  "man_fild03" : {
+    "displayName" : "Manuk Field"
+  },
+  "man_in01" : {
+    "displayName" : "Manuk"
+  },
+  "manuk" : {
+    "displayName" : "Kota Pertambangan Manuk"
+  },
+  "mid_camp" : {
+    "displayName" : "Kemah Ekspedisi"
+  },
+  "mid_campin" : {
+    "displayName" : "Kemah Ekspedisi"
   },
   "mjo_dun01" : {
     "displayName" : "Jalan Buntu Mjolnir"
@@ -953,6 +1214,12 @@
   "moc_fild22" : {
     "displayName" : "Padang Pasir Sograt"
   },
+  "moc_fild22b" : {
+    "displayName" : "Celah Dimensi"
+  },
+  "moc_para01" : {
+    "displayName" : "Dalam Bangunan Grup Paradise di Morroc"
+  },
   "moc_pryd01" : {
     "displayName" : "Dalam Pyramid"
   },
@@ -982,6 +1249,9 @@
   },
   "monk_test" : {
     "displayName" : "Kuil St. Capitolina"
+  },
+  "mora" : {
+    "displayName" : "Rafle Village, Mora"
   },
   "morocc" : {
     "displayName" : "Kota Morroc"
@@ -1087,6 +1357,15 @@
   },
   "niflheim" : {
     "displayName" : "Kota Kematian Niflheim"
+  },
+  "niflxmas" : {
+    "displayName" : "Deadman's land Niffelheim"
+  },
+  "nyd_dun01" : {
+    "displayName" : "The violent's Wound"
+  },
+  "nyd_dun02" : {
+    "displayName" : "The violent's Wound"
   },
   "odin_tem01" : {
     "displayName" : "Kuil Odin"
@@ -1601,17 +1880,29 @@
   "que_bingo" : {
     "displayName" : "Bingo Game Room"
   },
+  "que_dan01" : {
+    "displayName" : "Hugel Field"
+  },
+  "que_dan02" : {
+    "displayName" : "Rumah Tua di Yuno"
+  },
   "que_god01" : {
     "displayName" : "Quest Map"
   },
   "que_god02" : {
     "displayName" : "Quest Map"
   },
+  "que_house_s" : {
+    "displayName" : "Strange House"
+  },
   "que_hugel" : {
     "displayName" : "Kuil bawah tanah Odin"
   },
   "que_job01" : {
     "displayName" : "Private Pub"
+  },
+  "que_lhz" : {
+    "displayName" : "Human Experimentation Laboratory B4"
   },
   "que_qaru01" : {
     "displayName" : "Dungeon Okolnir"
@@ -1754,6 +2045,15 @@
   "rachel" : {
     "displayName" : "Rachel, Ibukota Negeri Arunafeltz"
   },
+  "s_atelier" : {
+    "displayName" : "Bengkel Bayangan"
+  },
+  "schg_dun01" : {
+    "displayName" : "Guild Dungeon"
+  },
+  "schg_que01" : {
+    "displayName" : "Morestone"
+  },
   "sec_in01" : {
     "displayName" : "Ruangan dalam Valhalla"
   },
@@ -1763,6 +2063,24 @@
   "sec_pri" : {
     "displayName" : "Ruangan meditasi (Penjara Valhalla)"
   },
+  "spl_fild01" : {
+    "displayName" : "Splandid Field"
+  },
+  "spl_fild02" : {
+    "displayName" : "Splendide Field"
+  },
+  "spl_fild03" : {
+    "displayName" : "Splendide Field"
+  },
+  "spl_in01" : {
+    "displayName" : "Pos Komando di Splandid"
+  },
+  "spl_in02" : {
+    "displayName" : "Splandid"
+  },
+  "splendide" : {
+    "displayName" : "Markas Rapine, Splandid"
+  },
   "sword_1-1" : {
     "displayName" : "Ruang Tes Swordman"
   },
@@ -1771,6 +2089,60 @@
   },
   "sword_3-1" : {
     "displayName" : "Ruang Tes Swordman"
+  },
+  "te_alde_gld" : {
+    "displayName" : "Kafragaten"
+  },
+  "te_aldecas1" : {
+    "displayName" : "Glaris"
+  },
+  "te_aldecas2" : {
+    "displayName" : "Defolty"
+  },
+  "te_aldecas3" : {
+    "displayName" : "Sorin"
+  },
+  "te_aldecas4" : {
+    "displayName" : "Bennit"
+  },
+  "te_aldecas5" : {
+    "displayName" : "W"
+  },
+  "te_prt_gld" : {
+    "displayName" : "Gloria"
+  },
+  "te_prtcas01" : {
+    "displayName" : "Gaebolg"
+  },
+  "te_prtcas02" : {
+    "displayName" : "Richard"
+  },
+  "te_prtcas03" : {
+    "displayName" : "Wigner"
+  },
+  "te_prtcas04" : {
+    "displayName" : "Heine"
+  },
+  "te_prtcas05" : {
+    "displayName" : "Nerious"
+  },
+  "teg_dun01" : {
+    "displayName" : "Subterranean Dungeon of Guild"
+  },
+  "teg_dun02" : {
+    "displayName" : "Subterranean Dungeon of Guild"
+  },
+  "tha_rwc01" : {
+    "displayName" : "Arena 9"
+  },
+  "tha_rwc02" : {
+    "displayName" : "Arena 10"
+  },
+  "tha_rwc03" : {
+    "displayName" : "Arena 11"
+  },
+  "tha_rwc04" : {
+    "displayName" : "Arena 12"
   },
   "tha_t01" : {
     "displayName" : "Thanatos Tower - Lower Level"

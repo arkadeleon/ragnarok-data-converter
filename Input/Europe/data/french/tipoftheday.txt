@@ -1,0 +1,160 @@
+->/savechat : Sauvegarde la discussion dans un fichier texte.
+#
+->Vous pouvez choisir la transparence de la Mini Map avec la touche ctrl+[*].
+#
+->Vous pouvez changer la vue du personnage en déplaçant la souris tout en appuyant sur le bouton droit .
+   En double cliquant droit sur la souris vous replacerez la caméra sur la vue par défaut.
+#
+->Vous pouvez élargir/réduire une fenêtre en déplaçant la souris tout en appuyant sur le bouton droit et la touche ctrl.
+    En double cliquant sur le bouton droit de la souris tout en appuyant sur la touche ctrl reconfigure au paramètre par défaut.
+    Vous pouvez aussi utiliser la molette de la souris pour élargir ou réduire la fenêtre.
+#
+->Si vous placez le curseur de la souris sur un monstre, l'icône deviendra un épée.
+    En cliquant sur le monstre avec la souris lance un attaque.
+#
+->Les points d'Expérience que vous recevez d'un monstre sont en rapport avec les dommages que vous avez échangé avec le monstre.
+  Si 2 joueurs attaquent le même monstre, celui qui attaque en premier recevra plus de points d'EXP.
+#
+->En appuyant sur la touche Ctrl et clique droit de la souris sur un monstre lance [Auto-Attack] jusqu'à la défaite du monstre.
+#
+->Pour ramasser les items laisser sur le sol, cliquez sur l'item que vous voulez prendre.
+   L'item sera alors sauvegarder dans votre inventaire d'items.
+#
+->Cliquez droit sur un item et vous ferez apparaître une image de cet item ainsi qu'une brève description.
+#
+->Les 2 jauges affichées en dessous du personnage indique ses points HP et SP.
+   Celle de couleur verte indique les points HP et celle de couleur bleue les points SP. Si le niveau des points HP tombe à zéro le personnage mourra. Quand le niveau des points HP est en dessous de 25% du maximum, la jauge devient rouge pour vous avertir.
+#
+->Chaque fois que la barre des points EXP est pleine (100%) , le niveau d'expérience augmente d'un point. L'augmentation vous donne un nombre au hasard de points de statuts pour améliorer les caractéristiques de votre personnage.
+#
+->Chaque fois que la barre des points d'EXP de Job est pleine (100%), le niveau professionnel augmente d'un point. L'augmentation vous donne un skill point que vous pouvez attribuer sur une de vos skills.
+#
+->Se tenir debout sans bouger vous permet de régénérer un peu de points HP et SP.
+   Les points HP et SP peuvent être récupérer 2 fois plus rapidement en s'asseyant. Cependant les points HP/SP ne se régénèrent pas si votre poids dépasse 50% du maximum.
+#
+->Poids : Indique le poids actuel du personnage et le maximum.
+   Le personnage peut transporter autant d'item que son poids lui autorise.
+   Si le poids dépasse 50% du maximum, l'indication devient rouge et les points HP et SP ne se régénèrent plus. De plus si le poids dépasse les 90% du maximum le personnage ne peut plus attaquer ou utiliser de skills.
+#
+->Zeny : est la monnaie utilisée dans le monde merveilleux de Ragnarok.
+#
+->Quand le personnage passe à un niveau supérieur, un nombre aléatoire de points pour ses statuts lui sont attribués.
+    L'utilisation des ces points permet d'améliorer les performances du personnage comme vous le souhaitez.
+    Entre le level 1 ~ 10, un total de 3 points vous sont attribués, au delà du niveau 10, le total de points augmentera de 1 tous les 5 levelup.
+#
+->STR(Strength) : Défini la force physique du personnage.
+   Elle permet aussi d'augmenter le poids maximum du personnage augmentant ainsi la quantité d'items qu'il peut transporter.
+#
+->DEX(Dexterity) : Défini la précision du personnage les d'un attaque avec une arme.
+   Elle améliore la puissance moyenne des attaques avec une arme, en particulier pour les attaques avec des arcs. De plus elle réduit les échecs lors d'une attaque, ainsi que le délai pour lancer un sort.
+#
+->AGI(Agility) : Améliore la vitesse d'attaque avec une arme et l'esquive du personnage.
+#
+->VIT(Vital) : influence la défense et la santé du personnage.
+   VIT augmente la défense du personnage si bien qu'il reçoit moins de dommages des ennemis. Elle augmente aussi le maximum de points HP et la vitesse de récupération de points HP.
+#
+->INT(Intelligence) : est liée avec les compétences magiques du personnage. 
+    INT augmente la puissance des attaques magiques et la résistance à des attaques magiques.
+#
+->LUK(Luck) : Détermine la chance du personnage. 
+    Ainsi le taux d'attaques critiques et celui d'une esquive parfaite augmentent avec la chance.
+#
+->[Print Screen] ou [Scroll Lock] : sauvegarde des copies d'écran dans le répertoire [ScreenShot].
+#
+->[F10] :  modifie la taille de la fenêtre de discussion.
+#
+->[F11] : ferme toutes les fenêtres à l'exception de la fenêtre des informations de bases et de la fenêtre de discussion.
+#
+->[F12] : Ouvre ou ferme la fenêtre des raccourcis.
+     Placez y les items utiles ou certains de vos skills dans cette fenêtre pour un accès rapide, chaque case correspond à une touche entre F1 et F9 (de gauche à droite).
+#
+->[INSERT] : Raccourci pour /sit, /stand.
+     Vous pouvez taper [/sit] ou [/stand] à la place de taper sur la touche [INSERT] dans la fenêtre de discussion. En étant assis vos points HP et SP se régénèreront 2 fois plus rapidement.
+#
+->[Alt] + [END] : On/Off [HP/SP] affichage des barres en dessous du personnage.
+#
+->[Alt] + [HOME] : On/Off indication d'une zone accessible. (Petit carré vert sur le sol en dessous de icône de la souris).
+#
+->[Alt] + [=] : Initialise les paramètres par défaut de l'écriture. La plupart des commandes ne fonctionnent pas quand l'écriture est en mode 1*1 avec un écriture plus espacée.
+#
+->[Alt] + [F10] : On/Off affichage de la fenêtre de discussion.
+#
+->[Alt] + [1~9], [Ctrl] + [-,=,\]  : raccourcis pour plusieurs emoticons comme /! /? /ho /lv /lv2 /swt /ic /an /ag /$ /.../gawi("ciseaux") /bawi("pierre") /bo("papier") /thx /wah /sry /heh /swt2 /hmm /no1 /??/omg /oh /X /hp /go /sob /gg /kis /kis2 /pif
+#
+->/who : Indique l'utilisateur qui est connecté actuellement au serveur.
+#
+->/where : Indique la position actuelle du personnage, zone et coordonnées.
+#
+->/H : Liste les commandes de base.
+#
+->/music : On/Off BGM.
+   Vous pouvez aussi modifier le volume du son dans la fenêtre des options(raccourcis : [Alt] + [o]).
+#
+->/sound : On/Off Effets sonores.
+   Vous pouvez aussi modifier le volume des effets sonores dans la fenêtre des options(raccourcis: [Alt] + [o]).
+#
+->/effect : permet d'afficher les effets visuels en fonction de votre configuration.
+   En supprimant les effets visuels vous augmenterez la vitesse du jeu.
+#
+->/skip : On/Off Frame skip.
+   Frame skip off vous permet d'adapter le lag du jeu en fonction de votre configuration.
+   A l'exception d'un lag très important cette commande n'est pas recommandée.
+#
+->/ex [Nom du personnage] : Empêche le personnage mentionné de vous parler directement.
+->/in [Nom du personnage] :  Autorise le personnage mentionné à vous parler directement.
+#
+->/exall : Bloque toutes les conversations.
+->/inall : Autorise toutes les conversations.
+#
+->/ex : Affiche la liste des personnages bloqués.
+#
+->/organize [Nom de la party] : Organiser une party.
+   Si vous êtes le leader de la party, vous pouvez inviter d'autres personnages à vous rejoindre.
+#
+->Cliquer droit sur le personnage que vous voulez inviter à votre party. Un menu va apparaître et choisissez 'Invite (character name) to your party', vous pouvez ainsi créer votre propre party.
+#
+->/leave : Quitter une party.
+   Cette commande ne vous demande pas de donner une raison, donc réfléchissez avant de l'utiliser.
+#
+->/expel [Nom du personnage] : Rejette un personnage d'une party.
+   Cette commande ne vous demande pas de donner une raison, donc réfléchissez avant de l'utiliser.   
+#
+->Cliquer sur en bas à droite de la fenêtre de discussion et choisissez dans le menu "Send to party". Vous pourrez alors discuter en privé avec vos membres de party.
+#
+->%[dialogue vous voulez envoyer] : Envoie un message privé au membres de la party.
+    Vous pouvez aussi taper tout en maintenant la touche Ctrl pour faire la même chose.
+#
+->Les membres d'une party sont indiqués sur la mini map. Vous pouvez ainsi toujours vous retrouver sans difficulté.
+#
+->Comment discuter avec une personne : Taper le nom de la personne dans la petite zone en bas à gauche de la fenêtre de discussion, tapez le message normalement dans la zone de texte à coté. La touche TAB vous permet de activer l'un ou l'autre de ces zone.
+#
+->Cliquez sur les icons [+/-] de la mini-map, pour [Elargir/Réduire] la carte.
+#
+->[MVP System] : a été mis en place pour remercier le personnage qui a le plus contribué au combat contre un monstre, de même l'auto looting system permet aux items rares laissés par un BOSS d'aller automatiquement dans l'inventaire du personnage qui a été le meilleur.
+    Si le BOSS ne laisse pas d'items rares, 50% de l'EXP obtenu par la défaite du boss iront au meilleur personnage (MVP).
+#
+->Quand le jeu est en mode fenêtre, vous pouvez déplacer la fenêtre.
+    Appuyer sur [Alt] + [Space Bar] et maintenez la touche [M], et déplacez la fenêtre avec les ^ff0000fléches^000000 ou ^ff0000la souris^000000.
+#
+->/fog : On/Off l'effet fog. L'effet de Fog permet d'afficher le temps des zones. 
+    Cet effet peut ralentir les petites configurations systèmes. Si le jeu n'arrête pas de planter sans raison ou se déconnecte soudainement, merci de  désactiver l'effet fog. Vous pouvez désactiver l'effet fog dans la fenêtre des options.
+#
+->Les Items laissés par les monstres doivent être identifiés avec un magnifier. Magnifiers peuvent être acheté dans des Tool shops.
+#
+->Les skills de piège des Hunter nécessite des pièges qui peuvent être acheté dans des Tool shops.
+#
+->Vous pouvez organiser des Guilde en utilisant des Emperiums. La commande pour les Guildes est /guild [Nom de la Guilde], le raccourci pour la fenêtre des Guildes est ALT+G.
+#
+->Le raccourci pour discuter entre membres de Guilde est /gc message ou $ message ou message et taper après ALT+ENTER.
+#
+->Pour utiliser une carte dans un item, mettez cet items dans votre inventaire, et ensuite double cliquez sur la carte. Ainsi vous insérerez une carte dans un slot de l'item.
+#
+->Ci dessous les statuts anormaux.
+- Stun : Signifie que vous ou le monstre êtes évanouis. Vous ne pouvez plus bouger.
+- Blind : Signifie que vous ou le monstre êtes aveugle, l'écran devient noire. Dans le cas d'un monstre leur champs de vision devient plus petit. 
+- Sleep : Signifie que vous ou le monstre êtes endormis. Vous ne pouvez plus rien faire.
+#
+->En cas de décès, les points EXP et Job EXP diminuent, dans le donjons vous pouvez aussi perdre des items. Et il est impossible pendant 5 secondes d'utiliser les skills ou de se battre.
+#
+->Cart, Espace supplémentaire pour stocker vos items, Les points de sauvegarde sont possibles via les employées Kafra dans chaque ville.
+#

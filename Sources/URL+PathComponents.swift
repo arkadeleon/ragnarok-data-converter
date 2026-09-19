@@ -21,4 +21,8 @@ extension URL {
             return url.appendingPathComponent(match ?? component)
         }
     }
+
+    func appendingPathIgnoringCase(_ path: String) -> URL {
+        appendingPathComponentsIgnoringCase(path.split(separator: "/").map(String.init))
+    }
 }

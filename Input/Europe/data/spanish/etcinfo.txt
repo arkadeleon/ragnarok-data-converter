@@ -1,0 +1,17 @@
+loadingscreen#
+10#
+event#
+1#
+//weather#malangdo.rsw#pokjuk#
+//weather#prontera.rsw#sakura#
+//weather#pay_arche.rsw#sakura#
+weather#prontera.rsw#snow#
+weather#izlude.rsw#snow#
+weather#alberta.rsw#snow#
+weather#geffen.rsw#snow#
+weather#yuno.rsw#snow#
+weather#niflheim.rsw#snow#
+weather#aldebaran.rsw#snow#
+weather#payon.rsw#snow#
+weather#morocc.rsw#snow#
+//file end end

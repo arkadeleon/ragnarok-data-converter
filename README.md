@@ -16,8 +16,30 @@ Convert Ragnarok Online client resource files into normalized JSON datasets.
 swift run ragnarok-data-converter <input> <output>
 ```
 
-- `input`: directory containing Ragnarok Online client resource files
+- `input`: directory containing one subdirectory per Ragnarok Online client (see below)
 - `output`: directory where JSON files will be written
+
+## Input
+
+Each client is kept as it ships, under a directory named after the region it serves. Which files are read for which locale is spelled out per client in `Convert.swift`.
+
+```text
+Input/
+  Korea/          data/ System/                  → ko
+  International/  data/ System/                  → en
+  Japan/          data/ System/                  → ja
+  China/          data/ System/ mobname.txt      → zh-Hans
+  Taiwan/         data/ System/ mobname.txt      → zh-Hant
+  Brazil/         data/ System/                  → pt-BR
+  Thailand/       data/ System/                  → th
+  Indonesia/      data/ System/                  → id
+  Russia/         data/ System/                  → ru
+  Europe/         data/{german,spanish,french,italian,turkish}/ …
+                  data/luafiles514/{german,…}/lua files/ …
+                                                 → de, es, fr, it, tr
+```
+
+Single-language clients keep everything in `data/` and `System/`. The euRO client ships one subdirectory per language with only the translated files, and falls back to the root of `data/` for the rest.
 
 ## Output
 

@@ -13,23 +13,28 @@ struct StatusInfo: Codable {
 }
 
 struct StatusInfoConverter {
-    func convert(from input: URL, to output: URL, for locale: Locale) throws {
-        print("Converting status info for \(locale.path)")
+    struct Input {
+        var efstids: URL
+        var stateiconimginfo: URL
+        var stateiconinfo: URL
 
-        let stateiconinfoURL = input.appendingPathComponentsIgnoringCase([locale.path, "data", "luafiles514", "lua files", "stateicon", "stateiconinfo.lub"])
-        guard FileManager.default.fileExists(atPath: stateiconinfoURL.path) else {
-            return
+        /// - Parameter directory: `stateicon` directory
+        init(directory: URL) {
+            efstids = directory.appendingPathIgnoringCase("efstids.lub")
+            stateiconimginfo = directory.appendingPathIgnoringCase("stateiconimginfo.lub")
+            stateiconinfo = directory.appendingPathIgnoringCase("stateiconinfo.lub")
         }
+    }
+
+    func convert(from input: Input, to output: URL, for locale: Locale) throws {
+        print("Converting status info for \(locale.path)")
 
         let context = LuaContext()
         context.loadJSONModule()
 
-        let efstidsURL = FileManager.default.localizedFileURL(in: input, for: locale, pathComponents: ["data", "luafiles514", "lua files", "stateicon", "efstids.lub"])
-        let stateiconimginfoURL = FileManager.default.localizedFileURL(in: input, for: locale, pathComponents: ["data", "luafiles514", "lua files", "stateicon", "stateiconimginfo.lub"])
-
-        context.loadData(at: efstidsURL)
-        context.loadData(at: stateiconimginfoURL)
-        context.loadData(at: stateiconinfoURL)
+        context.loadData(at: input.efstids)
+        context.loadData(at: input.stateiconimginfo)
+        context.loadData(at: input.stateiconinfo)
 
         try context.evaluate("""
         function convert()

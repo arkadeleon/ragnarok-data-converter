@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+
+	<servicetype>indonesia</servicetype>
+	<servertype>sakray</servertype>
+	<hideaccountlist></hideaccountlist>
+	<passwordencrypt></passwordencrypt>
+
+	<connection>
+		<display>Indonesia Server</display>
+		<desc>None</desc>
+		<address>202.43.167.66</address>
+		<port>6900</port>
+		<version>2</version>
+		<registrationweb>http://www.ragnarok.co.id</registrationweb>
+		<aid>
+			<admin>100004</admin><admin>100005</admin><admin>100045</admin><admin>100046</admin><admin>100047</admin><admin>100048</admin><admin>100049</admin><admin>100050</admin><admin>100051</admin>
+			<admin>100052</admin><admin>100053</admin><admin>100054</admin><admin>100055</admin><admin>100056</admin><admin>100057</admin><admin>100058</admin><admin>100059</admin><admin>100060</admin>
+			<admin>100061</admin><admin>100062</admin>
+		</aid>
+	</connection>
+
+	<loading>
+		<image>loading00.jpg</image>
+		<image>loading01.jpg</image>
+		<image>loading02.jpg</image>
+		<image>loading03.jpg</image>
+		<image>loading04.jpg</image>
+	</loading>
+
+</clientinfo>

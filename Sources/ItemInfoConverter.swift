@@ -17,18 +17,18 @@ struct ItemInfo: Codable {
 
 struct ItemInfoConverter {
     enum Input {
-        case lua(_ url: URL, _ filename: String)
-        case txt(_ url: URL)
+        case lua(itemInfoURL: URL)
+        case txt(displayNameTableURL: URL, descriptionTableURL: URL)
     }
 
     func convert(from input: Input, to output: URL, for locale: Locale, encoding: String.Encoding? = nil) throws {
         print("Converting item info for \(locale.path)")
 
         var itemInfos = switch input {
-        case .lua(let url, let filename):
-            try luaItemInfos(from: url, filename: filename, for: locale)
-        case .txt(let url):
-            txtItemInfos(from: url, for: locale)
+        case .lua(let itemInfoURL):
+            try luaItemInfos(from: itemInfoURL)
+        case .txt(let displayNameTableURL, let descriptionTableURL):
+            try txtItemInfos(displayNameTable: displayNameTableURL, descriptionTable: descriptionTableURL)
         }
 
         let encoding = encoding ?? locale.preferredEncoding
@@ -49,11 +49,10 @@ struct ItemInfoConverter {
         try jsonData.write(to: jsonURL)
     }
 
-    private func luaItemInfos(from input: URL, filename: String, for locale: Locale) throws -> [String : ItemInfo] {
+    private func luaItemInfos(from itemInfoURL: URL) throws -> [String : ItemInfo] {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let itemInfoURL = input.appendingPathComponentsIgnoringCase([locale.path, "System", filename])
         context.loadData(at: itemInfoURL)
 
         try context.evaluate("""
@@ -80,12 +79,9 @@ struct ItemInfoConverter {
         return itemInfos
     }
 
-    private func txtItemInfos(from input: URL, for locale: Locale) -> [String : ItemInfo] {
-        let identifiedItemNames: [String : String] = {
-            let url = input.appendingPathComponentsIgnoringCase([locale.path, "data", "idnum2itemdisplaynametable.txt"])
-            guard let string = try? String(contentsOf: url, encoding: .isoLatin1) else {
-                return [:]
-            }
+    private func txtItemInfos(displayNameTable displayNameTableURL: URL, descriptionTable descriptionTableURL: URL) throws -> [String : ItemInfo] {
+        let identifiedItemNames: [String : String] = try {
+            let string = try String(contentsOf: displayNameTableURL, encoding: .isoLatin1)
 
             var identifiedItemNames: [String : String] = [:]
 
@@ -108,11 +104,8 @@ struct ItemInfoConverter {
             return identifiedItemNames
         }()
 
-        let identifiedItemDescriptions: [String : String] = {
-            let url = input.appendingPathComponentsIgnoringCase([locale.path, "data", "idnum2itemdesctable.txt"])
-            guard let string = try? String(contentsOf: url, encoding: .isoLatin1) else {
-                return [:]
-            }
+        let identifiedItemDescriptions: [String : String] = try {
+            let string = try String(contentsOf: descriptionTableURL, encoding: .isoLatin1)
 
             var identifiedItemDescriptions: [String : String] = [:]
 

@@ -1,0 +1,161 @@
+﻿/savechat: Speichert Chat als Textdatei. 
+# 
+Sie können die Art der Mini-Karte auswählen, indem Sie Strg + [*] benutzen und zwischen Durchsichtig und Undurchsichtig wählen. 
+# 
+Sie können die Sicht des Charakters verändern, indem Sie die Maus mit gedrückter rechter Maustaste ziehen und die Umschalt-Taste drücken. 
+   Durch einen Doppelklick mit der rechten Maustaste gelangt man zurück in die Standard-Einstellung der Ansicht. 
+# 
+Sie können einen Bildschirm vergrößern/verkleinern, indem Sie die Maus mit gedrückter rechter Maustaste und Strg-Taste ziehen. 
+    Durch einen Doppelklick mit der rechten Maustaste bei gedrückter Strg-Taste gelangt man wieder zur Standard-Einstellung. 
+    Sie können auch das Mausrad zum Vergrößern oder Verkleinern eines Bildschirms verwenden. 
+# 
+Wenn man den Cursor auf ein Monster setzt, verwandelt er sich in ein Schwert. 
+    Durch Anklicken, während man den Cursor auf ein Monster setzt, werden Angriffe gestartet. 
+# 
+Erfahrungs-Punkte, die Sie von einem Monster sammeln können, entsprechen der Höhe des Schadens, den Sie bei einem Monster anrichten. 
+¡ØFalls 2 Spieler dem gleichen Monster Schaden zufügen, bekommt derjenige, der vor einem anderen den ersten Angriff startet, mehr EXP-Punkte durch das EXP-System. 
+# 
+Drücken der Strg-Taste und Rechtsklick auf ein Monster löst [Auto-Attack] aus, bis Sie das Monster besiegt haben. 
+# 
+Um fallengelassene Gegenstände vom Boden aufzuheben, klicken Sie mit der linken Maustaste auf einen Gegenstand, den Sie haben wollen. 
+   Aufgesammelte Gegenstände werden im Inventar gespeichert. 
+# 
+Setzen Sie den Cursor auf einen Gegenstand und klicken Sie mit der rechten Maustaste. Dann können Sie das vergrößerte Bild und die Beschreibung sehen. 
+# 
+2 Balken, die unter dem Charakter angezeigt werden, stellen schematisch die Menge an TP und SP dar. 
+   Der grüne zeigt TP (Trefferpunkte) und der blaue SP (Skill-Punkte). Wenn TP auf 0 geht, ist der Charakter tot. Wenn TP auf weniger als 25% des Maximalwertes sinkt, wird der Balken zur Warnung rot. 
+# 
+Immer, wenn der EXP-Balken voll ist (100 %), erreicht der Basislevel des Charakters das nächste Level. Dadurch erhalten Sie eine zufällige Menge an Status-Punkten, so dass Sie die Fähigkeiten des Charakters verbessern können. 
+# 
+Immer wenn der Job-EXP-Balken voll ist (100 %), erreicht der Job-Level des Charakters das nächste Level. Dadurch erhalten Sie 1 Skill-Punkt, den Sie auf den Skill-Baum verteilen können. 
+# 
+Durch Stehen ohne sich zu bewegen können Sie sich wieder ein paar TP und SP zurückholen. 
+¡Ø TP und SP können im Sitzen 2-mal schneller wiederhergestellt werden als im Stehen. TP/SP können jedoch nicht wiederhergestellt werden, wenn das Gewicht des Charakters über 50 % des maximalen Gewichts steigt. 
+# 
+Weight: Zeigt das aktuelle Gewicht des Charakters auf der rechten Seite und das maximale Gewicht auf der linken Seite. 
+   Ein Charakter kann Gegenstände bis zu seinem maximalen Gewicht besitzen. 
+   Wenn das Gewicht mehr als 50 % des Maximalwertes beträgt, wird das Gewicht in Rot angezeigt. Von diesem Augenblick an können HP und SP nicht automatisch wiederhergestellt werden. Liegt das Gewicht über 90 % des Maximalgewichts, kann der Charakter außerdem nicht mehr angreifen oder Skills einsetzen.
+# 
+Zeny: Ist die in der Ragnarok-Welt verwendete Währung. 
+# 
+Wenn das Level des Charakters erhöht wird, wird eine zufällige Menge an Status-Punkten vergeben. 
+    Mit diesen Punkten können Sie den Charakter-Status erhöhen, wenn Sie wollen. 
+    Bei Level 1 ~ 10 werden insgesamt 3 Punkte vergeben; ab Level 10 wird die Gesamtmenge der Status-Punkte nach jedem 5. Levelup jeweils um 1 erhöht. 
+# 
+STR (Kraft): Wirkt sich auf die körperliche Angriffskraft des Charakters aus. 
+   Erhöht außerdem die Gewichtsgrenze des Charakters, so dass der Charakter mehr Gegenstände tragen kann. 
+# 
+DEX (Geschicklichkeit): Wirkt sich auf die Treffsicherheit des Charakters beim Angriff oder beim Einsatz von Waffen aus. 
+   Erhöht die durchschnittliche Angriffskraft von Waffen.Vor allem wirkt DEX sich auf die Angriffskraft der Bögen aus. Außerdem werden Fehlschläge beim Angriff reduziert, ebenso wie die Zeit zum Wirken von Skill-Zaubern. 
+# 
+AGI (Beweglichkeit): Wirkt sich stark auf die Behändigkeit des Charakters aus. 
+   AGI erhöht die Fluchtgeschwindigkeit des Charakters und die Angriffsgeschwindigkeit von Waffen. 
+# 
+VIT (Vitalität): Wirkt sich auf Verteidigung/Gesundheit des Charakters aus. 
+   VIT erhöht die Verteidigung des Charakters, so dass er mit weniger Schaden durch Feinde fertig werden muss. Es erhöht außerdem die maximale Menge von TP und die Geschwindigkeit der TP-Rückgewinnung. 
+# 
+INT (Intelligence): Wirkt sich stark auf die magische Fähigkeit des Charakters aus. 
+    INT erhöht die Magische Angriffskraft/Verteidigung und die Widerstandsfähigkeit gegen Zauber. 
+# 
+LUK (Glück): Steht für das Glück des Charakters, wirkt sich in verschiedenen Situationen aus. 
+    LUK wirkt sich außerdem auf die Geschwindigkeit kritischer Angriffe und das perfekte Ausweichen aus. 
+# 
+[Print Screen] oder [Scroll Lock]: Speichert Screenshots im [Screenshot]-Ordner. 
+# 
+[F10]: Passt die Größe des Chat-Fensters an. 
+# 
+[F11]: Schließt alle Fenster auf einem Bildschirm mit Ausnahme des Basisfensters und des Chat-Fensters. 
+# 
+[F12]: Öffnet und schließt das Shortcut-Fenster. 
+¡Ø Praktische Gegenstände oder Skills in das Shortcut-Fenster eintragen, jeder von ihnen entspricht einer Taste von F1 bis F9Å°. 
+# 
+[EINFÜGEN]: Shortcut für /sit, /stand. 
+¡Ø Sie können [/sit] oder [/stand] eingeben, statt die [INSERT]-Taste zu verwenden; im Sitzen werden TP/SP 2-mal schneller zurückgewonnen. 
+# 
+[Alt] + [END]: [TP/SP]-Balken ein/aus. 
+# 
+[Alt] + [HOME]: Anzeige für beweglichen Bereich an/aus (Anzeige durch grüne Zelle am Boden).
+# 
+[Alt] + [=]: Wiederherstellen des Eingabemodus aus dem 1*1-Buchstabenmodus in den Standardmodus. Die meisten Befehle können nicht aktiviert werden, wenn der Eingabemodus im 1*1-Buchstabenmodus ist. 
+# 
+[Alt] + [F10]: Chat-Fenster ein/aus. 
+# 
+[Alt] + [1 ~ 9], [Strg] + [-,=,\]: Shortcut-Tasten für verschiedene Emotionen wie /! /? /ho /lv /lv2 /swt /ic /an /ag /$ /.../gawi (für "Schere") /bawi (für "Stein") /bo (für "Papier") /thx /Wah /sry /heh /swt2 /hmm /no1 /?? /omg /oh /X /hp /go /sob /gg /kis /kis2 /pif 
+# 
+/who: Zeigt die Benutzer an, die derzeit mit dem Server verbunden sind. 
+# 
+/where: Zeigt die aktuellen Aufenthaltsbereichsinfos und Koordinaten des Charakters an. 
+# 
+/H: Führt Grundbefehle zu Ihrer Information auf. 
+# 
+/music: Hintergrundmusik ein/aus. 
+¡Ø Sie können die Lautstärke der Musik auch im Optionen-Fenster einstellen (Shortcut: [Alt] + [o]). 
+# 
+/sound: Soundeffekte ein/aus. 
+¡Ø Sie können auch die Lautstärke der Soundeffekte im Optionen-Fenster einstellen (Shortcut: [Alt] + [o]). 
+# 
+/effect: Damit können nach Belieben mit Rücksicht auf die Spielgeschwindigkeit verschiedene Spieleffektgrafiken ein- oder ausgeschaltet werden. 
+¡Ø Durch Ausschalten der Effekte wird die Spielgeschwindigkeit beschleunigt. 
+# 
+/skip: Frameskip ein/aus. 
+¡Ø Durch Ausschalten von Frameskip kann sich, je nach System, die Leistung verringern. 
+   Wenn es nicht zu einer extremen Spielverzögerung kommt, empfehlen wir, diese Funktion nicht zu nutzen. 
+# 
+/ex [Charaktername]: Sperrt Flüstern des Charakters. 
+/in [Charaktername]: Hebt Flüstersperre für den Charakter auf. 
+# 
+/exall: Blockiert alle Gespräche, auch von anderen. 
+/inall: Lässt alle Gespräche zu, auch Flüstern von anderen. 
+# 
+/ex: Zeigt die Liste aller Charakter, deren Flüstern zu Ihnen gesperrt wurde. 
+# 
+/organize [Name der Gruppe]: Organisiert eine Gruppe. 
+¡Ø Falls Sie Leiter sind, können Sie Charaktere einladen, die Sie in der Gruppe haben möchten. 
+# 
+Setzen Sie den Cursor auf den Charakter, den Sie in Ihre Gruppe einladen möchten, und klicken Sie ihn mit der rechten Maustaste an. Es öffnet sich das Befehlsmenüfenster mit dem Befehl „(Charaktername) in Ihre Gruppe einladen“; so können Sie mit Ihren Freunden eine eigene Gruppe organisieren. 
+# 
+/leave: Verlassen einer Gruppe, der Sie beigetreten sind. 
+¡Ø Dieser Befehl fordert Sie nicht auf, Ihre Entscheidung zu bestätigen; überlegen Sie daher genau, bevor Sie die Entscheidung treffen. 
+# 
+/expel [Charaktername]: Wirft unerwünschte Mitglieder aus der Gruppe. 
+¡Ø Dieser Befehl fordert Sie nicht auf, Ihre Entscheidung zu bestätigen; überlegen Sie daher genau, bevor Sie die Entscheidung treffen. 
+# 
+Klicken Sie auf die Schaltfläche rechts unter dem Chat-Fenster und wählen Sie das Menü "An Gruppe senden". Dann können Sie mit Gruppenmitgliedern privat chatten. 
+# 
+%[Dialog, den Sie senden möchten]: Sendet private Nachricht an Gruppenmitglieder. 
+    Drücken der Enter-Taste bei gehaltener Strg-Taste hat die gleiche Funktion. 
+# 
+Der Standort der Gruppenmitglieder auf der gleichen Karte befindet sich auf der Mini-Karte oben rechts. Mitglieder können sich so ohne Probleme gegenseitig finden. 
+# 
+So flüstert man: Geben Sie einen Charakternamen in das Feld links im Chat-Fenster ein, und geben Sie eine Nachricht, die Sie senden möchten, in das rechte Feld desselben Fensters ein. Mit der TAB-Taste bewegen Sie den Cursor von einem Feld zum anderen. 
+# 
+Mit einem Klick auf das Symbol [+/-] auf der Mini-Karte können Sie die Karte [Vergrößern/Verkleinern]. 
+# 
+[MVP-System]: Stellt sicher, dass der wertvollste Spieler beim Kampf mit Boss-Monstern automatisch seltene Gegenstände, die von Bossen fallengelassen werden, vor anderen Spielern in sein Inventar transferiert bekommt.  # 
+    Wenn das Boss-Monster keine seltenen Gegenstände fallen lässt, gehen 50 % der bereits vom Boss erhaltenen EXP-Punkte an den MVP. 
+# 
+Wenn das Spiel im Fenster-Modus läuft, können Sie die Position des Fensters verschieben. 
+    Drücken Sie [Alt] + [Leertaste], während Sie die [M]-Taste halten, und richten Sie die Position mit ^ff0000Pfeiltasten^000000 oder ^ff0000aMaus^000.000 ein. 
+# 
+/fog: Nebeleffekt ein/aus. Der Nebeleffekt wird zur Darstellung des Wetters der Felder eingesetzt. 
+    Dieser Effekt kann schwächere PC-Systeme überfordern. Wenn das Spiel ohne besonderen Grund immer wieder abstürzt oder die Verbindung getrennt wird, schalten Sie bitte den Nebel aus. Sie können den Nebeleffekt auch über das Setup-Fenster einstellen. 
+# 
+Von Monstern fallengelassene Gegenstände müssen mit Lupen bestimmt werden. Lupen sind in Ausrüstungsshops erhältlich. 
+# 
+Für die Trap Skills von Jägern werden Fallen benötigt, die in Ausrüstungsshops erhältlich sind. 
+# 
+Sie können mithilfe von Emperiums Gilden organisieren. Der Gilden-Befehl ist /guild [Gildenname], der Shortcut für das Gildenfenster ist ALT + G. 
+# 
+Die Tastenkombination für Gilden-Chats ist /gc message oder $ message oder message nach ALT + ENTER. 
+# 
+Stellen Sie den Gegenstand, in den Sie eine Karte einführen möchten, in Ihren Lagerbestand, und doppelklicken Sie dann auf die Karte. So führen Sie eine Karte in einen Gegenstand ein. 
+# 
+Im Folgenden finden Sie Beschreibungen für abnorme Status. 
+- Stun: Bedeutet, dass Sie oder Monster durch einen Angriff bewusstlos werden. Während dieser Zeit können Sie sich nicht bewegen. 
+- Blind: Bedeutet, dass Sie oder Monster erblinden, der Bildschirm des Spiels wird dann schwarz. Im Fall von Monstern wird deren Sichtweite eingeengt. 
+- Sleep: Alle Aktivitäten werden behindert. Sie können nichts tun, bis Sie getroffen werden. 
+# 
+Falls Sie tot sind, werden beide EXP-Punktstände verringert, im Verlies lassen Sie Gegenstände versehentlich fallen. Für 5 Sekunden danach können Sie weder Skills einsetzen noch kämpfen. 
+# 
+Carts, Extra-Platz, Gelegenheit zum Speichern finden Sie bei Kafra-Damen in Städten. 
+# 

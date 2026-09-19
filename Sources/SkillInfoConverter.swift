@@ -14,17 +14,31 @@ struct SkillInfo: Codable {
 }
 
 struct SkillInfoConverter {
-    func convert(from input: URL, to output: URL, for locale: Locale) throws {
+    struct Input {
+        var jobinheritlist: URL
+        var skillid: URL
+        var skillinfolist: URL
+        var skilldescript: URL
+        var skillinfo_f: URL
+
+        /// - Parameter directory: `skillinfoz` directory
+        init(directory: URL) {
+            jobinheritlist = directory.appendingPathIgnoringCase("jobinheritlist.lub")
+            skillid = directory.appendingPathIgnoringCase("skillid.lub")
+            skillinfolist = directory.appendingPathIgnoringCase("skillinfolist.lub")
+            skilldescript = directory.appendingPathIgnoringCase("skilldescript.lub")
+            skillinfo_f = directory.appendingPathIgnoringCase("skillinfo_f.lub")
+        }
+    }
+
+    func convert(from input: Input, to output: URL, for locale: Locale) throws {
         print("Converting skill info for \(locale.path)")
 
         let context = LuaContext()
         context.loadJSONModule()
 
-        let jobinheritlistURL = FileManager.default.localizedFileURL(in: input, for: locale, pathComponents: ["data", "luafiles514", "lua files", "skillinfoz", "jobinheritlist.lub"])
-        context.loadData(at: jobinheritlistURL)
-
-        let skillidURL = FileManager.default.localizedFileURL(in: input, for: locale, pathComponents: ["data", "luafiles514", "lua files", "skillinfoz", "skillid.lub"])
-        context.loadData(at: skillidURL)
+        context.loadData(at: input.jobinheritlist)
+        context.loadData(at: input.skillid)
 
         // Skill IDs renamed in kRO that older localized files still reference.
         // Only fill in the old name when the loaded table doesn't define it itself.
@@ -33,14 +47,9 @@ struct SkillInfoConverter {
         SKID.MH_SONIC_CRAW = SKID.MH_SONIC_CRAW or SKID.MH_SONIC_CLAW
         """)
 
-        let skillinfolistURL = input.appendingPathComponentsIgnoringCase([locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skillinfolist.lub"])
-        context.loadData(at: skillinfolistURL)
-
-        let skilldescriptURL = input.appendingPathComponentsIgnoringCase([locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skilldescript.lub"])
-        context.loadData(at: skilldescriptURL)
-
-        let skillinfofURL = FileManager.default.localizedFileURL(in: input, for: locale, pathComponents: ["data", "luafiles514", "lua files", "skillinfoz", "skillinfo_f.lub"])
-        context.loadData(at: skillinfofURL)
+        context.loadData(at: input.skillinfolist)
+        context.loadData(at: input.skilldescript)
+        context.loadData(at: input.skillinfo_f)
 
         try context.evaluate("""
         function convert()

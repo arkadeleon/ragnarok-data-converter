@@ -7,23 +7,6 @@
 
 import Foundation
 
-let locales: [Locale] = [
-    .de,
-    .en,
-    .es,
-    .fr,
-    .id,
-    .it,
-    .ja,
-    .ko,
-    .ptBR,
-    .ru,
-    .th,
-    .tr,
-    .zhHans,
-    .zhHant,
-]
-
 extension Locale {
     static let de = Locale(identifier: "de")
     static let en = Locale(identifier: "en")

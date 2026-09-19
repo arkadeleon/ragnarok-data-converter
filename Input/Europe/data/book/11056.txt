@@ -1,0 +1,150 @@
+^ff0000---- Spirit of Fire, AGNI íñ ----^000000
+
+Summoned fire spirits are responding to the caster differently depends on its size, 
+when the caster comments them by ¡°Spirit Control¡±.
+
+
+
+^fa8072[Ask me for mercy]^000000
+i - Pyro Technic : Increase damage of Fire Wall and Fire Bolt. 
+
+ii - Heater : Increase damage of Fire Walk. 
+                   Increase a small amount of recovery effect when Warmer is casted.
+                   Increase a small amount of Psychic Wave damage.
+                   The property of Psychic Wave damage is changed to fire property.
+
+iii - Tropic : Add the chance of auto casting Fire Bolt when caster is doing attack.
+                   When casting Endow Blaze or Volcano, 
+		   decrease the chance of consuming Red Blood or Yellow Gemstone by 1/2.
+
+^0000ff[Protect me]^000000
+i - Fire Circle : Put fire wall around the caster to protect and push away an enemy from the caster 
+		    as giving certain damage to the enemy.
+
+ii - Fire Cloak : Increase tolerance to fire property and decrease tolerance to water property.
+
+iii - Fire Mantle : Set the strong fire wall around caster.
+
+
+
+^ff0000[Defeat enemies who against me]^000000
+
+i - Fire Arrow : Shoot a fire arrow against an enemy to give fire damage.
+
+ii - Fire Bomb : Give fire damage to the target and around the target by casting fire bomb. 
+                   Or give fire magic damage to 1 target by casting the skill. 
+
+iii - Fire Wave : Give fire damage to the target and around the target by casting huge flame on it.
+                    Or give strong fire magic damage to 1 target by casting the skill.
+^0000ff---- Spirit of water, AQUA íñ ----^000000
+
+
+Summoned water spirits are responding to the caster differently depends on its size, 
+when the caster comments them by ¡°Spirit Control¡±.
+
+^fa8072[Ask me for mercy]^000000
+i - Aqua Play : Increase damage of Cold Bolt and Frost Diver
+
+ii - Cooler : Increase a small chance of success in frozen while casting Diamond Dust.
+                     Increase a small amount of Diamond Dust damage.
+                     Increase a small amount of Psychic Wave damage.
+                     The property of Psychic Wave damage is changed to water property.
+
+iii - Chilly Air : Add the chance of auto casting Cold Bolt when caster is doing attack.
+                   When casting Endow Tsunami or Deluge, 
+		   decrease the chance of consuming Crystal Blue or Yellow Gemstone by 1/2. 
+                   
+^0000ff[Protect me]^000000
+i - Water Screen : Continue to restore caster¡¯s HP. 
+                        AQUA takes the damage that is supposed to be given to caster.
+
+ii - Water Drop : Increase tolerance to water property and decrease tolerance to fire property.
+
+iii - Water Barrier : Build up water fence around caster.
+                         This water fence decreases certain amount of physical and magic damages.
+                         However, flee and ATK are decreasing when caster is inside of the water fence.
+
+^ff0000[Defeat enemies who against me]^000000
+i - Ice Needle : Give water property magic damage to an enemy by making sharpened ice needle. 
+
+ii - Water Screw : Give water property magic damage to an enemy by shooting wave bounce
+                         Or give water magic damage to the target and surroundings by casting the skill.
+
+iii -  Tidal Weapon : Change the property of caster¡¯s weapon and spirit¡¯s weapon in a short time, 
+			  also increase attack strength of spirit itself.
+                          Or give huge water property damage to the target
+^000088---- Spirit of wind, Ventus íñ ----^000000
+
+
+Summoned wind spirits are responding to the caster differently depends on its size, 
+when the caster comments them by ¡°Spirit Control¡±.
+
+^fa8072[Ask me for mercy]^000000
+i - Gust : Increase damage of Lightening Bolt and Thunderstorm.
+
+ii - Blast : Increase damage of Electric Walk
+                    Increase damage of Varetyr Spear.
+                    Increase a small amount of Psychic Wave damage.
+                    The property of Psychic Wave damage is changed to wind property. 
+
+iii - Wild Storm : Add the chance of auto casting Lightening Bolt when caster is doing attack.
+                         When casting Endow Tornado or Whirlwind, decrease the chance of consuming Wind of Verdure 
+			 or Yellow Gemstone by 1/2.
+                
+^0000ff[Protect me]^000000
+i - Wind Step : Teleport the caster once it is casted.
+                    Increase movement speed and flee rate for a while.
+
+ii - Wind Curtain : Increase tolerance to wind property and decrease tolerance to earth property.
+
+iii - Zephyr : Build up wind wall around caster. Flee is increasing inside of the wind wall 
+		and also ignore damage by Long Range Attack.
+                Also ignore physical and magic damage by a small chance. 
+
+
+^ff0000[Defeat enemies who against me]^000000
+i - Wind Slash : Give wind property damage and Bleeding status to a long distance enemy 
+		with wind of blade. 
+
+ii - Hurricane Rage : Give wind magic damage to a long distance enemy.
+                              Or give wind physical damage to the target and surroundings by casting the skill. 
+
+iii - Typhoon Missile : Give wind property damage to a long distance enemy.
+                            Or give wind magic damage with Silence status
+.
+^008040---- Spirit of earth, TERA íñ ----^000000
+
+
+Summoned earth spirits are responding to the caster differently depends on its size, 
+when the caster comments them by ¡°Spirit Control¡±.
+
+^fa8072[Ask me for mercy]^000000
+i - Petrology : Add certain chance of auto casting Stone Curse.
+                       Increase damage of Earth Spike and Heaven's Drive.
+
+ii - Cursed Soil : Increase the final damage of Killing Cloud.
+                       Increase Poison Burst damage.
+                       Increase Earth Grave damage.
+                       Increase a small amount of Psychic Wave damag.
+                       The property of Psychic Wave damage is changed to earth property.
+
+iii - Upheaval : Add the chance of auto casting Earth Spike when caster is doing attack.
+                  When casting Endow Quake, decrease the chance of consuming Green Live by 1/2.
+
+^0000ff[Protect me]^000000
+i - Solid Skin : Increase caster¡¯s maximum HP and defense.
+
+ii - Stone Shield : Increase tolerance to earth property and decrease tolerance to fire property.
+
+iii - Gaia Power : Build up earth wall around caster. 
+                                  Never get bleeding or Stone status inside the earth wall.. 
+                                  Maximum HP and defense are increased for a while but decrease movement speed.
+
+^ff0000[Defeat enemies who against me]^000000
+i - Stone Hammer : Give earth property damage and stun to en enemy.
+
+ii - Rock Crusher : Give earth property damage to an enemy and decrease target¡¯s defense strength.
+                      Or give earth magic damage to en enemy and decrease target¡¯s movement speed.
+
+iii - Stone Rain : Give earth property damage to an enemy and surroundings by throwing stone missiles.
+                       Or give earth property damage to an enemy along with stun status.

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+	<servicetype>russia</servicetype>
+	<servertype>primary</servertype>
+	<hideaccountlist></hideaccountlist>
+	<extendedslot></extendedslot>
+
+	<connection>
+		<display>Russia Server</display>
+		<desc>None</desc>
+		<address>109.105.144.106</address>
+		<port>6900</port>
+		<version>112112</version>
+		<registrationweb>http://www.raggame.ru/asp/member/mem_regist.asp</registrationweb>
+
+		<aid>
+			<admin>1584212</admin>
+			<admin>1906046</admin>
+			<admin>1906085</admin>
+			<admin>1954518</admin>
+			<admin>1954590</admin>
+
+		</aid>
+	</connection>
+</clientinfo>
