@@ -101,7 +101,6 @@ struct Convert: ParsableCommand {
         let languages: [(Locale, String)] = [
             (.de, "german"),
             (.fr, "french"),
-            (.it, "italian"),
             (.tr, "turkish"),
         ]
 

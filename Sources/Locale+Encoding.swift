@@ -13,7 +13,6 @@ extension Locale {
     static let es = Locale(identifier: "es")
     static let fr = Locale(identifier: "fr")
     static let id = Locale(identifier: "id")
-    static let it = Locale(identifier: "it")
     static let ja = Locale(identifier: "ja")
     static let ko = Locale(identifier: "ko")
     static let ptBR = Locale(identifier: "pt-BR")

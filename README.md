@@ -34,9 +34,9 @@ Input/
   Thailand/       data/ System/                  → th
   Indonesia/      data/ System/                  → id
   Russia/         data/ System/                  → ru
-  Europe/         data/{german,french,italian,turkish}/ …
+  Europe/         data/{german,french,turkish}/ …
                   data/luafiles514/{german,…}/lua files/ …
-                                                 → de, fr, it, tr
+                                                 → de, fr, tr
   LatinAmerica/   System/spanish/ …
                   data/spanish/LuaFiles514/lua files/ …
                   data/MsgStringTable_ml.csv     → es
@@ -75,7 +75,7 @@ Some files are only generated when the corresponding source files exist for a lo
 
 ## Supported Locales
 
-`de`, `en`, `es`, `fr`, `id`, `it`, `ja`, `ko`, `pt-BR`, `ru`, `th`, `tr`, `zh-Hans`, `zh-Hant`
+`de`, `en`, `es`, `fr`, `id`, `ja`, `ko`, `pt-BR`, `ru`, `th`, `tr`, `zh-Hans`, `zh-Hant`
 
 ## License
 
