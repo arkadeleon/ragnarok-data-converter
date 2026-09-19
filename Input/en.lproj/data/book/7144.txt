@@ -1,0 +1,97 @@
+%faf0e6
+^000088I can become almost self sufficient
+if I master the basics of potion making?000000
+
+
+----------------Preface--------------------
+
+Potion making is considered one of the essential
+basics of alchemy. This final edition details the potion
+production processes that will enable Alchemists to restore
+their HP, SP, and even cure abnormal statuses by using
+potions that they have easily created!
+
+------------------------------------------
+
+What is a ^ff0000potion^000000?
+
+A potion is a single dosage of liquid medicine or
+poison. Most potions are used as medicine to restore
+HP or SP, cure abnormal statuses, or temporarily enhance
+the human body. This book contains instructions to produce
+red, yellow, white, and blue potions, anodyne, aloevera,
+and embryos.
+
+^0000ffred Potion^000000 : Recovers 45 HP.
+Ingredients : ^4b00821 Red Herb, 1 Empty Potion Bottle^000000
+Manual : Prepare a medicine bowl.
+          Crush herbs in a bowl.
+          Add clean water little by little and continue to crush the herbs..
+          Serve in an empty potion bottle.
+          For a simple manufacturing method, 
+          prepare this book and ingredients, then use the skill Pharmacy.
+
+
+^800000Yellow Potion^000000 : Recovers 175 HP.
+Ingredients : ^4b00821 Yellow Herb, 1 Empty Potion Bottle^000000
+Manual : Prepare a medicine bowl.
+          Crush herbs in a bowl.
+          Add clean water little by little and continue to crush the herbs..
+          Serve in an empty potion bottle.
+          For a simple manufacturing method, 
+          prepare this book and ingredients, then use the skill Pharmacy.
+
+
+^008040White Potion^000000 : Recovers 325 HP.
+Ingredients : ^4b00821 White Herb, 1 Empty Potion Bottle^000000
+Manual : Prepare a medicine bowl.
+          Crush herbs in a bowl.
+          Add clean water little by little and continue to crush the herbs..
+          Serve in an empty potion bottle.
+          For a simple manufacturing method, 
+          Prepare this book and ingredients, then use the skill Pharmacy.
+
+
+^ff8040Blue Potion^000000 : Recovers 60 SP.
+Ingredients : ^4b00821 Blue Herb, 1 Empty Potion Bottle, 1 Cell^000000
+Manual : Prepare a medicine bowl.
+          Crush herbs in a bowl.
+          Add clean water little by little and continue to crush the herbs..
+          Serve in an empty potion bottle.
+          For a simple manufacturing method, 
+          prepare this book and ingredients, then use the skill Pharmacy.
+
+
+^400080Anodyne^000000 : Painkiller that reliefs pain for a certain period of time.
+Ingredients : ^4b00821 Alcohol, 1 Empty Bottle, 1 Ment^000000
+Manual : Prepare a medicine bowl.
+          Crush ment in a bowl.
+          Add alcohol little by little and continue to crush the ments..
+          Serve in an empty potion bottle.
+          For a simple manufacturing method, 
+          prepare this book and ingredients, then use the skill Pharmacy.
+
+
+^008040Aloebera^000000 : Decreases defense and increases attack for a certain time.
+Ingredients : ^4b00821 Aloe, 1 Empty Bottle, 1 Honey^000000
+Manual : Prepare a medicine bowl.
+          Crush aloe with honey in a bowl.
+          Add clean water little by little and continue stirrin, then serve in an empty bottle.
+          For a simple manufacturing method, 
+          prepare this book and ingredients, then use the skill Pharmacy..
+          (Sorry that there was a confusion last time regarding the Aloe/Alcohol.)
+
+^ff0000Embrio^000000 : Create life that has an embryonic form of something
+Ingredients : ^4b00821 Yiggdrasilberry Dew, 1 Seed of Life, 1 Life Force Pot^000000
+Manual : Prepare a medicine bowl.
+          Put the dew of Igdrasil and the seed of life in a bowl,
+          and place them in a glass tube using the skill Pharmacy.
+          Only after studying bioethics, it will be available.
+          This is very dangerous and should be studied sufficiently.
+
+^0000ffHomunculus Tablet^000000 : Supplements to increase intimacy of homunculus.
+Ingredients : ^4b00821 Seed of Life, 1 Yellow Herb, 1 Empty Bottle^000000
+Manual : Prepare a medicine bowl.
+          Crush the seeds of life and yellow herbs in a bowl, 
+          then shake them in an empty bottle using the Palmer's skill.
+          Only after studying bioethics, it will be available.

@@ -51,7 +51,7 @@ struct Convert: ParsableCommand {
     func convertItemInfo() throws {
         let converter = ItemInfoConverter()
         try converter.convert(from: .txt(input), to: output, for: .de)
-        try converter.convert(from: .txt(input), to: output, for: .en)
+        try converter.convert(from: .lua(input, "iteminfo.lub"), to: output, for: .en)
         try converter.convert(from: .txt(input), to: output, for: .es)
         try converter.convert(from: .txt(input), to: output, for: .fr)
         try converter.convert(from: .txt(input), to: output, for: .id)
@@ -69,7 +69,7 @@ struct Convert: ParsableCommand {
     func convertMapInfo() throws {
         let converter = MapInfoConverter()
         try converter.convert(from: .txt(input), to: output, for: .de)
-        try converter.convert(from: .txt(input), to: output, for: .en)
+        try converter.convert(from: .lua(input, "mapInfo.lub"), to: output, for: .en)
         try converter.convert(from: .txt(input), to: output, for: .es)
         try converter.convert(from: .txt(input), to: output, for: .fr)
         try converter.convert(from: .txt(input), to: output, for: .id)

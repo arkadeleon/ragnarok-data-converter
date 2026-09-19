@@ -1,6 +1,980 @@
 <?xml version="1.0" encoding="euc-kr" ?>
 
 	<monster_talk_table>
+	<LEAF_CAT>				
+		<hungry>			
+			<feeding>Meow~ Fresh fish is so delicious.</feeding>
+			<feeding>(Munch munch) The blue fish is delicious.</feeding>
+			<feeding>Master, I'm so happy right now.</feeding>
+			<hunting>Meow~ My stomach is having a battle! *growling*</hunting>
+			<hunting>This isn't the time to hunt! Food! Fish!</hunting>
+			<danger>Danger! You're going to die! Meow!</danger>
+			<danger>I know you love thrills, but you're in danger! Meow!</danger>
+			<dead>Why are you dead? Get up!</dead>
+			<dead>*crying* You should've been more careful.</dead>
+			<stand>I've never been hungry like this. Meow.</stand>
+			<stand>	It'd be nice if you gave me a leaf right about meow.</stand>
+			<stand>	Meow~ I'm too hungry!</stand>
+			<stand>I'm cold and hungry. I'm starting to feel sad.</stand>
+			<stand>Should I eat my clothes? Meow.</stand>
+			<connect>I'm... I'm hungry! Leaf!</connect>
+			<connect>It feels it's been forever since I've seen you.</connect>
+			<levelup>I want to congratulate you, but I'm too hungry.	</levelup>
+			<levelup>Yay! Let's eat!</levelup>
+			<perfor_1>Hahaha. That's funny.</perfor_1>
+			<perfor_1>Awww, that tickles.</perfor_1>
+			<perfor_2>(Slaps) I think I got something in my ear.</perfor_2>
+			<perfor_2>Huh? I think someone's talking about me.</perfor_2>
+			<perfor_3>Meow! Rawr.</perfor_3>
+			<perfor_3>Mmmph. I always dreamed of becoming a high jumper!</perfor_3>
+		</hungry>			
+
+		<bit_hungry>			
+			<feeding>Oh, fresh fish! I'm starting to get hungry.</feeding>
+			<feeding>Fresh fish with a blue back!</feeding>
+			<hunting>You're pretty good with your punches!</hunting>
+			<hunting>Master! Slay the monster!</hunting>
+			<danger>Hey... Master! You're in danger!</danger>
+			<dead>Dead already...</dead>
+			<dead>Gosh.. This is terrible..</dead>
+			<stand>Meow! A hungry cat is standing here.</stand>
+			<stand>Do you think there are blind fish?</stand>
+			<connect>Where have you been?	</connect>
+			<levelup>Seeing my master grow makes me happy.</levelup>
+			<levelup>Good job!</levelup>
+			<perfor_1>Hahaha. That's funny.</perfor_1>
+			<perfor_1>Awww, that tickles.</perfor_1>
+			<perfor_2>(Slaps) I think I got something in my ear.</perfor_2>
+			<perfor_2>Huh? I think someone's talking about me.</perfor_2>
+			<perfor_3>Meow! Rawr.</perfor_3>
+			<perfor_3>Mmmph. I always dreamed of becoming a high jumper!</perfor_3>
+		</bit_hungry>
+
+		<noting>			
+			<feeding>(Munch munch)</feeding>
+			<feeding>(Munch munch)</feeding>
+			<hunting>Meow! Rawr.   </hunting>
+			<hunting>Hit it!</hunting>
+			<danger>Emergency! You need to drink a potion!</danger>
+			<danger>Danger! Use your lethal attack, bomb, and potion!</danger>
+			<dead>Humans don't have nine lives, silly. Don't die.</dead>
+			<dead>Why weren't you more careful?</dead>
+			<stand>Meow!</stand>
+			<stand>Hmm... Smells like fish.</stand>
+			<connect>I've been thinking about you, master. Meow.</connect>
+			<connect>Master! What took you so long? </connect>
+			<levelup>Congrats! Good job!</levelup>
+			<levelup>Ah. Level up!</levelup>
+			<perfor_1>Hahaha. That's funny.</perfor_1>
+			<perfor_1>Awww, that tickles.</perfor_1>
+			<perfor_2>(Slaps) I think I got something in my ear.</perfor_2>
+			<perfor_2>Huh? I think someone's talking about me.</perfor_2>
+			<perfor_3>Meow! Rawr.</perfor_3>
+			<perfor_3>Mmmph. I always dreamed of becoming a high jumper!</perfor_3>
+		</noting>			
+
+		<full>			
+			<feeding>I don't feel like eating right now.</feeding>
+			<feeding>I don't feel like having fresh fish right now.</feeding>
+			<hunting>Meow! I'll scratch you with my sharp claws!</hunting>
+			<hunting>Hit the monster.</hunting>
+			<danger>Look out! Defense is important too!</danger>
+			<danger>Meow! You need to drink a potion!</danger>
+			<dead>Go wash your face real quick...</dead>
+			<dead>Oh, my master!</dead>
+			<stand>Meow!</stand>
+			<stand>Mice and fish are so pass&#233;. Leaves are the hit new thing.</stand>
+			<stand>I... I don't like mice anymore!</stand>
+			<stand>I smell mice... Blowing with the leaves...</stand>
+			<connect>I've been waiting for you.</connect>
+			<connect>Meow! You came to see me, right? (Rubs)</connect>
+			<levelup>Meow! Congrats! (Rubs)</levelup>
+			<levelup>Level up! Congrats!</levelup>
+			<perfor_1>Hahaha. That's funny.</perfor_1>
+			<perfor_1>Awww, that tickles.</perfor_1>
+			<perfor_2>(Slaps) I think I got something in my ear.</perfor_2>
+			<perfor_2>Huh? I think someone's talking about me.</perfor_2>
+			<perfor_3>Meow! Rawr.</perfor_3>
+			<perfor_3>Mmmph. I always dreamed of becoming a high jumper!</perfor_3>
+		</full>			
+
+		<so_full>			
+			<feeding>*puking* This is too hard to eat.</feeding>
+			<feeding>If you tell me to eat, I'll eat, but...</feeding>
+			<hunting>Master, kick! Master, punch! Give 'em a one-two-buckle-my-shoe!</hunting>
+			<hunting>My master is going to crush you, punk! Rawr!</hunting>
+			<danger>Oh, no! It's... Look out!</danger>
+			<danger>Be careful. Master might die!</danger>
+			<dead>You can't leave me like this. Get up.</dead>
+			<dead>Master, please wake up. Meow!</dead>
+			<stand>I like you as much as I like fresh fish, master.</stand>
+			<stand>Master! Meow! (Rubs)</stand>
+			<stand>Meow! Green leaves are the best. I don't like autumn leaves.</stand>
+			<stand>Autumn leaves are... lacking compared to green leaves, right?</stand>
+			<stand>Should I make a leaf skirt? I need something to wear.</stand>
+			<stand>	Oh, no. A bug ate my clothes.</stand>
+			<stand>Meow (Rubs)</stand>
+			<stand>Meow (Rubs)</stand>
+			<connect>	Hello there Master! (Rubs)</connect>
+			<connect>Meow (Rubs)</connect>
+			<levelup>I'm as happy as getting 1,000 fresh leaves! (Rubs)</levelup>
+			<levelup>Congrats! Level Up!</levelup>
+			<perfor_1>Hahaha. That's funny.</perfor_1>
+			<perfor_1>Awww, that tickles.</perfor_1>
+			<perfor_2>(Slaps) I think I got something in my ear.</perfor_2>
+			<perfor_2>Huh? I think someone's talking about me.</perfor_2>
+			<perfor_3>Meow! Rawr.</perfor_3>
+			<perfor_3>Mmmph. I always dreamed of becoming a high jumper!</perfor_3>
+		</so_full>			
+	</LEAF_CAT>	 
+	<mummy>				
+					
+		<hungry>			
+			<feeding>	This is just a part of me.	</feeding>
+			<dead>	Go to the nether world, foolish one.	</dead>
+			<stand>	Have you been to the nether world?	</stand>
+			<levelup>	Show me your strengthened soul power...	</levelup>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	This is just a part of me.	</feeding>
+			<dead>	Go to the nether world, foolish one.	</dead>
+			<stand>	Have you been to the nether world?	</stand>
+			<levelup>	Show me your strengthened soul power...	</levelup>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	This is just a part of me.	</feeding>
+			<dead>	Go to the nether world, foolish one.	</dead>
+			<stand>	Have you been to the nether world?	</stand>
+			<stand>	I will... Rise again... 	</stand>
+			<stand>	I want... A bandage with miraculous power...	</stand>
+			<levelup>	Show me your strengthened soul power...	</levelup>
+		</noting>			
+					
+		<full>			
+			<feeding>	That's not mine...	</feeding>
+			<dead>	Go to the nether world, foolish one.	</dead>
+			<stand>	Have you been to the nether world?	</stand>
+			<stand>	I will... Rise again... 	</stand>
+			<stand>	I want... A bandage with miraculous power...	</stand>
+			<stand>	At the edge of death... A judgment of darkness...	</stand>
+			<levelup>	Show me your strengthened soul power...	</levelup>
+		</full>			
+					
+		<so_full>			
+			<feeding>	That's not mine...	</feeding>
+			<dead>	Go to the nether world, foolish one.	</dead>
+			<stand>	Have you been to the nether world?	</stand>
+			<stand>	I will... Rise again... 	</stand>
+			<stand>	I want... A bandage with miraculous power...	</stand>
+			<stand>	At the edge of death... A judgment of darkness...	</stand>
+			<levelup>	Show me your strengthened soul power...	</levelup>
+		</so_full>			
+					
+	</mummy>				
+	<wilow>				
+					
+		<hungry>			
+			<feeding>	Ow!..	</feeding>
+			<dead>	'	</dead>
+			<stand>	' '. '. '' 	</stand>
+			<levelup>	Oh	</levelup>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	Ow!..	</feeding>
+			<dead>	'	</dead>
+			<stand>	' '. '. '' 	</stand>
+			<levelup>	Oh	</levelup>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	Ow!..	</feeding>
+			<dead>	'	</dead>
+			<stand>	' '. '. '' 	</stand>
+			<stand>	Ow, ow... o ow.	</stand>
+			<stand>	Ow!	</stand>
+			<levelup>	Ow, ow!	</levelup>
+		</noting>			
+					
+		<full>			
+			<feeding>	Ow! ... 	</feeding>
+			<dead>	'	</dead>
+			<stand>	' '. '. '' 	</stand>
+			<stand>	Ow, ow... o ow.	</stand>
+			<stand>	Ow!	</stand>
+			<stand>	Grr, grr, grr.	</stand>
+			<levelup>	Ow, ow!	</levelup>
+		</full>			
+					
+		<so_full>			
+			<feeding>	Ow! ... 	</feeding>
+			<dead>	'	</dead>
+			<stand>	' '. '. '' 	</stand>
+			<stand>	Ow, ow... o ow.	</stand>
+			<stand>	Ow!	</stand>
+			<stand>	Grr, grr, grr.	</stand>
+			<levelup>	Woooooo! 	</levelup>
+		</so_full>			
+					
+	</wilow>				
+	<roween>				
+					
+		<hungry>			
+			<feeding>	Ahh, the fragrance... It's so addicting and delicious! 	</feeding>
+			<dead>	Can I eat it?	</dead>
+			<stand>	Even the scraps are in our sight!	</stand>
+			<levelup>	Wow! Congratulations! Buy me a drink! 	</levelup>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	Ahh, the fragrance... It's so addicting and delicious! 	</feeding>
+			<dead>	Can I eat it?	</dead>
+			<stand>	Even the scraps are in our sight!	</stand>
+			<levelup>	Wow! Congratulations! Buy me a drink! 	</levelup>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	Ahh, the fragrance... It's so addicting and delicious! 	</feeding>
+			<dead>	Can I eat it?	</dead>
+			<stand>	Even the scraps are in our sight!	</stand>
+			<stand>	I smell meat... From a faraway land...	</stand>
+			<stand>	Rotten meat is still meat! Don't throw it away! :(	</stand>
+			<levelup>	Wow! Congratulations! Buy me a drink! 	</levelup>
+		</noting>			
+					
+		<full>			
+			<feeding>	No, I cannot eat this meat. - '-)a	</feeding>
+			<dead>	Can I eat it?	</dead>
+			<stand>	Even the scraps are in our sight!	</stand>
+			<stand>	I smell meat... From a faraway land...	</stand>
+			<stand>	Rotten meat is still meat! Don't throw it away! :(	</stand>
+			<stand>	Roween from the wilderness is with you!	</stand>
+			<levelup>	Wow! Congratulations! Buy me a drink! 	</levelup>
+		</full>			
+					
+		<so_full>			
+			<feeding>	No, I cannot eat this meat. - '-)a	</feeding>
+			<dead>	Can I eat it?	</dead>
+			<stand>	Even the scraps are in our sight!	</stand>
+			<stand>	I smell meat... From a faraway land...	</stand>
+			<stand>	Rotten meat is still meat! Don't throw it away! :(	</stand>
+			<stand>	Roween from the wilderness is with you!	</stand>
+			<levelup>	Wow! Congratulations! Buy me a drink! 	</levelup>
+		</so_full>			
+					
+	</roween>				
+	<hodremlin>				
+					
+		<hungry>			
+			<feeding>	Hahaha... This tastes good.	</feeding>
+			<dead>	Hahaha... I will eat you.	</dead>
+			<stand>	Can I eat you?	</stand>
+			<levelup>	Haha... You should get a bit stronger.	</levelup>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	Hahaha... This tastes good.	</feeding>
+			<dead>	Hahaha... I will eat you.	</dead>
+			<stand>	Can I eat you?	</stand>
+			<levelup>	Haha... You should get a bit stronger.	</levelup>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	Hahaha... This tastes good.	</feeding>
+			<dead>	Hahaha... I will eat you.	</dead>
+			<stand>	Can I eat you?	</stand>
+			<stand>	Haha... Souls in pitch black.	</stand>
+			<stand>	Can you fill the emptiness in my heart?	</stand>
+			<levelup>	Haha... You should get a bit stronger.	</levelup>
+		</noting>			
+					
+		<full>			
+			<feeding>	Hahaha... Stop it.	</feeding>
+			<dead>	Hahaha... I will eat you.	</dead>
+			<stand>	Can I eat you?	</stand>
+			<stand>	Haha... Souls in pitch black.	</stand>
+			<stand>	Wherever there's a machine, you can count on a Gremlin being there. Hehe.	</stand>
+			<stand>	Can you fill the emptiness in my heart?	</stand>
+			<levelup>	Haha... You should get a bit stronger.	</levelup>
+		</full>			
+					
+		<so_full>			
+			<feeding>	Hahaha... Stop it.	</feeding>
+			<dead>	Hahaha... I will eat you.	</dead>
+			<stand>	Can I eat you?	</stand>
+			<stand>	Haha... Souls in pitch black.	</stand>
+			<stand>	Wherever there's a machine, you can count on a Gremlin being there. Hehe.	</stand>
+			<stand>	Can you fill the emptiness in my heart?	</stand>
+			<levelup>	Haha... You should get a bit stronger.	 </levelup>
+		</so_full>			
+					
+	</hodremlin>				
+	<metaller>				
+					
+		<hungry>			
+			<feeding>	This is sweet'	</feeding>
+			<dead>	...Please listen to my song~	</dead>
+			<stand>	Ha. You don't understand! My song is...	</stand>
+			<levelup>	Step-by-step!	</levelup>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	This is sweet'	</feeding>
+			<dead>	...Please listen to my song~	</dead>
+			<stand>	Ha. You don't understand! My song is...	</stand>
+			<levelup>	Step-by-step!	</levelup>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	This is sweet'	</feeding>
+			<dead>	...Please listen to my song~	</dead>
+			<stand>	Ha. You don't understand! My song is...	</stand>
+			<stand>	What's my score?	</stand>
+			<stand>	Won't you listen to my song? Huh~? 		</stand>
+			<levelup>	Step-by-step!	</levelup>
+		</noting>			
+					
+		<full>			
+			<feeding>	I don't need this food for now.	</feeding>
+			<dead>	...Please listen to my song~	</dead>
+			<stand>	Ha. You don't understand! My song is...	</stand>
+			<stand>	What's my score?	</stand>
+			<stand>	Won't you listen to my song? Huh~? 	</stand>
+			<stand>	Oh, Come play with me now~  	</stand>
+			<levelup>	Step-by-step!	</levelup>
+		</full>			
+					
+		<so_full>			
+			<feeding>	I don't need this food for now.	</feeding>
+			<dead>	...Please listen to my song~	</dead>
+			<stand>	Ha. You don't understand! My song is...	</stand>
+			<stand>	What's my score?	</stand>
+			<stand>	Won't you listen to my song? Huh~? 	</stand>
+			<stand>	Oh, Come play with me now~  	</stand>
+			<levelup>	Step-by-step!	</levelup>
+		</so_full>			
+					
+	</metaller>				
+	<ancient_mummy>				
+					
+		<hungry>			
+			<feeding>	I've regained my power.	</feeding>
+			<dead>	Heh... It's not over yet.	</dead>
+			<stand>	I am far from those worthless Mummies.	</stand>
+			<levelup>	I feel divine power from you...	</levelup>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	I've regained my power.	</feeding>
+			<dead>	Heh... It's not over yet.	</dead>
+			<stand>	I am far from those worthless Mummies.	</stand>
+			<levelup>	I feel divine power from you...	</levelup>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	I've regained my power.	</feeding>
+			<dead>	Heh... It's not over yet.	</dead>
+			<stand>	I am far from those worthless Mummies.	</stand>
+			<stand>	Can you find my pretty puppy I used to raise?	</stand>
+			<stand>	Not anyone can pull this off, you know.	</stand>
+			<levelup>	I feel divine power from you...	</levelup>
+		</noting>			
+					
+		<full>			
+			<feeding>	I have no strength to muster.	</feeding>
+			<dead>	Heh... It's not over yet.	</dead>
+			<stand>	I am far from those worthless Mummies.	</stand>
+			<stand>	Can you find my pretty puppy I used to raise?	</stand>
+			<stand>	Not anyone can pull this off, you know.	</stand>
+			<stand>	I have been waiting for an eternity... Finally, today has come...	</stand>
+			<levelup>	I feel divine power from you...	</levelup>
+		</full>			
+					
+		<so_full>			
+			<feeding>	I have no strength to muster.	</feeding>
+			<dead>	Heh... It's not over yet.	</dead>
+			<stand>	I am far from those worthless Mummies.	</stand>
+			<stand>	Can you find my pretty puppy I used to raise?	</stand>
+			<stand>	Not anyone can pull this off, you know.	</stand>
+			<stand>	I have been waiting for an eternity... Finally, today has come...	</stand>
+			<levelup>	I feel divine power from you...	</levelup>
+		</so_full>			
+					
+	</ancient_mummy>				
+	<xm_teddy_bear>				
+					
+		<hungry>			
+			<feeding>	Dolls need to eat sometimes, too.	</feeding>
+			<dead>	Hmm... Are you throwing me away again?	</dead>
+			<stand>	An Abandoned Teddy Bear...	</stand>
+			<levelup>	I want to see her again... 	</levelup>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	Dolls need to eat sometimes, too.	</feeding>
+			<dead>	Hmm... Are you throwing me away again?	</dead>
+			<stand>	An Abandoned Teddy Bear...	</stand>
+			<levelup>	I want to see her again... 	</levelup>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	Dolls need to eat sometimes, too.	</feeding>
+			<dead>	Hmm... Are you throwing me away again?	</dead>
+			<stand>	An Abandoned Teddy Bear...	</stand>
+			<stand>	Curse you...	</stand>
+			<stand>	There's no escape from this nightmare...	</stand>
+			<levelup>	I want to see her again... 	</levelup>
+		</noting>			
+					
+		<full>			
+			<feeding>	Don't force me to eat, master.	</feeding>
+			<dead>	Hmm... Am I being thrown away again?	</dead>
+			<stand>	An Abandoned Teddy Bear...	</stand>
+			<stand>	Curse you...	</stand>
+			<stand>	There's no escape from this nightmare...	</stand>
+			<stand>	I don't want to be thrown away anymore.	</stand>
+			<levelup>	I want to see her again... 	</levelup>
+		</full>			
+					
+		<so_full>			
+			<feeding>	Don't force me to eat, master.	</feeding>
+			<dead>	Hmm... Am I being thrown away again?	</dead>
+			<stand>	An Abandoned Teddy Bear...	</stand>
+			<stand>	Curse you...	</stand>
+			<stand>	There's no escape from this nightmare...	</stand>
+			<stand>	I don't want to be thrown away anymore.	</stand>
+			<levelup>	I want to see her again... 	</levelup>
+		</so_full>			
+					
+	</xm_teddy_bear>
+
+	<grand_peco>
+
+		<hungry>
+			<feeding>	*Slurp*...(Yum Yum)	</feeding>
+			<feeding>	Why are you so late??	</feeding>
+			<feeding>	Awwww~ I'm hungry.. hungryhungry~ Please let me have more~~	</feeding>
+			<hunting>	Wow it seems delicious~	</hunting>
+			<hunting>	Oh~	</hunting>
+			<hunting>	Hungryhungry~ Please take care of my meal~	</hunting>
+			<danger>	Oooops~ You should take care of yourself!!	</danger>
+			<danger>	Hey, hey.. You are dying...-_- 	</danger>
+			<danger>	You should eat something~ Try again after meal~	</danger>
+			<dead>	My goodness, dear...	</dead>
+			<dead>	Uhm.... I told you...	</dead>
+			<dead>	Hungryhungry~ Hmm? When did you die? Don't forget to give me food before you dead.	</dead>
+			<stand>	Uhmmmm... I'm hungry a bit...	</stand>
+			<stand>	What are you doing?	</stand>
+			<stand>	Hungryhungry~ Meal~ Food~ Let's eat something~	</stand>
+			<connect>	...You are here...	</connect>
+			<connect>	Now you are here. Did you eat something?	</connect>
+			<connect>	Hungryhungry~ Please take care of my meal~	</connect>
+			<levelup>	Grat...*Mumble*...	</levelup>
+			<levelup>	Good job. Let's eat something now..	</levelup>
+			<levelup>	Hungryhungry~ Uhm? Level up? I don't know. I'm just hungry~	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Hmm... If you don't mind me saying so.. I would rather eat more..	</feeding>
+			<feeding>	I'm super starving.	</feeding>
+			<feeding>	Thanks~ I was really hungry~	</feeding>
+			<hunting>	Show me your ability~	</hunting>
+			<hunting>	UUhmm~ What do you think of our owner's power?	</hunting>
+			<danger>	Hold on! Be careful!	</danger>
+			<danger>	I'm here to protect you~	</danger>
+			<dead>	It was too much..	</dead>
+			<dead>	You should be more careful... You died too early.	</dead>
+			<dead>	Haha~ My great owner......... is dead?! When did you die?	</dead>
+			<stand>	My favorite food is, which comes down from our family, made with Muka's skin and..*Mumble*	</stand>
+			<stand>	Owner~ They are coming~	</stand>
+			<stand>	Have we been before..? Haven't we..?	</stand>
+			<connect>	*Mumble*....Uhm?! When did you come?	</connect>
+			<connect>	Hungry...	</connect>
+			<levelup>	Wow! Nice~	</levelup>
+			<levelup>	Ehhh.. Level up?? Congrat!~	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	*Slurp*..Hmm... It's..*Yum Yum*.. quite nice..	</feeding>
+			<feeding>	It's always great. All the times. Meal, Meal~	</feeding>
+			<feeding>	*Slurp*... *Yum Yum*.. John..... What was the name for?	</feeding>
+			<hunting>	Oh~ Great, great! Go for it~!	</hunting>
+			<hunting>	Huhuhu~ How fabulous of my owner~	</hunting>
+			<danger>	Oh no! Danger, Danger!	</danger>
+			<danger>	Go for it~! Hmm...? It looks dangerous, sir T_T~	</danger>
+			<dead>	Resurrection !! ... I haven't learned.. T_T	</dead>
+			<dead>	Hum..... What should I do??	</dead>
+			<stand>	Actually~ I could have flied before. I was a star in the sky but it's quite boring so... *Mumble*	</stand>
+			<stand>	Run~ Run~ I love the feeling when I'm running!	</stand>
+			<connect>	Wow~ Let's go hunting again!	</connect>
+			<connect>	Hallo~ I'm the upgrade version of Peco Peco!	</connect>
+			<levelup>	Haha~ Congrat!	</levelup>
+			<levelup>	You leveled up! I do too..... can't I?	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	*Slurp* Hmm... I'm quite full now.	</feeding>
+			<feeding>	I'm full~ But I like eating huhu~	</feeding>
+			<hunting>	Let's go!	</hunting>
+			<hunting>	Huhu~ I'm quite good at this.	</hunting>
+			<danger>	You should attack with deadly skill such as Bowling Bash~!	</danger>
+			<danger>	If you are tired, I can do better~	</danger>
+			<dead>	Oh dear.. It was almost done..	</dead>
+			<dead>	Hmm~ Why did you die..	</dead>
+			<stand>	Hey, hey, sir. which city do you like the most? Hmm.. I like... the city that cute God stays..*Mumble* 	</stand>
+			<stand>	Hmm... I thought I had something to tell you.... Just forgot it! Haha~	</stand>
+			<connect>	Oh oh~ I'm glad to see you again~ I missed you a lot~	</connect>
+			<connect>	Hmm.... You are my owner..... aren't you? It's confusing...haha..	</connect>
+			<levelup>	Yoo-hoo! It's so nice day~!	</levelup>
+			<levelup>	Cool~! My owner is the best~	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Phew~ Sir, my stomach is exploding~!	</feeding>
+			<feeding>	No, No more~ I'm already full~!	</feeding>
+			<hunting>	Attention~! The fight of the century is beginning!	</hunting>
+			<hunting>	Hahaha~! See? It's my owner!	</hunting>
+			<danger>	/omg here, here!! Please help my owner!	</danger>
+			<danger>	I will protect you, Sir! Take a rest~	</danger>
+			<dead>	Hmm.... There is a day like this... Get up, now. </dead>
+			<dead>	Oh no~~ Please somebody help my owner~~	</dead>
+			<stand>	Guess what, yesterday I was eating noodle.... *Mumble*	</stand>
+			<stand>	Have you heard about new tavern which opened at Prontera?	</stand>
+			<stand>	..Hmm..... Sometimes.... I miss my home...	</stand>
+			<stand>	Oh, I heard the high fashion for these day is rubber shoes made in Payon.... *Mumble* 	</stand>
+			<stand>	I am really good at running~	</stand>
+			<connect>	Oh, finally you are here! Let's go~ I'm always ready!~	</connect>
+			<connect>	Sir, glad to see you again~ Where can we go today?	</connect>
+			<levelup>	Nice~! I knew it~	</levelup>
+			<levelup>	Nice~! You are the best today~	</levelup>
+		</so_full>
+	</grand_peco>
+	<mastering>
+
+		<hungry>
+			<feeding>	Yum Yum... I was hungry..	</feeding>
+			<feeding>	Huuung... I was hungry! 	</feeding>
+			<feeding>	Bon Appetit~!! 	</feeding>
+			<feeding>	Let me get one more...	</feeding>
+			<feeding>	I'm hungry T_T	</feeding>
+			<hunting>	Hmm.. Hey... Can I eat the item on the ground?	</hunting>
+			<hunting>	Is there any food left? 	</hunting>
+			<hunting>	You are so cool! 	</hunting>
+			<hunting>	Do you see anything to eat?	</hunting>
+			<danger>	Danger..	</danger>
+			<danger>	Ah...Did you get hurt? 	</danger>
+			<danger>	Hey, hey. Can't you see this red HP? 	</danger>
+			<danger>	You deserve it, you should get me some food...	</danger>
+			<danger>	Your head is bleeding! Don't die...	</danger>
+			<danger>	Did you get hurt? Do you need treatment?	</danger>
+			<dead>	I'm sorry T_T~~~ 	</dead>
+			<dead>	You... are... dead.....	</dead>
+			<dead>	Food Food Food!! 	</dead>
+			<dead>	Hey...... ......	</dead>
+			<dead>	Hey... You should die after feeding me... T_T	</dead>
+			<stand>	Hmm.... Hey, I think we already passed lunch time. Let's eat something.	</stand>
+			<stand>	Meat.. Sweet Potato... Meat... Grape... Meat.. Ice Cream.. Meat...	</stand>
+			<stand>	Jellopy... Empty Bottle... And your rare item... 	</stand>
+			<stand>	Heeey I'm hungry 	</stand>
+			<stand>	Hey Hey, What are you doing? 	</stand>
+			<stand>	Hey, what are you doing? will you give me something to eat?	</stand>
+			<stand>	You are making my meal, right? I'm hungry..	</stand>
+			<stand>	*RUMBLING* 	</stand>
+			<connect>	Hi. But I.... I don't like being hungry. Seriously..	</connect>
+			<connect>	You are coming to feed me! 	</connect>
+			<connect>	Hello, hello. I'm really hungry...	</connect>
+			<connect>	Hey I missed you so much~!!	</connect>
+			<connect>	LUNCH!!!	</connect>
+			<connect>	Didn't you bring some food? I'm hungry *tears*	</connect>
+			<levelup>	Congrats...	</levelup>
+			<levelup>	You are only thinking about yourself. You forgot to feed me! 	</levelup>
+			<levelup>	Yay~~ Congrat~~ 	</levelup>
+			<levelup>	Fanfare~! Now it's lunch time!	</levelup>
+			<levelup>	You forgot me leveling up... </levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	I was hungry. Thanks for the meal~	</feeding>
+			<feeding>	Bon Appetit~!! 	</feeding>
+			<feeding>	Bon Appetit~	</feeding>
+			<feeding>	It's!! Delicious~!	</feeding>
+			<feeding>	Poing Poing Yum Yum~	</feeding>
+			<hunting>	Hey... sometimes I would like to eat the item on the ground...	</hunting>
+			<hunting>	Feed me first before you hunt monsters!... 	</hunting>
+			<hunting>	Hiccup.	</hunting>
+			<hunting>	Nice~	</hunting>
+			<danger>	Danger! Danger!	</danger>
+			<danger>	If you gonna die, feed me first!! 	</danger>
+			<danger>	Hey, hey!! It's dangerous !!	</danger>
+			<danger>	Hmmmm, hey, did you get hurt? *Blow*	</danger>
+			<danger>	Are you hungry like me? Let's eat something first..	</danger>
+			<dead>	Hey... Get up T_T	</dead>
+			<dead>	No...! You even didn't feed me yet!! 	</dead>
+			<dead>	No way...T0T..Hey....	</dead>
+			<dead>	Hey.. Why did you die T_T	</dead>
+			<dead>	I wanna follow you to death...	</dead>
+			<stand>	Hmmmm... Do you like Jellopy as well? Jellopy is so tasty!	</stand>
+			<stand>	Are you bored? Then feed me! 	</stand>
+			<stand>	Heyyy...	</stand>
+			<stand>	Hey~ Aren't you hungry?	</stand>
+			<stand>	*Growling*	</stand>
+			<connect>	Today's menu is baked Jellopy! I wanna try~	</connect>
+			<connect>	Hey!! It's lunch time!! 	</connect>
+			<connect>	Hey... You didn't forget feed me, right?	</connect>
+			<connect>	Welcome back~! I missed you so much..	</connect>
+			<connect>	My dear! Hey, I'm hungry..	</connect>
+			<levelup>	Congratulation!	</levelup>
+			<levelup>	You leveled up! So it's time to eat something now 	</levelup>
+			<levelup>	Ohhhh wow~ Wonderful~	</levelup>
+			<levelup>	Congratulation~~	</levelup>
+			<levelup>	Let's eat something to eat to celebrate your level up~	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Food~ Food~ Tasty food~ I really like you!	</feeding>
+			<feeding>	Bon Appetit~!! 	</feeding>
+			<feeding>	Bon Appetit~!!!!	</feeding>
+			<feeding>	Yum Yum~ Poing Poing!	</feeding>
+			<feeding>	It's so tasty~!	</feeding>
+			<hunting>	Wow~ You are so strong!	</hunting>
+			<hunting>	Go for it! Go for it! 	</hunting>
+			<hunting>	I would like to eat some item...	</hunting>
+			<hunting>	You are the best~ haha.	</hunting>
+			<hunting>	Mastering specialty! Summon-Poring!!....... is not available...	</hunting>
+			<hunting>	I grew up but still cannot defeat any monster...	</hunting>
+			<danger>	Danger!! Heal!! Ahh... I cannot heal.... Hey, Priest! could you please heal?	</danger>
+			<danger>	Hey! It's dangerous!! 	</danger>
+			<danger>	Heyyy... Drink some potion first~~~~~	</danger>
+			<danger>	Take it easy. Let's hanging out!	</danger>
+			<danger>	Oooops!! Hey!!! You are bleeding....!!.. 	</danger>
+			<dead>	Somebody help us!! 	</dead>
+			<dead>	Hey! Don't die T_T	</dead>
+			<dead>	*Crying*...T0T...	</dead>
+			<dead>	Hey... don't die....	</dead>
+			<dead>	Hey.. It's time to get up...T_T	</dead>
+			<stand>	Hey, Santa isn't real? How about Santa Poring?	</stand>
+			<stand>	What should we do~ 	</stand>
+			<stand>	Mastaaaaaaaring~	</stand>
+			<stand>	Let's go~!	</stand>
+			<stand>	Hey!  ...        Boo!~	</stand>
+			<stand>	Poing!! Poing!! Poing!!.;;.. Poing!! Poing!!.... Hey!~ What are you doing here?	</stand>
+			<connect>	Haha, I really like you.	</connect>
+			<connect>	Hey, Hey! 	</connect>
+			<connect>	Hey, you are here!!	</connect>
+			<connect>	I missed you so bad!~	</connect>
+			<connect>	Poing!! Poing!! MHWA..	</connect>
+			<connect>	Hey~ Let's go Let's go~ 	</connect>
+			<levelup>	Wow~ you are getting stronger.	</levelup>
+			<levelup>	Wow! You are strong now!! 	</levelup>
+			<levelup>	Yay~	</levelup>
+			<levelup>	I wanna level up too! hehe	</levelup>
+			<levelup>	Hey! Nice~ :)	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	Yum.. I feels like my stomache is gonna explode.	</feeding>
+			<feeding>	I'm... full now 	</feeding>
+			<feeding>	Hey... I'm full...	</feeding>
+			<feeding>	Stop feeding me... I already had 100 Jellopy	</feeding>
+			<feeding>	It's tasty but I'm already so full~	</feeding>
+			<hunting>	What should I do to be strong such as you?	</hunting>
+			<hunting>	Hey~ Go for it! Yay! 	</hunting>
+			<hunting>	Aren't you tired???	</hunting>
+			<hunting>	Hmmmm~ This monster looks tasty...	</hunting>
+			<hunting>	Hey, I think I can do better than you!	</hunting>
+			<danger>	Preist! Please use heal here!	</danger>
+			<danger>	Oh no! Please help us! 	</danger>
+			<danger>	Heeey, are you hungry?	</danger>
+			<danger>	Hey! ~	</danger>
+			<danger>	Hey~ I'm full~ Take it easy	</danger>
+			<dead>	Resurrection !! ....... Hmm... I'm sorry not to learn this skill yet..	</dead>
+			<dead>	Yes... You are dead.. 	</dead>
+			<dead>	Ooops... T_T....... I told you...	</dead>
+			<dead>	Poing!! Poing!! I'm sleepy too..	</dead>
+			<dead>	Hey~ Get up and keep fighting! That monster brought my item on the ground~	</dead>
+			<dead>	Hey~ Why are you laying down? Take a revenge~	</dead>
+			<stand>	Why can't I fight yet?	</stand>
+			<stand>	Yay, now I'm Mastering! Can I be Angeling or Ghostling?	</stand>
+			<stand>	Hey what are you doing here? 	</stand>
+			<stand>	Hang~ Hang~~ Hang out~~~	</stand>
+			<stand>	Poing!! Poinggg~~~~ Po!	</stand>
+			<connect>	Come here, I was waiting for you!	</connect>
+			<connect>	Yay! You are back! 	</connect>
+			<connect>	Heyyyyyy~~ Let's get into adventure~~~~	</connect>
+			<connect>	Heyyyy finally you are here! I missed you..	</connect>
+			<connect>	Hello Hello	</connect>
+			<levelup>	Fanfare~!~! Congrats~	</levelup>
+			<levelup>	Did you see? You leveled up!! 	</levelup>
+			<levelup>	WOW Level up~!~~~ +_+	</levelup>
+			<levelup>	Wow~~~ Congrats~!!	</levelup>
+			<levelup>	Hey~! Congrats!!~	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Hey..... You wanna make me Sticky Mucus?..	</feeding>
+			<feeding>	No..No more.. 	</feeding>
+			<feeding>	I'm full already... It feels bad...	</feeding>
+			<feeding>	No! Stop feeding me....	</feeding>
+			<feeding>	Hey, hey. I'm already quite fat. Even fatter than Savage...	</feeding>
+			<feeding>	No more~ Cupet doesn't like to overeat	</feeding>
+			<hunting>	Yup yup! Go for it!! 	</hunting>
+			<hunting>	I'm too full to speed up..	</hunting>
+			<hunting>	Hey hey, I want to hunt monsters too~	</hunting>
+			<hunting>	Hey... Slow down!	</hunting>
+			<danger>	Hey..... Dangerous...	</danger>
+			<danger>	H..Hey...B...Blood!! 	</danger>
+			<danger>	Drink some potion!	</danger>
+			<danger>	Oh no?!... You are bleeding..	</danger>
+			<dead>	Hey... Can I lay down besides you? I'm too full to move now..	</dead>
+			<dead>	No way! Somebody helps my buddy... 	</dead>
+			<dead>	I told you T_T	</dead>
+			<dead>	Silly, you should have drank the potions instead of feeding me this a lot...	</dead>
+			<dead>	Hey... Care of you first...	</dead>
+			<stand>	Sure~ It's so nice to stay here for a while... 	</stand>
+			<stand>	Dear, what are you doing? 	</stand>
+			<stand>	Do you want to sleep?	</stand>
+			<stand>	Look at this~ I'm rolling~~~	</stand>
+			<connect>	Yay, welcome back~!	</connect>
+			<connect>	Yay~ hello! 	</connect>
+			<connect>	Hey, Hey! I was waiting for you...	</connect>
+			<connect>	You are here now! I miss you so bad!	</connect>
+			<levelup>	I wanna level up too~	</levelup>
+			<levelup>	Yay! you leveled up!! 	</levelup>
+			<levelup>	I knew it! You are great....	</levelup>
+			<levelup>	You are stunning~ 	</levelup>
+			<levelup>	Congratulation~ Awesome!	</levelup>
+		</so_full>
+
+	</mastering>
+	<savage>
+
+		<hungry>
+			<feeding>	It's a piece of cake! 	</feeding>
+			<hunting>	We cannot eat it..	</hunting>
+			<danger>	Oink~ You better not to fight with that strong monster.	</danger>
+			<dead>	Oink Oink... I'm afraid.. 	</dead>
+			<stand>	Why don't you care of me before I'm hungry?	</stand>
+			<connect>	Oink, Oink~ Hello, Sir~	</connect>
+			<levelup>	Congrats~ Please give me some food now..	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Oink, Oink~ I was hungry!	</feeding>
+			<hunting>	Oink... Let's eat something if you beat this..	</hunting>
+			<hunting>	Oink.. You don't feed me... You're addicted to hunt.. 	</hunting>
+			<danger>	Oink~! Oink~! OINNKKK~~ 	</danger>
+			<danger>	Oink~ You'd better run away when you are in danger~ 	</danger>
+			<dead>	Oink.. What if they prey on me? 	</dead>
+			<dead>	Oink.. I'm not that fat... Hey you should wake up.. 	</dead>
+			<stand>	Oink Oink.. If you don't feed me, I won't follow you!	</stand>
+			<stand>	Oink Oink.. I miss my mom..	</stand>
+			<connect>	Oink Oink~ Give me some food~ Oink~~	</connect>
+			<connect>	Oink~ You should feed me first.	</connect>
+			<levelup>	Oink Oink~ You level up! Now let's eat something!	</levelup>
+			<levelup>	Oink Oink~ Congrat! Let's go to eat something~~	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Oink Oink, so tasty!	</feeding>
+			<hunting>	Am I helpful for you a bit?	</hunting>
+			<hunting>	Even though I've gotten bigger... Pet cannot fight..	</hunting>
+			<danger>	Let's go back home when you are in danger.	</danger>
+			<danger>	Don't you have potion? you should drink one.	</danger>
+			<dead>	Oink~ Hey, get up!~	</dead>
+			<dead>	Help us... Isn't there anybody?	</dead>
+			<dead>	Hmmm... I cannot revive you though...	</dead>
+			<stand>	I became Savage... Am I cool?	</stand>
+			<stand>	Well.. What if I weren't a pet...	</stand>
+			<stand>	I wanted to meet good owner just like you!	</stand>
+			<connect>	Oink! Let's have fun in the dense wood!	</connect>
+			<levelup>	LV UP! You look strong now as much as I do.	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	TASTY! Hmm.... I will be a pig if I eat too much..	</feeding>
+			<hunting>	Wow now you are strong as much as I am !	</hunting>
+			<danger>	Hmmm... You better not to die....  Please don't leave me alone here..	</danger>
+			<dead>	No way~ I'm scared... Please get up~!	</dead>
+			<stand>	I like everything but especially carrot the most.	</stand>
+			<stand>	I will follow you whatever you say~	</stand>
+			<stand>	I sometimes miss the soup that I used to eat..	</stand>
+			<connect>	Oink Oink~ Where have you been all day long!	</connect>
+			<levelup>	Wow Lv up! I'm a cool pig just like you~ 	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	Ooops... Stop... I don't want to be fat~!	</feeding>
+			<hunting>	Oink... I don't want to do anything...	</hunting>
+			<danger>	Oink, Oink! It's dangerous... 	</danger>
+			<danger>	SOS SOS HELP!... Please heal my owner! 	</danger>
+			<dead>	Oink... Are you dead?	</dead>
+			<dead>	Hmmm.. You are laying down.... I'd like to lay down too... I'm sleepy... Oink...	</dead>
+			<stand>	Oink, Oink.. I'm full..	</stand>
+			<stand>	Let's take a nap....	</stand>
+			<stand>	Hmm.... I need something to put my head on...	</stand>
+			<connect>	Oink~ I'm full, let's take a nap a bit~	</connect>
+			<levelup>	You level up! Let's take a rest.	</levelup>
+		</so_full>
+
+	</savage>
+	<high_orc>
+
+		<hungry>
+			<feeding>	Your day will come.	</feeding>
+			<feeding>	Thanks.	</feeding>
+			<feeding>	I was hungry.	</feeding>
+			<feeding>	Thanks.	</feeding>
+			<hunting>	Sir, let's eat something first.	</hunting>
+			<hunting>	You are so cool !!	</hunting>
+			<hunting>	You are strong and it looks weak!	</hunting>
+			<hunting>	I'm fine even though I'm so hungry!	</hunting>
+			<danger>	It looks dangerous.	</danger>
+			<danger>	Take care !!	</danger>
+			<danger>	Don't get tired!	</danger>
+			<danger>	What a fool.. I will defend my owner!	</danger>
+			<dead>	Oh...Oh no...	</dead>
+			<dead>	Sir !! Come on !!	</dead>
+			<dead>	Get up, please...	</dead>
+			<dead>	Oh gosh... Who killed you?..	</dead>
+			<stand>	Did you go to the restroom?	</stand>
+			<stand>	Are you sleeping?	</stand>
+			<stand>	Don't forget to stay hungry!!	</stand>
+			<connect>	Sir, you are here.	</connect>
+			<connect>	Good morning, Sir! But the breakfast seems not to be ready.	</connect>
+			<connect>	Morning, Sir.	</connect>
+			<connect>	Good morning. I stay hungry untill now.	</connect>
+			<levelup>	Please take care of us as well....	</levelup>
+			<levelup>	I knew it!! Sir, you are awesome.	</levelup>
+			<levelup>	Now you got strong, right?..	</levelup>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	'..'占싸댐옙 '' ''枯'求占?..	</feeding>
+			<feeding>	占쌩먹겠쏙옙占싹댐옙 !!	</feeding>
+			<feeding>	'' '''占싹댐옙 '占싸댐옙..	</feeding>
+			<feeding>	占싫그뤄옙' '' '琉'''占?''''占승듸옙 ''占쌌니댐옙.	</feeding>
+			<hunting>	'' 占쎌리 '占싸댐옙占싱십니댐옙 !!	</hunting>
+			<hunting>	' ''占싱깍옙'..	</hunting>
+			<hunting>	'' ''' '' ''占싹댐옙~	</hunting>
+			<danger>	''占싹쏙옙' 占쏘떨'占?	</danger>
+			<danger>	''' '迦占?!!	</danger>
+			<danger>	'' '占?占썅석' ' '틴'占?	</danger>
+			<danger>	'' 占쌍듸옙' ' 占싻뱄옙占싹댐옙 ' ''占싹댐옙.	</danger>
+			<dead>	'占싱곤옙 占쎌리 '占싸댐옙...	</dead>
+			<dead>	''' ''占싱띰옙 '' '' 占쌍신다몌옙...	</dead>
+			<dead>	占쌍뱄옙占십니깍옙?	</dead>
+			<dead>	占싣억옙~ '''' '占싱뤄옙 '''占싱댐옙..	</dead>
+			<stand>	'' ''' ''占싹곤옙 占쌍쏙옙占싹댐옙.	</stand>
+			<stand>	''構占?占쌍겠쏙옙占싹댐옙 !!	</stand>
+			<stand>	'화' 占쌉놂옙'?	</stand>
+			<stand>	'' '琉'''占?'''占싹댐옙..	</stand>
+			<connect>	'占싱쏙옙占싹깍옙?	</connect>
+			<connect>	'占싸님곤옙 '' '' 占쌉곤옙占싶어서 '占승뀐옙 '慕횟'求占?!!	</connect>
+			<connect>	' '占싱쏙옙占싹깍옙!	</connect>
+			<connect>	'占싱쏙옙占싹깍옙~ ''' '' '''' 占쌌니댐옙~	</connect>
+			<levelup>	'占싹드립占싹댐옙	</levelup>
+			<levelup>	'占싸댐옙 !! '' !! '占쌨듸옙 占쌍십쇽옙 !!	</levelup>
+			<levelup>	'' ' 占실셨쏙옙占싹깍옙?	</levelup>
+			<levelup>	'' 占썸도占싹셨깍옙'!	</levelup>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	占쌩먹겠쏙옙占싹댐옙.	</feeding>
+			<feeding>	''' 占쌉겠쏙옙占싹댐옙 !!	</feeding>
+			<feeding>	'' '''占?'占싸댐옙!	</feeding>
+			<feeding>	' 占썹나占싱댐옙 占쌉댐옙 ' 占싹놂옙' 占쌘쏙옙占쌍쏙옙占싹댐옙.	</feeding>
+			<hunting>	'占?'占쌍면서 占싹쏙옙''?	</hunting>
+			<hunting>	'' '' ''占싹댐옙 '占싸댐옙 占싱십니댐옙 !!	</hunting>
+			<hunting>	' 占쌘쇽옙 ''占시댐옙 ' ''占싹댐옙.	</hunting>
+			<hunting>	''' ''트占쌉니댐옙. 占쎈릴 '' 占쎈리''!	</hunting>
+			<danger>	'' '황占쌉니댐옙!	</danger>
+			<danger>	'' '占싸님뀐옙' 占쌓는곤옙 ''' 占십쏙옙占싹댐옙 !!	</danger>
+			<danger>	''占십시울옙! 占쎌리 '占싸댐옙 '''~ 	</danger>
+			<danger>	'占싸댐옙 '' ''' 占십삼옙占?''' 占시곤옙占싱십니댐옙!!	</danger>
+			<dead>	占싣댐옙 占싱녀석'' 占쎌리 '占싸댐옙' 占쎈리'...	</dead>
+			<dead>	'' ' ''' 탓占쌉니댐옙. '占싸댐옙 ' 占쌓울옙占쌍십시울옙 !!'.'	</dead>
+			<dead>	' ''占싱쏙옙占싹깍옙?	</dead>
+			<dead>	占싱뤄옙' 占쌓다댐옙..	</dead>
+			<stand>	占쌍듸옙占싱띰옙 ''' ''''占시렵니깍옙?	</stand>
+			<stand>	'' 占쌥듸옙占?'占싸댐옙' '占싼드리占쌘쏙옙占싹댐옙 !! 	</stand>
+			<stand>	''' 占쌉쏙옙占싹깍옙? 	</stand>
+			<stand>	''' 占썹나'' '' '''占쌍십쇽옙~	</stand>
+			<connect>	'占싱쏙옙占싹깍옙?	</connect>
+			<connect>	占쏘서'占십쇽옙 !! '占시듸옙 ''' '占?占실시듸옙' '占싶드리占쌘쏙옙占싹댐옙 !!	</connect>
+			<connect>	占싫놂옙' 占쌍뱄옙占싱쏙옙占싹깍옙 '占싸댐옙? 占쌕뱄옙' 占싱삼옙占쌉니댐옙.	</connect>
+			<connect>	'占싸댐옙 '占싱쏙옙占싹깍옙~ '' '慕횟'求占?	</connect>
+			<levelup>	''占십니댐옙.	</levelup>
+			<levelup>	'' ''' '占싸댐옙 占썹에 '' 占싱니댐옙 !! 	</levelup>
+			<levelup>	'' 占썲립占싹댐옙!	</levelup>
+			<levelup>	'占싸댐옙' ''' 占썹나'' ''獵占?''占쌉니댐옙~	</levelup>
+		</noting>
+
+		<full>
+			<feeding>	'占싸댐옙 ''' 占싼곤옙占싱십니댐옙!	</feeding>
+			<feeding>	'占싸댐옙 '駕첼占?!! '' '''占싹댐옙 !! 	</feeding>
+			<feeding>	'' '' '占싸댐옙! '' '' 占싱시라구울옙?	</feeding>
+			<feeding>	''都歐占? '' ''' ' 占쌉겠쏙옙占싹댐옙.	</feeding>
+			<hunting>	'占싸댐옙' ' ''占?''占?'占싸곤옙 占실억옙'횟'求占?	</hunting>
+			<hunting>	'' '占싸댐옙占싱십니댐옙 !! ''占쌉듸옙 ''' '占쌍십시울옙 !!	</hunting>
+			<hunting>	'占싸댐옙 ''! ' '占싼띰옙~	</hunting>
+			<hunting>	'' '' '占싸댐옙 ''占?'' '' '載э옙'占?	</hunting>
+			<danger>	'占싸댐옙! '占쏟에곤옙 占시곤옙 占쌍십시울옙.	</danger>
+			<danger>	'占싹쇽옙' !!	</danger>
+			<danger>	占신깍옙 ''! '占싸님뀐옙 ' ' 占쌔듸옙'占?	</danger>
+			<danger>	'占싸댐옙 '체 ' ''占썽서 '占?''絿駕첼占? '''' 占십쏙옙占싹댐옙~	</danger>
+			<dead>	'占싸댐옙, 占쌓삼옙 '' 占쌍쏙옙占싹댐옙.	</dead>
+			<dead>	占싯쇽옙占쌌니댐옙!! ''''' 확'' '占싼드리占쌘쏙옙占싹댐옙 !!	</dead>
+			<dead>	'''트 占싹놂옙 '치占쌔울옙占쌘쏙옙占싹댐옙!	</dead>
+			<dead>	占싣댐옙 '占싸댐옙!! 占싱것듸옙' '' ''''占?占싹는듸옙..	</dead>
+			<stand>	'占싸댐옙 占썹에 占쌍댐옙 ' ' ''占싱띰옙占?''占싹곤옙 占쌍쏙옙占싹댐옙.	</stand>
+			<stand>	占식삼옙'占싱십니깍옙??	</stand>
+			<stand>	'摸'占?占쌍쏙옙占싹댐옙!	</stand>
+			<stand>	'占?''' '' '크 占싹놂옙 '''占? '占?' 占쌤롭쏙옙占싹댐옙..	</stand>
+			<connect>	'占싱쏙옙占싹깍옙?	</connect>
+			<connect>	'摸'占?占쌍억옙'占싹댐옙 !! '占시듸옙 ' '챨黴'求占?!!	</connect>
+			<connect>	'占싸댐옙 '占싱댐옙. 占쌕듸옙 ''' '!	</connect>
+			<connect>	'占싱쏙옙占싹깍옙~ ''' '' '' ''占싹댐옙.	</connect>
+			<levelup>	''' '占쌍억옙 '占시댐옙 '占싸댐옙' ''占?'' 占싱뱄옙 '占쌔뱄옙占싫쏙옙占싹댐옙.	</levelup>
+			<levelup>	占쎌리 '占싸댐옙 화''~'占쌘억옙'~~~!!	</levelup>
+			<levelup>	占썅가 占싸몌옙占쌘쏙옙占싹댐옙! '占싸댐옙 占쌍곤옙!	</levelup>
+			<levelup>	占싣듸옙~ 占싱놂옙' ''占십니댐옙~	</levelup>
+		</full>
+
+		<so_full>
+			<feeding>	'占싸댐옙 ''' '''決苛求占?.	</feeding>
+			<feeding>	'' '''占싹댐옙 !! 占쌓몌옙 占쌍셔듸옙 占싯니댐옙!	</feeding>
+			<feeding>	占쌓몌옙 占쌍십시울옙..'' 占쌉억옙'占싹댐옙, '占싸댐옙.	</feeding>
+			<feeding>	占썼가 '' '''' ' ''占싹댐옙~	</feeding>
+			<hunting>	占싱뤄옙 '占싸님뀐옙' '' '占?...'' 占쌌울옙 ''占쌘쏙옙占싹댐옙.	</hunting>
+			<hunting>	'占싸댐옙! '' '''占??	</hunting>
+			<hunting>	'''占?'占싣븝옙占싱십니댐옙.	</hunting>
+			<hunting>	'' ' '' ''構占?''占쌔븝옙占십시댐옙!	</hunting>
+			<danger>	''占쌌니댐옙. '' ''占싱쏙옙占싹깍옙?	</danger>
+			<danger>	'占싸댐옙!! '' '''' 占싹십시울옙 !!	</danger>
+			<danger>	', ' 占심뤄옙 ''占싹댐옙..	</danger>
+			<danger>	占싱놂옙占? 占쎌리 '占싸댐옙' '' '킨'!	</danger>
+			<dead>	'..占싱뤄옙....''' 占썅석''....	</dead>
+			<dead>	占싹어나'占십쇽옙 !! '占싸댐옙 !! '占싸댐옙' 占심뤄옙' 占쌕쏙옙占싼뱄옙 ''占쌍십시울옙 !!	</dead>
+			<dead>	'占싸댐옙!! '占싸댐옙!! '占싸댐옙'''''''~~ '_'	</dead>
+			<stand>	'占싸님곤옙 占쌉뀐옙'占?''' ' ''求占?	</stand>
+			<stand>	'占싸님곤옙 ',...占쌓몌옙' ' '占?占쌍다몌옙 占쎌린 천占싹뱄옙'占싱깍옙' '''	</stand>
+			<stand>	'' ''' '占싸님곁에 '' ' 占쌉니댐옙 !!	</stand>
+			<stand>	'탐占싹시댐옙 '占싱십니깍옙?	</stand>
+			<stand>	'占싸댐옙 '크'' '' ''''占싱쏙옙占싹댐옙.	</stand>
+			<connect>	'占싸님뀐옙 '키' 占쌀듸옙' 占실댐옙' ''' 占쌉뀐옙占싹시깍옙.	</connect>
+			<connect>	'摸'占?占쌍억옙'占싹댐옙 !! ''' '占?''占싹뤄옙 '占싹깍옙 !!	</connect>
+			<connect>	占싫놂옙占싹십니깍옙?(--) (占싣뀐옙)	</connect>
+			<connect>	占쏘서'占십시울옙~ '占시듸옙' ''' '' '占싱십니댐옙~	</connect>
+			<levelup>	'' ''' '''占시는깍옙'.	</levelup>
+			<levelup>	'' 占쎌리 '占싸댐옙占싱십니댐옙 !! '' 占신울옙 占썅복占쌌니댐옙 !!	</levelup>
+			<levelup>	''!	</levelup>
+			<levelup>	'치 ' '' '' 占싹늘뤄옙 '占싣울옙'' ' ''占싹댐옙~	</levelup>
+		</so_full>
+
+	</high_orc>
+
 
 		<poring>
 
@@ -271,7 +1245,7 @@
 				<feeding>Thank you, but I don't need it right now...</feeding>
 				<feeding>Thank you its good, but...STOP FEEDING MY IM FULL!!!</feeding>
 				<feeding>I'm not hungry. I ate a big lunch!</feeding>
-				<hunting>Oooooohhh¡|.. I'm too full to eat the stuff on the ground.</hunting>
+				<hunting>Oooooohhh'|.. I'm too full to eat the stuff on the ground.</hunting>
 				<hunting> Whoa! Food just laying there! Coolies! </hunting>
 				<hunting>Hey! All the these monsters...you love me best, right? </hunting>
 				<danger>Ok, Just calm, don't mind the blood running down from your head!!</danger>
@@ -2534,13 +3508,13 @@
 				<hunting>Some Prontera cuisine would be nice!</hunting>
 				<danger>You better feed me before you die! </danger>
 				<danger>We should both go get some food.</danger>
-				<danger>Don't go dying on me! ¡|hmm never mind.</danger>
+				<danger>Don't go dying on me! '|hmm never mind.</danger>
 				<dead>I told you to feed me before you died...loser...</dead>
 				<dead>You should be watching your back.</dead>
 				<dead>Hey! Free meal!</dead>
 				<stand>Stop standing around and feed me!</stand>
 				<stand>Please give me a snack, I beg of you.</stand>
-				<stand>Going already? You must eat pretty well¡|</stand>
+				<stand>Going already? You must eat pretty well'|</stand>
 				<stand>Do you have any food in your pockets?</stand>
 				<stand>HEY! feed me or something..</stand>
 				<connect>I'm hungry...feed me now!</connect>
@@ -2598,7 +3572,7 @@
 				<dead>Man....you know....You die too much.</dead>
 				<dead>NO! Now I have to use my fat stores!</dead>
 				<stand>Man I'm getting stronger! What do you think?</stand>
-				<stand>It must be nice to be able to stand¡|</stand>
+				<stand>It must be nice to be able to stand'|</stand>
 				<connect>Whoa! Let's go! </connect>
 				<connect>My Spoiling leader returns!</connect>
 				<levelup>Oh yea! Let me get in on this!</levelup>
@@ -2616,7 +3590,7 @@
 				<dead>Well, you should have ran instead of dieing~</dead>
 				<stand>OK...let's stay for a bit.</stand>
 				<stand>Lets go somewhere fun</stand>
-				<stand>It must be nice to be able to stand¡|</stand>
+				<stand>It must be nice to be able to stand'|</stand>
 				<connect>Hey...let me rest a bit...I'm too full...</connect>
 				<connect>My Spoiling leader returns!</connect>
 				<levelup>Now can we rest? I'm gonna barf!</levelup>
@@ -3160,9 +4134,9 @@
 			<perfor_3>*Phew* Much cleaner.</perfor_3>
 			<perfor_3>Do you think the house looks better now? Can I take a break?</perfor_3>
 			<perfor_3>I love my job, but sometimes it is very tiresome. *Sigh...*</perfor_3>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
 		</hungry>			
 
 		<bit_hungry>			
@@ -3217,9 +4191,9 @@
 			<perfor_3>*Phew* Much cleaner.</perfor_3>
 			<perfor_3>Do you think the house looks better now? Can I take a break?</perfor_3>
 			<perfor_3>I love my job, but sometimes it is very tiresome. *Sigh...*</perfor_3>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
 		</bit_hungry>			
 
 		<noting>			
@@ -3280,9 +4254,9 @@
 			<perfor_3>*Phew* Much much cleaner.</perfor_3>
 			<perfor_3>Do you think the house looks better now? Can I take a break?</perfor_3>
 			<perfor_3>I love my job, but sometimes it is very tiresome. *Sigh...*</perfor_3>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
 		</noting>			
 
 		<full>			
@@ -3333,9 +4307,9 @@
 			<perfor_3>*Phew* Yes, that's much cleaner</perfor_3>
 			<perfor_3>Do you think the house looks better now? Can I take a break?</perfor_3>
 			<perfor_3>I love my job, but sometimes it is very tiresome. *Sigh...*</perfor_3>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
 		</full>			
 
 		<so_full>			
@@ -3388,9 +4362,9 @@
 			<perfor_3>Phew...yes, now I feel clean.</perfor_3>
 			<perfor_3>Do you think the house looks better now? Can I take a break?</perfor_3>
 			<perfor_3>I love my job but sometimes it is very tiresome. *Sigh...*</perfor_3>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
 		</so_full>			
 
 	</alice>				
@@ -3434,9 +4408,9 @@
 			<perfor_3>Want me to make a doughnut?</perfor_3>
 			<perfor_3>I smoke when I'm stressed out, but I don't think it's helping me. Oh well...still I can't quit.</perfor_3>
 			<perfor_3>If you're a smoker, you oughta quit. Me? Shuddap and lemme alone!</perfor_3>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
 		</hungry>			
 
 		<bit_hungry>			
@@ -3492,9 +4466,9 @@
 			<perfor_3>*Phew*</perfor_3>
 			<perfor_3>Yeah, sometimes smoking makes me so relieved~	</perfor_3>
 			<perfor_3>Sometimes is okay, but not always! Especially around kids, it weakens their bones!</perfor_3>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
 		</bit_hungry>			
 
 		<noting>			
@@ -3556,9 +4530,9 @@
 			<perfor_3>Phew...</perfor_3>
 			<perfor_3>Yeah, sometimes smoking gives me suuuch relief~	</perfor_3>
 			<perfor_3>Sometimes a cig is okay, but not always! Especially around kids, it weakens their bones!</perfor_3>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
 		</noting>			
 
 		<full>			
@@ -3609,9 +4583,9 @@
 			<perfor_3>Phew...</perfor_3>
 			<perfor_3>Yeah, sometimes smoking gives me suuuch relief~</perfor_3>
 			<perfor_3>Sometimes is a cig okay, but not always! Especially around kids, it weakens their bones!</perfor_3>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
 		</full>			
 
 		<so_full>			
@@ -3666,9 +4640,9 @@
 			<perfor_3>*Phew...*</perfor_3>
 			<perfor_3>Yeah, sometimes smoking gives me suuuch relief~</perfor_3>
 			<perfor_3>Sometimes a cig is okay, but not always! Especially around kids, it weakens their bones!</perfor_3>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
-			<perfor_s>	…	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
+			<perfor_s>	...	</perfor_s>
 		</so_full>			
 
 	</zherlthsh>				
@@ -4003,170 +4977,6 @@
 		<perfor_3> Let's relax over here. Take a seat! </perfor_3>
 		<perfor_s> No performance </perfor_s>
 	</so_full>
-		<event_ricecake>			
-			<hungry>			
-				<feeding>Gulu Gulu!</feeding>		
-				<feeding>I am so hungry I feel that I am becoming a flat rice cake now!</feeding>			
-				<feeding>I'm going to eat my own flesh if you're one more minute late!</feeding>			
-				<hunting>Do you think we can find something edible after defeating him?</hunting>			
-				<hunting>What's the color of the herb that you're carrying?!</hunting>			
-				<hunting>I must be too hungry to think that it's green in color</hunting>			
-				<danger>That's because you didn't give me the herbs.</danger>			
-				<danger>That rod looks like a white biscuit.</danger>			
-				<dead>Oh, master! You're dead now too...</dead>			
-				<dead>I miss my herbs...</dead>				
-				<dead>I wish I will be reincarnated as herb in my next life.</dead>			
-				<stand>Are you trying to turn me into a ricecake?</stand>			
-				<stand>I hate ricecake. You should give me more herbs...</stand>			
-				<stand>You shouldn't mingle that much with others!</stand>			
-				<stand>Is that the herb that I think it is?</stand>			
-				<connect>How dare of you to visit me after so long?</connect>			
-				<connect>I am freezing...</connect>			
-				<connect>Do you bring along any herbs</connect>			
-				<levelup>Why don't you gather some herbs before the angel appears?</levelup>			
-				<levelup>Is it time for me to have my herbs now?</levelup>			
-				<perfor_1>Oh... If I still can't become QQ!!</perfor_1>			
-				<perfor_1>Phew~</perfor_1>			
-				<perfor_2>Heeya Hiiya Hew ~</perfor_2>			
-				<perfor_2>Pang ~ Hew~</perfor_2>			
-				<perfor_3>I am satisfied with the love you give me ~</perfor_3>			
-				<perfor_3>The love you give is more than sufficient ~</perfor_3>			
-				<perfor_s>Phew ~ Hiiyaa</perfor_s>			
-				<perfor_s>Oh! That looks familiar!</perfor_s>			
-				</hungry>			
-				<bit_hungry>	</hungry>		
-				<feeding>Gulu Gulu!</feeding>			
-				<feeding>I'm so hungry I'm going to become a flat ricecake now.</feeding>	<bit_hungry>		
-				<feeding>Will I become a herb cake if I eat so many of these?</feeding>			
-				<feeding>I was thinking maybe we can take honey for a change...</feeding>			
-				<feeding>Please add in some beans ~</feeding>			
-				<hunting>Only if I have a biscuit rod...</hunting>			
-				<hunting>Take a break before you continue to hunt anymore</hunting>			
-				<hunting>Won't you feel hungry if you keep hunting like this?</hunting>			
-				<danger>That rod looks like a white biscuit</danger>			
-				<danger>Doesn't it look like the ricecake in the picture?</danger>			
-				<dead>I wish I will be reincarnated as herb in my next life.</dead>			
-				<dead>I'm freezing if I continue to lie on this icy floor</dead>			
-				<stand>Although I wish to become a QQ....</stand>			
-				<stand>Are you trying to make me into a white rice cake?</stand>			
-				<stand>What's the color of your heart?</stand>			
-				<stand>Is that the herb that is shown in the picture?</stand>			
-				<connect>I'm freezing...</connect>			
-				<connect>Welcome... I'm freezing just to wait for you ~</connect>			
-				<levelup>Since you've gotten your level, why don't you give me some herbs.</levelup>			
-				<levelup>Woah, an angel!!!</levelup>			
-				<perfor_1>Haargh... If I still fail to become QQ!!</perfor_1>			
-				<perfor_1>Phew~</perfor_1>			
-				<perfor_2>Heeya Hiiya Hew ~</perfor_2>			
-				<perfor_2>Pang ~ Hew~</perfor_2>			
-				<perfor_3>I am satisfied with the love you give me ~</perfor_3>			
-				<perfor_3>The love you give is more than sufficient ~</perfor_3>			
-				<perfor_s>Phew ~ Hiiyaa</perfor_s>			
-				<perfor_s>Oh! That looks familiar!</perfor_s>			
-				</bit_hungry>			
-				<noting>			
-				<feeding>The herbs have a different taste today...</feeding>	</bit_hungry>		
-				<feeding>I can feel your love from the herb you gave me.</feeding>			
-				<feeding>Will I become a herb cake if I eat so many of these?</feeding>	<noting>		
-				<feeding>Ah~~ Delicious ~</feeding>			
-				<hunting>You have become a QQ too!</hunting>			
-				<hunting>Take a break before you continue to hunt anymore</hunting>			
-				<hunting>Feel my rice cake strike!</hunting>			
-				<danger>Your HP! It's become as red as the tomato sauce</danger>			
-				<danger>Only if I had a rice cake rod...</danger>			
-				<danger>You won't restore any health with my food. Just drink your stupid potion ~</danger>			
-				<dead>I don't like the way you lie down. Stand up now!</dead>			
-				<dead>I will be frozen if you keep lying there.</dead>			
-				<stand>Don't get too friendly with strangers!</stand>			
-				<stand>The next time I'm born, I want to be a rice cake coated with honey</stand>			
-				<stand>I am your backup food supply</stand>			
-				<stand>Gugu Lulu ~~</stand>			
-				<stand>Are you trying to turn me into a white rice cake?</stand>			
-				<stand>Rice Cake! Come and get your delicious Rice Cake ~</stand>			
-				<connect>This will be a QQ day too</connect>			
-				<connect>Welcome, I'm almost frozen while waiting for you here~</connect>			
-				<levelup>Woah, congratulations, dude! ~</levelup>			
-				<levelup>You're going to become a QQ too!</levelup>			
-				<perfor_1>Haargh... If I still fail to become QQ!!</perfor_1>			
-				<perfor_1>Phew~</perfor_1>			
-				<perfor_2>Heeya Hiiya Hew ~</perfor_2>			
-				<perfor_2>Pang ~ Hew~</perfor_2>			
-				<perfor_3>I am satisfied with the love you give me ~</perfor_3>			
-				<perfor_3>The love you give is more than sufficient ~</perfor_3>			
-				<perfor_s>Phew ~ Hiiyaa</perfor_s>			
-				<perfor_s>Oh! That looks familiar!</perfor_s>			
-				</noting>			
-				<full>			
-				<feeding>Will I become a human if I ate the garlic with my food?</feeding>			
-				<feeding>If I eat this too, I will become very hot!</feeding>	</noting>		
-				<feeding>I am already filled with so many green herbs...</feeding>			
-				<hunting>I have my nose bleed in the adventures of my younger days!</hunting>	<full>		
-				<hunting>Ahhh... This is the best medicine ever....!!</hunting>			
-				<hunting>What's the color of your herbs?!</hunting>			
-				<hunting>Taste the power of my rice cake strike!</hunting>			
-				<danger>You won't restore any health with my food. Just drink your stupid potion ~</danger>			
-				<danger>Master! Eat me to spare your life!</danger>			
-				<danger>Feel free to eat me. You can start from my head...</danger>			
-				<dead>If you continue to stay here, I will be frozen</dead>			
-				<dead>How about biting me for a try</dead>			
-				<stand>I am the rice cake with the best brand.</stand>			
-				<stand>Did you smell that? That's my perfume - Rice Cake No. 5!</stand>			
-				<stand>I support the local goods. So, I won't be using any imported perfume.</stand>			
-				<stand>If I get sick, I'm sure my friends will take good care of me.</stand>			
-				<stand>I really envy the smooth skin of that white bun</stand>			
-				<stand>The sliced rice cake really looks macho.</stand>			
-				<connect>I want to be cute today ~</connect>			
-				<connect>It's going to be another cute day ~</connect>			
-				<levelup>You have become cuter now!</levelup>			
-				<levelup>Nice to meet you, Angel. I'm rice cake!</levelup>			
-				<perfor_1>Haargh... If I still fail to become QQ!!</perfor_1>			
-				<perfor_1>Phew~</perfor_1>			
-				<perfor_2>Heeya Hiiya Hew ~</perfor_2>			
-				<perfor_2>Pang ~ Hew~</perfor_2>			
-				<perfor_3>I am satisfied with the love you give me ~</perfor_3>			
-				<perfor_3>The love you give is more than sufficient ~</perfor_3>			
-				<perfor_s>Phew ~ Hiiyaa</perfor_s>			
-				<perfor_s>Oh! That looks familiar!</perfor_s>			
-				</full>			
-				<so_full>			
-				<feeding>Ohhh, I can feel that taste of honey</feeding>			
-				<feeding>Mrs. Rice Cake is getting angry now!..</feeding>			
-				<feeding>Stop! I have had more than enough..</feeding>	</full>		
-				<hunting>I used to work out when I was in the moon ~</hunting>			
-				<hunting>Don't worry. Just take a bite from my head...</hunting>	<so_full>		
-				<hunting>I saw my share of blood during my younger days!</hunting>			
-				<hunting>Feel my rice cake strike! ~</hunting>			
-				<danger>Don't eat my herbs. If you want to restore your health, drink the potions ~</danger>			
-				<danger>Master! Eat me to spare your own life!!</danger>			
-				<danger>Don't worry. You can start eating from my head...</danger>			
-				<dead>You can still take another bite of me</dead>			
-				<dead>You and me are enough to make a delicious rice cake dish</dead>			
-				<dead>When will there be anyone who's willing to mourn our defeat?</dead>			
-				<stand>Please don't cook me in a microwave oven!</stand>			
-				<stand>Did you smell that? That's my perfume - Rice Cake No. 5!</stand>			
-				<stand>I support the local goods. So, I won't be using any imported perfume.</stand>			
-				<stand>I have a strong sense of smell ~</stand>			
-				<stand>I have been waiting for you all night</stand>			
-				<stand>Have you forgotten about me?</stand>			
-				<stand>Do you like that cute little girl over there?</stand>			
-				<connect>I'm going to be a herb cake if you come any moment later</connect>			
-				<connect>This will be another cute day ~</connect>			
-				<levelup>Hello, nice to meet you. I'm the almighty rice cake!</levelup>			
-				<levelup>You're the best!</levelup>			
-				<levelup>You're really something master ~</levelup>			
-				<perfor_1>Haargh... If I still fail to become QQ!!</perfor_1>			
-				<perfor_1>Phew~</perfor_1>			
-				<perfor_2>Heeya Hiiya Hew ~</perfor_2>			
-				<perfor_2>Pang ~ Hew~</perfor_2>			
-				<perfor_3>I am satisfied with the love you give me ~</perfor_3>			
-				<perfor_3>The love you give is more than sufficient ~</perfor_3>			
-				<perfor_s>Phew ~ Hiiyaa</perfor_s>			
-				<perfor_s>Oh! That looks familiar!</perfor_s>			
-				</so_full>			
-				</event_ricecake>						
-			</so_full>		
-			
-		</event_ricecake>			
 
 </P_CHUNG_E>
 <XMAS_LUNATIC>
@@ -4177,8 +4987,8 @@
 		<hunting>	Hurry up and finish hunting so that we can go eat~	</hunting>
 		<danger>	Ah~~ snowing santa town was also red just like that...	</danger>
 		<danger>	Need Potion and Food!	</danger>
-		<dead>	Don't die…T.T	</dead>
-		<dead>	Please save my master… T.T	</dead>
+		<dead>	Don't die T.T	</dead>
+		<dead>	Please save my master T.T	</dead>
 		<stand>	..... Don't you smell candy?	</stand>
 		<stand>	Where are you going? Candy Store??	</stand>
 		<connect>	Hi! I was waiting for you to eat together~	</connect>
@@ -4237,8 +5047,8 @@
 		<hunting>	... Too full....I will fall down...	</hunting>
 		<danger>	Too dangerous! Let's retreat for now!	</danger>
 		<danger>	Got dangerous~! Take your potion fast!!	</danger>
-		<dead>	Don't die…T.T	</dead>
-		<dead>	Please save my master… T.T	</dead>
+		<dead>	Don't die T.T	</dead>
+		<dead>	Please save my master T.T	</dead>
 		<stand>	Mas..ter... I feel little hungry...	</stand>
 		<stand>	Ok? OK?? Let's go eat together~	</stand>
 		<connect>	Hi! I was waiting for you to eat together~	</connect>
@@ -4257,8 +5067,8 @@
 		<hunting>	NextNextNextNext!!	</hunting>
 		<danger>	In this kind of situation, I really want to take out all candies from my stomach. Should be alot.	</danger>  er>
 		<danger>	You're gonna die! Too dangerous!	</danger>
-		<dead>	Don't die…T.T	</dead>
-		<dead>	Please save my master… T.T	</dead>
+		<dead>	Don't die T.T	</dead>
+		<dead>	Please save my master T.T	</dead>
 		<stand>	Mas..ter... I feel little hungry...	</stand>
 		<stand>	Let's go eat together~~ ok? OK??	</stand>
 		<connect>	Hi! I was waiting for you to eat together~	</connect>
@@ -4273,108 +5083,6 @@
 </XMAS_LUNATIC>
 
 
-<TIKBALANG>				
-	<hungry>			
-		<feeding>	I'm hungry. Give me something to eat. Or else I will go on strike.	</feeding>
-		<feeding>	I would have left you long ago if I was hungrier.	</feeding>
-		<hunting>	Yes, that's it!! Good!! But is it a long time until mealtime?	</hunting>
-		<hunting>	Whoa... Nice. Only thing left is for me to be fed.	</hunting>
-		<danger>	Hey... you sure? Looks dangerous. Go kill yourself but will you feed me before you do that?	</danger>
-		<danger>	Hey, be careful. Nobody will feed me if the KP is gone.	</danger>
-		<dead>	Get up! I'm hungry. Get up now!! KP!!	</dead>
-		<dead>	KP!! You'll freeze to death falling asleep here!	</dead>
-		<stand>	KP! You're drooling all over the food. Give me food!!	</stand>
-		<stand>	Aren't there any REAL KPs that can feed me instead of one that just stands there? Hold up your hand where I can see it!!	</stand>
-		<connect>	Now you're here? I'm so tired from waiting. Feed me!!	</connect>
-		<connect>	Sniff, sniff. Oh... this smell... did you eat something yourself?	</connect>
-		<levelup>	Whoa- you've become stronger. Congratulations. Now let's eat, OK?	</levelup>
-		<levelup>	Bah- I'm hungry I could die and you come here all healthy, do you? Must feel good, right? Hmph?!	</levelup>
-		<perfor_1>	Summoning circle! Appear before me!!	</perfor_1>
-		<perfor_2>	Munch, munch. I'd better be off eating air at least.	</perfor_2>
-		<perfor_3>	Summoning circle! Appear before me!!	</perfor_3>
-		<perfor_s>	Munch, munch. I'd better be off eating air at least.	</perfor_s>
-	</hungry>			
-	<bit_hungry>			
-		<feeding>	I think it's time to eat. Don't you think so?	</feeding>
-		<feeding>	Munch, munch. Chew, chew. Hmm... Not bad for a quick mix.	</feeding>
-		<hunting>	Great job at battle. Should we eat now?	</hunting>
-		<hunting>	There is a saying that a great soldier never battles on an empty stomach. Let's eat.	</hunting>
-		<danger>	Huh... what... whoa? Wha?	</danger>
-		<danger>	Feh- spit! You like this kind of excitement? Huh?	</danger>
-		<dead>	Feh- spit! Come all at once. I fight better than a KP!	</dead>
-		<dead>	Better than nothing. Shall we return to the village for now?	</dead>
-		<stand>	One! Two! Three! I wasn't just born with these powerful arms and legs of mine.	</stand>
-		<stand>	Hey. What are you doing, KP? Thinking of your girl back home?	</stand>
-		<connect>	Oh... met just at the right time. I've found a great restaurant. Let's go there today.	</connect>
-		<connect>	Good morning! Oh, it's not morning?	</connect>
-		<levelup>	Not bad for a KP. I think all you need to do is feed me right.	</levelup>
-		<levelup>	Huk! Huk! Beautiful angel.	</levelup>
-		<perfor_1>	Why now come done upon me for a second?	</perfor_1>
-		<perfor_2>	Munch, munch. Ha... hmm... nice scent.	</perfor_2>
-		<perfor_3>	Why now come done upon me for a second?	</perfor_3>
-		<perfor_s>	Munch, munch. Ha... hmm... nice scent.	</perfor_s>
-	</bit_hungry>			
-	<noting>			
-		<feeding>	Morning! Lunch! Dinner! Are the most important meals of a day.	</feeding>
-		<feeding>	Must chew at least 30 times with each bite!	</feeding>
-		<hunting>	Been through a lot. Keep on and you'll soon...	</hunting>
-		<hunting>	Good! Be strong soon.	</hunting>
-		<danger>	Potion! Potion! What will you do without me?	</danger>
-		<danger>	Definitely! If not now, then sometime in the future. Now let's retreat?	</danger>
-		<dead>	Don't be too disappointed. There are days like this.	</dead>
-		<dead>	Don't forget today's shame.	</dead>
-		<stand>	Loyalty!!	</stand>
-		<stand>	Age two! Tikbalang! Reporting for duty.	</stand>
-		<connect>	What shall I do today? Please let me know my schedule.	</connect>
-		<connect>	You'll need some rest and also some breadth of mind. No need to rush through things.	</connect>
-		<levelup>	Congratulations. I'd better do my best not to fall back.	</levelup>
-		<levelup>	He he he~ Beautiful angel~ you are so pretty.	</levelup>
-		<perfor_1>	I know someone with a horse. I'll try to summon him.	</perfor_1>
-		<perfor_2>	Munch, munch. Delicious~	</perfor_2>
-		<perfor_3>	I know someone with a horse. I'll try to summon him.	</perfor_3>
-		<perfor_s>	Munch, munch. Delicious~	</perfor_s>
-	</noting>			
-	<full>			
-		<feeding>	Hey, KP! I think there is too much food today.	</feeding>
-		<feeding>	There is a lot of food today. Did we get supplies?	</feeding>
-		<hunting>	Can't move cause I'm too full. KP, go and fight instead of me.	</hunting>
-		<hunting>	Ouch! My armor broke because I ate too much.	</hunting>
-		<danger>	Aren't you overconfident about your ability? Don't push it.	</danger>
-		<danger>	Why not take a potion instead of enduring it?	</danger>
-		<dead>	I won't forget our memories together.	</dead>
-		<dead>	Argh... It's because I ate too much!!	</dead>
-		<stand>	I'm full now and have nothing else to do. How about snack time.	</stand>
-		<stand>	KP! Hey! Get a hold of yourself! You can't just sleep here when you are full.	</stand>
-		<connect>	You here? What is this menu?	</connect>
-		<connect>	I've thought it over. I think you should rest today.	</connect>
-		<levelup>	Oh- it's about time you leveled up. Congratulations.	</levelup>
-		<levelup>	Ugh... I can't get over your beauty, Beautiful Angel.	</levelup>
-		<perfor_1>	I've always practiced summoning, but never succeeded.	
-		<perfor_2>	Beat! Box! Booooooxxx! Beat! These are the only 2 words you need to know to beatbox.	</perfor_2>
-		<perfor_3>	I've always practiced summoning, but never succeeded.	
-		<perfor_s>	Beat! Box! Booooooxxx! Beat! These are the only 2 words you need to know to beatbox.	</perfor_s>
-	</full>			
-	<so_full>			
-		<feeding>	Huk... Huk... I... I can't take it anymore.	</feeding>
-		<feeding>	K... KP... do you plan to kill me?	</feeding>
-		<hunting>	Alright! Run! Yes! That's it!	</hunting>
-		<hunting>	Hurry! Hurry! Hurry! Hurry! Hurry!	</hunting>
-		<danger>	Argh... I'd like to share the food in my belly with you.	</danger>
-		<danger>	You much have 9 lives.	</danger>
-		<dead>	KP! I will never forget you. Ugh…	</dead>
-		<dead>	Medic!! No medic around? Medic!!	</dead>
-		<stand>	What are you dazing at? Let's work this off!!	</stand>
-		<stand>	Ha ha ha ha! I'm the great Tikbalang!	</stand>
-		<connect>	Welcome. Nice to meet you.	</connect>
-		<connect>	Feels like its been a long time, no?	</connect>
-		<levelup>	Love you! Beautiful Angel!	</levelup>
-		<levelup>	Beautiful Angel- You are even more beautiful today than yesterday!! He he-	</levelup>
-		<perfor_1>	Summoning is difficult. Or maybe I used too little INT?	</perfor_1>
-		<perfor_2>	Ugh... Did I eat too much? I feel like throwing up.	</perfor_2>
-		<perfor_3>	Summoning is difficult. Or maybe I used too little INT?	</perfor_3>
-		<perfor_s>	Ugh... Did I eat too much? I feel like throwing up.	</perfor_s>
-	</so_full>			
-</TIKBALANG>
 
 
 
@@ -4386,12 +5094,12 @@
 			<hunting>	Share your kills! Its only polite.	</hunting>
 			<hunting>	Poor unfortunate souls	</hunting>
 			<danger>	What was that?!	</danger>
-			<danger>	Oops What‘s happening? I am falling unconscious	</danger>
-			<dead>	Don‘t worry. No matter how hungry I am, I am not going to eat you.	</dead>
-			<dead>	Let‘s go back together to my hometown	</dead>
+			<danger>	Oops What's happening? I am falling unconscious	</danger>
+			<dead>	Don't worry. No matter how hungry I am, I am not going to eat you.	</dead>
+			<dead>	Let's go back together to my hometown	</dead>
 			<stand>	No that guy started moving around	</stand>
-			<stand>	It‘s so painful	</stand>
-			<stand>	Can‘t you hear the screaming?	</stand>
+			<stand>	It's so painful	</stand>
+			<stand>	Can't you hear the screaming?	</stand>
 			<connect>	I was thinking that becoming a demon was not such a bad idea.	</connect>
 			<connect>	Again The time for darkness returns.	</connect>
 			<levelup>	Haha	</levelup>
@@ -4401,7 +5109,7 @@
 			<perfor_2>	Being alive means continuous agony.	</perfor_2>
 			<perfor_2>	The greed only destructs yourself	</perfor_2>
 			<perfor_3>	Can you feel my power?.....	</perfor_3>
-			<perfor_3>	Haha It‘s been a long time since my blood boiled like this</perfor_3>
+			<perfor_3>	Haha It's been a long time since my blood boiled like this</perfor_3>
 			<perfor_s>	Oh I feel dizzy What a new sensation.	</perfor_s>
 			<perfor_s>	Chaos!!!! The chaos is coming!!!!!	</perfor_s>
 		</hungry>			
@@ -4413,21 +5121,21 @@
 			<hunting>	How boring	</hunting>
 			<danger>	I can  only go this far	</danger>
 			<danger>	I am not hunting. I am being hunted	</danger>
-			<dead>	Don‘t worry. No matter how hungry I am, I am not going to eat you.	</dead>
-			<dead>	Let‘s go back together to my hometown	</dead>
+			<dead>	Don't worry. No matter how hungry I am, I am not going to eat you.	</dead>
+			<dead>	Let's go back together to my hometown	</dead>
 			<stand>	This feeling of hunger is a proof that I am alive.	</stand>
-			<stand>	Can‘t you hear the screaming?	</stand>
+			<stand>	Can't you hear the screaming?	</stand>
 			<stand>	How boring	</stand>
 			<connect>	Again The time for darkness returns.	</connect>
 			<connect>	It was a short rest	</connect>
 			<levelup>	If you want to survive get stronger	</levelup>
-			<levelup>	You‘re not strong enough.	</levelup>
+			<levelup>	You're not strong enough.	</levelup>
 			<perfor_1>	You seem disengaged Well Enjoy while you can.	</perfor_1>
 			<perfor_1>	Heh	</perfor_1>
 			<perfor_2>	Being alive means continuous agony.	</perfor_2>
 			<perfor_2>	The greed only destructs yourself	</perfor_2>
 			<perfor_3>	Can you feel my power?.....	</perfor_3>
-			<perfor_3>	Haha It‘s been a long time since my blood boiled like this	</perfor_3>
+			<perfor_3>	Haha It's been a long time since my blood boiled like this	</perfor_3>
 			<perfor_s>	Oh I feel dizzy What a new sensation.	</perfor_s>
 			<perfor_s>	Chaos!!!! The chaos is coming!!!!!	</perfor_s>
 		</bit_hungry>			
@@ -4435,34 +5143,34 @@
 		<noting>			
 			<feeding>	At that time I thought nothing was worse than hunger </feeding>
 			<feeding>	Heh It was a meaningless memory	</feeding>
-			<hunting>	Great! Destroy it!!!! That‘s what you actually are!!!	</hunting>
+			<hunting>	Great! Destroy it!!!! That's what you actually are!!!	</hunting>
 			<hunting>	Hahahahahahahaha!!!! Hahahahahahahahaha!!!!	</hunting>
 			<danger>	The fury makes your sword blunt	</danger>
 			<danger>	I can  only go this far	</danger>
 			<dead>	Do you feel it? This is the sorrow and fury of those who have been killed by you.	</dead>
 			<dead>	Do not be afraid of the darkness	</dead>
 			<stand>	How boring	</stand>
-			<stand>	It‘s been a long time since my last rest.	</stand>
+			<stand>	It's been a long time since my last rest.	</stand>
 			<stand>	Well If you want it so badly, I will give you an opportunity to serve me.	</stand>
 			<connect>	Again The time for darkness returns.	</connect>
 			<connect>	The festival of blood begins	</connect>
 			<levelup>	Good. Struggle more and more	</levelup>
-			<levelup>	You‘re not strong enough.	</levelup>
+			<levelup>	You're not strong enough.	</levelup>
 			<perfor_1>	You seem disengaged Well Enjoy while you can.	</perfor_1>
 			<perfor_1>	Heh	</perfor_1>
 			<perfor_2>	Being alive means continuous agony.	</perfor_2>
 			<perfor_2>	The greed only destructs yourself	</perfor_2>
 			<perfor_3>	Can you feel my power?.....	</perfor_3>
-			<perfor_3>	Haha It‘s been a long time since my blood boiled like this	</perfor_3>
+			<perfor_3>	Haha It's been a long time since my blood boiled like this	</perfor_3>
 			<perfor_s>	Oh I feel dizzy What a new sensation.	</perfor_s>
 			<perfor_s>	Chaos!!!! The chaos is coming!!!!!	</perfor_s>
 		</noting>			
 					
 		<full>			
-			<feeding>	You‘d better stop it. You silly human	</feeding>
+			<feeding>	You'd better stop it. You silly human	</feeding>
 			<feeding>	Oh	</feeding>
-			<hunting>	Looks like I don‘t have to be involved.	</hunting>
-			<hunting>	Great! Destroy it!!!! That‘s what you actually are!!!	</hunting>
+			<hunting>	Looks like I don't have to be involved.	</hunting>
+			<hunting>	Great! Destroy it!!!! That's what you actually are!!!	</hunting>
 			<danger>	The fury makes your sword blunt	</danger>
 			<danger>	You will  collapse by the greed	</danger>
 			<dead>	Hahahahahaha! The  gate of hell is opening!	</dead>
@@ -4479,18 +5187,18 @@
 			<perfor_2>	Being alive means continuous agony.	</perfor_2>
 			<perfor_2>	The greed only destructs yourself	</perfor_2>
 			<perfor_3>	Can you feel my power?.....	</perfor_3>
-			<perfor_3>	Haha It‘s been a long time since my blood boiled like this	</perfor_3>
+			<perfor_3>	Haha It's been a long time since my blood boiled like this	</perfor_3>
 			<perfor_s>	Oh I feel dizzy What a new sensation.	</perfor_s>
 			<perfor_s>	Chaos!!!! The chaos is coming!!!!!	</perfor_s>
 		</full>			
 					
 		<so_full>			
-			<feeding>	You‘d better stop it. You silly human	</feeding>
+			<feeding>	You'd better stop it. You silly human	</feeding>
 			<feeding>	Are you trying to torture me this way? What a coward	</feeding>
-			<hunting>	Looks like I don‘t have to be involved.	</hunting>
-			<hunting>	That‘s noisy	</hunting>
+			<hunting>	Looks like I don't have to be involved.	</hunting>
+			<hunting>	That's noisy	</hunting>
 			<danger>	Can you see the sign of death?.....	</danger>
-			<danger>	This is from someone who‘s destined for death.	</danger>
+			<danger>	This is from someone who's destined for death.	</danger>
 			<dead>	Hahahahahaha! The  gate of hell is opening!	</dead>
 			<dead>	Do you feel it? This is the sorrow and fury of those who have been killed by you.	</dead>
 			<stand>	What a threatening wind	</stand>
@@ -4505,146 +5213,2249 @@
 			<perfor_2>	Being alive means continuous agony.	</perfor_2>
 			<perfor_2>	The greed only destructs yourself	</perfor_2>
 			<perfor_3>	Can you feel my power?.....	</perfor_3>
-			<perfor_3>	Haha It‘s been a long time since my blood boiled like	</perfor_3>
+			<perfor_3>	Haha It's been a long time since my blood boiled like	</perfor_3>
 			<perfor_s>	Oh I feel dizzy What a new sensation.	</perfor_s>
 			<perfor_s>	Chaos!!!! The chaos is coming!!!!!	</perfor_s>
 		</so_full>			
 					
 	</scatleton>						
-
-		<skelion>				
+	<skelion>				
+					
 		<hungry>			
-			<feeding>	ke?.... The monster within myself opened eyes....	</feeding>
-			<feeding>	Beelzebub......	</feeding>
-			<hunting>	Devour the hunted ones. Its the last sympathy for the deads.	</hunting>
-			<hunting>	Pityful souls.....	</hunting>
-			<danger>	Its not hunting but being hunted.....	</danger>
-			<danger>	keah.... Consciousness is being blurred....	</danger>
-			<dead>	Don't worry. I won't eat you although starved.	</dead>
-			<dead>	Let's go back... to my... home together....	</dead>
-			<stand>	Ke ah... It is starting to rattle....	</stand>
-			<stand>	So painful...	</stand>
-			<stand>	Can't you hear it? The screaming...	</stand>
-			<connect>	I thought its better to be remained as a monkfish.	</connect>
-			<connect>	Again... the darkness will come.	</connect>
-			<levelup>	ke?....	</levelup>
-			<levelup>	If you want to survive...be strong...	</levelup>
-			<perfor_1>	You seems to be peaceful... okay...it won't last long.	</perfor_1>
-			<perfor_1>	ah...	</perfor_1>
-			<perfor_2>	Breathing is like endless agony	</perfor_2>
-			<perfor_2>	Greed destroy itself...	</perfor_2>
-			<perfor_3>	Do you feel the power within myself...	</perfor_3>
-			<perfor_3>	ke?... It has been a long time since my blood got boiled...	</perfor_3>
-			<perfor_s>	?...I am so dazzled... it is new sensation.	</perfor_s>
-			<perfor_s>	Chaos!!!! Chaos is coming!!!!!	</perfor_s>
+			<feeding>	Delicious...	</feeding>
+			<feeding>	Chomp Chomp...	</feeding>
+			<hunting>	I need to hunt in order to eat...	</hunting>
+			<hunting>	The prey won't stand a chance...	</hunting>
+			<danger>	Will I be the hunted instead of the hunter???	</danger>
+			<danger>	Is there a graveyard around here?...	</danger>
+			<dead>	Don't worry, no matter how hungry I get, I won't eat you.	</dead>
+			<dead>	Together...lets go...home...	</dead>
+			<stand>	I'm in pain...	</stand>
+			<stand>	Ouch...	</stand>
+			<stand>	Do you not hear...the screams?	</stand>
+			<connect>	Took a short break...	</connect>
+			<connect>	Again, the time of darkness is back.	</connect>
+			<levelup>	Eh?...	</levelup>
+			<levelup>	If you want to survive, be strong...	</levelup>
+			<perfor_1>	That one looks OK...You need to indulge yourself.	</perfor_1>
+			<perfor_1>	Heh...	</perfor_1>
+			<perfor_2>	Being alive is the continuation of suffering.	</perfor_2>
+			<perfor_2>	Greed destroys itself......	</perfor_2>
+			<perfor_3>	I'm very powerful...	</perfor_3>
+			<perfor_3>	...It's been a long time...	</perfor_3>
+			<perfor_s>	This is a new feeling.	</perfor_s>
+			<perfor_s>	Chaos!!! Chaos is approaching!!!	</perfor_s>
 		</hungry>			
 					
 		<bit_hungry>			
-			<feeding>	This cannot relieve me from the my emptiness....	</feeding>
-			<feeding>	You fool...	</feeding>
-			<hunting>	Is that all you've got?	</hunting>
-			<hunting>	Its so tedious...	</hunting>
-			<danger>	Maybe this is it...	</danger>
-			<danger>	Its not hunting but being hunted...	</danger>
-			<dead>	Don't worry/ I won't eat you although starved.	</dead>
-			<dead>	Let's gp back... to my... home together...	</dead>
-			<stand>	This emptiness is indication of living.	</stand>
-			<stand>	Can you hear it? The screaming...	</stand>
-			<stand>	So bored...	</stand>
-			<connect>	Again...the darkness will come.	</connect>
-			<connect>	It was a short sleep...	</connect>
-			<levelup>	If you want to survive...be strong...	</levelup>
-			<levelup>	I need more.	</levelup>
-			<perfor_1>	You seems to be peaceful...okay... it won't last long.	</perfor_1>
-			<perfor_1>	ah...	</perfor_1>
-			<perfor_2>	Breathing is like endless agony.	</perfor_2>
-			<perfor_2>	Greed destroy itself...	</perfor_2>
-			<perfor_3>	Do you feel the power within myself...	</perfor_3>
-			<perfor_3>	ke?... It has been a long time since my blood got boiled...	</perfor_3>
-			<perfor_s>	?... I am so dazzled... it is new sensation	</perfor_s>
-			<perfor_s>	Chaos!!!! Chaos is coming!!!!!	</perfor_s>
+			<feeding>	Nothing matters...I'm dead...	</feeding>
+			<feeding>	Stupid Normans...	</feeding>
+			<hunting>	Is this the best you can do?	</hunting>
+			<hunting>	I'm bored...	</hunting>
+			<danger>	Meh...	</danger>
+			<danger>	Hunting, or not hunting...	</danger>
+			<dead>	Don't worry, no matter how hungry I get, I won't eat you.	</dead>
+			<dead>	Together...lets go...home...	</dead>
+			<stand>	Stayin' alive? Stayin' alive?.	</stand>
+			<stand>	Do you not hear...the screams?	</stand>
+			<stand>	I'm bored...	</stand>
+			<connect>	Again, the time of darkness is back.	</connect>
+			<connect>	Took a short break...	</connect>
+			<levelup>	If you want to survive, be strong...	</levelup>
+			<levelup>	Still lacking.	</levelup>
+			<perfor_1>	That one looks OK...You need to indulge yourself.	</perfor_1>
+			<perfor_1>	Heh...	</perfor_1>
+			<perfor_2>	Being alive is the continuation of suffering.	</perfor_2>
+			<perfor_2>	Greed destroys itself......	</perfor_2>
+			<perfor_3>	I'm very powerful...	</perfor_3>
+			<perfor_3>	...It's been a long time...	</perfor_3>
+			<perfor_s>	This is a new feeling.	</perfor_s>
+			<perfor_s>	Chaos!!! Chaos is approaching!!!	</perfor_s>
 		</bit_hungry>			
 					
 		<noting>			
-			<feeding>	Back then... I was most afraid of starving... sad memory...	</feeding>
-			<feeding>	ah... meaningless memory...	</feeding>
-			<hunting>	Yes! destroy!!!! Reveal your ego!!!	</hunting>
-			<hunting>	ahahahahahahahahah!!!! kahahahahahahah!!!!!!	</hunting>
-			<danger>	Rage blunts edge of the sword...	</danger>
-			<danger>	This maybe the end...	</danger>
-			<dead>	Do you feel it? This is the sorrow and rage of the victims.	</dead>
-			<dead>	Do not fear the darkness...	</dead>
-			<stand>	So bored...	</stand>
-			<stand>	Finally... a break.	</stand>
-			<stand>	Okay... If you are devoted to serve me, I will give the chance.	</stand>
-			<connect>	Again... the darkness will come.	</connect>
-			<connect>	Feast of blood starts...	</connect>
-			<levelup>	Okay keep struggling...	</levelup>
-			<levelup>	I need more.	</levelup>
-			<perfor_1>	You seems to be peaceful...okay...it won't last long.	</perfor_1>
-			<perfor_1>	ha...	</perfor_1>
-			<perfor_2>	Breathing is like endless agony.	</perfor_2>
-			<perfor_2>	Greed destroy itself...	</perfor_2>
-			<perfor_3>	Do you feel the power within myself...	</perfor_3>
-			<perfor_3>	ha?... It has been a long time since my blood got boiled...	</perfor_3>
-			<perfor_s>	?...I am so dazzled...it is new sensation.	</perfor_s>
-			<perfor_s>	Chaos!!!! Chaos is coming!!!!!	</perfor_s>
+			<feeding>	Those days...I thought there was no fear and hunger...sad memories...	</feeding>
+			<feeding>	Heh...a futile memory comes to mind...	</feeding>
+			<hunting>	Danger! Danger!	</hunting>
+			<hunting>	That's it! Hahahahaha!!!	</hunting>
+			<danger>	Fury never let the sword end...	</danger>
+			<danger>	Here...	</danger>
+			<dead>	The sorrow and anger...do you feel it?	</dead>
+			<dead>	Don't be afraid of the dark...	</dead>
+			<stand>	I'm bored...	</stand>
+			<stand>	Resting...	</stand>
+			<stand>	Ok, I will give you a chance.	</stand>
+			<connect>	Again...the time of darkness is back.	</connect>
+			<connect>	The bloody feast begins...	</connect>
+			<levelup>	占쌓뤄옙 '' ' 占쌩뱄옙' 占식라…∽옙	</levelup>
+			<levelup>	'' ''占싹댐옙.	</levelup>
+			<perfor_1>	That one looks OK...You need to indulge yourself.	</perfor_1>
+			<perfor_1>	Heh...	</perfor_1>
+			<perfor_2>	Being alive is the continuation of suffering.	</perfor_2>
+			<perfor_2>	Greed destroys itself......	</perfor_2>
+			<perfor_3>	I'm very powerful...	</perfor_3>
+			<perfor_3>	...It's been a long time...	</perfor_3>
+			<perfor_s>	This is a new feeling.	</perfor_s>
+			<perfor_s>	Chaos!!! Chaos is approaching!!!	</perfor_s>
 		</noting>			
 					
 		<full>			
-			<feeding>	Freeze at once fool...	</feeding>
-			<feeding>	ahh...	</feeding>
-			<hunting>	It seems I don't have to make any action.	</hunting>
-			<hunting>	Yes! destroy!!!! Reveal your ego!!!	</hunting>
-			<danger>	Rage blunts edge of the sword...	</danger>
-			<danger>	Ambition will destroy you...	</danger>
-			<dead>	ahahahahahahahahahahah! Hell's gate is opening!	</dead>
-			<dead>	Do you feel it? This is the sorrow and rage of the victims.	</dead>
-			<stand>	How long will you hesitate!	</stand>
-			<stand>	Wind of tragedy is blowing...	</stand>
-			<stand>	Ok... If you are devoted to serve me, I will give the chance.	</stand>
-			<connect>	Feast of blood starts...	</connect>
-			<connect>	Again...the darkness will come.	</connect>
-			<levelup>	Okay keep struggling...	</levelup>
-			<levelup>	Maybe...you've been evolved a bit?	</levelup>
-			<perfor_1>	You seems to be peaceful...okay...it won't last long.	</perfor_1>
-			<perfor_1>	ah...	</perfor_1>
-			<perfor_2>	Breathing is like endless agony.	</perfor_2>
-			<perfor_2>	Greed destroy itself...	</perfor_2>
-			<perfor_3>	Do you feel the power within myself...	</perfor_3>
-			<perfor_3>	ha?... It has been a long time since my blood got boiled...	</perfor_3>
-			<perfor_s>	?... I am so dazzled...it is new sensation.	</perfor_s>
-			<perfor_s>	Chaos!!!! Chaos is coming!!!!!	</perfor_s>
+			<feeding>	All this food is making me sleepy...	</feeding>
+			<feeding>	Ugh...	</feeding>
+			<hunting>	My body has left me.	</hunting>
+			<hunting>	Danger! Danger!	</hunting>
+			<danger>	Fury never let the sword end...	</danger>
+			<danger>	The desire to break down...	</danger>
+			<dead>	Back down to Hel, the door is open!	</dead>
+			<dead>	The sorrow and anger...do you feel it?	</dead>
+			<stand>	How long is it going to stay?	</stand>
+			<stand>	Ominous winds blowing...	</stand>
+			<stand>	Ok, I will give you a chance.	</stand>
+			<connect>	The bloody feast begins...	</connect>
+			<connect>	Again, the time of darkness is back.	</connect>
+			<levelup>	Yes, even more.	</levelup>
+			<levelup>	Growing up a little?	</levelup>
+			<perfor_1>	That one looks OK...You need to indulge yourself.	</perfor_1>
+			<perfor_1>	Heh...	</perfor_1>
+			<perfor_2>	Being alive is the continuation of suffering.	</perfor_2>
+			<perfor_2>	Greed destroys itself......	</perfor_2>
+			<perfor_3>	I'm very powerful...	</perfor_3>
+			<perfor_3>	...It's been a long time...	</perfor_3>
+			<perfor_s>	This is a new feeling.	</perfor_s>
+			<perfor_s>	Chaos!!! Chaos is approaching!!!	</perfor_s>
 		</full>			
 					
 		<so_full>			
-			<feeding>	Freeze at once fool...	</feeding>
-			<feeding>	Are you trying to torture me like this...you coward...	</feeding>
-			<hunting>	It seems I don't have to make any action.	</hunting>
-			<hunting>	Its so noisy out there...	</hunting>
-			<danger>	Do you see the deadly hand...	</danger>
-			<danger>	For who prepared for the end 	</danger>
-			<dead>	ahahahahhahahahahahaha! Hell's gate is opening!	</dead>
-			<dead>	Do you feel it? This is the sorrow and rage of the victims.	</dead>
-			<stand>	Wind of tragedy is blowing...	</stand>
-			<stand>	Confront me anytime you fool...	</stand>
-			<stand>	Already exhausted?	</stand>
-			<connect>	Feast of blood starts...	</connect>
-			<connect>	Again...the darkness will come.	</connect>
-			<levelup>	Okay keep struggling...	</levelup>
-			<levelup>	Maybe...you've been evolved a bit?	</levelup>
-			<perfor_1>	You seems to be peaceful...okay...it won't last long.	</perfor_1>
-			<perfor_1>	ah...	</perfor_1>
-			<perfor_2>	Breathing is like endless agony.	</perfor_2>
-			<perfor_2>	Greed destroy itself...	</perfor_2>
-			<perfor_3>	Do you feel the power within myself...	</perfor_3>
-			<perfor_3>	ha?... It has been a long time since my blood got boiled...	</perfor_3>
-			<perfor_s>	?...I am so dazzled...it is new sensation.	</perfor_s>
-			<perfor_s>	Chaos!!!! Chaos is coming!!!!!	</perfor_s>
+			<feeding>	All this food is making me sleepy...	</feeding>
+			<feeding>	Trying to torture me in this way...	</feeding>
+			<hunting>	My body has left me.	</hunting>
+			<hunting>	It's noisy...	</hunting>
+			<danger>	Looks like death...	</danger>
+			<danger>	This is the end.	</danger>
+			<dead>	Back down to Hel, the door is open!	</dead>
+			<dead>	The sorrow and anger...do you feel it?	</dead>
+			<stand>	Ominous winds blowing...	</stand>
+			<stand>	Do you ever beg to be an opponent...	</stand>
+			<stand>	Tired of it already?	</stand>
+			<connect>	The bloody feast begins...	</connect>
+			<connect>	Again, the time of darkness is back.	</connect>
+			<levelup>	Growing up a little?	</levelup>
+			<levelup>	Yes, even more.	</levelup>
+			<perfor_1>	That one looks OK...You need to indulge yourself.	</perfor_1>
+			<perfor_1>	Heh...	</perfor_1>
+			<perfor_2>	Being alive is the continuation of suffering.	</perfor_2>
+			<perfor_2>	Greed destroys itself......	</perfor_2>
+			<perfor_3>	I'm very powerful...	</perfor_3>
+			<perfor_3>	...It's been a long time...	</perfor_3>
+			<perfor_s>	This is a new feeling.	</perfor_s>
+			<perfor_s>	Chaos!!! Chaos is approaching!!!	</perfor_s>
 		</so_full>			
-	</skelion>	
+					
+	</skelion>
+
+	<sweets_drops>				
+					
+		<hungry>			
+			<feeding>	Candy is always welcome! \(O o O)/ </feeding>
+			<dead>	Will some candy pick you up? (Q.Q)'	</dead>
+			<stand>	Can we sing a song? _(o.O)7	</stand>
+			<levelup>	You look stronger! Maybe we should celebrate... with candy!	</levelup>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	Candy is always welcome! \(O o O)/	</feeding>
+			<dead>	Will some candy pick you up? (Q.Q)'	</dead>
+			<stand>	Can we sing a song? _(o.O)7	</stand>
+			<levelup>	You look stronger! Maybe we should celebrate... with candy!	</levelup>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	Candy is always welcome! \(O o O)/	</feeding>
+			<dead>	Will some candy pick you up? (Q.Q)'	</dead>
+			<stand>	Can we sing a song? _(o.O)7	</stand>
+			<stand>	Sweet Crepes are yum yum yum in my tum tum tum!	</stand>
+			<stand>	Should I dip my doughnut in the coffe or just eat it? </stand>
+			<levelup>	You look stronger! Maybe we should celebrate... with candy!	</levelup>
+		</noting>			
+					
+		<full>			
+			<feeding>	I don't feel so good maybe we should let it digest first...	</feeding>
+			<dead>	Will some candy pick you up? (Q.Q)'	</dead>
+			<stand>	Can we sing a song? _(o.O)7	</stand>
+			<stand>	Sweet Crepes are yum yum yum in my tum tum tum!	</stand>
+			<stand>	Should I dip my doughnut in the coffe or just eat it? </stand>
+			<stand>	We have to exercise extra hard to eat more delicious sweets!	</stand>
+			<levelup>	You look stronger! Maybe we should celebrate... with candy!	</levelup>
+		</full>			
+					
+		<so_full>			
+			<feeding>	I don't feel so good maybe we should let it digest first...	</feeding>
+			<dead>	Will some candy pick you up? (Q.Q)'	</dead>
+			<stand>	Can we sing a song? _(o.O)7	</stand>
+			<stand>	Sweet Crepes are yum yum yum in my tum tum tum!	</stand>
+			<stand>	Should I dip my doughnut in the coffe or just eat it? </stand>
+			<stand>	We have to exercise extra hard to eat more delicious sweets!	</stand>
+			<levelup>	You look stronger! Maybe we should celebrate... with candy!	</levelup>
+		</so_full>			
+					
+	</sweets_drops>			
+	<bacsojin2>
+
+		<hungry>
+			<feeding>	It is a pretty decent meal.	</feeding>
+			<dead>	How pathetic..	</dead>
+			<stand>	You truly don't see me?	</stand>
+			<levelup>	Congratulations.	</levelup>
+			<perfor_1>	You call me a specter? How cruel of you to say such a thing...	</perfor_1>
+			<perfor_1>	Sob sob...	</perfor_1>
+			<perfor_2>	Hehe... Do I still look like a fairy to you?	</perfor_2>
+			<perfor_2>	Yes! I am a white snake! Hahaha	</perfor_2>
+			<perfor_3>	Yawn... I'm a bit tired.	</perfor_3>		
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	It is a pretty decent meal.	</feeding>
+			<dead>	How pathetic..	</dead>
+			<stand>	You truly don't see me?	</stand>
+			<levelup>	Congratulations.	</levelup>
+			<perfor_1>	You call me a specter? How cruel of you to say such a thing...	</perfor_1>
+			<perfor_1>	Sob sob...	</perfor_1>
+			<perfor_2>	Hehe... Do I still look like a fairy to you?	</perfor_2>
+			<perfor_2>	Yes! I am a white snake! Hahaha	</perfor_2>
+			<perfor_3>	Yawn... I'm a bit tired.	</perfor_3>		
+		</bit_hungry>
+
+		<noting>
+			<feeding>	It is a pretty decent meal.	</feeding>
+			<dead>	How pathetic...	</dead>
+			<stand> I'm just... For you...	</stand>
+			<stand>	Under a willow...	</stand>
+			<stand>	Letting my heart open only by a rare chance...	</stand>
+			<levelup>	Congratulations.	</levelup>
+			<perfor_1>	You call me a specter? How cruel of you to say such a thing...	</perfor_1>
+			<perfor_1>	Sob sob...	</perfor_1>
+			<perfor_2>	Hehe... Do I still look like a fairy to you?	</perfor_2>
+			<perfor_2>	Yes! I am a white snake! Hahaha	</perfor_2>
+			<perfor_3>	Yawn... I'm a bit tired.	</perfor_3>		
+		</noting>
+
+		<full>
+			<feeding>	It is a pretty decent meal.	</feeding>
+			<dead>	How pathetic..	</dead>
+			<stand> I'm just... For you...	</stand>
+			<stand>	Under a willow...	</stand>
+			<stand>	Letting my heart open only by a rare chance...	</stand>
+			<stand>	If I didn't meet you...	</stand>
+			<levelup>	Congratulations.	</levelup>
+			<perfor_1>	You call me a specter? How cruel of you to say such a thing...	</perfor_1>
+			<perfor_1>	Sob sob...	</perfor_1>
+			<perfor_2>	Hehe... Do I still look like a fairy to you?	</perfor_2>
+			<perfor_2>	Yes! I am a white snake! Hehehe	</perfor_2>
+			<perfor_3>	Yawn... I'm a bit tired.	</perfor_3>		
+		</full>
+
+		<so_full>
+			<feeding>	It is a pretty decent meal.	</feeding>
+			<dead>	How pathetic..	</dead>
+			<stand> I'm just... For you...	</stand>
+			<stand>	Under a willow...	</stand>
+			<stand>	Letting my heart open only by a rare chance...	</stand>
+			<stand>	If I didn't meet you...	</stand>
+			<levelup>	Congratulations.	</levelup>
+			<perfor_1>	You call me a specter? How cruel of you to say such a thing...	</perfor_1>
+			<perfor_1>	Sob sob...	</perfor_1>
+			<perfor_2>	Hehe... Do I still look like a fairy to you?	</perfor_2>
+			<perfor_2>	Yes! I am a white snake! Hahaha	</perfor_2>
+			<perfor_3>	Yawn... I'm a bit tired.	</perfor_3>		
+		</so_full>
+
+	</bacsojin2>		 
+	<child_admin_b>
+
+		<hungry>
+			<feeding>	Refueling...	</feeding>
+			<dead>	You are still a tough person to raise me ('_')</dead>
+			<connect>	Hello. Welcome 	</connect>
+			<stand>	I'm hungry... 	</stand>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running!	</perfor_2>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Refueling...	...	 </feeding>
+			<dead>	You are still a tough person to raise me ('_')</dead>
+			<connect>	Hello. Welcome 	</connect>
+			<stand>	I'm hungry...	</stand>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Refueling...	 </feeding>
+			<dead>	You are still a tough person to raise me ('_')</dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ...	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful 	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</noting>
+
+		<full>
+			<feeding>It's already full of fuel..	</feeding>
+			<dead>	You are still a tough person to raise me ('_')</dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ..	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful 	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</full>
+
+		<so_full>
+			<feeding>	It's already full of fuel..	</feeding>
+			<dead>	You are still a tough person to raise me 	</dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ...	</stand>
+			<stand>	Receiving signal.. Connect..	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful 	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</so_full>
+
+	</child_admin_b>
 	
+	<child_admin_a>
+
+		<hungry>
+			<feeding>	Refueling...	 </feeding>
+			<dead>	You are still a tough person to raise me </dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	I'm hungry... 	</stand>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Refueling...	 </feeding>
+			<dead>	You are still a tough person to raise me </dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	I'm hungry... 	</stand>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Refueling...	 </feeding>
+			<dead>	You are still a tough person to raise me </dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ...	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful 	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</noting>
+
+		<full>
+			<feeding>It's already full of fuel..	</feeding>
+			<dead>	You are still a tough person to raise me </dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ...	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</full>
+
+		<so_full>
+			<feeding>	It's already full of fuel..	</feeding>
+			<dead>	You are still a tough person to raise me 	</dead>
+			<connect>	Hello. Welcome	</connect>
+			<stand>	Where are you going?	</stand>
+			<stand>	Play with me ...	</stand>
+			<stand>	Receiving signal.. Connect..	</stand>
+			<hunting>	Cheer up!	</hunting>
+			<danger> Uh uh uh... be careful 	</danger>
+			<levelup>	I want to be an adult too. 	</levelup>
+			<perfor_1>	What can I do for you?	</perfor_1>
+			<perfor_1>	Loading....	</perfor_1>
+			<perfor_2>	Where should I guide you? 	</perfor_2>
+			<perfor_2>	System running !	</perfor_2>
+		</so_full>
+
+	</child_admin_a>
+	<phreeoni>				
+					
+		<hungry>			
+			<feeding>	Hmm..delicious..	</feeding>
+			<dead>	B..Bye..	</dead>
+			<stand>	Ugh..My back hurts!	</stand>
+			<levelup>	You look stronger..	</levelup>
+			<perfor_1>	Wow wow wow!!	</perfor_1>
+			<perfor_1>	Weee hahaha!	</perfor_1>
+			<perfor_2>	Jump!	</perfor_2>
+			<perfor_2>	To the Sky!!	</perfor_2>
+		</hungry>			
+					
+		<bit_hungry>			
+			<feeding>	Ahh..T..h..x	</feeding>
+			<dead>	B..Bye..	</dead>
+			<stand>	Huh?	</stand>
+			<levelup>	You look more buff.	</levelup>
+			<perfor_1>	Look at me!	</perfor_1>
+			<perfor_1>	Hahahaha ~	</perfor_1>
+			<perfor_2>	Roar!	</perfor_2>
+			<perfor_2>	I can reach the sky!	</perfor_2>
+		</bit_hungry>			
+					
+		<noting>			
+			<feeding>	Ahh..T..h..x	</feeding>
+			<dead>	B..Bye..	</dead>
+			<stand>	Huh?	</stand>
+			<stand>	I miss sand..	</stand>
+			<stand>	I miss my Hode..	</stand>
+			<levelup>	Way to go Boss!!	</levelup>
+			<perfor_1>	Wahu ~~	</perfor_1>
+			<perfor_1>	Look at me ~	</perfor_1>
+			<perfor_2>	Growl!	</perfor_2>
+			<perfor_2>	Sky..Sky!	</perfor_2>
+		</noting>			
+					
+		<full>			
+			<feeding>	Im FULL, no more!	</feeding>
+			<dead>	B..Bye..	</dead>
+			<stand>	Ah the sun so Hot!	</stand>
+			<stand>	Hey master..	</stand>
+			<stand>	*Clap *Clap kyaa ~	</stand>
+			<stand>	Hmm!!! What does this taste like?!	</stand>
+			<levelup>	You look strong Master!!	</levelup>
+			<perfor_1>	Woahh ~	</perfor_1>
+			<perfor_1>	Yahuu ~	</perfor_1>
+			<perfor_2>	Woahh!!	</perfor_2>
+			<perfor_2>	Sky !!</perfor_2>
+		</full>			
+					
+		<so_full>			
+			<feeding>	I am FULL, no more eating!	</feeding>
+			<dead>	B..Bye..	</dead>
+			<stand>	Want to go to Morroc?	</stand>
+			<stand>	Hello Master..	</stand>
+			<stand>	The sun so bright today ~	</stand>
+			<stand>	Hmm!!! What does this taste like?!	</stand>
+			<levelup>	Be a little more cheeky!!	</levelup>
+			<perfor_1>	Look at me!	</perfor_1>
+			<perfor_1>	I'm so strong you know ~	</perfor_1>
+			<perfor_2>	Groooaahh!	</perfor_2>
+			<perfor_2>	Up to the Sky ~	</perfor_2>
+		</so_full>			
+					
+	</phreeoni>	
+	<DARK_PRIEST>				
+		<hungry>			
+			<feeding>	The darkness rises! Dark Lord will be pleased too.	</feeding>
+			<dead>	You got closer to Dark Lord...	</dead>
+			<stand>	Dark Lord will be pleased...	</stand>
+			<stand>	I will offer the power of eternal darkness to Lord.	</stand>
+			<stand>	A sacrifice is needed to bring about true death...	</stand>
+			<stand>	Dark Lord says he needs a sacrifice...	</stand>
+			<levelup>	How about offering a thanks to Dark Lord?	</levelup>
+		</hungry>			
+		<bit_hungry>			
+			<feeding>	Praise the Dark Lord!	</feeding>
+			<dead>	You got closer to Dark Lord...	</dead>
+			<stand>	Dark Lord will be pleased...	</stand>
+			<stand>	Psst.. Got time to talk about Darkness?	</stand>
+			<stand>	The sun so bright! Hate it!	</stand>
+			<stand>	Dark Lord says he needs a sacrifice...	</stand>
+			<levelup>	How about offering a thanks to Dark Lord?	</levelup>
+		</bit_hungry>			
+		<noting>			
+			<feeding>	A snack? Thank you	</feeding>
+			<dead>	You have entered the real world from a place of lies.	</dead>
+			<stand>	Obey Dark Lord. And i will Obey you, human.	</stand>
+			<stand>	The time of eternal darkness, ruled by the Lord, will come...	</stand>
+			<stand>	Only in the darkness will we find true eternal life...	</stand>
+			<stand>	Rejoice and worship! For the Dark Lord!	</stand>
+			<levelup>	heh... Thank you Lord...	</levelup>
+		</noting>			
+		<full>			
+			<feeding>	Rejoice. Lord will be pleased...	</feeding>
+			<dead>	You have entered the real world from a place of lies.	</dead>
+			<stand>	Obey Dark Lord. And i will Obey you, human.	</stand>
+			<stand>	The time of eternal darkness, ruled by the Dark Lord, will come...</stand>
+			<stand>	Only in the darkness will we find true eternal life...	</stand>
+			<stand>	Rejoice and worship! for the Dark lord!	</stand>
+			<levelup>	heh... Thank you Lord...	</levelup>
+		</full>			
+		<so_full>			
+			<feeding>	This is not the time for ceremonies... wait...	</feeding>
+			<dead>	You have entered the real world from a place of lies.	</dead>
+			<stand>	Obey Dark Lord. And i will Obey you, human.	</stand>
+			<stand>	The time of eternal darkness, ruled by the Dark Lord, will come...	</stand>
+			<stand>	Only in the darkness will we find true eternal life...	</stand>
+			<stand>	Rejoice and worship! for the lord!	</stand>
+			<levelup>	heh... Thank you Dark Lord...	</levelup>
+		</so_full>			
+	</DARK_PRIEST>
+	<ALIOT>
+		<hungry>
+			<feeding> Need more engine oil? </feeding>
+			<feeding> There's no problem with the parts turning.</feeding>
+			<feeding> Thank you so much.. </feeding>
+			<hunting> Is there something wrong?  </hunting>
+			<hunting> This is so Fun! </hunting>
+			<danger> I think it's you who needs to fix it, not me?</danger>
+			<danger> Be careful not to loosen the screw..</danger>
+			<dead>  I need to repair you..</dead>
+			<dead> Hey wake up! your battery dead?</dead>
+			<dead> What a dissapointment.. </dead>
+			<stand> Could you tighten some screws here for a second? </stand>
+			<stand> Why does my arm keep making a creaking sound? </stand>
+			<stand> Do you want to play rock paper scissors with me? I can only use scissors!  </stand>
+			<connect> Welcome! why are you so late </connect>
+			<connect> Why are you here? I waited!  </connect>
+			<levelup> Hey can you upgrade my parts too? </levelup>
+			<levelup> Congratulations!! </levelup>
+		</hungry>
+		<bit_hungry>
+			<feeding> Need more engine oil? </feeding>
+			<feeding> There's no problem with the parts turning.</feeding>
+			<feeding> Thank you so much.. </feeding>
+			<hunting> Is there something wrong?  </hunting>
+			<hunting> This is so Fun! </hunting>
+			<danger> I think it's you who needs to fix it, not me?</danger>
+			<danger> Be careful not to loosen the screw..</danger>
+			<dead>  I need to repair you..</dead>
+			<dead> Hey wake up! your battery dead?</dead>
+			<dead> What a dissapointment.. </dead>
+			<stand> Could you tighten some screws here for a second? </stand>
+			<stand> Why does my arm keep making a creaking sound? </stand>
+			<stand> Do you want to play rock paper scissors with me? I can only use scissors!  </stand>
+			<connect> Welcome! why are you so late </connect>
+			<connect> Why are you here? I waited!  </connect>
+			<levelup> Hey can you upgrade my parts too? </levelup>
+			<levelup> Congratulations!! </levelup>
+		</bit_hungry>
+		<noting>
+			<feeding> Need more engine oil? </feeding>
+			<feeding> There's no problem with the parts turning.</feeding>
+			<feeding> Thank you so much.. </feeding>
+			<hunting> Is there something wrong?  </hunting>
+			<hunting> This is so Fun! </hunting>
+			<danger> I think it's you who needs to fix it, not me?</danger>
+			<danger> Be careful not to loosen the screw..</danger>
+			<dead>  I need to repair you..</dead>
+			<dead> Hey wake up! your battery dead?</dead>
+			<dead> What a dissapointment.. </dead>
+			<stand> Could you tighten some screws here for a second? </stand>
+			<stand> Why does my arm keep making a creaking sound? </stand>
+			<stand> Do you want to play rock paper scissors with me? I can only use scissors!  </stand>
+			<connect> Welcome! why are you so late </connect>
+			<connect> Why are you here? I waited!  </connect>
+			<levelup> Hey can you upgrade my parts too? </levelup>
+			<levelup> Congratulations!! </levelup>
+		</noting>
+		<full>
+			<feeding> Hey, you can stop! My fuel is full!</feeding>
+			<hunting> Is there something wrong?  </hunting>
+			<hunting> This is so Fun! </hunting>
+			<danger> I think it's you who needs to fix it, not me?</danger>
+			<danger> Be careful not to loosen the screw..</danger>
+			<dead>  I need to repair you..</dead>
+			<dead> Hey wake up! your battery dead?</dead>
+			<dead> What a dissapointment.. </dead>
+			<stand> Could you tighten some screws here for a second? </stand>
+			<stand> Why does my arm keep making a creaking sound? </stand>
+			<stand> Do you want to play rock paper scissors with me? I can only use scissors!  </stand>
+			<connect> Welcome! why are you so late </connect>
+			<connect> Why are you here? I waited!  </connect>
+			<levelup> Hey can you upgrade my parts too? </levelup>
+			<levelup> Congratulations!! </levelup>
+		</full>
+		<so_full>
+			<feeding> Hey, it looks like the engine oil is overflowing!</feeding>
+			<hunting> Is there something wrong?  </hunting>
+			<hunting> This is so Fun! </hunting>
+			<danger> I think it's you who needs to fix it, not me?</danger>
+			<danger> Be careful not to loosen the screw..</danger>
+			<dead>  I need to repair you..</dead>
+			<dead> Hey wake up! your battery dead?</dead>
+			<dead> What a dissapointment.. </dead>
+			<stand> Could you tighten some screws here for a second? </stand>
+			<stand> Why does my arm keep making a creaking sound? </stand>
+			<stand> Do you want to play rock paper scissors with me? I can only use scissors!  </stand>
+			<connect> Welcome! why are you so late </connect>
+			<connect> Why are you here? I waited!  </connect>
+			<levelup> Hey can you upgrade my parts too? </levelup>
+			<levelup> Congratulations!! </levelup>
+		</so_full>
+	</ALIOT>
 	
+	<VR_CHAO>				
+		<hungry>			
+			<feeding>	Chao Chao~ (I'm hungry Chao~)	</feeding>
+			<feeding>	Chaochao! Chao. (I was hungry! Thank you Chao.)	</feeding>
+			<hunting>	Chao, Chao~ (Adventurer, so strong Chao~)	</hunting>
+			<hunting>	Chaochao~. (Hunting is good, but I'm hungry~.)	</hunting>
+			<danger>	Chao! (It's dangerous!)	</danger>
+			<danger>	Chaochao... (It's hard for adventurers...)	</danger>
+			<dead>	Chaochao~ (come to your senses, chao~)	</dead>
+			<dead>	Chao~ (It's a big deal, Chao~)	</dead>
+			<stand>	Chaochao. (The weather is nice.)	</stand>
+			<stand>	Chao? (Did you call me Chao?)	</stand>
+			<connect>	Chaochao! (Wait, Chao!)	</connect>
+			<connect>	Chao~! Chaochao. (Hello Chao~! See you again Chao.)	</connect>
+			<levelup>	Chao Chao! (I got stronger!)	</levelup>
+			<levelup>	Chaochaochao! (I'm going with this momentum!)	</levelup>
+			<perfor_1>	Chao Chao. (Let's do our best today too.)	</perfor_1>
+			<perfor_2>	Chaochao~ (I think something good will happen Chao~)	</perfor_2>
+			<perfor_3>	Chao Chao~ (I have a good feeling Chao~)	</perfor_3>
+			<perfor_s>	Chao chao chao~. (Chao appears Chao~.)	</perfor_s>
+		</hungry>			
+		<bit_hungry>			
+			<feeding>	Chao Chao~ (Thank you Chao~)	</feeding>
+			<feeding>	Chao Chao Chao~ (Even adventurers eat delicious food~)	</feeding>
+			<hunting>	Chao Chao! (Cheer up!)	</hunting>
+			<hunting>	Chaochao~ (I will become stronger, chao~)	</hunting>
+			<danger>	Chao-chao, chao~ (If it's dangerous, run away~)	</danger>
+			<danger>	Chao? Chaochao? (Wouldn't it be better to run away?)	</danger>
+			<dead>	Chao~' (Cheer up~')	</dead>
+			<dead>	Chaochao~ (Be strong, Chao~)	</dead>
+			<stand>	Chaochao. (I think something good will happen.)	</stand>
+			<stand>	Chaochao~! (It's good weather for a walk!)	</stand>
+			<connect>	Chaochao! (Wait, Chao!)	</connect>
+			<connect>	Chao~! Chaochao. (Hello Chao~! See you again Chao.)	</connect>
+			<levelup>	Chao Chao! (I got stronger!)	</levelup>
+			<levelup>	Chao Chao, Chao! (I'm going with this momentum!)	</levelup>
+			<perfor_1>	Chao Chao. (Let's do our best today too.)	</perfor_1>
+			<perfor_2>	Chaochao~ (I think something good will happen Chao~)	</perfor_2>
+			<perfor_3>	Chao Chao~ (I have a good feeling Chao~)	</perfor_3>
+			<perfor_s>	Chao chao chao~. (Chao appears Chao~.)	</perfor_s>
+		</bit_hungry>			
+		<noting>			
+			<feeding>	Chao~ (Delicious Chao~)	</feeding>
+			<feeding>	Chao Chao! (It's a fun meal time!)	</feeding>
+			<hunting>	Chao Chao~ (I'm working hard today too Chao~)	</hunting>
+			<hunting>	Chao! Chao! (Good job Chao! Good job Chao!)	</hunting>
+			<danger>	Chao Chao~ (Use the item Chao~)	</danger>
+			<danger>	Chaochao! (Retreating is also a way!)	</danger>
+			<dead>	Chaochao~ (It's okay, let's try again Chao~)	</dead>
+			<dead>	Chao, Chao Chao~ (That could be possible~)	</dead>
+			<stand>	Chao~ (I have a good feeling Chao~)	</stand>
+			<stand>	Chaochao~ (It's a happy day, chao~)	</stand>
+			<connect>	Chaochao~! (I waited~!)	</connect>
+			<connect>	Chao Chao. (Chao appears Chao.)	</connect>
+			<levelup>	Chao Chao! (I got stronger!)	</levelup>
+			<levelup>	Chao Chao, Chao! (I'm going with this momentum!)	</levelup>
+			<perfor_1>	Chao Chao. (Let's do our best today too.)	</perfor_1>
+			<perfor_2>	Chaochao~ (I think something good will happen Chao~)	</perfor_2>
+			<perfor_3>	Chao Chao~ (I have a good feeling Chao~)	</perfor_3>
+			<perfor_s>	Chao chao chao~. (Chao appears Chao~.)	</perfor_s>
+		</noting>			
+		<full>			
+			<feeding>	Chao Chao. (I ate a lot.)	</feeding>
+			<feeding>	Chaochao~. (I'm full. Chao~.)	</feeding>
+			<hunting>	Chao Chao~ (I think Chao can do something too Chao~)	</hunting>
+			<hunting>	Chaochao... (I'm tired because I'm full')	</hunting>
+			<danger>	Chao! Chaochao! (Retreat! Run away first!)	</danger>
+			<danger>	Chaochao! (I'm using an item!)	</danger>
+			<dead>	Chao~ Chaochao~ (You can do that~)	</dead>
+			<dead>	Chaochao~ (Be strong, Chao~)	</dead>
+			<stand>	Chao~ (I have a good feeling Chao~)	</stand>
+			<stand>	Chaochao~ (It's a happy day, chao~)	</stand>
+			<connect>	Chao~! Chaochao. (Hello Chao~! See you again Chao.)	</connect>
+			<connect>	Chao~ Chao. (Chao appears Chao.)	</connect>
+			<levelup>	Chao Chao! (I got stronger!)	</levelup>
+			<levelup>	Chao Chao, Chao! (I'm going with this momentum!)	</levelup>
+			<perfor_1>	Chao Chao. (Let's do our best today too.)	</perfor_1>
+			<perfor_2>	Chaochao~ (I think something good will happen Chao~)	</perfor_2>
+			<perfor_3>	Chao Chao~ (I have a good feeling Chao~)	</perfor_3>
+			<perfor_s>	Chao chao chao~. (Chao appears Chao~.)	</perfor_s>
+		</full>			
+		<so_full>			
+			<feeding>	Chao~ Chao~~. (I'm so full that it's hard to move.)	</feeding>
+			<feeding>	Chao chao chao~. (I ate too much~.)	</feeding>
+			<hunting>	Chao Chao~ (I think Chao can do something too Chao~)	</hunting>
+			<hunting>	Chaochao... (I'm tired because I'm full')	</hunting>
+			<danger>	Chao! Chaochao! (Retreat! Run away first!)	</danger>
+			<danger>	Chaochao! (I'm using an item!)	</danger>
+			<dead>	Chao Chao Chao~ (It could be so~)	</dead>
+			<dead>	Chaochao~ (Be strong, Chao~)	</dead>
+			<stand>	Chao~ (I have a good feeling Chao~)	</stand>
+			<stand>	Chaochao~ (It's a happy day, chao~)	</stand>
+			<connect>	Chao~! Chaochao. (Hello Chao~! See you again Chao.)	</connect>
+			<connect>	Chao Chao Chao. (Chao appears Chao.)	</connect>
+			<levelup>	Chao Chao! (I got stronger!)	</levelup>
+			<levelup>	Chao Chao, Chao! (I'm going with this momentum!)	</levelup>
+			<perfor_1>	Chao Chao. (Let's do our best today too.)	</perfor_1>
+			<perfor_2>	Chaochao~ (I think something good will happen Chao~)	</perfor_2>
+			<perfor_3>	Chao Chao~ (I have a good feeling Chao~)	</perfor_3>
+			<perfor_s>	Chao chao chao~. (Chao appears Chao~.)	</perfor_s>
+		</so_full>				
+	</VR_CHAO>				
+		
+	<CLB_SS_FC>
+		<hungry>
+				<feeding>I would give up everything for a meal like this! </feeding>
+				<feeding>Just work hard for this moment every day!</feeding>
+				<feeding>Life is exhausting, food is reviving!</feeding>
+				<hunting>I hope someone will treat me to a big dinner after the victory!</hunting>
+				<hunting>Next time, I will bring enough snacks!</hunting>
+				<hunting>I'm gonna bite him!</hunting>
+				<danger>If you fall down, I will die of starvation.</danger>
+				<danger>The only thing worse than fighting is starving...</danger>
+				<danger>I hope I can still eat my last meal!</danger>
+				<dead>I'm gonna lay down too.</dead>
+				<dead>Lying down is obviously my privilege!</dead>
+				<dead>Who am I? Where am I?</dead>
+				<stand>So boring~ Do you want something to eat?</stand>
+				<stand>Is there a fried chicken steak restaurant here?</stand>
+				<stand>Have you thought about what you're going to do?</stand>
+				<connect>Is there a food court in Central City?</connect>
+				<connect>Take a shower? Don't talk about it!</connect>
+				<connect>You know they say that people in Morroc only shower once in a while?</connect>
+				<levelup>Finally level up! But I'd rather level up my lunch~</levelup>
+				<levelup>I don't need experience, I need calories.</levelup>
+				<levelup>Level up successful~ Can we eat now?</levelup>
+				<perfor_1>Aaaaaaaaa~ I'm pretty good, right?</perfor_1>
+				<perfor_1>My stomach is not easy!</perfor_1>
+				<perfor_2>Today's clouds look like marshmallows.</perfor_2>
+				<perfor_2>The mouth chews the air and tastes good.</perfor_2>
+				<perfor_3>Does anyone want to trade souls?</perfor_3>
+				<perfor_3>Listen quietly. It's the sound of my stomach.</perfor_3>
+		</hungry>
+		<bit_hungry>
+			<feeding>I want to eat this every day!</feeding>
+			<feeding>Did you increase the size of my meal today?</feeding>
+			<feeding>Is this for me too?</feeding>
+			<hunting>Are you as hungry as I am?</hunting>
+			<hunting>Fight with your will!</hunting>
+			<hunting>I'll do the last kick!</hunting>
+			<danger>Something's not right!</danger>
+			<danger>Did master not get enough eat too?</danger>
+			<danger>I don't think I can handle this either...</danger>
+			<dead>If you're tired... Just lie down!</dead>
+			<dead>It's so cold... Do you have any cardboard boxes?</dead>
+			<dead>Master, wake up! Who's going to take care of me?</dead>
+			<stand>Why can't we have a midnight picnic?</stand>
+			<stand>My dream job is to be a taster.</stand>
+			<stand>If it's okay for now, do you want to give me something to eat first?</stand>
+			<connect>I'm a little sleepy...wait don't be too hard on yourself!</connect>
+			<connect>The first thing I want to do when I wake up is eat.</connect>
+			<connect>Have you heard anything interesting lately?</connect>
+			<levelup>Master is getting stronger! Don't forget me~</levelup>
+			<levelup>There's always something to eat when you celebrate, right?</levelup>
+			<levelup>Congratulations! One step further~</levelup>
+			<perfor_1>I'm good, aren't I?</perfor_1>
+			<perfor_1>I don't have an easy belly!</perfor_1>
+			<perfor_2>The clouds look like marshmallows today...</perfor_2>
+			<perfor_2>The mouth chews the air and tastes good.</perfor_2>
+			<perfor_3>Does anyone want to trade souls?</perfor_3>
+			<perfor_3>Listen quietly. It's the sound of my stomach.</perfor_3>
+		</bit_hungry>
+		<noting>
+			<feeding>Happiness ~ it's all about having food when you want it!</feeding>
+			<feeding>Only good food can satisfy me.</feeding>
+			<feeding>This is good~</feeding>
+			<hunting>Let me help you too!</hunting>
+			<hunting>I can smell victory!</hunting>
+			<hunting>Can I have something to eat first? I need strength.</hunting>
+			<danger>Need a tactical retreat?</danger>
+			<danger>Hold on a bit longer...</danger>
+			<danger>Can I go to the side and wait for dinner first?</danger>
+			<dead>My spirit is with you!</dead>
+			<dead>Master, get up. You have me to feed.</dead>
+			<dead>Is there anyone out there who can help us?</dead>
+			<stand>Do you know where I can sleep?</stand>
+			<stand>Don't forget to eat!</stand>
+			<stand>Uh... What's so special about this place?</stand>
+			<connect>It's a beautiful day. Go for a walk!</connect>
+			<connect>I didn't steal any food while you were gone!</connect>
+			<connect>Did you hear about the new restaurant?</connect>
+			<levelup>Shouldn't we eat something to celebrate?</levelup>
+			<levelup>Master has been leveled up, when will you level up my food too?</levelup>
+			<levelup>We are the best!</levelup>
+			<perfor_1>I'm good, aren't I?</perfor_1>
+			<perfor_1>I don't have an easy belly!</perfor_1>
+			<perfor_2>The clouds look like marshmallows today...</perfor_2>
+			<perfor_2>The mouth chews the air and tastes good.</perfor_2>
+			<perfor_3>Does anyone want to trade souls?</perfor_3>
+			<perfor_3>Listen quietly. It's the sound of my stomach.</perfor_3>
+		</noting>
+		<full>
+			<feeding>At this moment, I forget all my troubles.</feeding>
+			<feeding>Don't underestimate my appetite.</feeding>
+			<hunting>Let me hit it too~</hunting>
+			<feeding>It smells so good.</feeding>
+			<hunting>Have you ever seen a fist as big as a casserole?</hunting>
+			<hunting>That's not all I've got.</hunting>
+			<danger>Look out! I was hoping someone would provide food!</danger>
+			<danger>It doesn't seem safe here. Let's get out of here.</danger>
+			<danger>I'm a little scared. Can I go first?</danger>
+			<dead>I don't think I can help...</dead>
+			<dead>Master, don't lie down! Our adventure isn't over yet!</dead>
+			<dead>Though you are gone, your spirit lives on.</dead>
+			<stand>Do you think my hands can touch my feet?</stand>
+			<stand>Remember to visit me every day!</stand>
+			<stand>I think I can talk to cats.</stand>
+			<connect>Don't forget to bring my snacks before you go!</connect>
+			<connect>Have you decided where you're going?</connect>
+			<levelup>You're amazing! You've leveled up again!</levelup>
+			<levelup>Who else can stop us from moving forward?</levelup>
+			<levelup>It's so nice to grow up with an owner!</levelup>
+			<perfor_1>I'm good, aren't I?</perfor_1>
+			<perfor_1>I don't have an easy belly!</perfor_1>
+			<perfor_2>The clouds look like marshmallows today...</perfor_2>
+			<perfor_2>The mouth chews the air and tastes good.</perfor_2>
+			<perfor_3>Does anyone want to trade souls?</perfor_3>
+			<perfor_3>Listen quietly. It's the sound of my stomach.</perfor_3>
+		</full>
+		<so_full>
+			<feeding>The owner is so generous!</feeding>
+			<feeding>Although I still want to keep eating, it seems like I really can't...</feeding>
+			<feeding>Look at my round belly.</feeding>
+			<hunting>How many calories are burned in battle?Z</hunting>
+			<hunting>It's not the enemy I'm fighting, it's my stomach.</hunting>
+			<hunting>Look at my belly!</hunting>
+			<danger>Time to burn my fat!</danger>
+			<danger>I feel something is wrong ......</danger>
+			<danger>I'll protect you!</danger>
+			<dead>It seems comfortable to lie down?</dead>
+			<dead>Rest in peace, I will remember your courage.</dead>
+			<dead>Don't worry~I will pass on your story by word of mouth~</dead>
+			<stand>Take me for a walk~</stand>
+			<stand>Remember to rest and don't overwork yourself.</stand>
+			<stand>Everyday is a new beginning.</stand>
+			<connect>Can you let me sleep for five more minutes?</connect>
+			<connect>Our friendship trumps everything... Except for the food.</connect>
+			<connect>I wake up every day hoping to see you!</connect>
+			<levelup>Let's conquer the world together!</levelup>
+			<levelup>You've progressed beyond imagination!</levelup>
+			<levelup>Every time you level up, I get so excited!</levelup>
+			<perfor_1>I'm good, aren't I?</perfor_1>
+			<perfor_1>I don't have an easy belly!</perfor_1>
+			<perfor_2>The clouds look like marshmallows today...</perfor_2>
+			<perfor_2>The mouth chews the air and tastes good.</perfor_2>
+			<perfor_3>Does anyone want to trade souls?</perfor_3>
+			<perfor_3>Listen quietly. It's the sound of my stomach.</perfor_3>
+		</so_full>
+	</CLB_SS_FC>
+
+	<CLB_SS_TZ>
+		<hungry>
+			<feeding>I could eat two more dried fish!</feeding>
+			<feeding>I can't wait for my next meal!</feeding>
+			<feeding>Thank you, but I was hoping for an earlier day tomorrow.</feeding>
+			<hunting>What a thrill to venture out together!</hunting>
+			<hunting>Fight until the end!</hunting>
+			<hunting>If I do well, don't forget to reward me.</hunting>
+			<danger>Master, look out! There is danger approaching.</danger>
+			<danger>Do you want to run with me?</danger>
+			<danger>My muscles seem a little tight today.</danger>
+			<dead>(SIGHS) Should I pretend I'm sad?</dead>
+			<dead>(SIGHS) Now I can finally rest.</dead>
+			<dead>(SIGHS) Do you want me to wait to wake you up?</dead>
+			<stand>Remember to take care of yourself so you can take care of me.</stand>
+			<stand>Hey, don't forget to feed me!</stand>
+			<stand>I heard that there are a lot of stalls in Central City selling a lot of delicious food.</stand>
+			<connect>Did you remember to buy my dried fish?</connect>
+			<connect>Where are we going today?</connect>
+			<connect>I hope you're not here to catch me in the shower!</connect>
+			<levelup>I'm so happy to see your progress!</levelup>
+			<levelup>Congratulations! But don't forget our tea time.</levelup>
+			<levelup>It would be wonderful if the cans could be upgraded together!</levelup>
+			<perfor_1>This is not a joke. Please take it seriously.</perfor_1>
+			<perfor_1>Who do you think is the master?</perfor_1>
+			<perfor_2>Being able to touch me is a reward!</perfor_2>
+			<perfor_2>* Stretching *</perfor_2>
+			<perfor_3>Have you ever heard the sound of claws scraping something?</perfor_3>
+			<perfor_3>Meow~ I'm the cutest!</perfor_3>
+		</hungry>
+		<bit_hungry>
+			<feeding>Good food is always worth the wait~</feeding>
+			<feeding>I'd like to have another one, if that's okay.</feeding>
+			<feeding>It'd be nice to have a snack.</feeding>
+			<hunting>A new challenger?</hunting>
+			<hunting>Hmph~ Eat my claws~!</hunting>
+			<hunting>Can I help you, master?</hunting>
+			<danger>Master, follow my footsteps and dodge.</danger>
+			<danger>Looks like it's time to retreat. I won't laugh at you.</danger>
+			<danger>Danger is only temporary, right?</danger>
+			<dead>Master, please don't worry. I'll be fine.</dead>
+			<dead>Do you want me to give you a hand?</dead>
+			<dead>They're all down, let's go!</dead>
+			<stand>Master looks so handsome today! Just like me.</stand>
+			<stand>How about we learn some new tricks today?</stand>
+			<stand>Let's go catch a mouse together, it'll be fun!</stand>
+			<connect>Did you have a good day today?</connect>
+			<connect>If possible, I hope it will fill me up first!</connect>
+			<connect>Do you have any goals you'd like to share with me these days?</connect>
+			<levelup>Every battle makes us stronger!</levelup>
+			<levelup>I'm so lucky to have such a great owner!</levelup>
+			<levelup>Congratulations! You're getting stronger again!</levelup>
+			<perfor_1>This is not a joke. Please take it seriously.</perfor_1>
+			<perfor_1>Who do you think is the master?</perfor_1>
+			<perfor_2>Being able to touch me is a reward!</perfor_2>
+			<perfor_2>* Stretching *</perfor_2>
+			<perfor_3>Have you ever heard the sound of claws scraping something?</perfor_3>
+			<perfor_3>Meow~ I'm the cutest!</perfor_3>
+		</bit_hungry>
+		<noting>
+			<feeding>I wish every meal was like this.</feeding>
+			<feeding>Be careful, don't drop it!</feeding>
+			<feeding>I'm so glad you remembered me!</feeding>
+			<hunting>Don't be afraid, I'm here for you!</hunting>
+			<hunting>Don't underestimate my cat's paw attack.</hunting>
+			<hunting>I don't want to use the bite, if that's okay.</hunting>
+			<danger>Don't be afraid. I'm here to watch over you.</danger>
+			<danger>Don't worry, I'm here.</danger>
+			<danger>Should we get more people together?</danger>
+			<dead>Master, you've done your best. Don't feel bad.</dead>
+			<dead>Master, I'll be strong.</dead>
+			<dead>Is it almost time to get up?</dead>
+			<stand>Can I go find the little flower next door to play by myself?</stand>
+			<stand>What do you think of today's moon?</stand>
+			<stand>Let's go on an adventure! It's a big world out there!</stand>
+			<connect>Let's find the hidden treasure together!</connect>
+			<connect>I don't think there's anyone in the world who'd want to bully me, is there?</connect>
+			<connect>What would the master like to do today?</connect>
+			<levelup>Master, your strength is a great comfort to me.</levelup>
+			<levelup>That's great! One more step on the road to invincibility!</levelup>
+			<levelup>That's great! Victory is ours!</levelup>
+			<perfor_1>This is not a joke. Please take it seriously.</perfor_1>
+			<perfor_1>Who do you think is the master?</perfor_1>
+			<perfor_2>Being able to touch me is a reward!</perfor_2>
+			<perfor_2>* Stretching *</perfor_2>
+			<perfor_3>Have you ever heard the sound of claws scraping something?</perfor_3>
+			<perfor_3>Meow~ I'm the cutest!</perfor_3>
+		</noting>
+		<full>
+			<feeding>Being well-fed has a big effect on your mood.</feeding>
+			<feeding>You had a good day. Let's do it again tomorrow!</feeding>
+			<feeding>Don't disturb my enjoyment.</feeding>
+			<hunting>They say the louder you roar, the more powerful you are!</hunting>
+			<hunting>I don't suppose you'd let me stand in the front, would you?</hunting>
+			<hunting>Hey, I've been practicing!</hunting>
+			<danger>Is it too late to evacuate?</danger>
+			<danger>Don't panic, don't panic. I'm sure you can do it.</danger>
+			<danger>Don't skip the medicine!</danger>
+			<dead>If there's a good man who's willing to save me, I'll give him my meatball.</dead>
+			<dead>Are you comfortable using the floor as a bed?</dead>
+			<dead>Don't worry, I won't tell anyone.</dead>
+			<stand>Let's race to see who's faster, okay?</stand>
+			<stand>I hope we can have food without doing anything.</stand>
+			<stand>What's in this sea of stars?</stand>
+			<connect>The master is looking very glittery today, isn't he?</connect>
+			<connect>Master, can you brush me first?</connect>
+			<connect>Is it a big world out there?</connect>
+			<levelup>It's a level-up! Where are we going to celebrate?</levelup>
+			<levelup>I'm partly to blame for this level up!</levelup>
+			<levelup>We've gotten stronger!</levelup>
+			<perfor_1>This is not a joke. Please take it seriously.</perfor_1>
+			<perfor_1>Who do you think is the master?</perfor_1>
+			<perfor_2>Being able to touch me is a reward!</perfor_2>
+			<perfor_2>* Stretching *</perfor_2>
+			<perfor_3>Have you ever heard the sound of claws scraping something?</perfor_3>
+			<perfor_3>Meow~ I'm the cutest!</perfor_3>
+		</full>
+		<so_full>
+			<feeding>Can I get a new flavor next time?</feeding>
+			<feeding>Thank you for your hospitality.</feeding>
+			<feeding>Do you have any cans to take away?</feeding>
+			<hunting>Super Dangerous Claw Attack!</hunting>
+			<hunting>The conquest of the world begins with this battle.</hunting>
+			<hunting>Do you know where I keep my secret weapon?</hunting>
+			<danger>Being brave doesn't always work this time of year!</danger>
+			<danger>I hope we can get through this.</danger>
+			<danger>Is there any way to get out of here?</danger>
+			<dead>Have we come to the wrong place?</dead>
+			<dead>Do you want me to get some help? Anyone?</dead>
+			<dead>Master, I won't leave you!</dead>
+			<stand>Sometimes silence is a pleasure.</stand>
+			<stand>Let's look at the stars and make a wish!</stand>
+			<stand>I'm a little heavy. Is there any magic that will allow me to fly?</stand>
+			<connect>I haven't seen you in a while.</connect>
+			<connect>Have you learned any new tricks lately?</connect>
+			<connect>Hey, there you are!</connect>
+			<levelup>We're just a little bit closer to invincibility!</levelup>
+			<levelup>Isn't it faster with my help!</levelup>
+			<levelup>The adventures we had together through thick and thin were impressive!</levelup>
+			<perfor_1>This is not a joke. Please take it seriously.</perfor_1>
+			<perfor_1>Who do you think is the master?</perfor_1>
+			<perfor_2>Being able to touch me is a reward!</perfor_2>
+			<perfor_2>* Stretching *</perfor_2>
+			<perfor_3>Have you ever heard the sound of claws scraping something?</perfor_3>
+			<perfor_3>Meow~ I'm the cutest!</perfor_3>
+		</so_full>
+	</CLB_SS_TZ>
 	
+	<CWHITEKNIGHT>
+		<hungry>
+			<feeding>	...	</feeding>
+			<danger>	There's.. no time..	</danger>
+			<dead>	Is this it..	</dead>
+			<stand>	Ugh...	</stand>
+			<levelup>	...	</levelup>
+			<perfor_1>	I have to win..	</perfor_1>
+			<perfor_2>	Into the abyss..	</perfor_2>
+			<perfor_3>	Back off!!	</perfor_3>
+		</hungry>
+
+		<bit_hungry>
+			<feeding>	Uh...	</feeding>
+			<danger>	There's.. no time..	</danger>
+			<dead>	Is this it..	</dead>
+			<stand>	Ugh...	</stand>
+			<levelup>	To that extent, that's enough for you..	</levelup>
+			<perfor_1>	I have to win..	</perfor_1>
+			<perfor_2>	Into the abyss..	</perfor_2>
+			<perfor_3>	Back off!!	</perfor_3>
+		</bit_hungry>
+
+		<noting>
+			<feeding>	Uh...	</feeding>
+			<danger>	There's.. no time..	</danger>
+			<dead>	Is this it..	</dead>
+			<stand>	Ugh...	</stand>
+			<stand>	Oyster..Pufferfish..Seafood... 	</stand>
+			<levelup>	To that extent, that's enough for you..	</levelup>
+			<perfor_1>	I have to win..	</perfor_1>
+			<perfor_2>	Into the abyss..	</perfor_2>
+			<perfor_3>	Back off!!	</perfor_3>
+		</noting>
+
+		<full>
+			<feeding>	...	</feeding>
+			<danger>	More..More..More..	</danger>
+			<danger>	There's.. no time..	</danger>
+			<dead>	Is this it..	</dead>
+			<stand>	Oyster..Pufferfish..Seafood.... 	</stand>
+			<stand>	No..but...	</stand>
+			<stand>	I'm scared.....	</stand>
+			<levelup>	To that extent, that's enough for you..	</levelup>
+			<levelup>	I think I can overcome it...	</levelup>
+			<perfor_1>	I have to win..	</perfor_1>
+			<perfor_2>	Into the abyss..	</perfor_2>
+			<perfor_3>	Back off!!	</perfor_3>
+		</full>
+
+		<so_full>
+			<feeding>	...	</feeding>
+			<danger>	More..More..More..	</danger>
+			<danger>	There's.. no time..	</danger>
+			<dead>	Is this it..	</dead>
+			<stand>	Oyster..Pufferfish..Seafood.... 	</stand>
+			<stand>	No..but...	</stand>
+			<stand>	I'm scared.....	</stand>
+			<levelup>	To that extent, that's enough for you..	</levelup>
+			<levelup>	I think I can overcome it...	</levelup>
+			<perfor_1>	I have to win..	</perfor_1>
+			<perfor_2>	Into the abyss..	</perfor_2>
+			<perfor_3>	Back off!!	</perfor_3>
+		</so_full>
+	</CWHITEKNIGHT>
+	<ANGELGOLT>
+	<hungry>
+		<feeding>Food~~</feeding>
+		<dead>What's wrong, do you want to go to our country?</dead>
+		<danger>Pain, pain, go away~~</danger>
+		<stand>Let's make a miracle happen~~</stand>
+		<stand>Are you ready?</stand>
+		<stand>What are you doing?</stand>
+		<levelup>L E V E L U P !</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>Food~~</feeding>
+		<dead>What's wrong, do you want to go to our country?</dead>
+		<danger>Pain, pain, go away~~</danger>
+		<stand>Let's make a miracle happen~~</stand>
+		<stand>Are you ready?</stand>
+		<stand>What are you doing?</stand>
+		<levelup>L E V E L U P !</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>Munch, munch!</feeding>
+		<dead>What's wrong, do you want to go to our country?</dead>
+		<danger>Pain, pain, go away~~</danger>
+		<stand>Let's make a miracle happen~~</stand>
+		<stand>Are you ready?</stand>
+		<stand>What are you doing?</stand>
+		<levelup>L E V E L U P !</levelup>
+	</noting>
+	<full>
+		<feeding>I'm so full...</feeding>
+		<dead>What's wrong, do you want to go to our country?</dead>
+		<danger>Pain, pain, go away~~</danger>
+		<stand>Let's make a miracle happen~~</stand>
+		<stand>Are you ready?</stand>
+		<stand>What are you doing?</stand>
+		<levelup>L E V E L U P !</levelup>
+	</full>
+	<so_full>
+		<feeding>I'm so full...</feeding>
+		<dead>What's wrong, do you want to go to our country?</dead>
+		<danger>Pain, pain, go away~~</danger>
+		<stand>Let's make a miracle happen~~</stand>
+		<stand>Are you ready?</stand>
+		<stand>What are you doing?</stand>
+		<levelup>L E V E L U P !</levelup>
+	</so_full>
+</ANGELGOLT>
+<SKEGGIOLD>
+	<hungry>
+		<feeding>Gorugorugoru~(Yay~)</feeding>
+		<dead>Goru!?(Don't fall!)</dead>
+		<danger>Goru!(Heal!)</danger>
+		<stand>Gorugorugoru(It's fun!)</stand>
+		<stand>Gorugorugoru(Where are you going?)</stand>
+		<stand>Gorugorugoru(Fun!)</stand>
+		<levelup>Goru!(Congratulations!)</levelup>
+	</hungry>
+	<bit_hungry>
+		<feeding>Gorugorugoru&#226;占썩ª(Yay~)</feeding>
+		<dead>Goru!?(Don't fall!)</dead>
+		<danger>Goru!(Heal!)</danger>
+		<stand>Gorugorugoru(It's fun!)</stand>
+		<stand>Gorugorugoru(Where are you going?)</stand>
+		<stand>Gorugorugoru(Fun!)</stand>
+		<levelup>Goru!(Congratulations!)</levelup>
+	</bit_hungry>
+	<noting>
+		<feeding>Gorugoru(Thank you for the food!)</feeding>
+		<dead>Goru!?(Don't fall!)</dead>
+		<danger>Goru!(Heal!)</danger>
+		<stand>Gorugorugoru(It's fun!)</stand>
+		<stand>Gorugorugoru(Where are you going?)</stand>
+		<stand>Gorugorugoru(Fun!)</stand>
+		<levelup>Goru!(Congratulations!)</levelup>
+	</noting>
+	<full>
+		<feeding>Goru...(I don't need it...)</feeding>
+		<dead>Goru!?(Don't fall!)</dead>
+		<danger>Goru!(Heal!)</danger>
+		<stand>Gorugorugoru(It's fun!)</stand>
+		<stand>Gorugorugoru(Where are you going?)</stand>
+		<stand>Gorugorugoru(Fun!)</stand>
+		<levelup>Goru!(Congratulations!)</levelup>
+	</full>
+	<so_full>
+		<feeding>Goru...(I don't need it...)</feeding>
+		<dead>Goru!?(Don't fall!)</dead>
+		<danger>Goru!(Heal!)</danger>
+		<stand>Gorugorugoru(It's fun!)</stand>
+		<stand>Gorugorugoru(Where are you going?)</stand>
+		<stand>Gorugorugoru(Fun!)</stand>
+		<levelup>Goru!(Congratulations!)</levelup>
+	</so_full>
+</SKEGGIOLD>
+
+<gloomundernight2>
+
+	<hungry>
+		<feeding>	(Nom nom~ munching happily~)	</feeding>
+		<dead>	Haa.. such... a pitiful being...	</dead>
+		<stand>	(looks super hungry...)	</stand>
+		<levelup>	(glances up with glowing eyes)	</levelup>
+		<perfor_1>	Under the pitch-black night sky~	</perfor_1>
+		<perfor_1>	The blazing being of darkness~	</perfor_1>
+		<perfor_2>	(looks relaxed and calm) 	</perfor_2>
+		<perfor_2>	Grrruuum...~	</perfor_2>
+	</hungry>
+
+	<bit_hungry>
+		<feeding>	(Nom nom~ munching happily~)	</feeding>
+		<dead>	Haa.. such... a pitiful being...	</dead>
+		<stand>	(looks kinda hungry)	</stand>
+		<levelup>	(glances up with glowing eyes)	</levelup>
+		<perfor_1>	Under the pitch-black night sky~	</perfor_1>
+		<perfor_1>	The blazing being of darkness~	</perfor_1>
+		<perfor_2>	(looks relaxed and calm) 	</perfor_2>
+		<perfor_2>	Grrruuum...~	</perfor_2>
+	</bit_hungry>
+
+	<noting>
+		<feeding>	(Nom nom~ munching happily~)	</feeding>
+		<dead>	Haa.. such... a pitiful being...	</dead>
+		<stand>	What... is the meaning... of existence...?	</stand>
+		<stand>	Worship... me... praise... me...~	</stand>
+		<stand>	(looks kinda bored)	</stand>
+		<levelup>	(glances up with glowing eyes)	</levelup>
+		<perfor_1>	Under the pitch-black night sky~	</perfor_1>
+		<perfor_1>	The blazing being of darkness~	</perfor_1>
+		<perfor_2>	(looks relaxed and calm) 	</perfor_2>
+		<perfor_2>	Grrruuum...~	</perfor_2>
+	</noting>
+
+	<full>
+		<feeding>	(looks a little grumpy while eating)	</feeding>
+		<dead>	Haa.. such... a pitiful being...	</dead>
+		<stand>	What... is the meaning... of existence...?	</stand>
+		<stand>	Worship... me... praise... me...~	</stand>
+		<stand>	(looks kinda bored)	</stand>
+		<stand>	What... is the meaning... of your existence...?	</stand>
+		<levelup>	(glances up with glowing eyes)	</levelup>
+		<perfor_1>	Under the pitch-black night sky~	</perfor_1>
+		<perfor_1>	The blazing being of darkness~	</perfor_1>
+		<perfor_2>	(looks relaxed and calm) 	</perfor_2>
+		<perfor_2>	Grrruuum...~	</perfor_2>
+	</full>
+
+	<so_full>
+		<feeding>	(looks a little grumpy while eating)	</feeding>
+		<dead>	Haa.. such... a pitiful being...	</dead>
+		<stand>	What... is the meaning... of existence...?	</stand>
+		<stand>	Worship... me... praise... me...~	</stand>
+		<stand>	(looks kinda bored)	</stand>
+		<stand>	What... is the meaning... of your existence...?	</stand>
+		<stand>	Nothing...~	</stand>
+		<levelup>	(glances up with glowing eyes)	</levelup>
+		<perfor_1>	Under the pitch-black night sky~	</perfor_1>
+		<perfor_1>	The blazing being of darkness~	</perfor_1>
+		<perfor_2>	(looks relaxed and calm) 	</perfor_2>
+		<perfor_2>	Grrruuum...~	</perfor_2>
+	</so_full>
+
+</gloomundernight2>
+<BAPHOMET2>
+
+	<hungry>
+		<feeding>	..Nom nom.. so chewy~ 	</feeding>
+		<dead>		Such a weak... tiny being...	</dead>
+		<stand>		Hey, little one! You're late again~	</stand>
+		<levelup>	You're getting stronger... for such a tiny creature!	</levelup>
+		<perfor_1>	Nom..nom~	</perfor_1>
+		<perfor_2>	Eeeek!?	</perfor_2>
+		<perfor_3>	Roaaaarrrrrr!!!	</perfor_3>
+	</hungry>
+
+	<bit_hungry>
+		<feeding>	Mm~ just the right amount of crunch!	</feeding>
+		<dead>		Such a weak... tiny being...	</dead>
+		<stand>		In front of me, all are but little bugs~	</stand>
+		<levelup>	You're getting stronger... for such a tiny creature!	</levelup>
+		<perfor_1>	Nom..nom~	</perfor_1>
+		<perfor_2>	Eeeek!?	</perfor_2>
+		<perfor_3>	Roaaaarrrrrr!!!	</perfor_3>
+	</bit_hungry>
+
+	<noting>
+		<feeding>	Mm~ just the right amount of crunch!	</feeding>
+		<dead>		Such a weak... tiny being...	</dead>
+		<stand>		In front of me, all are but little bugs~	</stand>
+		<stand>		Good and evil? Both mean nothing before me~	</stand>
+		<levelup>	You're getting stronger... for such a tiny creature!	</levelup>
+		<perfor_1>	Nom..nom~	</perfor_1>
+		<perfor_2>	Eeeek!?	</perfor_2>
+		<perfor_3>	Roaaaarrrrrr!!!	</perfor_3>
+	</noting>
+
+	<full>
+		<feeding>	Is it okay if I... just leave a few bites?~ 	</feeding>
+		<dead>		Such a weak... tiny being...	</dead>
+		<stand>		In front of me, all are but little bugs~	</stand>
+		<stand>		Good and evil? Both mean nothing before me~	</stand>
+		<stand>		Only I, Baphomet, shall remain supreme~	</stand>
+		<levelup>	You're getting stronger... for such a tiny creature!	</levelup>
+		<perfor_1>	Nom..nom~	</perfor_1>
+		<perfor_2>	Eeeek!?	</perfor_2>
+		<perfor_3>	Roaaaarrrrrr!!!	</perfor_3>
+	</full>
+
+	<so_full>
+		<feeding>	Is it okay if I... just leave a few bites?~ 	</feeding>
+		<dead>		Such a weak... tiny being...	</dead>
+		<stand>		In front of me, all are but little bugs~	</stand>
+		<stand>		Good and evil? Both mean nothing before me~	</stand>
+		<stand>		Only I, Baphomet, shall remain supreme~	</stand>
+		<levelup>	You're getting stronger... for such a tiny creature!	</levelup>
+		<perfor_1>	Nom..nom~	</perfor_1>
+		<perfor_2>	Eeeek!?	</perfor_2>
+		<perfor_3>	Roaaaarrrrrr!!!	</perfor_3>
+	</so_full>
 	
+</BAPHOMET2>
+<WILD_ROSE3>
+
+	<hungry>
+		<feeding> Myaa~! I was starving! You sure know what I need, nya! </feeding>
+		<feeding> Yummm~~~! Mmm~♪ This is the happiest time ever, nya! </feeding>
+		<connect> You're late~! How long were you gonna make me wait, nya!? </connect>
+		<connect> Before we go anywhere, I wanna eat first, nya! </connect>
+		<danger> W-wait wait wait! Isn't that dangerous, nya!? </danger>
+		<danger> Waaah... th-this looks really dangerous, nya... </danger>
+		<dead> Aaaah... I told you it was dangerous, didn't I, nya! </dead>
+		<dead> You're pushing too hard! Next time, be careful, okay nya!? </dead>
+		<stand> Let's take it easy today~ do whatever we feel like, nya~ </stand>
+		<stand> Sooo~ what kind of fun things will happen today, nya? </stand>
+		<stand> Hunting all the time isn't relaxing, nya. Let's just soak up some sunshine together~ </stand>
+		<levelup> You did it, nya! I knew you could get even stronger, nya! </levelup>
+		<levelup> As a gift, I'll show you my favorite sunbathing spot, nya~ </levelup>
+		<levelup> Just how strong are you planning to get, nya!? You gonna save the whole world, nya!? </levelup>
+		<levelup> Maybe it's time I show you my true feelings, nya... </levelup>
+		<perfor_1> Myaw! Myaw! Myamyamyamyamyamyamya~~! </perfor_1>
+		<perfor_1> When I see something move, I pounce! Nya! </perfor_1>
+	</hungry>
+
+	<bit_hungry>
+		<feeding> Myaa~! I was starving! You sure know what I need, nya! </feeding>
+		<feeding> Yummm~~~! Mmm~♪ This is the happiest time ever, nya! </feeding>
+		<connect> You're late~! How long were you gonna make me wait, nya!? </connect>
+		<connect> Before we go anywhere, I wanna eat first, nya! </connect>
+		<danger> W-wait wait wait! Isn't that dangerous, nya!? </danger>
+		<danger> Waaah... th-this looks really dangerous, nya... </danger>
+		<dead> Aaaah... I told you it was dangerous, didn't I, nya! </dead>
+		<dead> You're pushing too hard! Next time, be careful, okay nya!? </dead>
+		<stand> Let's take it easy today~ do whatever we feel like, nya~ </stand>
+		<stand> Sooo~ what kind of fun things will happen today, nya? </stand>
+		<stand> Hunting all the time isn't relaxing, nya. Let's just soak up some sunshine together~ </stand>
+		<levelup> You did it, nya! I knew you could get even stronger, nya! </levelup>
+		<levelup> As a gift, I'll show you my favorite sunbathing spot, nya~ </levelup>
+		<levelup> Just how strong are you planning to get, nya!? You gonna save the whole world, nya!? </levelup>
+		<levelup> Maybe it's time I show you my true feelings, nya... </levelup>
+		<perfor_1> Myaw! Myaw! Myamyamyamyamyamyamya~~! </perfor_1>
+		<perfor_1> When I see something move, I pounce! Nya! </perfor_1>
+	</bit_hungry>
+
+	<noting>
+		<feeding> Meal time is precious, nya! You agree, right? </feeding>
+		<feeding> In my dictionary, there's no word for 'no thanks'! I'll eat it all, nya! </feeding>
+		<connect> Oh, you're here! You're here! I'm all ready to go play, nya! </connect>
+		<connect> I've been waiting for you, nya! I was sooo bored alone! </connect>
+		<danger> W-wait wait wait! Isn't that dangerous, nya!? </danger>
+		<danger> Waaah... th-this looks really dangerous, nya... </danger>
+		<dead> Aaaah... I told you it was dangerous, didn't I, nya! </dead>
+		<dead> You're pushing too hard! Next time, be careful, okay nya!? </dead>
+		<stand> Let's take it easy today~ do whatever we feel like, nya~ </stand>
+		<stand> Sooo~ what kind of fun things will happen today, nya? </stand>
+		<stand> Hunting all the time isn't relaxing, nya. Let's just soak up some sunshine together~ </stand>
+		<levelup> You did it, nya! I knew you could get even stronger, nya! </levelup>
+		<levelup> As a gift, I'll show you my favorite sunbathing spot, nya~ </levelup>
+		<levelup> Just how strong are you planning to get, nya!? You gonna save the whole world, nya!?	</levelup>
+		<levelup> Maybe it's time I show you my true feelings, nya... </levelup>
+		<perfor_1> Myaw! Myaw! Myamyamyamyamyamyamya~~! </perfor_1>
+		<perfor_1> When I see something move, I pounce! Nya! </perfor_1>
+	</noting>
+
+	<full>
+		<feeding> Tasty~ but I'm getting kinda full, nya! </feeding>
+		<feeding> I think moderation is important in everything, even food, nya... </feeding>
+		<connect> Oh, you're here! You're here! I'm all ready to go play, nya! </connect>
+		<connect> I've been waiting for you, nya! I was sooo bored alone! </connect>
+		<danger> W-wait wait wait! Isn't that dangerous, nya!? </danger>
+		<danger> Waaah... th-this looks really dangerous, nya... </danger>
+		<dead> Aaaah... I told you it was dangerous, didn't I, nya! </dead>
+		<dead> You're pushing too hard! Next time, be careful, okay nya!? </dead>
+		<stand> Let's take it easy today~ do whatever we feel like, nya~ </stand>
+		<stand> Sooo~ what kind of fun things will happen today, nya? </stand>
+		<stand> Hunting all the time isn't relaxing, nya. Let's just soak up some sunshine together~ </stand>
+		<levelup> You did it, nya! I knew you could get even stronger, nya! </levelup>
+		<levelup> As a gift, I'll show you my favorite sunbathing spot, nya~ </levelup>
+		<levelup> Just how strong are you planning to get, nya!? You gonna save the whole world, nya!?	</levelup>
+		<levelup> Maybe it's time I show you my true feelings, nya... </levelup>
+		<perfor_1> Myaw! Myaw! Myamyamyamyamyamyamya~~! </perfor_1>
+		<perfor_1> When I see something move, I pounce! Nya! </perfor_1>
+	</full>
+
+	<so_full>
+		<feeding> Uuugh... n-no more... I'm stuffed, nya... </feeding>
+		<feeding> You... should learn what 'portion control' means, nya. </feeding>
+		<connect> Oh, you're here! You're here! I'm all ready to go play, nya! </connect>
+		<connect> I've been waiting for you, nya! I was sooo bored alone! </connect>
+		<danger> W-wait wait wait! Isn't that dangerous, nya!? </danger>
+		<danger> Waaah... th-this looks really dangerous, nya... </danger>
+		<dead> Aaaah... I told you it was dangerous, didn't I, nya! </dead>
+		<dead> You're pushing too hard! Next time, be careful, okay nya!? </dead>
+		<stand> Let's take it easy today~ do whatever we feel like, nya~ </stand>
+		<stand> Sooo~ what kind of fun things will happen today, nya? </stand>
+		<stand> Hunting all the time isn't relaxing, nya. Let's just soak up some sunshine together~ </stand>
+		<levelup> You did it, nya! I knew you could get even stronger, nya! </levelup>
+		<levelup> As a gift, I'll show you my favorite sunbathing spot, nya~ </levelup>
+		<levelup> Just how strong are you planning to get, nya!? You gonna save the whole world, nya!?	</levelup>
+		<levelup> Maybe it's time I show you my true feelings, nya... </levelup>
+		<perfor_1> Myaw! Myaw! Myamyamyamyamyamyamya~~! </perfor_1>
+		<perfor_1> When I see something move, I pounce! Nya! </perfor_1>
+	</so_full>
+	
+</WILD_ROSE3>
+<Hornet>		
+			
+	<hungry>	
+		<feeding>Wow! Food time! Buzz buzz~</feeding>
+		<dead>Aw... no energy? Are you tired, buzz?</dead>
+		<stand>Where should we go flower-hunting today, buzz~?</stand>
+		<stand>They say scary bees live in another world, buzz!</stand>
+		<levelup>Wow! Amazing! Congratulations, buzz buzz~!</levelup>
+	</hungry>	
+
+	<bit_hungry>	
+		<feeding>Yay! Food time, buzz~!</feeding>
+		<dead>Aw... no energy? Are you tired, buzz?</dead>
+		<stand>Where should we go flower-hunting today, buzz~?</stand>
+		<stand>They say scary bees live in another world, buzz!</stand>
+		<levelup>Wow! Amazing! Congratulations, buzz buzz~!</levelup>
+	</bit_hungry>	
+
+	<noting>	
+		<feeding>Yay! Snack time~ buzz buzz!</feeding>
+		<dead>Aw... no energy? Are you tired, buzz?</dead>
+		<stand>Where should we go flower-hunting today, buzz~?</stand>
+		<stand>They say scary bees live in another world, buzz!</stand>
+		<levelup>I'll grow up soon too, so watch me closely, okay buzz~?</levelup>
+	</noting>	
+
+	<full>	
+		<feeding>Buzz~ I'm full now! So tasty!</feeding>
+		<dead>Aw... no energy? Are you tired, buzz?</dead>
+		<stand>Where should we go flower-hunting today, buzz~?</stand>
+		<stand>They say scary bees live in another world, buzz!</stand>
+		<levelup>I'll grow up soon too, so watch me closely, okay buzz~?</levelup>
+	</full>	
+
+	<so_full>	
+		<feeding>Buzz... too full... can't fly anymore~</feeding>
+		<dead>Aw... no energy? Are you tired, buzz?</dead>
+		<stand>Where should we go flower-hunting today, buzz~?</stand>
+		<stand>They say scary bees live in another world, buzz!</stand>
+		<levelup>I'll grow up soon too, so watch me closely, okay buzz~?</levelup>
+	</so_full>	
+			
+</Hornet>		
+<GIANT_HONET>		
+			
+	<hungry>	
+		<feeding>I'm hungry too, you know~ buzz!</feeding>
+		<dead>I must report this... to the Queen...</dead>
+		<danger>We need royal jelly, quick! Eat up, buzz!</danger>
+		<stand>Do you think I can become like the Queen someday, buzz?</stand>
+		<stand>Looks like it'll be another busy day, buzz~</stand>
+		<levelup>The Queen will be so proud of you, buzz buzz~!</levelup>
+	</hungry>	
+
+	<bit_hungry>	
+		<feeding>I'm hungry too, you know~ buzz!</feeding>
+		<dead>I must report this... to the Queen...</dead>
+		<danger>We need royal jelly, quick! Eat up, buzz!</danger>
+		<stand>Do you think I can become like the Queen someday, buzz?</stand>
+		<stand>Looks like it'll be another busy day, buzz~</stand>
+		<levelup>The Queen will be so proud of you, buzz buzz~!</levelup>
+	</bit_hungry>	
+
+	<noting>	
+		<feeding>Nom nom~ Gotta keep up my nutrients, buzz!</feeding>
+		<dead>I must report this... to the Queen...</dead>
+		<danger>We need royal jelly, quick! Eat up, buzz!</danger>
+		<stand>Do you think I can become like the Queen someday, buzz?</stand>
+		<stand>Looks like it'll be another busy day, buzz~</stand>
+		<levelup>The Queen will be so proud of you, buzz buzz~!</levelup>
+	</noting>	
+
+	<full>	
+		<feeding>If I eat any more, I won't be able to fly, buzz~!</feeding>
+		<dead>I must report this... to the Queen...</dead>
+		<danger>We need royal jelly, quick! Eat up, buzz!</danger>
+		<stand>Do you think I can become like the Queen someday, buzz?</stand>
+		<stand>Looks like it'll be another busy day, buzz~</stand>
+		<levelup>The Queen will be so proud of you, buzz buzz~!</levelup>
+	</full>	
+
+	<so_full>	
+		<feeding>If I eat any more, I won't be able to fly, buzz~!</feeding>
+		<dead>I must report this... to the Queen...</dead>
+		<danger>We need royal jelly, quick! Eat up, buzz!</danger>
+		<stand>Do you think I can become like the Queen someday, buzz?</stand>
+		<stand>Looks like it'll be another busy day, buzz~</stand>
+		<levelup>The Queen will be so proud of you, buzz buzz~!</levelup>
+	</so_full>	
+			
+</GIANT_HONET>		
+<MISTRESS2>		
+			
+	<hungry>	
+		<feeding>Are you... neglecting my offering, darling~?</feeding>
+		<danger>You mustn't collapse in a place like this, okay~?</danger>
+		<dead>Oh my... shall I carry you back to the nest~?</dead>
+		<stand>Mm~ there's such a sweet scent coming from over there...</stand>
+		<levelup>Fufufu~ congratulations, my dear~</levelup>
+		<perfor_1>Oh no! Oh no! My makeup's ruined~!</perfor_1>
+		<perfor_2>The sweet scent... it's gone!?</perfor_2>
+		<perfor_3>What a cute little one you are~</perfor_3>
+	</hungry>	
+
+	<bit_hungry>	
+		<feeding>Are you... neglecting my offering, darling~?</feeding>
+		<danger>You mustn't collapse in a place like this, okay~?</danger>
+		<dead>Oh my... shall I carry you back to the nest~?</dead>
+		<stand>Mm~ there's such a sweet scent coming from over there...</stand>
+		<levelup>Fufufu~ congratulations, my dear~</levelup>
+		<perfor_1>Oh no! Oh no! My makeup's ruined~!</perfor_1>
+		<perfor_2>The sweet scent... it's gone!?</perfor_2>
+		<perfor_3>What a cute little one you are~</perfor_3>
+	</bit_hungry>	
+
+	<noting>	
+		<feeding>Hmm~ I suppose that's enough for now~</feeding>
+		<danger>You mustn't collapse in a place like this, okay~?</danger>
+		<dead>Oh my... shall I carry you back to the nest~?</dead>
+		<stand>Mm~ there's such a sweet scent coming from over there...</stand>
+		<levelup>Fufufu~ congratulations, my dear~</levelup>
+		<perfor_1>Oh no! Oh no! My makeup's ruined~!</perfor_1>
+		<perfor_2>The sweet scent... it's gone!?</perfor_2>
+		<perfor_3>What a cute little one you are~</perfor_3>
+	</noting>	
+
+	<full>	
+		<feeding>Hmm~ I suppose that's enough for now~</feeding>
+		<danger>You mustn't collapse in a place like this, okay~?</danger>
+		<dead>Oh my... shall I carry you back to the nest~?</dead>
+		<stand>Mm~ there's such a sweet scent coming from over there...</stand>
+		<levelup>Fufufu~ congratulations, my dear~</levelup>
+		<perfor_1>Oh no! Oh no! My makeup's ruined~!</perfor_1>
+		<perfor_2>The sweet scent... it's gone!?</perfor_2>
+		<perfor_3>What a cute little one you are~</perfor_3>
+	</full>	
+
+	<so_full>	
+		<feeding>Hmm~ I suppose that's enough for now~</feeding>
+		<danger>You mustn't collapse in a place like this, okay~?</danger>
+		<dead>Oh my... shall I carry you back to the nest~?</dead>
+		<stand>Mm~ there's such a sweet scent coming from over there...</stand>
+		<levelup>Fufufu~ congratulations, my dear~</levelup>
+		<perfor_1>Oh no! Oh no! My makeup's ruined~!</perfor_1>
+		<perfor_2>The sweet scent... it's gone!?</perfor_2>
+		<perfor_3>What a cute little one you are~</perfor_3>
+	</so_full>	
+			
+</MISTRESS2>
+
+<ep20_icewind1>
+	<hungry>
+		<feeding>	Tasty!	</feeding>
+		<danger>	I need help!!	</danger>
+		<dead>	Ah...	</dead>
+		<stand>	I want to eat prey...	</stand>
+		<levelup>	Not bad!	</levelup>
+	</hungry>
+
+	<bit_hungry>
+		<feeding>	Tasty!	</feeding>
+		<danger>	I need help!!	</danger>
+		<dead>	Ah...	</dead>
+		<stand>	I want to eat prey...	</stand>
+		<levelup>	Not bad!	</levelup>
+	</bit_hungry>
+
+	<noting>
+		<feeding>	Good!	</feeding>
+		<danger>	I need help!!	</danger>
+		<dead>	Ah...	</dead>
+		<stand>	The wind is cold	</stand>
+		<stand>	Grrrrrr...	</stand>
+		<levelup>	Very touching	</levelup>
+	</noting>
+
+	<full>
+		<feeding>	...	</feeding>
+		<danger>	Be careful!!	</danger>
+		<danger>	It's dangerous!!!	</danger>
+		<dead>	Sorry I couldn't be of help..	</dead>
+		<stand>	The wind is cold	</stand>
+		<stand>	Grrrrrr...	</stand>
+		<levelup>	Impressive!	</levelup>
+		<levelup>	Very touching	</levelup>
+	</full>
+
+	<so_full>
+		<feeding>	That's enough!!	</feeding>
+		<danger>	Be careful!!	</danger>
+		<danger>	It's dangerous!!!	</danger>
+		<dead>	Sorry I couldn't be of help..	</dead>
+		<stand>	The wind is cold	</stand>
+		<stand>	Grrrrrr...	</stand>
+		<levelup>	Impressive!	</levelup>
+		<levelup>	Very touching	</levelup>
+	</so_full>
+</ep20_icewind1>
+
+<ep20_icewind2>
+	<hungry>
+		<feeding>	It's delicious...	</feeding>
+		<danger>	Do you need help?	</danger>
+		<dead>	Stay strong..	</dead>
+		<stand>	Hmm...	</stand>
+		<levelup>	Congratulations!	</levelup>
+	</hungry>
+
+	<bit_hungry>
+		<feeding>	It's delicious...	</feeding>
+		<danger>	Do you need help?	</danger>
+		<dead>	Stay strong..	</dead>
+		<stand>	Hmm...	</stand>
+		<levelup>	Congratulations!	</levelup>
+	</bit_hungry>
+
+	<noting>
+		<feeding>	Good	</feeding>
+		<danger>	Do you need help?	</danger>
+		<dead>	Stay strong..	</dead>
+		<stand>	I need to tidy my feathers	</stand>
+		<stand>	Yawn	</stand>
+		<levelup>	Congratulations!	</levelup>
+	</noting>
+
+	<full>
+		<feeding>	...	</feeding>
+		<danger>	Do you need help?	</danger>
+		<danger>	Run away quickly!	</danger>
+		<dead>	I couldn't protect you..	</dead>
+		<stand>	I need to tidy my feathers	</stand>
+		<stand>	Yawn	</stand>
+		<levelup>	Congratulations!	</levelup>
+		<levelup>	Awesome!	</levelup>
+	</full>
+
+	<so_full>
+		<feeding>	It's painful...	</feeding>
+		<danger>	Do you need help?	</danger>
+		<danger>	Run away quickly!	</danger>
+		<dead>	Ugh..	</dead>
+		<stand>	I need to tidy my feathers	</stand>
+		<stand>	Yawn	</stand>
+		<levelup>	It's nice to see you grow	</levelup>
+		<levelup>	Awesome!	</levelup>
+	</so_full>
+</ep20_icewind2>
+
+
+
+<FIRE_GOLEM>
+
+
+<hungry>
+
+<feeding> Crackle crackle </feeding>
+<dead> .......... </dead>
+<stand> Crack... crack... crack... </stand>
+<stand> Fwooooshhh </stand>
+<levelup> Fwoosh... fwoosh... </levelup>
+
+</hungry>
+
+
+<bit_hungry>
+
+<feeding> Crackle crackle </feeding>
+<dead> .......... </dead>
+<stand> Crack... crack... crack... </stand>
+<stand> Fwooooshhh </stand>
+<levelup> Fwoosh... fwoosh... </levelup>
+
+</bit_hungry>
+
+
+<noting>
+
+<feeding> Crackle crackle </feeding>
+<dead> .......... </dead>
+<stand> Crack... crack... crack... </stand>
+<stand> Fwooooshhh </stand>
+<levelup> Fwoosh... fwoosh... </levelup>
+
+</noting>
+
+
+<full>
+
+<feeding> Crackle crackle </feeding>
+<dead> .......... </dead>
+<stand> Crack... crack... crack... </stand>
+<stand> Fwooooshhh </stand>
+<levelup> Fwoosh... fwoosh... </levelup>
+
+</full>
+
+
+<so_full>
+
+<feeding> Crackle crackle </feeding>
+<dead> .......... </dead>
+<stand> Crack... crack... crack... </stand>
+<stand> Fwooooshhh </stand>
+<levelup> Fwoosh... fwoosh... </levelup>
+
+</so_full>
+
+</FIRE_GOLEM>
+
+
+	<nightmare_terror_mj>
+		<hungry>
+			<feeding> Heeheehee~hiiing! Heeheehee~hiiing! </feeding>
+			<feeding> I want to feast on human dreams too... </feeding>
+			<feeding> My favorite food is human dreams! Pururur! </feeding>
+			<hunting> Pururur! Hihiing-! Hihiing-! </hunting>
+			<hunting> Behold my splendid form! </hunting>
+			<hunting> I shall show you my true power! </hunting>
+			<danger> This is dangerous... but I can overcome it! </danger>
+			<danger> Human... are you pretending not to see me? </danger>
+			<danger> How risky... I might slip into your dreams. </danger>
+			<dead> Pururur... pururur... ... </dead>
+			<dead> Leave me like this, and I will devour your dreams! </dead>
+			<dead> Is this where I fade away...? </dead>
+			<stand> Shall I seek some amusement in reality? </stand>
+			<stand> Show weakness, and I shall appear in your dreams. </stand>
+			<stand> What kind of dreams do you have? Are they delicious? </stand>
+			<connect> How is it, seeing me in reality? </connect>
+			<connect> Welcome. It's even better to meet you in reality. </connect>
+			<connect> Now that you've awakened from your dream, reality begins. Stay strong. </connect>
+			<levelup> I grow even stronger within dreams! Pururur... </levelup>
+			<levelup> Purururururur-hihihihihiing!!! Can you feel my power?! </levelup>
+			<levelup> Pururur!! I think I've become stronger than you? </levelup>
+		</hungry>
+		<bit_hungry>
+			<feeding> Heeheehee~hiiing! Heeheehee~hiiing! </feeding>
+			<feeding> I want to feast on human dreams too... </feeding>
+			<feeding> My favorite food is human dreams! Pururur! </feeding>
+			<hunting> Pururur! Hihiing-! Hihiing-! </hunting>
+			<hunting> Behold my splendid form! </hunting>
+			<hunting> I shall show you my true power! </hunting>
+			<danger> This is dangerous... but I can overcome it! </danger>
+			<danger> Human... are you pretending not to see me? </danger>
+			<danger> How risky... I might slip into your dreams. </danger>
+			<dead> Pururur... pururur... ... </dead>
+			<dead> Leave me like this, and I will devour your dreams! </dead>
+			<dead> Is this where I fade away...? </dead>
+			<stand> Shall I seek some amusement in reality? </stand>
+			<stand> Show weakness, and I shall appear in your dreams. </stand>
+			<stand> What kind of dreams do you have? Are they delicious? </stand>
+			<connect> How is it, seeing me in reality? </connect>
+			<connect> Welcome. It's even better to meet you in reality. </connect>
+			<connect> Now that you've awakened from your dream, reality begins. Stay strong. </connect>
+			<levelup> I grow even stronger within dreams! Pururur.. </levelup>
+			<levelup> Purururururur-hihihihihiing!!! Can you feel my power?! </levelup>
+			<levelup> Pururur!! I think I've become stronger than you? </levelup>
+		</bit_hungry>
+		<noting>
+			<feeding> Heeheehee~hiiing! Heeheehee~hiiing! </feeding>
+			<feeding> I want to feast on human dreams too... </feeding>
+			<feeding> My favorite food is human dreams! Pururur! </feeding>
+			<hunting> Pururur! Hihiing-! Hihiing-! </hunting>
+			<hunting> Behold my splendid form! </hunting>
+			<hunting> I shall show you my true power! </hunting>
+			<danger> This is dangerous... but I can overcome it! </danger>
+			<danger> Human... are you pretending not to see me? </danger>
+			<danger> How risky... I might slip into your dreams. </danger>
+			<dead> Pururur... pururur... ... </dead>
+			<dead> Leave me like this, and I will devour your dreams! </dead>
+			<dead> Is this where I fade away...? </dead>
+			<stand> Shall I seek some amusement in reality? </stand>
+			<stand> Show weakness, and I shall appear in your dreams. </stand>
+			<stand> What kind of dreams do you have? Are they delicious? </stand>
+			<connect> How is it, seeing me in reality? </connect>
+			<connect> Welcome. It's even better to meet you in reality. </connect>
+			<connect> Now that you've awakened from your dream, reality begins. Stay strong. </connect>
+			<levelup> I grow even stronger within dreams! Pururur.. </levelup>
+			<levelup> Purururururur-hihihihihiing!!! Can you feel my power?! </levelup>
+			<levelup> Pururur!! I think I've become stronger than you? </levelup>
+
+		</noting>
+		<full>
+			<feeding> I feel like I might burst... Pururur.. </feeding>
+			<hunting> Pururur! Hihiing-! Hihiing-! </hunting>
+			<hunting> Behold my splendid form! </hunting>
+			<hunting> I shall show you my true power! </hunting>
+			<danger> This is dangerous... but I can overcome it! </danger>
+			<danger> Human... are you pretending not to see me? </danger>
+			<danger> How risky... I might slip into your dreams. </danger>
+			<dead> Pururur... pururur... ... </dead>
+			<dead> Leave me like this, and I will devour your dreams! </dead>
+			<dead> Is this where I fade away...? </dead>
+			<stand> Shall I seek some amusement in reality? </stand>
+			<stand> Show weakness, and I shall appear in your dreams. </stand>
+			<stand> What kind of dreams do you have? Are they delicious? </stand>
+			<connect> How is it, seeing me in reality? </connect>
+			<connect> Welcome. It's even better to meet you in reality. </connect>
+			<connect> Now that you've awakened from your dream, reality begins. Stay strong. </connect>
+			<levelup> I grow even stronger within dreams! Pururur.. </levelup>
+			<levelup> Purururururur-hihihihihiing!!! Can you feel my power?! </levelup>
+			<levelup> Pururur!! I think I've become stronger than you? </levelup>
+
+		</full>
+		<so_full>
+			<feeding> I feel like I might burst... Purururur... </feeding>
+			<hunting> Pururur! Hihiing-! Hihiing-! </hunting>
+			<hunting> Behold my splendid form! </hunting>
+			<hunting> I shall show you my true power! </hunting>
+			<danger> This is dangerous... but I can overcome it! </danger>
+			<danger> Human... are you pretending not to see me? </danger>
+			<danger> How risky... I might slip into your dreams. </danger>
+			<dead> Pururur... pururur... ... </dead>
+			<dead> Leave me like this, and I will devour your dreams! </dead>
+			<dead> Is this where I fade away...? </dead>
+			<stand> Shall I seek some amusement in reality? </stand>
+			<stand> Show weakness, and I shall appear in your dreams. </stand>
+			<stand> What kind of dreams do you have? Are they delicious? </stand>
+			<connect> How is it, seeing me in reality? </connect>
+			<connect> Welcome. It's even better to meet you in reality. </connect>
+			<connect> Now that you've awakened from your dream, reality begins. Stay strong. </connect>
+			<levelup> I grow even stronger within dreams! Pururur... </levelup>
+			<levelup> Purururururur-hihihihihiing!!! Can you feel my power?! </levelup>
+			<levelup> Pururur!! I think I've become stronger than you? </levelup>
+		</so_full>
+	</nightmare_terror_mj>
+
+<wander_man_mj>
+
+
+<hungry>
+<feeding> ...Still thirsty, huh? </feeding>
+<feeding> Think this will even quench it? </feeding>
+<feeding> My throat's burning... </feeding>
+<hunting> Will you at least cover my drinks? </hunting>
+<hunting> Not even worth a single drink. </hunting>
+<hunting> This isn't even entertaining. </hunting>
+<danger> Careful... I might end up brewing liquor with your blood. </danger>
+<danger> Stay sharp. </danger>
+<dead> Train harder. </dead>
+<dead> ...Who am I supposed to drink with now? </dead>
+<dead> What a disappointment. </dead>
+<stand> My throat... is burning... </stand>
+<stand> Leave me alone... </stand>
+<stand> The joy of facing someone like you... I'd almost forgotten it. </stand>
+<stand> What a weary life... </stand>
+<connect> You made it... Care for a drink? </connect>
+<connect> Got any more booze? </connect>
+<levelup> Come, let's raise a toast. I'll show you how much stronger I've become. </levelup>
+<levelup> The stronger I get... the more I crave a drink... </levelup>
+</hungry>
+
+<bit_hungry>
+
+<feeding> ...Still thirsty, huh? </feeding>
+<feeding> Think this will even quench it? </feeding>
+<feeding> My throat's burning... </feeding>
+<hunting> Will you at least cover my drinks? </hunting>
+<hunting> Not even worth a single drink. </hunting>
+<hunting> This isn't even entertaining. </hunting>
+<danger> Careful... I might end up brewing liquor with your blood. </danger>
+<danger> Stay sharp. </danger>
+<dead> Train harder. </dead>
+<dead> ...Who am I supposed to drink with now? </dead>
+<dead> What a disappointment. </dead>
+<stand> My throat... is burning... </stand>
+<stand> Leave me alone... </stand>
+<stand> The joy of facing someone like you... I'd almost forgotten it. </stand>
+<stand> What a weary life... </stand>
+<connect> You made it... Care for a drink? </connect>
+<connect> Got any more booze? </connect>
+<levelup> Come, let's raise a toast. I'll show you how much stronger I've become. </levelup>
+<levelup> The stronger I get... the more I crave a drink... </levelup>
+
+</bit_hungry>
+
+
+<noting>
+
+<feeding> ...Still thirsty, huh? </feeding>
+<feeding> Think this will even quench it? </feeding>
+<feeding> My throat's burning... </feeding>
+<hunting> Will you at least cover my drinks? </hunting>
+<hunting> Not even worth a single drink. </hunting>
+<hunting> This isn't even entertaining. </hunting>
+<danger> Careful... I might end up brewing liquor with your blood. </danger>
+<danger> Stay sharp. </danger>
+<dead> Train harder. </dead>
+<dead> ...Who am I supposed to drink with now? </dead>
+<dead> What a disappointment. </dead>
+<stand> My throat... is burning... </stand>
+<stand> Leave me alone... </stand>
+<stand> The joy of facing someone like you... I'd almost forgotten it. </stand>
+<stand> What a weary life... </stand>
+<connect> You made it... Care for a drink? </connect>
+<connect> Got any more booze? </connect>
+<levelup> Come, let's raise a toast. I'll show you how much stronger I've become. </levelup>
+<levelup> The stronger I get... the more I crave a drink... </levelup>
+
+</noting>
+
+
+<full>
+
+<feeding> I'm getting tipsy... Mind if I leave the rest? </feeding>
+<hunting> Will you at least cover my drinks? </hunting>
+<hunting> Not even worth a single drink. </hunting>
+<hunting> This isn't even entertaining. </hunting>
+<danger> Careful... I might end up brewing liquor with your blood. </danger>
+<danger> Stay sharp. </danger>
+<dead> Train harder. </dead>
+<dead> ...Who am I supposed to drink with now? </dead>
+<dead> What a disappointment. </dead>
+<stand> My throat... is burning... </stand>
+<stand> Leave me alone... </stand>
+<stand> The joy of facing someone like you... I'd almost forgotten it. </stand>
+<stand> What a weary life... </stand>
+<connect> You made it... Care for a drink? </connect>
+<connect> Got any more booze? </connect>
+<levelup> Come, let's raise a toast. I'll show you how much stronger I've become. </levelup>
+<levelup> The stronger I get... the more I crave a drink... </levelup>
+
+</full>
+
+
+<so_full>
+
+<feeding> I've had too much... I'll pass. </feeding>
+<hunting> Will you at least cover my drinks? </hunting>
+<hunting> Not even worth a single drink. </hunting>
+<hunting> This isn't even entertaining. </hunting>
+<danger> Careful... I might end up brewing liquor with your blood. </danger>
+<danger> Stay sharp. </danger>
+<dead> Train harder. </dead>
+<dead> ...Who am I supposed to drink with now? </dead>
+<dead> What a disappointment. </dead>
+<stand> My throat... is burning... </stand>
+<stand> Leave me alone... </stand>
+<stand> The joy of facing someone like you... I'd almost forgotten it. </stand>
+<stand> What a weary life... </stand>
+<connect> You made it... Care for a drink? </connect>
+<connect> Got any more booze? </connect>
+<levelup> Come, let's raise a toast. I'll show you how much stronger I've become. </levelup>
+<levelup> The stronger I get... the more I crave a drink... </levelup>
+
+</so_full>
+
+</wander_man_mj>
+
+<ORK_HERO2>
+
+
+<hungry>
+
+<feeding> Hahaha! Quite tasty! </feeding>
+<dead> Pathetic beyond measure! </dead>
+<stand> Behold the majestic presence of an Orc! </stand>
+<levelup> Congratulations! Do you wish to become a hero as well? </levelup>
+<perfor_1> Look upon me! I am the hero-Orc Hero! </perfor_1>
+<perfor_1> Boom boom boom!! The Orc Hero takes the stage! </perfor_1>
+<perfor_2> Well? What do you think of a hero's form? </perfor_2>
+<perfor_2> Whiiirl! This is the skill of a true hero! </perfor_2>
+
+</hungry>
+
+
+<bit_hungry>
+
+<feeding> Hahaha! Quite tasty! </feeding>
+<dead> Pathetic beyond measure! </dead>
+<stand> Behold the majestic presence of an Orc! </stand>
+<levelup> Congratulations! Do you wish to become a hero as well? </levelup>
+<perfor_1> Look upon me! I am the hero-Orc Hero! </perfor_1>
+<perfor_1> Boom boom boom!! The Orc Hero takes the stage! </perfor_1>
+<perfor_2> Well? What do you think of a hero's form? </perfor_2>
+<perfor_2> Whiiirl! This is the skill of a true hero! </perfor_2>
+
+</bit_hungry>
+
+
+<noting>
+
+<feeding> Hahaha! Quite tasty! </feeding>
+<dead> Pathetic beyond measure! </dead>
+<stand> Behold the majestic presence of an Orc! </stand>
+<levelup> Congratulations! Do you wish to become a hero as well? </levelup>
+<perfor_1> Look upon me! I am the hero-Orc Hero! </perfor_1>
+<perfor_1> Boom boom boom!! The Orc Hero takes the stage! </perfor_1>
+<perfor_2> Well? What do you think of a hero's form? </perfor_2>
+<perfor_2> Whiiirl! This is the skill of a true hero! </perfor_2>
+
+</noting>
+
+
+<full>
+
+<feeding> Tasty, but I'm growing tired of it! </feeding>
+<dead> Pathetic beyond measure! </dead>
+<stand> Behold the majestic presence of an Orc! </stand>
+<levelup> Congratulations! Do you wish to become a hero as well? </levelup>
+<perfor_1> Look upon me! I am the hero-Orc Hero! </perfor_1>
+<perfor_1> Boom boom boom!! The Orc Hero takes the stage! </perfor_1>
+<perfor_2> Well? What do you think of a hero's form? </perfor_2>
+<perfor_2> Whiiirl! This is the skill of a true hero! </perfor_2>
+
+</full>
+
+
+<so_full>
+
+<feeding> Hey! I said I'm full! Stop feeding me! </feeding>
+<dead> Pathetic beyond measure! </dead>
+<stand> Behold the majestic presence of an Orc! </stand>
+<levelup> Congratulations! Do you wish to become a hero as well? </levelup>
+<perfor_1> Look upon me! I am the hero-Orc Hero! </perfor_1>
+<perfor_1> Boom boom boom!! The Orc Hero takes the stage! </perfor_1>
+<perfor_2> Well? What do you think of a hero's form? </perfor_2>
+<perfor_2> Whiiirl! This is the skill of a true hero! </perfor_2>
+
+</so_full>
+
+</ORK_HERO2>
+
+	<BLUEMOON_LOLI_RURI2>
+		<hungry>
+			<feeding> Master, I was sooo hungry~~!! Don't you have something like blueberry pie instead?? </feeding>
+			<hunting> Catch them for me-so I can use them as ingredients for a new potion! </hunting>
+			<hunting> Waaah, fight! Fight! V.I.C.T.O.R.Y! Go, Master!! </hunting>
+			<danger> If you feel dizzy, tell me, okay? I prepared a special potion made with toad extract just for you~ </danger>
+			<danger> If you abandon me and disappear, I'll curse you forever!! </danger>
+			<dead> Wait... I had a special awakening potion for times like this... Huh? I think I lost it... </dead>
+			<dead> I, Blue Moon Loli Ruri, don't like weak masters! </dead>
+			<stand> Wanna go to my favorite opera house someday? It's a little ruined though... </stand>
+			<stand> People call me a witch, but I'm just a good girl, you know? </stand>
+			<stand> My friend in Niflheim is really good at makeup! </stand>
+			<stand> Another friend in Niflheim is kinda squishy~ and soft~~? </stand>
+			<stand> Let me introduce my friends~ Here's a cat, and here are some bats! Cute, right? Kuru??</stand>
+			<levelup> Now that you're stronger, you'll play with me too, right? </levelup>
+		</hungry>
+    
+		<bit_hungry>
+			<feeding> Master, I was sooo hungry~~!! Don't you have something like blueberry pie instead?? </feeding>
+			<hunting> Catch them for me-so I can use them as ingredients for a new potion! </hunting>
+			<hunting> Waaah, fight! Fight! V.I.C.T.O.R.Y! Go, Master!! </hunting>
+			<danger> If you feel dizzy, tell me, okay? I prepared a special potion made with toad extract just for you~ </danger>
+			<danger> If you abandon me and disappear, I'll curse you forever!! </danger>
+			<dead> Wait... I had a special awakening potion for times like this... Huh? I think I lost it... </dead>
+			<dead> I, Blue Moon Loli Ruri, don't like weak masters! </dead>
+			<stand> Wanna go to my favorite opera house someday? It's a little ruined though... </stand>
+			<stand> People call me a witch, but I'm just a good girl, you know? </stand>
+			<stand> My friend in Niflheim is really good at makeup! </stand>
+			<stand> Another friend in Niflheim is kinda squishy~ and soft~~? </stand>
+			<stand> Let me introduce my friends~ Here's a cat, and here are some bats! Cute, right? Kuru??</stand>
+			<levelup> Now that you're stronger, you'll play with me too, right? </levelup>
+		</bit_hungry>
+    
+		<noting>
+			<feeding> Mealtime with Master! Eat! Eat! Yum yum??</feeding>
+			<hunting> Catch them for me-so I can use them as ingredients for a new potion! </hunting>
+			<hunting> Waaah, fight! Fight! V.I.C.T.O.R.Y! Go, Master!! </hunting>
+			<danger> If you feel dizzy, tell me, okay? I prepared a special potion made with toad extract just for you~ </danger>
+			<danger> If you abandon me and disappear, I'll curse you forever!! </danger>
+			<dead> Wait... I had a special awakening potion for times like this... Huh? I think I lost it... </dead>
+			<dead> I, Blue Moon Loli Ruri, don't like weak masters! </dead>
+			<stand> Wanna go to my favorite opera house someday? It's a little ruined though... </stand>
+			<stand> People call me a witch, but I'm just a good girl, you know? </stand>
+			<stand> My friend in Niflheim is really good at makeup! </stand>
+			<stand> Another friend in Niflheim is kinda squishy~ and soft~~? </stand>
+			<stand> Let me introduce my friends~ Here's a cat, and here are some bats! Cute, right? Kuru??</stand>
+			<levelup> Now that you're stronger, you'll play with me too, right? </levelup>
+		</noting>
+
+		<full>
+			<feeding> I'm not that hungry... but thanks anyway~ </feeding>
+			<hunting> Catch them for me-so I can use them as ingredients for a new potion! </hunting>
+			<hunting> Waaah, fight! Fight! V.I.C.T.O.R.Y! Go, Master!! </hunting>
+			<danger> If you feel dizzy, tell me, okay? I prepared a special potion made with toad extract just for you~ </danger>
+			<danger> If you abandon me and disappear, I'll curse you forever!! </danger>
+			<dead> Wait... I had a special awakening potion for times like this... Huh? I think I lost it... </dead>
+			<dead> I, Blue Moon Loli Ruri, don't like weak masters! </dead>
+			<stand> Wanna go to my favorite opera house someday? It's a little ruined though... </stand>
+			<stand> People call me a witch, but I'm just a good girl, you know? </stand>
+			<stand> My friend in Niflheim is really good at makeup! </stand>
+			<stand> Another friend in Niflheim is kinda squishy~ and soft~~? </stand>
+			<stand> Let me introduce my friends~ Here's a cat, and here are some bats! Cute, right? Kuru??</stand>
+			<levelup> Now that you're stronger, you'll play with me too, right? </levelup>
+		</full>
+
+		<so_full>
+			<feeding> I feel like I'm gonna burst! Are you trying to kill me?? </feeding>
+			<hunting> Catch them for me-so I can use them as ingredients for a new potion! </hunting>
+			<hunting> Waaah, fight! Fight! V.I.C.T.O.R.Y! Go, Master!! </hunting>
+			<danger> If you feel dizzy, tell me, okay? I prepared a special potion made with toad extract just for you~ </danger>
+			<danger> If you abandon me and disappear, I'll curse you forever!! </danger>
+			<dead> Wait... I had a special awakening potion for times like this... Huh? I think I lost it... </dead>
+			<dead> I, Blue Moon Loli Ruri, don't like weak masters! </dead>
+			<stand> Wanna go to my favorite opera house someday? It's a little ruined though... </stand>
+			<stand> People call me a witch, but I'm just a good girl, you know? </stand>
+			<stand> My friend in Niflheim is really good at makeup! </stand>
+			<stand> Another friend in Niflheim is kinda squishy~ and soft~~? </stand>
+			<stand> Let me introduce my friends~ Here's a cat, and here are some bats! Cute, right? Kuru??</stand>
+			<levelup> Now that you're stronger, you'll play with me too, right? </levelup>
+		</so_full>
+	</BLUEMOON_LOLI_RURI2>
+	<Clock>		
+		
+		<hungry>	
+			<feeding> The clock will not slow down, it seems. </feeding>
+			<dead> It seems time is not the only thing that leads one to inevitable death. </dead>
+			<stand> Many clocks point to 10:10. Digital? What is that? </stand>
+			<stand> Night is merely the result of time's passage. Hmm? For the sake of appearances? </stand>
+			<levelup> Excellent. </levelup>
+		</hungry>	
+		<bit_hungry>	
+			<feeding> The clock will not slow down, it seems. </feeding>
+			<dead> It seems time is not the only thing that leads one to inevitable death. </dead>
+			<stand> Many clocks point to 10:10. Digital? What is that? </stand>
+			<stand> Night is merely the result of time's passage. Hmm? For the sake of appearances? </stand>
+			<levelup> Excellent. </levelup>
+		</bit_hungry>	
+		<noting>	
+			<feeding> The clock will not slow down, it seems. </feeding>
+			<dead> It seems time is not the only thing that leads one to inevitable death. </dead>
+			<stand> Many clocks point to 10:10. Digital? What is that? </stand>
+			<stand> Night is merely the result of time's passage. Hmm? For the sake of appearances? </stand>
+			<levelup> Even time struggles to keep up with your growth. </levelup>
+		</noting>	
+		<full>	
+			<feeding> That will suffice... </feeding>
+			<dead> It seems time is not the only thing that leads one to inevitable death. </dead>
+			<stand> Many clocks point to 10:10. Digital? What is that? </stand>
+			<stand> Night is merely the result of time's passage. Hmm? For the sake of appearances? </stand>
+			<levelup> Even time struggles to keep up with your growth. </levelup>
+		</full>	
+		<so_full>	
+			<feeding> That will suffice... </feeding>
+			<dead> It seems time is not the only thing that leads one to inevitable death. </dead>
+			<stand> Many clocks point to 10:10. Digital? What is that? </stand>
+			<stand> Night is merely the result of time's passage. Hmm? For the sake of appearances? </stand>
+			<levelup> Even time struggles to keep up with your growth. </levelup>
+		</so_full>	
+			
+	</Clock>		
+
+
+	<C_Tower_Manager>		
+			
+		<hungry>	
+			<feeding> I was on the verge of ceasing operation. </feeding>
+			<dead> To live each day as if it were your last does not mean you should truly die. </dead>
+			<danger> You must not neglect your physical condition. </danger>
+			<stand> We cannot leave this place unattended for too long. </stand>
+			<stand> Please remember the great alchemists of the past... </stand>
+			<levelup> Impressive. Would you consider assisting in managing the Clock Tower? </levelup>
+		</hungry>	
+		<bit_hungry>	
+			<feeding> Thank you. I will devote myself further to managing the Clock Tower. </feeding>
+			<dead> To live each day as if it were your last does not mean you should truly die. </dead>
+			<danger> You must not neglect your physical condition. </danger>
+			<stand> We cannot leave this place unattended for too long. </stand>
+			<stand> Please remember the great alchemists of the past... </stand>
+			<levelup> Impressive. Would you consider assisting in managing the Clock Tower? </levelup>
+		</bit_hungry>	
+		<noting>	
+			<feeding> Thank you. I will devote myself further to managing the Clock Tower. </feeding>
+			<dead> To live each day as if it were your last does not mean you should truly die. </dead>
+			<danger> You must not neglect your physical condition. </danger>
+			<stand> We cannot leave this place unattended for too long. </stand>
+			<stand> Please remember the great alchemists of the past... </stand>
+			<levelup> Impressive. Would you consider assisting in managing the Clock Tower? </levelup>
+		</noting>	
+		<full>	
+			<feeding> Thank you, but please be cautious. I may malfunction. </feeding>
+			<dead> To live each day as if it were your last does not mean you should truly die. </dead>
+			<danger> You must not neglect your physical condition. </danger>
+			<stand> We cannot leave this place unattended for too long. </stand>
+			<stand> Please remember the great alchemists of the past... </stand>
+			<levelup> Impressive. Would you consider assisting in managing the Clock Tower? </levelup>
+		</full>	
+		<so_full>	
+			<feeding> Thank you, but please be cautious. I may malfunction. </feeding>
+			<dead> To live each day as if it were your last does not mean you should truly die. </dead>
+			<danger> You must not neglect your physical condition. </danger>
+			<stand> We cannot leave this place unattended for too long. </stand>
+			<stand> Please remember the great alchemists of the past... </stand>
+			<levelup> Impressive. Would you consider assisting in managing the Clock Tower? </levelup>
+		</so_full>	
+			
+	</C_Tower_Manager>		
+
+		<TIMEHOLDER2>
+						
+		<hungry>							
+			<feeding> Mmm... mm... good... </feeding>					
+			<danger> Do not... lose your time... </danger>					
+			<dead> You have grasped... the time of death... </dead>		
+			<stand> Finding meaning within meaningless time... is your burden... </stand>
+			<stand> Time is not equal... for all... </stand>					
+			<levelup> Do not forget... the time you have invested... </levelup>				
+			<perfor_1> Zzz... Zzzz... </perfor_1>
+			<perfor_2> Reversing time? Absurd... Do not even think of defying it... </perfor_2>
+			<perfor_3> (Thud... press...) ...How noisy... </perfor_3>					
+		</hungry>							
+		<bit_hungry>							
+			<feeding> Mmm... mm... good... </feeding>					
+			<danger> Do not... lose your time... </danger>					
+			<dead> You have grasped... the time of death... </dead>		
+			<stand> Finding meaning within meaningless time... is your burden... </stand>
+			<stand> Time is not equal... for all... </stand>					
+			<levelup> Do not forget... the time you have invested... </levelup>				
+			<perfor_1> Zzz... Zzzz... </perfor_1>
+			<perfor_2> Reversing time? Absurd... Do not even think of defying it... </perfor_2>
+			<perfor_3> (Thud... press...) ...How noisy... </perfor_3>					
+		</bit_hungry>							
+		<noting>							
+			<feeding> Mmm... mm... good... </feeding>			
+			<danger> Do not... lose your time... </danger>					
+			<dead> You have grasped... the time of death... </dead>		
+			<stand> Finding meaning within meaningless time... is your burden... </stand>
+			<stand> Time is not equal... for all... </stand>					
+			<levelup> Do not forget... the time you have invested... </levelup>				
+			<perfor_1> Zzz... Zzzz... </perfor_1>
+			<perfor_2> Reversing time? Absurd... Do not even think of defying it... </perfor_2>
+			<perfor_3> (Thud... press...) ...How noisy... </perfor_3>		
+		</noting>							
+		<full>							
+			<feeding> Mmm... mm... I am full... </feeding>			
+			<danger> Do not... lose your time... </danger>					
+			<dead> You have grasped... the time of death... </dead>		
+			<stand> Finding meaning within meaningless time... is your burden... </stand>
+			<stand> Time is not equal... for all... </stand>					
+			<levelup> Do not forget... the time you have invested... </levelup>				
+			<perfor_1> Zzz... Zzzz... </perfor_1>
+			<perfor_2> Reversing time? Absurd... Do not even think of defying it... </perfor_2>
+			<perfor_3> (Thud... press...) ...How noisy... </perfor_3>		
+		</full>							
+		<so_full>							
+			<feeding> Mmm... mm... I am full... </feeding>			
+			<danger> Do not... lose your time... </danger>					
+			<dead> You have grasped... the time of death... </dead>		
+			<stand> Finding meaning within meaningless time... is your burden... </stand>
+			<stand> Time is not equal... for all... </stand>					
+			<levelup> Do not forget... the time you have invested... </levelup>				
+			<perfor_1> Zzz... Zzzz... </perfor_1>
+			<perfor_2> Reversing time? Absurd... Do not even think of defying it... </perfor_2>
+			<perfor_3> (Thud... press...) ...How noisy... </perfor_3>				
+		</so_full>							
+									
+	</TIMEHOLDER2>		
 </monster_talk_table>

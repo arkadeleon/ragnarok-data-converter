@@ -1,0 +1,32 @@
+loadingscreen#
+21#
+
+//weather#prontera.rsw#snow#
+//weather#izlude.rsw#snow#
+//weather#geffen.rsw#snow#
+//weather#aldebaran.rsw#snow#
+//weather#alberta.rsw#snow#
+//weather#payon.rsw#snow#
+//weather#yuno.rsw#snow#
+//weather#lighthalzen.rsw#snow#
+//weather#hugel.rsw#snow#
+//weather#brasilis.rsw#snow#
+//weather#dewata.rsw#snow#
+//weather#malangdo.rsw#snow#
+//weather#lasagna.rsw#snow#
+//weather#amatsu.rsw#snow#
+//weather#ayothaya.rsw#snow#
+//weather#louyang.rsw#snow#
+//weather#malaya.rsw#snow#
+//weather#moscovia.rsw#snow#
+//weather#gonryun.rsw#snow#
+//weather#manuk.rsw#snow#
+//weather#dicastes01.rsw#snow#
+
+//2024.07.02 4th July 이벤트
+//weather#prontera.rsw#pokjuk#
+//weather#comodo.rsw#pokjuk#
+
+
+event#0#
+//file end
