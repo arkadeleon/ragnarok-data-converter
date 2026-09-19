@@ -1,0 +1,2588 @@
+{
+  "06guild_01" : {
+    "displayName" : "行会对抗竞赛场"
+  },
+  "06guild_02" : {
+    "displayName" : "行会对抗竞赛场"
+  },
+  "06guild_03" : {
+    "displayName" : "行会对抗竞赛场"
+  },
+  "06guild_04" : {
+    "displayName" : "行会对抗竞赛场"
+  },
+  "06guild_05" : {
+    "displayName" : "行会对抗竞赛场"
+  },
+  "06guild_06" : {
+    "displayName" : "行会对抗竞赛场"
+  },
+  "06guild_07" : {
+    "displayName" : "行会对抗竞赛场"
+  },
+  "06guild_08" : {
+    "displayName" : "行会对抗竞赛场"
+  },
+  "06guild_r" : {
+    "displayName" : "行会对抗竞赛场等待室"
+  },
+  "1@cash" : {
+    "displayName" : "章鱼洞穴"
+  },
+  "1@cata" : {
+    "displayName" : "咯塔空"
+  },
+  "1@dth1" : {
+    "displayName" : "拜欧斯岛"
+  },
+  "1@dth2" : {
+    "displayName" : "拜欧斯岛"
+  },
+  "1@dth3" : {
+    "displayName" : "拜欧斯岛"
+  },
+  "1@ecl" : {
+    "displayName" : "艾卡拉奇内部"
+  },
+  "1@eom" : {
+    "displayName" : "魔神殿"
+  },
+  "1@face" : {
+    "displayName" : "人面虫洞穴"
+  },
+  "1@ge_st" : {
+    "displayName" : "吉芬魔法大会"
+  },
+  "1@gef" : {
+    "displayName" : "吉芬魔法大会"
+  },
+  "1@gef_in" : {
+    "displayName" : "吉芬魔法大会"
+  },
+  "1@jtb" : {
+    "displayName" : "噩梦吉特巴"
+  },
+  "1@lhz" : {
+    "displayName" : "保罗协夫研究室"
+  },
+  "1@ma_b" : {
+    "displayName" : "食月者的藏身处"
+  },
+  "1@ma_c" : {
+    "displayName" : "宝箱巨鳄洞穴"
+  },
+  "1@ma_h" : {
+    "displayName" : "般滚勾特医院2层"
+  },
+  "1@mist" : {
+    "displayName" : "霧林迷宮"
+  },
+  "1@nyd" : {
+    "displayName" : "尼德豪格的巢穴"
+  },
+  "1@orcs" : {
+    "displayName" : "兽人地下洞穴"
+  },
+  "1@pump" : {
+    "displayName" : "排水沟"
+  },
+  "1@rev" : {
+    "displayName" : "死亡洞穴"
+  },
+  "1@sara" : {
+    "displayName" : "萨拉的记忆"
+  },
+  "1@spa" : {
+    "displayName" : "亡灵的王宫"
+  },
+  "1@tnm1" : {
+    "displayName" : "魔神之塔上层"
+  },
+  "1@tnm2" : {
+    "displayName" : "魔神之塔最上层"
+  },
+  "1@tnm3" : {
+    "displayName" : "梦罗克城地下"
+  },
+  "1@tower" : {
+    "displayName" : "恩德勒斯塔"
+  },
+  "1@xm_d" : {
+    "displayName" : "恐怖玩具工厂"
+  },
+  "2@cata" : {
+    "displayName" : "封印的神殿"
+  },
+  "2@nyd" : {
+    "displayName" : "尼德豪格的巢穴"
+  },
+  "2@orcs" : {
+    "displayName" : "兽人地下洞穴"
+  },
+  "2@pump" : {
+    "displayName" : "排水沟"
+  },
+  "2@tower" : {
+    "displayName" : "恩德勒斯塔"
+  },
+  "3@tower" : {
+    "displayName" : "恩德勒斯塔"
+  },
+  "4@tower" : {
+    "displayName" : "恩德勒斯塔"
+  },
+  "5@tower" : {
+    "displayName" : "恩德勒斯塔"
+  },
+  "6@tower" : {
+    "displayName" : "恩德勒斯塔"
+  },
+  "abbey01" : {
+    "displayName" : "无名岛修道院1层"
+  },
+  "abbey02" : {
+    "displayName" : "无名岛修道院地下1层"
+  },
+  "abbey03" : {
+    "displayName" : "无名岛修道院地下2层"
+  },
+  "abyss_01" : {
+    "displayName" : "毀葛深渊湖水 地下洞穴1层"
+  },
+  "abyss_02" : {
+    "displayName" : "毀葛深渊湖水 地下洞穴2层"
+  },
+  "abyss_03" : {
+    "displayName" : "毀葛深渊湖水 地下洞穴3层"
+  },
+  "airplane" : {
+    "displayName" : "飞空艇"
+  },
+  "airplane_01" : {
+    "displayName" : "飞空艇"
+  },
+  "airport" : {
+    "displayName" : "艾音布罗克 机场"
+  },
+  "alb2trea" : {
+    "displayName" : "沉船附近的岛屿"
+  },
+  "alb_ship" : {
+    "displayName" : "艾尔贝塔 船舶内部"
+  },
+  "alberta" : {
+    "displayName" : "港口之都 艾尔贝塔"
+  },
+  "alberta_in" : {
+    "displayName" : "艾尔贝塔 内部"
+  },
+  "alde_alche" : {
+    "displayName" : "炼金术师 转职所"
+  },
+  "alde_dun01" : {
+    "displayName" : "艾尔帕兰 钟塔地下楼层 1楼"
+  },
+  "alde_dun02" : {
+    "displayName" : "艾尔帕兰 钟塔地下楼层 2楼"
+  },
+  "alde_dun03" : {
+    "displayName" : "艾尔帕兰 钟塔地下楼层 3楼"
+  },
+  "alde_dun04" : {
+    "displayName" : "艾尔帕兰 钟塔地下楼层 4楼"
+  },
+  "alde_gld" : {
+    "displayName" : "艾尔帕兰卫星都市 露依纳"
+  },
+  "aldeba_in" : {
+    "displayName" : "运河之都 艾尔帕兰"
+  },
+  "aldebaran" : {
+    "displayName" : "运河之都 艾尔帕兰"
+  },
+  "aldeg_cas01" : {
+    "displayName" : "露依纳 工会"
+  },
+  "aldeg_cas02" : {
+    "displayName" : "露依纳 工会"
+  },
+  "aldeg_cas03" : {
+    "displayName" : "露依纳 工会"
+  },
+  "aldeg_cas04" : {
+    "displayName" : "露依纳 工会"
+  },
+  "aldeg_cas05" : {
+    "displayName" : "露依纳 工会"
+  },
+  "ama_dun01" : {
+    "displayName" : "樱花城 榻榻米 迷宫"
+  },
+  "ama_dun02" : {
+    "displayName" : "樱花城 地下森 战场"
+  },
+  "ama_dun03" : {
+    "displayName" : "樱花城 地下庙堂"
+  },
+  "ama_fild01" : {
+    "displayName" : "樱花城原野"
+  },
+  "ama_in01" : {
+    "displayName" : "樱花城内部"
+  },
+  "ama_in02" : {
+    "displayName" : "天水角内部"
+  },
+  "ama_test" : {
+    "displayName" : "樱花城 摩摩塔乐 体验所"
+  },
+  "amatsu" : {
+    "displayName" : "天水之国 樱花城"
+  },
+  "anthell01" : {
+    "displayName" : "蚂蚁 地狱 密穴 1层"
+  },
+  "anthell02" : {
+    "displayName" : "蚂蚁 地狱 密穴 2层"
+  },
+  "arena_room" : {
+    "displayName" : "竞技场 等候室"
+  },
+  "aru_gld" : {
+    "displayName" : "发菲依雅 公会"
+  },
+  "arug_cas01" : {
+    "displayName" : "发菲依雅 公会"
+  },
+  "arug_cas02" : {
+    "displayName" : "发菲依雅 公会"
+  },
+  "arug_cas03" : {
+    "displayName" : "发菲依雅 公会"
+  },
+  "arug_cas04" : {
+    "displayName" : "发菲依雅 公会"
+  },
+  "arug_cas05" : {
+    "displayName" : "发菲依雅 公会"
+  },
+  "arug_dun01" : {
+    "displayName" : "公会地下迷宫"
+  },
+  "arug_que01" : {
+    "displayName" : "莫尔斯敦草地"
+  },
+  "auction_01" : {
+    "displayName" : "拍卖场"
+  },
+  "auction_02" : {
+    "displayName" : "拍卖场"
+  },
+  "ayo_dun01" : {
+    "displayName" : "哎哟泰雅 古代神殿 迷宫"
+  },
+  "ayo_dun02" : {
+    "displayName" : "哎哟泰雅 古代神殿 内部"
+  },
+  "ayo_fild01" : {
+    "displayName" : "哎哟泰雅 原野"
+  },
+  "ayo_fild02" : {
+    "displayName" : "哎哟泰雅 原野"
+  },
+  "ayo_in01" : {
+    "displayName" : "哎哟泰雅 内部"
+  },
+  "ayo_in02" : {
+    "displayName" : "哎哟泰雅 内部"
+  },
+  "ayothaya" : {
+    "displayName" : "哎哟泰雅"
+  },
+  "baby_para" : {
+    "displayName" : "儿童乐园"
+  },
+  "bat_a01" : {
+    "displayName" : "提埃拉峡谷"
+  },
+  "bat_a02" : {
+    "displayName" : "提埃拉峡谷"
+  },
+  "bat_b01" : {
+    "displayName" : "普拉比乌斯"
+  },
+  "bat_b02" : {
+    "displayName" : "普拉比乌斯"
+  },
+  "bat_c01" : {
+    "displayName" : "克里格芬*米德加尔特"
+  },
+  "bat_c02" : {
+    "displayName" : "克里格芬*米德加尔特"
+  },
+  "bat_c03" : {
+    "displayName" : "克里格芬*米德加尔特"
+  },
+  "bat_room" : {
+    "displayName" : "战场等候间"
+  },
+  "beach_dun" : {
+    "displayName" : "克魔岛 西边 洞穴 加露"
+  },
+  "beach_dun2" : {
+    "displayName" : "克魔岛 北边 洞穴 卢安达"
+  },
+  "beach_dun3" : {
+    "displayName" : "克魔岛 东边 洞穴 马吾"
+  },
+  "bif_fild01" : {
+    "displayName" : "彩虹桥南部"
+  },
+  "bif_fild02" : {
+    "displayName" : "彩虹桥北部"
+  },
+  "bossnia_01" : {
+    "displayName" : "波斯尼亚"
+  },
+  "bossnia_02" : {
+    "displayName" : "波斯尼亚"
+  },
+  "bossnia_03" : {
+    "displayName" : "波斯尼亚"
+  },
+  "bossnia_04" : {
+    "displayName" : "波斯尼亚"
+  },
+  "bra_dun01" : {
+    "displayName" : "巴西瀑布里的洞穴入口"
+  },
+  "bra_dun02" : {
+    "displayName" : "巴西瀑布里的洞穴内部"
+  },
+  "bra_fild01" : {
+    "displayName" : "巴西平原"
+  },
+  "bra_in01" : {
+    "displayName" : "巴西内部"
+  },
+  "brasilis" : {
+    "displayName" : "巴西"
+  },
+  "bullking" : {
+    "displayName" : "牛魔殿"
+  },
+  "c_tower1" : {
+    "displayName" : "艾尔帕兰 钟塔地上楼层 1楼"
+  },
+  "c_tower2" : {
+    "displayName" : "艾尔帕兰 钟塔地上楼层 2楼"
+  },
+  "c_tower2_" : {
+    "displayName" : "时间扭曲的钟楼 2层"
+  },
+  "c_tower3" : {
+    "displayName" : "艾尔帕兰 钟塔地上楼层 3楼"
+  },
+  "c_tower3_" : {
+    "displayName" : "时间扭曲的钟楼 3层"
+  },
+  "c_tower4" : {
+    "displayName" : "艾尔帕兰 钟塔地上楼层 4楼"
+  },
+  "cave" : {
+    "displayName" : "洞穴村"
+  },
+  "cmd_fild01" : {
+    "displayName" : "克魔岛 巴不其卡 森林"
+  },
+  "cmd_fild02" : {
+    "displayName" : "克魔岛 克克魔 海边"
+  },
+  "cmd_fild03" : {
+    "displayName" : "克魔岛 基乃依 沼泽地"
+  },
+  "cmd_fild04" : {
+    "displayName" : "克魔岛 克克魔 海边"
+  },
+  "cmd_fild05" : {
+    "displayName" : "巴不其卡 森林边界"
+  },
+  "cmd_fild06" : {
+    "displayName" : "要塞都市 山特乐曼 西边 地区"
+  },
+  "cmd_fild07" : {
+    "displayName" : "发乐斯 灯塔岛"
+  },
+  "cmd_fild08" : {
+    "displayName" : "要塞都市 山特乐曼 东边 地区"
+  },
+  "cmd_fild09" : {
+    "displayName" : "要塞都市 山特乐曼 南边 地区"
+  },
+  "cmd_in01" : {
+    "displayName" : "克魔岛 内部"
+  },
+  "cmd_in02" : {
+    "displayName" : "克魔岛 内部"
+  },
+  "comodo" : {
+    "displayName" : "海边之都 克魔岛"
+  },
+  "dali" : {
+    "displayName" : "次元龟裂"
+  },
+  "dali02" : {
+    "displayName" : "次元裂缝"
+  },
+  "darkness_z" : {
+    "displayName" : "黑暗地带"
+  },
+  "dew_dun01" : {
+    "displayName" : "喀拉喀托火山岛"
+  },
+  "dew_dun02" : {
+    "displayName" : "伊斯坦纳洞穴"
+  },
+  "dew_fild01" : {
+    "displayName" : "德瓦他原野_賈提族部落"
+  },
+  "dew_in01" : {
+    "displayName" : "賈提族村理"
+  },
+  "dewata" : {
+    "displayName" : "德瓦他"
+  },
+  "dic_dun01" : {
+    "displayName" : "卡米达隧道"
+  },
+  "dic_dun02" : {
+    "displayName" : "甲虫洞"
+  },
+  "dic_fild01" : {
+    "displayName" : "卡米达山麓"
+  },
+  "dic_fild02" : {
+    "displayName" : "卡米达山麓"
+  },
+  "dic_in01" : {
+    "displayName" : "迪斯特斯内部"
+  },
+  "dicastes01" : {
+    "displayName" : "沙帕首都埃迪斯特斯"
+  },
+  "dicastes02" : {
+    "displayName" : "布伦贝德·约尔希森林"
+  },
+  "dragon_nes2" : {
+    "displayName" : "魔龙的巢"
+  },
+  "dragon_nest" : {
+    "displayName" : "魔龙的巢"
+  },
+  "e_tower" : {
+    "displayName" : "密斯提岛"
+  },
+  "ecl_fild01" : {
+    "displayName" : "花开伊始的大地"
+  },
+  "ecl_in01" : {
+    "displayName" : "艾卡拉奇内部"
+  },
+  "ecl_in02" : {
+    "displayName" : "艾卡拉奇内部"
+  },
+  "ecl_in03" : {
+    "displayName" : "艾卡拉奇内部"
+  },
+  "ecl_in04" : {
+    "displayName" : "艾卡拉奇内部"
+  },
+  "ecl_tdun01" : {
+    "displayName" : "彩虹桥高塔 1楼"
+  },
+  "ecl_tdun02" : {
+    "displayName" : "彩虹桥高塔 2楼"
+  },
+  "ecl_tdun03" : {
+    "displayName" : "彩虹桥高塔 3楼"
+  },
+  "ecl_tdun04" : {
+    "displayName" : "彩虹桥高塔 4楼"
+  },
+  "eclage" : {
+    "displayName" : "精灵之都艾卡拉奇"
+  },
+  "ein_dun01" : {
+    "displayName" : "艾音贝赫矿山1层"
+  },
+  "ein_dun02" : {
+    "displayName" : "艾音贝赫矿山2层"
+  },
+  "ein_fild01" : {
+    "displayName" : "艾音布罗克 原野"
+  },
+  "ein_fild02" : {
+    "displayName" : "艾音布罗克 原野"
+  },
+  "ein_fild03" : {
+    "displayName" : "艾音布罗克 原野"
+  },
+  "ein_fild04" : {
+    "displayName" : "艾音布罗克 原野"
+  },
+  "ein_fild05" : {
+    "displayName" : "艾音布罗克 原野"
+  },
+  "ein_fild06" : {
+    "displayName" : "艾音布罗克 原野"
+  },
+  "ein_fild07" : {
+    "displayName" : "艾音布罗克 原野"
+  },
+  "ein_fild08" : {
+    "displayName" : "艾音布罗克 原野"
+  },
+  "ein_fild09" : {
+    "displayName" : "艾音布罗克 原野"
+  },
+  "ein_fild10" : {
+    "displayName" : "艾音布罗克 原野"
+  },
+  "ein_in01" : {
+    "displayName" : "室内"
+  },
+  "einbech" : {
+    "displayName" : "采矿村落 艾音贝赫"
+  },
+  "einbroch" : {
+    "displayName" : "钢铁之都 艾音布罗克"
+  },
+  "elc_hub01" : {
+    "displayName" : "艾卡拉奇小径"
+  },
+  "evt_hello" : {
+    "displayName" : "囚禁灵魂之地"
+  },
+  "evt_maze" : {
+    "displayName" : "迷藏森林"
+  },
+  "evt_zombie" : {
+    "displayName" : "Run_From_Zombie"
+  },
+  "force_1-1" : {
+    "displayName" : "限时激斗模式"
+  },
+  "force_1-2" : {
+    "displayName" : "限时激斗模式"
+  },
+  "force_1-3" : {
+    "displayName" : "限时激斗模式"
+  },
+  "force_2-1" : {
+    "displayName" : "限时激斗模式"
+  },
+  "force_2-2" : {
+    "displayName" : "限时激斗模式"
+  },
+  "force_2-3" : {
+    "displayName" : "限时激斗模式"
+  },
+  "force_3-1" : {
+    "displayName" : "限时激斗模式"
+  },
+  "force_3-2" : {
+    "displayName" : "限时激斗模式"
+  },
+  "force_3-3" : {
+    "displayName" : "限时激斗模式"
+  },
+  "gef_dun00" : {
+    "displayName" : "吉芬 地下 密穴"
+  },
+  "gef_dun01" : {
+    "displayName" : "吉芬 地下 密穴"
+  },
+  "gef_dun02" : {
+    "displayName" : "葛帔尼亚 密穴"
+  },
+  "gef_dun03" : {
+    "displayName" : "葛帔尼亚 密穴"
+  },
+  "gef_fild00" : {
+    "displayName" : "吉芬 区域"
+  },
+  "gef_fild01" : {
+    "displayName" : "吉芬 区域"
+  },
+  "gef_fild02" : {
+    "displayName" : "吉芬 区域"
+  },
+  "gef_fild03" : {
+    "displayName" : "吉芬 区域"
+  },
+  "gef_fild04" : {
+    "displayName" : "吉芬 区域"
+  },
+  "gef_fild05" : {
+    "displayName" : "吉芬 区域"
+  },
+  "gef_fild06" : {
+    "displayName" : "吉芬 区域"
+  },
+  "gef_fild07" : {
+    "displayName" : "吉芬 区域"
+  },
+  "gef_fild08" : {
+    "displayName" : "吉芬 区域"
+  },
+  "gef_fild09" : {
+    "displayName" : "吉芬 区域"
+  },
+  "gef_fild10" : {
+    "displayName" : "兽人村落"
+  },
+  "gef_fild11" : {
+    "displayName" : "吉芬 区域"
+  },
+  "gef_fild13" : {
+    "displayName" : "怖立特离亚"
+  },
+  "gef_tower" : {
+    "displayName" : "吉芬 中央塔"
+  },
+  "gefenia01" : {
+    "displayName" : "葛帔尼亚"
+  },
+  "gefenia02" : {
+    "displayName" : "葛帔尼亚"
+  },
+  "gefenia03" : {
+    "displayName" : "葛帔尼亚"
+  },
+  "gefenia04" : {
+    "displayName" : "葛帔尼亚"
+  },
+  "geffen" : {
+    "displayName" : "魔法之都 吉芬"
+  },
+  "geffen_in" : {
+    "displayName" : "吉芬 内部"
+  },
+  "gefg_cas01" : {
+    "displayName" : "咘哩妥利亚 工会"
+  },
+  "gefg_cas02" : {
+    "displayName" : "咘哩妥利亚 工会"
+  },
+  "gefg_cas03" : {
+    "displayName" : "咘哩妥利亚 工会"
+  },
+  "gefg_cas04" : {
+    "displayName" : "咘哩妥利亚 工会"
+  },
+  "gefg_cas05" : {
+    "displayName" : "咘哩妥利亚 工会"
+  },
+  "gl_cas01" : {
+    "displayName" : "克雷斯特汉姆古城 地上楼层 1楼"
+  },
+  "gl_cas02" : {
+    "displayName" : "克雷斯特汉姆古城 地上楼层 2楼"
+  },
+  "gl_church" : {
+    "displayName" : "克雷斯特汉姆古城 修道院"
+  },
+  "gl_chyard" : {
+    "displayName" : "克雷斯特汉姆古城 地下公墓"
+  },
+  "gl_dun01" : {
+    "displayName" : "克雷斯特汉姆 最下层 地下洞窟 1层"
+  },
+  "gl_dun02" : {
+    "displayName" : "克雷斯特汉姆 最下层 地下洞窟 2层"
+  },
+  "gl_in01" : {
+    "displayName" : "克雷斯特汉姆古城 室内"
+  },
+  "gl_knt01" : {
+    "displayName" : "克雷斯特汉姆 骑士团1楼"
+  },
+  "gl_knt02" : {
+    "displayName" : "克雷斯特汉姆 骑士团2楼"
+  },
+  "gl_prison" : {
+    "displayName" : "克雷斯特汉姆 地下监狱1楼"
+  },
+  "gl_prison1" : {
+    "displayName" : "克雷斯特汉姆 地下监狱2楼"
+  },
+  "gl_sew01" : {
+    "displayName" : "克雷斯特汉姆 地下水道 1层"
+  },
+  "gl_sew02" : {
+    "displayName" : "克雷斯特汉姆 地下水道 2层"
+  },
+  "gl_sew03" : {
+    "displayName" : "克雷斯特汉姆 地下水道 3层"
+  },
+  "gl_sew04" : {
+    "displayName" : "克雷斯特汉姆 地下水道 4层"
+  },
+  "gl_step" : {
+    "displayName" : "克雷斯特汉姆 楼梯密穴"
+  },
+  "glast_01" : {
+    "displayName" : "克雷斯特汉姆古城"
+  },
+  "gld_dun01" : {
+    "displayName" : "工会 地下 迷宫"
+  },
+  "gld_dun02" : {
+    "displayName" : "工会 地下 迷宫"
+  },
+  "gld_dun03" : {
+    "displayName" : "工会 地下 迷宫"
+  },
+  "gld_dun04" : {
+    "displayName" : "工会 地下 迷宫"
+  },
+  "gon_dun01" : {
+    "displayName" : "昆仑 西王母神殿"
+  },
+  "gon_dun02" : {
+    "displayName" : "昆仑 神仙的围棋台"
+  },
+  "gon_dun03" : {
+    "displayName" : "昆仑 武陵道院"
+  },
+  "gon_fild01" : {
+    "displayName" : "昆仑原野"
+  },
+  "gon_in" : {
+    "displayName" : "昆仑内部"
+  },
+  "gon_test" : {
+    "displayName" : "昆仑 战斗场"
+  },
+  "gonryun" : {
+    "displayName" : "神仙之岛 昆仑"
+  },
+  "guild_room" : {
+    "displayName" : "工会对抗竞技场 休息室"
+  },
+  "guild_vs1" : {
+    "displayName" : "工会 对抗竞技场"
+  },
+  "guild_vs2" : {
+    "displayName" : "工会 对抗竞技场"
+  },
+  "guild_vs3" : {
+    "displayName" : "工会 对抗竞技场"
+  },
+  "guild_vs4" : {
+    "displayName" : "工会 对抗竞技场"
+  },
+  "guild_vs5" : {
+    "displayName" : "工会 对抗竞技场"
+  },
+  "himinn" : {
+    "displayName" : "巴基力 神殿"
+  },
+  "holy_gold" : {
+    "displayName" : "金圣地"
+  },
+  "holy_silver" : {
+    "displayName" : "银圣地"
+  },
+  "hu_fild01" : {
+    "displayName" : "达纳托斯之塔"
+  },
+  "hu_fild02" : {
+    "displayName" : "毀葛原野"
+  },
+  "hu_fild03" : {
+    "displayName" : "毀葛原野"
+  },
+  "hu_fild04" : {
+    "displayName" : "毀葛 原野"
+  },
+  "hu_fild05" : {
+    "displayName" : "毀葛深渊湖水"
+  },
+  "hu_fild06" : {
+    "displayName" : "毀葛原野"
+  },
+  "hu_fild07" : {
+    "displayName" : "毀葛 原野"
+  },
+  "hu_in01" : {
+    "displayName" : "毀葛内部"
+  },
+  "hugel" : {
+    "displayName" : "田园都市毀葛"
+  },
+  "hunter_1-1" : {
+    "displayName" : "猎人转职所"
+  },
+  "hunter_2-1" : {
+    "displayName" : "猎人转职所"
+  },
+  "hunter_3-1" : {
+    "displayName" : "猎人转职所"
+  },
+  "ice_dun01" : {
+    "displayName" : "拉赫冰洞1层"
+  },
+  "ice_dun02" : {
+    "displayName" : "拉赫冰洞2层"
+  },
+  "ice_dun03" : {
+    "displayName" : "拉赫冰洞3层"
+  },
+  "ice_dun04" : {
+    "displayName" : "拉赫冰洞封印的空间"
+  },
+  "in_hunter" : {
+    "displayName" : "猎人转职所"
+  },
+  "in_moc_16" : {
+    "displayName" : "刺客 工会"
+  },
+  "in_orcs01" : {
+    "displayName" : "兽人村落 室内"
+  },
+  "in_rogue" : {
+    "displayName" : "流氓工会 内部"
+  },
+  "in_rogue2" : {
+    "displayName" : "流氓工会 内部"
+  },
+  "in_sphinx1" : {
+    "displayName" : "梦罗克 史芬克斯 地下1层"
+  },
+  "in_sphinx2" : {
+    "displayName" : "梦罗克 史芬克斯 地下2层"
+  },
+  "in_sphinx3" : {
+    "displayName" : "梦罗克 史芬克斯 地下3层"
+  },
+  "in_sphinx4" : {
+    "displayName" : "梦罗克 史芬克斯 地下4层"
+  },
+  "in_sphinx5" : {
+    "displayName" : "梦罗克 史芬克斯 地下5层"
+  },
+  "itemmall" : {
+    "displayName" : "道具商店"
+  },
+  "iz_ac01" : {
+    "displayName" : "魔法学院1楼"
+  },
+  "iz_ac01_a" : {
+    "displayName" : "魔法学院1楼"
+  },
+  "iz_ac01_b" : {
+    "displayName" : "魔法学院1楼"
+  },
+  "iz_ac01_c" : {
+    "displayName" : "魔法学院1楼"
+  },
+  "iz_ac01_d" : {
+    "displayName" : "魔法学院1楼"
+  },
+  "iz_ac02" : {
+    "displayName" : "魔法学院2楼"
+  },
+  "iz_ac02_a" : {
+    "displayName" : "魔法学院2楼"
+  },
+  "iz_ac02_b" : {
+    "displayName" : "魔法学院2楼"
+  },
+  "iz_ac02_c" : {
+    "displayName" : "魔法学院2楼"
+  },
+  "iz_ac02_d" : {
+    "displayName" : "魔法学院2楼"
+  },
+  "iz_dun00" : {
+    "displayName" : "依斯鲁得 海底洞窟 迷宫 1层"
+  },
+  "iz_dun01" : {
+    "displayName" : "依斯鲁得 海底洞窟 迷宫 2层"
+  },
+  "iz_dun02" : {
+    "displayName" : "依斯鲁得 海底洞窟 迷宫 3层"
+  },
+  "iz_dun03" : {
+    "displayName" : "依斯鲁得 海底洞窟 迷宫 4层"
+  },
+  "iz_dun04" : {
+    "displayName" : "依斯鲁得 海底洞窟 迷宫 5层"
+  },
+  "iz_dun05" : {
+    "displayName" : "依斯鲁得 海底洞窟 迷宫 6层"
+  },
+  "iz_int" : {
+    "displayName" : "因特罗"
+  },
+  "iz_int01" : {
+    "displayName" : "因特罗"
+  },
+  "iz_int02" : {
+    "displayName" : "因特罗"
+  },
+  "iz_int03" : {
+    "displayName" : "因特罗"
+  },
+  "iz_int04" : {
+    "displayName" : "因特罗"
+  },
+  "iz_ng01" : {
+    "displayName" : "忍者新手教学地图"
+  },
+  "izlu2dun" : {
+    "displayName" : "卫星都市 依斯鲁得岛"
+  },
+  "izlude" : {
+    "displayName" : "卫星都市 依斯鲁得岛"
+  },
+  "izlude_a" : {
+    "displayName" : "卫星都市 依斯鲁得岛"
+  },
+  "izlude_b" : {
+    "displayName" : "卫星都市 依斯鲁得岛"
+  },
+  "izlude_c" : {
+    "displayName" : "卫星都市 依斯鲁得岛"
+  },
+  "izlude_d" : {
+    "displayName" : "卫星都市 依斯鲁得岛"
+  },
+  "izlude_in" : {
+    "displayName" : "依斯鲁得 内部"
+  },
+  "jawaii" : {
+    "displayName" : "蜜月岛 爪哇咿"
+  },
+  "jawaii_in" : {
+    "displayName" : "爪哇咿 内部"
+  },
+  "job3_arch01" : {
+    "displayName" : "大主教转职待机室"
+  },
+  "job3_arch02" : {
+    "displayName" : "辉戈尔奥丁神殿"
+  },
+  "job3_arch03" : {
+    "displayName" : "大主教转职待机室"
+  },
+  "job3_gen01" : {
+    "displayName" : "基因学者研究所"
+  },
+  "job3_guil01" : {
+    "displayName" : "秘密酒店"
+  },
+  "job3_guil02" : {
+    "displayName" : "破旧的仓库内部"
+  },
+  "job3_guil03" : {
+    "displayName" : "偏僻的住宅"
+  },
+  "job3_rang01" : {
+    "displayName" : "游侠转职待机室"
+  },
+  "job3_rang02" : {
+    "displayName" : "游侠转职考场"
+  },
+  "job3_rune01" : {
+    "displayName" : "符文骑士团内部"
+  },
+  "job3_rune02" : {
+    "displayName" : "符文骑士转职考场"
+  },
+  "job3_rune03" : {
+    "displayName" : "符文骑士转职考场"
+  },
+  "job3_war01" : {
+    "displayName" : "大法师转职考场"
+  },
+  "job3_war02" : {
+    "displayName" : "大法师转职考场"
+  },
+  "job_cru" : {
+    "displayName" : "十字军 转职 考试场"
+  },
+  "job_duncer" : {
+    "displayName" : "克魔岛 小剧场"
+  },
+  "job_hunte" : {
+    "displayName" : "猎人转职 考场"
+  },
+  "job_knt" : {
+    "displayName" : "骑士转职 考场"
+  },
+  "job_ko" : {
+    "displayName" : "隐蔽居所"
+  },
+  "job_monk" : {
+    "displayName" : "圣 卡毕利那 修道院"
+  },
+  "job_prist" : {
+    "displayName" : "祭司转职 考场"
+  },
+  "job_sage" : {
+    "displayName" : "贤者 转职 考试场"
+  },
+  "job_soul" : {
+    "displayName" : "灵魂之地"
+  },
+  "job_star" : {
+    "displayName" : "太阳和月亮和星辰之地"
+  },
+  "job_thief1" : {
+    "displayName" : "盗贼转职所"
+  },
+  "job_wiz" : {
+    "displayName" : "巫师转职 考场"
+  },
+  "jupe_area1" : {
+    "displayName" : "优配擂斯 保安区域"
+  },
+  "jupe_area2" : {
+    "displayName" : "优配擂斯 保安区域"
+  },
+  "jupe_cave" : {
+    "displayName" : "优配擂斯 洞穴入口"
+  },
+  "jupe_core" : {
+    "displayName" : "优配擂斯 中心部"
+  },
+  "jupe_core2" : {
+    "displayName" : "优沛擂斯中央"
+  },
+  "jupe_ele" : {
+    "displayName" : "优配擂斯 电梯"
+  },
+  "jupe_ele_r" : {
+    "displayName" : "优配擂斯 电梯室"
+  },
+  "jupe_gate" : {
+    "displayName" : "优配擂斯 保安区域"
+  },
+  "juperos_01" : {
+    "displayName" : "优配擂斯 废墟 外部"
+  },
+  "juperos_02" : {
+    "displayName" : "优配擂斯 废墟 内部"
+  },
+  "kh_dun01" : {
+    "displayName" : "机械娃娃工厂1层"
+  },
+  "kh_dun02" : {
+    "displayName" : "机械娃娃工厂 2层"
+  },
+  "kh_kiehl01" : {
+    "displayName" : "基尔的房间"
+  },
+  "kh_kiehl02" : {
+    "displayName" : "基尔的最后一个房间"
+  },
+  "kh_mansion" : {
+    "displayName" : "基尔哈尔住所"
+  },
+  "kh_rossi" : {
+    "displayName" : "路史米埃尔加住所"
+  },
+  "kh_school" : {
+    "displayName" : "基尔哈尔学院"
+  },
+  "kh_vila" : {
+    "displayName" : "基尔哈尔别墅"
+  },
+  "knight_1-1" : {
+    "displayName" : "骑士转职所"
+  },
+  "knight_2-1" : {
+    "displayName" : "骑士转职所"
+  },
+  "knight_3-1" : {
+    "displayName" : "骑士转职所"
+  },
+  "lhz_airport" : {
+    "displayName" : "里希塔乐镇 机场"
+  },
+  "lhz_cube" : {
+    "displayName" : "正立方体 房间"
+  },
+  "lhz_dun01" : {
+    "displayName" : "生体试验 研究所 地下1层"
+  },
+  "lhz_dun02" : {
+    "displayName" : "生体试验 研究所 地下2层"
+  },
+  "lhz_dun03" : {
+    "displayName" : "生体试验 研究所 地下3层"
+  },
+  "lhz_dun04" : {
+    "displayName" : "生体试验 研究所 地下4楼"
+  },
+  "lhz_fild01" : {
+    "displayName" : "里希塔乐镇 原野"
+  },
+  "lhz_fild02" : {
+    "displayName" : "里希塔乐镇 原野(死神的峡谷)"
+  },
+  "lhz_fild03" : {
+    "displayName" : "里希塔乐镇 原野"
+  },
+  "lhz_in01" : {
+    "displayName" : "雷根贝勒 总公司"
+  },
+  "lhz_in02" : {
+    "displayName" : "里希塔乐镇 内部"
+  },
+  "lhz_in03" : {
+    "displayName" : "里希塔乐镇 内部"
+  },
+  "lhz_que01" : {
+    "displayName" : "里希塔乐镇 内部"
+  },
+  "lighthalzen" : {
+    "displayName" : "企业之都 里希塔乐镇"
+  },
+  "lou_dun01" : {
+    "displayName" : "龙之城 王陵"
+  },
+  "lou_dun02" : {
+    "displayName" : "龙之城 王陵 内部"
+  },
+  "lou_dun03" : {
+    "displayName" : "龙之城 审良宫"
+  },
+  "lou_fild01" : {
+    "displayName" : "龙之城 原野"
+  },
+  "lou_in01" : {
+    "displayName" : "龙之城 内部"
+  },
+  "lou_in02" : {
+    "displayName" : "龙之城 内部"
+  },
+  "louyang" : {
+    "displayName" : "古都 龙之城"
+  },
+  "ma_dun01" : {
+    "displayName" : "般滚勾特医院1层"
+  },
+  "ma_fild01" : {
+    "displayName" : "巴尔尤 马西瓦加"
+  },
+  "ma_fild02" : {
+    "displayName" : "森林"
+  },
+  "ma_in01" : {
+    "displayName" : "马来亚市内"
+  },
+  "ma_scene01" : {
+    "displayName" : "食月者之湖"
+  },
+  "ma_zif01" : {
+    "displayName" : "吉普尼内部"
+  },
+  "ma_zif02" : {
+    "displayName" : "吉普尼内部"
+  },
+  "ma_zif03" : {
+    "displayName" : "吉普尼内部"
+  },
+  "ma_zif04" : {
+    "displayName" : "吉普尼内部"
+  },
+  "ma_zif05" : {
+    "displayName" : "吉普尼内部"
+  },
+  "ma_zif06" : {
+    "displayName" : "吉普尼内部"
+  },
+  "ma_zif07" : {
+    "displayName" : "吉普尼内部"
+  },
+  "ma_zif08" : {
+    "displayName" : "吉普尼内部"
+  },
+  "ma_zif09" : {
+    "displayName" : "吉普尼内部"
+  },
+  "mag_dun01" : {
+    "displayName" : "朱诺 诺可罗德 1层"
+  },
+  "mag_dun02" : {
+    "displayName" : "朱诺 诺可罗德 2层"
+  },
+  "mal_dun01" : {
+    "displayName" : "星光珊瑚地带"
+  },
+  "mal_in01" : {
+    "displayName" : "猫猫岛内部"
+  },
+  "mal_in02" : {
+    "displayName" : "船内部"
+  },
+  "malangdo" : {
+    "displayName" : "猫猫岛"
+  },
+  "malaya" : {
+    "displayName" : "马来亚港"
+  },
+  "man_fild01" : {
+    "displayName" : "马努克旷野"
+  },
+  "man_fild02" : {
+    "displayName" : "马努克旷野"
+  },
+  "man_fild03" : {
+    "displayName" : "马努克旷野"
+  },
+  "man_in01" : {
+    "displayName" : "马努克内部"
+  },
+  "manuk" : {
+    "displayName" : "矿山村庄马努克"
+  },
+  "mid_camp" : {
+    "displayName" : "米德加尔特联合驻地"
+  },
+  "mid_campin" : {
+    "displayName" : "米德加尔特联合驻地内部"
+  },
+  "mjo_dun01" : {
+    "displayName" : "妙勒尼 废弃矿场 1层"
+  },
+  "mjo_dun02" : {
+    "displayName" : "妙勒尼 废弃矿场 2层"
+  },
+  "mjo_dun03" : {
+    "displayName" : "妙勒尼 废弃矿场 3层"
+  },
+  "mjolnir_01" : {
+    "displayName" : "妙勒尼 山脉 北边 地区"
+  },
+  "mjolnir_02" : {
+    "displayName" : "妙勒尼 山脉 北边 地区"
+  },
+  "mjolnir_03" : {
+    "displayName" : "妙勒尼 山脉 北边 地区"
+  },
+  "mjolnir_04" : {
+    "displayName" : "妙勒尼 山脉 北边 地区"
+  },
+  "mjolnir_05" : {
+    "displayName" : "妙勒尼 山脉 北边 地区"
+  },
+  "mjolnir_06" : {
+    "displayName" : "妙勒尼 山脉 南边 地区"
+  },
+  "mjolnir_07" : {
+    "displayName" : "妙勒尼 山脉 南边 地区"
+  },
+  "mjolnir_08" : {
+    "displayName" : "妙勒尼 山脉 南边 地区"
+  },
+  "mjolnir_09" : {
+    "displayName" : "妙勒尼 山脉 南边 山麓"
+  },
+  "mjolnir_10" : {
+    "displayName" : "妙勒尼 山脉 南边 地区"
+  },
+  "mjolnir_11" : {
+    "displayName" : "妙勒尼 山脉 南边 地区"
+  },
+  "mjolnir_12" : {
+    "displayName" : "妙勒尼 山脉 北边 山麓"
+  },
+  "moc_castle" : {
+    "displayName" : "梦罗克 城内"
+  },
+  "moc_fild01" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild02" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild03" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild04" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild05" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild06" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild07" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild08" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild09" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild10" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild11" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild12" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild13" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild14" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild15" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild16" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild17" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild18" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild19" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "moc_fild20" : {
+    "displayName" : "苏克拉特沙漠次元空间"
+  },
+  "moc_fild21" : {
+    "displayName" : "苏克拉特沙漠次元空间"
+  },
+  "moc_fild22" : {
+    "displayName" : "苏克拉特沙漠次元空间"
+  },
+  "moc_fild22b" : {
+    "displayName" : "苏克拉特沙漠次元裂缝"
+  },
+  "moc_para01" : {
+    "displayName" : "梦罗克乐园团内部"
+  },
+  "moc_pryd01" : {
+    "displayName" : "梦罗克 金字塔 1层"
+  },
+  "moc_pryd02" : {
+    "displayName" : "梦罗克 金字塔 2层"
+  },
+  "moc_pryd03" : {
+    "displayName" : "梦罗克 金字塔 3层"
+  },
+  "moc_pryd04" : {
+    "displayName" : "梦罗克 金字塔 4层"
+  },
+  "moc_pryd05" : {
+    "displayName" : "梦罗克 金字塔 地下1层"
+  },
+  "moc_pryd06" : {
+    "displayName" : "梦罗克 金字塔 地下2层"
+  },
+  "moc_prydb1" : {
+    "displayName" : "盗贼 工会"
+  },
+  "moc_prydn1" : {
+    "displayName" : "梦罗克金字塔地下1楼 梦魇"
+  },
+  "moc_prydn2" : {
+    "displayName" : "梦罗克金字塔地下2楼 梦魇"
+  },
+  "moc_ruins" : {
+    "displayName" : "沙漠之都 梦罗克"
+  },
+  "monk_in" : {
+    "displayName" : "圣卡毕利那 修道院 内部"
+  },
+  "monk_test" : {
+    "displayName" : "圣 卡毕利那 修道院"
+  },
+  "mora" : {
+    "displayName" : "草精族穆拉村"
+  },
+  "moro_cav" : {
+    "displayName" : "火焰洞穴"
+  },
+  "moro_vol" : {
+    "displayName" : "火焰盆地"
+  },
+  "morocc" : {
+    "displayName" : "沙漠之都 梦罗克"
+  },
+  "morocc_in" : {
+    "displayName" : "梦罗克 内部"
+  },
+  "moscovia" : {
+    "displayName" : "莫斯科比亚"
+  },
+  "mosk_dun01" : {
+    "displayName" : "莫斯科比亚森林"
+  },
+  "mosk_dun02" : {
+    "displayName" : "莫斯科比亚森林深处"
+  },
+  "mosk_dun03" : {
+    "displayName" : "莫斯科比亚深渊森林"
+  },
+  "mosk_fild01" : {
+    "displayName" : "海豚岛"
+  },
+  "mosk_fild02" : {
+    "displayName" : "莫斯科比亚 原野"
+  },
+  "mosk_in" : {
+    "displayName" : "莫斯科比亚 内部"
+  },
+  "mosk_ship" : {
+    "displayName" : "船舶"
+  },
+  "n_castle" : {
+    "displayName" : "十字星"
+  },
+  "nameless_i" : {
+    "displayName" : "无名岛"
+  },
+  "nameless_in" : {
+    "displayName" : "无名岛内部"
+  },
+  "nameless_n" : {
+    "displayName" : "无名岛"
+  },
+  "new_1-1" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_1-2" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_1-3" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_1-4" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_2-1" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_2-2" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_2-3" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_2-4" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_3-1" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_3-2" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_3-3" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_3-4" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_4-1" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_4-2" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_4-3" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_4-4" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_5-1" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_5-2" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_5-3" : {
+    "displayName" : "初学者 修练场"
+  },
+  "new_5-4" : {
+    "displayName" : "初学者 修练场"
+  },
+  "nguild_pay" : {
+    "displayName" : "十字星_乖乖"
+  },
+  "nguild_prt" : {
+    "displayName" : "十字星_宝贝"
+  },
+  "nif_fild01" : {
+    "displayName" : "尼芙菲姆 偏远村落 斯克林顿"
+  },
+  "nif_fild02" : {
+    "displayName" : "尼芙菲姆 鬼的峡谷"
+  },
+  "nif_in" : {
+    "displayName" : "尼芙菲姆内部"
+  },
+  "niflheim" : {
+    "displayName" : "死者国家 尼芙菲姆"
+  },
+  "niflxmas" : {
+    "displayName" : "死者国家 尼芙菲姆"
+  },
+  "nyd_dun01" : {
+    "displayName" : "辉煌残暴者的伤口1层"
+  },
+  "nyd_dun02" : {
+    "displayName" : "辉煌残暴者的伤口2层"
+  },
+  "odin_tem01" : {
+    "displayName" : "毀葛奥丁神殿西边地区"
+  },
+  "odin_tem02" : {
+    "displayName" : "毀葛奥丁神殿南边地区"
+  },
+  "odin_tem03" : {
+    "displayName" : "毀葛奥丁神殿北边地区"
+  },
+  "orcsdun01" : {
+    "displayName" : "吉芬 兽人地下洞窟 1层"
+  },
+  "orcsdun02" : {
+    "displayName" : "吉芬 兽人地下洞窟 2层"
+  },
+  "ordeal_1-1" : {
+    "displayName" : "团体战斗模式"
+  },
+  "ordeal_1-2" : {
+    "displayName" : "团体战斗模式"
+  },
+  "ordeal_1-3" : {
+    "displayName" : "团体战斗模式"
+  },
+  "ordeal_1-4" : {
+    "displayName" : "团体战斗模式"
+  },
+  "ordeal_2-1" : {
+    "displayName" : "团体战斗模式"
+  },
+  "ordeal_2-2" : {
+    "displayName" : "团体战斗模式"
+  },
+  "ordeal_2-3" : {
+    "displayName" : "团体战斗模式"
+  },
+  "ordeal_2-4" : {
+    "displayName" : "团体战斗模式"
+  },
+  "ordeal_3-1" : {
+    "displayName" : "团体战斗模式"
+  },
+  "ordeal_3-2" : {
+    "displayName" : "团体战斗模式"
+  },
+  "ordeal_3-3" : {
+    "displayName" : "团体战斗模式"
+  },
+  "ordeal_3-4" : {
+    "displayName" : "团体战斗模式"
+  },
+  "p_track01" : {
+    "displayName" : "怪物赛跑场"
+  },
+  "p_track02" : {
+    "displayName" : "怪物赛跑场"
+  },
+  "pay_arche" : {
+    "displayName" : "斐扬 .弓箭手村"
+  },
+  "pay_dun00" : {
+    "displayName" : "斐扬 洞窟1层"
+  },
+  "pay_dun01" : {
+    "displayName" : "斐扬 洞窟2层"
+  },
+  "pay_dun02" : {
+    "displayName" : "斐扬 洞窟3层"
+  },
+  "pay_dun03" : {
+    "displayName" : "斐扬 洞窟4层（废弃村落）"
+  },
+  "pay_dun04" : {
+    "displayName" : "斐扬 洞窟4层（废弃村落）"
+  },
+  "pay_fild01" : {
+    "displayName" : "斐扬 树林"
+  },
+  "pay_fild02" : {
+    "displayName" : "斐扬 树林"
+  },
+  "pay_fild03" : {
+    "displayName" : "斐扬 树林"
+  },
+  "pay_fild04" : {
+    "displayName" : "苏克拉特 沙漠"
+  },
+  "pay_fild05" : {
+    "displayName" : "斐扬 树林"
+  },
+  "pay_fild06" : {
+    "displayName" : "斐扬 树林"
+  },
+  "pay_fild07" : {
+    "displayName" : "斐扬 树林"
+  },
+  "pay_fild08" : {
+    "displayName" : "斐扬 树林"
+  },
+  "pay_fild09" : {
+    "displayName" : "斐扬 树林"
+  },
+  "pay_fild10" : {
+    "displayName" : "斐扬 树林"
+  },
+  "pay_fild11" : {
+    "displayName" : "斐扬 树林"
+  },
+  "pay_gld" : {
+    "displayName" : "青林湖泊"
+  },
+  "payg_cas01" : {
+    "displayName" : "青林湖泊 工会"
+  },
+  "payg_cas02" : {
+    "displayName" : "青林湖泊 工会"
+  },
+  "payg_cas03" : {
+    "displayName" : "青林湖泊 工会"
+  },
+  "payg_cas04" : {
+    "displayName" : "青林湖泊 工会"
+  },
+  "payg_cas05" : {
+    "displayName" : "青林湖泊 工会"
+  },
+  "payon" : {
+    "displayName" : "山岳之都 斐扬"
+  },
+  "payon_in01" : {
+    "displayName" : "斐扬 内部"
+  },
+  "payon_in02" : {
+    "displayName" : "斐扬 内部"
+  },
+  "payon_in03" : {
+    "displayName" : "斐扬 内部"
+  },
+  "poring_w01" : {
+    "displayName" : "波利大战等待室"
+  },
+  "poring_w02" : {
+    "displayName" : "波利大战场"
+  },
+  "priest_1-1" : {
+    "displayName" : "祭司转职所"
+  },
+  "priest_2-1" : {
+    "displayName" : "祭司转职所"
+  },
+  "priest_3-1" : {
+    "displayName" : "祭司转职所"
+  },
+  "prontera" : {
+    "displayName" : "卢恩 米德加兹王国 首都 普隆德拉"
+  },
+  "prt_are01" : {
+    "displayName" : "亚雷那"
+  },
+  "prt_are_in" : {
+    "displayName" : "竞技场 等候室"
+  },
+  "prt_arena01" : {
+    "displayName" : "亚雷那"
+  },
+  "prt_castle" : {
+    "displayName" : "普隆德拉城 内部"
+  },
+  "prt_church" : {
+    "displayName" : "普隆德拉 圣堂 内部"
+  },
+  "prt_fild00" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild01" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild02" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild03" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild04" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild05" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild06" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild07" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild08" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild08a" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild08b" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild08c" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild08d" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild09" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild10" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_fild11" : {
+    "displayName" : "普隆德拉 区域"
+  },
+  "prt_gld" : {
+    "displayName" : "巴基力雷恩"
+  },
+  "prt_in" : {
+    "displayName" : "卢恩 米德加兹王国 首都 普隆德拉"
+  },
+  "prt_maze01" : {
+    "displayName" : "普隆德拉 迷藏森林 1层"
+  },
+  "prt_maze02" : {
+    "displayName" : "普隆德拉 迷藏森林 2层"
+  },
+  "prt_maze03" : {
+    "displayName" : "普隆德拉 迷藏森林 3层"
+  },
+  "prt_monk" : {
+    "displayName" : "圣卡毕利那 修道院"
+  },
+  "prt_sewb1" : {
+    "displayName" : "普隆德拉 地下水道 1层"
+  },
+  "prt_sewb2" : {
+    "displayName" : "普隆德拉 地下水道 2层"
+  },
+  "prt_sewb3" : {
+    "displayName" : "普隆德拉 地下水道 3层"
+  },
+  "prt_sewb4" : {
+    "displayName" : "普隆德拉 地下水道 4层"
+  },
+  "prtg_cas01" : {
+    "displayName" : "巴基力雷恩 工会"
+  },
+  "prtg_cas02" : {
+    "displayName" : "巴基力雷恩 工会"
+  },
+  "prtg_cas03" : {
+    "displayName" : "巴基力雷恩 工会"
+  },
+  "prtg_cas04" : {
+    "displayName" : "巴基力雷恩 工会"
+  },
+  "prtg_cas05" : {
+    "displayName" : "巴基力雷恩 工会"
+  },
+  "pvp_2vs2" : {
+    "displayName" : "PvP : 活动 竞技场"
+  },
+  "pvp_n_1-1" : {
+    "displayName" : "PvP : 三明治 房间"
+  },
+  "pvp_n_1-2" : {
+    "displayName" : "PvP : 雷达锁定 房间"
+  },
+  "pvp_n_1-3" : {
+    "displayName" : "PvP : 四通道 房间"
+  },
+  "pvp_n_1-4" : {
+    "displayName" : "PvP : 反十字 房间"
+  },
+  "pvp_n_1-5" : {
+    "displayName" : "PvP : 罗盘 房间"
+  },
+  "pvp_n_2-1" : {
+    "displayName" : "PvP : 三明治 房间"
+  },
+  "pvp_n_2-2" : {
+    "displayName" : "PvP : 雷达锁定 房间"
+  },
+  "pvp_n_2-3" : {
+    "displayName" : "PvP : 四通道 房间"
+  },
+  "pvp_n_2-4" : {
+    "displayName" : "PvP : 反十字 房间"
+  },
+  "pvp_n_2-5" : {
+    "displayName" : "PvP : 罗盘 房间"
+  },
+  "pvp_n_3-1" : {
+    "displayName" : "PvP : 三明治 房间"
+  },
+  "pvp_n_3-2" : {
+    "displayName" : "PvP : 雷达锁定 房间"
+  },
+  "pvp_n_3-3" : {
+    "displayName" : "PvP : 四通道 房间"
+  },
+  "pvp_n_3-4" : {
+    "displayName" : "PvP : 反十字 房间"
+  },
+  "pvp_n_3-5" : {
+    "displayName" : "PvP : 罗盘 房间"
+  },
+  "pvp_n_4-1" : {
+    "displayName" : "PvP : 三明治 房间"
+  },
+  "pvp_n_4-2" : {
+    "displayName" : "PvP : 雷达锁定 房间"
+  },
+  "pvp_n_4-3" : {
+    "displayName" : "PvP : 四通道 房间"
+  },
+  "pvp_n_4-4" : {
+    "displayName" : "PvP : 反十字 房间"
+  },
+  "pvp_n_4-5" : {
+    "displayName" : "PvP : 罗盘 房间"
+  },
+  "pvp_n_5-1" : {
+    "displayName" : "PvP : 三明治 房间"
+  },
+  "pvp_n_5-2" : {
+    "displayName" : "PvP : 雷达锁定 房间"
+  },
+  "pvp_n_5-3" : {
+    "displayName" : "PvP : 四通道 房间"
+  },
+  "pvp_n_5-4" : {
+    "displayName" : "PvP : 反十字 房间"
+  },
+  "pvp_n_5-5" : {
+    "displayName" : "PvP : 罗盘 房间"
+  },
+  "pvp_n_6-1" : {
+    "displayName" : "PvP : 三明治 房间"
+  },
+  "pvp_n_6-2" : {
+    "displayName" : "PvP : 雷达锁定 房间"
+  },
+  "pvp_n_6-3" : {
+    "displayName" : "PvP : 四通道 房间"
+  },
+  "pvp_n_6-4" : {
+    "displayName" : "PvP : 反十字 房间"
+  },
+  "pvp_n_6-5" : {
+    "displayName" : "PvP : 罗盘 房间"
+  },
+  "pvp_n_7-1" : {
+    "displayName" : "PvP : 三明治 房间"
+  },
+  "pvp_n_7-2" : {
+    "displayName" : "PvP : 雷达锁定 房间"
+  },
+  "pvp_n_7-3" : {
+    "displayName" : "PvP : 四通道 房间"
+  },
+  "pvp_n_7-4" : {
+    "displayName" : "PvP : 反十字 房间"
+  },
+  "pvp_n_7-5" : {
+    "displayName" : "PvP : 罗盘 房间"
+  },
+  "pvp_n_8-1" : {
+    "displayName" : "PvP : 三明治 房间"
+  },
+  "pvp_n_8-2" : {
+    "displayName" : "PvP : 雷达锁定 房间"
+  },
+  "pvp_n_8-3" : {
+    "displayName" : "PvP : 四通道 房间"
+  },
+  "pvp_n_8-4" : {
+    "displayName" : "PvP : 反十字 房间"
+  },
+  "pvp_n_8-5" : {
+    "displayName" : "PvP : 罗盘 房间"
+  },
+  "pvp_n_room" : {
+    "displayName" : "PvP : 等待室"
+  },
+  "pvp_y_1-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_1-2" : {
+    "displayName" : "PvP : 依斯鲁得岛"
+  },
+  "pvp_y_1-3" : {
+    "displayName" : "PvP : 斐扬"
+  },
+  "pvp_y_1-4" : {
+    "displayName" : "PvP : 艾尔贝塔"
+  },
+  "pvp_y_1-5" : {
+    "displayName" : "PvP : 梦罗克"
+  },
+  "pvp_y_2-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_2-2" : {
+    "displayName" : "PvP : 依斯鲁得岛"
+  },
+  "pvp_y_2-3" : {
+    "displayName" : "PvP : 斐扬"
+  },
+  "pvp_y_2-4" : {
+    "displayName" : "PvP : 艾尔贝塔"
+  },
+  "pvp_y_2-5" : {
+    "displayName" : "PvP : 梦罗克"
+  },
+  "pvp_y_3-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_3-2" : {
+    "displayName" : "PvP : 依斯鲁得岛"
+  },
+  "pvp_y_3-3" : {
+    "displayName" : "PvP : 斐扬"
+  },
+  "pvp_y_3-4" : {
+    "displayName" : "PvP : 艾尔贝塔"
+  },
+  "pvp_y_3-5" : {
+    "displayName" : "PvP : 梦罗克"
+  },
+  "pvp_y_4-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_4-2" : {
+    "displayName" : "PvP : 依斯鲁得岛"
+  },
+  "pvp_y_4-3" : {
+    "displayName" : "PvP : 斐扬"
+  },
+  "pvp_y_4-4" : {
+    "displayName" : "PvP : 艾尔贝塔"
+  },
+  "pvp_y_4-5" : {
+    "displayName" : "PvP : 梦罗克"
+  },
+  "pvp_y_5-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_5-2" : {
+    "displayName" : "PvP : 依斯鲁得岛"
+  },
+  "pvp_y_5-3" : {
+    "displayName" : "PvP : 斐扬"
+  },
+  "pvp_y_5-4" : {
+    "displayName" : "PvP : 艾尔贝塔"
+  },
+  "pvp_y_5-5" : {
+    "displayName" : "PvP : 梦罗克"
+  },
+  "pvp_y_6-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_6-2" : {
+    "displayName" : "PvP : 依斯鲁得岛"
+  },
+  "pvp_y_6-3" : {
+    "displayName" : "PvP : 斐扬"
+  },
+  "pvp_y_6-4" : {
+    "displayName" : "PvP : 艾尔贝塔"
+  },
+  "pvp_y_6-5" : {
+    "displayName" : "PvP : 梦罗克"
+  },
+  "pvp_y_7-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_7-2" : {
+    "displayName" : "PvP : 依斯鲁得岛"
+  },
+  "pvp_y_7-3" : {
+    "displayName" : "PvP : 斐扬"
+  },
+  "pvp_y_7-4" : {
+    "displayName" : "PvP : 艾尔贝塔"
+  },
+  "pvp_y_7-5" : {
+    "displayName" : "PvP : 梦罗克"
+  },
+  "pvp_y_8-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_8-2" : {
+    "displayName" : "PvP : 依斯鲁得岛"
+  },
+  "pvp_y_8-3" : {
+    "displayName" : "PvP : 斐扬"
+  },
+  "pvp_y_8-4" : {
+    "displayName" : "PvP : 艾尔贝塔"
+  },
+  "pvp_y_8-5" : {
+    "displayName" : "PvP : 梦罗克"
+  },
+  "pvp_y_room" : {
+    "displayName" : "PvP : 等待室"
+  },
+  "que_avan01" : {
+    "displayName" : "阿凡特研究室"
+  },
+  "que_bingo" : {
+    "displayName" : "冰窟竞赛场"
+  },
+  "que_dan01" : {
+    "displayName" : "辉戈尔旷野"
+  },
+  "que_dan02" : {
+    "displayName" : "尤诺的遗弃的家内部"
+  },
+  "que_god01" : {
+    "displayName" : "任务地图"
+  },
+  "que_god02" : {
+    "displayName" : "任务地图"
+  },
+  "que_hugel" : {
+    "displayName" : "奥丁神殿地下"
+  },
+  "que_job01" : {
+    "displayName" : "秘密酒店"
+  },
+  "que_lhz" : {
+    "displayName" : "生体试验 研究所 地下4楼"
+  },
+  "que_moc_16" : {
+    "displayName" : "月亮宫殿怪物区"
+  },
+  "que_moon" : {
+    "displayName" : "月亮宫殿"
+  },
+  "que_new01" : {
+    "displayName" : "元旦狂欢地"
+  },
+  "que_new02" : {
+    "displayName" : "元旦狂欢地"
+  },
+  "que_qaru01" : {
+    "displayName" : "幻象的 奧克尼勒"
+  },
+  "que_qaru02" : {
+    "displayName" : "幻象的 奧克尼勒"
+  },
+  "que_qaru03" : {
+    "displayName" : "幻象的 奧克尼勒"
+  },
+  "que_qaru04" : {
+    "displayName" : "幻象的 奧克尼勒"
+  },
+  "que_qaru05" : {
+    "displayName" : "幻象的 奧克尼勒"
+  },
+  "que_qsch01" : {
+    "displayName" : "幻象的 奧克尼勒"
+  },
+  "que_qsch02" : {
+    "displayName" : "幻象的 奧克尼勒"
+  },
+  "que_qsch03" : {
+    "displayName" : "幻象的 奧克尼勒"
+  },
+  "que_qsch04" : {
+    "displayName" : "幻象的 奧克尼勒"
+  },
+  "que_qsch05" : {
+    "displayName" : "幻象的 奧克尼勒"
+  },
+  "que_rachel" : {
+    "displayName" : "神殿内部"
+  },
+  "que_temsky" : {
+    "displayName" : "教皇总务(天庭)"
+  },
+  "que_thor" : {
+    "displayName" : "伯仁斯图尔 火山 洞窟"
+  },
+  "quiz_00" : {
+    "displayName" : "OX益智游戏竞赛场"
+  },
+  "quiz_01" : {
+    "displayName" : "OX益智游戏竞赛场"
+  },
+  "quiz_02" : {
+    "displayName" : "OX 益智游戏竞赛场"
+  },
+  "quiz_test" : {
+    "displayName" : "益智考试场"
+  },
+  "ra_fild01" : {
+    "displayName" : "拉赫奥顿拉草原"
+  },
+  "ra_fild02" : {
+    "displayName" : "拉赫奥兹峡谷"
+  },
+  "ra_fild03" : {
+    "displayName" : "拉赫一达平原"
+  },
+  "ra_fild04" : {
+    "displayName" : "拉赫奥顿拉草原"
+  },
+  "ra_fild05" : {
+    "displayName" : "拉赫奥顿拉草原"
+  },
+  "ra_fild06" : {
+    "displayName" : "珀尔特鲁纳"
+  },
+  "ra_fild07" : {
+    "displayName" : "拉赫奥兹峡谷"
+  },
+  "ra_fild08" : {
+    "displayName" : "拉赫一达平原"
+  },
+  "ra_fild09" : {
+    "displayName" : "拉赫奥顿拉草原"
+  },
+  "ra_fild10" : {
+    "displayName" : "拉赫奥兹峡谷"
+  },
+  "ra_fild11" : {
+    "displayName" : "拉赫一达平原"
+  },
+  "ra_fild12" : {
+    "displayName" : "拉赫一达平原"
+  },
+  "ra_fild13" : {
+    "displayName" : "拉赫眼泪的海岸"
+  },
+  "ra_in01" : {
+    "displayName" : "拉赫内部"
+  },
+  "ra_san01" : {
+    "displayName" : "拉赫神殿圣域1层北边地区"
+  },
+  "ra_san02" : {
+    "displayName" : "拉赫神殿圣域1层西边地区"
+  },
+  "ra_san03" : {
+    "displayName" : "拉赫神殿圣域1层东边地区"
+  },
+  "ra_san04" : {
+    "displayName" : "拉赫神殿圣域1层南边地区"
+  },
+  "ra_san05" : {
+    "displayName" : "拉赫神殿圣域二层中央地区"
+  },
+  "ra_temin" : {
+    "displayName" : "神殿内部"
+  },
+  "ra_temple" : {
+    "displayName" : "菲力亚大神殿(赛思卢姆尼尔)"
+  },
+  "ra_temsky" : {
+    "displayName" : "教皇执务室(天庭)"
+  },
+  "rachel" : {
+    "displayName" : "阿鲁娜配滋教国首都拉赫"
+  },
+  "s_atelier" : {
+    "displayName" : "影子工坊"
+  },
+  "sch_gld" : {
+    "displayName" : "尼它堆"
+  },
+  "schg_cas01" : {
+    "displayName" : "尼它堆 公会"
+  },
+  "schg_cas02" : {
+    "displayName" : "尼它堆 公会"
+  },
+  "schg_cas03" : {
+    "displayName" : "尼它堆 公会"
+  },
+  "schg_cas04" : {
+    "displayName" : "尼它堆 公会"
+  },
+  "schg_cas05" : {
+    "displayName" : "尼它堆 公会"
+  },
+  "schg_dun01" : {
+    "displayName" : "公会地下迷宫"
+  },
+  "schg_que01" : {
+    "displayName" : "莫尔斯敦草地"
+  },
+  "sec_in01" : {
+    "displayName" : "巴哈拉宫 内部"
+  },
+  "sec_in02" : {
+    "displayName" : "巴哈拉宫 内部"
+  },
+  "sec_pri" : {
+    "displayName" : "巴哈拉宫 反省的房间(监狱)"
+  },
+  "spl_fild01" : {
+    "displayName" : "辉煌领域"
+  },
+  "spl_fild02" : {
+    "displayName" : "辉煌领域"
+  },
+  "spl_fild03" : {
+    "displayName" : "辉煌领域"
+  },
+  "spl_in01" : {
+    "displayName" : "辉煌领域野战司令部内部"
+  },
+  "spl_in02" : {
+    "displayName" : "辉煌领域内部"
+  },
+  "splendide" : {
+    "displayName" : "拉皮内前线基地辉煌领域"
+  },
+  "sword_1-1" : {
+    "displayName" : "剑士转职所"
+  },
+  "sword_2-1" : {
+    "displayName" : "剑士转职所"
+  },
+  "sword_3-1" : {
+    "displayName" : "剑士转职所"
+  },
+  "te_alde_gld" : {
+    "displayName" : "卡普拉贾登"
+  },
+  "te_aldecas1" : {
+    "displayName" : "克拉丽丝"
+  },
+  "te_aldecas2" : {
+    "displayName" : "狄波萝太"
+  },
+  "te_aldecas3" : {
+    "displayName" : "绣灵"
+  },
+  "te_aldecas4" : {
+    "displayName" : "妣妮"
+  },
+  "te_aldecas5" : {
+    "displayName" : "德帛硫"
+  },
+  "te_prt_gld" : {
+    "displayName" : "葛洛丽雅"
+  },
+  "te_prtcas01" : {
+    "displayName" : "凯渥宝乐格"
+  },
+  "te_prtcas02" : {
+    "displayName" : "理查"
+  },
+  "te_prtcas03" : {
+    "displayName" : "魏格纳"
+  },
+  "te_prtcas04" : {
+    "displayName" : "海涅"
+  },
+  "te_prtcas05" : {
+    "displayName" : "奈里乌思"
+  },
+  "teg_dun01" : {
+    "displayName" : "工会地下迷宫"
+  },
+  "teg_dun02" : {
+    "displayName" : "工会地下迷宫"
+  },
+  "tha_t01" : {
+    "displayName" : "达纳托斯之塔 下层部 博物馆入口"
+  },
+  "tha_t02" : {
+    "displayName" : "达纳托斯之塔 下层部 博物馆"
+  },
+  "tha_t03" : {
+    "displayName" : "达纳托斯之塔 下层部 废弃空间"
+  },
+  "tha_t04" : {
+    "displayName" : "达纳托斯之塔 下层部 废弃空间"
+  },
+  "tha_t05" : {
+    "displayName" : "达纳托斯之塔 上层部"
+  },
+  "tha_t06" : {
+    "displayName" : "达纳托斯之塔 上层部"
+  },
+  "tha_t07" : {
+    "displayName" : "达纳托斯之塔 上层部 天使之房"
+  },
+  "tha_t08" : {
+    "displayName" : "达纳托斯之塔 上层部 天使之房"
+  },
+  "tha_t09" : {
+    "displayName" : "达纳托斯之塔 上层部 苦恼的房"
+  },
+  "tha_t10" : {
+    "displayName" : "达纳托斯之塔 上层部 悲伤之屋"
+  },
+  "tha_t11" : {
+    "displayName" : "达纳托斯之塔 上层部 绝望之屋"
+  },
+  "tha_t12" : {
+    "displayName" : "达纳托斯之塔 上层部 憎恶之屋"
+  },
+  "thana_boss" : {
+    "displayName" : "达纳托斯之塔 (未知区域)"
+  },
+  "thana_scene01" : {
+    "displayName" : "达纳托斯之塔 前部区域"
+  },
+  "thana_step" : {
+    "displayName" : "达纳托斯之塔 上层部 楼梯"
+  },
+  "thor_camp" : {
+    "displayName" : "伯仁斯图尔 火山兵部基地"
+  },
+  "thor_v01" : {
+    "displayName" : "伯仁斯图尔 火山 洞窟1层"
+  },
+  "thor_v02" : {
+    "displayName" : "伯仁斯图尔 火山 洞窟2层"
+  },
+  "thor_v03" : {
+    "displayName" : "伯仁斯图尔 火山 洞窟3层"
+  },
+  "treasure01" : {
+    "displayName" : "艾尔贝塔 沉没之船 1楼"
+  },
+  "treasure02" : {
+    "displayName" : "艾尔贝塔 沉没之船 2楼"
+  },
+  "treasure_n1" : {
+    "displayName" : "依斯鲁得岛 遇难船 1楼"
+  },
+  "treasure_n2" : {
+    "displayName" : "依斯鲁得岛 遇难船 2楼"
+  },
+  "tur_dun01" : {
+    "displayName" : "乌龟岛"
+  },
+  "tur_dun02" : {
+    "displayName" : "乌龟岛  迷宫"
+  },
+  "tur_dun03" : {
+    "displayName" : "良龟村"
+  },
+  "tur_dun04" : {
+    "displayName" : "旧良宫"
+  },
+  "tur_dun05" : {
+    "displayName" : "地下 沼泽地带"
+  },
+  "tur_dun06" : {
+    "displayName" : "地下 沼泽地带"
+  },
+  "turbo_e_16" : {
+    "displayName" : "竞速场地 竞赛场"
+  },
+  "turbo_e_4" : {
+    "displayName" : "竞速场地 竞赛场"
+  },
+  "turbo_e_8" : {
+    "displayName" : "竞速场地 竞赛场"
+  },
+  "turbo_n_1" : {
+    "displayName" : "竞速场地 竞赛场"
+  },
+  "turbo_n_16" : {
+    "displayName" : "竞速场地 竞赛场"
+  },
+  "turbo_n_4" : {
+    "displayName" : "竞速场地 竞赛场"
+  },
+  "turbo_n_8" : {
+    "displayName" : "竞速场地 竞赛场"
+  },
+  "turbo_room" : {
+    "displayName" : "竞速场地 等待室"
+  },
+  "um_dun01" : {
+    "displayName" : "汶巴拉 树木里的 木工所"
+  },
+  "um_dun02" : {
+    "displayName" : "汶巴拉 树木里的 异界通路"
+  },
+  "um_fild01" : {
+    "displayName" : "汶巴拉 噜噜卡森林"
+  },
+  "um_fild02" : {
+    "displayName" : "汶巴拉 沪家森林"
+  },
+  "um_fild03" : {
+    "displayName" : "汶巴拉 卡拉拉森林"
+  },
+  "um_fild04" : {
+    "displayName" : "汶巴拉 沪家丛林"
+  },
+  "um_in" : {
+    "displayName" : "汶巴拉内部"
+  },
+  "umbala" : {
+    "displayName" : "雨檀族村落 汶巴拉"
+  },
+  "valkyrie" : {
+    "displayName" : "巴奇利神殿 (伟大战士们的殿堂)"
+  },
+  "ve_fild01" : {
+    "displayName" : "伯仁斯 旷野"
+  },
+  "ve_fild02" : {
+    "displayName" : "伯仁斯 旷野"
+  },
+  "ve_fild03" : {
+    "displayName" : "伯仁斯 旷野"
+  },
+  "ve_fild04" : {
+    "displayName" : "伯仁斯 旷野"
+  },
+  "ve_fild05" : {
+    "displayName" : "伯仁斯 旷野"
+  },
+  "ve_fild06" : {
+    "displayName" : "伯仁斯 旷野"
+  },
+  "ve_fild07" : {
+    "displayName" : "伯仁斯 旷野"
+  },
+  "ve_in" : {
+    "displayName" : "伯仁斯 内部"
+  },
+  "ve_in02" : {
+    "displayName" : "伯仁斯 内部"
+  },
+  "veins" : {
+    "displayName" : "峡谷村子伯仁斯"
+  },
+  "wizard_1-1" : {
+    "displayName" : "巫师转职所"
+  },
+  "wizard_2-1" : {
+    "displayName" : "巫师转职所"
+  },
+  "wizard_3-1" : {
+    "displayName" : "巫师转职所"
+  },
+  "xmas" : {
+    "displayName" : "白雪村落 姜饼城"
+  },
+  "xmas_dun01" : {
+    "displayName" : "姜饼城玩具工厂仓库"
+  },
+  "xmas_dun02" : {
+    "displayName" : "姜饼城玩具分类场"
+  },
+  "xmas_fild01" : {
+    "displayName" : "姜饼城原野"
+  },
+  "xmas_in" : {
+    "displayName" : "姜饼城内部"
+  },
+  "y_airport" : {
+    "displayName" : "朱诺 机场"
+  },
+  "yggdrasil01" : {
+    "displayName" : "禾贝勒开米勒之岛 (天地树叶树干)"
+  },
+  "yuno" : {
+    "displayName" : "秀发兹发德 共和国 首都 朱诺"
+  },
+  "yuno_fild01" : {
+    "displayName" : "秀发兹发德国境检查站"
+  },
+  "yuno_fild02" : {
+    "displayName" : "吉 海伊洛 别墅"
+  },
+  "yuno_fild03" : {
+    "displayName" : "尔迈斯 瀑雷德"
+  },
+  "yuno_fild04" : {
+    "displayName" : "尔迈斯 瀑雷德"
+  },
+  "yuno_fild05" : {
+    "displayName" : "尔迈斯 瀑雷德"
+  },
+  "yuno_fild06" : {
+    "displayName" : "尔万斯 瀑雷德"
+  },
+  "yuno_fild07" : {
+    "displayName" : "尔迈斯 峡谷(深渊的峡谷)"
+  },
+  "yuno_fild08" : {
+    "displayName" : "朱诺 启 海伊洛 学院"
+  },
+  "yuno_fild09" : {
+    "displayName" : "秀发兹发德 警备队 露营地"
+  },
+  "yuno_fild10" : {
+    "displayName" : "朱诺原野"
+  },
+  "yuno_fild11" : {
+    "displayName" : "朱诺 原野"
+  },
+  "yuno_fild12" : {
+    "displayName" : "秀发兹发德国境检查站"
+  },
+  "yuno_in01" : {
+    "displayName" : "朱诺 内部"
+  },
+  "yuno_in02" : {
+    "displayName" : "贤者 城堡内部"
+  },
+  "yuno_in03" : {
+    "displayName" : "朱诺 内部"
+  },
+  "yuno_in04" : {
+    "displayName" : "朱诺 内部"
+  },
+  "yuno_in05" : {
+    "displayName" : "伊美乐的心脏 动力室"
+  },
+  "yuno_pre" : {
+    "displayName" : "秀发兹发德 政府厅舍"
+  },
+  "z_agit" : {
+    "displayName" : "Z团地下指挥部"
+  }
+}

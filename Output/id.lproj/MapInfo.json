@@ -1,0 +1,2024 @@
+{
+  "06guild_01" : {
+    "displayName" : "Guild War Arena"
+  },
+  "06guild_02" : {
+    "displayName" : "Guild War Arena"
+  },
+  "06guild_03" : {
+    "displayName" : "Guild War Arena"
+  },
+  "06guild_04" : {
+    "displayName" : "Guild War Arena"
+  },
+  "06guild_05" : {
+    "displayName" : "Guild War Arena"
+  },
+  "06guild_06" : {
+    "displayName" : "Guild War Arena"
+  },
+  "06guild_07" : {
+    "displayName" : "Guild War Arena"
+  },
+  "06guild_08" : {
+    "displayName" : "Guild War Arena"
+  },
+  "06guild_r" : {
+    "displayName" : "Ruang Tunggu - Guild War Arena"
+  },
+  "1@cata" : {
+    "displayName" : "Catacom"
+  },
+  "1@tower" : {
+    "displayName" : "Endless Tower"
+  },
+  "2007rwc_01" : {
+    "displayName" : "Arena 1"
+  },
+  "2007rwc_02" : {
+    "displayName" : "Arena 2"
+  },
+  "2007rwc_03" : {
+    "displayName" : "Arena 3"
+  },
+  "2007rwc_04" : {
+    "displayName" : "Arena 4"
+  },
+  "2007rwc_05" : {
+    "displayName" : "Arena 5"
+  },
+  "2007rwc_06" : {
+    "displayName" : "Arena 6"
+  },
+  "2007rwc_07" : {
+    "displayName" : "Arena 7"
+  },
+  "2007rwc_08" : {
+    "displayName" : "Arena 8"
+  },
+  "2007rwc_r" : {
+    "displayName" : "Area RIC"
+  },
+  "2@cata" : {
+    "displayName" : "Sealed Shrine"
+  },
+  "2@tower" : {
+    "displayName" : "Endless Tower"
+  },
+  "3@tower" : {
+    "displayName" : "Endless Tower"
+  },
+  "4@tower" : {
+    "displayName" : "Endless Tower"
+  },
+  "5@tower" : {
+    "displayName" : "Endless Tower"
+  },
+  "6@tower" : {
+    "displayName" : "Endless Tower(Unknown Area)"
+  },
+  "abyss_01" : {
+    "displayName" : "Abyss Lake Underground Cave"
+  },
+  "abyss_02" : {
+    "displayName" : "Abyss Lake Underground Cave"
+  },
+  "abyss_03" : {
+    "displayName" : "Abyss Lake Underground Cave"
+  },
+  "airplane" : {
+    "displayName" : "Airship"
+  },
+  "airplane_01" : {
+    "displayName" : "Airship"
+  },
+  "airport" : {
+    "displayName" : "Airport"
+  },
+  "alb2trea" : {
+    "displayName" : "Pulau Alberta"
+  },
+  "alb_ship" : {
+    "displayName" : "Kapal Alberta"
+  },
+  "alberta" : {
+    "displayName" : "Alberta"
+  },
+  "alberta_in" : {
+    "displayName" : "Dalam Alberta"
+  },
+  "alde_alche" : {
+    "displayName" : "Perkumpulan Alchemist"
+  },
+  "alde_dun01" : {
+    "displayName" : "Clock Tower B1F"
+  },
+  "alde_dun02" : {
+    "displayName" : "Clock Tower B2F"
+  },
+  "alde_dun03" : {
+    "displayName" : "Clock Tower B3F"
+  },
+  "alde_dun04" : {
+    "displayName" : "Clock Tower B4F"
+  },
+  "alde_gld" : {
+    "displayName" : "Luina, Satelit Kota Al De Baran"
+  },
+  "aldeba_in" : {
+    "displayName" : "Dalam Al De Baran"
+  },
+  "aldebaran" : {
+    "displayName" : "Al De Baran"
+  },
+  "aldeg_cas01" : {
+    "displayName" : "Guild Luina"
+  },
+  "aldeg_cas02" : {
+    "displayName" : "Guild Luina"
+  },
+  "aldeg_cas03" : {
+    "displayName" : "Guild Luina"
+  },
+  "aldeg_cas04" : {
+    "displayName" : "Guild Luina"
+  },
+  "aldeg_cas05" : {
+    "displayName" : "Guild Luina"
+  },
+  "ama_dun01" : {
+    "displayName" : "Labirin Tatami"
+  },
+  "ama_dun02" : {
+    "displayName" : "Hutan bawah tanah"
+  },
+  "ama_dun03" : {
+    "displayName" : "Kuil bawah tanah"
+  },
+  "ama_fild01" : {
+    "displayName" : "Daratan Amatsu"
+  },
+  "ama_in01" : {
+    "displayName" : "Dalam Amatsu"
+  },
+  "ama_in02" : {
+    "displayName" : "Dalam TenguGak"
+  },
+  "ama_test" : {
+    "displayName" : "Daratan Momotaro Field Trip"
+  },
+  "amatsu" : {
+    "displayName" : "Amatsu, Pulau Tengu"
+  },
+  "anthell01" : {
+    "displayName" : "Neraka Semut"
+  },
+  "anthell02" : {
+    "displayName" : "Neraka Semut"
+  },
+  "arena_room" : {
+    "displayName" : "Ruang Tunggu"
+  },
+  "auction_01" : {
+    "displayName" : "Rumah Lelang"
+  },
+  "auction_02" : {
+    "displayName" : "Rumah Lealng"
+  },
+  "ayo_dun01" : {
+    "displayName" : "Ancient Shrine Maze"
+  },
+  "ayo_dun02" : {
+    "displayName" : "Dalam Ancient Shrine"
+  },
+  "ayo_fild01" : {
+    "displayName" : "Ayotaya Field"
+  },
+  "ayo_fild02" : {
+    "displayName" : "Ayotaya Field"
+  },
+  "ayo_in01" : {
+    "displayName" : "Dalam Ayotaya"
+  },
+  "ayo_in02" : {
+    "displayName" : "Dalam Ayotaya"
+  },
+  "ayothaya" : {
+    "displayName" : "Ayotaya"
+  },
+  "bat_a01" : {
+    "displayName" : "Tierra Valley"
+  },
+  "bat_a02" : {
+    "displayName" : "Tierra Valley"
+  },
+  "bat_b01" : {
+    "displayName" : "Flavius"
+  },
+  "bat_b02" : {
+    "displayName" : "Flavius"
+  },
+  "bat_room" : {
+    "displayName" : "Ruang Tunggu BOE"
+  },
+  "beach_dun" : {
+    "displayName" : "Karu, Goa Barat"
+  },
+  "beach_dun2" : {
+    "displayName" : "Ruande, Goa Utara"
+  },
+  "beach_dun3" : {
+    "displayName" : "Mao, Goa Timur"
+  },
+  "c_tower1" : {
+    "displayName" : "Clock Tower 1F"
+  },
+  "c_tower2" : {
+    "displayName" : "Clock Tower 2F"
+  },
+  "c_tower3" : {
+    "displayName" : "Clock Tower 3F"
+  },
+  "c_tower4" : {
+    "displayName" : "Clock Tower 4F"
+  },
+  "cmd_fild01" : {
+    "displayName" : "Hutan Papuchicha"
+  },
+  "cmd_fild02" : {
+    "displayName" : "Pantai Kokomo"
+  },
+  "cmd_fild03" : {
+    "displayName" : "Rawa Zenhai"
+  },
+  "cmd_fild04" : {
+    "displayName" : "Pantai Kokomo"
+  },
+  "cmd_fild05" : {
+    "displayName" : "Perbatasan hutan Papuchica"
+  },
+  "cmd_fild06" : {
+    "displayName" : "Benteng Saint Darmain(Barat)"
+  },
+  "cmd_fild07" : {
+    "displayName" : "Pulau Mercusuar,Pharos"
+  },
+  "cmd_fild08" : {
+    "displayName" : "Benteng Saint Darmain(Timur)"
+  },
+  "cmd_fild09" : {
+    "displayName" : "Benteng Saint Darmain(Selatan)"
+  },
+  "cmd_in01" : {
+    "displayName" : "Dalam Comodo"
+  },
+  "cmd_in02" : {
+    "displayName" : "Dalam Comodo"
+  },
+  "comodo" : {
+    "displayName" : "Pulau pantai, Comodo"
+  },
+  "e_tower" : {
+    "displayName" : "Misty Island"
+  },
+  "ein_dun01" : {
+    "displayName" : "Mine Dungeon"
+  },
+  "ein_dun02" : {
+    "displayName" : "Mine Dungeon"
+  },
+  "ein_fild01" : {
+    "displayName" : "Einbroch Field"
+  },
+  "ein_fild02" : {
+    "displayName" : "Einbroch Field"
+  },
+  "ein_fild03" : {
+    "displayName" : "Einbroch Field"
+  },
+  "ein_fild04" : {
+    "displayName" : "Einbroch Field"
+  },
+  "ein_fild05" : {
+    "displayName" : "Einbroch Field"
+  },
+  "ein_fild06" : {
+    "displayName" : "Einbroch Field"
+  },
+  "ein_fild07" : {
+    "displayName" : "Einbroch Field"
+  },
+  "ein_fild08" : {
+    "displayName" : "Einbroch Field"
+  },
+  "ein_fild09" : {
+    "displayName" : "Einbroch Field"
+  },
+  "ein_fild10" : {
+    "displayName" : "Einbroch Field"
+  },
+  "ein_in01" : {
+    "displayName" : "Dalam Einbroch"
+  },
+  "einbech" : {
+    "displayName" : "Einbech, kota pertambangan"
+  },
+  "einbroch" : {
+    "displayName" : "Einbroch, Kota Industri"
+  },
+  "evt_zombie" : {
+    "displayName" : "Run_From_Zombie"
+  },
+  "force_1-1" : {
+    "displayName" : "Time Limit Fight"
+  },
+  "force_1-2" : {
+    "displayName" : "Time Limit Fight"
+  },
+  "force_1-3" : {
+    "displayName" : "Time Limit Fight"
+  },
+  "force_2-1" : {
+    "displayName" : "Time Limit Fight"
+  },
+  "force_2-2" : {
+    "displayName" : "Time Limit Fight"
+  },
+  "force_2-3" : {
+    "displayName" : "Time Limit Fight"
+  },
+  "force_3-1" : {
+    "displayName" : "Time Limit Fight"
+  },
+  "force_3-2" : {
+    "displayName" : "Time Limit Fight"
+  },
+  "force_3-3" : {
+    "displayName" : "Time Limit Fight"
+  },
+  "gef_dun00" : {
+    "displayName" : "Dungeon Geffen"
+  },
+  "gef_dun01" : {
+    "displayName" : "Dungeon Geffen"
+  },
+  "gef_dun02" : {
+    "displayName" : "Geffenia"
+  },
+  "gef_dun03" : {
+    "displayName" : "Geffenia"
+  },
+  "gef_fild00" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild01" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild02" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild03" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild04" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild05" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild06" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild07" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild08" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild09" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild10" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild11" : {
+    "displayName" : "Daratan Geffen"
+  },
+  "gef_fild12" : {
+    "displayName" : "Hutan Kordt"
+  },
+  "gef_fild13" : {
+    "displayName" : "Britoniah"
+  },
+  "gef_fild14" : {
+    "displayName" : "Desa Barat Orc"
+  },
+  "gef_tower" : {
+    "displayName" : "Menara Geffen"
+  },
+  "gefenia01" : {
+    "displayName" : "Geffenia"
+  },
+  "gefenia02" : {
+    "displayName" : "Geffenia"
+  },
+  "gefenia03" : {
+    "displayName" : "Geffenia"
+  },
+  "gefenia04" : {
+    "displayName" : "Geffenia"
+  },
+  "geffen" : {
+    "displayName" : "Geffen"
+  },
+  "geffen_in" : {
+    "displayName" : "Dalam Geffen"
+  },
+  "gefg_cas01" : {
+    "displayName" : "Guild Britoniah"
+  },
+  "gefg_cas02" : {
+    "displayName" : "Guild Britoniah"
+  },
+  "gefg_cas03" : {
+    "displayName" : "Guild Britoniah"
+  },
+  "gefg_cas04" : {
+    "displayName" : "Guild Britoniah"
+  },
+  "gefg_cas05" : {
+    "displayName" : "Guild Britoniah"
+  },
+  "gl_cas01" : {
+    "displayName" : "Glast Heim 1F"
+  },
+  "gl_cas02" : {
+    "displayName" : "Glast Heim 2F"
+  },
+  "gl_church" : {
+    "displayName" : "Glast Heim St.Abbey"
+  },
+  "gl_chyard" : {
+    "displayName" : "Glast Heim Halaman Gereja"
+  },
+  "gl_dun01" : {
+    "displayName" : "Goa terdalam di Glast Heim"
+  },
+  "gl_dun02" : {
+    "displayName" : "Goa terdalam di Glast Heim"
+  },
+  "gl_in01" : {
+    "displayName" : "Dalam Glast Heim"
+  },
+  "gl_knt01" : {
+    "displayName" : "Dalam Kavaleri Glast Heim"
+  },
+  "gl_knt02" : {
+    "displayName" : "Dalam Kavaleri Glast Heim"
+  },
+  "gl_prison" : {
+    "displayName" : "Penjara Glast Heim"
+  },
+  "gl_prison1" : {
+    "displayName" : "Penjara Glast Heim"
+  },
+  "gl_sew01" : {
+    "displayName" : "Lorong Glast Heim"
+  },
+  "gl_sew02" : {
+    "displayName" : "Lorong Glast Heim"
+  },
+  "gl_sew03" : {
+    "displayName" : "Lorong Glast Heim"
+  },
+  "gl_sew04" : {
+    "displayName" : "Lorong Glast Heim"
+  },
+  "gl_step" : {
+    "displayName" : "Tangga Dungeon Glast Heim"
+  },
+  "glast_01" : {
+    "displayName" : "Glast Heim"
+  },
+  "gld_dun01" : {
+    "displayName" : "Guild Dungeon"
+  },
+  "gld_dun02" : {
+    "displayName" : "Guild Dungeon"
+  },
+  "gld_dun03" : {
+    "displayName" : "Guild Dungeon"
+  },
+  "gld_dun04" : {
+    "displayName" : "Guild Dungeon"
+  },
+  "gon_dun01" : {
+    "displayName" : "Makam Xi Wang Mu"
+  },
+  "gon_dun02" : {
+    "displayName" : "Catur para DewaAsian Checkers of Hermits"
+  },
+  "gon_dun03" : {
+    "displayName" : "Khayangan"
+  },
+  "gon_fild01" : {
+    "displayName" : "Daratan Gonryun"
+  },
+  "gon_in" : {
+    "displayName" : "Dalam Gonryun"
+  },
+  "gon_test" : {
+    "displayName" : "Arena Pertarungan"
+  },
+  "gonryun" : {
+    "displayName" : "Gonryun, Tempat para Dewa"
+  },
+  "guild_room" : {
+    "displayName" : "Ruang Tunggu Arena Guild"
+  },
+  "guild_vs1" : {
+    "displayName" : "Arena Guild"
+  },
+  "guild_vs2" : {
+    "displayName" : "Arena Guild"
+  },
+  "guild_vs2_1" : {
+    "displayName" : "Arena Guild"
+  },
+  "guild_vs2_2" : {
+    "displayName" : "Arena Guild"
+  },
+  "guild_vs2_3" : {
+    "displayName" : "Arena Guild"
+  },
+  "guild_vs2_4" : {
+    "displayName" : "Arena Guild"
+  },
+  "guild_vs3" : {
+    "displayName" : "Arena Guild"
+  },
+  "guild_vs4" : {
+    "displayName" : "Arena Guild"
+  },
+  "guild_vs5" : {
+    "displayName" : "Arena Guild"
+  },
+  "himinn" : {
+    "displayName" : "Aula Valhalla (Himinn)"
+  },
+  "hu_fild01" : {
+    "displayName" : "Thanatos Tower"
+  },
+  "hu_fild02" : {
+    "displayName" : "Hugel Field"
+  },
+  "hu_fild03" : {
+    "displayName" : "Hugel Field"
+  },
+  "hu_fild04" : {
+    "displayName" : "Hugel Field"
+  },
+  "hu_fild05" : {
+    "displayName" : "The Abyss Lake"
+  },
+  "hu_fild06" : {
+    "displayName" : "Hugel Field"
+  },
+  "hu_fild07" : {
+    "displayName" : "Hugel Field"
+  },
+  "hu_in01" : {
+    "displayName" : "Dalam Hugel"
+  },
+  "hugel" : {
+    "displayName" : "Hugel, Kota taman Odin"
+  },
+  "hunter_1-1" : {
+    "displayName" : "Perkumpulan Hunter"
+  },
+  "hunter_2-1" : {
+    "displayName" : "Perkumpulan Hunter"
+  },
+  "hunter_3-1" : {
+    "displayName" : "Perkumpulan Hunter"
+  },
+  "ice_dun01" : {
+    "displayName" : "Gua Es"
+  },
+  "ice_dun02" : {
+    "displayName" : "Gua Es"
+  },
+  "ice_dun03" : {
+    "displayName" : "Gua Es"
+  },
+  "ice_dun04" : {
+    "displayName" : "Gua Es"
+  },
+  "in_hunter" : {
+    "displayName" : "Perkumpulan Hunter"
+  },
+  "in_moc_16" : {
+    "displayName" : "Klan Assassin"
+  },
+  "in_orcs01" : {
+    "displayName" : "Desa Orc"
+  },
+  "in_rogue" : {
+    "displayName" : "Dalam Perkumpulan Rogue"
+  },
+  "in_sphinx1" : {
+    "displayName" : "Sphinx"
+  },
+  "in_sphinx2" : {
+    "displayName" : "Sphinx"
+  },
+  "in_sphinx3" : {
+    "displayName" : "Sphinx"
+  },
+  "in_sphinx4" : {
+    "displayName" : "Sphinx"
+  },
+  "in_sphinx5" : {
+    "displayName" : "Sphinx"
+  },
+  "iz_dun00" : {
+    "displayName" : "Terowongan Bawah Laut"
+  },
+  "iz_dun01" : {
+    "displayName" : "Terowongan Bawah Laut"
+  },
+  "iz_dun02" : {
+    "displayName" : "Terowongan Bawah Laut"
+  },
+  "iz_dun03" : {
+    "displayName" : "Terowongan Bawah Laut"
+  },
+  "iz_dun04" : {
+    "displayName" : "Terowongan Bawah Laut"
+  },
+  "iz_dun05" : {
+    "displayName" : "Terowongan Bawah Laut"
+  },
+  "izlu2dun" : {
+    "displayName" : "Pulau Byalan"
+  },
+  "izlude" : {
+    "displayName" : "Kota Izlude"
+  },
+  "izlude07" : {
+    "displayName" : "Izlude RIC"
+  },
+  "izlude_in" : {
+    "displayName" : "Dalam Izlude"
+  },
+  "jawaii" : {
+    "displayName" : "Jawaii, Pulau Bulan Madu"
+  },
+  "jawaii_in" : {
+    "displayName" : "Di dalam Jawaii"
+  },
+  "job_cru" : {
+    "displayName" : "Test Defender"
+  },
+  "job_duncer" : {
+    "displayName" : "Teater Comodo"
+  },
+  "job_hunte" : {
+    "displayName" : "Hunter Test"
+  },
+  "job_knt" : {
+    "displayName" : "Knight Test"
+  },
+  "job_monk" : {
+    "displayName" : "Kuil St. Capitolina"
+  },
+  "job_prist" : {
+    "displayName" : "Priest Test"
+  },
+  "job_sage" : {
+    "displayName" : "Test Sage"
+  },
+  "job_soul" : {
+    "displayName" : "Your Heart"
+  },
+  "job_star" : {
+    "displayName" : "Matahari, bulan dan bintang"
+  },
+  "job_thief1" : {
+    "displayName" : "Ladang Jamur"
+  },
+  "job_wiz" : {
+    "displayName" : "Wizard Test"
+  },
+  "jupe_area1" : {
+    "displayName" : "Area Terlarang Juperos"
+  },
+  "jupe_area2" : {
+    "displayName" : "Area Terlarang Juperos"
+  },
+  "jupe_cave" : {
+    "displayName" : "Pintu masuk Juperos"
+  },
+  "jupe_core" : {
+    "displayName" : "Pusat Juperos"
+  },
+  "jupe_ele" : {
+    "displayName" : "Lift Juperos"
+  },
+  "jupe_ele_r" : {
+    "displayName" : "Lift Juperos"
+  },
+  "jupe_gate" : {
+    "displayName" : "Area Terlarang Juperos"
+  },
+  "juperos_01" : {
+    "displayName" : "Juperos Dungeon"
+  },
+  "juperos_02" : {
+    "displayName" : "Juperos Dungeon"
+  },
+  "kh_dun01" : {
+    "displayName" : "Robot Factory level 1"
+  },
+  "kh_dun02" : {
+    "displayName" : "Robot Factory level 2"
+  },
+  "kh_kiehl01" : {
+    "displayName" : "Kiehl's Room"
+  },
+  "kh_kiehl02" : {
+    "displayName" : "Kiehl's Room"
+  },
+  "kh_mansion" : {
+    "displayName" : "Kiel Hyre's Mansion"
+  },
+  "kh_rossi" : {
+    "displayName" : "The Rosimier's Mansion"
+  },
+  "kh_school" : {
+    "displayName" : "Akademi Kiel Hyre"
+  },
+  "kh_vila" : {
+    "displayName" : "Kiel Hyre's Cottage"
+  },
+  "knight_1-1" : {
+    "displayName" : "Kavaleri"
+  },
+  "knight_2-1" : {
+    "displayName" : "Kavaleri"
+  },
+  "knight_3-1" : {
+    "displayName" : "Kavaleri"
+  },
+  "lhz_airport" : {
+    "displayName" : "Landasan udara Lighthalzen"
+  },
+  "lhz_cube" : {
+    "displayName" : "Cube Room"
+  },
+  "lhz_cube_1" : {
+    "displayName" : "Cube Room"
+  },
+  "lhz_dun01" : {
+    "displayName" : "Laboratorium Somatology"
+  },
+  "lhz_dun02" : {
+    "displayName" : "Laboratorium Somatology"
+  },
+  "lhz_dun03" : {
+    "displayName" : "Laboratorium Somatology"
+  },
+  "lhz_fild01" : {
+    "displayName" : "Field Lighthalzen"
+  },
+  "lhz_fild02" : {
+    "displayName" : "Lighthalzen Field (Grim Ripper's Valley)"
+  },
+  "lhz_fild03" : {
+    "displayName" : "Lighthalzen Field"
+  },
+  "lhz_in01" : {
+    "displayName" : "Rekenber Headquarters"
+  },
+  "lhz_in02" : {
+    "displayName" : "Dalam Lighthalzen"
+  },
+  "lhz_in03" : {
+    "displayName" : "Dalam Lighthalzen"
+  },
+  "lhz_que01" : {
+    "displayName" : "Dalam Lighthalzen"
+  },
+  "lighthalzen" : {
+    "displayName" : "Lighthalzen, Kota kemakmuran"
+  },
+  "lou_dun01" : {
+    "displayName" : "Kuburan Keluarga Kerajaan"
+  },
+  "lou_dun02" : {
+    "displayName" : "Di dalam Kuburan Keluarga Kerajaan"
+  },
+  "lou_dun03" : {
+    "displayName" : "Istana ShenYang"
+  },
+  "lou_fild01" : {
+    "displayName" : "Halaman Kastil Naga"
+  },
+  "lou_in01" : {
+    "displayName" : "Di dalam Kastil Naga"
+  },
+  "lou_in02" : {
+    "displayName" : "Di dalam Kastil Naga"
+  },
+  "louyang" : {
+    "displayName" : "Kastil Naga"
+  },
+  "mag_dun01" : {
+    "displayName" : "Norgroad"
+  },
+  "mag_dun02" : {
+    "displayName" : "Norgroad"
+  },
+  "mjo_dun01" : {
+    "displayName" : "Jalan Buntu Mjolnir"
+  },
+  "mjo_dun02" : {
+    "displayName" : "Jalan Buntu Mjolnir"
+  },
+  "mjo_dun03" : {
+    "displayName" : "Jalan Buntu Mjolnir"
+  },
+  "mjolnir_01" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "mjolnir_02" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "mjolnir_03" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "mjolnir_04" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "mjolnir_05" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "mjolnir_06" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "mjolnir_07" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "mjolnir_08" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "mjolnir_09" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "mjolnir_10" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "mjolnir_11" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "mjolnir_12" : {
+    "displayName" : "Gunung Mjolnir"
+  },
+  "moc_castle" : {
+    "displayName" : "Kastil Morroc"
+  },
+  "moc_fild01" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild02" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild03" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild04" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild05" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild06" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild07" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild08" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild09" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild10" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild11" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild12" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild13" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild14" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild15" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild16" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild17" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild18" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild19" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild20" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild21" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_fild22" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "moc_pryd01" : {
+    "displayName" : "Dalam Pyramid"
+  },
+  "moc_pryd02" : {
+    "displayName" : "Dalam Pyramid"
+  },
+  "moc_pryd03" : {
+    "displayName" : "Dalam Pyramid"
+  },
+  "moc_pryd04" : {
+    "displayName" : "Dalam Pyramid"
+  },
+  "moc_pryd05" : {
+    "displayName" : "Dalam Pyramid"
+  },
+  "moc_pryd06" : {
+    "displayName" : "Dalam Pyramid"
+  },
+  "moc_prydb1" : {
+    "displayName" : "Perkumpulan Thief"
+  },
+  "moc_ruins" : {
+    "displayName" : "Reruntuhan Morroc"
+  },
+  "monk_in" : {
+    "displayName" : "Dalam St.Abbey"
+  },
+  "monk_test" : {
+    "displayName" : "Kuil St. Capitolina"
+  },
+  "morocc" : {
+    "displayName" : "Kota Morroc"
+  },
+  "morocc_in" : {
+    "displayName" : "Dalam Morroc"
+  },
+  "moscovia" : {
+    "displayName" : "Moscovia"
+  },
+  "mosk_dun01" : {
+    "displayName" : "Hutan Peri"
+  },
+  "mosk_dun02" : {
+    "displayName" : "Hutan Peri"
+  },
+  "mosk_dun03" : {
+    "displayName" : "Hutan Peri"
+  },
+  "mosk_fild01" : {
+    "displayName" : "Pulau Ikan Paus"
+  },
+  "mosk_fild02" : {
+    "displayName" : "Hutan Moscovia"
+  },
+  "mosk_in" : {
+    "displayName" : "Dalam Moscovia"
+  },
+  "mosk_que" : {
+    "displayName" : "Goa Naga"
+  },
+  "mosk_ship" : {
+    "displayName" : "Kapal"
+  },
+  "new_1-1" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_1-2" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_1-3" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_1-4" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_2-1" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_2-2" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_2-3" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_2-4" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_3-1" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_3-2" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_3-3" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_3-4" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_4-1" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_4-2" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_4-3" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_4-4" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_5-1" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_5-2" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_5-3" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "new_5-4" : {
+    "displayName" : "Tempat Pelatihan"
+  },
+  "nif_fild01" : {
+    "displayName" : "Skelington (Desa Terjauh Niflheim)"
+  },
+  "nif_fild02" : {
+    "displayName" : "Kubah Setan"
+  },
+  "nif_in" : {
+    "displayName" : "Dalam Niflheim"
+  },
+  "niflheim" : {
+    "displayName" : "Kota Kematian Niflheim"
+  },
+  "odin_tem01" : {
+    "displayName" : "Kuil Odin"
+  },
+  "odin_tem02" : {
+    "displayName" : "Kuil Odin"
+  },
+  "odin_tem03" : {
+    "displayName" : "Kuil Odin"
+  },
+  "orcsdun01" : {
+    "displayName" : "Dungeon Orc"
+  },
+  "orcsdun02" : {
+    "displayName" : "Dungeon Orc"
+  },
+  "ordeal_1-1" : {
+    "displayName" : "Battle Mode"
+  },
+  "ordeal_1-2" : {
+    "displayName" : "Battle Mode"
+  },
+  "ordeal_1-3" : {
+    "displayName" : "Battle Mode"
+  },
+  "ordeal_1-4" : {
+    "displayName" : "Battle Mode"
+  },
+  "ordeal_2-1" : {
+    "displayName" : "Battle Mode"
+  },
+  "ordeal_2-2" : {
+    "displayName" : "Battle Mode"
+  },
+  "ordeal_2-3" : {
+    "displayName" : "Battle Mode"
+  },
+  "ordeal_2-4" : {
+    "displayName" : "Battle Mode"
+  },
+  "ordeal_3-1" : {
+    "displayName" : "Battle Mode"
+  },
+  "ordeal_3-2" : {
+    "displayName" : "Battle Mode"
+  },
+  "ordeal_3-3" : {
+    "displayName" : "Battle Mode"
+  },
+  "ordeal_3-4" : {
+    "displayName" : "Battle Mode"
+  },
+  "p_track01" : {
+    "displayName" : "Monster Race Arena"
+  },
+  "p_track02" : {
+    "displayName" : "Monster Race Arena"
+  },
+  "pay_arche" : {
+    "displayName" : "Desa Archer"
+  },
+  "pay_dun00" : {
+    "displayName" : "Goa Payon"
+  },
+  "pay_dun01" : {
+    "displayName" : "Goa Payon"
+  },
+  "pay_dun02" : {
+    "displayName" : "Goa Payon"
+  },
+  "pay_dun03" : {
+    "displayName" : "Goa Payon"
+  },
+  "pay_dun04" : {
+    "displayName" : "Goa Payon"
+  },
+  "pay_fild01" : {
+    "displayName" : "Hutan Payon"
+  },
+  "pay_fild02" : {
+    "displayName" : "Hutan Payon"
+  },
+  "pay_fild03" : {
+    "displayName" : "Hutan Payon"
+  },
+  "pay_fild04" : {
+    "displayName" : "Padang Pasir Sograt"
+  },
+  "pay_fild05" : {
+    "displayName" : "Hutan Payon"
+  },
+  "pay_fild06" : {
+    "displayName" : "Hutan Payon"
+  },
+  "pay_fild07" : {
+    "displayName" : "Hutan Payon"
+  },
+  "pay_fild08" : {
+    "displayName" : "Hutan Payon"
+  },
+  "pay_fild09" : {
+    "displayName" : "Hutan Payon"
+  },
+  "pay_fild10" : {
+    "displayName" : "Hutan Payon"
+  },
+  "pay_fild11" : {
+    "displayName" : "Hutan Payon"
+  },
+  "pay_gld" : {
+    "displayName" : "Danau Greenwood"
+  },
+  "payg_cas01" : {
+    "displayName" : "Guild Danau Greenwood"
+  },
+  "payg_cas02" : {
+    "displayName" : "Guild Danau Greenwood"
+  },
+  "payg_cas03" : {
+    "displayName" : "Guild Danau Greenwood"
+  },
+  "payg_cas04" : {
+    "displayName" : "Guild Danau Greenwood"
+  },
+  "payg_cas05" : {
+    "displayName" : "Guild Danau Greenwood"
+  },
+  "payon" : {
+    "displayName" : "Kota Payon"
+  },
+  "payon_in01" : {
+    "displayName" : "Dalam Payon"
+  },
+  "payon_in02" : {
+    "displayName" : "Dalam Payon"
+  },
+  "priest_1-1" : {
+    "displayName" : "Tempat Suci"
+  },
+  "priest_2-1" : {
+    "displayName" : "Tempat Suci"
+  },
+  "priest_3-1" : {
+    "displayName" : "Tempat Suci"
+  },
+  "prontera" : {
+    "displayName" : "Kota Prontera"
+  },
+  "prt_are01" : {
+    "displayName" : "ARENA"
+  },
+  "prt_are_in" : {
+    "displayName" : "Ruang Tunggu"
+  },
+  "prt_arena01" : {
+    "displayName" : "ARENA"
+  },
+  "prt_castle" : {
+    "displayName" : "Kastil Prontera"
+  },
+  "prt_church" : {
+    "displayName" : "Gereja"
+  },
+  "prt_fild00" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_fild01" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_fild02" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_fild03" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_fild04" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_fild05" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_fild06" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_fild07" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_fild08" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_fild09" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_fild10" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_fild11" : {
+    "displayName" : "Daratan Prontera"
+  },
+  "prt_gld" : {
+    "displayName" : "Valkyrie"
+  },
+  "prt_in" : {
+    "displayName" : "Dalam Prontera"
+  },
+  "prt_in_1" : {
+    "displayName" : "Dalam Prontera"
+  },
+  "prt_in_2" : {
+    "displayName" : "Dalam Prontera"
+  },
+  "prt_in_3" : {
+    "displayName" : "Dalam Prontera"
+  },
+  "prt_in_4" : {
+    "displayName" : "Dalam Prontera"
+  },
+  "prt_maze01" : {
+    "displayName" : "Hutan Labirin"
+  },
+  "prt_maze02" : {
+    "displayName" : "Hutan Labirin"
+  },
+  "prt_maze03" : {
+    "displayName" : "Hutan Labirin"
+  },
+  "prt_monk" : {
+    "displayName" : "Kuil St. Capitolina"
+  },
+  "prt_sewb1" : {
+    "displayName" : "Lorong Prontera"
+  },
+  "prt_sewb2" : {
+    "displayName" : "Lorong Prontera"
+  },
+  "prt_sewb3" : {
+    "displayName" : "Lorong Prontera"
+  },
+  "prt_sewb4" : {
+    "displayName" : "Lorong Prontera"
+  },
+  "prtg_cas01" : {
+    "displayName" : "Guild Valkyrie"
+  },
+  "prtg_cas02" : {
+    "displayName" : "Guild Valkyrie"
+  },
+  "prtg_cas03" : {
+    "displayName" : "Guild Valkyrie"
+  },
+  "prtg_cas04" : {
+    "displayName" : "Guild Valkyrie"
+  },
+  "prtg_cas05" : {
+    "displayName" : "Guild Valkyrie"
+  },
+  "pvp_2vs2" : {
+    "displayName" : "PvP : Colosseum"
+  },
+  "pvp_c_room" : {
+    "displayName" : "PvP : Ruang Tunggu"
+  },
+  "pvp_n_1-1" : {
+    "displayName" : "PvP : Ruangan Sandwich"
+  },
+  "pvp_n_1-2" : {
+    "displayName" : "PvP : Ruang Lock On"
+  },
+  "pvp_n_1-3" : {
+    "displayName" : "PvP : Empat Ruang"
+  },
+  "pvp_n_1-4" : {
+    "displayName" : "PvP : Ruang Undercross"
+  },
+  "pvp_n_1-5" : {
+    "displayName" : "PvP : Ruangan Compass"
+  },
+  "pvp_n_2-1" : {
+    "displayName" : "PvP : Ruangan Sandwich"
+  },
+  "pvp_n_2-2" : {
+    "displayName" : "PvP : Ruang Lock On"
+  },
+  "pvp_n_2-3" : {
+    "displayName" : "PvP : Empat Ruang"
+  },
+  "pvp_n_2-4" : {
+    "displayName" : "PvP : Ruang Undercross"
+  },
+  "pvp_n_2-5" : {
+    "displayName" : "PvP : Ruangan Compass"
+  },
+  "pvp_n_3-1" : {
+    "displayName" : "PvP : Ruangan Sandwich"
+  },
+  "pvp_n_3-2" : {
+    "displayName" : "PvP : Ruang Lock On"
+  },
+  "pvp_n_3-3" : {
+    "displayName" : "PvP : Empat Ruang"
+  },
+  "pvp_n_3-4" : {
+    "displayName" : "PvP : Ruang Undercross"
+  },
+  "pvp_n_3-5" : {
+    "displayName" : "PvP : Ruangan Compass"
+  },
+  "pvp_n_4-1" : {
+    "displayName" : "PvP : Ruangan Sandwich"
+  },
+  "pvp_n_4-2" : {
+    "displayName" : "PvP : Ruang Lock On"
+  },
+  "pvp_n_4-3" : {
+    "displayName" : "PvP : Empat Ruang"
+  },
+  "pvp_n_4-4" : {
+    "displayName" : "PvP : Ruang Undercross"
+  },
+  "pvp_n_4-5" : {
+    "displayName" : "PvP : Ruangan Compass"
+  },
+  "pvp_n_5-1" : {
+    "displayName" : "PvP : Ruangan Sandwich"
+  },
+  "pvp_n_5-2" : {
+    "displayName" : "PvP : Ruang Lock On"
+  },
+  "pvp_n_5-3" : {
+    "displayName" : "PvP : Empat Ruang"
+  },
+  "pvp_n_5-4" : {
+    "displayName" : "PvP : Ruang Undercross"
+  },
+  "pvp_n_5-5" : {
+    "displayName" : "PvP : Ruangan Compass"
+  },
+  "pvp_n_6-1" : {
+    "displayName" : "PvP : Ruangan Sandwich"
+  },
+  "pvp_n_6-2" : {
+    "displayName" : "PvP : Ruang Lock On"
+  },
+  "pvp_n_6-3" : {
+    "displayName" : "PvP : Empat Ruang"
+  },
+  "pvp_n_6-4" : {
+    "displayName" : "PvP : Ruang Undercross"
+  },
+  "pvp_n_6-5" : {
+    "displayName" : "PvP : Ruangan Compass"
+  },
+  "pvp_n_7-1" : {
+    "displayName" : "PvP : Ruangan Sandwich"
+  },
+  "pvp_n_7-2" : {
+    "displayName" : "PvP : Ruang Lock On"
+  },
+  "pvp_n_7-3" : {
+    "displayName" : "PvP : Empat Ruang"
+  },
+  "pvp_n_7-4" : {
+    "displayName" : "PvP : Ruang Undercross"
+  },
+  "pvp_n_7-5" : {
+    "displayName" : "PvP : Ruangan Compass"
+  },
+  "pvp_n_8-1" : {
+    "displayName" : "PvP : Ruangan Sandwich"
+  },
+  "pvp_n_8-2" : {
+    "displayName" : "PvP : Ruang Lock On"
+  },
+  "pvp_n_8-3" : {
+    "displayName" : "PvP : Empat Ruang"
+  },
+  "pvp_n_8-4" : {
+    "displayName" : "PvP : Ruang Undercross"
+  },
+  "pvp_n_8-5" : {
+    "displayName" : "PvP : Ruangan Compass"
+  },
+  "pvp_n_room" : {
+    "displayName" : "PvP : Ruang Tunggu"
+  },
+  "pvp_y_1-1" : {
+    "displayName" : "PvP : Ruangan Prontera"
+  },
+  "pvp_y_1-2" : {
+    "displayName" : "PvP : Ruangan Izlude"
+  },
+  "pvp_y_1-3" : {
+    "displayName" : "PvP : Ruangan Payon"
+  },
+  "pvp_y_1-4" : {
+    "displayName" : "PvP : Ruangan Alberta"
+  },
+  "pvp_y_1-5" : {
+    "displayName" : "PvP : Ruangan Morroc"
+  },
+  "pvp_y_2-1" : {
+    "displayName" : "PvP : Ruangan Prontera"
+  },
+  "pvp_y_2-2" : {
+    "displayName" : "PvP : Ruangan Izlude"
+  },
+  "pvp_y_2-3" : {
+    "displayName" : "PvP : Ruangan Payon"
+  },
+  "pvp_y_2-4" : {
+    "displayName" : "PvP : Ruangan Alberta"
+  },
+  "pvp_y_2-5" : {
+    "displayName" : "PvP : Ruangan Morroc"
+  },
+  "pvp_y_3-1" : {
+    "displayName" : "PvP : Ruangan Prontera"
+  },
+  "pvp_y_3-2" : {
+    "displayName" : "PvP : Ruangan Izlude"
+  },
+  "pvp_y_3-3" : {
+    "displayName" : "PvP : Ruangan Payon"
+  },
+  "pvp_y_3-4" : {
+    "displayName" : "PvP : Ruangan Alberta"
+  },
+  "pvp_y_3-5" : {
+    "displayName" : "PvP : Ruangan Morroc"
+  },
+  "pvp_y_4-1" : {
+    "displayName" : "PvP : Ruangan Prontera"
+  },
+  "pvp_y_4-2" : {
+    "displayName" : "PvP : Ruangan Izlude"
+  },
+  "pvp_y_4-3" : {
+    "displayName" : "PvP : Ruangan Payon"
+  },
+  "pvp_y_4-4" : {
+    "displayName" : "PvP : Ruangan Alberta"
+  },
+  "pvp_y_4-5" : {
+    "displayName" : "PvP : Ruangan Morroc"
+  },
+  "pvp_y_5-1" : {
+    "displayName" : "PvP : Ruangan Prontera"
+  },
+  "pvp_y_5-2" : {
+    "displayName" : "PvP : Ruangan Izlude"
+  },
+  "pvp_y_5-3" : {
+    "displayName" : "PvP : Ruangan Payon"
+  },
+  "pvp_y_5-4" : {
+    "displayName" : "PvP : Ruangan Alberta"
+  },
+  "pvp_y_5-5" : {
+    "displayName" : "PvP : Ruangan Morroc"
+  },
+  "pvp_y_6-1" : {
+    "displayName" : "PvP : Ruangan Prontera"
+  },
+  "pvp_y_6-2" : {
+    "displayName" : "PvP : Ruangan Izlude"
+  },
+  "pvp_y_6-3" : {
+    "displayName" : "PvP : Ruangan Payon"
+  },
+  "pvp_y_6-4" : {
+    "displayName" : "PvP : Ruangan Alberta"
+  },
+  "pvp_y_6-5" : {
+    "displayName" : "PvP : Ruangan Morroc"
+  },
+  "pvp_y_7-1" : {
+    "displayName" : "PvP : Ruangan Prontera"
+  },
+  "pvp_y_7-2" : {
+    "displayName" : "PvP : Ruangan Izlude"
+  },
+  "pvp_y_7-3" : {
+    "displayName" : "PvP : Ruangan Payon"
+  },
+  "pvp_y_7-4" : {
+    "displayName" : "PvP : Ruangan Alberta"
+  },
+  "pvp_y_7-5" : {
+    "displayName" : "PvP : Ruangan Morroc"
+  },
+  "pvp_y_8-1" : {
+    "displayName" : "PvP : Ruangan Prontera"
+  },
+  "pvp_y_8-2" : {
+    "displayName" : "PvP : Ruangan Izlude"
+  },
+  "pvp_y_8-3" : {
+    "displayName" : "PvP : Ruangan Payon"
+  },
+  "pvp_y_8-4" : {
+    "displayName" : "PvP : Ruangan Alberta"
+  },
+  "pvp_y_8-5" : {
+    "displayName" : "PvP : Ruangan Morroc"
+  },
+  "pvp_y_room" : {
+    "displayName" : "PvP : Ruang Tunggu"
+  },
+  "que_ba.gat" : {
+    "displayName" : "Dungeon Okolnir"
+  },
+  "que_bingo" : {
+    "displayName" : "Bingo Game Room"
+  },
+  "que_god01" : {
+    "displayName" : "Quest Map"
+  },
+  "que_god02" : {
+    "displayName" : "Quest Map"
+  },
+  "que_hugel" : {
+    "displayName" : "Kuil bawah tanah Odin"
+  },
+  "que_job01" : {
+    "displayName" : "Private Pub"
+  },
+  "que_qaru01" : {
+    "displayName" : "Dungeon Okolnir"
+  },
+  "que_qaru02" : {
+    "displayName" : "Dungeon Okolnir"
+  },
+  "que_qaru03" : {
+    "displayName" : "Dungeon Okolnir"
+  },
+  "que_qaru04" : {
+    "displayName" : "Dungeon Okolnir"
+  },
+  "que_qaru05" : {
+    "displayName" : "Dungeon Okolnir"
+  },
+  "que_qsch01" : {
+    "displayName" : "Dungeon Okolnir"
+  },
+  "que_qsch02" : {
+    "displayName" : "Dungeon Okolnir"
+  },
+  "que_qsch03" : {
+    "displayName" : "Dungeon Okolnir"
+  },
+  "que_qsch04" : {
+    "displayName" : "Dungeon Okolnir"
+  },
+  "que_qsch05" : {
+    "displayName" : "Dungeon Okolnir"
+  },
+  "que_rachel" : {
+    "displayName" : "Inside Temple"
+  },
+  "que_thor" : {
+    "displayName" : "Thor Volcano Dungeon"
+  },
+  "quiz_00" : {
+    "displayName" : "Panggung Kuis"
+  },
+  "quiz_00_1" : {
+    "displayName" : "Panggung Kuis"
+  },
+  "quiz_00_2" : {
+    "displayName" : "Panggung Kuis"
+  },
+  "quiz_00_3" : {
+    "displayName" : "Panggung Kuis"
+  },
+  "quiz_00_4" : {
+    "displayName" : "Panggung Kuis"
+  },
+  "quiz_01" : {
+    "displayName" : "Panggung Kuis"
+  },
+  "quiz_01_1" : {
+    "displayName" : "Panggung Kuis"
+  },
+  "quiz_01_2" : {
+    "displayName" : "Panggung Kuis"
+  },
+  "quiz_01_3" : {
+    "displayName" : "Panggung Kuis"
+  },
+  "quiz_01_4" : {
+    "displayName" : "Panggung Kuis"
+  },
+  "quiz_02" : {
+    "displayName" : "Quiz Arena"
+  },
+  "quiz_test" : {
+    "displayName" : "Quiz Hall"
+  },
+  "ra_fild01" : {
+    "displayName" : "Padang Rumput Audhumbla"
+  },
+  "ra_fild02" : {
+    "displayName" : "Tebing Od"
+  },
+  "ra_fild03" : {
+    "displayName" : "Daratan Ida"
+  },
+  "ra_fild04" : {
+    "displayName" : "Padang Rumput Audhumbla"
+  },
+  "ra_fild05" : {
+    "displayName" : "Padang Rumput Audhumbla"
+  },
+  "ra_fild06" : {
+    "displayName" : "Portus Luna"
+  },
+  "ra_fild07" : {
+    "displayName" : "Tebing Od"
+  },
+  "ra_fild08" : {
+    "displayName" : "Daratan Ida"
+  },
+  "ra_fild09" : {
+    "displayName" : "Padang Rumput Audhumbla"
+  },
+  "ra_fild10" : {
+    "displayName" : "Tebing Od"
+  },
+  "ra_fild11" : {
+    "displayName" : "Daratan Ida"
+  },
+  "ra_fild12" : {
+    "displayName" : "Daratan Ida"
+  },
+  "ra_fild13" : {
+    "displayName" : "Tepi Pantai"
+  },
+  "ra_in01" : {
+    "displayName" : "Dalam Rachel"
+  },
+  "ra_san01" : {
+    "displayName" : "Tanah Suci"
+  },
+  "ra_san02" : {
+    "displayName" : "Tanah Suci"
+  },
+  "ra_san03" : {
+    "displayName" : "Tanah Suci"
+  },
+  "ra_san04" : {
+    "displayName" : "Tanah Suci"
+  },
+  "ra_san05" : {
+    "displayName" : "Tanah Suci"
+  },
+  "ra_temin" : {
+    "displayName" : "Dalam Kuil"
+  },
+  "ra_temple" : {
+    "displayName" : "Kuil Utama - Cheshrumnir"
+  },
+  "ra_temsky" : {
+    "displayName" : "Kantor Uskup - Taman Surga"
+  },
+  "rachel" : {
+    "displayName" : "Rachel, Ibukota Negeri Arunafeltz"
+  },
+  "sec_in01" : {
+    "displayName" : "Ruangan dalam Valhalla"
+  },
+  "sec_in02" : {
+    "displayName" : "Ruangan dalam Valhalla"
+  },
+  "sec_pri" : {
+    "displayName" : "Ruangan meditasi (Penjara Valhalla)"
+  },
+  "sword_1-1" : {
+    "displayName" : "Ruang Tes Swordman"
+  },
+  "sword_2-1" : {
+    "displayName" : "Ruang Tes Swordman"
+  },
+  "sword_3-1" : {
+    "displayName" : "Ruang Tes Swordman"
+  },
+  "tha_t01" : {
+    "displayName" : "Thanatos Tower - Lower Level"
+  },
+  "tha_t02" : {
+    "displayName" : "Thanatos Tower - Lower Level"
+  },
+  "tha_t03" : {
+    "displayName" : "Thanatos Tower - Lower Level"
+  },
+  "tha_t04" : {
+    "displayName" : "Thanatos Tower - Lower Level"
+  },
+  "tha_t05" : {
+    "displayName" : "Thanatos Tower - Upper Level"
+  },
+  "tha_t06" : {
+    "displayName" : "Thanatos Tower - Upper Level"
+  },
+  "tha_t07" : {
+    "displayName" : "Thanatos Tower - Upper Level"
+  },
+  "tha_t08" : {
+    "displayName" : "Thanatos Tower - Upper Level"
+  },
+  "tha_t09" : {
+    "displayName" : "Thanatos Tower - Upper Level"
+  },
+  "tha_t10" : {
+    "displayName" : "Thanatos Tower - Upper Level"
+  },
+  "tha_t11" : {
+    "displayName" : "Thanatos Tower - Upper Level"
+  },
+  "tha_t12" : {
+    "displayName" : "Thanatos Tower - Upper Level"
+  },
+  "thana_boss" : {
+    "displayName" : "Thanatos Tower - Unknown Area"
+  },
+  "thana_scene01" : {
+    "displayName" : "Gerbang Thanatos Tower"
+  },
+  "thana_step" : {
+    "displayName" : "Thanatos Tower - Upper Level"
+  },
+  "thor_camp" : {
+    "displayName" : "Thor Volcano Camp"
+  },
+  "thor_v01" : {
+    "displayName" : "Thor Volcano Dungeon"
+  },
+  "thor_v02" : {
+    "displayName" : "Thor Volcano Dungeon"
+  },
+  "thor_v03" : {
+    "displayName" : "Thor Volcano Dungeon"
+  },
+  "treasure01" : {
+    "displayName" : "Kapal Hantu"
+  },
+  "treasure02" : {
+    "displayName" : "Kapal Hantu"
+  },
+  "tur_dun01" : {
+    "displayName" : "Pulau Turtle"
+  },
+  "tur_dun02" : {
+    "displayName" : "Turtle Dungeon"
+  },
+  "tur_dun03" : {
+    "displayName" : "Desa Turtle"
+  },
+  "tur_dun04" : {
+    "displayName" : "Istana Turtle"
+  },
+  "tur_dun05" : {
+    "displayName" : "Daerah Rawa Bawa Tanah"
+  },
+  "tur_dun06" : {
+    "displayName" : "Daerah Rawa Bawa Tanah"
+  },
+  "turbo_e_16" : {
+    "displayName" : "Turbo Track Stadium"
+  },
+  "turbo_e_4" : {
+    "displayName" : "Turbo Track Stadium"
+  },
+  "turbo_e_8" : {
+    "displayName" : "Turbo Track Stadium"
+  },
+  "turbo_n_1" : {
+    "displayName" : "Turbo Track Stadium"
+  },
+  "turbo_n_16" : {
+    "displayName" : "Turbo Track Stadium"
+  },
+  "turbo_n_4" : {
+    "displayName" : "Turbo Track Stadium"
+  },
+  "turbo_n_8" : {
+    "displayName" : "Turbo Track Stadium"
+  },
+  "turbo_room" : {
+    "displayName" : "Ruang Tunggu"
+  },
+  "um_dun01" : {
+    "displayName" : "Toko Tukang Kayu di Dalam Hutan"
+  },
+  "um_dun02" : {
+    "displayName" : "Jalan Menuju ke Dunia Lain"
+  },
+  "um_fild01" : {
+    "displayName" : "Hutan Ruruka"
+  },
+  "um_fild02" : {
+    "displayName" : "Hutan Humga"
+  },
+  "um_fild03" : {
+    "displayName" : "Rawa-rawa Karara"
+  },
+  "um_fild04" : {
+    "displayName" : "Hutan Humga"
+  },
+  "um_in" : {
+    "displayName" : "Dalam Umbala"
+  },
+  "umbala" : {
+    "displayName" : "Umbala, Desa Suku Wootan"
+  },
+  "valkyrie" : {
+    "displayName" : "Aula Valhalla , Aula penghormatan"
+  },
+  "ve_fild01" : {
+    "displayName" : "Veins Field"
+  },
+  "ve_fild02" : {
+    "displayName" : "Veins Field"
+  },
+  "ve_fild03" : {
+    "displayName" : "Veins Field"
+  },
+  "ve_fild04" : {
+    "displayName" : "Veins Field"
+  },
+  "ve_fild05" : {
+    "displayName" : "Veins Field"
+  },
+  "ve_fild06" : {
+    "displayName" : "Veins Field"
+  },
+  "ve_fild07" : {
+    "displayName" : "Veins Field"
+  },
+  "ve_in" : {
+    "displayName" : "Dalam Veins"
+  },
+  "ve_in02" : {
+    "displayName" : "Inside Veins"
+  },
+  "veins" : {
+    "displayName" : "Veins, Kota Thor"
+  },
+  "wizard_1-1" : {
+    "displayName" : "Akademi Wizard"
+  },
+  "wizard_2-1" : {
+    "displayName" : "Akademi Wizard"
+  },
+  "wizard_3-1" : {
+    "displayName" : "Akademi Wizard"
+  },
+  "xmas" : {
+    "displayName" : "Lutie,Desa Salju"
+  },
+  "xmas_dun01" : {
+    "displayName" : "Gudang Pabrik Mainan"
+  },
+  "xmas_dun02" : {
+    "displayName" : "Ruang Klasifikasi Mainan"
+  },
+  "xmas_fild01" : {
+    "displayName" : "Daratan Lutie"
+  },
+  "xmas_in" : {
+    "displayName" : "Dalam Lutie"
+  },
+  "y_airport" : {
+    "displayName" : "Juno Airport"
+  },
+  "yggdrasil01" : {
+    "displayName" : "?Pulau Herbet Camlet (Batang Pohon Yggdrasil)"
+  },
+  "yuno" : {
+    "displayName" : "Juno, Ibukota Schwaltsvalt"
+  },
+  "yuno_fild01" : {
+    "displayName" : "Perbatasan"
+  },
+  "yuno_fild02" : {
+    "displayName" : "Kyll Hire's Villa"
+  },
+  "yuno_fild03" : {
+    "displayName" : "Hermes Fletue"
+  },
+  "yuno_fild04" : {
+    "displayName" : "Hermes Fletue"
+  },
+  "yuno_fild05" : {
+    "displayName" : "El Mes Plateau"
+  },
+  "yuno_fild06" : {
+    "displayName" : "El Mes Plateau"
+  },
+  "yuno_fild07" : {
+    "displayName" : "El Mes Gorge (Valley of Abyss)"
+  },
+  "yuno_fild08" : {
+    "displayName" : "Akademi Kiel Khayr's"
+  },
+  "yuno_fild09" : {
+    "displayName" : "Camp penjaga Schwaltzwald"
+  },
+  "yuno_fild10" : {
+    "displayName" : "Juno Fiel d"
+  },
+  "yuno_fild11" : {
+    "displayName" : "Juno Field"
+  },
+  "yuno_fild12" : {
+    "displayName" : "Border Checkpoint"
+  },
+  "yuno_in01" : {
+    "displayName" : "Dalam Juno"
+  },
+  "yuno_in02" : {
+    "displayName" : "Dalam Kastil Sage"
+  },
+  "yuno_in03" : {
+    "displayName" : "Dalam Juno"
+  },
+  "yuno_in04" : {
+    "displayName" : "Dalam Juno"
+  },
+  "yuno_in05" : {
+    "displayName" : "Ruangan pusat jantung Ymir"
+  },
+  "yuno_pre" : {
+    "displayName" : "Gedung Pemerintahab Schwaltzvalt"
+  }
+}

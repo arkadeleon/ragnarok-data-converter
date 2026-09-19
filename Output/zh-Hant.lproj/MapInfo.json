@@ -1,0 +1,2351 @@
+{
+  "06guild_01" : {
+    "displayName" : "公會對抗競技場"
+  },
+  "06guild_02" : {
+    "displayName" : "公會對抗競技場"
+  },
+  "06guild_03" : {
+    "displayName" : "公會對抗競技場"
+  },
+  "06guild_04" : {
+    "displayName" : "公會對抗競技場"
+  },
+  "06guild_05" : {
+    "displayName" : "公會對抗競技場"
+  },
+  "06guild_06" : {
+    "displayName" : "公會對抗競技場"
+  },
+  "06guild_07" : {
+    "displayName" : "公會對抗競技場"
+  },
+  "06guild_08" : {
+    "displayName" : "公會對抗競技場"
+  },
+  "06guild_r" : {
+    "displayName" : "公會對抗競技場 等候室"
+  },
+  "1@cash" : {
+    "displayName" : "章魚洞穴"
+  },
+  "1@cata" : {
+    "displayName" : "地下墓穴"
+  },
+  "1@lhz" : {
+    "displayName" : "保羅協夫研究室"
+  },
+  "1@mist" : {
+    "displayName" : "霧林迷宮"
+  },
+  "1@nyd" : {
+    "displayName" : "尼德霍格的巢穴"
+  },
+  "1@orcs" : {
+    "displayName" : "獸人地下洞穴"
+  },
+  "1@pump" : {
+    "displayName" : "排水溝"
+  },
+  "1@tower" : {
+    "displayName" : "魔物終結塔"
+  },
+  "2@cata" : {
+    "displayName" : "封印的神殿"
+  },
+  "2@nyd" : {
+    "displayName" : "尼德霍格的巢穴"
+  },
+  "2@orcs" : {
+    "displayName" : "獸人地下洞穴"
+  },
+  "2@pump" : {
+    "displayName" : "排水溝"
+  },
+  "2@tower" : {
+    "displayName" : "魔物終結塔"
+  },
+  "3@tower" : {
+    "displayName" : "魔物終結塔"
+  },
+  "4@tower" : {
+    "displayName" : "魔物終結塔"
+  },
+  "5@tower" : {
+    "displayName" : "魔物終結塔"
+  },
+  "6@tower" : {
+    "displayName" : "魔物終結塔（未知的區域）"
+  },
+  "abbey01" : {
+    "displayName" : "修道院"
+  },
+  "abbey02" : {
+    "displayName" : "修道院"
+  },
+  "abbey03" : {
+    "displayName" : "修道院"
+  },
+  "abyss_01" : {
+    "displayName" : "深淵湖水 地下洞穴"
+  },
+  "abyss_02" : {
+    "displayName" : "深淵湖水 地下洞穴"
+  },
+  "abyss_03" : {
+    "displayName" : "深淵湖水 地下洞穴"
+  },
+  "airplane" : {
+    "displayName" : "飛空艇"
+  },
+  "airplane_01" : {
+    "displayName" : "飛空艇"
+  },
+  "airport" : {
+    "displayName" : "艾音布羅克 機場"
+  },
+  "alb2trea" : {
+    "displayName" : "沉船附近的島嶼"
+  },
+  "alb_ship" : {
+    "displayName" : "艾爾貝塔 船舶內"
+  },
+  "alberta" : {
+    "displayName" : "港口之都 艾爾貝塔"
+  },
+  "alberta_in" : {
+    "displayName" : "港口之都 艾爾貝塔"
+  },
+  "alde_alche" : {
+    "displayName" : "鍊金術師 轉職所"
+  },
+  "alde_dun01" : {
+    "displayName" : "艾爾帕蘭 鐘塔地下樓層 1樓"
+  },
+  "alde_dun02" : {
+    "displayName" : "艾爾帕蘭 鐘塔地下樓層 2樓"
+  },
+  "alde_dun03" : {
+    "displayName" : "艾爾帕蘭 鐘塔地下樓層 3樓"
+  },
+  "alde_dun04" : {
+    "displayName" : "艾爾帕蘭 鐘塔地下樓層 4樓"
+  },
+  "alde_gld" : {
+    "displayName" : "艾爾帕蘭衛星都市 露依納"
+  },
+  "aldeba_in" : {
+    "displayName" : "運河之都 艾爾帕蘭"
+  },
+  "aldebaran" : {
+    "displayName" : "運河之都 艾爾帕蘭"
+  },
+  "aldeg_cas01" : {
+    "displayName" : "露依納 工會"
+  },
+  "aldeg_cas02" : {
+    "displayName" : "露依納 工會"
+  },
+  "aldeg_cas03" : {
+    "displayName" : "露依納 工會"
+  },
+  "aldeg_cas04" : {
+    "displayName" : "露依納 工會"
+  },
+  "aldeg_cas05" : {
+    "displayName" : "露依納 工會"
+  },
+  "ama_dun01" : {
+    "displayName" : "榻榻米 迷宮"
+  },
+  "ama_dun02" : {
+    "displayName" : "地下森 戰場"
+  },
+  "ama_dun03" : {
+    "displayName" : "天津町 地下神舍"
+  },
+  "ama_fild01" : {
+    "displayName" : "天津町原野"
+  },
+  "ama_in01" : {
+    "displayName" : "天津町內部"
+  },
+  "ama_in02" : {
+    "displayName" : "天水角內部"
+  },
+  "ama_test" : {
+    "displayName" : "摩摩塔樂 體驗所"
+  },
+  "amatsu" : {
+    "displayName" : "天水之國 天津町"
+  },
+  "anthell01" : {
+    "displayName" : "螞蟻 地獄 密穴"
+  },
+  "anthell02" : {
+    "displayName" : "螞蟻 地獄 密穴"
+  },
+  "arena_room" : {
+    "displayName" : "亞雷那 等候室"
+  },
+  "aru_gld" : {
+    "displayName" : "發菲依雅 公會"
+  },
+  "arug_cas01" : {
+    "displayName" : "發菲依雅 公會"
+  },
+  "arug_cas02" : {
+    "displayName" : "發菲依雅 公會"
+  },
+  "arug_cas03" : {
+    "displayName" : "發菲依雅 公會"
+  },
+  "arug_cas04" : {
+    "displayName" : "發菲依雅 公會"
+  },
+  "arug_cas05" : {
+    "displayName" : "發菲依雅 公會"
+  },
+  "arug_dun01" : {
+    "displayName" : "公會地下密穴"
+  },
+  "arug_que01" : {
+    "displayName" : "草叢"
+  },
+  "auction_01" : {
+    "displayName" : "拍賣場"
+  },
+  "auction_02" : {
+    "displayName" : "拍賣場"
+  },
+  "ayo_dun01" : {
+    "displayName" : "古代神殿 迷宮"
+  },
+  "ayo_dun02" : {
+    "displayName" : "古代神殿 內部"
+  },
+  "ayo_fild01" : {
+    "displayName" : "哎喲泰雅 原野"
+  },
+  "ayo_fild02" : {
+    "displayName" : "哎喲泰雅 原野"
+  },
+  "ayo_in01" : {
+    "displayName" : "哎喲泰雅 內部"
+  },
+  "ayo_in02" : {
+    "displayName" : "哎喲泰雅 內部"
+  },
+  "ayothaya" : {
+    "displayName" : "哎喲泰雅"
+  },
+  "bat_a01" : {
+    "displayName" : "提耶拉 峽谷"
+  },
+  "bat_a02" : {
+    "displayName" : "提耶拉 峽谷"
+  },
+  "bat_b01" : {
+    "displayName" : "瀑拉畢烏斯 (峽谷)"
+  },
+  "bat_b02" : {
+    "displayName" : "瀑拉畢烏斯 (峽谷)"
+  },
+  "bat_c01" : {
+    "displayName" : "米德加爾特"
+  },
+  "bat_c02" : {
+    "displayName" : "米德加爾特"
+  },
+  "bat_c03" : {
+    "displayName" : "米德加爾特"
+  },
+  "bat_room" : {
+    "displayName" : "戰場等候室"
+  },
+  "beach_dun" : {
+    "displayName" : "西邊 洞穴 加露"
+  },
+  "beach_dun2" : {
+    "displayName" : "北邊 洞穴 盧安達"
+  },
+  "beach_dun3" : {
+    "displayName" : "東邊 洞穴 馬吾"
+  },
+  "bif_fild01" : {
+    "displayName" : "彩虹橋南部"
+  },
+  "bif_fild02" : {
+    "displayName" : "彩虹橋北部"
+  },
+  "bossnia_01" : {
+    "displayName" : "波士尼亞"
+  },
+  "bossnia_02" : {
+    "displayName" : "波士尼亞"
+  },
+  "bossnia_03" : {
+    "displayName" : "波士尼亞"
+  },
+  "bossnia_04" : {
+    "displayName" : "波士尼亞"
+  },
+  "bra_dun01" : {
+    "displayName" : "瀑布內的洞窟"
+  },
+  "bra_dun02" : {
+    "displayName" : "瀑布內的洞窟"
+  },
+  "bra_fild01" : {
+    "displayName" : "巴西原野"
+  },
+  "bra_in01" : {
+    "displayName" : "巴西內部"
+  },
+  "brasilis" : {
+    "displayName" : "巴西"
+  },
+  "c_tower1" : {
+    "displayName" : "艾爾帕蘭 鐘塔地上樓層 1樓"
+  },
+  "c_tower2" : {
+    "displayName" : "艾爾帕蘭 鐘塔地上樓層 2樓"
+  },
+  "c_tower3" : {
+    "displayName" : "艾爾帕蘭 鐘塔地上樓層 3樓"
+  },
+  "c_tower4" : {
+    "displayName" : "艾爾帕蘭 鐘塔地上樓層 4樓"
+  },
+  "cave" : {
+    "displayName" : "洞穴村落"
+  },
+  "cmd_fild01" : {
+    "displayName" : "巴不其卡 森林"
+  },
+  "cmd_fild02" : {
+    "displayName" : "克克魔 海邊"
+  },
+  "cmd_fild03" : {
+    "displayName" : "基乃依 沼澤地"
+  },
+  "cmd_fild04" : {
+    "displayName" : "克克魔 海邊"
+  },
+  "cmd_fild05" : {
+    "displayName" : "巴不其卡 森林邊界"
+  },
+  "cmd_fild06" : {
+    "displayName" : "要塞都市 山特樂曼(西邊)"
+  },
+  "cmd_fild07" : {
+    "displayName" : "發樂斯 燈塔島"
+  },
+  "cmd_fild08" : {
+    "displayName" : "要塞都市 山特樂曼(東邊)"
+  },
+  "cmd_fild09" : {
+    "displayName" : "要塞都市 山特樂曼(南邊)"
+  },
+  "cmd_in01" : {
+    "displayName" : "克魔島 內部"
+  },
+  "cmd_in02" : {
+    "displayName" : "克魔島 內部"
+  },
+  "comodo" : {
+    "displayName" : "海邊之都 克魔島"
+  },
+  "dew_dun01" : {
+    "displayName" : "喀拉喀托火山島"
+  },
+  "dew_dun02" : {
+    "displayName" : "伊斯坦納洞穴"
+  },
+  "dew_fild01" : {
+    "displayName" : "德瓦他原野_賈提族部落"
+  },
+  "dew_in01" : {
+    "displayName" : "賈提族村裡"
+  },
+  "dewata" : {
+    "displayName" : "德瓦他"
+  },
+  "dic_dun01" : {
+    "displayName" : "卡米達隧道"
+  },
+  "dic_dun02" : {
+    "displayName" : "斯卡勒伯熔岩"
+  },
+  "dic_fild01" : {
+    "displayName" : "卡米達山麓"
+  },
+  "dic_fild02" : {
+    "displayName" : "卡米達山麓"
+  },
+  "dic_in01" : {
+    "displayName" : "迪卡斯特內部"
+  },
+  "dicastes01" : {
+    "displayName" : "邪派國都艾爾迪卡斯特"
+  },
+  "dicastes02" : {
+    "displayName" : "布魯姆德 姚樂希森林"
+  },
+  "e_tower" : {
+    "displayName" : "神秘島"
+  },
+  "ein_dun01" : {
+    "displayName" : "礦山洞穴"
+  },
+  "ein_dun02" : {
+    "displayName" : "礦山洞穴"
+  },
+  "ein_fild01" : {
+    "displayName" : "艾音布羅克 原野"
+  },
+  "ein_fild02" : {
+    "displayName" : "艾音布羅克 原野"
+  },
+  "ein_fild03" : {
+    "displayName" : "艾音布羅克 原野"
+  },
+  "ein_fild04" : {
+    "displayName" : "艾音布羅克 原野"
+  },
+  "ein_fild05" : {
+    "displayName" : "艾音布羅克 原野"
+  },
+  "ein_fild06" : {
+    "displayName" : "艾音布羅克 原野"
+  },
+  "ein_fild07" : {
+    "displayName" : "艾音布羅克 原野"
+  },
+  "ein_fild08" : {
+    "displayName" : "艾音布羅克 原野"
+  },
+  "ein_fild09" : {
+    "displayName" : "艾音布羅克 原野"
+  },
+  "ein_fild10" : {
+    "displayName" : "艾音布羅克 原野"
+  },
+  "ein_in01" : {
+    "displayName" : "室內"
+  },
+  "einbech" : {
+    "displayName" : "採礦村落 艾音貝赫"
+  },
+  "einbroch" : {
+    "displayName" : "鋼鐵之都 艾音布羅克"
+  },
+  "evt_mobroom" : {
+    "displayName" : "怪物洞穴"
+  },
+  "force_1-1" : {
+    "displayName" : "限時激鬥模式"
+  },
+  "force_1-2" : {
+    "displayName" : "限時激鬥模式"
+  },
+  "force_1-3" : {
+    "displayName" : "限時激鬥模式"
+  },
+  "force_2-1" : {
+    "displayName" : "限時激鬥模式"
+  },
+  "force_2-2" : {
+    "displayName" : "限時激鬥模式"
+  },
+  "force_2-3" : {
+    "displayName" : "限時激鬥模式"
+  },
+  "force_3-1" : {
+    "displayName" : "限時激鬥模式"
+  },
+  "force_3-2" : {
+    "displayName" : "限時激鬥模式"
+  },
+  "force_3-3" : {
+    "displayName" : "限時激鬥模式"
+  },
+  "gef_dun00" : {
+    "displayName" : "吉芬 地下 密穴"
+  },
+  "gef_dun01" : {
+    "displayName" : "吉芬 地下 密穴"
+  },
+  "gef_dun02" : {
+    "displayName" : "葛帔尼亞 密穴"
+  },
+  "gef_dun03" : {
+    "displayName" : "葛帔尼亞 密穴"
+  },
+  "gef_fild00" : {
+    "displayName" : "吉芬 區域"
+  },
+  "gef_fild01" : {
+    "displayName" : "吉芬 區域"
+  },
+  "gef_fild02" : {
+    "displayName" : "吉芬 區域"
+  },
+  "gef_fild03" : {
+    "displayName" : "吉芬 區域"
+  },
+  "gef_fild04" : {
+    "displayName" : "吉芬 區域"
+  },
+  "gef_fild05" : {
+    "displayName" : "吉芬 區域"
+  },
+  "gef_fild06" : {
+    "displayName" : "吉芬 區域"
+  },
+  "gef_fild07" : {
+    "displayName" : "吉芬 區域"
+  },
+  "gef_fild08" : {
+    "displayName" : "吉芬 區域"
+  },
+  "gef_fild09" : {
+    "displayName" : "吉芬 區域"
+  },
+  "gef_fild10" : {
+    "displayName" : "東邊 獸人村落"
+  },
+  "gef_fild11" : {
+    "displayName" : "吉芬 區域"
+  },
+  "gef_fild12" : {
+    "displayName" : "克特 森林"
+  },
+  "gef_fild13" : {
+    "displayName" : "怖立特離亞"
+  },
+  "gef_fild14" : {
+    "displayName" : "西邊 獸人村落"
+  },
+  "gef_tower" : {
+    "displayName" : "吉芬 中央塔"
+  },
+  "gefenia01" : {
+    "displayName" : "葛帔尼亞"
+  },
+  "gefenia02" : {
+    "displayName" : "葛帔尼亞"
+  },
+  "gefenia03" : {
+    "displayName" : "葛帔尼亞"
+  },
+  "gefenia04" : {
+    "displayName" : "葛帔尼亞"
+  },
+  "geffen" : {
+    "displayName" : "魔法之都 吉芬"
+  },
+  "geffen_in" : {
+    "displayName" : "魔法之都 吉芬"
+  },
+  "gefg_cas01" : {
+    "displayName" : "咘哩妥利亞 工會"
+  },
+  "gefg_cas02" : {
+    "displayName" : "咘哩妥利亞 工會"
+  },
+  "gefg_cas03" : {
+    "displayName" : "咘哩妥利亞 工會"
+  },
+  "gefg_cas04" : {
+    "displayName" : "咘哩妥利亞 工會"
+  },
+  "gefg_cas05" : {
+    "displayName" : "咘哩妥利亞 工會"
+  },
+  "gl_cas01" : {
+    "displayName" : "克雷斯特漢姆古城 地上樓層 1樓"
+  },
+  "gl_cas02" : {
+    "displayName" : "克雷斯特漢姆古城 地上樓層 2樓"
+  },
+  "gl_church" : {
+    "displayName" : "克雷斯特漢姆古城 修道院"
+  },
+  "gl_chyard" : {
+    "displayName" : "克雷斯特漢姆古城 地下公墓"
+  },
+  "gl_dun01" : {
+    "displayName" : "克雷斯特漢姆 最下層 地下洞窟"
+  },
+  "gl_dun02" : {
+    "displayName" : "克雷斯特漢姆 最下層 地下洞窟"
+  },
+  "gl_in01" : {
+    "displayName" : "克雷斯特漢姆古城 室內"
+  },
+  "gl_knt01" : {
+    "displayName" : "克雷斯特漢姆 騎士團1樓"
+  },
+  "gl_knt02" : {
+    "displayName" : "克雷斯特漢姆 騎士團2樓"
+  },
+  "gl_prison" : {
+    "displayName" : "克雷斯特漢姆 地下監獄1樓"
+  },
+  "gl_prison1" : {
+    "displayName" : "克雷斯特漢姆 地下監獄2樓"
+  },
+  "gl_sew01" : {
+    "displayName" : "克雷斯特漢姆 地下水道"
+  },
+  "gl_sew02" : {
+    "displayName" : "克雷斯特漢姆 地下水道"
+  },
+  "gl_sew03" : {
+    "displayName" : "克雷斯特漢姆 地下水道"
+  },
+  "gl_sew04" : {
+    "displayName" : "克雷斯特漢姆 地下水道"
+  },
+  "gl_step" : {
+    "displayName" : "克雷斯特漢姆 樓梯密穴"
+  },
+  "glast_01" : {
+    "displayName" : "克雷斯特漢姆古城"
+  },
+  "gld_dun01" : {
+    "displayName" : "地下工會 密穴"
+  },
+  "gld_dun02" : {
+    "displayName" : "地下工會 密穴"
+  },
+  "gld_dun03" : {
+    "displayName" : "地下工會 密穴"
+  },
+  "gld_dun04" : {
+    "displayName" : "地下工會 密穴"
+  },
+  "gon_dun01" : {
+    "displayName" : "西王母神殿"
+  },
+  "gon_dun02" : {
+    "displayName" : "神仙的圍棋臺"
+  },
+  "gon_dun03" : {
+    "displayName" : "武陵道院"
+  },
+  "gon_fild01" : {
+    "displayName" : "崑崙原野"
+  },
+  "gon_in" : {
+    "displayName" : "崑崙內部"
+  },
+  "gon_test" : {
+    "displayName" : "戰鬥場"
+  },
+  "gonryun" : {
+    "displayName" : "神仙之島 崑崙"
+  },
+  "guild_room" : {
+    "displayName" : "工會對抗競技場 休息室"
+  },
+  "guild_vs1" : {
+    "displayName" : "工會 對抗競技場"
+  },
+  "guild_vs2" : {
+    "displayName" : "工會 對抗競技場"
+  },
+  "guild_vs3" : {
+    "displayName" : "工會 對抗競技場"
+  },
+  "guild_vs4" : {
+    "displayName" : "工會 對抗競技場"
+  },
+  "guild_vs5" : {
+    "displayName" : "工會 對抗競技場"
+  },
+  "himinn" : {
+    "displayName" : "巴基力 神殿"
+  },
+  "hu_fild01" : {
+    "displayName" : "達納托斯 塔台"
+  },
+  "hu_fild02" : {
+    "displayName" : "毀葛 原野"
+  },
+  "hu_fild03" : {
+    "displayName" : "毀葛 原野"
+  },
+  "hu_fild04" : {
+    "displayName" : "毀葛 原野"
+  },
+  "hu_fild05" : {
+    "displayName" : "深淵湖水"
+  },
+  "hu_fild06" : {
+    "displayName" : "毀葛 原野"
+  },
+  "hu_fild07" : {
+    "displayName" : "毀葛 原野"
+  },
+  "hu_in01" : {
+    "displayName" : "毀葛 內部"
+  },
+  "hugel" : {
+    "displayName" : "田園都市 毀葛"
+  },
+  "hunter_1-1" : {
+    "displayName" : "獵人轉職所"
+  },
+  "hunter_2-1" : {
+    "displayName" : "獵人轉職所"
+  },
+  "hunter_3-1" : {
+    "displayName" : "獵人轉職所"
+  },
+  "ice_dun01" : {
+    "displayName" : "冰洞穴"
+  },
+  "ice_dun02" : {
+    "displayName" : "冰洞穴"
+  },
+  "ice_dun03" : {
+    "displayName" : "冰洞穴"
+  },
+  "ice_dun04" : {
+    "displayName" : "冰洞穴"
+  },
+  "in_hunter" : {
+    "displayName" : "獵人轉職所"
+  },
+  "in_moc_16" : {
+    "displayName" : "刺客 工會"
+  },
+  "in_orcs01" : {
+    "displayName" : "獸人村落 室內"
+  },
+  "in_rogue" : {
+    "displayName" : "流氓工會 內部"
+  },
+  "in_sphinx1" : {
+    "displayName" : "史芬克斯 密穴"
+  },
+  "in_sphinx2" : {
+    "displayName" : "史芬克斯 密穴"
+  },
+  "in_sphinx3" : {
+    "displayName" : "史芬克斯 密穴"
+  },
+  "in_sphinx4" : {
+    "displayName" : "史芬克斯 密穴"
+  },
+  "in_sphinx5" : {
+    "displayName" : "史芬克斯 密穴"
+  },
+  "itemmall" : {
+    "displayName" : "商城地圖"
+  },
+  "iz_ac01" : {
+    "displayName" : "魔法學院1樓"
+  },
+  "iz_ac01_a" : {
+    "displayName" : "魔法學院1樓"
+  },
+  "iz_ac01_b" : {
+    "displayName" : "魔法學院1樓"
+  },
+  "iz_ac01_c" : {
+    "displayName" : "魔法學院1樓"
+  },
+  "iz_ac01_d" : {
+    "displayName" : "魔法學院1樓"
+  },
+  "iz_ac02" : {
+    "displayName" : "魔法學院2樓"
+  },
+  "iz_ac02_a" : {
+    "displayName" : "魔法學院2樓"
+  },
+  "iz_ac02_b" : {
+    "displayName" : "魔法學院2樓"
+  },
+  "iz_ac02_c" : {
+    "displayName" : "魔法學院2樓"
+  },
+  "iz_ac02_d" : {
+    "displayName" : "魔法學院2樓"
+  },
+  "iz_dun00" : {
+    "displayName" : "海底 洞窟"
+  },
+  "iz_dun01" : {
+    "displayName" : "海底 洞窟"
+  },
+  "iz_dun02" : {
+    "displayName" : "海底 洞窟"
+  },
+  "iz_dun03" : {
+    "displayName" : "海底 洞窟"
+  },
+  "iz_dun04" : {
+    "displayName" : "海底 洞窟"
+  },
+  "iz_dun05" : {
+    "displayName" : "海底 洞窟"
+  },
+  "iz_int" : {
+    "displayName" : "印特羅"
+  },
+  "iz_int01" : {
+    "displayName" : "印特羅"
+  },
+  "iz_int02" : {
+    "displayName" : "印特羅"
+  },
+  "iz_int03" : {
+    "displayName" : "印特羅"
+  },
+  "iz_int04" : {
+    "displayName" : "印特羅"
+  },
+  "iz_ng01" : {
+    "displayName" : "忍者新手教學地圖"
+  },
+  "izlu2dun" : {
+    "displayName" : "衛星都市 依斯魯得島"
+  },
+  "izlude" : {
+    "displayName" : "衛星都市 依斯魯得島"
+  },
+  "izlude_a" : {
+    "displayName" : "衛星都市 依斯魯得島"
+  },
+  "izlude_b" : {
+    "displayName" : "衛星都市 依斯魯得島"
+  },
+  "izlude_c" : {
+    "displayName" : "衛星都市 依斯魯得島"
+  },
+  "izlude_d" : {
+    "displayName" : "衛星都市 依斯魯得島"
+  },
+  "izlude_in" : {
+    "displayName" : "衛星都市 依斯魯得島"
+  },
+  "jawaii" : {
+    "displayName" : "蜜月島 爪哇咿"
+  },
+  "jawaii_in" : {
+    "displayName" : "爪哇咿 內部"
+  },
+  "job3_arch01" : {
+    "displayName" : "大主教轉職等候室"
+  },
+  "job3_arch02" : {
+    "displayName" : "奧丁神殿"
+  },
+  "job3_arch03" : {
+    "displayName" : "大主教轉職等候室"
+  },
+  "job3_gen01" : {
+    "displayName" : "基因學者研究室"
+  },
+  "job3_guil01" : {
+    "displayName" : "秘密酒店"
+  },
+  "job3_guil02" : {
+    "displayName" : "簡陋的倉庫內部"
+  },
+  "job3_guil03" : {
+    "displayName" : "偏遠住宅"
+  },
+  "job3_rang01" : {
+    "displayName" : "遊俠轉職等候室"
+  },
+  "job3_rang02" : {
+    "displayName" : "遊俠轉職考場"
+  },
+  "job3_rune01" : {
+    "displayName" : "盧恩騎士團內部"
+  },
+  "job3_rune02" : {
+    "displayName" : "盧恩騎士轉職考場"
+  },
+  "job3_rune03" : {
+    "displayName" : "盧恩騎士轉職考場"
+  },
+  "job3_war01" : {
+    "displayName" : "咒術士轉職考場"
+  },
+  "job3_war02" : {
+    "displayName" : "咒術士轉職考場"
+  },
+  "job_cru" : {
+    "displayName" : "十字軍 轉職 考試場"
+  },
+  "job_duncer" : {
+    "displayName" : "克魔島 小劇場"
+  },
+  "job_hunte" : {
+    "displayName" : "獵人轉職 考場"
+  },
+  "job_knt" : {
+    "displayName" : "騎士轉職 考場"
+  },
+  "job_monk" : {
+    "displayName" : "聖 卡畢利那 修道院"
+  },
+  "job_prist" : {
+    "displayName" : "祭司轉職 考場"
+  },
+  "job_sage" : {
+    "displayName" : "賢者 轉職 考試場"
+  },
+  "job_soul" : {
+    "displayName" : "你的心"
+  },
+  "job_star" : {
+    "displayName" : "太陽和月亮和星星"
+  },
+  "job_thief1" : {
+    "displayName" : "盜賊轉職所"
+  },
+  "job_wiz" : {
+    "displayName" : "巫師轉職 考場"
+  },
+  "jupe_area1" : {
+    "displayName" : "優配擂斯 保安區域"
+  },
+  "jupe_area2" : {
+    "displayName" : "優配擂斯 保安區域"
+  },
+  "jupe_cave" : {
+    "displayName" : "優配擂斯 洞穴入口"
+  },
+  "jupe_core" : {
+    "displayName" : "優配擂斯 中心部"
+  },
+  "jupe_core2" : {
+    "displayName" : "優配擂斯中心部"
+  },
+  "jupe_ele" : {
+    "displayName" : "優配擂斯 電梯"
+  },
+  "jupe_ele_r" : {
+    "displayName" : "優配擂斯 電梯室"
+  },
+  "jupe_gate" : {
+    "displayName" : "優配擂斯 保安區域"
+  },
+  "juperos_01" : {
+    "displayName" : "優配擂斯 廢墟"
+  },
+  "juperos_02" : {
+    "displayName" : "優配擂斯 廢墟"
+  },
+  "kh_dun01" : {
+    "displayName" : "機械人型工廠1樓"
+  },
+  "kh_dun02" : {
+    "displayName" : "機械人型工廠2樓"
+  },
+  "kh_kiehl01" : {
+    "displayName" : "齊爾的房間"
+  },
+  "kh_kiehl02" : {
+    "displayName" : "齊爾的最後房間"
+  },
+  "kh_mansion" : {
+    "displayName" : "啟 海伊洛 官邸"
+  },
+  "kh_rossi" : {
+    "displayName" : "羅希米愛樂家 官邸"
+  },
+  "kh_school" : {
+    "displayName" : "啟 海伊洛 學院"
+  },
+  "kh_vila" : {
+    "displayName" : "啟 海伊洛 別墅"
+  },
+  "knight_1-1" : {
+    "displayName" : "騎士轉職所"
+  },
+  "knight_2-1" : {
+    "displayName" : "騎士轉職所"
+  },
+  "knight_3-1" : {
+    "displayName" : "騎士轉職所"
+  },
+  "lhz_airport" : {
+    "displayName" : "里希塔樂鎮 機場"
+  },
+  "lhz_cube" : {
+    "displayName" : "正立方體 房間"
+  },
+  "lhz_dun01" : {
+    "displayName" : "生體試驗 研究所"
+  },
+  "lhz_dun02" : {
+    "displayName" : "生體試驗 研究所"
+  },
+  "lhz_dun03" : {
+    "displayName" : "生體試驗 研究所"
+  },
+  "lhz_dun04" : {
+    "displayName" : "生體試驗 研究所 地下4樓"
+  },
+  "lhz_fild01" : {
+    "displayName" : "里希塔樂鎮 原野"
+  },
+  "lhz_fild02" : {
+    "displayName" : "里希塔樂鎮 原野(死神的峽谷)"
+  },
+  "lhz_fild03" : {
+    "displayName" : "里希塔樂鎮 原野"
+  },
+  "lhz_in01" : {
+    "displayName" : "雷根貝勒 總公司"
+  },
+  "lhz_in02" : {
+    "displayName" : "里希塔樂鎮 內部"
+  },
+  "lhz_in03" : {
+    "displayName" : "里希塔樂鎮 內部"
+  },
+  "lhz_que01" : {
+    "displayName" : "里希塔樂鎮 內部"
+  },
+  "lighthalzen" : {
+    "displayName" : "企業之都 里希塔樂鎮"
+  },
+  "lou_dun01" : {
+    "displayName" : "王陵"
+  },
+  "lou_dun02" : {
+    "displayName" : "王陵 內部"
+  },
+  "lou_dun03" : {
+    "displayName" : "審良宮"
+  },
+  "lou_fild01" : {
+    "displayName" : "龍之城 原野"
+  },
+  "lou_in01" : {
+    "displayName" : "龍之城 內部"
+  },
+  "lou_in02" : {
+    "displayName" : "龍之城 內部"
+  },
+  "louyang" : {
+    "displayName" : "古都 龍之城"
+  },
+  "mag_dun01" : {
+    "displayName" : "諾可羅德"
+  },
+  "mag_dun02" : {
+    "displayName" : "諾可羅德"
+  },
+  "mal_dun01" : {
+    "displayName" : "星光珊瑚地帶"
+  },
+  "mal_in01" : {
+    "displayName" : "綿綿島內部"
+  },
+  "mal_in02" : {
+    "displayName" : "船內部"
+  },
+  "malangdo" : {
+    "displayName" : "綿綿島"
+  },
+  "man_fild01" : {
+    "displayName" : "魔怒克原野"
+  },
+  "man_fild02" : {
+    "displayName" : "魔怒克原野"
+  },
+  "man_fild03" : {
+    "displayName" : "魔怒克原野"
+  },
+  "man_in01" : {
+    "displayName" : "魔怒克內部"
+  },
+  "manuk" : {
+    "displayName" : "礦村魔怒克"
+  },
+  "mid_camp" : {
+    "displayName" : "米德加爾特聯合營地內部"
+  },
+  "mid_campin" : {
+    "displayName" : "米德加爾特聯合營地"
+  },
+  "mjo_dun01" : {
+    "displayName" : "妙勒尼 廢棄礦場"
+  },
+  "mjo_dun02" : {
+    "displayName" : "妙勒尼 廢棄礦場"
+  },
+  "mjo_dun03" : {
+    "displayName" : "妙勒尼 廢棄礦場"
+  },
+  "mjolnir_01" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "mjolnir_02" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "mjolnir_03" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "mjolnir_04" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "mjolnir_05" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "mjolnir_06" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "mjolnir_07" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "mjolnir_08" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "mjolnir_09" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "mjolnir_10" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "mjolnir_11" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "mjolnir_12" : {
+    "displayName" : "妙勒尼 山脈"
+  },
+  "moc_castle" : {
+    "displayName" : "夢羅克 城內"
+  },
+  "moc_fild01" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild02" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild03" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild04" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild05" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild06" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild07" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild08" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild09" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild10" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild11" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild12" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild13" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild14" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild15" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild16" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild17" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild18" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild19" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "moc_fild20" : {
+    "displayName" : "時空的裂縫"
+  },
+  "moc_fild21" : {
+    "displayName" : "時空的裂縫"
+  },
+  "moc_fild22" : {
+    "displayName" : "時空的裂縫"
+  },
+  "moc_fild22b" : {
+    "displayName" : "時空的裂縫"
+  },
+  "moc_para01" : {
+    "displayName" : "夢羅克伊甸園內部"
+  },
+  "moc_pryd01" : {
+    "displayName" : "金字塔 迷宮"
+  },
+  "moc_pryd02" : {
+    "displayName" : "金字塔 迷宮"
+  },
+  "moc_pryd03" : {
+    "displayName" : "金字塔 迷宮"
+  },
+  "moc_pryd04" : {
+    "displayName" : "金字塔 迷宮"
+  },
+  "moc_pryd05" : {
+    "displayName" : "金字塔 迷宮"
+  },
+  "moc_pryd06" : {
+    "displayName" : "金字塔 迷宮"
+  },
+  "moc_prydb1" : {
+    "displayName" : "盜賊 工會"
+  },
+  "moc_ruins" : {
+    "displayName" : "沙漠之都 夢羅克"
+  },
+  "monk_in" : {
+    "displayName" : "聖卡畢利那 修道院內"
+  },
+  "monk_test" : {
+    "displayName" : "聖 卡畢利那 修道院"
+  },
+  "mora" : {
+    "displayName" : "草精族穆拉村"
+  },
+  "morocc" : {
+    "displayName" : "沙漠之都 夢羅克"
+  },
+  "morocc_in" : {
+    "displayName" : "沙漠之都 夢羅克"
+  },
+  "moscovia" : {
+    "displayName" : "莫斯科比亞"
+  },
+  "mosk_dun01" : {
+    "displayName" : "森林洞穴"
+  },
+  "mosk_dun02" : {
+    "displayName" : "深森林洞穴"
+  },
+  "mosk_dun03" : {
+    "displayName" : "深淵森林洞穴"
+  },
+  "mosk_fild01" : {
+    "displayName" : "莫斯科比亞 原野"
+  },
+  "mosk_fild02" : {
+    "displayName" : "莫斯科比亞 原野"
+  },
+  "mosk_in" : {
+    "displayName" : "莫斯科比亞 內部"
+  },
+  "mosk_ship" : {
+    "displayName" : "船舶"
+  },
+  "n_castle" : {
+    "displayName" : "十字星"
+  },
+  "nameless_i" : {
+    "displayName" : "無名島"
+  },
+  "nameless_in" : {
+    "displayName" : "無名島 內部"
+  },
+  "nameless_n" : {
+    "displayName" : "無名島"
+  },
+  "new_1-1" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_1-2" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_1-3" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_1-4" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_2-1" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_2-2" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_2-3" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_2-4" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_3-1" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_3-2" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_3-3" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_3-4" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_4-1" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_4-2" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_4-3" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_4-4" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_5-1" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_5-2" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_5-3" : {
+    "displayName" : "初學者 修練場"
+  },
+  "new_5-4" : {
+    "displayName" : "初學者 修練場"
+  },
+  "nguild_gef" : {
+    "displayName" : "十字星_天下"
+  },
+  "nguild_prt" : {
+    "displayName" : "十字星_仙境"
+  },
+  "nif_fild01" : {
+    "displayName" : "斯凱領頓 (尼芙菲姆 偏遠村落)"
+  },
+  "nif_fild02" : {
+    "displayName" : "鬼的峽谷"
+  },
+  "nif_in" : {
+    "displayName" : "尼芙菲姆內部"
+  },
+  "niflheim" : {
+    "displayName" : "死者國家 尼芙菲姆"
+  },
+  "nyd_dun01" : {
+    "displayName" : "粗暴者的傷口"
+  },
+  "nyd_dun02" : {
+    "displayName" : "粗暴者的傷口"
+  },
+  "odin_tem01" : {
+    "displayName" : "奧丁神殿"
+  },
+  "odin_tem02" : {
+    "displayName" : "奧丁神殿"
+  },
+  "odin_tem03" : {
+    "displayName" : "奧丁神殿"
+  },
+  "orcsdun01" : {
+    "displayName" : "獸人地下洞窟"
+  },
+  "orcsdun02" : {
+    "displayName" : "獸人地下洞窟"
+  },
+  "ordeal_1-1" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "ordeal_1-2" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "ordeal_1-3" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "ordeal_1-4" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "ordeal_2-1" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "ordeal_2-2" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "ordeal_2-3" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "ordeal_2-4" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "ordeal_3-1" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "ordeal_3-2" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "ordeal_3-3" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "ordeal_3-4" : {
+    "displayName" : "團體戰鬥模式"
+  },
+  "p_track01" : {
+    "displayName" : "魔物賽跑 競賽場"
+  },
+  "p_track02" : {
+    "displayName" : "魔物賽跑 競賽場"
+  },
+  "pay_arche" : {
+    "displayName" : "山岳之都 斐揚"
+  },
+  "pay_dun00" : {
+    "displayName" : "斐揚 地下"
+  },
+  "pay_dun01" : {
+    "displayName" : "斐揚 地下"
+  },
+  "pay_dun02" : {
+    "displayName" : "斐揚 地下"
+  },
+  "pay_dun03" : {
+    "displayName" : "地下廢棄村落"
+  },
+  "pay_dun04" : {
+    "displayName" : "地下廢棄村落"
+  },
+  "pay_fild01" : {
+    "displayName" : "斐揚 樹林"
+  },
+  "pay_fild02" : {
+    "displayName" : "斐揚 樹林"
+  },
+  "pay_fild03" : {
+    "displayName" : "斐揚 樹林"
+  },
+  "pay_fild04" : {
+    "displayName" : "蘇克拉特 沙漠"
+  },
+  "pay_fild05" : {
+    "displayName" : "斐揚 樹林"
+  },
+  "pay_fild06" : {
+    "displayName" : "斐揚 樹林"
+  },
+  "pay_fild07" : {
+    "displayName" : "斐揚 樹林"
+  },
+  "pay_fild08" : {
+    "displayName" : "斐揚 樹林"
+  },
+  "pay_fild09" : {
+    "displayName" : "斐揚 樹林"
+  },
+  "pay_fild10" : {
+    "displayName" : "斐揚 樹林"
+  },
+  "pay_fild11" : {
+    "displayName" : "斐揚 樹林"
+  },
+  "pay_gld" : {
+    "displayName" : "青林湖泊"
+  },
+  "payg_cas01" : {
+    "displayName" : "青林湖泊 工會"
+  },
+  "payg_cas02" : {
+    "displayName" : "青林湖泊 工會"
+  },
+  "payg_cas03" : {
+    "displayName" : "青林湖泊 工會"
+  },
+  "payg_cas04" : {
+    "displayName" : "青林湖泊 工會"
+  },
+  "payg_cas05" : {
+    "displayName" : "青林湖泊 工會"
+  },
+  "payon" : {
+    "displayName" : "山岳之都 斐揚"
+  },
+  "payon_in01" : {
+    "displayName" : "山岳之都 斐揚"
+  },
+  "payon_in02" : {
+    "displayName" : "山岳之都 斐揚"
+  },
+  "payon_in03" : {
+    "displayName" : "山岳之都 斐揚"
+  },
+  "poring_w01" : {
+    "displayName" : "波利對決 等候室"
+  },
+  "poring_w02" : {
+    "displayName" : "波利對決場"
+  },
+  "priest_1-1" : {
+    "displayName" : "祭司轉職所"
+  },
+  "priest_2-1" : {
+    "displayName" : "祭司轉職所"
+  },
+  "priest_3-1" : {
+    "displayName" : "祭司轉職所"
+  },
+  "prontera" : {
+    "displayName" : "盧恩 米德加茲王國 首都 普隆德拉"
+  },
+  "prt_are01" : {
+    "displayName" : "亞雷那"
+  },
+  "prt_are_in" : {
+    "displayName" : "亞雷那 等候室"
+  },
+  "prt_arena01" : {
+    "displayName" : "亞雷那"
+  },
+  "prt_castle" : {
+    "displayName" : "普隆德拉 城內"
+  },
+  "prt_church" : {
+    "displayName" : "普隆德拉 聖堂內"
+  },
+  "prt_fild00" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_fild01" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_fild02" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_fild03" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_fild04" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_fild05" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_fild06" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_fild07" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_fild08" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_fild08a" : {
+    "displayName" : "普隆德拉區域"
+  },
+  "prt_fild08b" : {
+    "displayName" : "普隆德拉區域"
+  },
+  "prt_fild08c" : {
+    "displayName" : "普隆德拉區域"
+  },
+  "prt_fild08d" : {
+    "displayName" : "普隆德拉區域"
+  },
+  "prt_fild09" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_fild10" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_fild11" : {
+    "displayName" : "普隆德拉 區域"
+  },
+  "prt_gld" : {
+    "displayName" : "巴基力雷恩"
+  },
+  "prt_in" : {
+    "displayName" : "盧恩 米德加茲王國 首都 普隆德拉"
+  },
+  "prt_maze01" : {
+    "displayName" : "迷藏森林"
+  },
+  "prt_maze02" : {
+    "displayName" : "迷藏森林"
+  },
+  "prt_maze03" : {
+    "displayName" : "迷藏森林"
+  },
+  "prt_monk" : {
+    "displayName" : "聖卡畢利那 修道院"
+  },
+  "prt_sewb1" : {
+    "displayName" : "普隆德拉 地下水道"
+  },
+  "prt_sewb2" : {
+    "displayName" : "普隆德拉 地下水道"
+  },
+  "prt_sewb3" : {
+    "displayName" : "普隆德拉 地下水道"
+  },
+  "prt_sewb4" : {
+    "displayName" : "普隆德拉 地下水道"
+  },
+  "prtg_cas01" : {
+    "displayName" : "巴基力雷恩 工會"
+  },
+  "prtg_cas02" : {
+    "displayName" : "巴基力雷恩 工會"
+  },
+  "prtg_cas03" : {
+    "displayName" : "巴基力雷恩 工會"
+  },
+  "prtg_cas04" : {
+    "displayName" : "巴基力雷恩 工會"
+  },
+  "prtg_cas05" : {
+    "displayName" : "巴基力雷恩 工會"
+  },
+  "pvp_2vs2" : {
+    "displayName" : "PvP : 活動 競技場"
+  },
+  "pvp_n_1-1" : {
+    "displayName" : "PvP : 三明治 房間"
+  },
+  "pvp_n_1-2" : {
+    "displayName" : "PvP : 雷達鎖定 房間"
+  },
+  "pvp_n_1-3" : {
+    "displayName" : "PvP : 四通道 房間"
+  },
+  "pvp_n_1-4" : {
+    "displayName" : "PvP : 反十字 房間"
+  },
+  "pvp_n_1-5" : {
+    "displayName" : "PvP : 羅盤 房間"
+  },
+  "pvp_n_2-1" : {
+    "displayName" : "PvP : 三明治 房間"
+  },
+  "pvp_n_2-2" : {
+    "displayName" : "PvP : 雷達鎖定 房間"
+  },
+  "pvp_n_2-3" : {
+    "displayName" : "PvP : 四通道 房間"
+  },
+  "pvp_n_2-4" : {
+    "displayName" : "PvP : 反十字 房間"
+  },
+  "pvp_n_2-5" : {
+    "displayName" : "PvP : 羅盤 房間"
+  },
+  "pvp_n_3-1" : {
+    "displayName" : "PvP : 三明治 房間"
+  },
+  "pvp_n_3-2" : {
+    "displayName" : "PvP : 雷達鎖定 房間"
+  },
+  "pvp_n_3-3" : {
+    "displayName" : "PvP : 四通道 房間"
+  },
+  "pvp_n_3-4" : {
+    "displayName" : "PvP : 反十字 房間"
+  },
+  "pvp_n_3-5" : {
+    "displayName" : "PvP : 羅盤 房間"
+  },
+  "pvp_n_4-1" : {
+    "displayName" : "PvP : 三明治 房間"
+  },
+  "pvp_n_4-2" : {
+    "displayName" : "PvP : 雷達鎖定 房間"
+  },
+  "pvp_n_4-3" : {
+    "displayName" : "PvP : 四通道 房間"
+  },
+  "pvp_n_4-4" : {
+    "displayName" : "PvP : 反十字 房間"
+  },
+  "pvp_n_4-5" : {
+    "displayName" : "PvP : 羅盤 房間"
+  },
+  "pvp_n_5-1" : {
+    "displayName" : "PvP : 三明治 房間"
+  },
+  "pvp_n_5-2" : {
+    "displayName" : "PvP : 雷達鎖定 房間"
+  },
+  "pvp_n_5-3" : {
+    "displayName" : "PvP : 四通道 房間"
+  },
+  "pvp_n_5-4" : {
+    "displayName" : "PvP : 反十字 房間"
+  },
+  "pvp_n_5-5" : {
+    "displayName" : "PvP : 羅盤 房間"
+  },
+  "pvp_n_6-1" : {
+    "displayName" : "PvP : 三明治 房間"
+  },
+  "pvp_n_6-2" : {
+    "displayName" : "PvP : 雷達鎖定 房間"
+  },
+  "pvp_n_6-3" : {
+    "displayName" : "PvP : 四通道 房間"
+  },
+  "pvp_n_6-4" : {
+    "displayName" : "PvP : 反十字 房間"
+  },
+  "pvp_n_6-5" : {
+    "displayName" : "PvP : 羅盤 房間"
+  },
+  "pvp_n_7-1" : {
+    "displayName" : "PvP : 三明治 房間"
+  },
+  "pvp_n_7-2" : {
+    "displayName" : "PvP : 雷達鎖定 房間"
+  },
+  "pvp_n_7-3" : {
+    "displayName" : "PvP : 四通道 房間"
+  },
+  "pvp_n_7-4" : {
+    "displayName" : "PvP : 反十字 房間"
+  },
+  "pvp_n_7-5" : {
+    "displayName" : "PvP : 羅盤 房間"
+  },
+  "pvp_n_8-1" : {
+    "displayName" : "PvP : 三明治 房間"
+  },
+  "pvp_n_8-2" : {
+    "displayName" : "PvP : 雷達鎖定 房間"
+  },
+  "pvp_n_8-3" : {
+    "displayName" : "PvP : 四通道 房間"
+  },
+  "pvp_n_8-4" : {
+    "displayName" : "PvP : 反十字 房間"
+  },
+  "pvp_n_8-5" : {
+    "displayName" : "PvP : 羅盤 房間"
+  },
+  "pvp_n_room" : {
+    "displayName" : "PvP : 等待室"
+  },
+  "pvp_y_1-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_1-2" : {
+    "displayName" : "PvP : 依斯魯得島"
+  },
+  "pvp_y_1-3" : {
+    "displayName" : "PvP : 斐揚"
+  },
+  "pvp_y_1-4" : {
+    "displayName" : "PvP : 艾爾貝塔"
+  },
+  "pvp_y_1-5" : {
+    "displayName" : "PvP : 夢羅克"
+  },
+  "pvp_y_2-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_2-2" : {
+    "displayName" : "PvP : 依斯魯得島"
+  },
+  "pvp_y_2-3" : {
+    "displayName" : "PvP : 斐揚"
+  },
+  "pvp_y_2-4" : {
+    "displayName" : "PvP : 艾爾貝塔"
+  },
+  "pvp_y_2-5" : {
+    "displayName" : "PvP : 夢羅克"
+  },
+  "pvp_y_3-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_3-2" : {
+    "displayName" : "PvP : 依斯魯得島"
+  },
+  "pvp_y_3-3" : {
+    "displayName" : "PvP : 斐揚"
+  },
+  "pvp_y_3-4" : {
+    "displayName" : "PvP : 艾爾貝塔"
+  },
+  "pvp_y_3-5" : {
+    "displayName" : "PvP : 夢羅克"
+  },
+  "pvp_y_4-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_4-2" : {
+    "displayName" : "PvP : 依斯魯得島"
+  },
+  "pvp_y_4-3" : {
+    "displayName" : "PvP : 斐揚"
+  },
+  "pvp_y_4-4" : {
+    "displayName" : "PvP : 艾爾貝塔"
+  },
+  "pvp_y_4-5" : {
+    "displayName" : "PvP : 夢羅克"
+  },
+  "pvp_y_5-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_5-2" : {
+    "displayName" : "PvP : 依斯魯得島"
+  },
+  "pvp_y_5-3" : {
+    "displayName" : "PvP : 斐揚"
+  },
+  "pvp_y_5-4" : {
+    "displayName" : "PvP : 艾爾貝塔"
+  },
+  "pvp_y_5-5" : {
+    "displayName" : "PvP : 夢羅克"
+  },
+  "pvp_y_6-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_6-2" : {
+    "displayName" : "PvP : 依斯魯得島"
+  },
+  "pvp_y_6-3" : {
+    "displayName" : "PvP : 斐揚"
+  },
+  "pvp_y_6-4" : {
+    "displayName" : "PvP : 艾爾貝塔"
+  },
+  "pvp_y_6-5" : {
+    "displayName" : "PvP : 夢羅克"
+  },
+  "pvp_y_7-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_7-2" : {
+    "displayName" : "PvP : 依斯魯得島"
+  },
+  "pvp_y_7-3" : {
+    "displayName" : "PvP : 斐揚"
+  },
+  "pvp_y_7-4" : {
+    "displayName" : "PvP : 艾爾貝塔"
+  },
+  "pvp_y_7-5" : {
+    "displayName" : "PvP : 夢羅克"
+  },
+  "pvp_y_8-1" : {
+    "displayName" : "PvP : 普隆德拉"
+  },
+  "pvp_y_8-2" : {
+    "displayName" : "PvP : 依斯魯得島"
+  },
+  "pvp_y_8-3" : {
+    "displayName" : "PvP : 斐揚"
+  },
+  "pvp_y_8-4" : {
+    "displayName" : "PvP : 艾爾貝塔"
+  },
+  "pvp_y_8-5" : {
+    "displayName" : "PvP : 夢羅克"
+  },
+  "pvp_y_room" : {
+    "displayName" : "PvP : 等待室"
+  },
+  "que_bingo" : {
+    "displayName" : "賓果遊戲 競賽場"
+  },
+  "que_dan01" : {
+    "displayName" : "毀葛 原野"
+  },
+  "que_dan02" : {
+    "displayName" : "朱諾廢棄屋內部"
+  },
+  "que_god01" : {
+    "displayName" : "任務地圖"
+  },
+  "que_god02" : {
+    "displayName" : "任務地圖"
+  },
+  "que_house_s" : {
+    "displayName" : "詭異的屋"
+  },
+  "que_hugel" : {
+    "displayName" : "奧丁神殿 地下"
+  },
+  "que_job01" : {
+    "displayName" : "秘密酒店"
+  },
+  "que_lhz" : {
+    "displayName" : "生體試驗 研究所 地下4樓"
+  },
+  "que_moc_16" : {
+    "displayName" : "月宮廷魔物田"
+  },
+  "que_moon" : {
+    "displayName" : "月宮廷"
+  },
+  "que_qaru01" : {
+    "displayName" : "虛像的 奧克尼勒"
+  },
+  "que_qaru02" : {
+    "displayName" : "虛像的 奧克尼勒"
+  },
+  "que_qaru03" : {
+    "displayName" : "虛像的 奧克尼勒"
+  },
+  "que_qaru04" : {
+    "displayName" : "虛像的 奧克尼勒"
+  },
+  "que_qaru05" : {
+    "displayName" : "虛像的 奧克尼勒"
+  },
+  "que_qsch01" : {
+    "displayName" : "虛像的 奧克尼勒"
+  },
+  "que_qsch02" : {
+    "displayName" : "虛像的 奧克尼勒"
+  },
+  "que_qsch03" : {
+    "displayName" : "虛像的 奧克尼勒"
+  },
+  "que_qsch04" : {
+    "displayName" : "虛像的 奧克尼勒"
+  },
+  "que_qsch05" : {
+    "displayName" : "虛像的 奧克尼勒"
+  },
+  "que_rachel" : {
+    "displayName" : "神殿 內部"
+  },
+  "que_temsky" : {
+    "displayName" : "教皇執勤室(天空庭園)"
+  },
+  "que_temsky.rs" : {
+    "displayName" : "教皇執勤室(天空庭園)"
+  },
+  "que_thor" : {
+    "displayName" : "托爾火山 洞穴"
+  },
+  "quiz_00" : {
+    "displayName" : "OX益智遊戲競賽場"
+  },
+  "quiz_01" : {
+    "displayName" : "OX益智遊戲競賽場"
+  },
+  "quiz_02" : {
+    "displayName" : "OX 益智遊戲競賽場"
+  },
+  "quiz_test" : {
+    "displayName" : "益智考試場"
+  },
+  "ra_fild01" : {
+    "displayName" : "阿巫敦拉 草原"
+  },
+  "ra_fild02" : {
+    "displayName" : "歐茲 峽谷"
+  },
+  "ra_fild03" : {
+    "displayName" : "伊達 平原"
+  },
+  "ra_fild04" : {
+    "displayName" : "阿巫敦拉 草原"
+  },
+  "ra_fild05" : {
+    "displayName" : "阿巫敦拉 草原"
+  },
+  "ra_fild06" : {
+    "displayName" : "浦勒吐 盧納"
+  },
+  "ra_fild07" : {
+    "displayName" : "歐茲 峽谷"
+  },
+  "ra_fild08" : {
+    "displayName" : "伊達 平原"
+  },
+  "ra_fild09" : {
+    "displayName" : "阿巫敦拉 草原"
+  },
+  "ra_fild10" : {
+    "displayName" : "歐茲 峽谷"
+  },
+  "ra_fild11" : {
+    "displayName" : "伊達 平原"
+  },
+  "ra_fild12" : {
+    "displayName" : "伊達 平原"
+  },
+  "ra_fild13" : {
+    "displayName" : "眼淚之海岸"
+  },
+  "ra_in01" : {
+    "displayName" : "拉赫 內部"
+  },
+  "ra_san01" : {
+    "displayName" : "神殿 聖域"
+  },
+  "ra_san02" : {
+    "displayName" : "神殿 聖域"
+  },
+  "ra_san03" : {
+    "displayName" : "神殿 聖域"
+  },
+  "ra_san04" : {
+    "displayName" : "神殿 聖域"
+  },
+  "ra_san05" : {
+    "displayName" : "神殿 聖域"
+  },
+  "ra_temin" : {
+    "displayName" : "神殿 內部"
+  },
+  "ra_temple" : {
+    "displayName" : "菲依雅 大神殿(瑟斯隆尼勒)"
+  },
+  "ra_temsky" : {
+    "displayName" : "教皇執勤室(空中庭園)"
+  },
+  "rachel" : {
+    "displayName" : "阿盧納貝茲 教國首都 拉赫"
+  },
+  "s_atelier" : {
+    "displayName" : "影子工房"
+  },
+  "sch_gld" : {
+    "displayName" : "尼它堆"
+  },
+  "schg_cas01" : {
+    "displayName" : "尼它堆 公會"
+  },
+  "schg_cas02" : {
+    "displayName" : "尼它堆 公會"
+  },
+  "schg_cas03" : {
+    "displayName" : "尼它堆 公會"
+  },
+  "schg_cas04" : {
+    "displayName" : "尼它堆 公會"
+  },
+  "schg_cas05" : {
+    "displayName" : "尼它堆 公會"
+  },
+  "schg_dun01" : {
+    "displayName" : "公會地下密穴"
+  },
+  "schg_que01" : {
+    "displayName" : "草叢"
+  },
+  "sec_in01" : {
+    "displayName" : "巴哈拉宮 內部"
+  },
+  "sec_in02" : {
+    "displayName" : "巴哈拉宮 內部"
+  },
+  "sec_pri" : {
+    "displayName" : "巴哈拉宮 反省的房間(監獄)"
+  },
+  "spl_fild01" : {
+    "displayName" : "史波浪壯麗原野"
+  },
+  "spl_fild02" : {
+    "displayName" : "原野"
+  },
+  "spl_fild03" : {
+    "displayName" : "原野"
+  },
+  "spl_in01" : {
+    "displayName" : "史波浪壯麗野戰司令部內部"
+  },
+  "spl_in02" : {
+    "displayName" : "史波浪壯麗內部"
+  },
+  "splendide" : {
+    "displayName" : "守護精靈前線陣地史波浪壯麗"
+  },
+  "sword_1-1" : {
+    "displayName" : "劍士轉職所"
+  },
+  "sword_2-1" : {
+    "displayName" : "劍士轉職所"
+  },
+  "sword_3-1" : {
+    "displayName" : "劍士轉職所"
+  },
+  "tha_t01" : {
+    "displayName" : "達納托斯 塔台 下層部"
+  },
+  "tha_t02" : {
+    "displayName" : "達納托斯 塔台 下層部"
+  },
+  "tha_t03" : {
+    "displayName" : "達納托斯 塔台 下層部"
+  },
+  "tha_t04" : {
+    "displayName" : "達納托斯 塔台 下層部"
+  },
+  "tha_t05" : {
+    "displayName" : "達納托斯 塔台 上層部"
+  },
+  "tha_t06" : {
+    "displayName" : "達納托斯 塔台 上層部"
+  },
+  "tha_t07" : {
+    "displayName" : "達納托斯 塔台 上層部"
+  },
+  "tha_t08" : {
+    "displayName" : "達納托斯 塔台 上層部"
+  },
+  "tha_t09" : {
+    "displayName" : "達納托斯 塔台 上層部"
+  },
+  "tha_t10" : {
+    "displayName" : "達納托斯 塔台 上層部"
+  },
+  "tha_t11" : {
+    "displayName" : "達納托斯 塔台 上層部"
+  },
+  "tha_t12" : {
+    "displayName" : "達納托斯 塔台 上層部"
+  },
+  "thana_boss" : {
+    "displayName" : "達納托斯 塔台 (不知名的地方)"
+  },
+  "thana_scene01" : {
+    "displayName" : "達納托斯 塔台 前面"
+  },
+  "thana_step" : {
+    "displayName" : "達納托斯 塔台 上層部"
+  },
+  "thor_camp" : {
+    "displayName" : "托爾火山 兵站基地"
+  },
+  "thor_v01" : {
+    "displayName" : "托爾火山 洞穴"
+  },
+  "thor_v02" : {
+    "displayName" : "托爾火山 洞穴"
+  },
+  "thor_v03" : {
+    "displayName" : "托爾火山 洞穴"
+  },
+  "treasure01" : {
+    "displayName" : "沉沒之船 1樓"
+  },
+  "treasure02" : {
+    "displayName" : "沉沒之船 2樓"
+  },
+  "treasure_n1" : {
+    "displayName" : "依斯魯得島 遇難船 1樓"
+  },
+  "treasure_n2" : {
+    "displayName" : "依斯魯得島 遇難船 2樓"
+  },
+  "tur_dun01" : {
+    "displayName" : "烏龜島"
+  },
+  "tur_dun02" : {
+    "displayName" : "烏龜島 密穴"
+  },
+  "tur_dun03" : {
+    "displayName" : "良龜村"
+  },
+  "tur_dun04" : {
+    "displayName" : "舊良宮"
+  },
+  "tur_dun05" : {
+    "displayName" : "地下 沼澤地帶"
+  },
+  "tur_dun06" : {
+    "displayName" : "地下 沼澤地帶"
+  },
+  "turbo_e_16" : {
+    "displayName" : "競速場地 競賽場"
+  },
+  "turbo_e_4" : {
+    "displayName" : "競速場地 競賽場"
+  },
+  "turbo_e_8" : {
+    "displayName" : "競速場地 競賽場"
+  },
+  "turbo_n_1" : {
+    "displayName" : "競速場地 競賽場"
+  },
+  "turbo_n_16" : {
+    "displayName" : "競速場地 競賽場"
+  },
+  "turbo_n_4" : {
+    "displayName" : "競速場地 競賽場"
+  },
+  "turbo_n_8" : {
+    "displayName" : "競速場地 競賽場"
+  },
+  "turbo_room" : {
+    "displayName" : "競速場地 等待室"
+  },
+  "um_dun01" : {
+    "displayName" : "樹木裡的 木工所"
+  },
+  "um_dun02" : {
+    "displayName" : "樹木裡的 異界通路"
+  },
+  "um_fild01" : {
+    "displayName" : "嚕嚕卡森林"
+  },
+  "um_fild02" : {
+    "displayName" : "滬家森林"
+  },
+  "um_fild03" : {
+    "displayName" : "卡拉拉森林"
+  },
+  "um_fild04" : {
+    "displayName" : "滬家叢林"
+  },
+  "um_in" : {
+    "displayName" : "汶巴拉內部"
+  },
+  "umbala" : {
+    "displayName" : "雨檀族村落 汶巴拉"
+  },
+  "valkyrie" : {
+    "displayName" : "巴奇利神殿 (偉大戰士們的殿堂)"
+  },
+  "ve_fild01" : {
+    "displayName" : "菲音斯 原野"
+  },
+  "ve_fild02" : {
+    "displayName" : "菲音斯 原野"
+  },
+  "ve_fild03" : {
+    "displayName" : "菲音斯 原野"
+  },
+  "ve_fild04" : {
+    "displayName" : "菲音斯 原野"
+  },
+  "ve_fild05" : {
+    "displayName" : "菲音斯 原野"
+  },
+  "ve_fild06" : {
+    "displayName" : "菲音斯 原野"
+  },
+  "ve_fild07" : {
+    "displayName" : "菲音斯 原野"
+  },
+  "ve_in" : {
+    "displayName" : "菲音斯 內部"
+  },
+  "ve_in02" : {
+    "displayName" : "菲音斯 內部"
+  },
+  "veins" : {
+    "displayName" : "峽谷村落 菲音斯"
+  },
+  "wizard_1-1" : {
+    "displayName" : "巫師轉職所"
+  },
+  "wizard_2-1" : {
+    "displayName" : "巫師轉職所"
+  },
+  "wizard_3-1" : {
+    "displayName" : "巫師轉職所"
+  },
+  "xmas" : {
+    "displayName" : "白雪村落 薑餅城"
+  },
+  "xmas_dun01" : {
+    "displayName" : "玩具工廠倉庫"
+  },
+  "xmas_dun02" : {
+    "displayName" : "玩具分類場"
+  },
+  "xmas_fild01" : {
+    "displayName" : "薑餅城原野"
+  },
+  "xmas_in" : {
+    "displayName" : "薑餅城內部"
+  },
+  "y_airport" : {
+    "displayName" : "朱諾 機場"
+  },
+  "yggdrasil01" : {
+    "displayName" : "禾貝勒開米勒之島 (天地樹葉樹幹)"
+  },
+  "yuno" : {
+    "displayName" : "修發茲 共和國 首都 朱諾"
+  },
+  "yuno_fild01" : {
+    "displayName" : "國界 檢查站"
+  },
+  "yuno_fild02" : {
+    "displayName" : "吉 海伊洛 別墅"
+  },
+  "yuno_fild03" : {
+    "displayName" : "爾邁斯 瀑雷德"
+  },
+  "yuno_fild04" : {
+    "displayName" : "爾邁斯 瀑雷德"
+  },
+  "yuno_fild05" : {
+    "displayName" : "爾邁斯 瀑雷德"
+  },
+  "yuno_fild06" : {
+    "displayName" : "爾邁斯 瀑雷德"
+  },
+  "yuno_fild07" : {
+    "displayName" : "爾邁斯 峽谷(深淵的峽谷)"
+  },
+  "yuno_fild08" : {
+    "displayName" : "啟 海伊洛 學院"
+  },
+  "yuno_fild09" : {
+    "displayName" : "秀發茲發德 警備隊 露營地"
+  },
+  "yuno_fild10" : {
+    "displayName" : "朱諾 原野"
+  },
+  "yuno_fild11" : {
+    "displayName" : "朱諾 原野"
+  },
+  "yuno_fild12" : {
+    "displayName" : "國界 檢查站"
+  },
+  "yuno_in01" : {
+    "displayName" : "朱諾 內部"
+  },
+  "yuno_in02" : {
+    "displayName" : "賢者 城堡內部"
+  },
+  "yuno_in03" : {
+    "displayName" : "朱諾 內部"
+  },
+  "yuno_in04" : {
+    "displayName" : "朱諾 內部"
+  },
+  "yuno_in05" : {
+    "displayName" : "伊美樂的心臟 動力室"
+  },
+  "yuno_pre" : {
+    "displayName" : "秀發茲發德 政府廳舍"
+  },
+  "z_agit" : {
+    "displayName" : "Z集團的秘密基地"
+  }
+}

@@ -40,7 +40,7 @@ Output/
 | `Common/ItemCommonInfo.json` | Locale-independent item properties |
 | `ItemInfo.json` | Item names and descriptions |
 | `ItemRandomOptionName.json` | Random option display names |
-| `MapName.json` | Map display names |
+| `MapInfo.json` | Map display names and sign titles |
 | `MessageString.json` | Indexed message string table |
 | `MonsterName.json` | Monster names |
 | `SkillInfo.json` | Skill names and descriptions |
