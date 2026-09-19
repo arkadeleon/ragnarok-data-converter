@@ -62,7 +62,7 @@ struct Convert: ParsableCommand {
         try converter.convert(from: .txt(input), to: output, for: .ru)
         try converter.convert(from: .lua(input, "itemInfo_new.lub"), to: output, for: .th, encoding: .utf8)
         try converter.convert(from: .txt(input), to: output, for: .tr)
-        try converter.convert(from: .lua(input, "itemInfo.lub"), to: output, for: .zhHans)
+        try converter.convert(from: .lua(input, "iteminfo_new.lub"), to: output, for: .zhHans, encoding: .utf8)
         try converter.convert(from: .txt(input), to: output, for: .zhHant)
     }
 
@@ -80,7 +80,7 @@ struct Convert: ParsableCommand {
         try converter.convert(from: .txt(input), to: output, for: .ru)
         try converter.convert(from: .lua(input, "mapInfo.lub"), to: output, for: .th)
         try converter.convert(from: .txt(input), to: output, for: .tr)
-        try converter.convert(from: .txt(input), to: output, for: .zhHans)
+        try converter.convert(from: .lua(input, "mapInfo.lub"), to: output, for: .zhHans)
         try converter.convert(from: .txt(input), to: output, for: .zhHant)
     }
 }

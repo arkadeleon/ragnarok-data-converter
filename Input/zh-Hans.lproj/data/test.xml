@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+
+	<desc>Ragnarok Client Information - China Test</desc>
+	<servicetype>china</servicetype>
+	<servertype>primary</servertype>
+	<readfolder></readfolder>
+	
+	<connection>
+		<display>鉤쓱눈綱�鑿腔�蛟포</display>
+		<desc>None</desc>
+		<address>192.168.5.30</address>
+		<port>6900</port>
+		<version>1</version>
+		<langtype>3</langtype>
+		<registrationweb>http://ragnarok.gameflier.com</registrationweb>
+		<aid>
+			<admin>1204167</admin><admin>1204173</admin><admin>1204175</admin><admin>1204177</admin><admin>1204179</admin><admin>268167</admin>
+			<admin>268168</admin><admin>268169</admin><admin>268170</admin><admin>268171</admin><admin>268172</admin><admin>268173</admin><admin>268174</admin><admin>268175</admin><admin>268176</admin><admin>268177</admin><admin>268178</admin>
+			<admin>268179</admin><admin>268181</admin><admin>268182</admin><admin>268183</admin><admin>268184</admin><admin>268185</admin><admin>268186</admin><admin>268187</admin><admin>268188</admin><admin>268189</admin><admin>268190</admin>
+			<admin>268191</admin><admin>268192</admin><admin>268193</admin><admin>268194</admin><admin>268195</admin><admin>268196</admin><admin>268197</admin><admin>268198</admin><admin>268199</admin><admin>268200</admin><admin>268201</admin>
+			<admin>2512367</admin><admin>2512390</admin><admin>2512405</admin><admin>2512420</admin><admin>2512431</admin>
+			<admin>2512444</admin><admin>2512454</admin><admin>2512466</admin><admin>2512476</admin><admin>2512489</admin>
+		</aid>
+	</connection>
+
+</clientinfo>

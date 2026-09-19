@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+	
+	<desc>China Dev_Prepare Server</desc>
+	<servicetype>china</servicetype>
+	<servertype>primary</servertype>
+	<hideaccountlist></hideaccountlist>
+	<extendedslot></extendedslot>
+	<readfolder></readfolder>
+	
+	<connection>
+		<display>China Dev_prepare</display>
+		<desc>None</desc>
+		<address>192.168.15.30</address>
+		<port>6900</port>
+		<version>1</version>
+		<langtype>3</langtype>
+		<registrationweb></registrationweb>
+		<aid>
+		</aid>
+	</connection>
+</clientinfo>
