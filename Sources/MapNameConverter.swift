@@ -11,7 +11,7 @@ struct MapNameConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
         print("Converting map name for \(locale.path)")
 
-        let url = input.appendingPathComponentsIgnoringCase(locale.path, "data", "mapnametable.txt")
+        let url = input.appendingPathComponentsIgnoringCase([locale.path, "data", "mapnametable.txt"])
         guard let string = try? String(contentsOf: url, encoding: .isoLatin1) else {
             return
         }
@@ -39,7 +39,7 @@ struct MapNameConverter {
         let encoder = JSONEncoder()
         encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
         let jsonData = try encoder.encode(mapNames)
-        let jsonURL = output.appendingPathComponents(locale.path, "MapName.json")
+        let jsonURL = output.appendingPathComponents([locale.path, "MapName.json"])
 
         try FileManager.default.createDirectory(at: jsonURL.deletingLastPathComponent(), withIntermediateDirectories: true)
         try jsonData.write(to: jsonURL)

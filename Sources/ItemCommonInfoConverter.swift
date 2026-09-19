@@ -27,7 +27,7 @@ struct ItemCommonInfoConverter {
         let encoder = JSONEncoder()
         encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
         let jsonData = try encoder.encode(itemCommonInfos)
-        let jsonURL = output.appendingPathComponents("Common", "ItemCommonInfo.json")
+        let jsonURL = output.appendingPathComponents(["Common", "ItemCommonInfo.json"])
 
         try FileManager.default.createDirectory(at: jsonURL.deletingLastPathComponent(), withIntermediateDirectories: true)
         try jsonData.write(to: jsonURL)
@@ -37,7 +37,7 @@ struct ItemCommonInfoConverter {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let itemInfoURL = input.appendingPathComponentsIgnoringCase(locale.path, "System", "itemInfo_true.lub")
+        let itemInfoURL = input.appendingPathComponentsIgnoringCase([locale.path, "System", "itemInfo_true.lub"])
         context.loadData(at: itemInfoURL)
 
         try context.evaluate("""

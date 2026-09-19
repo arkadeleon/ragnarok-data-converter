@@ -71,8 +71,8 @@
 // ?????
 
 2000 # เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
-พวกเราต้องตรวจสอบคุณสมบัติของ Merchants ที่จะสมัครเป็น Blacksmiths การทดสอบแรกไป Einbech และช่วยเหลือสมาชิกสมาคมที่ชื่อ Geschupenschte#
-ไปพบ Geschupenschte, Blacksmith แห่ง Einbech#
+พวกเราต้องตรวจสอบคุณสมบัติของ Merchants ที่จะสมัครเป็น Blacksmiths การทดสอบแรกไป Einbech และช่วยเหลือสมาชิกสมาคมที่ชื่อ Getsufenst#
+ไปพบ Getsufenst, Blacksmith แห่ง Einbech#
 
 2001# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
 ขอโทษด้วย เจ้ายังทำได้ไม่ดีพอ เจ้าควรจะต้องเรียนรู้ให้มากกว่านี้ #
@@ -80,59 +80,59 @@
 
 2002# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
 เจ้าทำได้ดีl!! เยี่ยมมาก! ข้าจะให้งานเจ้าทำ! ข้าจะเตรียมตัวก่อน ค่อยกลับมาใหม่ #
-คุยกับ Geschupenschte#
+คุยกับ Getsufenst#
 
 2003# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
 ข้าต้องการวัถุดิบนิดหน่อย เจ้าช่วยหาให้หน่อยได้ไหม? นี่เป็นการทดสอบ อย่าได้คิดว่า Blacksmiths เป็นคนจนนะ ฮึ่ม #
-หา Steel 2, Rotten Bandage 1, Blue Gemstone 2 และ Arc Wand จากร้านค้า แล้วกลับไปหา Geschupenschte#
+หา Steel 2, Rotten Bandage 1, Blue Gemstone 2 และ Arc Wand จากร้านค้า แล้วกลับไปหา Getsufenst#
 
 2004# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
 ข้าต้องการวัถุดิบนิดหน่อย เจ้าช่วยหาให้หน่อยได้ไหม? นี่เป็นการทดสอบ อย่าได้คิดว่า Blacksmiths เป็นคนจนนะ ฮึ่ม #
-หา Star Dust 2, Skel Bone 1, Zargon 1 และ Gladius จากร้านค้า แล้วกลับไปหา Geschupenschte#
+หา Star Dust 2, Skel Bone 1, Zargon 1 และ Gladius จากร้านค้า แล้วกลับไปหา Getsufenst#
 
 2005# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
 ข้าต้องการวัถุดิบนิดหน่อย เจ้าช่วยหาให้หน่อยได้ไหม? นี่เป็นการทดสอบ อย่าได้คิดว่า Blacksmiths เป็นคนจนนะ ฮึ่ม #
-หา Coal 2, Shell 2, Red Blood 2 และ Tsurugi จากร้านค้า แล้วกลับไปหา Geschupenschte#
+หา Coal 2, Shell 2, Red Blood 2 และ Tsurugi จากร้านค้า แล้วกลับไปหา Getsufenst#
 
 2006# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
 ข้าต้องการวัถุดิบนิดหน่อย เจ้าช่วยหาให้หน่อยได้ไหม? นี่เป็นการทดสอบ อย่าได้คิดว่า Blacksmiths เป็นคนจนนะ ฮึ่ม #
-หา Iron Ore 8, Eye Patch 1, Blue Gemstone 2 และ Arbalest จากร้านค้า แล้วกลับไปหา Geschupenschte#
+หา Iron Ore 8, Eye Patch 1, Blue Gemstone 2 และ Arbalest จากร้านค้า แล้วกลับไปหา Getsufenst#
 
 2007# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
 ข้าต้องการวัถุดิบนิดหน่อย เจ้าช่วยหาให้หน่อยได้ไหม? นี่เป็นการทดสอบ อย่าได้คิดว่า Blacksmiths เป็นคนจนนะ ฮึ่ม #
-หา Iron 8, Green Herb 20, Animal's Skin 2 และ Ring Pommel Saber จากร้านค้า แล้วกลับไปหา Geschupenschte#
+หา Iron 8, Green Herb 20, Animal's Skin 2 และ Ring Pommel Saber จากร้านค้า แล้วกลับไปหา Getsufenst#
 
 2008# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
-เอาล่ะเรียบร้อย! นำ Arc Wand นี้ไปให้ Baisulist ที่ Geffen และนำใบเสร็จมาให้ข้า #
-ส่ง Arc Wand ให้กับ Baisulist ที่ Geffen#
+เอาล่ะเรียบร้อย! นำ Arc Wand นี้ไปให้ Bysliter ที่ Geffen และนำใบเสร็จมาให้ข้า #
+ส่ง Arc Wand ให้กับ Bysliter ที่ Geffen#
 
 2009# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
-เอาล่ะเรียบร้อย! นำ Gladius นี้ไปให้ Wickebine ที่ Morroc และนำใบเสร็จมาให้ข้า #
-ส่ง Gladius ให้กับ Wickebine ที่ Morroc#
+เอาล่ะเรียบร้อย! นำ Gladius นี้ไปให้ Whichebain ที่ Morroc และนำใบเสร็จมาให้ข้า #
+ส่ง Gladius ให้กับ Whichebain ที่ Morroc#
 
 2010 # เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
-เอาล่ะเรียบร้อย! นำ Tsurugi นี้ไปให้ Krongast ที่ Lighthalzen และนำใบเสร็จมาให้ข้า #
-ส่ง Tsurugi ให้กับ Krongast ที่ Lighthalzen#
+เอาล่ะเรียบร้อย! นำ Tsurugi นี้ไปให้ Grongast ที่ Izlude และนำใบเสร็จมาให้ข้า #
+ส่ง Tsurugi ให้กับ Grongast ที่ Izlude#
 
 2011# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
-เอาล่ะเรียบร้อย! นำ Arbalest นี้ไปให้ Talpiz ที่ Payon และนำใบเสร็จมาให้ข้า #
-ส่ง Arbalest ให้กับ Talpiz ที่ Payon#
+เอาล่ะเรียบร้อย! นำ Arbalest นี้ไปให้ Telpitz ที่ Payon และนำใบเสร็จมาให้ข้า #
+ส่ง Arbalest ให้กับ Telpitz ที่ Payon#
 
 2012# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
-เอาล่ะเรียบร้อย! นำ Ring Pommel Saber นี้ไปให้ Bismarc ที่ Hugel และนำใบเสร็จมาให้ข้า #
-ส่ง Ring Pommel Saber ให้กับ Bismarc ที่ Hugel#
+เอาล่ะเรียบร้อย! นำ Ring Pommel Saber นี้ไปให้ Bismark ที่ Comodo และนำใบเสร็จมาให้ข้า #
+ส่ง Ring Pommel Saber ให้กับ Bismark ที่ Comodo#
 
 2013# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
-ดีมาก! เจ้าเป็นพ่อค้าที่เก่งมาก! เอาล่ะกลับไปหา Altiregen ที่ Einbroch!#
-กลับไปหา Altiregen#
+ดีมาก! เจ้าเป็นพ่อค้าที่เก่งมาก! เอาล่ะกลับไปหา Altazen ที่ Geffen!#
+กลับไปหา Altazen#
 
 2014# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
 Blacksmiths บางคนนิสัยไม่ดี ชอบโกงและขายสินค้าเกินราคา พวกเขาทำให้เราต้องอับอายขายหน้า! ดังนั้นเราจึงต้องทำให้การทดสอบนั้นยากขึ้น เจ้าควรเข้าไปข้างในและคุยกับ Guildsman#
-คุยกับ Mitehmaeeuh Guildsman ของ Blacksmith#
+คุยกับ Mitmair Guildsman ของ Blacksmith ที่ morocc!#
 
 2015# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
 ยินดีด้วย! เจ้าผ่านการทดสอบขั้นที่สองแล้ว! ข้าจะมอบ Hammer of Blacksmith นี้ให้แก่เจ้าเพื่อเป็นเครื่องยืนยัน #
-กลับไปหา Altiregen#
+กลับไปหา Altazen#
 
 2016# เปลี่ยนอาชีพ Blacksmith#SG_FEEL#QUE_NOIMAGE#
 ยินดีด้วย! เจ้าผ่านการทดสอบทั้งหมดแล้ว! ข้าอนุญาตให้เจ้าเป็นช่างตีอาวุธได้ #
@@ -3820,7 +3820,7 @@ Boonthom ขอร้องให้ท่านนำไอเทมที่จะเอามาทำไอเทมที่มีพลังศักดิ์สิทธิ์กลับมา : 1 ne
 Shaman Boonthom #
 
 12037#Holier Threads #SG_FEEL#QUE_NOIMAGE#
-ตอนนี้ท่านควยนำวัตกุดิบไปให้ Boonthom ท่านสามารถเข้าไปยัง 2nd underground level นำ 2 Holy Water, 1 Yggdrasil Leaf, 2 Needle Packet และ 2 Spool กลับมา #
+ตอนนี้ท่านควรนำวัตกุดิบไปให้ Boonthom ท่านสามารถเข้าไปยัง 2nd underground level นำ 2 Holy Water, 1 Yggdrasil Leaf, 2 Needle Packet และ 2 Spool กลับมา #
 #
 
 12038#Searching for the Sa-mhing Tiger#SG_FEEL#QUE_NOIMAGE#
@@ -10626,3 +10626,1428 @@ Trail of Toy Factory#
 9434#Do A Good Deed Once A Day#SG_FEEL#QUE_NOIMAGE#
 ภารกิจสะสมตุ๊กตาจำกัดวันละ 1 ครั้ง #
 เควสรีเซ็ตทุกๆ 22ชม. ของทุกวัน#
+
+// Thailand Mother's Day 2559
+5741#เพื่อสุขภาพของท่านแม่#SG_FEEL#QUE_NOIMAGE#
+เป็นห่วงสุขภาพของท่านแม่จังเลย สงสัยต้องเตรียม Green Herb 100 EA, Red Herb 50 EA, Blue Herb 10 EA เอาไว้บำรุงสุขภาพของท่านแม่สักหน่อยแล้ว#
+#
+5742#ช่อดอกไม้สำหรับท่านแม่#SG_FEEL#QUE_NOIMAGE#
+สงสัยว่าแค่ยาคงจะไม่พอ ส่งช่อดอกไม้ไปให้แม่ด้วยดีกว่า ขอ Flower 999ea กับ Witherless Rose 1ea หน่อยสิ#
+#
+
+//2016 Thanksgiving Event
+16063#Eden Group... ไม่ใช่สิ ที่นี่มัน Nakhyang Group งั้นหรอ?#SG_FEEL#QUE_NOIMAGE#
+Eden Group... ไม่สิ เราได้รับคำแนะนำจาก Nakhyang Group Teleporter ก็เลยเข้ามาที่ห้องทำงานของ Nakhyang Group แล้วคนที่รับผิดชอบที่นี่ก็ไม่ใช่ท่าน Lime แต่เป็นท่าน Grapefruit Iveruno... ลองคุยกับเขาดูดีกว่า#
+
+สนทนากับผู้ดูแล Nakhyang Group#
+16064#เจ้า จงมาเป็นสมาชิกของ Nakhyang Group เสียเถอะ#SG_FEEL#QUE_NOIMAGE#
+ในช่วงที่เผลอไปครู่เดียวก็กลายเป็นสมาชิกของ Nakhyang Group ไปแล้ว ไปที่กระดานประกาศของ Nakhyang Group และตรวจสอบคำร้องขอความช่วยเหลือที่ถูกส่งเข้ามาที่ Nakhyang Group ดูสิ#
+ตรวจสอบกระดานประกาศของ Nakhyang Group#
+
+16065#Lady Ivory's Return to Moon#SG_FEEL#QUE_NOIMAGE#
+คนรับใช้ของ Lady Ivory ที่อาศัยอยู่ที่ Gonryun ส่งข่าวมาบอกว่ากำลังวุ่นวายเพราะการกลับบ้านเกิดของ Lady Ivory ในช่วงเทศกาลไหว้พระจันทร์ ลองไปสนทนากับนางดูสิ#
+สนทนากับ Servant Girl Un#
+
+16066#Novice's Concern#SG_FEEL#QUE_NOIMAGE#
+Novice Sun ที่มาพักชั่วคราวอยู่ที่ชั้น 3 ของบาร์ภาย Castle of Dragon จริง ๆ แล้วในช่วงเทศกาลไหว้พระจันทร์เขาต้องกลับบ้านที่อยู่ที่ Castle of Dragon แต่ว่าเขากลับไม่สามารถกลับไปที่บ้านได้ ลองไปสนทนากับเขาดูสิ#
+สนทนากับ Novice Sun#
+
+16067#ว่าวที่อาบแสงจันทร์#SG_FEEL#QUE_NOIMAGE#
+รวบรวมวัตถุดิบที่มีพลังจากแสงจันทร์เพื่อนำมาสร้างว่าวกันเถอะ โดย Moon Pattern Window Paper และ Moon Scent Tree Branches สามารถหาได้จาก Moon Tenant Elder ใน Payon และ Moonlight Kite String สามารถหาได้จาก Moon Tenant Lunatic ที่อาศัยอยู่ที่ Prontera ลองไปหาพวกเขาดูสิ#
+รวบรวมวัตถุดิบสำหรับสร้างว่าว#
+
+16068#ว่าวที่ล่องลอยไปสู่ดวงจันทร์#SG_FEEL#QUE_NOIMAGE#
+Servant Girl Un จะใช้เวลาทั้งคืนเพื่อสร้างว่าวขึ้นมา โดยนางบอกว่าว่าวจะบินขึ้นไปจนกว่าจะดวงดาวดวงแรกของวันนี้จะลอยขึ้นมา ลองมาสนทนากับนางอีกครั้งหลังจากที่ผ่านช่วงรุ่งสางไปแล้วกันเถอะ#
+กลับมาอีกครั้งหลังเวลา 4 นาฬิกา#
+
+16069#เตรียมตัว-รอคอยสำหรับการชมจันทร์ในปีหน้า#SG_FEEL#QUE_NOIMAGE#
+กลับไปพักผ่อนและกลับมาสนทนากับนางอีกครั้งหลังจากที่ผ่านรุ่งสางไปแล้ว#
+รีเซ็ตเวลา 4 นาฬิกา#
+
+16070#เตรียมตัวสำหรับการชมจันทร์ในปีหน้า#SG_FEEL#QUE_NOIMAGE#
+Servant Girl Un บอกว่านางจะเตรียมวัตถุดิบสำหรับทำว่าวที่จะใช้ในการกลับบ้านของ Lady Ivory ในปีหน้าไว้แต่เนิ่น ๆ ลองไปหา Window Paper 10ea และ Tree Branches 10ea มาให้นางกันเถอะ#
+รวบรวม Window Paper, Tree Branches#
+
+16071#Scholar ผู้รู้เกี่ยวกับศิลปะการต่อสู้#SG_FEEL#QUE_NOIMAGE#
+หลังจากที่สนทนากับ Novice Sun แล้วก็นึกถึงคนๆ หนึ่งขึ้นมาได้ ลองไปหา Siegrid Ridel ที่เป็น Scholar ที่อาศัยอยู่ที่เมือง Geffen แล้วสนทนากับเขากันเถอะ#
+สนทนากับ Siegrid Ridel#
+
+16072#ดาบหรือคทาเวทย์มนต์#SG_FEEL#QUE_NOIMAGE#
+Siegrid มอบหมายงานให้ทำ ไปล่า Poison Spore 20 ตัวตามที่ Siegrid บอกกันเถอะ#
+กำจัด Poison Spore 20 ตัว#
+
+16073#Warrior ผู้รู้เกี่ยวกับเวทย์มนต์#SG_FEEL#QUE_NOIMAGE#
+Siegrid เขียนหนังสือแนะนำให้กับ Warrior Han ลองไปพบ Warrior Han ที่อาศัยอยู่ที่ Payon แล้วสนทนากับเขากันเถอะ#
+สนทนากับ Warrior Han#
+
+16074#แข็งแกร่งตั้งแต่พื้นฐาน-รอ#SG_FEEL#QUE_NOIMAGE#
+กลับไปพักผ่อนและกลับมาสนทนากับเขาอีกครั้งหลังจากที่ผ่านรุ่งสางไปแล้ว#
+รีเซ็ตเวลา 4 นาฬิกา#
+
+16075#แข็งแกร่งตั้งแต่พื้นฐาน#SG_FEEL#QUE_NOIMAGE#
+Novice Sun บอกว่าจะเริ่มงานวิจัยที่ตนเองอยากทำดู ลองไปล่า Mantis 20 ตัว เพื่อช่วยเหลือการวิจัยของ Novice Sun กันเถอะ#
+ล่า Mantis 20 ตัว#
+
+16076#เทศกาลไหว้พระจันทร์ของ Nakhyang Group#SG_FEEL#QUE_NOIMAGE#
+จัดการกับคำร้องขอความช่วยเหลือที่ถูกส่งมาที่ Nakhyang Group เรียบร้อยหมดแล้ว แต่ว่าอะไรที่ทำให้ Grapefruit Iveruno และ Nakhyang Group Teleporter ยังคงรู้สึกเหงาอยู่นะ? ลองสนทนากับ Grapefruit Iveruno ดูกันเถอะ#
+สนทนากับผู้ดูแล Nakhyang Group#
+
+16077#วิเคราะห์ผลการตรวจสอบ#SG_FEEL#QUE_NOIMAGE#
+Siegrid บอกว่าเขาต้องการเวลาสำหรับวิเคราะห์ผลการตรวจสอบของ Novice Sun ให้รอผลอีกสักวันหนึ่งแล้วค่อยกลับมาใหม่ดูนะ#
+กลับมาอีกครั้งหลังเวลา 4 นาฬิกา#
+
+//2016 halloween
+//2016
+
+11484#Jakk and Jakk‘s cat#SG_FEEL#QUE_NOIMAGE#
+It is hard to understand, but seems like you have to get a Dry White Stem and come back to Jakk.#
+Obtained a Dry White Stem#
+
+11485#Jakk and Jakk‘s cat#SG_FEEL#QUE_NOIMAGE#
+It seems like the surprised kitty ran away when Jakk was captured. Ask Harorong, who was with Jakk.#
+Talk to Harorong#
+
+11486#Jakk and Jakk‘s cat#SG_FEEL#QUE_NOIMAGE#
+Nibble at the entrance may have seen the kitty. Talk to Nibble in the western entrance of Niflheim.#
+Nibble in the western Niflheim#
+
+11487#Jakk and Jakk‘s cat#SG_FEEL#QUE_NOIMAGE#
+A  small, white object quickly passed the entrance not so long ago. They are not sure if it was a cat. Let‘s ask the guy outside the entrance.#
+Talk to nervous Jakk#
+
+11488#Jakk and Jakk‘s cat#SG_FEEL#QUE_NOIMAGE#
+Jakk said that Jakk‘s kitty went to the place called ’there‘. Let‘s inform Jakk, who is trying to find the kitty.#
+Talk to Jakk#
+
+11489#Jakk and Jakk‘s cat#SG_FEEL#QUE_NOIMAGE#
+Seems like Jakk‘s kitty went to Midgard through the stem of Yggdrasil. It probably went through Umbala. Let‘s investigate.#
+Investigation on the northern entrance of Umbala#
+
+11490#Jakk and Jakk‘s cat#SG_FEEL#QUE_NOIMAGE#
+The researcher says that he told the small and white thing how to get to Moroc. Let‘s investigate the nearby northern entrance of Moroc.#
+Investigation on the entrance of Moroc#
+
+11491#Jakk and Jakk‘s cat#SG_FEEL#QUE_NOIMAGE#
+The merchant says that he told someone how to get to Alberta. Let‘s investigate the nearby northern entrance on Alberta.#
+Investigation on the entrance of Alberta#
+
+11492#Jakk and Jakk‘s cat#SG_FEEL#QUE_NOIMAGE#
+If you go near the harbor, you can find many cats who want to take fish from you. Let‘s investigate near the harbor.#
+Investigation on Alberta harbor#
+
+11493#Jakk and Jakk‘s cat#SG_FEEL#QUE_NOIMAGE#
+You found a white cat, but it doesn‘t look like Jakk’s kitty. The pile of sand behind is suspicious. Let‘s investigate.#
+Investigation on the pile_of_sand#
+
+11494#Jakk and Jakk‘s cat#SG_FEEL#QUE_NOIMAGE#
+In the sand, you found bones that seem to come from a small animal. You also found a red necklace with a bell. Let‘s go back to Jakk.#
+Talk to Jakk in Niflheim#
+
+
+//2016 halloween
+
+11484#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
+ถึงจะไม่รู้เรื่องอะไรแต่ว่าแค่นำ Dry White Stem 1ea ไปให้ก็พอ#
+ได้รับ Dry White Stem#
+
+11485#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
+ดูเหมือนว่าเจ้าเหมียวจะตกใจตอนที่จับตัว Jakk มาแล้ววิ่งหนีไปแล้ว ลองไปถาม Harorong ดูกันเถอะ#
+สนทนากับ Harorong#
+
+11486#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
+Nibble ที่อยู่ตรงบริเวณทางเข้าไม่รู้ว่าเขาเห็นเจ้าเหมียวบ้างรึเปล่า ไปคุยกับ Nibble ที่อยู่ตรงบริเวณทางเข้าฝั่งตะวันตกของ Nifflheim กันเถอะ#
+Nibble แห่งทางเข้าฝั่งตะวันตกของ Nifflheim#
+
+11487#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
+เขาบอกว่าไม่รู้ว่าที่เห็นจะเป็นแมวหรือเปล่าแต่มีลักษณะตัวเล็กและมีสีขาว เพิ่งจะวิ่งผ่านทางเข้าไปเมื่อไม่นานมานี้ ลองไปถามคนที่อยู่ข้างนอกประตูนี้กันเถอะ#
+สนทนากับ Shivering Jakk#
+
+11488#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
+เจ้าเหมียวของ Jakk นั้นออกไปยังที่ที่ถูกเรียกว่าที่แห่งนั้น รีบไปตามหาและมาแจ้งข่าวให้ Jakk กันเถอะ#
+สนทนากับ Jakk#
+
+11489#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
+ดูเหมือนว่าเจ้าเหมียวของ Jakk จะเดินทางไปที่ Midgard โดยผ่านทางรากของ Yggdrasil ดูเหมือนเจ้าเหมียวจะไปที่ Umbala ลองไปตรวจสอบดูกันเถอะ#
+สำรวจทางเข้าทิศเหนือของ Umbala#
+
+11490#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
+นักวิจัยบอกว่าเขาแนะนำเส้นทางไป Morroc ให้กับอะไรสักอย่างที่มีลักษณะตัวเล็กและมีสีขาว ลองไปสำรวจทางเข้าทิศเหนือของ Morroc กันเถอะ#
+สำรวจทางเข้าของ Morroc#
+
+11491#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
+พ่อค้าบอกว่าเขาแนะนำเส้นทางไป Alberta ให้กับอะไรสักอย่างที่มีลักษณะตัวเล็กและมีสีขาว ลองไปสำรวจทางเข้าทิศเหนือของ Alberta กันเถอะ#
+สำรวจทางเข้าของ Alberta#
+
+11492#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
+คนแถวนั้นบอกว่าที่ท่าเรือมีแมวจำนวนมากที่รอปลาอร่อย ๆ อยู่ ลองไปสำรวจแถว ๆ ท่าเรือกันเถอะ#
+สำรวจท่าเรือ Alberta#
+
+11493#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
+ถึงแม้เราจะตามหาแมวของ Jakk อยู่แต่ว่าดูเหมือนจะไม่ใช่แมวของ Jakk กองทรายที่อยู่ด้านหลังนั้นน่าสงสัยจริง ๆ ของตรวจสอบดูกันเถอะ#
+ตรวจสอบกองทราย#
+
+11494#Jakk and Jakk's cat#SG_FEEL#QUE_NOIMAGE#
+พบกระดูกและปลอดคอสีแดงที่ประดับกระดิ่งอยู่ในกองทราย กรุณากลับไปบอก Jakk กันเถอะ#
+สนทนากับ Jakk ที่ Nifflheim#
+
+// ----- Thai 2016 Loy Krathong Event
+5743#ความกังวลของยายแดง#SG_FEEL#QUE_NOIMAGE#
+ยายแดงกังวลกำลังกังวลเรื่องที่หลานสาวยังไม่กลับบ้าน ก่อนอื่นลองไปถามทหารดูก่อนกันเถอะว่ามีใครพบเห็นหญิงสาวบ้างหรือเปล่า#
+#
+
+5744#วัตถุดิบในการวาดภาพเหมือน#SG_FEEL#QUE_NOIMAGE#
+ท่าทางกำลังวุ่นวายเพราะวัตถุดิบในการวาดภาพเหมือนไม่เพียงพอ ลองไปขอความช่วยเหลือจากทหารเรื่องวัตถุดิบ ^FF0000Harpy Feather 5ea, Oil Paper 20ea, Piece of Bamboo 10ea, Squid Ink 50ea^000000 ดูกันเถอะ#
+#
+
+5745#เวลาสำหรับการซักถาม#SG_FEEL#QUE_NOIMAGE#
+เขาบอกว่าต้องใช้เวลาในการวาดภาพเหมือนและตามหาบัวสักหน่อย ไว้เลยเวลาเที่ยงคืนไปแล้วเมื่อไหร่ค่อยกลับมาหาอีกทีก็แล้วกัน#
+#
+
+5746#เบาะแสของบัว#SG_FEEL#QUE_NOIMAGE#
+เขาบอกว่าบัวอยู่ที่ Amatsu Temple#
+#
+
+5747#ธุระของบัว#SG_FEEL#QUE_NOIMAGE#
+เนื่องจากบัวได้รับบาดเจ็บจึงไม่สามารถรวบรวมวัตถุดิบสำหรับทำกระทงได้ พวกเราช่วยหา ^FF0000Maneater Blossom 300ea, Stem 150ea, Fig Leaf 50ea^000000 แทนบัวกันเถอะ#
+#
+
+5748#ธุระของบัว#SG_FEEL#QUE_NOIMAGE#
+บัวบอกว่ายังไม่สามารถกลับบ้านได้จนกว่าร่างกายจะหายเป็นปกติ แต่บัวกลัวยายจะเป็นห่วงจึงขอร้องให้พวกเราไปแจ้งข่าวคราวของบัวว่าสบายดีให้ที#
+#
+
+5749#บอร์ดลอยกระทง#SG_FEEL#QUE_NOIMAGE#
+เขาบอกว่าถ้าลองไปที่บอร์ดลอยกระทงท่านอาจจะเจองานที่น่าทำอยู่บ้างนะ#
+#
+
+5750#แบบคำขอร้อง#SG_FEEL#QUE_NOIMAGE#
+[แจ้งเหตุ] Leaf Cat 30 ตัว, Kraben 20 ตัว, Tamruan 5 ตัว#
+#
+
+5751#ความโชคดีรอ 1 นาทีแล้วมาทำกันใหม่นะ#SG_FEEL#QUE_NOIMAGE#
+รอบต่อไปต้องได้ชฎาแน่ๆแล้วเหละว่ามั๊ย?#
+#
+
+5752#กิจกรรมลอยกระทง#SG_FEEL#QUE_NOIMAGE#
+กิจกรรมลอยกระทง#
+#
+
+// -- 2016 Christmas Event
+1300#ร่องรอยของของช่วยเหลือ#SG_FEEL#QUE_NOIMAGE#
+หน่วยช่วยเหลือและอาสาสมัครที่มีชื่อว่า Helping Hand ตั้งใจที่จะมอบ Vin Chaud ให้กับเพื่อนบ้านที่กำลังลำบากในช่วงหน้าหนาวแต่ว่าท่าทางจะกำลังลำบากเพราะสิ่งของที่รับบริจาคยังมาไม่ถึง ลองไปพบกับผู้สนับสนุนที่อยู่ในที่ต่างๆ แทน Ballery ที่กำลังยุ่งกันเถอะ#
+เยี่ยมผู้ให้การสนับสนุนวัตถุดิบ#
+
+1301#ร่องรอยของของช่วยเหลือ-Geffen#SG_FEEL#QUE_NOIMAGE#
+พบกับ Brewery Mast Kantina ที่ Geffen และสอบถามเกี่ยวกับน้ำองุ่นหมักที่จะบริจาคให้#
+ตามหา Kantina#
+
+1302#ร่องรอยของของช่วยเหลือ-Morroc#SG_FEEL#QUE_NOIMAGE#
+พบกับ Wholesaler Brutaqual ที่ Morroc และสอบถามเกี่ยวกับส้มและแอปเปลที่จะบริจาคให้#
+ตามหา Brutaqual#
+
+1303#ร่องรอยของของช่วยเหลือ-Alberta#SG_FEEL#QUE_NOIMAGE#
+พบกับ Trader Cudundu ที่ Alberta และสอบถามเกี่ยวกับเครื่องเทศที่จะบริจาคให้#
+ตามหา Cudundu#
+
+1304#ร่องรอยของของช่วยเหลือ-Aldebaran#SG_FEEL#QUE_NOIMAGE#
+พบกับ Seasoning Merchant Askar ที่ Aldebaran และสอบถามเกี่ยวกับน้ำตาลที่จะบริจาคให้#
+ตามหา Askar#
+
+1305#ร่องรอยของของช่วยเหลือ-Payon#SG_FEEL#QUE_NOIMAGE#
+พบกับ Farmer Vinpa ที่ Payon และสอบถามเกี่ยวกับแอปเปลที่จะบริจาคให้#
+ตามหา Vinpa#
+
+1306#คำขอร้องของ Kantina#SG_FEEL#QUE_NOIMAGE#
+เขาบอกว่า Santa Orc ขโมยเอาน้ำองุ่นที่หมักไว้ไปหมด ไปตามหา Fermented Grape Juice 6ea กลับมากันเถอะ#
+ตามหา Fermented Grape Juice 6ea กลับมา#
+
+1307#คำขอร้องของ Curundu#SG_FEEL#QUE_NOIMAGE#
+เขาบอกว่าพวก Santa Poring มาขโมยเอาวัตถุดิบไปหมด ไปตามหา Santa Poring 3 ตัวแล้วกำจัดพวกมันกันเถอะ#
+กำจัด Santa Poring 3 ตัว#
+
+1308#คำขอร้องของ Askar#SG_FEEL#QUE_NOIMAGE#
+เขาบอกว่าคนส่งของยังไม่มาถึงเลย ไปนำ Sugar Box มาให้ Ballery กันเถอะ#
+ส่ง Sugar Box ให้ Ballery#
+
+1309#Share the warmth with Helping Hand#SG_FEEL#QUE_NOIMAGE#
+ได้ยินมาว่ามีการแบ่งปัน Vin Chaud ไปยังสาขาในพื้นที่ต่างๆ ด้วย ตอนนี้ที่ันั่นกำลังขาดคนงาน พวกเราไปช่วยนำ Vin Chaud และ Firewood ไปส่งตามพื้นที่ต่างๆ กันเถอะ#
+แบ่งปันความอบอุ่นให้แต่ละพื้นที่#
+
+1310#Share the warmth in Izlude#SG_FEEL#QUE_NOIMAGE#
+พบกับผู้ดูแล Helping Hand Izlude และส่ง Vin Chaud 1 ขวดและ Firewood 3 อัน ให้พวกเขากันเถอะ#
+ส่งของให้กับผู้ดูแลใน Izlude#
+
+1311#Share the warmth in Geffen#SG_FEEL#QUE_NOIMAGE#
+พบกับผู้ดูแล Helping Hand Geffen และส่ง Vin Chaud 1 ขวดและ Firewood 3 อัน ให้พวกเขากันเถอะ#
+ส่งของให้กับผู้ดูแลใน Geffen#
+
+1312#Share the warmth in Payon#SG_FEEL#QUE_NOIMAGE#
+พบกับผู้ดูแล Helping Hand Payon และส่ง Vin Chaud 1 ขวดและ Firewood 3 อัน ให้พวกเขากันเถอะ#
+ส่งของให้กับผู้ดูแลใน Payon#
+
+1313#Share the warmth in Morroc#SG_FEEL#QUE_NOIMAGE#
+พบกับผู้ดูแล Helping Hand Morroc และส่ง Vin Chaud 1 ขวดและ Firewood 3 อัน ให้พวกเขากันเถอะ#
+ส่งของให้กับผู้ดูแลใน Morroc#
+
+1314#Share the warmth in Alberta#SG_FEEL#QUE_NOIMAGE#
+พบกับผู้ดูแล Helping Hand Alberta และส่ง Vin Chaud 1 ขวดและ Firewood 3 อัน ให้พวกเขากันเถอะ#
+ส่งของให้กับผู้ดูแลใน Alberta#
+
+1315#Share the warmth in Aldebaran#SG_FEEL#QUE_NOIMAGE#
+พบกับผู้ดูแล Helping Hand Aldebaran และส่ง Vin Chaud 1 ขวดและ Firewood 3 อัน ให้พวกเขากันเถอะ#
+ส่งของให้กับผู้ดูแลใน Aldebaran#
+
+1316#Share the warmth in Prontera#SG_FEEL#QUE_NOIMAGE#
+พบกับผู้ดูแล Helping Hand Prontera และส่ง Vin Chaud 1 ขวดและ Firewood 3 อัน ให้พวกเขากันเถอะ#
+ส่งของให้กับผู้ดูแลใน Prontera#
+
+1317#Vin Chaud ของวันนี้เรียบร้อยแล้ว#SG_FEEL#QUE_NOIMAGE#
+ได้ยินมาว่า Vin Chaud ที่ต้มเอาไว้หมดแล้วและจะเตรียมเรียบร้อยอีกครั้งตอนประมาณตีสี่ เอาไว้ค่อยกลับไปหาตอนนั้นอีกครั้งกันเถอะ#
+ไปพบ Ballery อีกครั้งหลังเวลา 4:00AM#
+
+1318#คำขอร้องของ Elena#SG_FEEL#QUE_NOIMAGE#
+Elena ขอร้องให้พวกเราช่วยเหลือพี่สาวของตนเอง ลองไปหา Ballery ที่อยู่ใน Prontera เพื่อสอบถามเรื่องราวกันเถอะ#
+ไปพบ Ballery ที่อยู่บริเวณโบสถ์ในเมือง Prontera#
+
+1319#ความทรงจำของ Sprig of Holly#SG_FEEL#QUE_NOIMAGE#
+รวบรวม Sprig of Holly ที่ Ballery มอบให้แทนคำขอบคุณแล้วนำไปหา Brechen ที่อยู่ในทิศทาง 7 นาฬิกาของในเมือง Izlude เพื่อให้เขาทำมงกุฎดอกไม้ให้กันเถอะ#
+ไปพบ Brechen ที่ Izlude#
+
+1320#ทำมงกุฎ Sprig of Holly#SG_FEEL#QUE_NOIMAGE#
+Brechen บอกว่าถ้านำ Sprig of Holly 10 อันมาให้เขา เขาจะทำมงกุฎดอกไม้ให้ พวกเราไปรวบรวม Sprig of Holly ให้ได้ 10 อันแล้วนำมามอบให้เขากันเถอะ#
+รวบรวม Sprig of Holly 10 อัน#
+
+15125#ฉันต้องการเมล็ดโกโก้#SG_FEEL#QUE_NOIMAGE#
+กำจัด Sweet Drops ที่เพ่นพ่านอยู่ตามแผนที่ต่าง ๆ และนำ Stolen Cacao Beans 20 อันไปมอบให้ Charles#
+รวบรวม Stolen Cacao Beans 20 อัน#
+
+15127#ไปส่งช็อคโกแลต#SG_FEEL#QUE_NOIMAGE#
+นำช็อคโกแลตไปส่งที่ Sweet Shop ที่ตั้งอยู่ที่เมือง Geffen, Payon, Al De Baran, Prontera ตามลำดับ#
+นำช็อคโกแลตไปส่งที่ Sweet Shop#
+
+15128#ส่งช็อคโกแลตเรียบร้อย!#SG_FEEL#QUE_NOIMAGE#
+ส่งช็อคโกแลตให้ตามที่ Charles ขอร้องเรียบร้อยแล้ว ท่านสามารถทำได้ใหม่อีกครั้งหลังจาก 4:00 AM#
+ส่งช็อคโกแลตได้อีกครั้งหลังจาก 4:00 AM#
+
+15129#สุ่มของจาก Sweet Shop#SG_FEEL#QUE_NOIMAGE#
+ท่านสามารถสุ่มรางวัลจาก Sweet Shop ได้เพียงวันละ 1 ครั้งเท่านั้น และสามารถสุ่มได้ใหม่อีกครั้งหลังจาก 4:00 AM ของวันถัดไป#
+สุ่มได้ใหม่อีกครั้งหลังจาก 4:00 AM ของวันถัดไป#
+
+1333#สิ่งล่อใจที่หอมหวาน#SG_FEEL#QUE_NOIMAGE#
+มากำจัด Sweet Drops เพื่อช่วยเหลือชายคนหนึ่งที่กำลังถูกกลิ่นหอมหวานของขนมล่อลวงอยู่กันเถอะ#
+กำจัด Sweet Drops 5 ตัว#
+
+1334#ช่วงเวลาที่ถูกล่อล่วงด้วยของหวาน#SG_FEEL#QUE_NOIMAGE#
+ชายหนุ่มที่ถูกรบกวนจากกลิ่นหอมหวานก็ได้มีช่วงเวลาที่สงบสุขไปพักหนึ่ง ในวันพรุ่งนี้หลังจาก 4:00 AM ช่วยกลับมาดูสถานการณ์ของเขาอีกครั้งหนึ่งนะ#
+มาพบชายหนุ่มที่ถูกรบกวนจากกลิ่นหอมหวานอีกครั้งในวันพรุ่งนี้หลังจาก 4:00 AM#
+
+1335#ตระกร้าลูกอมแห่งความรัก#SG_FEEL#QUE_NOIMAGE#
+นำ Candy 5 อัน, Candy Striper 5 อัน, Protect Neck Candy 3 อัน ไปมอบให้ Ganache Lozenge#
+ส่งของให้ Ganache Lozenge#
+
+1336#ตระกร้าที่เต็มไปด้วยลูกอมโดยไม่รู้ตัว#SG_FEEL#QUE_NOIMAGE#
+Ganache Lozenge ยังไม่รู้ตัวว่าพวกเราเอาลูกอมใส่ในตระกร้าของเขา ในวันพรุ่งนี้หลังจาก 4:00 AM ช่วยเอาลูกอมมาใส่อีกทีนะ#
+มาพบ Ganache Lozenge อีกครั้งในวันพรุ่งนี้หลังจาก 4:00 AM#
+
+1337#ของหวานนำโชค#SG_FEEL#QUE_NOIMAGE#
+นำ Lucky Candy 1 อัน, Lucky Candy Cane 1 อัน, Lucky Cookie 1 อันไปมอบให้ Miss Fortuna#
+ส่งของให้ Miss Fortuna#
+
+1338#ฉันไม่อยากกินของหวานแล้ว#SG_FEEL#QUE_NOIMAGE#
+ตอนนี้ Miss Fortuna กินของหวานเยอะเกินไป จนกินต่อไปไม่ไหวแล้ว พรุ่งนี้ค่อยเอาของหวานมาให้เธอใหม่ก็แล้วกัน#
+มาพบ Miss Fortuna อีกครั้งในวันพรุ่งนี้หลังจาก 4:00 AM#
+
+//กิจกรรมสำหรับงาน Extreme 2017 ของประเทศไทย
+1339#2017 Extreme Games#SG_FEEL#QUE_NOIMAGE#
+งาน Extreme Games 2017 กำลังจะจัดงานในวันที่ 11~12 มีนาคมนี้ ที่ห้างสรรพสินค้าแฟชั่นแฟชั่นไอส์แลนด์ ไอแลนด์ ฮอลล์ ชั้น 3!#
+มาสนุกกับงานนี้กันเถอะ!#
+
+// ---- กิจกรรมวันสงกรานต์ Thai 2017
+5753#การพบกันของ Archangeling#SG_FEEL#QUE_NOIMAGE#
+ให้ความช่วยเหลือ Archangeling โดยเขาจะแนะนำเพื่อนที่เป็นนักวิจัยที่อยู่ในเมือง Al De Baran (alde_alche 36 187) ให้รู้จัก#
+#
+
+5754#วัตถุดิบสำหรับทำวิจัย#SG_FEEL#QUE_NOIMAGE#
+Single Cell 100 อัน, Sticky Webfoot 80 อัน, Anolian Skin 50 อัน, Worm Peelings 30 อัน, Detonator 10 อัน, Sea Otter Leather 5 อัน, Lip Of Ancient Fish 1 อัน#
+#
+
+5755#ส่งรายงาน#SG_FEEL#QUE_NOIMAGE#
+นำรายงานผลการวิจัยไปส่งให้เพื่อนที่เป็นทหารอยู่ที่เมือง Prontera (prt_fild05 256 207)#
+#
+
+5756#กำจัดมอนสเตอร์ให้หมด#SG_FEEL#QUE_NOIMAGE#
+ถึงจะไม่รู้สาเหตุแต่ก็ช่วยกำจัด Thief Bug Egg 50 ตัว ให้ที เมื่อจับเสร็จแล้วให้กลับไปพบนักวิจัยสัตว์น้ำอีกครั้ง#
+#
+
+5757#สนับสนุนการวิจัยสัตว์น้ำ#SG_FEEL#QUE_NOIMAGE#
+มาสนับสนุนการวิจัยสัตว์น้ำด้วยการนำ Worm Peelings 20 อัน, Chrysalis 10 อัน, Rat Tail 5 อัน, 300000 Zeny ไปส่งให้นักวิจัยสัตว์น้ำกันเถอะ#
+#
+
+5758#สนับสนุนการวิจัยสัตว์น้ำทุกวัน#SG_FEEL#QUE_NOIMAGE#
+ช่วยนำของสำหรับสนับสนุนการวิจัยไปมอบให้นักวิจัยสัตว์น้ำทุก ๆ วัน วันละหนึ่งครั้ง#
+Cooltime 22 ชั่วโมง#
+
+5759#กำจัดมอนสเตอร์ให้หมด#SG_FEEL#QUE_NOIMAGE#
+ถึงจะไม่รู้สาเหตุแต่ก็ช่วยกำจัด Thief Bug 25 ตัว ให้ที เมื่อจับเสร็จแล้วให้กลับไปพบนักวิจัยสัตว์น้ำอีกครั้ง#
+#
+
+5760#กำจัดมอนสเตอร์ให้หมด#SG_FEEL#QUE_NOIMAGE#
+ถึงจะไม่รู้สาเหตุแต่ก็ช่วยกำจัด Thief Bug Male 1 ตัว ให้ที เมื่อจับเสร็จแล้วให้กลับไปพบนักวิจัยสัตว์น้ำอีกครั้ง#
+#
+
+// Thai May Monster Hunter Event <Classic>
+5761#Monster Hunter Mission#SG_FEEL#QUE_NOIMAGE#
+จัดการ Orc Warrior และนำ Orcish Voucher 50 อันพร้อมกับ 200000 Zeny มาให้#
+#
+
+5762#Monster Hunter Mission#SG_FEEL#QUE_NOIMAGE#
+จัดการ Hode และนำ Earthworm Peeling 50 อันพร้อมกับ 200000 Zeny มาให้#
+#
+
+5763#Monster Hunter Mission#SG_FEEL#QUE_NOIMAGE#
+จัดการ Sohee และนำ Long Hair 50 อันพร้อมกับ 200000 Zeny มาให้#
+#
+
+5764#Monster Hunter Mission#SG_FEEL#QUE_NOIMAGE#
+จัดการ Bigfoot และนำ Bear's Foot 50 อันพร้อมกับ 200000 Zeny มาให้#
+#
+
+5765#Monster Hunter Mission#SG_FEEL#QUE_NOIMAGE#
+จัดการ Raydric และนำ Brigan 50 อันพร้อมกับ 200000 Zeny มาให้#
+#
+
+5766#Monster Hunter Mission#SG_FEEL#QUE_NOIMAGE#
+จัดการ Pasana และนำ Broken Sword 50 อันพร้อมกับ 200000 Zeny มาให้#
+#
+
+5767#Monster Hunter Mission#SG_FEEL#QUE_NOIMAGE#
+จัดการ Anolian และนำ Anolian Skin 50 อันพร้อมกับ 200000 Zeny มาให้#
+#
+
+//---------------------melon event----------------------------
+8290#เมล่อนนั่น... เดี๋ยวข้าจะหั่นให้เอง#SG_FEEL#QUE_NOIMAGE#
+กำจัด Sweetie ที่ปรากฏตัวอยู่ตามที่ต่าง ๆ เพื่อหา Sweet Melon รวบรวมให้ได้ 10 อัน#
+Sweet Melon 10 อัน#
+
+
+8291#ลูก ๆ ของพวกเราชอบ Melon Parfait มาก ๆ เลย#SG_FEEL#QUE_NOIMAGE#
+Lillyu ที่เมือง Geffen ขอให้นำ Ice Box ไปส่งให้พวกลูก ๆ ของเขาที่อยู่ตามเมืองต่าง ๆ#
+#
+
+8292#ลูก ๆ ของพวกเราชอบ Melon Parfait มาก ๆ เลย - รอ#SG_FEEL#QUE_NOIMAGE#
+Lillyu ถามเราว่าวันพรุ่งนี้พอจะมีเวลาว่างสัก 2~3 ชั่วโมง เพื่อส่งของให้เขาอีกได้หรือเปล่า ถ้ามีเวลาเขาจะขอให้ไปพบเขาอีกทีในวันรุ่งขึ้น#
+รีเซ็ตเวลา 4:00 น.#
+
+8293#ลูก ๆ ของพวกเราชอบ Melon Parfait มาก ๆ เลย#SG_FEEL#QUE_NOIMAGE#
+Lillyu ที่เมือง Geffen ขอให้นำ Ice Box ไปส่ง#
+#
+
+
+8294#ลูกของข้าไปทำงานอยู่ที่ Payon#SG_FEEL#QUE_NOIMAGE#
+บนหน้ากล่องที่ Lillyu ฝากให้ไปส่งเขียนเอาไว้ว่า 'ถึง Iliya และ DulDume're - เมือง Payon'#
+นำ Ice Box ไปส่งที่ Payon#
+
+8295#กลับไปที่ Geffen กันเถอะ#SG_FEEL#QUE_NOIMAGE#
+ส่งของเสร็จแล้ว กลับไปพบ Lillyu ที่เมือง Geffen กันเถอะ#
+กลับไปพบ Lillyu ที่เมือง Geffen#
+
+8296#ลูกของข้าไปทำงานอยู่ที่ Prontera#SG_FEEL#QUE_NOIMAGE#
+บนหน้ากล่องที่ Lillyu ฝากให้ไปส่งเขียนเอาไว้ว่า 'ถึง Sanza - เมือง Prontera'#
+นำ Ice Box ไปส่งที่ Prontera#
+
+8297#กลับไปที่ Geffen กันเถอะ#SG_FEEL#QUE_NOIMAGE#
+ส่งของเสร็จแล้ว กลับไปพบ Lillyu ที่เมือง Geffen กันเถอะ#
+กลับไปพบ Lillyu ที่เมือง Geffen#
+
+8298#ลูกของข้าไปทำงานอยู่ที่ Morroc#SG_FEEL#QUE_NOIMAGE#
+บนหน้ากล่องที่ Lillyu ฝากให้ไปส่งเขียนเอาไว้ว่า 'ถึง Chitree และ Sita, Sesebi, Eilerr - เมือง Morroc'#
+นำ Ice Box ไปส่ง#
+
+8299#กลับไปที่ Geffen กันเถอะ#SG_FEEL#QUE_NOIMAGE#
+ส่งของเสร็จแล้ว กลับไปพบ Lillyu ที่เมือง Geffen กันเถอะ#
+กลับไปพบ Lillyu ที่เมือง Geffen#
+
+8300#ลูกของข้าอยู่ที่ Al De Baran#SG_FEEL#QUE_NOIMAGE#
+บนหน้ากล่องที่ Lillyu ฝากให้ไปส่งเขียนเอาไว้ว่า 'ถึง Farsa - เมือง Al De Baran'#
+นำ Ice Box ไปส่ง#
+
+8301#กลับไปที่ Geffen กันเถอะ#SG_FEEL#QUE_NOIMAGE#
+ส่งของเสร็จแล้ว กลับไปพบ Lillyu ที่เมือง Geffen กันเถอะ#
+กลับไปพบ Lillyu ที่เมือง Geffen#
+
+8302#ลูกของข้าอยู่ที่ Alberta#SG_FEEL#QUE_NOIMAGE#
+บนหน้ากล่องที่ Lillyu ฝากให้ไปส่งเขียนเอาไว้ว่า 'ถึง Guma และ Yulbee - เมือง Alberta'#
+นำ Ice Box ไปส่ง#
+
+8303#กลับไปที่ Geffen กันเถอะ#SG_FEEL#QUE_NOIMAGE#
+ส่งของเสร็จแล้ว กลับไปพบ Lillyu ที่เมือง Geffen กันเถอะ#
+กลับไปพบ Lillyu ที่เมือง Geffen#
+
+8304#ลูกคนเล็กของข้าอยู่ที่ Comodo#SG_FEEL#QUE_NOIMAGE#
+บนหน้ากล่องที่ Lillyu ฝากให้ไปส่งเขียนเอาไว้ว่า 'ถึง Eled - เมือง Comodo'#
+นำ Ice Box ไปส่ง#
+
+8305#กลับไปที่ Geffen กันเถอะ#SG_FEEL#QUE_NOIMAGE#
+ส่งของเสร็จแล้ว กลับไปพบ Lillyu ที่เมือง Geffen กันเถอะ#
+กลับไปพบ Lillyu ที่เมือง Geffen#
+
+8306#ลูก ๆ ของข้าเรียนอยู่ที่ Yuno#SG_FEEL#QUE_NOIMAGE#
+บนหน้ากล่องที่ Lillyu ฝากให้ไปส่งเขียนเอาไว้ว่า 'ถึง Juny และ Trez - เมือง Yuno'#
+นำ Ice Box ไปส่ง#
+
+8307#กลับไปที่ Geffen กันเถอะ#SG_FEEL#QUE_NOIMAGE#
+ส่งของเสร็จแล้ว กลับไปพบ Lillyu ที่เมือง Geffen กันเถอะ#
+กลับไปพบ Lillyu ที่เมือง Geffen#
+
+8308#ลูก ๆ ของข้าทำงานอยู่ที่ Alberta#SG_FEEL#QUE_NOIMAGE#
+บนหน้ากล่องที่ Lillyu ฝากให้ไปส่งเขียนเอาไว้ว่า 'ถึง Vivien และ Ququra, Ciseli - เมือง Alberta'#
+นำ Ice Box ไปส่ง#
+
+8309#กลับไปที่ Geffen กันเถอะ#SG_FEEL#QUE_NOIMAGE#
+ส่งของเสร็จแล้ว กลับไปพบ Lillyu ที่เมือง Geffen กันเถอะ#
+กลับไปพบ Lillyu ที่เมือง Geffen#
+
+8310#ทาน Parfait สักหน่อยสิ#SG_FEEL#QUE_NOIMAGE#
+ส่งของเสร็จแล้ว กลับไปพบ Lillyu ที่เมือง Geffen กันเถอะ#
+กลับไปพบ Lillyu ที่เมือง Geffen#
+
+
+8311#ตอนนี้มีงานประกวดเมล่อนยักษ์ด้วยนะ#SG_FEEL#QUE_NOIMAGE#
+ชั่งน้ำหนัก Suspicious Melon#
+#
+
+8312#ตอนนี้มีงานประกวดเมล่อนยักษ์ด้วยนะ - รอ#SG_FEEL#QUE_NOIMAGE#
+ชั่งน้ำหนัก Suspicious Melon ไปแล้ว ต้องรอพรุ่งนี้ถึงจะเข้าร่วมได้อีกครั้ง#
+รีเซ็ตเวลา 4:00 น.#
+
+8313#ท่านชอบเครื่องหนังหรือเปล่า?#SG_FEEL#QUE_NOIMAGE#
+...หนัง??#
+#
+
+8314#ขอบคุณสำหรับหนังนี่นะ#SG_FEEL#QUE_NOIMAGE#
+...หนัง???????#
+#
+
+8315#ไปส่งของที่ Payon มาแล้ว#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+8316#ไปส่งของที่ Prontera มาแล้ว#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+8317#ไปส่งของที่ Morroc มาแล้ว#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+8318#ไปส่งของที่ Al De Baran มาแล้ว#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+8319#ไปส่งของที่ Alberta มาแล้ว#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+8320#ไปส่งของที่ Comodo มาแล้ว#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+8321#ไปส่งของที่ Yuno มาแล้ว#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+8322#ไปส่งของที่ Alberta มาแล้ว#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+295001#ช่วยตามลูกให้กับหญิงแก่ แห่งเมือง Payon#SG_FEEL#QUE_NOIMAGE#
+ช่วยนำจดหมายฉบับนี้ไปให้แก่ลูกชายของหญิงดังกล่าวที่เมือง Juno(153,122)#
+Juno(153,122)#
+
+295002#ช่วยตามลูกให้กับหญิงแก่ แห่งเมือง Payon#SG_FEEL#QUE_NOIMAGE#
+ช่วยนำจดหมายฉบับนี้ไปให้แก่ลูกชายของหญิงดังกล่าวที่เมือง Comodo(160,287)#
+Comodo(160,287)#
+
+295003#ช่วยตามลูกให้กับหญิงแก่ แห่งเมือง Payon#SG_FEEL#QUE_NOIMAGE#
+ช่วยนำจดหมายฉบับนี้ไปให้แก่ลูกชายของหญิงดังกล่าวที่เมือง Geffen(153,72)#
+Geffen(153,72)#
+
+295004#ช่วยตามลูกให้กับหญิงแก่ แห่งเมือง Payon#SG_FEEL#QUE_NOIMAGE#
+ช่วยนำจดหมายฉบับนี้ไปให้แก่ลูกชายของหญิงดังกล่าวที่เมือง Prontera(270,213)#
+Prontera(270,213)#
+
+295005#ช่วยตามลูกให้กับหญิงแก่ แห่งเมือง Payon#SG_FEEL#QUE_NOIMAGE#
+ช่วยนำจดหมายฉบับนี้ไปให้แก่ลูกชายของหญิงดังกล่าวที่เมือง Morroc(164,37)#
+Morroc(164,37)#
+
+295006#สำรวจพื้นที่ในหอคอย Geffen#SG_FEEL#QUE_NOIMAGE#
+เคลียร์มอนสเตอร์ในหอคอย Geffen #
+กำจัด Posion Spore 20 ตัว #
+
+295007#สำรวจพื้นที่ในหอคอย Geffen#SG_FEEL#QUE_NOIMAGE#
+เคลียร์มอนสเตอร์ในหอคอย Geffen #
+กำจัด Poporing 10 ตัว #
+
+295008#ช่วย Old Mom อีกครั้ง#SG_FEEL#QUE_NOIMAGE#
+หลังทำเควสเสร็จไปพบ Old Mom อีกครั้งหลังเวลา 4:00AM#
+หลังทำเควสเสร็จไปพบ Old Mom อีกครั้งหลังเวลา 4:00AM#
+
+//------------2017 halloween----------------------
+11498#Jack and Jack's days like Jack#SG_FEEL#QUE_NOIMAGE#
+ไปที่ Niflheim เมืองแห่งคนตาย ฉันตื่นขึ้นเนื่องจากได้ยินเสียงงึมงัมของผี มาฟังเรื่องราวจากผีกันเถอะ#
+พูดคุยกับ Hororong#
+
+11499#Jack and Jack's days like Jack#SG_FEEL#QUE_NOIMAGE#
+Jack ที่อยู่ในจตุรัสกลางเมืองจะต้องรู้เรื่องแน่ ๆ ไปสอบถาม Jack ที่อยู่บริเวณจตุรัสกลางเมืองกันเถอะ#
+พูดคุยกับ Jack#
+
+11500#Jack and Jack's days like Jack#SG_FEEL#QUE_NOIMAGE#
+ได้ยินเรื่องราวเกี่ยวกับสถานที่ที่ Jack เคยไปมา กลับไปพบกับ Hururong อีกครั้ง#
+พูดคุยกับ Hururong#
+
+11501#Jack and Jack's days like Jack#SG_FEEL#QUE_NOIMAGE#
+ล่า Fleeing Jack จากแผนที่และดันเจี้ยนต่าง ๆ จำนวน 10 ตัวและรวบรวม Decorating Pumpkin 10 อัน, White Thin Stem 20 อันให้ Hororong#
+ส่ง Jack ไปที่ Niflheim#
+
+11502#Jack and Jack's days like Jack#SG_FEEL#QUE_NOIMAGE#
+พา Jack กลับมาจาก Niflheim ตามที่พวกผีพูดกันแล้ว Jack ปล่อยรากให้ยาวลงไปในดินเนื่องจากเขาอยู่บนโลกของคนเป็นนานเกินไป ให้ Jack พักผ่อนก่อนเถอะ#
+ให้ Jack พัก#
+
+11503#Jack and Jack's days like Jack#SG_FEEL#QUE_NOIMAGE#
+ล่า Fleeing Jack จากแผนที่และดันเจี้ยนต่าง ๆ จำนวน 10 ตัวและรวบรวม Decorating Pumpkin 10 อัน, White Thin Stem 20 อันให้ Hororing#
+ส่ง Jack ไปที่ Niflheim#
+
+11504#Jack and Jack's Cat#SG_FEEL#QUE_NOIMAGE#
+อาจจะไม่ค่อยเข้าใจเท่าไหร่ แต่ไปหา White Thin Stem 1 อันแล้วกลับมาพบกับ Jack อีกครั้ง#
+รวบรวม White Thin Stem#
+
+11505#Jack and Jack's Cat#SG_FEEL#QUE_NOIMAGE#
+ตอนที่ Jack ถูกจับ เจ้าเหมียวที่อยู่กับ Jack ก็กระโดดหายไป ไปสอบถาม Harorong ที่อยู่กับ Jack ตอนนั้นกันเถอะ#
+พูดคุยกับ Harorong#
+
+11506#Jack and Jack's Cat#SG_FEEL#QUE_NOIMAGE#
+ไม่รู้ว่า Neable ที่อยู่ตรงทางเข้าจะเห็นเจ้าเหมียวบ้างหรือเปล่า ไปสอบถาม Neable ที่อยู่บริเวณประตูทางทิศตะวันตกกันเถอะ#
+Neable ที่อยู่บริเวณประตูทางทิศตะวันตกของ Niflheim#
+
+11507#Jack and Jack's Cat#SG_FEEL#QUE_NOIMAGE#
+เขาบอกว่าเห็นอะไรบางอย่างเป็นก้อนเล็กๆ ขาวๆ วิ่งผ่านประตูไปเมื่อไม่นานมานี้ แต่ไม่รู้ว่าจะใช่เจ้าเหมียวหรือเปล่า ลองไปถามคนที่อยู่นอกทางเข้าดูสิ#
+พูดคุยกับ Nevervous Jack#
+
+11508#Jack and Jack's Cat#SG_FEEL#QUE_NOIMAGE#
+เจ้าเหมียวของ Jakk นั้นออกไปยังที่ที่ถูกเรียกว่าที่แห่งนั้น รีบไปตามหาและมาแจ้งข่าวให้ Jack กันเถอะ#
+พูดคุยกับ Jack#
+
+11509#Jack and Jack's Cat#SG_FEEL#QUE_NOIMAGE#
+ดูเหมือนว่าเจ้าเหมียวของ Jakk จะเดินทางไปที่ Midgard โดยผ่านทางรากของ Yggdrasil ดูเหมือนเจ้าเหมียวจะไปที่ Umbala ลองไปตรวจสอบดูกันเถอะ#
+สำรวจทางเข้าทิศเหนือของ Umbala#
+
+11510#Jack and Jack's Cat#SG_FEEL#QUE_NOIMAGE#
+นักวิจัยบอกว่าเขาแนะนำเส้นทางไป Morroc ให้กับอะไรสักอย่างที่มีลักษณะตัวเล็กและมีสีขาว ลองไปสำรวจทางเข้าทิศเหนือของ Morroc กันเถอะ#
+สำรวจทางเข้าของ Morroc#
+
+11511#Jack and Jack's Cat#SG_FEEL#QUE_NOIMAGE#
+พ่อค้าบอกว่าเขาแนะนำเส้นทางไป Alberta ให้กับอะไรสักอย่างที่มีลักษณะตัวเล็กและมีสีขาว ลองไปสำรวจทางเข้าทิศเหนือของ Alberta กันเถอะ#
+สำรวจทางเข้าของ Alberta#
+
+11512#Jack and Jack's Cat#SG_FEEL#QUE_NOIMAGE#
+คนแถวนั้นบอกว่าที่ท่าเรือมีแมวจำนวนมากที่รอปลาอร่อย ๆ อยู่ ลองไปสำรวจแถว ๆ ท่าเรือกันเถอะ#
+สำรวจท่าเรือ Alberta#
+
+11513#Jack and Jack's Cat#SG_FEEL#QUE_NOIMAGE#
+ถึงแม้เราจะตามหาแมวของ Jakk อยู่แต่ว่าดูเหมือนจะไม่ใช่แมวของ Jack กองทรายที่อยู่ด้านหลังนั้นน่าสงสัยจริง ๆ ของตรวจสอบดูกันเถอะ#
+ตรวจสอบกองทราย#
+
+11514#Jack and Jack's Cat#SG_FEEL#QUE_NOIMAGE#
+พบกระดูกและปลอดคอสีแดงที่ประดับกระดิ่งอยู่ในกองทราย กรุณากลับไปบอก Jakk กันเถอะ#
+สนทนากับ Jack ที่ Nifflheim#
+
+11515#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+Jack บอกว่าเจ้าแมวดูแปลก ๆ ไป ไปพบเจ้าแมวที่อยู่ทางทิศใต้ของ Jack กันเถอะ#
+พูดคุยกับเจ้าแมว#
+
+11516#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+เจ้าแมวได้พัฒนาเป็น Scholarton ในระหว่างการออกผจญภัย Jack บอกว่ามันไม่สามารถทนได้เนื่องจากเขาบอกว่าเจ้าเหมียวเปลี่ยนไปมาก#
+พูดคุยกับ Jack#
+
+11517#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+มีแมวจำนวนมากอยู่ที่ใจกลางของ Valley of Gyoll ไปตามหาเจ้าเหมียวที่นั่นกันเถอะ#
+ตามหาเจ้าแมว#
+
+11518#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+พบ Scatleton หลายตัวที่ใจกลางของ Valley of Gyoll แต่ว่าพวกเขาดูไม่ดีเลย รวบรวม ^ff00005 Black Fur^000000 เพื่อเพิ่มความอบอุ่นให้พวกเขากันเถอะ#
+Black Fur 5 อัน#
+
+11519#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+Scatleton รู้สึกไม่สบายจึงไม่อาจพูดคุยต่อได้อีก กลับไปพบกับ Jack กันเถอะ#
+พูดคุยกับ Jack#
+
+11520#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+Jack บอกว่าเขาชอบเจ้าเหมียวของเขามากกว่าแมวตัวอื่น ๆ กลับไปพูดคุยกับ Scholarton อีกครั้ง#
+พูดคุยกับ Scholarton#
+
+11521#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+Scholarton ไม่ต่องการพูดคุยกับใครอีกแล้ว กลับไปพบ Jack กันเถอะ#
+พูดคัยกับ Jack#
+
+11522#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+Jack บอกว่าเขาจะอยู่คอยเจ้าเหมียวที่นี่และฝากให้ดูแลแมวตัวอื่น ๆ ด้วย ช่วยเหลือ Scatleton ที่อยู่ที่ valley of Gyoll ด้วยการรวบรวม ^ff0000White Thin Stem 10 อัน^000000#
+ไปที่ Valley of Gyoll#
+
+11523#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+ดูเหมือนว่า Scatleton จะหิวมาก ๆ เมื่อเขาเริ่มฟื้นตัว ไปรวบรวม ^ff0000Delicious Fish 10 อัน^000000#
+Delicious Fish 10 อัน#
+
+11524#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+Scatleton ขอร้องให้ช่วยหา ^ff0000White Thin Stem อีก 20 อัน^000000 รวบรวมแล้วนำมาให้เขา#
+White Thin Stem 20 อัน#
+
+11525#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+ดูเหมือน Scholarton จะมอบพลังบางอย่างให้ โดยพลังนั้นคล้ายกับ Scatleton สอบถาม Scholarton เกี่ยวกับสิ่งนั้น#
+พูดคุยกับ Scholarton#
+
+11526#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+Scholarton จะออกไปผจญภัยแล้ว พูดคุยกับ Jack เกี่ยวกับเรื่องนี้#
+พูดคุยกับ Jack#
+
+11527#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+Jack คงจะเหนื่อยแล้ว พรุ่งนี้ค่อยมาใหม่อีกครั้งหลังตี 4#
+เจอกันพรุ่งนี้นะ Jack!#
+
+11528#Wind blowing from the black hill#SG_FEEL#QUE_NOIMAGE#
+รวบรวม Black Fur จากมอนสเตอร์ใน Valley of Gyoll#
+ผู้รวบรวม Black Fur#
+
+//------------------2017 snow flower festival
+14849#ทำช่อดอกไม้หิมะ#SG_FEEL#QUE_NOIMAGE#
+ท่านอยากทำช่อดอกไม้หิมะงั้นหรือ? ถ้างั้นท่านช่วยนำ Magical Snow Flower จำนวน 10 อันมาให้หน่อยสิ#
+Magical Snow Flower 10 อัน#
+
+14850#ทำช่อดอกไม้หิมะ#SG_FEEL#QUE_NOIMAGE#
+ต่อไปนี้การทำช่อดอกไม้หิมะนั้น Snow flower illusionist จะเป็นคนดูแลเอง หากสนใจล่ะก็ลองไปที่นั่นดูสิ#
+ไปพบ Snow flower illusionist#
+
+14851#ฤดูหนาวที่แสนอบอุ่น#SG_FEEL#QUE_NOIMAGE#
+หิมะสีขาวในพื้นที่ที่หิมะไม่ตก นุ่นสีขาวที่อบอุ่น! ถ้าอยากช่วยฤดูหนาวที่แสนอบอุ่นล่ะก็ ลองไปพบ Coti และ Ulsi ดูสิ#
+ไปพบ Coti#
+
+14852#แลกการ์ดงานเทศกาล#SG_FEEL#QUE_NOIMAGE#
+ท่านว่าท่านหาการ์ดพิเศษจากกล่องของขวัญของท่านงั้นหรือ? ท่านลองไปหา Twinkle กับ Bling ดูสิ ท่านจะได้รับของขวัญพิเศษแน่นอน#
+ไปพบ Twinkle#
+
+14853#ทำช่อดอกไม้หิมะ#SG_FEEL#QUE_NOIMAGE#
+ท่านว่าท่านหาการ์ดพิเศษจากกล่องของขวัญของท่านงั้นหรือ? ท่านลองไปหา Twinkle กับ Bling ดูสิ ท่านจะได้รับของขวัญพิเศษแน่นอน#
+Snow Flower 10 อัน, Carrot 1 อัน#
+
+14854#ยังคงเหลือความเย็นอยู่#SG_FEEL#QUE_NOIMAGE#
+ยังคงมีผลของ Magical Snow Flower หลงเหลืออยู่ ไว้ท่านค่อยมาใหม่ตอนรุ่งสางก็แล้วกันนะ#
+เวลาที่ต้องรอ#
+
+14855#ฤดูหนาวที่แสนอบอุ่น#SG_FEEL#QUE_NOIMAGE#
+หิมะสำหรับเด็ก ๆ ที่ไม่เคยเห็นหิมะ! นุ่นสำหรับเด็ก ๆ ที่อยู่ในพื้นที่หนาวเหน็บ! ช่วยนำ Warm Cotton 10 อันมาให้ข้าที!#
+Warm Cotton 10 อัน#
+
+14856#กำลังบรรจุนุ่นอยู่เลย#SG_FEEL#QUE_NOIMAGE#
+ข้ากำลังบรรจุนุ่นอยู่ ท่าทางจะเสร็จตอนใกล้ ๆ รุ่งสางนั่นแหละ เอาไว้ท่านค่อยมาใหม่ก็แล้วกันนะ!#
+เวลาที่ต้องรอ#
+
+14857#แลกการ์ดงานเทศกาล#SG_FEEL#QUE_NOIMAGE#
+คำศัพท์แห่งความโชคดีของท่านคือ WINTER!! ท่านลองเปิด Snow Flower Card Envelop ที่ออกมาจากกล่องของขวัญของท่านดูสิ ท่านต้องรวบรวมการ์ดให้ได้เป็นคำว่า W. I. N. T. E. R. การ์ดทั้งหมดแค่ 6 แผ่นเท่านั้น#
+รวบรวม WINTER Card#
+
+14858#แลกการ์ดงานเทศกาล#SG_FEEL#QUE_NOIMAGE#
+คำศัพท์แห่งความโชคดีของท่านคือ SNOW!! ท่านลองเปิด Snow Flower Card Envelop ที่ออกมาจากกล่องของขวัญของท่านดูสิ ท่านต้องรวบรวมการ์ดให้ได้เป็นคำว่า S. N. O. W. การ์ดทั้งหมดแค่ 4 แผ่นเท่านั้น#
+รวบรวม SNOW Card#
+
+14859#แลกการ์ดงานเทศกาล#SG_FEEL#QUE_NOIMAGE#
+คำศัพท์แห่งความโชคดีของท่านคือ FESTIVAL!! ท่านลองเปิด Snow Flower Card Envelop ที่ออกมาจากกล่องของขวัญของท่านดูสิ ท่านต้องรวบรวมการ์ดให้ได้เป็นคำว่า F. E. S. T. I. V. A. L. การ์ดทั้งหมดแค่ 8 แผ่นเท่านั้น#
+รวบรวม FESTIVAL Card#
+
+14860#แลกการ์ดงานเทศกาล#SG_FEEL#QUE_NOIMAGE#
+คำศัพท์แห่งความโชคดีของท่านคือ FLOWER!! ท่านลองเปิด Snow Flower Card Envelop ที่ออกมาจากกล่องของขวัญของท่านดูสิ ท่านต้องรวบรวมการ์ดให้ได้เป็นคำว่า F. L. O. W. E. R. การ์ดทั้งหมดแค่ 6 แผ่นเท่านั้น#
+รวบรวม FLOWER Card#
+
+14861#แลกการ์ดวันละหนึ่งครั้ง#SG_FEEL#QUE_NOIMAGE#
+การแลกการ์ดคำศัพท์ สามารถแลกได้เพียง 1 ครั้งต่อ 1 วันเท่านั้น ท่านรู้ใช่หรือเปล่า? เอาไว้ค่อยมาใหม่ตอนรุ่งสางก็แล้วกัน!#
+เวลาที่ต้องรอ#
+
+295033#คำขอร้องของ มานะ#SG_FEEL#QUE_NOIMAGE#
+ไปหาทรายที่ใช้ทำเจดีย์ทราย จากตาอยู่ที่เมือง Payon(176,177)#
+Payon(176,177)#
+
+295034#ตาอยู่ผู้รอหลานมารดน้ำผู้ใหญ่#SG_FEEL#QUE_NOIMAGE#
+เมื่อทำการรดน้ำตาอยู่ จะได้ข้อมูลเกี่ยวกับทรายให้ไปคุยกับยามที่เมือง Morroc(173,52)#
+Morroc(173,52)#
+
+295035#กำจัดมอนสเตอร์และหาทราย#SG_FEEL#QUE_NOIMAGE#
+หลังจากที่รู้เรื่องข้อมูลทราย ท่านต้องไปกำจัด Sandmand 15 ตัว/Hode 25 ตัว/Andre 30 ตัว และหา Sifted Sand จากมอนเหล่านั้นจำนวน  30 ea#
+15 Sandman, 25 Hode, 30 Andre และ Sifted Sand 30 ea #
+
+295036#ยังต้องการความช่วยเหลือ#SG_FEEL#QUE_NOIMAGE#
+พี่หมื่นยังต้องการความช่วยเหลือ#
+หลังทำเควสเสร็จไปพบ พี่หมื่น อีกครั้งหลังเวลา 4:00AM#
+
+//---------180628
+295038#World Cup Mission 01#SG_FEEL#QUE_NOIMAGE#
+กำจัด Marine Sphere 50 ตัวและรวบรวม Soccer Ball 10 อัน หลังจากทำสำเร็จแล้วให้กลับไปพบ WorldCup Master#
+กำจัด Marine Sphere และรวบรวม Soccer Ball#
+295039#World Cup Mission 02#SG_FEEL#QUE_NOIMAGE#
+กำจัด Sasquatch 50 ตัวและรวบรวม Soccer Ball 10 อัน หลังจากทำสำเร็จแล้วให้กลับไปพบ WorldCup Master#
+กำจัด Sasquatch และรวบรวม Soccer Ball#
+295040#World Cup Mission 03#SG_FEEL#QUE_NOIMAGE#
+กำจัด Savage 50 ตัวและรวบรวม Soccer Ball 10 อัน หลังจากทำสำเร็จแล้วให้กลับไปพบ WorldCup Master#
+กำจัด Savage และรวบรวม Soccer Ball#
+295041#World Cup Mission04#SG_FEEL#QUE_NOIMAGE#
+กำจัด Myst Case 50 ตัวและรวบรวม Soccer Ball 10 อัน หลังจากทำสำเร็จแล้วให้กลับไปพบ WorldCup Master#
+กำจัด Myst Case และรวบรวม Soccer Ball#
+295042#World Cup Mission 05#SG_FEEL#QUE_NOIMAGE#
+กำจัด Mantis 50 ตัวและรวบรวม Soccer Ball 10 อัน หลังจากทำสำเร็จแล้วให้กลับไปพบ WorldCup Master#
+กำจัด Mantis และรวบรวม Soccer Ball#
+295043#Daily World Cup#SG_FEEL#QUE_NOIMAGE#
+#
+#
+
+//---------180709 2nd 
+295044#Hunt Anniversary#SG_FEEL#QUE_NOIMAGE#
+ภารกิจล่ามอนสเตอร์ ให้ไปหา Hyerin ที่ Comodo (218,295)#
+หลังทำเควสเสร็จกลับไปพบ Kwangmin เพื่อรับของรางวัล#
+
+295045#Quiz Anniversary#SG_FEEL#QUE_NOIMAGE#
+ภารกิจตอบคำถาม ให้ไปหา Juri ที่ alberta (150,82)#
+หลังทำเควสเสร็จกลับไปพบ Kwangmin เพื่อรับของรางวัล#
+
+295046#Delivery Anniversary#SG_FEEL#QUE_NOIMAGE#
+ภารกิจส่งของ ให้ไปหา Rina ที่ aldebaran (176,69)#
+เมื่อส่งพัสดุเสร็จแล้ว กลับไปพบ Kwangmin เพื่อรับของรางวัล#
+
+295047#Small Type Hunt#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Hyerin ให้ไปจำกัด Kobold Archer#
+กำจัด Kobold Archer จำนวน 50 ตัว#
+
+295048#Medium Type Hunt#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Hyerin ให้ไปจำกัด Mummy#
+กำจัด Mummy จำนวน 50 ตัว#
+
+295049#Large Type Hunt#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Hyerin ให้ไปจำกัด Minorous#
+กำจัด Minorous จำนวน 50 ตัว#
+
+295050#Kurry Of Payon#SG_FEEL#QUE_NOIMAGE#
+นำพัสดุที่ได้จาก Rina ไปส่งที่ pay_arche (40,126)#
+หลังทำเควสเสร็จกลับไปพบ Kwangmin เพื่อรับของรางวัล#
+
+295051#Kurry Of Alberta#SG_FEEL#QUE_NOIMAGE#
+นำพัสดุที่ได้จาก Rina ไปส่งที่ alberta (43,47)#
+หลังทำเควสเสร็จกลับไปพบ Kwangmin เพื่อรับของรางวัล#
+
+295052#Kurry Of Morroc#SG_FEEL#QUE_NOIMAGE#
+นำพัสดุที่ได้จาก Rina ไปส่งที่ moc_ruins (55,157)#
+หลังทำเควสเสร็จกลับไปพบ Kwangmin เพื่อรับของรางวัล#
+
+295053#Daily Anniversary#SG_FEEL#QUE_NOIMAGE#
+ท่านได้ทำเควสของวันนี้เสร็จเรียบร้อย#
+กลับมาหา Kwangmin อีกครั้งหลัง 2 ชม.#
+
+//--------------180809 mother day
+295054#ตามหาข้อมูลของลูกสาวที่หายไป#SG_FEEL#QUE_NOIMAGE#
+เริ่มต้นลองไปสืบข้อมูลจากผู้คนที่หน้าถ้าพาย่อน  เมื่อสำรวจจนเรียบร้อยกลับไปหา ป้าเมย์#
+pay_acrhe(44,123)#
+
+295055#ตามหาข้อมูลของลูกสาวที่หายไป#SG_FEEL#QUE_NOIMAGE#
+เริ่มต้นลองไปสืบข้อมูลจากผู้คนที่ท่าน้ำ เมื่อตอบคำถามเสร็จกลับไปหา ป้าเมย์#
+alberta(196,140)#
+
+295056#ตามหาข้อมูลของลูกสาวที่หายไป#SG_FEEL#QUE_NOIMAGE#
+เริ่มต้นลองไปสืบข้อมูลจากผู้คนที่เมืองหิมะ lutie เมื่อทำภารกิจที่เมือง lutie เสร็จแล้วกลับไปหา ป้าเมย์#
+xmas(97,276)#
+
+295057#ตามหาข้อมูลของลูกสาวที่หายไป#SG_FEEL#QUE_NOIMAGE#
+เริ่มต้นลองไปสืบข้อมูลจากผู้คนที่เมือง geffen เมื่อทำภารกิจที่เมือง geffen เสร็จแล้วกลับไปหา ป้าเมย์#
+geffen(74,193)#
+
+295058#คำทำนายจากร่างทรง#SG_FEEL#QUE_NOIMAGE#
+เจ้าสงสัยในสิ่งที่ร่างทรงบอก จึงมุ่งตรงไปสำรวจยังถ้ำพาย่อน#
+สำรวจร่องรอย ในพาย่อนชั้น 1#
+
+295059#รอเวลาช่วยอีกครั้ง#SG_FEEL#QUE_NOIMAGE#
+ท่านได้ทำเควสของรอบนี้เสร็จเรียบร้อย#
+กลับมาหา ป้าเมย์ อีกครั้งหลัง 6 ชม.#
+
+295060#เคลียร์มอนสเตอร์#SG_FEEL#QUE_NOIMAGE#
+กำจัด Munak 30 ตัว/Obeaune 30 ตัว/Metaller 30 ตัว #
+30 Munak, 30 Obeaune, 30 Metaller #
+
+295061#เตรียมสมุนไพร#SG_FEEL#QUE_NOIMAGE#
+กำจัด Plant(Green,Yellow,Red) อย่างละ 10 ตัว และหา Herb(Green,Yellow,Red)อย่างละ 30 ea#
+กำจัดอย่างละ 10  Plant#
+
+295062#พบร่องรอยเท้าชั้น 1#SG_FEEL#QUE_NOIMAGE#
+มีการตรวจสอบพบร่องรอยเท้ามนุษย์ในชั้นที่ 1 ของถ้ำพาย่อน#
+ทำการสำรวจร่องรอย ในพาย่อนชั้น 2#
+
+295063#พบร่องรอยเท้าชั้น 2#SG_FEEL#QUE_NOIMAGE#
+มีการตรวจสอบพบร่องรอยเท้ามนุษย์ในชั้นที่ 2 ของถ้ำพาย่อน#
+ทำการสำรวจเบาะแส ในพาย่อนชั้น 3#
+
+295064#เตรียมสมุนไพร#SG_FEEL#QUE_NOIMAGE#
+กำจัด Plant(White,Blue) อย่างละ 1 ตัว และหา Herb(White,Blue)อย่างละ 10 ea#
+กำจัดอย่างละ 1  Plant#
+
+//--------181122
+295010#เทศกาลลอยกระทง#SG_FEEL#QUE_NOIMAGE#
+นักเดินทาง ขอให้ช่วยกำจัดมอนสเตอร์ที่ขัดขวางงานเทศกาลลอยกระทง#
+#
+
+295011#มอนสเตอร์ป่วนงาน#SG_FEEL#QUE_NOIMAGE#
+นักเดินทาง ขอให้กำจัด Cornutus 30 ตัว , Marse 30 ตัว  , Obeaune 30 ตัว#
+#
+
+295014#แม่อรผู้รับทำกระทง#SG_FEEL#QUE_NOIMAGE#
+ไปหาแม่อร ที่เมือง Ayothaya(250,271) #
+#
+
+295015#คำขอร้องของแม่อร#SG_FEEL#QUE_NOIMAGE#
+ไปหาช่างไม้ที่เมือง Comodo(226,332) เพื่อทำธูป#
+#
+
+295016#อธิษฐานต่อพระแม่คงคา#SG_FEEL#QUE_NOIMAGE#
+นำกระทง ไปลอยในแม่น้ำ Ayothaya(183,65)#
+รอรับกระทงได้อีกครั้ง 4:00 AM#
+
+295012#คำขอร้องของแม่อร#SG_FEEL#QUE_NOIMAGE#
+นำของที่ได้มาทั้งหมด กลับไปให้แม่อรทำ ที่เมือง Ayothaya(250,271)#
+#
+
+//------- 190207
+295065#Aldebaran Valentine#SG_FEEL#QUE_NOIMAGE#
+ ให้ไปที่เมือง Aldebaran (169,228)#
+ตามคำร้องของ Psyche#
+
+295066#Geffen Valentine#SG_FEEL#QUE_NOIMAGE#
+ ให้ไปที่เมือง Geffen (142,196)#
+ตามคำร้องของ Psyche#
+
+295067#Morroc Valentine#SG_FEEL#QUE_NOIMAGE#
+ ให้ไปที่เมือง Morroc (116,55)#
+ตามคำร้องของ Psyche#
+
+295068#Daily Valentine#SG_FEEL#QUE_NOIMAGE#
+ไปช่วยเหลือเพื่อนของ Psyche ตามเมืองที่ระบุ #
+ก่อนเก้าโมงเช้าของแต่ละวัน#
+
+295069#Collect Item01#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Plutus ให้ไปหา Blue Hair#
+หา Blue Hair จำนวน 50 ea#
+
+295070#Collect Item02#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Plutus ให้ไปหา Black Hair#
+หา Black Hair จำนวน 50 ea#
+
+295071#Collect Item03#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Plutus ให้ไปหา Golden Hair#
+หา Golden Hair จำนวน 50 ea#
+
+295072#Hunt Requiem#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Panther ให้ไปจำกัด Requiem#
+กำจัด Requiem จำนวน 50 ตัว#
+
+295073#Hunt Skeleton Worker#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Panther ให้ไปจำกัด Skeleton Worker#
+กำจัด Skeleton Worker จำนวน 50 ตัว#
+
+295074#Hunt Munak#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Panther ให้ไปจำกัด Munak#
+กำจัด Munak จำนวน 50 ตัว#
+
+295075#Hunt Ghoul#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Panther ให้ไปจำกัด Ghoul#
+กำจัด Ghoul จำนวน 50 ตัว#
+
+//-------190228
+295087#กำจัด Ambernite#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Ambernite 50 ตัว #
+จำกัด Ambernite 50 ตัว#
+
+295088#กำจัด Andre#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Andre 50 ตัว #
+จำกัด Andre 50 ตัว#
+
+295089#กำจัด Archer Skeleton#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Archer Skeleton 50 ตัว #
+จำกัด Archer Skeleton 50 ตัว#
+
+295090#กำจัด Savage#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Savage 50 ตัว #
+จำกัด Savage 50 ตัว#
+
+295091#กำจัด Frilldora#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Frilldora 10 ตัว #
+จำกัด Frilldora 10 ตัว#
+
+295092#กำจัด Alarm#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Alarm 50 ตัว #
+จำกัด Alarm 50 ตัว#
+
+295093#กำจัด Evil Druid#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Evil Druid 50 ตัว #
+จำกัด Evil Druid 50 ตัว#
+
+295094#กำจัด Argiope#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Argiope 50 ตัว #
+จำกัด Argiope 50 ตัว#
+
+295095#กำจัด Baba Yaga#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Baba Yaga 50 ตัว #
+จำกัด Baba Yaga 50 ตัว#
+
+295096#กำจัด Jakk#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Jakk 50 ตัว #
+จำกัด Jakk 50 ตัว#
+
+295097#กำจัด Bloody Butterfly#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Bloody Butterfly 50 ตัว #
+จำกัด Bloody Butterfly 50 ตัว#
+
+295098#กำจัด Demon Pungus#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Demon Pungus 30 ตัว #
+จำกัด Demon Pungus 30 ตัว#
+
+295099#กำจัด Neraid#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Neraid 30 ตัว #
+จำกัด Neraid 30 ตัว#
+
+295100#กำจัด Skeleton Prisoner#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Skeleton Prisoner 30 ตัว #
+จำกัด Skeleton Prisoner 30 ตัว#
+
+295101#กำจัด Clock Tower Manager#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Clock Tower Manager 5 ตัว #
+จำกัด Clock Tower Manager 5 ตัว#
+
+295102#กำจัด Magmaring#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Magmaring 50 ตัว #
+จำกัด Magmaring 50 ตัว#
+
+295103#กำจัด Deathword#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Deathword 30 ตัว #
+จำกัด Deathword 30 ตัว#
+
+295104#กำจัด Antler Scaraba#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Antler Scaraba 50 ตัว #
+จำกัด Antler Scaraba 50 ตัว#
+
+295105#กำจัด Desert Wolf#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Desert Wolf 50 ตัว #
+จำกัด Desert Wolf 50 ตัว#
+
+295106#กำจัด Ferus#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Ferus 50 ตัว #
+จำกัด Ferus 50 ตัว#
+
+295107#Daily Poring Coin#SG_FEEL#QUE_NOIMAGE#
+เควสประจำวันจาก Poring Joan ทำภารกิจได้ไม่เกิน 5 ครั้ง ต่อวัน #
+เควสประจำวัน รีเซ็ตทุกๆ 9 โมงเช้า#
+
+//-----2019 whiteday
+
+295076#ช่วยเหลือ Eros#SG_FEEL#QUE_NOIMAGE#
+ไปหา Ava ที่แมพ gef_fild10 (230,204)#
+หาคนทำดอกไม้ให้ Eros#
+
+295077#ตามหา Heaven Flower#SG_FEEL#QUE_NOIMAGE#
+หา Heaven Flower จำนวน 10 ea#
+หาดอกไม้จาก Orc Lady#
+
+295078#เพื่อนของ Ava#SG_FEEL#QUE_NOIMAGE#
+ไปหา John ที่เมือง Amatsu (182,166)#
+John รับทำดอกไม้#
+
+295079#John ขอเวลาทำดอกไม้#SG_FEEL#QUE_NOIMAGE#
+John ขอเวลาในการทำช่อดอกไม้ #
+เมื่อครบ 5 นาที ให้กลับไปคุยใหม่#
+
+295080#นำดอกไม้ไปให้ Eros#SG_FEEL#QUE_NOIMAGE#
+กลับไปหา Eros ที่เมือง Alberta(195,141)#
+กลับไปหา Eros#
+
+295081#กำจัด Wolf#SG_FEEL#QUE_NOIMAGE#
+กำจัด Wolf 50 ตัว และ Wolf Claw 30 ea#
+กำจัด Wolf จำนวน 50 ตัว#
+
+295082#กำจัด Alligator#SG_FEEL#QUE_NOIMAGE#
+กำจัด Alligator 50 ตัว และ Anolian Skin 30 ea#
+กำจัด Alligator จำนวน 50 ตัว#
+
+295083#กำจัด Petite#SG_FEEL#QUE_NOIMAGE#
+กำจัด Petite 50 ตัว และ Dragon Canine 30 ea#
+กำจัด Petite จำนวน 50 ตัว#
+
+295084#กำจัด Flora#SG_FEEL#QUE_NOIMAGE#
+กำจัด Flora 50 ตัว และ Maneater Blossom 30 ea#
+กำจัด Flora จำนวน 50 ตัว#
+
+295085#กำจัด Orc Warrior#SG_FEEL#QUE_NOIMAGE#
+กำจัด Orc Warrior 50 ตัว และ Orcish Voucher 30 ea#
+กำจัด Orc Warrior จำนวน 50 ตัว#
+
+295086#Daily White Day#SG_FEEL#QUE_NOIMAGE#
+ช่วยเหลือ Nemo ได้วันละ 5 ครั้ง ก่อนเก้าโมงเช้าของแต่ละวัน#
+ช่วยเหลือ Nemo ได้วันละ 5 ครั้ง#
+
+//------2019 poringcoinitem
+295108#Collect Anolian Skin#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Anolian Skin 50 ea #
+สะสม Anolian Skin 50 ea#
+
+295109#Collect Skel-Bone#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Skel-Bone 50 ea #
+สะสม Skel-Bone 50 ea#
+
+295110#Collect Worm Peeling#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Worm Peeling 100 ea #
+สะสม Worm Peeling 100 ea#
+
+295111#Collect Well-baked Cookie#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Well-baked Cookie 50 ea #
+สะสม Well-baked Cookie 50 ea#
+
+295112#Collect Four Leaf Colver#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Four Leaf Colver 1 ea #
+สะสม Four Leaf Colver 1 ea#
+
+295113#Collect Skull#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Skull 50 ea #
+สะสม Skull 50 ea#
+
+295114#Collect Bug Leg#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Bug Leg 75 ea #
+สะสม Bug Leg 75 ea#
+
+295115#Collect Yaga's Pestle#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Yaga's Pestle 100 ea #
+สะสม Yaga's Pestle 100 ea#
+
+295116#Collect Leopard Claw#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Leopard Claw 75 ea #
+สะสม Leopard Claw 75 ea#
+
+295117#Collect Jellopy & Large Jellopy#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan หา Jellopy 100 ea และ Large Jellopy 50 ea #
+หา Jellopy 100 ea & Large Jellopy 50 ea#
+
+295118#Collect Decomposed Rope#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Decomposed Rope 50 ea #
+สะสม Decomposed Rope 50 ea#
+
+295119#Collect Hard Feeler#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Hard Feeler 75 ea #
+สะสม Hard Feeler 75 ea#
+
+295120#Collect Turtle Shell#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Turtle Shell 75 ea #
+สะสม Turtle Shell 75 ea#
+
+295121#กำจัด Collect Cyfar#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Cyfar 75 ea #
+สะสม Cyfar 75 ea#
+
+295122#Collect Emperium#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Emperium 1 ea #
+สะสม Emperium 1 ea#
+
+295123#Collect Antler Helmet#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Antler Helmet 75 ea #
+สะสม Antler Helmet 75 ea#
+
+295124#Collect Fragment#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Fragment 75 ea #
+สะสม Fragment 75 ea#
+
+295125#Collect Bloody Rune#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Bloody Rune 75 ea #
+สะสม Bloody Rune 75 ea#
+
+295126#Collect Dust Pollutant#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Dust Pollutant 75 ea #
+สะสม Dust Pollutant 75 ea#
+
+295127#Collect Three-Headed Dragon's Head#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Three-Headed Dragon's Head 1 ea #
+สะสม Three-Headed Dragon's Head 1 ea#
+
+295128#Daily Collect Item#SG_FEEL#QUE_NOIMAGE#
+เควสประจำวันจาก Poring Joan ทำภารกิจได้ไม่เกิน 5 ครั้ง ต่อวัน #
+เควสประจำวัน รีเซ็ตทุกๆ 9 โมงเช้า#
+
+//------190328
+295129#Defeat Alarm#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Alarm 50 ตัว #
+จำกัด Alarm 50 ตัว#
+
+295130#Defeat Antique Firelock#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Antique Fireloc 30 ตัว #
+จำกัด Antique Fireloc 30 ตัว#
+
+295131#Defeat Baba Yaga#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Archer Baba Yaga 50 ตัว #
+จำกัด Archer Baba Yaga 50 ตัว#
+
+295132#Defeat Bathory#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Bathory 50 ตัว #
+จำกัด Bathory 50 ตัว#
+
+295133#Defeat Chimera#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Chimera 1 ตัว #
+จำกัด Chimera 1 ตัว#
+
+295134#Defeat Ancient Mimic#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Ancient Mimic 30 ตัว #
+จำกัด Ancient Mimic 30 ตัว#
+
+295135#Defeat Ancient Mummy#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Ancient Mummy 30 ตัว #
+จำกัด Ancient Mummy 30 ตัว#
+
+295136#Defeat Anubis#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Anubis 20 ตัว #
+จำกัด Anubis 20 ตัว#
+
+295137#Defeat Explosion#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Explosion 30 ตัว #
+จำกัด Baba Explosion 30 ตัว#
+
+295138#Defeat Hydrolancer#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Defeat Hydrolancer 1 ตัว #
+จำกัด Defeat Hydrolancer 1 ตัว#
+
+295139#Collect Little Evil Wing#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Little Evil Wing 75 ea #
+สะสม Little Evil Wing 75 ea#
+
+295140#Collect Ice Cubic#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Ice Cubic 75 ea #
+สะสม Ice Cubic 75 ea#
+
+295141#Collect Decomposed Rope#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Decomposed Rope 75 ea #
+สะสม Decomposed Rope 75 ea#
+
+295142#Collect Harpy Feather#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Harpy Feather 75 ea #
+สะสม Harpy Feather 75 ea#
+
+295143#Collect Emperium#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Emperium 1 ea #
+สะสม Emperium 1 ea#
+
+295144#Collect Rusty Screw#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Rusty Screw 75 ea #
+สะสม Rusty Screw 75 ea#
+
+295145#Collect Turtle Shell#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Turtle Shell 75 ea #
+สะสม Turtle Shell 75 ea#
+
+295146#Collect Bloody Rune#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Bloody Rune 75 ea #
+สะสม Bloody Rune 75 ea#
+
+295147#Collect Rune of Darkness#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Rune of Darkness 75 ea #
+สะสม Rune of Darkness 75 ea#
+
+295148#Collect Three-Headed Dragon's Head#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปหา Three-Headed Dragon's Head 1 ea #
+สะสม Three-Headed Dragon's Head 1 ea#
+
+295149#Daily Infinity#SG_FEEL#QUE_NOIMAGE#
+เควสประจำวันจาก Poring Joan ทำภารกิจโหมดได้ไม่เกิน 5 ครั้ง ต่อวัน #
+เควสประจำวัน รีเซ็ตทุกๆ 9 โมงเช้า#
+
+//-------2019 songkran
+295150#Songkran Festival#SG_FEEL#QUE_NOIMAGE#
+ไปเข้าร่วมงานเทศกาลสงกรานต์  อโยธยา #
+Alberta (238,47)#
+
+295151#Prepare Item#SG_FEEL#QUE_NOIMAGE#
+เตรียม 5 Empty Bottle และ  10 Beautyful Flower #
+หาไอเทมที่กำหนด#
+
+295152#SongNam Pra#SG_FEEL#QUE_NOIMAGE#
+นำขันน้ำที่มี ไปสรงพระที่อโยธยา #
+Ayothaya (149,177)#
+
+295153#Comp Main Quest#SG_FEEL#QUE_NOIMAGE#
+เมื่อสงน้ำพระเสร็จ คืนขันกับทาง มะลิ #
+Ayothaya (160,174)#
+
+295154#Collect Skel-Bone#SG_FEEL#QUE_NOIMAGE#
+ให้ไปหา 50 Skel-Bone มาให้กับทางตลาดสด #
+สะสม 50 Skel-Bone#
+
+295155#Collect Garlet#SG_FEEL#QUE_NOIMAGE#
+ให้ไปหา 50 Garlet มาให้กับทางตลาดสด #
+สะสม 50 Garlet#
+
+295156#Collect Tooth of Bat#SG_FEEL#QUE_NOIMAGE#
+ให้ไปหา 50 Tooth of Bat มาให้กับทางตลาดสด #
+สะสม 50 Tooth of Bat#
+
+295157#Collect Worm Peeling#SG_FEEL#QUE_NOIMAGE#
+ให้ไปหา 50 Worm Peeling มาให้กับทางตลาดสด #
+สะสม 50 Worm Peeling#
+
+295158#Collect Sticky Mucus#SG_FEEL#QUE_NOIMAGE#
+ให้ไปหา 50 Sticky Mucus มาให้กับทางตลาดสด #
+สะสม 50 Sticky Mucus#
+
+295159#Collect Daenggie#SG_FEEL#QUE_NOIMAGE#
+ให้ไปหา 50 Daenggie มาให้กับทางตลาดสด #
+สะสม 50 Daenggie#
+
+295160#Collect Mane#SG_FEEL#QUE_NOIMAGE#
+ให้ไปหา 50 Mane มาให้กับทางตลาดสด #
+สะสม 50 Mane#
+
+295161#Collect Animal Skin#SG_FEEL#QUE_NOIMAGE#
+ให้ไปหา 50 Animal Skin มาให้กับทางตลาดสด #
+สะสม 50 Animal Skin#
+
+295162#Daily Songkran Festival#SG_FEEL#QUE_NOIMAGE#
+ตลาดสดมีของที่ต้องการเพียงพอแล้ว กลับมาทำใหม่อีกครั้งในวันถัดไป #
+เควสประจำวัน รีเซ็ตทุกๆ 9 โมงเช้า#
+
+//-------------back2school
+295163#Back2School Daily#SG_FEEL#QUE_NOIMAGE#
+กลับมาคุยกับด็อกเตอร์ไรท์ อีกครั้งในวันถัดไป#
+เควสประจำวันรีเซตทุกๆ 9 โมงเช้า#
+
+295164#Find Blues#SG_FEEL#QUE_NOIMAGE#
+ไปตามหา Pencil Case จากบลูส์ ซึ่งอยู่ใกล้ๆกับ Ripped #
+Payon (173,135)#
+
+295165#Find Forte#SG_FEEL#QUE_NOIMAGE#
+ไปตามหา Quiz Book จากฟอร์เต้ ที่ไปช่วยเหลืองานในปราสาทพรอนชั้น 1#
+prt_castle (86,51)#
+
+295166#Comeback Dr.Light#SG_FEEL#QUE_NOIMAGE#
+เมื่อได้ของครบทั้ง 2 อย่างแล้ว กลับไปหาด็อกเตอร์ไรท์ #
+Aldebaran (146,114)#
+
+295167#Hunt Soldier Skeleton#SG_FEEL#QUE_NOIMAGE#
+ช่วยเหลือบลูส์ กำจัดมอนสเตอร์ตามที่กำหนด #
+กำจัด 30 Soldier Skeleton#
+
+295168#Hunt Orc Zombie#SG_FEEL#QUE_NOIMAGE#
+ช่วยเหลือบลูส์ กำจัดมอนสเตอร์ตามที่กำหนด #
+กำจัด  30 Orc Zombie#
+
+295169#Hunt Steel Chonchon#SG_FEEL#QUE_NOIMAGE#
+ช่วยเหลือบลูส์ กำจัดมอนสเตอร์ตามที่กำหนด #
+กำจัด 30 Steel Chonchon#
+
+295170#Hunt Metaller#SG_FEEL#QUE_NOIMAGE#
+ช่วยเหลือบลูส์ กำจัดมอนสเตอร์ตามที่กำหนด #
+กำจัด 30 Metaller#
+
+295171#Hunt Shellfish#SG_FEEL#QUE_NOIMAGE#
+ช่วยเหลือบลูส์ กำจัดมอนสเตอร์ตามที่กำหนด #
+กำจัด 30 Shellfish#
+
+
+//--------------PoringCoinT
+295172#Hunt Poring V#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Poring V 1 ตัว #
+จำกัด Poring V 1 ตัว#
+
+295173#Daily Poring V#SG_FEEL#QUE_NOIMAGE#
+เควสประจำวันจาก Poring Joan ทำภารกิจได้ไม่เกิน 3 ครั้ง ต่อวัน #
+เควสประจำวัน รีเซ็ตทุกๆ 9 โมงเช้า#
+
+//------HTW
+295174#Daily Save World#SG_FEEL#QUE_NOIMAGE#
+เจ้าได้ช่วยเหลือของวันนี้เสร็จเรียบร้อยแล้ว รอทำอีกครั้งในตอน 9 โมงเช้า #
+เควสประจำวัน รีเซ็ตทุกๆ 9 โมงเช้า#
+
+295175#Keep Can#SG_FEEL#QUE_NOIMAGE#
+เจ้า Alligator ได้ทำการกิน Crushed Can ให้ไปช่วยเหลือเอาออกมา #
+10 Crushed Can#
+
+295176#Hunt Pest#SG_FEEL#QUE_NOIMAGE#
+ช่วย Seol Ai กำจัด Pest 10 ตัว #
+กำจัด 10 Pest#
+
+295177#Hunt Alligator#SG_FEEL#QUE_NOIMAGE#
+ช่วย Seol Ai กำจัด ALLIGATOR 20 ตัว #
+กำจัด 20 ALLIGATOR#
+
+295178#Hunt Poison Spore#SG_FEEL#QUE_NOIMAGE#
+ช่วย Seol Ai กำจัด Poison Spore 30 ตัว #
+กำจัด 30 Poison Spore#
+
+295179#Keep Sack#SG_FEEL#QUE_NOIMAGE#
+ทำการหาถุงขยะที่ cmd_fild02 (380,274) โดยอ่านเพิ่มเติมได้จากป้ายห้ามทิ้งขยะ #
+4 Poor Can Sack#
+
+295180#Soil1#SG_FEEL#QUE_NOIMAGE#
+หาร่องรอยกองดินที่มีการฝังขยะที่ cmd_fild02 #
+cmd_fild02(340,56)#
+
+295181#Soil2#SG_FEEL#QUE_NOIMAGE#
+หาร่องรอยกองดินที่มีการฝังขยะที่ cmd_fild02 #
+cmd_fild02(288,67)#
+
+295182#Soil3#SG_FEEL#QUE_NOIMAGE#
+หาร่องรอยกองดินที่มีการฝังขยะที่ cmd_fild02 #
+cmd_fild02(286,82)#
+
+295183#Soil4#SG_FEEL#QUE_NOIMAGE#
+หาร่องรอยกองดินที่มีการฝังขยะที่ cmd_fild02 #
+cmd_fild02(160,117)#
+
+
+//------Poringcoinshard
+295184#Hunt Shard of Evil#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Shard Of Evil 5 ตัว #
+จำกัด Shard Of Evil 5 ตัว#
+
+295185#Daily Shard Of Evil#SG_FEEL#QUE_NOIMAGE#
+เควสประจำวันจาก Poring Joan ทำภารกิจได้ไม่เกิน 3 ครั้ง ต่อวัน #
+เควสประจำวัน รีเซ็ตทุกๆ 9 โมงเช้า#
+
+//-------PoringCoinMystery
+
+295186#Hunt Mystery Bug#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก Poring Joan ให้ไปจำกัด Mystery Bug 5 ตัว #
+จำกัด Mystery Bug 5 ตัว#
+
+295187#Daily Mystery#SG_FEEL#QUE_NOIMAGE#
+เควสประจำวันจาก Poring Joan ทำภารกิจได้ไม่เกิน 3 ครั้ง ต่อวัน #
+เควสประจำวัน รีเซ็ตทุกๆ 9 โมงเช้า#
+
+//-------pingyang
+295188#Prepared PingYang#SG_FEEL#QUE_NOIMAGE#
+เตรียมผักสดกับจ้าของไร่ผัก ayothaya(123,240) เตรียมเนื้อกับผู้ช่วยเชฟ ayo_in01(138,168) และเตรียมน้ำจิ้มกับแม่ประนี  ayothaya(78,173)#
+ตามหาวัตถุดิบที่ระบุ #
+
+295189#Find Veggie#SG_FEEL#QUE_NOIMAGE#
+เก็บผักสด จำนวน 10 จาก Flora #
+รวบรวม 10 ผักสด #
+
+295190#Hunt Savage#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก ผู้ช่วยเชฟ ให้ไปจำกัด Savage 20 ตัว #
+กำจัด Savage 20 ตัว #
+
+295191#Hunt Marse#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก ผู้ช่วยเชฟ ให้ไปจำกัด Marse 20 ตัว #
+กำจัด Marse 20 ตัว #
+
+295192#Hunt Obeaune#SG_FEEL#QUE_NOIMAGE#
+รับภารกิจจาก ผู้ช่วยเชฟ ให้ไปจำกัด Obeaune 20 ตัว #
+กำจัด Obeaune 20 ตัว #
+
+295193#Ingredient#SG_FEEL#QUE_NOIMAGE#
+หา 1 พริกแดง 1 น้ำปลา 1 มะนาว ให้กับแม่ประนี เพื่อทำน้ำจิ้ม #
+ตามหาส่วนผสมให้กับแม่ประนี #
+
+295194#Daily PingYang#SG_FEEL#QUE_NOIMAGE#
+นำของทั้งหมดมาให้ Meawster Chef ครบตามกำหนด #
+เควสประจำวัน รีเซ็ตทุก ๆ 9 โมงเช้า #

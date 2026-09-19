@@ -1,311 +1,291 @@
 998#
-1 Iron Ore
+Iron Ore 1 ea
 #
 999#
-5 Iron
-1 Coal
+Iron 5 ea
+Coal 1 ea
 #
 1000#
-10 Star Dust
+Star Dust 10 ea
 #
 994#
-10 Red Blood
+Red Blood 10 ea
 #
 995#
-10 Crystal Blue
+Crystal Blue 10 ea
 #
 997#
-10 Yellow Live
+Green Live 10 ea
 #
 996#
-10 Wind of Verdure
+Wind of Verdure 10 ea
 #
 1101#
-2 Iron
+Iron 2 ea
 #
 1104#
-30 Iron
+Iron 30 ea
 #
 1107#
-45 Iron
-25 Tooth of Bat
+Iron 45 ea
+Tooth of Bat 25 ea
 #
 1110#
-20 Steel
+Steel 20 ea
 #
 1113#
-35 Steel
+Steel 35 ea
 #
 1122#
-40 Steel
-50 Wolf Claw
+Steel 40 ea
+Wolf Claw 50 ea
 #
 1119#
-8 Oridecon
-15 Steel
-1 Garnet
+Oridecon 8 ea
+Steel 15 ea
+Garnet 1 ea
 #
 1123#
-8 Oridecon
-10 Steel
-1 Topaz
+Oridecon 8 ea
+Steel 10 ea
+Topaz 1 ea
 #
 1126#
-8 Oridecon
-5 Steel
-1 Opal
+Oridecon 8 ea
+Steel 5 ea
+Opal 1 ea
 #
 1129#
-16 Oridecon
-1 Ruby
+Oridecon  16 ea
+Ruby 1 ea
 #
 1201#
-1 Iron
-10 Jellopy
+Iron 1 ea
+Jellopy 10 ea
 #
 1204#
-25 Iron
+Iron 25 ea
 #
 1207#
-50 Iron
+Iron 50 ea
 #
 1210#
-17 Steel
+Steel 17 ea
 #
 1213#
-30 Steel
+Steel 30 ea
 #
 1216#
-40 Steel
+Steel 40 ea
 #
 1219#
-4 Oridecon
-40 Steel
-1 Sapphire
+Oridecon 4 ea
+Steel 40 ea
+Sapphire 1 ea
 #
 1222#
-4 Oridecon
-60 Steel
-1 Zircon
+Oridecon 4 ea
+Steel 60 ea
+Zircon 1 ea
 #
 1116#
-35 Iron
-15 Horrendous Mouth
+Iron 35 ea
+Horrendous Mouth 15 ea
 #
 1151#
-25 Steel
-20 Decayed Nail
+Steel 25 ea
+Decayed Nail 20 ea
 #
 1154#
-45 Steel
+Steel 45 ea
 #
 1157#
-12 Oridecon
-10 Steel
+Oridecon 12 ea
+Steel 10 ea
 #
 1160#
-12 Oridecon
-20 Steel
+Oridecon 12 ea
+Steel 20 ea
 #
 1163#
-16 Oridecon
-20 Steel
-1 Diamond
+Oridecon 16 ea
+Steel 20 ea
+Diamond 1 ea
 #
 1301#
-10 Iron
+Iron 10 ea
 #
 1351#
-110 Iron
+Iron 110 ea
 #
 1354#
-30 Steel
+Steel 30 ea
 #
 1357#
-4 Oridecon
-20 Steel
-30 Orc's Fang
+Oridecon 4 ea
+Steel 20 ea
+Orc's Fang 30 ea
 #
 1360#
-8 Oridecon
-10 Steel
-1 Amethyst
+Oridecon 8 ea
+Steel 10 ea
+Amethyst 1 ea
 #
 1501#
-3 Iron
+Iron 3 ea
 #
 1504#
-30 Iron
+Iron 30 ea
 #
 1507#
-20 Steel
+Steel 20 ea
 #
 1510#
-33 Steel
+Steel 33 ea
 #
 1519#
-45 Steel
+Steel 45 ea
 #
 1513#
-85 Steel
-1 Diamond
+Steel 85 ea
+Diamond 1 ea
 #
 1516#
-100 Steel
-20 Sharp Scale
+Steel 100 ea
+Sharp scale 20 ea
 #
 1522#
-120  Steel
-1 Orcish Voucher
+Steel 120 ea
+Heroic Emblem 1 ea
 #
 1401#
-3 Iron
+Iron 3 ea
 #
 1404#
-35 Iron
+Iron 35 ea
 #
 1407#
-70 Iron
+Iron 70 ea
 #
 1451#
-25 Steel
+Steel 25 ea
 #
 1454#
-40 Steel
+Steel 40 ea
 #
 1457#
-55 Steel
+Steel 55 ea
 #
 1460#
-8 Oridecon
-10 Steel
-5 Aquamarine
+Oridecon 8 ea
+Steel 10 ea
+Aquamarine 5 ea
 #
 1463#
-12 Oridecon
-10 Steel
+Oridecon 3 ea
+Steel 10 ea
 #
 1410#
-12 Oridecon
-3 Ruby
-2 Evil Horn
+Oridecon 12 ea
+Ruby 3 ea
+Evil Horn 2 ea
 #
 1801#
-160 Iron
-1 Pearl
+Iron 160 ea
+Pearl 1 ea
 #
 1803#
-50 Steel
+Steel 50 ea
 #
 1805#
-65 Steel
+Steel 65 ea
 #
 1807#
-4 Oridecon
-10 Ruby
+Oridecon 4 ea
+Ruby 10 ea
 #
 1809#
-8 Oridecon
-10 Topaz
+Oridecon 8 ea
+Topaz 10 ea
 #
 1811#
-4 Oridecon
-10 Opal
+Oridecon 4 ea
+Opal 10 ea
 #
 7135#
-1 Alchol
-1 Fabric
-1 Empty Bottle
+Alchol 1 ea
+Fabric 1 ea
+Empty Bottle 1 ea
 #
 7136#
-1 Immortal Heart
-1 Empty Bottle
+Immortal Heart 1 ea
+Empty Bottle 1 ea
 #
 7137#
-2 Maneater Blossom
-1 Empty Bottle
+Maneater Blossom 2 ea
+Empty Bottle 1 ea
 #
 7138#
-1 Detonator
-1 Tendon
-1 Empty Bottle
+Detonator 1 ea
+Tendon 1 ea
+Empty Bottle 1 ea
 #
 7139#
-1 Alchol
-1 Zenorc's Fang
-1 Heart of Mermaid
-1 Empty Bottle
+Alchol 1 ea
+Zenorc's Fang 1 ea
+Heart of Mermaid 1 ea
+Empty Bottle 1 ea
 #
 545#
-1 Red Potion
-1 Empty Testtube
-1 Cactus Needle
+Red Potion 1 ea
+Empty Test Tube 1 ea
+Cactus Needle 1 ea
 #
 546#
-1 Yellow Potion
-1 Empty Testtube
-1 Mole Whiskers
+Yellow Potion 1 ea
+Empty Test Tube 1 ea
+Mole Whiskers 1 ea
 #
 547#
-1 White Potion
-1 Empty Testtube
-1 Witched Starsand
+White Potion 1 ea
+Empty Test Tube 1 ea
+Witched Starsand 1 ea
 #
 501#
-1 Red Herb
-1 Empty Potion Bottle
+Red Herb 1 ea
+Empty Potion Bottle 1 ea
 #
 503#
-1 Yellow Herb
-1 Empty Potion Bottle
+Yellow Herb 1 ea
+Empty Potion Bottle 1 ea
 #
 504#
-1 White Herb
-1 Empty Potion Bottle
+White Herb 1 ea
+Empty Potion Bottle 1 ea
 #
 970#
-5 Stem
-1 Empty Bottle
-5 Poison Spore
-1 Empty Testtube
+Stem 5 ea
+Empty Bottle 1 ea
+Poison Spore 5 ea
+Empty Test Tube 1 ea
 #
 505#
-1 Blue Herb
-1 Scell
-1 Empty Potion Bottle
+Blue Herb 1 ea
+Cell 1 ea
+Empty Potion Bottle 1 ea
 #
 605#
-1 Ment
-1 Alchol
-1 Empty Bottle
+Ment 1 ea
+Alchol 1 ea
+Empty Bottle 1 ea
 #
 606#
-1 Aloe
-1 Honey
-1 Empty Bottle
+Aloe 1 ea
+Honey 1 ea
+Empty Bottle 1 ea
 #
-12118#
-2 Frills
-1 Red Gemstone
-1 Empty Potion Bottle
-#
-12119#
-3 Hearts of Mermaid
-1 Blue Gemstone
-1 Empty Potion Bottle
-#
-12120#
-2 Large Jellopies
-1 Yellow Gemstone
-1 Empty Potion Bottle
-#
-12121#
-3 Powders of Butterfly
-1 Blue Gemstone
-1 Empty Potion Bottle
-#
-7142#
-1 Morning Dew of Yggdrasil
-1 Seed of Life
-1 Glass Tube
+100371#
+Seed of Life 1 ea
+Yellow Herb 1 ea
+Empty Bottle 1 ea
 #

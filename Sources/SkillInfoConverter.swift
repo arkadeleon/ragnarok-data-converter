@@ -20,25 +20,26 @@ struct SkillInfoConverter {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let jobinheritlistURL = input.appendingPathComponentsIgnoringCase("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "jobinheritlist.lub")
+        let jobinheritlistURL = FileManager.default.localizedFileURL(in: input, for: locale, pathComponents: ["data", "luafiles514", "lua files", "skillinfoz", "jobinheritlist.lub"])
         context.loadData(at: jobinheritlistURL)
 
-        let skillidURL = input.appendingPathComponentsIgnoringCase("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "skillid.lub")
+        let skillidURL = FileManager.default.localizedFileURL(in: input, for: locale, pathComponents: ["data", "luafiles514", "lua files", "skillinfoz", "skillid.lub"])
         context.loadData(at: skillidURL)
 
         // Skill IDs renamed in kRO that older localized files still reference.
+        // Only fill in the old name when the loaded table doesn't define it itself.
         try context.evaluate("""
-        SKID.BA_FROSTJOKE = SKID.BA_FROSTJOKER
-        SKID.MH_SONIC_CRAW = SKID.MH_SONIC_CLAW
+        SKID.BA_FROSTJOKE = SKID.BA_FROSTJOKE or SKID.BA_FROSTJOKER
+        SKID.MH_SONIC_CRAW = SKID.MH_SONIC_CRAW or SKID.MH_SONIC_CLAW
         """)
 
-        let skillinfolistURL = input.appendingPathComponentsIgnoringCase(locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skillinfolist.lub")
+        let skillinfolistURL = input.appendingPathComponentsIgnoringCase([locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skillinfolist.lub"])
         context.loadData(at: skillinfolistURL)
 
-        let skilldescriptURL = input.appendingPathComponentsIgnoringCase(locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skilldescript.lub")
+        let skilldescriptURL = input.appendingPathComponentsIgnoringCase([locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skilldescript.lub"])
         context.loadData(at: skilldescriptURL)
 
-        let skillinfofURL = input.appendingPathComponentsIgnoringCase("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "skillinfo_f.lub")
+        let skillinfofURL = FileManager.default.localizedFileURL(in: input, for: locale, pathComponents: ["data", "luafiles514", "lua files", "skillinfoz", "skillinfo_f.lub"])
         context.loadData(at: skillinfofURL)
 
         try context.evaluate("""
@@ -81,7 +82,7 @@ struct SkillInfoConverter {
         let encoder = JSONEncoder()
         encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
         let jsonData = try encoder.encode(skillInfos)
-        let jsonURL = output.appendingPathComponents(locale.path, "SkillInfo.json")
+        let jsonURL = output.appendingPathComponents([locale.path, "SkillInfo.json"])
 
         try FileManager.default.createDirectory(at: jsonURL.deletingLastPathComponent(), withIntermediateDirectories: true)
         try jsonData.write(to: jsonURL)
