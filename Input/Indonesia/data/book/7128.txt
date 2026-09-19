@@ -1,19 +1,17 @@
 %faf0e6
-^000088Alchemy Basics: Bottle Grenade Creation^000000
+^000088การแปรธาตุขั้นพื้นฐาน : การสร้าง Bottle Grenade^000000
 
 
-----------------Preface--------------------
+----------------คำนำ--------------------
 
-Buku ini berisikan tentang proses pembuatan alcohol secara detail
-yang biasa digunakan untuk umum dengan cara yang berbeda
-setelah mereka mendapatkan akses untuk itu. The
-Kemiliteran menggunakan proses pembentukan alcohol
-untuk membuat proses produksi Bottle Grenade
-secara detail dalam buku ini.
-Bottle Grenades telah dikembangkan untuk keperluan militer:
-Informasi ini  dianggap sangat berbahaya,Jadi diharapkan untuk tidak
-menerbitkan buku ini ke publik demi mencegah
-bencana serupa dengan kegagalan alkohol.
+หนังสือที่บันทึกข้อมูลกระบวนการ
+ผลิต Alcohol เป็นวิธีที่ยอมรับกันอย่างแพร่หลาย
+กระบวนการผลิตนี้ได้พัฒนาการผลิต Alcohol 
+ให้เป็น Bottle Granade ซึ่งสามารถ
+ใช้ในยุทธวิธีทางการทหารได้ ข้อมูลในหนังสือเล่มนี้
+ค่อนข้างจะอันตรายมาก ดังนั้นได้โปรดเก็บรักษา
+หนังสือเล่มนี้ไว้ให้ดี เพื่อเป็นการปกป้องข้อมูลทาง
+การทหารไม่ให้รั่วไหลออกไปสู่สาธารณะชนได้  
 
 ------------------------------------------
 
@@ -21,20 +19,18 @@ bencana serupa dengan kegagalan alkohol.
 
 What is a ^0000ffBottle Grenade^000000?
 
-Dalambentuk sederhananya, sebuah Bottle Grenade
-adalah sebuah botol kaca yang mengandung bensin.
+Bottle Grenade อธิบายง่ายๆ ก็คือ 
+ขวดแก้วที่บรรจุเชื้อเพลิงติดไฟเอาไว้นั่นเอง
 
 
 
-Ingredients: ^4b00821 Alcohol, 1 Fabric, 1 Empty Bottle^000000
+ส่วนผสม : ^4b00821 Alcohol, 1 Fabric, 1 Empty Bottle^000000
 
-Pengarahan: 
-berhati-hati menuangkan alcohol kedalam mangkuk obat-obatan, dan
-mengekspose mangkuk itu di udara untuk oksidasi. Isi botol yang kosong
-dengan alcohol yang teroksidasi, lalu masukkan fabric kedalam botol
-sehingga setengah fabric terendam kedalam alcohol,
-dan sisa setengahnya menempel keluar dari botol. ikatkan simpul
-di depan tutup botol untuk memastikan bahwa alkohol tidak akan tumpah.
-Simpan buku ini denganmu dan pastikan ketika kamu sedang menyiapkan bahan
-dan gunakan skill potion sehingga kamu bisa membuat Bottle Grenades
-
+วิธีทำ : 
+เท Alchol ลงในถ้วยผสมยาด้วยความระมัดระวัง
+วางทิ้งไว้ให้เกิดการรวมตัวกับอ็อกซิเจนในอากาศ
+จากนั้นเท Alcohol ที่รวมตัวแล้วลงในขวดเปล่า
+นำผ้า Fabric จุ่มลงไปในขวดครึ่งเดียวโดยให้
+ปลายผ้าโผล่ออกมานอกขวดและมัดเอาไว้ให้แน่น
+ไม่ให้ Alcohol หกออกมาได้ คุณต้องพกหนังสือนี้ติดตัว
+ขณะที่คุณทำ Bottle Granade ด้วย

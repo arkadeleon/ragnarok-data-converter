@@ -24,103 +24,160 @@
     "displayName" : "Guild War Arena"
   },
   "06guild_r" : {
-    "displayName" : "Ruang Tunggu - Guild War Arena"
+    "displayName" : "Guild War Arena - Waiting Room"
   },
   "1@cash" : {
-    "displayName" : "Gua Octopus"
+    "displayName" : "Octopus Cave"
   },
   "1@cata" : {
-    "displayName" : "Catacom"
+    "displayName" : "Catacomb"
+  },
+  "1@def01" : {
+    "displayName" : "Wave Mode-Forest"
+  },
+  "1@dth1" : {
+    "displayName" : "Bios Island"
+  },
+  "1@dth2" : {
+    "displayName" : "Bios Island"
+  },
+  "1@dth3" : {
+    "displayName" : "Bios Island"
+  },
+  "1@ecl" : {
+    "displayName" : "Eclage Interior"
+  },
+  "1@eom" : {
+    "displayName" : "Temple of Demon God"
+  },
+  "1@face" : {
+    "displayName" : "Face Worm's Nest"
+  },
+  "1@ffp" : {
+    "displayName" : "Remnant Hideout"
+  },
+  "1@gat" : {
+    "displayName" : "Inside the Suspicious Portal"
+  },
+  "1@ge_st" : {
+    "displayName" : "Geffen Magic Tournament"
+  },
+  "1@gef" : {
+    "displayName" : "Geffen Magic Tournament"
+  },
+  "1@gef_in" : {
+    "displayName" : "Geffen Magic Tournament"
+  },
+  "1@gl_k" : {
+    "displayName" : "Old Knight 1F"
+  },
+  "1@gl_kh" : {
+    "displayName" : "Nightmare Old Glast Heim 1F"
+  },
+  "1@jtb" : {
+    "displayName" : "Jitterbug Knightmare"
+  },
+  "1@lab" : {
+    "displayName" : "Main Laboratory"
   },
   "1@lhz" : {
-    "displayName" : "Wolfchev's Lab"
+    "displayName" : "Arcade Dungeon"
   },
   "1@ma_b" : {
-    "displayName" : "Tempat Persembunyian Bakonawa"
+    "displayName" : "Bakonawa Hideout"
   },
   "1@ma_c" : {
-    "displayName" : "Gua Buwaya"
+    "displayName" : "Buwaya Cave"
   },
   "1@ma_h" : {
-    "displayName" : "Bangungot Hospital 2F"
+    "displayName" : "Raid Dungeon"
+  },
+  "1@mcd" : {
+    "displayName" : "Charleston's Factory"
   },
   "1@mist" : {
-    "displayName" : "Labyrinth in the mistwood"
+    "displayName" : "The Hazy Maze Forest"
   },
   "1@nyd" : {
-    "displayName" : "Gua Nydhogg"
+    "displayName" : "Nidhoggur's Nest"
   },
   "1@orcs" : {
-    "displayName" : "Memori Gua Orc"
+    "displayName" : "Subterranean Orc Cave"
   },
   "1@pump" : {
-    "displayName" : "Culvert Dungeon"
+    "displayName" : "Culvert"
+  },
+  "1@rev" : {
+    "displayName" : "Poring Adventure"
+  },
+  "1@sara" : {
+    "displayName" : "Farming Dungeon"
+  },
+  "1@spa" : {
+    "displayName" : "Ghost Palace"
+  },
+  "1@tnm1" : {
+    "displayName" : "Top Floor of Devil Tower"
+  },
+  "1@tnm2" : {
+    "displayName" : "Very Top Floor of Devil Tower"
+  },
+  "1@tnm3" : {
+    "displayName" : "Morroc Castle Basement"
   },
   "1@tower" : {
     "displayName" : "Endless Tower"
   },
+  "1@tre" : {
+    "displayName" : "Sunken Ship"
+  },
+  "1@uns" : {
+    "displayName" : "The Last Chamber"
+  },
+  "1@xm_d" : {
+    "displayName" : "Horror Toy Factory"
+  },
   "2007rwc_01" : {
-    "displayName" : "Arena 1"
+    "displayName" : "2007 USRC Arena"
   },
   "2007rwc_02" : {
-    "displayName" : "Arena 2"
+    "displayName" : "2007 USRC Arena"
   },
   "2007rwc_03" : {
-    "displayName" : "Arena 3"
+    "displayName" : "2007 USRC Arena"
   },
   "2007rwc_04" : {
-    "displayName" : "Arena 4"
+    "displayName" : "2007 USRC Arena"
   },
   "2007rwc_05" : {
-    "displayName" : "Arena 5"
+    "displayName" : "2007 USRC Arena"
   },
   "2007rwc_06" : {
-    "displayName" : "Arena 6"
+    "displayName" : "2007 USRC Arena"
   },
   "2007rwc_07" : {
-    "displayName" : "Arena 7"
+    "displayName" : "2007 USRC Arena"
   },
   "2007rwc_08" : {
-    "displayName" : "Arena 8"
-  },
-  "2007rwc_r" : {
-    "displayName" : "Area RIC"
-  },
-  "2010rwc_01" : {
-    "displayName" : "Arena 1"
-  },
-  "2010rwc_02" : {
-    "displayName" : "Arena 2"
-  },
-  "2010rwc_03" : {
-    "displayName" : "Arena 3"
-  },
-  "2010rwc_04" : {
-    "displayName" : "Arena 4"
-  },
-  "2010rwc_05" : {
-    "displayName" : "Arena 5"
-  },
-  "2010rwc_06" : {
-    "displayName" : "Arena 6"
-  },
-  "2010rwc_07" : {
-    "displayName" : "Arena 7"
-  },
-  "2010rwc_08" : {
-    "displayName" : "Arena 8"
+    "displayName" : "2007 USRC Arena"
   },
   "2@cata" : {
     "displayName" : "Sealed Shrine"
   },
+  "2@gl_k" : {
+    "displayName" : "Old Knight 2F"
+  },
+  "2@gl_kh" : {
+    "displayName" : "Nightmare Old Glast Heim 2F"
+  },
   "2@nyd" : {
-    "displayName" : "Gua Nydhogg"
+    "displayName" : "Nidhoggur's Nest"
   },
   "2@orcs" : {
-    "displayName" : "Memori Gua Orc"
+    "displayName" : "Subterranean Orc Cave"
   },
   "2@pump" : {
-    "displayName" : "Culvert Dungeon2"
+    "displayName" : "Culvert"
   },
   "2@tower" : {
     "displayName" : "Endless Tower"
@@ -137,14 +194,29 @@
   "6@tower" : {
     "displayName" : "Endless Tower(Unknown Area)"
   },
+  "abbey01" : {
+    "displayName" : "Cursed Monastery 1F"
+  },
+  "abbey02" : {
+    "displayName" : "Cursed Monastery B1F"
+  },
+  "abbey03" : {
+    "displayName" : "Cursed Monastery B2F"
+  },
   "abyss_01" : {
-    "displayName" : "Abyss Lake Underground Cave"
+    "displayName" : "Abyss Lake Underground Cave 1F"
   },
   "abyss_02" : {
-    "displayName" : "Abyss Lake Underground Cave"
+    "displayName" : "Abyss Lake Underground Cave 2F"
   },
   "abyss_03" : {
-    "displayName" : "Abyss Lake Underground Cave"
+    "displayName" : "Abyss Lake Underground Cave 3F"
+  },
+  "abyss_03_a" : {
+    "displayName" : "Abyss Lake Underground Cave 3F (A)"
+  },
+  "abyss_03_b" : {
+    "displayName" : "Abyss Lake Underground Cave 3F (B)"
   },
   "airplane" : {
     "displayName" : "Airship"
@@ -153,22 +225,22 @@
     "displayName" : "Airship"
   },
   "airport" : {
-    "displayName" : "Airport"
+    "displayName" : "Einbech Airport"
   },
   "alb2trea" : {
-    "displayName" : "Pulau Alberta"
+    "displayName" : "Alberta Island"
   },
   "alb_ship" : {
-    "displayName" : "Kapal Alberta"
+    "displayName" : "Alberta Ship"
   },
   "alberta" : {
     "displayName" : "Alberta"
   },
   "alberta_in" : {
-    "displayName" : "Dalam Alberta"
+    "displayName" : "Inside Alberta"
   },
   "alde_alche" : {
-    "displayName" : "Perkumpulan Alchemist"
+    "displayName" : "Alchemist Realm"
   },
   "alde_dun01" : {
     "displayName" : "Clock Tower B1F"
@@ -183,79 +255,121 @@
     "displayName" : "Clock Tower B4F"
   },
   "alde_gld" : {
-    "displayName" : "Luina, Satelit Kota Al De Baran"
+    "displayName" : "Luina the satellite of Al De Baran"
   },
   "aldeba_in" : {
-    "displayName" : "Dalam Al De Baran"
+    "displayName" : "Inside Al De Baran"
   },
   "aldebaran" : {
     "displayName" : "Al De Baran"
   },
+  "aldeg_c01" : {
+    "displayName" : "Neuschwanstein_"
+  },
+  "aldeg_c02" : {
+    "displayName" : "Hohenschwangau_"
+  },
+  "aldeg_c03" : {
+    "displayName" : "Nuernberg_"
+  },
+  "aldeg_c04" : {
+    "displayName" : "Wurzburg_"
+  },
+  "aldeg_c05" : {
+    "displayName" : "Rothenburg_"
+  },
   "aldeg_cas01" : {
-    "displayName" : "Guild Luina"
+    "displayName" : "Neuschwanstein"
   },
   "aldeg_cas02" : {
-    "displayName" : "Guild Luina"
+    "displayName" : "Hohenschwangau"
   },
   "aldeg_cas03" : {
-    "displayName" : "Guild Luina"
+    "displayName" : "Nuernberg"
   },
   "aldeg_cas04" : {
-    "displayName" : "Guild Luina"
+    "displayName" : "Wurzburg"
   },
   "aldeg_cas05" : {
-    "displayName" : "Guild Luina"
+    "displayName" : "Rothenburg"
   },
   "ama_dun01" : {
-    "displayName" : "Labirin Tatami"
+    "displayName" : "Tatami Maze"
   },
   "ama_dun02" : {
-    "displayName" : "Hutan bawah tanah"
+    "displayName" : "Battle Field in the Underground Forest"
   },
   "ama_dun03" : {
-    "displayName" : "Kuil bawah tanah"
+    "displayName" : "Amatsu Underground Shrine"
   },
   "ama_fild01" : {
-    "displayName" : "Daratan Amatsu"
+    "displayName" : "Amatsu Field"
   },
   "ama_in01" : {
-    "displayName" : "Dalam Amatsu"
+    "displayName" : "Inside Amatsu"
   },
   "ama_in02" : {
-    "displayName" : "Dalam TenguGak"
+    "displayName" : "Inside Himezi Castle"
   },
   "ama_test" : {
-    "displayName" : "Daratan Momotaro Field Trip"
+    "displayName" : "Momotaro Experience Place"
   },
   "amatsu" : {
-    "displayName" : "Amatsu, Pulau Tengu"
+    "displayName" : "Amatsu, the Land of Destiny"
   },
   "anthell01" : {
-    "displayName" : "Neraka Semut"
+    "displayName" : "Ant Hell 1F"
   },
   "anthell02" : {
-    "displayName" : "Neraka Semut"
+    "displayName" : "Ant Hell 2F"
   },
   "arena_room" : {
-    "displayName" : "Ruang Tunggu"
+    "displayName" : "Waiting room"
+  },
+  "arena_wait1" : {
+    "displayName" : "GvG Waiting Room A"
+  },
+  "arena_wait2" : {
+    "displayName" : "GvG Waiting Room B"
+  },
+  "aru_gld" : {
+    "displayName" : "Valfreyja"
+  },
+  "arug_cas01" : {
+    "displayName" : "Mardol"
+  },
+  "arug_cas02" : {
+    "displayName" : "Scheit"
+  },
+  "arug_cas03" : {
+    "displayName" : "Horn"
+  },
+  "arug_cas04" : {
+    "displayName" : "Gepun"
+  },
+  "arug_cas05" : {
+    "displayName" : "Banadis"
   },
   "arug_dun01" : {
-    "displayName" : "Guild Dungeon"
+    "displayName" : "Subterranean Guild Dungeon"
   },
   "arug_que01" : {
-    "displayName" : "Morestone"
+    "displayName" : "Morestone Prairie"
   },
   "auction_01" : {
-    "displayName" : "Rumah Lelang"
+    "displayName" : "Auction Hall"
   },
   "auction_02" : {
-    "displayName" : "Rumah Lealng"
+    "displayName" : "Auction Hall"
+  },
+  "auction_03" : {
+    "displayName" : "Kafra Mail Annex"
   },
   "ayo_dun01" : {
     "displayName" : "Ancient Shrine Maze"
   },
   "ayo_dun02" : {
-    "displayName" : "Dalam Ancient Shrine"
+    "displayName" : "Inside Ancient Shrine"
   },
   "ayo_fild01" : {
     "displayName" : "Ayotaya Field"
@@ -264,67 +378,85 @@
     "displayName" : "Ayotaya Field"
   },
   "ayo_in01" : {
-    "displayName" : "Dalam Ayotaya"
+    "displayName" : "Inside Ayotaya"
   },
   "ayo_in02" : {
-    "displayName" : "Dalam Ayotaya"
+    "displayName" : "Inside Ayotaya"
   },
   "ayothaya" : {
     "displayName" : "Ayotaya"
   },
+  "ayothaya_e" : {
+    "displayName" : "Ayothaya Excavation Site"
+  },
+  "balaplari" : {
+    "displayName" : "Balap Lari"
+  },
   "bat_a01" : {
-    "displayName" : "Tierra Valley"
+    "displayName" : "Tierra Canyon"
   },
   "bat_a02" : {
-    "displayName" : "Tierra Valley"
+    "displayName" : "Tierra Canyon"
   },
   "bat_b01" : {
-    "displayName" : "Flavius"
+    "displayName" : "Flavian"
   },
   "bat_b02" : {
-    "displayName" : "Flavius"
+    "displayName" : "Flavian"
   },
   "bat_c01" : {
-    "displayName" : "Arena Krieger von Midgards"
+    "displayName" : "Krieger von Midgards"
   },
   "bat_c02" : {
-    "displayName" : "Arena Krieger von Midgards"
+    "displayName" : "Krieger von Midgards"
   },
   "bat_c03" : {
-    "displayName" : "Arena Krieger von Midgards"
+    "displayName" : "Krieger von Midgards"
   },
   "bat_room" : {
-    "displayName" : "Ruang Tunggu BOE"
+    "displayName" : "Battle Field Waiting Room"
   },
   "beach_dun" : {
-    "displayName" : "Karu, Goa Barat"
+    "displayName" : "Karu, the West Cave"
   },
   "beach_dun2" : {
-    "displayName" : "Ruande, Goa Utara"
+    "displayName" : "Ruande, the North Cave"
   },
   "beach_dun3" : {
-    "displayName" : "Mao, Goa Timur"
+    "displayName" : "Mao, the East Cave"
   },
   "bif_fild01" : {
-    "displayName" : "Bifrost South"
+    "displayName" : "Bifrost Bridge (South)"
   },
   "bif_fild02" : {
-    "displayName" : "Bifrost North"
+    "displayName" : "Bifrost Bridge (North)"
+  },
+  "bossnia_01" : {
+    "displayName" : "Bossnia"
+  },
+  "bossnia_02" : {
+    "displayName" : "Bossnia"
+  },
+  "bossnia_03" : {
+    "displayName" : "Bossnia"
+  },
+  "bossnia_04" : {
+    "displayName" : "Bossnia"
   },
   "bra_dun01" : {
-    "displayName" : "Pintu masuk Gua Air terjun"
+    "displayName" : "Beyond the Waterfall"
   },
   "bra_dun02" : {
-    "displayName" : "Di dalam Gua Air terjun"
+    "displayName" : "Beyond the Waterfall"
   },
   "bra_fild01" : {
-    "displayName" : "Kota Brasilis"
+    "displayName" : "Brasilis Field"
   },
   "bra_in01" : {
-    "displayName" : "Dalam Brasilis"
+    "displayName" : "Inside Brasilis"
   },
   "brasilis" : {
-    "displayName" : "Kota Brasilis"
+    "displayName" : "Brasilis"
   },
   "c_tower1" : {
     "displayName" : "Clock Tower 1F"
@@ -332,74 +464,155 @@
   "c_tower2" : {
     "displayName" : "Clock Tower 2F"
   },
+  "c_tower2_" : {
+    "displayName" : "Clock Tower of Twisted TimeFloor 2"
+  },
   "c_tower3" : {
     "displayName" : "Clock Tower 3F"
+  },
+  "c_tower3_" : {
+    "displayName" : "Clock Tower of Twisted TimeFloor 3"
   },
   "c_tower4" : {
     "displayName" : "Clock Tower 4F"
   },
+  "c_tw3_a" : {
+    "displayName" : "Clock Tower of Twisted TimeFloor 3 (A)"
+  },
+  "c_tw3_b" : {
+    "displayName" : "Clock Tower of Twisted TimeFloor 3 (B)"
+  },
+  "cave" : {
+    "displayName" : "Cave Village"
+  },
   "cmd_fild01" : {
-    "displayName" : "Hutan Papuchicha"
+    "displayName" : "Papuchicha Forest"
   },
   "cmd_fild02" : {
-    "displayName" : "Pantai Kokomo"
+    "displayName" : "Kokomo beach"
   },
   "cmd_fild03" : {
-    "displayName" : "Rawa Zenhai"
+    "displayName" : "Zenhai Marsh"
   },
   "cmd_fild04" : {
-    "displayName" : "Pantai Kokomo"
+    "displayName" : "Kokomo beach"
   },
   "cmd_fild05" : {
-    "displayName" : "Perbatasan hutan Papuchica"
+    "displayName" : "Border of Papuchica forest"
   },
   "cmd_fild06" : {
-    "displayName" : "Benteng Saint Darmain(Barat)"
+    "displayName" : "Fortress Saint Darmain (West)"
   },
   "cmd_fild07" : {
-    "displayName" : "Pulau Mercusuar,Pharos"
+    "displayName" : "Beacon Island, Pharos"
   },
   "cmd_fild08" : {
-    "displayName" : "Benteng Saint Darmain(Timur)"
+    "displayName" : "Fortress Saint Darmain (East)"
   },
   "cmd_fild09" : {
-    "displayName" : "Benteng Saint Darmain(Selatan)"
+    "displayName" : "Fortress Saint Darmain (South)"
   },
   "cmd_in01" : {
-    "displayName" : "Dalam Comodo"
+    "displayName" : "Inside Comodo"
   },
   "cmd_in02" : {
-    "displayName" : "Dalam Comodo"
+    "displayName" : "Inside Comodo"
   },
   "comodo" : {
-    "displayName" : "Pulau pantai, Comodo"
+    "displayName" : "Beach town, Comodo"
+  },
+  "dali" : {
+    "displayName" : "Crack of Dimension"
+  },
+  "dali02" : {
+    "displayName" : "Crack of Dimension"
+  },
+  "dew_dun01" : {
+    "displayName" : "Krakatau Volcanic Island"
+  },
+  "dew_dun02" : {
+    "displayName" : "Istana Cave"
+  },
+  "dew_fild01" : {
+    "displayName" : "Dewata Field - Jaty Tribe Town"
+  },
+  "dew_in01" : {
+    "displayName" : "Inside Jaty Tribe Town"
+  },
+  "dewata" : {
+    "displayName" : "Dewata"
+  },
+  "dic_d02_a" : {
+    "displayName" : "Scaraba Hall (A)"
+  },
+  "dic_d02_b" : {
+    "displayName" : "Scaraba Hall (B)"
   },
   "dic_dun01" : {
-    "displayName" : "Lorong Pertambangan Dicastes"
+    "displayName" : "Kamidal Tunnel"
   },
   "dic_dun02" : {
-    "displayName" : "Dungeon Scraba"
+    "displayName" : "Scaraba Hall"
   },
   "dic_dun03" : {
-    "displayName" : "Dungeon Scraba"
+    "displayName" : "Skarava hall"
   },
   "dic_fild01" : {
-    "displayName" : "Kaki Gunung Kamidal"
+    "displayName" : "Outskirts of Kamidal Mountain"
   },
   "dic_fild02" : {
-    "displayName" : "Kaki Gunung Kamidal"
+    "displayName" : "Outskirts of Kamidal Mountain"
   },
   "dic_in01" : {
-    "displayName" : "Dalam Dicastes"
+    "displayName" : "Inside of El Dicastes"
   },
   "dicastes01" : {
-    "displayName" : "El Dicastes, Ibukota Sapha"
+    "displayName" : "El Dicastes, the Sapha Capital"
   },
   "dicastes02" : {
-    "displayName" : "Hutan Brumbeld Jorhi"
+    "displayName" : "Dicastes Diel"
   },
   "e_tower" : {
     "displayName" : "Misty Island"
+  },
+  "ecl_fild01" : {
+    "displayName" : "Blooming Flower Land"
+  },
+  "ecl_hub01" : {
+    "displayName" : "Eclage Perimeter"
+  },
+  "ecl_in01" : {
+    "displayName" : "Inside of Eclage"
+  },
+  "ecl_in02" : {
+    "displayName" : "Inside of Eclage"
+  },
+  "ecl_in03" : {
+    "displayName" : "Inside of Eclage"
+  },
+  "ecl_in04" : {
+    "displayName" : "Inside of Eclage"
+  },
+  "ecl_tdun01" : {
+    "displayName" : "Bifrost Tower 1F"
+  },
+  "ecl_tdun02" : {
+    "displayName" : "Bifrost Tower 2F"
+  },
+  "ecl_tdun03" : {
+    "displayName" : "Bifrost Tower 3F"
+  },
+  "ecl_tdun04" : {
+    "displayName" : "Bifrost Tower 4F"
+  },
+  "eclage" : {
+    "displayName" : "Eclage"
+  },
+  "ecltd03_a" : {
+    "displayName" : "Bifrost Tower 3F (A)"
+  },
+  "ecltd03_b" : {
+    "displayName" : "Bifrost Tower 3F (B)"
   },
   "ein_dun01" : {
     "displayName" : "Mine Dungeon"
@@ -438,16 +651,28 @@
     "displayName" : "Einbroch Field"
   },
   "ein_in01" : {
-    "displayName" : "Dalam Einbroch"
+    "displayName" : "Inside Einbroch"
   },
   "einbech" : {
-    "displayName" : "Einbech, kota pertambangan"
+    "displayName" : "Einbech, the mining village"
   },
   "einbroch" : {
-    "displayName" : "Einbroch, Kota Industri"
+    "displayName" : "Einbroch, the city of steel"
+  },
+  "eque_qsch01" : {
+    "displayName" : "Okolnir"
+  },
+  "evt_hello" : {
+    "displayName" : "Dead Angel's landing"
+  },
+  "evt_ultang" : {
+    "displayName" : "Special Dungeon - Event CM"
+  },
+  "evt_xmas" : {
+    "displayName" : "Toy Factory"
   },
   "evt_zombie" : {
-    "displayName" : "Run_From_Zombie"
+    "displayName" : "Run_From_Zombies"
   },
   "force_1-1" : {
     "displayName" : "Time Limit Fight"
@@ -477,64 +702,64 @@
     "displayName" : "Time Limit Fight"
   },
   "gef_dun00" : {
-    "displayName" : "Dungeon Geffen"
+    "displayName" : "Geffen Dungeon 1F"
   },
   "gef_dun01" : {
-    "displayName" : "Dungeon Geffen"
+    "displayName" : "Geffen Dungeon 2F"
   },
   "gef_dun02" : {
-    "displayName" : "Geffenia"
+    "displayName" : "Geffen Dungeon 3F"
   },
   "gef_dun03" : {
-    "displayName" : "Geffenia"
+    "displayName" : "Geffenia Dungeon"
   },
   "gef_fild00" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Geffen Field"
   },
   "gef_fild01" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Geffen Field"
   },
   "gef_fild02" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Geffen Field"
   },
   "gef_fild03" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Geffen Field"
   },
   "gef_fild04" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Geffen Field"
   },
   "gef_fild05" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Gypsy Village"
   },
   "gef_fild06" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Geffen Field"
   },
   "gef_fild07" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Geffen Field"
   },
   "gef_fild08" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Geffen Field"
   },
   "gef_fild09" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Geffen Field"
   },
   "gef_fild10" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Orc Village"
   },
   "gef_fild11" : {
-    "displayName" : "Daratan Geffen"
+    "displayName" : "Geffen Field"
   },
   "gef_fild12" : {
-    "displayName" : "Hutan Kordt"
+    "displayName" : "Kordt Forest"
   },
   "gef_fild13" : {
     "displayName" : "Britoniah"
   },
   "gef_fild14" : {
-    "displayName" : "Desa Barat Orc"
+    "displayName" : "West Orc Village"
   },
   "gef_tower" : {
-    "displayName" : "Menara Geffen"
+    "displayName" : "Geffen Tower"
   },
   "gefenia01" : {
     "displayName" : "Geffenia"
@@ -552,22 +777,37 @@
     "displayName" : "Geffen"
   },
   "geffen_in" : {
-    "displayName" : "Dalam Geffen"
+    "displayName" : "Inside Geffen"
+  },
+  "gefg_c01" : {
+    "displayName" : "Leprion_"
+  },
+  "gefg_c02" : {
+    "displayName" : "Jyolbriger_"
+  },
+  "gefg_c03" : {
+    "displayName" : "Yssnelf_"
+  },
+  "gefg_c04" : {
+    "displayName" : "Bergel_"
+  },
+  "gefg_c05" : {
+    "displayName" : "Melcedez_"
   },
   "gefg_cas01" : {
-    "displayName" : "Guild Britoniah"
+    "displayName" : "Leprion"
   },
   "gefg_cas02" : {
-    "displayName" : "Guild Britoniah"
+    "displayName" : "Jyolbriger"
   },
   "gefg_cas03" : {
-    "displayName" : "Guild Britoniah"
+    "displayName" : "Yssnelf"
   },
   "gefg_cas04" : {
-    "displayName" : "Guild Britoniah"
+    "displayName" : "Bergel"
   },
   "gefg_cas05" : {
-    "displayName" : "Guild Britoniah"
+    "displayName" : "Melcedez"
   },
   "gl_cas01" : {
     "displayName" : "Glast Heim 1F"
@@ -575,128 +815,149 @@
   "gl_cas02" : {
     "displayName" : "Glast Heim 2F"
   },
+  "gl_cas02_" : {
+    "displayName" : "Glastheim 2F"
+  },
+  "gl_ch_a" : {
+    "displayName" : "Glast Heim St. Abbey (A)"
+  },
+  "gl_ch_b" : {
+    "displayName" : "Glast Heim St. Abbey (B)"
+  },
   "gl_church" : {
-    "displayName" : "Glast Heim St.Abbey"
+    "displayName" : "Glast Heim St. Abbey"
+  },
+  "gl_chy_a" : {
+    "displayName" : "Glast Heim Churchyard (A)"
+  },
+  "gl_chy_b" : {
+    "displayName" : "Glast Heim Churchyard (B)"
   },
   "gl_chyard" : {
-    "displayName" : "Glast Heim Halaman Gereja"
+    "displayName" : "Glast Heim Churchyard"
+  },
+  "gl_chyard_" : {
+    "displayName" : "Monastery Tomb"
   },
   "gl_dun01" : {
-    "displayName" : "Goa terdalam di Glast Heim"
+    "displayName" : "The Lowest Cave in Glast Heim"
   },
   "gl_dun02" : {
-    "displayName" : "Goa terdalam di Glast Heim"
+    "displayName" : "The Lowest Cave in Glast Heim"
   },
   "gl_in01" : {
-    "displayName" : "Dalam Glast Heim"
+    "displayName" : "Inside Glast Heim"
   },
   "gl_knt01" : {
-    "displayName" : "Dalam Kavaleri Glast Heim"
+    "displayName" : "Inside Glast Heim Chivalry"
   },
   "gl_knt02" : {
-    "displayName" : "Dalam Kavaleri Glast Heim"
+    "displayName" : "Inside Glast Heim Chivalry"
   },
   "gl_prison" : {
-    "displayName" : "Penjara Glast Heim"
+    "displayName" : "Glast Heim Underprison"
   },
   "gl_prison1" : {
-    "displayName" : "Penjara Glast Heim"
+    "displayName" : "Glast Heim Underprison"
   },
   "gl_sew01" : {
-    "displayName" : "Lorong Glast Heim"
+    "displayName" : "Glast Heim Culvert"
   },
   "gl_sew02" : {
-    "displayName" : "Lorong Glast Heim"
+    "displayName" : "Glast Heim Culvert"
   },
   "gl_sew03" : {
-    "displayName" : "Lorong Glast Heim"
+    "displayName" : "Glast Heim Culvert"
   },
   "gl_sew04" : {
-    "displayName" : "Lorong Glast Heim"
+    "displayName" : "Glast Heim Culvert"
   },
   "gl_step" : {
-    "displayName" : "Tangga Dungeon Glast Heim"
+    "displayName" : "Glast Heim Staircase Dungeon"
   },
   "glast_01" : {
     "displayName" : "Glast Heim"
   },
   "gld2_ald" : {
-    "displayName" : "Corridor of the abyss : Tear of the Hero"
+    "displayName" : "Hall of the Abyss : Tear of Hero"
   },
   "gld2_gef" : {
-    "displayName" : "Corridor of the abyss : Dead men's hill"
+    "displayName" : "Hall of the Abyss : Hill of death"
   },
   "gld2_pay" : {
-    "displayName" : "Corridor of the abyss : The ancient wind"
+    "displayName" : "Hall of the Abyss : Wind of beginning"
   },
   "gld2_prt" : {
-    "displayName" : "Corridor of the abyss : Warrior's way"
+    "displayName" : "Hall of the Abyss : Warrior road"
   },
   "gld_dun01" : {
     "displayName" : "Guild Dungeon"
   },
+  "gld_dun01_2" : {
+    "displayName" : "Guild basement dungeon 2F"
+  },
   "gld_dun02" : {
     "displayName" : "Guild Dungeon"
+  },
+  "gld_dun02_2" : {
+    "displayName" : "Guild basement dungeon 2F"
   },
   "gld_dun03" : {
     "displayName" : "Guild Dungeon"
   },
+  "gld_dun03_2" : {
+    "displayName" : "Guild basement dungeon 2F"
+  },
   "gld_dun04" : {
     "displayName" : "Guild Dungeon"
   },
+  "gld_dun04_2" : {
+    "displayName" : "Guild basement dungeon 2F"
+  },
+  "gld_hall" : {
+    "displayName" : "Guild Hall"
+  },
   "gon_dun01" : {
-    "displayName" : "Makam Xi Wang Mu"
+    "displayName" : "Shrine of Gonryun Queen"
   },
   "gon_dun02" : {
-    "displayName" : "Catur para DewaAsian Checkers of Hermits"
+    "displayName" : "Hermit's Checkers"
   },
   "gon_dun03" : {
-    "displayName" : "Khayangan"
+    "displayName" : "Arcadia"
   },
   "gon_fild01" : {
-    "displayName" : "Daratan Gonryun"
+    "displayName" : "Gonryun Field"
   },
   "gon_in" : {
-    "displayName" : "Dalam Gonryun"
+    "displayName" : "Inside Gonryun"
   },
   "gon_test" : {
-    "displayName" : "Arena Pertarungan"
+    "displayName" : "Arena"
   },
   "gonryun" : {
-    "displayName" : "Gonryun, Tempat para Dewa"
+    "displayName" : "Gonryun, the Hermit Land"
   },
   "guild_room" : {
-    "displayName" : "Ruang Tunggu Arena Guild"
+    "displayName" : "Guild Arena Waiting Room"
   },
   "guild_vs1" : {
-    "displayName" : "Arena Guild"
+    "displayName" : "Guild Arena"
   },
   "guild_vs2" : {
-    "displayName" : "Arena Guild"
-  },
-  "guild_vs2_1" : {
-    "displayName" : "Arena Guild"
-  },
-  "guild_vs2_2" : {
-    "displayName" : "Arena Guild"
-  },
-  "guild_vs2_3" : {
-    "displayName" : "Arena Guild"
-  },
-  "guild_vs2_4" : {
-    "displayName" : "Arena Guild"
+    "displayName" : "Guild Arena"
   },
   "guild_vs3" : {
-    "displayName" : "Arena Guild"
+    "displayName" : "Guild Arena"
   },
   "guild_vs4" : {
-    "displayName" : "Arena Guild"
+    "displayName" : "Guild Arena"
   },
   "guild_vs5" : {
-    "displayName" : "Arena Guild"
+    "displayName" : "Guild Arena"
   },
   "himinn" : {
-    "displayName" : "Aula Valhalla (Himinn)"
+    "displayName" : "Valkyrie Hall (Himinn)"
   },
   "hu_fild01" : {
     "displayName" : "Thanatos Tower"
@@ -720,214 +981,373 @@
     "displayName" : "Hugel Field"
   },
   "hu_in01" : {
-    "displayName" : "Dalam Hugel"
+    "displayName" : "Inside Hugel"
   },
   "hugel" : {
-    "displayName" : "Hugel, Kota taman Odin"
+    "displayName" : "Hugel, the Quaint Garden Village"
   },
   "hunter_1-1" : {
-    "displayName" : "Perkumpulan Hunter"
+    "displayName" : "Hunter Guild"
   },
   "hunter_2-1" : {
-    "displayName" : "Perkumpulan Hunter"
+    "displayName" : "Hunter Guild"
   },
   "hunter_3-1" : {
-    "displayName" : "Perkumpulan Hunter"
+    "displayName" : "Hunter Guild"
   },
   "ice_dun01" : {
-    "displayName" : "Gua Es"
+    "displayName" : "Ice Cave 1F"
   },
   "ice_dun02" : {
-    "displayName" : "Gua Es"
+    "displayName" : "Ice Cave 2F"
   },
   "ice_dun03" : {
-    "displayName" : "Gua Es"
+    "displayName" : "Ice Cave 3F"
   },
   "ice_dun04" : {
-    "displayName" : "Gua Es"
+    "displayName" : "Ice Cave 4F"
   },
   "in_hunter" : {
-    "displayName" : "Perkumpulan Hunter"
+    "displayName" : "Hunter Guild"
   },
   "in_moc_16" : {
-    "displayName" : "Klan Assassin"
+    "displayName" : "Assassin Clan"
   },
   "in_orcs01" : {
-    "displayName" : "Desa Orc"
+    "displayName" : "Inside Orc Village"
   },
   "in_rogue" : {
-    "displayName" : "Dalam Perkumpulan Rogue"
+    "displayName" : "Inside the Rogue Guild"
   },
   "in_sphinx1" : {
-    "displayName" : "Sphinx"
+    "displayName" : "Sphinx B1F"
   },
   "in_sphinx2" : {
-    "displayName" : "Sphinx"
+    "displayName" : "Sphinx B2F"
   },
   "in_sphinx3" : {
-    "displayName" : "Sphinx"
+    "displayName" : "Sphinx B3F"
   },
   "in_sphinx4" : {
-    "displayName" : "Sphinx"
+    "displayName" : "Sphinx B4F"
   },
   "in_sphinx5" : {
-    "displayName" : "Sphinx"
+    "displayName" : "Sphinx B5F"
+  },
+  "int_land" : {
+    "displayName" : "Remote Island"
+  },
+  "int_land01" : {
+    "displayName" : "Remote Island"
+  },
+  "int_land02" : {
+    "displayName" : "Remote Island"
+  },
+  "int_land03" : {
+    "displayName" : "Remote Island"
+  },
+  "int_land04" : {
+    "displayName" : "Remote Island"
+  },
+  "int_land05" : {
+    "displayName" : "Remote Island"
+  },
+  "int_land06" : {
+    "displayName" : "Remote Island"
+  },
+  "int_land07" : {
+    "displayName" : "Remote Island"
+  },
+  "int_land08" : {
+    "displayName" : "Remote Island"
+  },
+  "itemmall" : {
+    "displayName" : "Kafra Shop"
+  },
+  "iz_ac01" : {
+    "displayName" : "Academy 1F"
+  },
+  "iz_ac01_a" : {
+    "displayName" : "Academy 1F"
+  },
+  "iz_ac01_b" : {
+    "displayName" : "Academy 1F"
+  },
+  "iz_ac01_c" : {
+    "displayName" : "Academy 1F"
+  },
+  "iz_ac01_d" : {
+    "displayName" : "Academy 1F"
+  },
+  "iz_ac01_e" : {
+    "displayName" : "Academy 1F"
+  },
+  "iz_ac01_f" : {
+    "displayName" : "Academy 1F"
+  },
+  "iz_ac01_g" : {
+    "displayName" : "Academy 1F"
+  },
+  "iz_ac01_h" : {
+    "displayName" : "Academy 1F"
+  },
+  "iz_ac02" : {
+    "displayName" : "Academy 2F"
+  },
+  "iz_ac02_a" : {
+    "displayName" : "Academy 2F"
+  },
+  "iz_ac02_b" : {
+    "displayName" : "Academy 2F"
+  },
+  "iz_ac02_c" : {
+    "displayName" : "Academy 2F"
+  },
+  "iz_ac02_d" : {
+    "displayName" : "Academy 2F"
+  },
+  "iz_ac02_e" : {
+    "displayName" : "Academy 2F"
+  },
+  "iz_ac02_f" : {
+    "displayName" : "Academy 2F"
+  },
+  "iz_ac02_g" : {
+    "displayName" : "Academy 2F"
+  },
+  "iz_ac02_h" : {
+    "displayName" : "Academy 2F"
   },
   "iz_dun00" : {
-    "displayName" : "Terowongan Bawah Laut"
+    "displayName" : "Undersea Tunnel 1F"
+  },
+  "iz_dun00t" : {
+    "displayName" : "Overlook Water Dungeon"
   },
   "iz_dun01" : {
-    "displayName" : "Terowongan Bawah Laut"
+    "displayName" : "Undersea Tunnel 2F"
+  },
+  "iz_dun01t" : {
+    "displayName" : "Overlook Water Dungeon"
   },
   "iz_dun02" : {
-    "displayName" : "Terowongan Bawah Laut"
+    "displayName" : "Undersea Tunnel 3F"
+  },
+  "iz_dun02t" : {
+    "displayName" : "Overlook Water Dungeon"
   },
   "iz_dun03" : {
-    "displayName" : "Terowongan Bawah Laut"
+    "displayName" : "Undersea Tunnel 4F"
+  },
+  "iz_dun03t" : {
+    "displayName" : "Overlook Water Dungeon"
   },
   "iz_dun04" : {
-    "displayName" : "Terowongan Bawah Laut"
+    "displayName" : "Undersea Tunnel 5F"
+  },
+  "iz_dun04t" : {
+    "displayName" : "Overlook Water Dungeon"
   },
   "iz_dun05" : {
-    "displayName" : "Terowongan Bawah Laut"
+    "displayName" : "Undersea Tunnel 6F"
+  },
+  "iz_int" : {
+    "displayName" : "Stranded Ship"
+  },
+  "iz_int01" : {
+    "displayName" : "Stranded Ship"
+  },
+  "iz_int02" : {
+    "displayName" : "Stranded Ship"
+  },
+  "iz_int03" : {
+    "displayName" : "Stranded Ship"
+  },
+  "iz_int04" : {
+    "displayName" : "Stranded Ship"
+  },
+  "iz_int05" : {
+    "displayName" : "Stranded Ship"
+  },
+  "iz_int06" : {
+    "displayName" : "Stranded Ship"
+  },
+  "iz_int07" : {
+    "displayName" : "Stranded Ship"
+  },
+  "iz_int08" : {
+    "displayName" : "Stranded Ship"
+  },
+  "iz_ng01" : {
+    "displayName" : "Ninja Tutorial map"
   },
   "izlu2dun" : {
-    "displayName" : "Pulau Byalan"
+    "displayName" : "Byalan Island"
   },
   "izlude" : {
-    "displayName" : "Kota Izlude"
+    "displayName" : "Izlude Town"
   },
-  "izlude07" : {
-    "displayName" : "Izlude RIC"
+  "izlude_a" : {
+    "displayName" : "Satellite City Izlude"
+  },
+  "izlude_b" : {
+    "displayName" : "Satellite City Izlude"
+  },
+  "izlude_c" : {
+    "displayName" : "Satellite City Izlude"
+  },
+  "izlude_d" : {
+    "displayName" : "Satellite City Izlude"
+  },
+  "izlude_e" : {
+    "displayName" : "Satellite City Izlude"
+  },
+  "izlude_f" : {
+    "displayName" : "Satellite City Izlude"
+  },
+  "izlude_g" : {
+    "displayName" : "Satellite City Izlude"
+  },
+  "izlude_h" : {
+    "displayName" : "Satellite City Izlude"
   },
   "izlude_in" : {
-    "displayName" : "Dalam Izlude"
+    "displayName" : "Inside Izlude"
   },
   "jawaii" : {
-    "displayName" : "Jawaii, Pulau Bulan Madu"
+    "displayName" : "Jawaii, the Honeymoon Island"
   },
   "jawaii_in" : {
-    "displayName" : "Di dalam Jawaii"
+    "displayName" : "Inside Jawaii"
   },
   "job3_arch01" : {
-    "displayName" : "Ruang Tunggu Pelatihan Archbishop"
+    "displayName" : "Waiting room for Arch Bishop Job Change"
   },
   "job3_arch02" : {
-    "displayName" : "Kuil Odin"
+    "displayName" : "Odin Temple"
   },
   "job3_arch03" : {
-    "displayName" : "Ruang Tunggu Pelatihan Archbishop"
+    "displayName" : "Waiting room for Arch Bishop Job Change"
   },
   "job3_gen01" : {
-    "displayName" : "Laboratorium Genetik"
+    "displayName" : "Geneticist Lab"
   },
   "job3_guil01" : {
-    "displayName" : "Bar Rahasia"
+    "displayName" : "Secret Tavern"
   },
   "job3_guil02" : {
-    "displayName" : "Dalam Gudang Tua"
+    "displayName" : "Inside the Old Warehouse"
   },
   "job3_guil03" : {
-    "displayName" : "Sebuah Rumah Terpencil"
+    "displayName" : "An isolated mansion"
   },
   "job3_rang01" : {
-    "displayName" : "Ruang Tunggu Pelatihan Ranger"
+    "displayName" : "Waiting room for Ranger Job Change"
   },
   "job3_rang02" : {
-    "displayName" : "Ruang Tes Pelatihan Ranger"
+    "displayName" : "Test room for Ranger Job Change"
   },
   "job3_rune01" : {
-    "displayName" : "Dalam Rune Knight Templar"
+    "displayName" : "Inside of Rune Knight Templar"
   },
   "job3_rune02" : {
-    "displayName" : "Ruang Tes Pelatihan Rune Knight"
+    "displayName" : "Test room for Rune Knight Job Change"
   },
   "job3_rune03" : {
-    "displayName" : "Ruang Tes Pelatihan Rune Knight"
+    "displayName" : "Test room for Rune Knight Job Change"
   },
   "job3_war01" : {
-    "displayName" : "Ruang Tes Pelatihan Warlock"
+    "displayName" : "Test room for Warlock Job Change"
   },
   "job3_war02" : {
-    "displayName" : "Ruang Tes Pelatihan Warlock"
+    "displayName" : "Test room for Warlock Job Change"
   },
   "job_cru" : {
-    "displayName" : "Test Defender"
+    "displayName" : "Crusader Job Change Place"
   },
   "job_duncer" : {
-    "displayName" : "Teater Comodo"
+    "displayName" : "Comodo Theatre"
+  },
+  "job_gun" : {
+    "displayName" : "Liberation shelter"
   },
   "job_hunte" : {
-    "displayName" : "Hunter Test"
+    "displayName" : "Hunter Job Change Place"
   },
   "job_knt" : {
-    "displayName" : "Knight Test"
+    "displayName" : "Knight Job Change Place"
   },
   "job_ko" : {
-    "displayName" : "Tempat tersembunyi"
+    "displayName" : "Hidden Place"
   },
   "job_monk" : {
-    "displayName" : "Kuil St. Capitolina"
+    "displayName" : "Saint Capitolina Abbey"
   },
   "job_prist" : {
-    "displayName" : "Priest Test"
+    "displayName" : "Priest Job Change Place"
   },
   "job_sage" : {
-    "displayName" : "Test Sage"
+    "displayName" : "Sage Job Change Place"
   },
   "job_soul" : {
     "displayName" : "Your Heart"
   },
   "job_star" : {
-    "displayName" : "Matahari, bulan dan bintang"
+    "displayName" : "The Sun, the Moon and the Stars"
   },
   "job_thief1" : {
-    "displayName" : "Ladang Jamur"
+    "displayName" : "Mushroom Farm"
   },
   "job_wiz" : {
-    "displayName" : "Wizard Test"
+    "displayName" : "Wizard Job Change Place"
+  },
+  "jup_01_a" : {
+    "displayName" : "Ruins of Juperos Outside (A)"
+  },
+  "jup_01_b" : {
+    "displayName" : "Ruins of Juperos Outside (B)"
   },
   "jupe_area1" : {
-    "displayName" : "Area Terlarang Juperos"
+    "displayName" : "Juperos, Restricted Zone"
   },
   "jupe_area2" : {
-    "displayName" : "Area Terlarang Juperos"
+    "displayName" : "Juperos, Restricted Zone"
   },
   "jupe_cave" : {
-    "displayName" : "Pintu masuk Juperos"
+    "displayName" : "Ruins of Juperos Entrance"
   },
   "jupe_core" : {
-    "displayName" : "Pusat Juperos"
+    "displayName" : "Center of Juperos"
   },
   "jupe_core2" : {
-    "displayName" : "Pusat Juperos"
+    "displayName" : "The center of Juperos"
   },
   "jupe_ele" : {
-    "displayName" : "Lift Juperos"
+    "displayName" : "Juperos Elevator"
   },
   "jupe_ele_r" : {
-    "displayName" : "Lift Juperos"
+    "displayName" : "Juperos Elevator"
   },
   "jupe_gate" : {
-    "displayName" : "Area Terlarang Juperos"
+    "displayName" : "Juperos, Restricted Zone"
   },
   "juperos_01" : {
-    "displayName" : "Juperos Dungeon"
+    "displayName" : "Ruins of Juperos Outside"
   },
   "juperos_02" : {
-    "displayName" : "Juperos Dungeon"
+    "displayName" : "Ruins of Juperos Inside"
   },
   "kh_dun01" : {
-    "displayName" : "Robot Factory level 1"
+    "displayName" : "Robot Factory 1F"
   },
   "kh_dun02" : {
-    "displayName" : "Robot Factory level 2"
+    "displayName" : "Robot Factory 2F"
   },
   "kh_kiehl01" : {
     "displayName" : "Kiehl's Room"
   },
   "kh_kiehl02" : {
-    "displayName" : "Kiehl's Room"
+    "displayName" : "Kiehl's Last Room"
   },
   "kh_mansion" : {
     "displayName" : "Kiel Hyre's Mansion"
@@ -936,85 +1356,112 @@
     "displayName" : "The Rosimier's Mansion"
   },
   "kh_school" : {
-    "displayName" : "Akademi Kiel Hyre"
+    "displayName" : "Kiel Hyre Academy"
   },
   "kh_vila" : {
     "displayName" : "Kiel Hyre's Cottage"
   },
   "knight_1-1" : {
-    "displayName" : "Kavaleri"
+    "displayName" : "The Chivalry"
   },
   "knight_2-1" : {
-    "displayName" : "Kavaleri"
+    "displayName" : "The Chivalry"
   },
   "knight_3-1" : {
-    "displayName" : "Kavaleri"
+    "displayName" : "The Chivalry"
   },
   "lhz_airport" : {
-    "displayName" : "Landasan udara Lighthalzen"
+    "displayName" : "Lighthalzen Airport"
   },
   "lhz_cube" : {
     "displayName" : "Cube Room"
   },
-  "lhz_cube_1" : {
-    "displayName" : "Cube Room"
-  },
   "lhz_dun01" : {
-    "displayName" : "Laboratorium Somatology"
+    "displayName" : "Somatology Laboratory B1F"
   },
   "lhz_dun02" : {
-    "displayName" : "Laboratorium Somatology"
+    "displayName" : "Somatology Laboratory B2F"
   },
   "lhz_dun03" : {
-    "displayName" : "Laboratorium Somatology"
+    "displayName" : "Somatology Laboratory B3F"
   },
   "lhz_dun04" : {
     "displayName" : "Human Experimentation Laboratory B4"
   },
   "lhz_fild01" : {
-    "displayName" : "Field Lighthalzen"
+    "displayName" : "Lighthalzen Field"
   },
   "lhz_fild02" : {
-    "displayName" : "Lighthalzen Field (Grim Ripper's Valley)"
+    "displayName" : "Lighthalzen Field (Grim Reaper's Valley)"
   },
   "lhz_fild03" : {
     "displayName" : "Lighthalzen Field"
   },
   "lhz_in01" : {
-    "displayName" : "Rekenber Headquarters"
+    "displayName" : "Rekenber Corporation Headquarters"
   },
   "lhz_in02" : {
-    "displayName" : "Dalam Lighthalzen"
+    "displayName" : "Inside Lighthalzen"
   },
   "lhz_in03" : {
-    "displayName" : "Dalam Lighthalzen"
+    "displayName" : "Inside Lighthalzen"
   },
   "lhz_que01" : {
-    "displayName" : "Dalam Lighthalzen"
+    "displayName" : "Inside Lighthalzen"
   },
   "lighthalzen" : {
-    "displayName" : "Lighthalzen, Kota kemakmuran"
+    "displayName" : "Lightharlzen, the City-State of Prosperity"
   },
   "lou_dun01" : {
-    "displayName" : "Kuburan Keluarga Kerajaan"
+    "displayName" : "The Royal Tomb"
   },
   "lou_dun02" : {
-    "displayName" : "Di dalam Kuburan Keluarga Kerajaan"
+    "displayName" : "Inside the Royal Tomb"
   },
   "lou_dun03" : {
-    "displayName" : "Istana ShenYang"
+    "displayName" : "Suei Long Gon"
   },
   "lou_fild01" : {
-    "displayName" : "Halaman Kastil Naga"
+    "displayName" : "Louyang Field"
   },
   "lou_in01" : {
-    "displayName" : "Di dalam Kastil Naga"
+    "displayName" : "Inside Louyang"
   },
   "lou_in02" : {
-    "displayName" : "Di dalam Kastil Naga"
+    "displayName" : "Inside Louyang"
   },
   "louyang" : {
-    "displayName" : "Kastil Naga"
+    "displayName" : "Louyang, the highland"
+  },
+  "louyang_e" : {
+    "displayName" : "Louyang Excavation Site"
+  },
+  "lst_easy_1" : {
+    "displayName" : "Special Dungeon - Easy 1"
+  },
+  "lst_easy_2" : {
+    "displayName" : "Special Dungeon - Easy 2"
+  },
+  "lst_easy_3" : {
+    "displayName" : "Special Dungeon - Easy 3"
+  },
+  "lst_hard_1" : {
+    "displayName" : "Special Dungeon - Hard 1"
+  },
+  "lst_hard_2" : {
+    "displayName" : "Special Dungeon - Hard 2"
+  },
+  "lst_hard_3" : {
+    "displayName" : "Special Dungeon - Hard 3"
+  },
+  "lst_nrm_1" : {
+    "displayName" : "Special Dungeon -\tNormal 1"
+  },
+  "lst_nrm_2" : {
+    "displayName" : "Special Dungeon -\tNormal 2"
+  },
+  "lst_nrm_3" : {
+    "displayName" : "Special Dungeon - Normal 3"
   },
   "ma_dun01" : {
     "displayName" : "Bangungot Hospital 1F"
@@ -1023,13 +1470,13 @@
     "displayName" : "Baryo Mahiwaga"
   },
   "ma_fild02" : {
-    "displayName" : "Hutan"
+    "displayName" : "Forest"
   },
   "ma_in01" : {
     "displayName" : "Inside of Malaya"
   },
   "ma_scene01" : {
-    "displayName" : "Danau Bakonawa"
+    "displayName" : "Bakonawa Lake"
   },
   "ma_zif01" : {
     "displayName" : "Inside of Jeepney"
@@ -1058,20 +1505,26 @@
   "ma_zif09" : {
     "displayName" : "Inside of Jeepney"
   },
+  "mag_d02_a" : {
+    "displayName" : "Nogg Road 2F (A)"
+  },
+  "mag_d02_b" : {
+    "displayName" : "Nogg Road 2F (B)"
+  },
   "mag_dun01" : {
-    "displayName" : "Norgroad"
+    "displayName" : "Nogg Road 1F"
   },
   "mag_dun02" : {
-    "displayName" : "Norgroad"
+    "displayName" : "Nogg Road 2F"
   },
   "mal_dun01" : {
-    "displayName" : "malangdo Dungeon"
+    "displayName" : "Starry Coral Area"
   },
   "mal_in01" : {
-    "displayName" : "Malangdo"
+    "displayName" : "Malangdo Inside"
   },
   "mal_in02" : {
-    "displayName" : "Malangdo"
+    "displayName" : "Inside the Ship"
   },
   "malangdo" : {
     "displayName" : "Malangdo"
@@ -1089,334 +1542,370 @@
     "displayName" : "Manuk Field"
   },
   "man_in01" : {
-    "displayName" : "Manuk"
+    "displayName" : "Inside Manuk"
   },
   "manuk" : {
-    "displayName" : "Kota Pertambangan Manuk"
+    "displayName" : "Manuk"
+  },
+  "meat_wars" : {
+    "displayName" : "MeatWars"
   },
   "mid_camp" : {
-    "displayName" : "Kemah Ekspedisi"
+    "displayName" : "Rune Midgard Allied Forces Post"
   },
   "mid_campin" : {
-    "displayName" : "Kemah Ekspedisi"
+    "displayName" : "Inside of the Rune Midgard Allied Forces Post"
   },
   "mjo_dun01" : {
-    "displayName" : "Jalan Buntu Mjolnir"
+    "displayName" : "Coal Mine 1F"
   },
   "mjo_dun02" : {
-    "displayName" : "Jalan Buntu Mjolnir"
+    "displayName" : "Coal Mine 2F"
   },
   "mjo_dun03" : {
-    "displayName" : "Jalan Buntu Mjolnir"
+    "displayName" : "Coal Mine 3F"
   },
   "mjolnir_01" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (North)"
   },
   "mjolnir_02" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (North)"
   },
   "mjolnir_03" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (North)"
   },
   "mjolnir_04" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (North)"
   },
   "mjolnir_05" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (North)"
   },
   "mjolnir_06" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (South)"
   },
   "mjolnir_07" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (South)"
   },
   "mjolnir_08" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (South)"
   },
   "mjolnir_09" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (South bottom)"
   },
   "mjolnir_10" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (South)"
   },
   "mjolnir_11" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (South)"
   },
   "mjolnir_12" : {
-    "displayName" : "Gunung Mjolnir"
+    "displayName" : "Mt.Mjolnir (North bottom)"
   },
   "moc_castle" : {
-    "displayName" : "Kastil Morroc"
+    "displayName" : "Morroc Castle"
   },
   "moc_fild01" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild02" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild03" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild04" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild05" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild06" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild07" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild08" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild09" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild10" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild11" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild12" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild13" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild14" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild15" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild16" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild17" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild18" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild19" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "moc_fild20" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Dimensional Gorge"
   },
   "moc_fild21" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Dimensional Gorge"
   },
   "moc_fild22" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Dimensional Gorge"
   },
   "moc_fild22b" : {
-    "displayName" : "Celah Dimensi"
+    "displayName" : "Dimensional Gorge"
   },
   "moc_para01" : {
-    "displayName" : "Dalam Bangunan Grup Paradise di Morroc"
+    "displayName" : "Inside of Paradise Group Building in Morroc"
+  },
+  "moc_paraup" : {
+    "displayName" : "Inside of Paradise Group Building in Morroc 2nd floor"
   },
   "moc_pryd01" : {
-    "displayName" : "Dalam Pyramid"
+    "displayName" : "Inside Pyramid 1F"
   },
   "moc_pryd02" : {
-    "displayName" : "Dalam Pyramid"
+    "displayName" : "Inside Pyramid 2F"
   },
   "moc_pryd03" : {
-    "displayName" : "Dalam Pyramid"
+    "displayName" : "Inside Pyramid 3F"
   },
   "moc_pryd04" : {
-    "displayName" : "Dalam Pyramid"
+    "displayName" : "Inside Pyramid 4F"
   },
   "moc_pryd05" : {
-    "displayName" : "Dalam Pyramid"
+    "displayName" : "Inside Pyramid B1F"
   },
   "moc_pryd06" : {
-    "displayName" : "Dalam Pyramid"
+    "displayName" : "Inside Pyramid B2F"
   },
   "moc_prydb1" : {
-    "displayName" : "Perkumpulan Thief"
+    "displayName" : "Thief Guild"
+  },
+  "moc_prydn1" : {
+    "displayName" : "Morocc Pyramid Underground 1F - Challenge"
+  },
+  "moc_prydn2" : {
+    "displayName" : "Morocc Pyramid Underground 2F - Challenge"
   },
   "moc_ruins" : {
-    "displayName" : "Reruntuhan Morroc"
+    "displayName" : "Morroc Ruins"
   },
   "monk_in" : {
-    "displayName" : "Dalam St.Abbey"
+    "displayName" : "Inside St. Abbey"
   },
   "monk_test" : {
-    "displayName" : "Kuil St. Capitolina"
+    "displayName" : "Saint Capitolina Abbey"
   },
   "mora" : {
-    "displayName" : "Rafle Village, Mora"
+    "displayName" : "Mora Village"
+  },
+  "moro_cav" : {
+    "displayName" : "Flame Cave"
+  },
+  "moro_vol" : {
+    "displayName" : "Flame Basin"
   },
   "morocc" : {
-    "displayName" : "Kota Morroc"
+    "displayName" : "Morroc Town"
   },
   "morocc_in" : {
-    "displayName" : "Dalam Morroc"
+    "displayName" : "Inside Morroc"
+  },
+  "morocc_mem" : {
+    "displayName" : "Memory of Morroc"
   },
   "moscovia" : {
     "displayName" : "Moscovia"
   },
   "mosk_dun01" : {
-    "displayName" : "Hutan Peri"
+    "displayName" : "Les Forest"
   },
   "mosk_dun02" : {
-    "displayName" : "Hutan Peri"
+    "displayName" : "Temny Forest"
   },
   "mosk_dun03" : {
-    "displayName" : "Hutan Peri"
+    "displayName" : "Dremuci Forest"
   },
   "mosk_fild01" : {
-    "displayName" : "Pulau Ikan Paus"
+    "displayName" : "somewhere in Moscovia"
   },
   "mosk_fild02" : {
-    "displayName" : "Hutan Moscovia"
+    "displayName" : "Okrestnosti of Moscovia"
   },
   "mosk_in" : {
-    "displayName" : "Dalam Moscovia"
+    "displayName" : "Inside Moscovia"
   },
   "mosk_que" : {
-    "displayName" : "Goa Naga"
+    "displayName" : "Marozka's Cave"
   },
   "mosk_ship" : {
-    "displayName" : "Kapal"
+    "displayName" : "Charabel"
+  },
+  "msk_d03_a" : {
+    "displayName" : "Dremuci Forest (A)"
+  },
+  "msk_d03_b" : {
+    "displayName" : "Dremuci Forest (B)"
+  },
+  "nameless_i" : {
+    "displayName" : "Nameless Island"
+  },
+  "nameless_in" : {
+    "displayName" : "Inside Nameless Island"
+  },
+  "nameless_n" : {
+    "displayName" : "Nameless Island"
   },
   "new_1-1" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_1-2" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_1-3" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_1-4" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_2-1" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_2-2" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_2-3" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_2-4" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_3-1" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_3-2" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_3-3" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_3-4" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_4-1" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_4-2" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_4-3" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_4-4" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_5-1" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_5-2" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_5-3" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "new_5-4" : {
-    "displayName" : "Tempat Pelatihan"
+    "displayName" : "Training Ground"
   },
   "nif_fild01" : {
-    "displayName" : "Skelington (Desa Terjauh Niflheim)"
+    "displayName" : "Skellington, a Solitary Village in Nifflheim"
   },
   "nif_fild02" : {
-    "displayName" : "Kubah Setan"
+    "displayName" : "Vally of Gyoll"
   },
   "nif_in" : {
-    "displayName" : "Dalam Niflheim"
+    "displayName" : "Inside Nifflheim"
   },
   "niflheim" : {
-    "displayName" : "Kota Kematian Niflheim"
+    "displayName" : "Nifflheim, Realm of the Dead"
   },
   "niflxmas" : {
-    "displayName" : "Deadman's land Niffelheim"
+    "displayName" : "The Dead's Land Nifflheim"
   },
   "nyd_dun01" : {
-    "displayName" : "The violent's Wound"
+    "displayName" : "Yggdrasil Root 1F"
   },
   "nyd_dun02" : {
-    "displayName" : "The violent's Wound"
+    "displayName" : "Yggdrasil Root 2F"
   },
   "odin_tem01" : {
-    "displayName" : "Kuil Odin"
+    "displayName" : "Odin Shirine (West)"
   },
   "odin_tem02" : {
-    "displayName" : "Kuil Odin"
+    "displayName" : "Odin Shirine (South)"
   },
   "odin_tem03" : {
-    "displayName" : "Kuil Odin"
+    "displayName" : "Odin Shirine (North)"
   },
   "orcsdun01" : {
-    "displayName" : "Dungeon Orc"
+    "displayName" : "Orc Dungeon 1F"
   },
   "orcsdun02" : {
-    "displayName" : "Dungeon Orc"
+    "displayName" : "Orc Dungeon 2F"
   },
   "ordeal_1-1" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "ordeal_1-2" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "ordeal_1-3" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "ordeal_1-4" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "ordeal_2-1" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "ordeal_2-2" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "ordeal_2-3" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "ordeal_2-4" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "ordeal_3-1" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "ordeal_3-2" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "ordeal_3-3" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "ordeal_3-4" : {
-    "displayName" : "Battle Mode"
+    "displayName" : "Battle Ordeal Mode"
   },
   "p_track01" : {
     "displayName" : "Monster Race Arena"
@@ -1424,458 +1913,518 @@
   "p_track02" : {
     "displayName" : "Monster Race Arena"
   },
+  "paramk" : {
+    "displayName" : "Para Market"
+  },
   "pay_arche" : {
-    "displayName" : "Desa Archer"
+    "displayName" : "Archer Village"
   },
   "pay_dun00" : {
-    "displayName" : "Goa Payon"
+    "displayName" : "Payon Cave 1F"
   },
   "pay_dun01" : {
-    "displayName" : "Goa Payon"
+    "displayName" : "Payon Cave 2F"
   },
   "pay_dun02" : {
-    "displayName" : "Goa Payon"
+    "displayName" : "Payon Cave 3F"
   },
   "pay_dun03" : {
-    "displayName" : "Goa Payon"
+    "displayName" : "Payon Cave 4F"
   },
   "pay_dun04" : {
-    "displayName" : "Goa Payon"
+    "displayName" : "Payon Cave 5F"
   },
   "pay_fild01" : {
-    "displayName" : "Hutan Payon"
+    "displayName" : "Payon Forest"
   },
   "pay_fild02" : {
-    "displayName" : "Hutan Payon"
+    "displayName" : "Payon Forest"
   },
   "pay_fild03" : {
-    "displayName" : "Hutan Payon"
+    "displayName" : "Payon Forest"
   },
   "pay_fild04" : {
-    "displayName" : "Padang Pasir Sograt"
+    "displayName" : "Sograt Desert"
   },
   "pay_fild05" : {
-    "displayName" : "Hutan Payon"
+    "displayName" : "Payon Forest"
   },
   "pay_fild06" : {
-    "displayName" : "Hutan Payon"
+    "displayName" : "Payon Forest"
   },
   "pay_fild07" : {
-    "displayName" : "Hutan Payon"
+    "displayName" : "Payon Forest"
   },
   "pay_fild08" : {
-    "displayName" : "Hutan Payon"
+    "displayName" : "Payon Forest"
   },
   "pay_fild09" : {
-    "displayName" : "Hutan Payon"
+    "displayName" : "Payon Forest"
   },
   "pay_fild10" : {
-    "displayName" : "Hutan Payon"
+    "displayName" : "Payon Forest"
   },
   "pay_fild11" : {
-    "displayName" : "Hutan Payon"
+    "displayName" : "Payon Forest"
   },
   "pay_gld" : {
-    "displayName" : "Danau Greenwood"
+    "displayName" : "Greenwood Lake"
+  },
+  "payg_c01" : {
+    "displayName" : "Arbor of Light_"
+  },
+  "payg_c02" : {
+    "displayName" : "Garden of Heaven_"
+  },
+  "payg_c03" : {
+    "displayName" : "Shadow of Buddha_"
+  },
+  "payg_c04" : {
+    "displayName" : "Red Palace_"
+  },
+  "payg_c05" : {
+    "displayName" : "Bamboo Forest Hermitage_"
   },
   "payg_cas01" : {
-    "displayName" : "Guild Danau Greenwood"
+    "displayName" : "Arbor of Light"
   },
   "payg_cas02" : {
-    "displayName" : "Guild Danau Greenwood"
+    "displayName" : "Garden of Heaven"
   },
   "payg_cas03" : {
-    "displayName" : "Guild Danau Greenwood"
+    "displayName" : "Shadow of Buddha"
   },
   "payg_cas04" : {
-    "displayName" : "Guild Danau Greenwood"
+    "displayName" : "Red Palace"
   },
   "payg_cas05" : {
-    "displayName" : "Guild Danau Greenwood"
+    "displayName" : "Bamboo Forest Hermitage"
   },
   "payon" : {
-    "displayName" : "Kota Payon"
+    "displayName" : "Payon Town"
   },
   "payon_in01" : {
-    "displayName" : "Dalam Payon"
+    "displayName" : "Inside Payon"
   },
   "payon_in02" : {
-    "displayName" : "Dalam Payon"
+    "displayName" : "Inside Payon"
+  },
+  "payon_in03" : {
+    "displayName" : "Inside Payon"
+  },
+  "payon_mem" : {
+    "displayName" : "Memory of Payon"
+  },
+  "poring_w01" : {
+    "displayName" : "Poring War - Waiting Room"
+  },
+  "poring_w02" : {
+    "displayName" : "Poring War"
   },
   "priest_1-1" : {
-    "displayName" : "Tempat Suci"
+    "displayName" : "The Sanctum"
   },
   "priest_2-1" : {
-    "displayName" : "Tempat Suci"
+    "displayName" : "The Sanctum"
   },
   "priest_3-1" : {
-    "displayName" : "Tempat Suci"
+    "displayName" : "The Sanctum"
   },
   "prontera" : {
-    "displayName" : "Kota Prontera"
+    "displayName" : "Prontera City, Capitol of Rune-Midgarts"
   },
   "prt_are01" : {
     "displayName" : "ARENA"
   },
   "prt_are_in" : {
-    "displayName" : "Ruang Tunggu"
+    "displayName" : "Waiting room"
   },
   "prt_arena01" : {
     "displayName" : "ARENA"
   },
   "prt_castle" : {
-    "displayName" : "Kastil Prontera"
+    "displayName" : "Prontera Castle"
   },
   "prt_church" : {
-    "displayName" : "Gereja"
+    "displayName" : "the Sanctuary"
   },
   "prt_fild00" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
   },
   "prt_fild01" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
   },
   "prt_fild02" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
   },
   "prt_fild03" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
   },
   "prt_fild04" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
   },
   "prt_fild05" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
   },
   "prt_fild06" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
   },
   "prt_fild07" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
   },
   "prt_fild08" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
+  },
+  "prt_fild08a" : {
+    "displayName" : "Prontera Field"
+  },
+  "prt_fild08b" : {
+    "displayName" : "Prontera Field"
+  },
+  "prt_fild08c" : {
+    "displayName" : "Prontera Field"
+  },
+  "prt_fild08d" : {
+    "displayName" : "Prontera Field"
+  },
+  "prt_fild08e" : {
+    "displayName" : "Prontera Field"
+  },
+  "prt_fild08f" : {
+    "displayName" : "Prontera Field"
+  },
+  "prt_fild08g" : {
+    "displayName" : "Prontera Field"
+  },
+  "prt_fild08h" : {
+    "displayName" : "Prontera Field"
   },
   "prt_fild09" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
   },
   "prt_fild10" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
   },
   "prt_fild11" : {
-    "displayName" : "Daratan Prontera"
+    "displayName" : "Prontera Field"
   },
   "prt_gld" : {
-    "displayName" : "Valkyrie"
+    "displayName" : "Valkyrie Realm"
   },
   "prt_in" : {
-    "displayName" : "Dalam Prontera"
-  },
-  "prt_in_1" : {
-    "displayName" : "Dalam Prontera"
-  },
-  "prt_in_2" : {
-    "displayName" : "Dalam Prontera"
-  },
-  "prt_in_3" : {
-    "displayName" : "Dalam Prontera"
-  },
-  "prt_in_4" : {
-    "displayName" : "Dalam Prontera"
+    "displayName" : "Inside Prontera"
   },
   "prt_maze01" : {
-    "displayName" : "Hutan Labirin"
+    "displayName" : "Labyrinth Forest 1F"
   },
   "prt_maze02" : {
-    "displayName" : "Hutan Labirin"
+    "displayName" : "Labyrinth Forest 2F"
   },
   "prt_maze03" : {
-    "displayName" : "Hutan Labirin"
+    "displayName" : "Labyrinth Forest 3F"
   },
   "prt_monk" : {
-    "displayName" : "Kuil St. Capitolina"
+    "displayName" : "St. Capitolina Abbey"
+  },
+  "prt_pri00" : {
+    "displayName" : "Prontera Prison"
   },
   "prt_sewb1" : {
-    "displayName" : "Lorong Prontera"
+    "displayName" : "Prontera Culvert 1F"
   },
   "prt_sewb2" : {
-    "displayName" : "Lorong Prontera"
+    "displayName" : "Prontera Culvert 2F"
   },
   "prt_sewb3" : {
-    "displayName" : "Lorong Prontera"
+    "displayName" : "Prontera Culvert 3F"
   },
   "prt_sewb4" : {
-    "displayName" : "Lorong Prontera"
+    "displayName" : "Prontera Culvert 4F"
+  },
+  "prtg_c01" : {
+    "displayName" : "Kriemhild_"
+  },
+  "prtg_c02" : {
+    "displayName" : "Swanhild_"
+  },
+  "prtg_c03" : {
+    "displayName" : "Lazreagues_"
+  },
+  "prtg_c04" : {
+    "displayName" : "Skoegul_"
+  },
+  "prtg_c05" : {
+    "displayName" : "Kendul_"
   },
   "prtg_cas01" : {
-    "displayName" : "Guild Valkyrie"
+    "displayName" : "Kriemhild"
   },
   "prtg_cas02" : {
-    "displayName" : "Guild Valkyrie"
+    "displayName" : "Swanhild"
   },
   "prtg_cas03" : {
-    "displayName" : "Guild Valkyrie"
+    "displayName" : "Lazreagues"
   },
   "prtg_cas04" : {
-    "displayName" : "Guild Valkyrie"
+    "displayName" : "Skoegul"
   },
   "prtg_cas05" : {
-    "displayName" : "Guild Valkyrie"
+    "displayName" : "Kendul"
   },
   "pvp_2vs2" : {
-    "displayName" : "PvP : Colosseum"
+    "displayName" : "PvP : Event Coliseum"
   },
   "pvp_c_room" : {
-    "displayName" : "PvP : Ruang Tunggu"
+    "displayName" : "PvP : Waiting Room"
   },
   "pvp_n_1-1" : {
-    "displayName" : "PvP : Ruangan Sandwich"
+    "displayName" : "PvP : Room Sandwich"
   },
   "pvp_n_1-2" : {
-    "displayName" : "PvP : Ruang Lock On"
+    "displayName" : "PvP : Room Rock On"
   },
   "pvp_n_1-3" : {
-    "displayName" : "PvP : Empat Ruang"
+    "displayName" : "PvP : Four Room"
   },
   "pvp_n_1-4" : {
-    "displayName" : "PvP : Ruang Undercross"
+    "displayName" : "PvP : Room Undercross"
   },
   "pvp_n_1-5" : {
-    "displayName" : "PvP : Ruangan Compass"
+    "displayName" : "PvP : Room Copass"
   },
   "pvp_n_2-1" : {
-    "displayName" : "PvP : Ruangan Sandwich"
+    "displayName" : "PvP : Room Sandwich"
   },
   "pvp_n_2-2" : {
-    "displayName" : "PvP : Ruang Lock On"
+    "displayName" : "PvP : Room Rock On"
   },
   "pvp_n_2-3" : {
-    "displayName" : "PvP : Empat Ruang"
+    "displayName" : "PvP : Four Room"
   },
   "pvp_n_2-4" : {
-    "displayName" : "PvP : Ruang Undercross"
+    "displayName" : "PvP : Room Undercross"
   },
   "pvp_n_2-5" : {
-    "displayName" : "PvP : Ruangan Compass"
+    "displayName" : "PvP : Room Copass"
   },
   "pvp_n_3-1" : {
-    "displayName" : "PvP : Ruangan Sandwich"
+    "displayName" : "PvP : Room Sandwich"
   },
   "pvp_n_3-2" : {
-    "displayName" : "PvP : Ruang Lock On"
+    "displayName" : "PvP : Room Rock On"
   },
   "pvp_n_3-3" : {
-    "displayName" : "PvP : Empat Ruang"
+    "displayName" : "PvP : Four Room"
   },
   "pvp_n_3-4" : {
-    "displayName" : "PvP : Ruang Undercross"
+    "displayName" : "PvP : Room Undercross"
   },
   "pvp_n_3-5" : {
-    "displayName" : "PvP : Ruangan Compass"
+    "displayName" : "PvP : Room Copass"
   },
   "pvp_n_4-1" : {
-    "displayName" : "PvP : Ruangan Sandwich"
+    "displayName" : "PvP : Room Sandwich"
   },
   "pvp_n_4-2" : {
-    "displayName" : "PvP : Ruang Lock On"
+    "displayName" : "PvP : Room Rock On"
   },
   "pvp_n_4-3" : {
-    "displayName" : "PvP : Empat Ruang"
+    "displayName" : "PvP : Four Room"
   },
   "pvp_n_4-4" : {
-    "displayName" : "PvP : Ruang Undercross"
+    "displayName" : "PvP : Room Undercross"
   },
   "pvp_n_4-5" : {
-    "displayName" : "PvP : Ruangan Compass"
+    "displayName" : "PvP : Room Copass"
   },
   "pvp_n_5-1" : {
-    "displayName" : "PvP : Ruangan Sandwich"
+    "displayName" : "PvP : Room Sandwich"
   },
   "pvp_n_5-2" : {
-    "displayName" : "PvP : Ruang Lock On"
+    "displayName" : "PvP : Room Rock On"
   },
   "pvp_n_5-3" : {
-    "displayName" : "PvP : Empat Ruang"
+    "displayName" : "PvP : Four Room"
   },
   "pvp_n_5-4" : {
-    "displayName" : "PvP : Ruang Undercross"
+    "displayName" : "PvP : Room Undercross"
   },
   "pvp_n_5-5" : {
-    "displayName" : "PvP : Ruangan Compass"
+    "displayName" : "PvP : Room Copass"
   },
   "pvp_n_6-1" : {
-    "displayName" : "PvP : Ruangan Sandwich"
+    "displayName" : "PvP : Room Sandwich"
   },
   "pvp_n_6-2" : {
-    "displayName" : "PvP : Ruang Lock On"
+    "displayName" : "PvP : Room Rock On"
   },
   "pvp_n_6-3" : {
-    "displayName" : "PvP : Empat Ruang"
+    "displayName" : "PvP : Four Room"
   },
   "pvp_n_6-4" : {
-    "displayName" : "PvP : Ruang Undercross"
+    "displayName" : "PvP : Room Undercross"
   },
   "pvp_n_6-5" : {
-    "displayName" : "PvP : Ruangan Compass"
+    "displayName" : "PvP : Room Copass"
   },
   "pvp_n_7-1" : {
-    "displayName" : "PvP : Ruangan Sandwich"
+    "displayName" : "PvP : Room Sandwich"
   },
   "pvp_n_7-2" : {
-    "displayName" : "PvP : Ruang Lock On"
+    "displayName" : "PvP : Room Rock On"
   },
   "pvp_n_7-3" : {
-    "displayName" : "PvP : Empat Ruang"
+    "displayName" : "PvP : Four Room"
   },
   "pvp_n_7-4" : {
-    "displayName" : "PvP : Ruang Undercross"
+    "displayName" : "PvP : Room Undercross"
   },
   "pvp_n_7-5" : {
-    "displayName" : "PvP : Ruangan Compass"
+    "displayName" : "PvP : Room Copass"
   },
   "pvp_n_8-1" : {
-    "displayName" : "PvP : Ruangan Sandwich"
+    "displayName" : "PvP : Room Sandwich"
   },
   "pvp_n_8-2" : {
-    "displayName" : "PvP : Ruang Lock On"
+    "displayName" : "PvP : Room Rock On"
   },
   "pvp_n_8-3" : {
-    "displayName" : "PvP : Empat Ruang"
+    "displayName" : "PvP : Four Room"
   },
   "pvp_n_8-4" : {
-    "displayName" : "PvP : Ruang Undercross"
+    "displayName" : "PvP : Room Undercross"
   },
   "pvp_n_8-5" : {
-    "displayName" : "PvP : Ruangan Compass"
+    "displayName" : "PvP : Room Copass"
   },
   "pvp_n_room" : {
-    "displayName" : "PvP : Ruang Tunggu"
+    "displayName" : "PvP : Waiting Room"
   },
   "pvp_y_1-1" : {
-    "displayName" : "PvP : Ruangan Prontera"
+    "displayName" : "PvP : Room Prontera"
   },
   "pvp_y_1-2" : {
-    "displayName" : "PvP : Ruangan Izlude"
+    "displayName" : "PvP : Room Izlude"
   },
   "pvp_y_1-3" : {
-    "displayName" : "PvP : Ruangan Payon"
+    "displayName" : "PvP : Room Payon"
   },
   "pvp_y_1-4" : {
-    "displayName" : "PvP : Ruangan Alberta"
+    "displayName" : "PvP : Room Alberta"
   },
   "pvp_y_1-5" : {
-    "displayName" : "PvP : Ruangan Morroc"
+    "displayName" : "PvP : Room Morroc"
   },
   "pvp_y_2-1" : {
-    "displayName" : "PvP : Ruangan Prontera"
+    "displayName" : "PvP : Room Prontera"
   },
   "pvp_y_2-2" : {
-    "displayName" : "PvP : Ruangan Izlude"
+    "displayName" : "PvP : Room Izlude"
   },
   "pvp_y_2-3" : {
-    "displayName" : "PvP : Ruangan Payon"
+    "displayName" : "PvP : Room Payon"
   },
   "pvp_y_2-4" : {
-    "displayName" : "PvP : Ruangan Alberta"
+    "displayName" : "PvP : Room Alberta"
   },
   "pvp_y_2-5" : {
-    "displayName" : "PvP : Ruangan Morroc"
+    "displayName" : "PvP : Room Morroc"
   },
   "pvp_y_3-1" : {
-    "displayName" : "PvP : Ruangan Prontera"
+    "displayName" : "PvP : Room Prontera"
   },
   "pvp_y_3-2" : {
-    "displayName" : "PvP : Ruangan Izlude"
+    "displayName" : "PvP : Room Izlude"
   },
   "pvp_y_3-3" : {
-    "displayName" : "PvP : Ruangan Payon"
+    "displayName" : "PvP : Room Payon"
   },
   "pvp_y_3-4" : {
-    "displayName" : "PvP : Ruangan Alberta"
+    "displayName" : "PvP : Room Alberta"
   },
   "pvp_y_3-5" : {
-    "displayName" : "PvP : Ruangan Morroc"
+    "displayName" : "PvP : Room Morroc"
   },
   "pvp_y_4-1" : {
-    "displayName" : "PvP : Ruangan Prontera"
+    "displayName" : "PvP : Room Prontera"
   },
   "pvp_y_4-2" : {
-    "displayName" : "PvP : Ruangan Izlude"
+    "displayName" : "PvP : Room Izlude"
   },
   "pvp_y_4-3" : {
-    "displayName" : "PvP : Ruangan Payon"
+    "displayName" : "PvP : Room Payon"
   },
   "pvp_y_4-4" : {
-    "displayName" : "PvP : Ruangan Alberta"
+    "displayName" : "PvP : Room Alberta"
   },
   "pvp_y_4-5" : {
-    "displayName" : "PvP : Ruangan Morroc"
+    "displayName" : "PvP : Room Morroc"
   },
   "pvp_y_5-1" : {
-    "displayName" : "PvP : Ruangan Prontera"
+    "displayName" : "PvP : Room Prontera"
   },
   "pvp_y_5-2" : {
-    "displayName" : "PvP : Ruangan Izlude"
+    "displayName" : "PvP : Room Izlude"
   },
   "pvp_y_5-3" : {
-    "displayName" : "PvP : Ruangan Payon"
+    "displayName" : "PvP : Room Payon"
   },
   "pvp_y_5-4" : {
-    "displayName" : "PvP : Ruangan Alberta"
+    "displayName" : "PvP : Room Alberta"
   },
   "pvp_y_5-5" : {
-    "displayName" : "PvP : Ruangan Morroc"
+    "displayName" : "PvP : Room Morroc"
   },
   "pvp_y_6-1" : {
-    "displayName" : "PvP : Ruangan Prontera"
+    "displayName" : "PvP : Room Prontera"
   },
   "pvp_y_6-2" : {
-    "displayName" : "PvP : Ruangan Izlude"
+    "displayName" : "PvP : Room Izlude"
   },
   "pvp_y_6-3" : {
-    "displayName" : "PvP : Ruangan Payon"
+    "displayName" : "PvP : Room Payon"
   },
   "pvp_y_6-4" : {
-    "displayName" : "PvP : Ruangan Alberta"
+    "displayName" : "PvP : Room Alberta"
   },
   "pvp_y_6-5" : {
-    "displayName" : "PvP : Ruangan Morroc"
+    "displayName" : "PvP : Room Morroc"
   },
   "pvp_y_7-1" : {
-    "displayName" : "PvP : Ruangan Prontera"
+    "displayName" : "PvP : Room Prontera"
   },
   "pvp_y_7-2" : {
-    "displayName" : "PvP : Ruangan Izlude"
+    "displayName" : "PvP : Room Izlude"
   },
   "pvp_y_7-3" : {
-    "displayName" : "PvP : Ruangan Payon"
+    "displayName" : "PvP : Room Payon"
   },
   "pvp_y_7-4" : {
-    "displayName" : "PvP : Ruangan Alberta"
+    "displayName" : "PvP : Room Alberta"
   },
   "pvp_y_7-5" : {
-    "displayName" : "PvP : Ruangan Morroc"
+    "displayName" : "PvP : Room Morroc"
   },
   "pvp_y_8-1" : {
-    "displayName" : "PvP : Ruangan Prontera"
+    "displayName" : "PvP : Room Prontera"
   },
   "pvp_y_8-2" : {
-    "displayName" : "PvP : Ruangan Izlude"
+    "displayName" : "PvP : Room Izlude"
   },
   "pvp_y_8-3" : {
-    "displayName" : "PvP : Ruangan Payon"
+    "displayName" : "PvP : Room Payon"
   },
   "pvp_y_8-4" : {
-    "displayName" : "PvP : Ruangan Alberta"
+    "displayName" : "PvP : Room Alberta"
   },
   "pvp_y_8-5" : {
-    "displayName" : "PvP : Ruangan Morroc"
+    "displayName" : "PvP : Room Morroc"
   },
   "pvp_y_room" : {
-    "displayName" : "PvP : Ruang Tunggu"
+    "displayName" : "PvP : Waiting Room"
   },
-  "que_ba.gat" : {
-    "displayName" : "Dungeon Okolnir"
+  "que_avan01" : {
+    "displayName" : "Avant's Laboratory"
   },
   "que_bingo" : {
     "displayName" : "Bingo Game Room"
@@ -1884,19 +2433,22 @@
     "displayName" : "Hugel Field"
   },
   "que_dan02" : {
-    "displayName" : "Rumah Tua di Yuno"
+    "displayName" : "Inside of the Abandoned House in Juno"
   },
   "que_god01" : {
+    "displayName" : "Quest Map"
+  },
+  "que_god01t" : {
     "displayName" : "Quest Map"
   },
   "que_god02" : {
     "displayName" : "Quest Map"
   },
   "que_house_s" : {
-    "displayName" : "Strange House"
+    "displayName" : "Weird house"
   },
   "que_hugel" : {
-    "displayName" : "Kuil bawah tanah Odin"
+    "displayName" : "Odin Shrine's Underground"
   },
   "que_job01" : {
     "displayName" : "Private Pub"
@@ -1904,71 +2456,53 @@
   "que_lhz" : {
     "displayName" : "Human Experimentation Laboratory B4"
   },
+  "que_ng" : {
+    "displayName" : "Unknown Area"
+  },
   "que_qaru01" : {
-    "displayName" : "Dungeon Okolnir"
+    "displayName" : "Fallacious Okolnir"
   },
   "que_qaru02" : {
-    "displayName" : "Dungeon Okolnir"
+    "displayName" : "Fallacious Okolnir"
   },
   "que_qaru03" : {
-    "displayName" : "Dungeon Okolnir"
+    "displayName" : "Fallacious Okolnir"
   },
   "que_qaru04" : {
-    "displayName" : "Dungeon Okolnir"
+    "displayName" : "Fallacious Okolnir"
   },
   "que_qaru05" : {
-    "displayName" : "Dungeon Okolnir"
+    "displayName" : "Fallacious Okolnir"
   },
   "que_qsch01" : {
-    "displayName" : "Dungeon Okolnir"
+    "displayName" : "Fallacious Okolnir"
   },
   "que_qsch02" : {
-    "displayName" : "Dungeon Okolnir"
+    "displayName" : "Fallacious Okolnir"
   },
   "que_qsch03" : {
-    "displayName" : "Dungeon Okolnir"
+    "displayName" : "Fallacious Okolnir"
   },
   "que_qsch04" : {
-    "displayName" : "Dungeon Okolnir"
+    "displayName" : "Fallacious Okolnir"
   },
   "que_qsch05" : {
-    "displayName" : "Dungeon Okolnir"
+    "displayName" : "Fallacious Okolnir"
   },
   "que_rachel" : {
     "displayName" : "Inside Temple"
+  },
+  "que_temsky" : {
+    "displayName" : "Pope's Office - The Garden of Heaven"
   },
   "que_thor" : {
     "displayName" : "Thor Volcano Dungeon"
   },
   "quiz_00" : {
-    "displayName" : "Panggung Kuis"
-  },
-  "quiz_00_1" : {
-    "displayName" : "Panggung Kuis"
-  },
-  "quiz_00_2" : {
-    "displayName" : "Panggung Kuis"
-  },
-  "quiz_00_3" : {
-    "displayName" : "Panggung Kuis"
-  },
-  "quiz_00_4" : {
-    "displayName" : "Panggung Kuis"
+    "displayName" : "Quiz Revolrution"
   },
   "quiz_01" : {
-    "displayName" : "Panggung Kuis"
-  },
-  "quiz_01_1" : {
-    "displayName" : "Panggung Kuis"
-  },
-  "quiz_01_2" : {
-    "displayName" : "Panggung Kuis"
-  },
-  "quiz_01_3" : {
-    "displayName" : "Panggung Kuis"
-  },
-  "quiz_01_4" : {
-    "displayName" : "Panggung Kuis"
+    "displayName" : "Quiz Revolrution"
   },
   "quiz_02" : {
     "displayName" : "Quiz Arena"
@@ -1977,94 +2511,133 @@
     "displayName" : "Quiz Hall"
   },
   "ra_fild01" : {
-    "displayName" : "Padang Rumput Audhumbla"
+    "displayName" : "Audhumbla Grassland"
   },
   "ra_fild02" : {
-    "displayName" : "Tebing Od"
+    "displayName" : "Od Canyon"
   },
   "ra_fild03" : {
-    "displayName" : "Daratan Ida"
+    "displayName" : "The Plain of Ida"
   },
   "ra_fild04" : {
-    "displayName" : "Padang Rumput Audhumbla"
+    "displayName" : "Audhumbla Grassland"
   },
   "ra_fild05" : {
-    "displayName" : "Padang Rumput Audhumbla"
+    "displayName" : "Audhumbla Grassland"
   },
   "ra_fild06" : {
     "displayName" : "Portus Luna"
   },
   "ra_fild07" : {
-    "displayName" : "Tebing Od"
+    "displayName" : "Od Canyon"
   },
   "ra_fild08" : {
-    "displayName" : "Daratan Ida"
+    "displayName" : "The Plain of Ida"
   },
   "ra_fild09" : {
-    "displayName" : "Padang Rumput Audhumbla"
+    "displayName" : "Audhumbla Grassland"
   },
   "ra_fild10" : {
-    "displayName" : "Tebing Od"
+    "displayName" : "Od Canyon"
   },
   "ra_fild11" : {
-    "displayName" : "Daratan Ida"
+    "displayName" : "The Plain of Ida"
   },
   "ra_fild12" : {
-    "displayName" : "Daratan Ida"
+    "displayName" : "The Plain of Ida"
   },
   "ra_fild13" : {
-    "displayName" : "Tepi Pantai"
+    "displayName" : "Shore of Tears"
   },
   "ra_in01" : {
-    "displayName" : "Dalam Rachel"
+    "displayName" : "Inside Rachel"
   },
   "ra_san01" : {
-    "displayName" : "Tanah Suci"
+    "displayName" : "Holy Ground 1F (North)"
   },
   "ra_san02" : {
-    "displayName" : "Tanah Suci"
+    "displayName" : "Holy Ground 1F (West)"
   },
   "ra_san03" : {
-    "displayName" : "Tanah Suci"
+    "displayName" : "Holy Ground 1F (East)"
   },
   "ra_san04" : {
-    "displayName" : "Tanah Suci"
+    "displayName" : "Holy Ground 1F (South)"
   },
   "ra_san05" : {
-    "displayName" : "Tanah Suci"
+    "displayName" : "Holy Ground 2F (Center)"
   },
   "ra_temin" : {
-    "displayName" : "Dalam Kuil"
+    "displayName" : "Inside Temple"
   },
   "ra_temple" : {
-    "displayName" : "Kuil Utama - Cheshrumnir"
+    "displayName" : "Freya Grand Temple - Cheshrumnir"
   },
   "ra_temsky" : {
-    "displayName" : "Kantor Uskup - Taman Surga"
+    "displayName" : "Pope's Office - The Garden of Heaven"
   },
   "rachel" : {
-    "displayName" : "Rachel, Ibukota Negeri Arunafeltz"
+    "displayName" : "Capital of Arunafeltz States, Rachel"
   },
   "s_atelier" : {
-    "displayName" : "Bengkel Bayangan"
+    "displayName" : "Shadow Workshop"
+  },
+  "sch_gld" : {
+    "displayName" : "Nidhoggur"
+  },
+  "schg_cas01" : {
+    "displayName" : "Heemin"
+  },
+  "schg_cas02" : {
+    "displayName" : "Andlerangh"
+  },
+  "schg_cas03" : {
+    "displayName" : "Bidblind"
+  },
+  "schg_cas04" : {
+    "displayName" : "Hueluid"
+  },
+  "schg_cas05" : {
+    "displayName" : "Schatirnil"
   },
   "schg_dun01" : {
-    "displayName" : "Guild Dungeon"
+    "displayName" : "Subterranean Guild Dungeon"
   },
   "schg_que01" : {
-    "displayName" : "Morestone"
+    "displayName" : "Morestone Prairie"
   },
   "sec_in01" : {
-    "displayName" : "Ruangan dalam Valhalla"
+    "displayName" : "Inside Valhalla"
   },
   "sec_in02" : {
-    "displayName" : "Ruangan dalam Valhalla"
+    "displayName" : "Inside Valhalla"
   },
   "sec_pri" : {
-    "displayName" : "Ruangan meditasi (Penjara Valhalla)"
+    "displayName" : "Room of Meditation (Valhalla Prison)"
+  },
+  "sec_pri02" : {
+    "displayName" : "Valhalla Prison"
+  },
+  "sp_dun01" : {
+    "displayName" : "Special Dungeon - Easy"
+  },
+  "sp_dun02" : {
+    "displayName" : "Special Dungeon - Normal"
+  },
+  "sp_dun03" : {
+    "displayName" : "Special Dungeon - Hard"
+  },
+  "sp_vip01" : {
+    "displayName" : "Special Dungeon - Easy (VIP)"
+  },
+  "sp_vip02" : {
+    "displayName" : "Special Dungeon - Normal (VIP)"
+  },
+  "sp_vip03" : {
+    "displayName" : "Special Dungeon - Hard (VIP)"
   },
   "spl_fild01" : {
-    "displayName" : "Splandid Field"
+    "displayName" : "Splendide Field"
   },
   "spl_fild02" : {
     "displayName" : "Splendide Field"
@@ -2073,22 +2646,22 @@
     "displayName" : "Splendide Field"
   },
   "spl_in01" : {
-    "displayName" : "Pos Komando di Splandid"
+    "displayName" : "Inside Splendide"
   },
   "spl_in02" : {
-    "displayName" : "Splandid"
+    "displayName" : "Inside Splendide"
   },
   "splendide" : {
-    "displayName" : "Markas Rapine, Splandid"
+    "displayName" : "Splendide"
   },
   "sword_1-1" : {
-    "displayName" : "Ruang Tes Swordman"
+    "displayName" : "Swordman Test Hall"
   },
   "sword_2-1" : {
-    "displayName" : "Ruang Tes Swordman"
+    "displayName" : "Swordman Test Hall"
   },
   "sword_3-1" : {
-    "displayName" : "Ruang Tes Swordman"
+    "displayName" : "Swordman Test Hall"
   },
   "te_alde_gld" : {
     "displayName" : "Kafragaten"
@@ -2132,18 +2705,6 @@
   "teg_dun02" : {
     "displayName" : "Subterranean Dungeon of Guild"
   },
-  "tha_rwc01" : {
-    "displayName" : "Arena 9"
-  },
-  "tha_rwc02" : {
-    "displayName" : "Arena 10"
-  },
-  "tha_rwc03" : {
-    "displayName" : "Arena 11"
-  },
-  "tha_rwc04" : {
-    "displayName" : "Arena 12"
-  },
   "tha_t01" : {
     "displayName" : "Thanatos Tower - Lower Level"
   },
@@ -2184,7 +2745,7 @@
     "displayName" : "Thanatos Tower - Unknown Area"
   },
   "thana_scene01" : {
-    "displayName" : "Gerbang Thanatos Tower"
+    "displayName" : "Thanatos Tower Entrance"
   },
   "thana_step" : {
     "displayName" : "Thanatos Tower - Upper Level"
@@ -2193,37 +2754,46 @@
     "displayName" : "Thor Volcano Camp"
   },
   "thor_v01" : {
-    "displayName" : "Thor Volcano Dungeon"
+    "displayName" : "Thor Volcano Dungeon 1F"
   },
   "thor_v02" : {
-    "displayName" : "Thor Volcano Dungeon"
+    "displayName" : "Thor Volcano Dungeon 2F"
   },
   "thor_v03" : {
-    "displayName" : "Thor Volcano Dungeon"
+    "displayName" : "Thor Volcano Dungeon 3F"
   },
   "treasure01" : {
-    "displayName" : "Kapal Hantu"
+    "displayName" : "Sunken Ship 1F"
   },
   "treasure02" : {
-    "displayName" : "Kapal Hantu"
+    "displayName" : "Sunken Ship 2F"
+  },
+  "treasure_n1" : {
+    "displayName" : "Izlude wreck 1F"
+  },
+  "treasure_n2" : {
+    "displayName" : "Izlude wreck 2F"
+  },
+  "trn_fild" : {
+    "displayName" : "Training Ground"
   },
   "tur_dun01" : {
-    "displayName" : "Pulau Turtle"
+    "displayName" : "Turtle Island"
   },
   "tur_dun02" : {
-    "displayName" : "Turtle Dungeon"
+    "displayName" : "Turtle Island Dungeon"
   },
   "tur_dun03" : {
-    "displayName" : "Desa Turtle"
+    "displayName" : "Good Turtles Village"
   },
   "tur_dun04" : {
-    "displayName" : "Istana Turtle"
+    "displayName" : "Turtle Palace"
   },
   "tur_dun05" : {
-    "displayName" : "Daerah Rawa Bawa Tanah"
+    "displayName" : "Underground swamp zone"
   },
   "tur_dun06" : {
-    "displayName" : "Daerah Rawa Bawa Tanah"
+    "displayName" : "Underground swamp zone"
   },
   "turbo_e_16" : {
     "displayName" : "Turbo Track Stadium"
@@ -2247,34 +2817,46 @@
     "displayName" : "Turbo Track Stadium"
   },
   "turbo_room" : {
-    "displayName" : "Ruang Tunggu"
+    "displayName" : "Waiting Room"
   },
   "um_dun01" : {
-    "displayName" : "Toko Tukang Kayu di Dalam Hutan"
+    "displayName" : "Carpenter's Shop in the Tree"
   },
   "um_dun02" : {
-    "displayName" : "Jalan Menuju ke Dunia Lain"
+    "displayName" : "Passage to a Foreign World"
   },
   "um_fild01" : {
-    "displayName" : "Hutan Ruruka"
+    "displayName" : "Luluka Forest"
   },
   "um_fild02" : {
-    "displayName" : "Hutan Humga"
+    "displayName" : "Hoomga Forest"
   },
   "um_fild03" : {
-    "displayName" : "Rawa-rawa Karara"
+    "displayName" : "Kalala Swamp"
   },
   "um_fild04" : {
-    "displayName" : "Hutan Humga"
+    "displayName" : "Hoomga Jungle"
   },
   "um_in" : {
-    "displayName" : "Dalam Umbala"
+    "displayName" : "Inside Umbala"
   },
   "umbala" : {
-    "displayName" : "Umbala, Desa Suku Wootan"
+    "displayName" : "Wootan Tribe's Village, Umbala"
+  },
+  "un_bk_q" : {
+    "displayName" : "Under Bunker"
+  },
+  "un_bunker" : {
+    "displayName" : "Under Bunker"
+  },
+  "un_myst" : {
+    "displayName" : "Under Tunnel"
+  },
+  "val_hal" : {
+    "displayName" : "Valk Hall"
   },
   "valkyrie" : {
-    "displayName" : "Aula Valhalla , Aula penghormatan"
+    "displayName" : "Valkyrie Hall, the Hall of Honor"
   },
   "ve_fild01" : {
     "displayName" : "Veins Field"
@@ -2284,6 +2866,12 @@
   },
   "ve_fild03" : {
     "displayName" : "Veins Field"
+  },
+  "ve_fild03_a" : {
+    "displayName" : "Veins Field (A)"
+  },
+  "ve_fild03_b" : {
+    "displayName" : "Veins Field (B)"
   },
   "ve_fild04" : {
     "displayName" : "Veins Field"
@@ -2297,59 +2885,83 @@
   "ve_fild07" : {
     "displayName" : "Veins Field"
   },
+  "ve_fild07_a" : {
+    "displayName" : "Veins Field (A)"
+  },
+  "ve_fild07_b" : {
+    "displayName" : "Veins Field (B)"
+  },
   "ve_in" : {
-    "displayName" : "Dalam Veins"
+    "displayName" : "Inside Veins"
   },
   "ve_in02" : {
     "displayName" : "Inside Veins"
   },
   "veins" : {
-    "displayName" : "Veins, Kota Thor"
+    "displayName" : "Veins, the Canyon Village"
+  },
+  "ver_eju" : {
+    "displayName" : "Juperos Eastern Ruin"
+  },
+  "ver_tunn" : {
+    "displayName" : "Verus Outskirts Tunnel"
+  },
+  "verus01" : {
+    "displayName" : "Lab-OPTATIO"
+  },
+  "verus02" : {
+    "displayName" : "R&D-WISH"
+  },
+  "verus03" : {
+    "displayName" : "Verus Central Square"
+  },
+  "verus04" : {
+    "displayName" : "Verus Excavation Site"
   },
   "wizard_1-1" : {
-    "displayName" : "Akademi Wizard"
+    "displayName" : "Wizard Academy"
   },
   "wizard_2-1" : {
-    "displayName" : "Akademi Wizard"
+    "displayName" : "Wizard Academy"
   },
   "wizard_3-1" : {
-    "displayName" : "Akademi Wizard"
+    "displayName" : "Wizard Academy"
   },
   "xmas" : {
-    "displayName" : "Lutie,Desa Salju"
+    "displayName" : "Lutie, Snow Village"
   },
   "xmas_dun01" : {
-    "displayName" : "Gudang Pabrik Mainan"
+    "displayName" : "Toy Factory Warehouse"
   },
   "xmas_dun02" : {
-    "displayName" : "Ruang Klasifikasi Mainan"
+    "displayName" : "Toy Monitoring Room"
   },
   "xmas_fild01" : {
-    "displayName" : "Daratan Lutie"
+    "displayName" : "Lutie Field"
   },
   "xmas_in" : {
-    "displayName" : "Dalam Lutie"
+    "displayName" : "Inside Lutie"
   },
   "y_airport" : {
     "displayName" : "Juno Airport"
   },
   "yggdrasil01" : {
-    "displayName" : "?Pulau Herbet Camlet (Batang Pohon Yggdrasil)"
+    "displayName" : "Hvergelmir's Fountain (Trunk of Yggdrasil)"
   },
   "yuno" : {
-    "displayName" : "Juno, Ibukota Schwaltsvalt"
+    "displayName" : "Juno, the capital of Schwarzwald Republic"
   },
   "yuno_fild01" : {
-    "displayName" : "Perbatasan"
+    "displayName" : "Border Posts"
   },
   "yuno_fild02" : {
-    "displayName" : "Kyll Hire's Villa"
+    "displayName" : "Kiel Hyre's Cottage"
   },
   "yuno_fild03" : {
-    "displayName" : "Hermes Fletue"
+    "displayName" : "El Mes Plateau"
   },
   "yuno_fild04" : {
-    "displayName" : "Hermes Fletue"
+    "displayName" : "El Mes Plateau"
   },
   "yuno_fild05" : {
     "displayName" : "El Mes Plateau"
@@ -2361,13 +2973,13 @@
     "displayName" : "El Mes Gorge (Valley of Abyss)"
   },
   "yuno_fild08" : {
-    "displayName" : "Akademi Kiel Khayr's"
+    "displayName" : "Kiel Hyre's Academy"
   },
   "yuno_fild09" : {
-    "displayName" : "Camp penjaga Schwaltzwald"
+    "displayName" : "Schwaltzwald Guards Camp"
   },
   "yuno_fild10" : {
-    "displayName" : "Juno Fiel d"
+    "displayName" : "Juno Field"
   },
   "yuno_fild11" : {
     "displayName" : "Juno Field"
@@ -2376,21 +2988,24 @@
     "displayName" : "Border Checkpoint"
   },
   "yuno_in01" : {
-    "displayName" : "Dalam Juno"
+    "displayName" : "Inside Juno"
   },
   "yuno_in02" : {
-    "displayName" : "Dalam Kastil Sage"
+    "displayName" : "Inside the Sage Castle"
   },
   "yuno_in03" : {
-    "displayName" : "Dalam Juno"
+    "displayName" : "Inside Juno"
   },
   "yuno_in04" : {
-    "displayName" : "Dalam Juno"
+    "displayName" : "Republic Library"
   },
   "yuno_in05" : {
-    "displayName" : "Ruangan pusat jantung Ymir"
+    "displayName" : "Power Plant of Ymir's Heart"
   },
   "yuno_pre" : {
-    "displayName" : "Gedung Pemerintahab Schwaltzvalt"
+    "displayName" : "Schwaltzvalt Government Buildings"
+  },
+  "z_agit" : {
+    "displayName" : "Z Gang's Hideout"
   }
 }

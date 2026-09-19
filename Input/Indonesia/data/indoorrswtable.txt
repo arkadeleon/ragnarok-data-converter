@@ -1,3 +1,32 @@
+//EP.15.2 베루스
+un_bunker.rsw#
+un_bk_q.rsw#
+un_myst.rsw#
+
+//영웅의 흔적2 업데이트 
+iz_ng01.rsw#
+
+//201606 추석이벤트
+nakhyang.rsw#
+
+prt_pri00.rsw#
+
+//사크라이 12.08.27
+
+1@gef_in.rsw#
+
+
+//사크라이 11.11.07
+ecl_in01.rsw#
+ecl_in02.rsw#
+ecl_in03.rsw#
+ecl_in04.rsw#
+que_avan01.rsw#
+1@ecl.rsw#
+ecl_tdun04.rsw#
+
+
+
 //사크라이 11.09.26
 
 ma_in01.rsw#
@@ -20,7 +49,7 @@ dew_in01.rsw#
 dic_in01.rsw#
 bra_in01.rsw#
 s_atelier.rsw#
-moc_para01.rsw#
+//moc_para01.rsw#
 job3_guil01.rsw#
 job3_guil02.rsw#
 man_in01.rsw#
@@ -107,5 +136,3 @@ ve_in.rsw#
 ve_in02.rsw#
 que_thor.rsw#
 nameless_in.rsw#
-mal_in01.rsw#
-mal_in02.rsw#

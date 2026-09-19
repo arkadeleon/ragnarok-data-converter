@@ -25,7 +25,7 @@
 4025#Keen#
 4026#Shrewd#
 4027#Athletic#
-4028#Double-forced#
+4028#Double-Forced#
 4029#Wolverine#
 4030#Windy#
 4031#of Ares#
@@ -35,8 +35,8 @@
 4035#Bloody#
 4036#Robust#
 4037#Untouchable#
-4038#of Health#
-4039#of Aristotle#
+4038#Healthy#
+4039#Aristo#
 4040#Teleport#
 4041#of Sandman#
 4042#of Heman#
@@ -56,7 +56,7 @@
 4056#of Warmth#
 4057#Silence#
 4058#Cranial#
-4059#of Cadi#
+4059#Cadi#
 4060#Clamorous#
 4061#Immortal#
 4062#Envenom#
@@ -93,7 +93,7 @@
 4093#Cure#
 4094#Kingbird#
 4095#Genie's#
-4096#Venomer's#
+4096#Venomous#
 4097#Green#
 4098#of Zephyrus#
 4099#of Ifrit#
@@ -119,7 +119,7 @@
 4119#Evil#
 4120#of Dragoon#
 4121#Perfect#
-4122#Adurate#
+4122#Adulate#
 4123#Bearer's#
 4124#Plasterer's#
 4125#Aqua#
@@ -162,7 +162,7 @@
 4162#of Blind#
 4163#Wild#
 4164#of Fisherman#
-4165#of Insect Soul Gain#
+4165#Insect Soul Gain#
 4166#of Jinx#
 4167#Beast Soul Gain#
 4168#of Doom#
@@ -176,20 +176,20 @@
 4176#Fatal Serpent#
 4177#of Green Stone#
 4178#of Bow Master#
-4179#of Highlight#
+4179#High Light#
 4180#Dragonic Soul Gain#
 4181#of Silence#
 4182#Demonic Soul Gain#
 4183#Werewolf#
 4184#Break#
-4185#of Wisdom#
-4186#Strenous#
+4185#Wisdom#
+4186#Strenuous#
 4187#of Gloomy Evening#
 4188#of Red Stone#
 4189#of Misfortune#
 4190#of Laugh Maker#
 4191#of Life Stream#
-4192#of Fatal Pisces#
+4192#Fatal Pisces#
 4193#of Patience#
 4194#of Stun#
 4195#of Blue Stone#
@@ -204,7 +204,7 @@
 4204#of Poacher#
 4205#of Blue Cubic#
 4206#Cubic#
-4207#Anti-small#
+4207#Anti-Small#
 4208#of Full Energy#
 4209#of Crack#
 4210#Pressure#
@@ -244,24 +244,24 @@
 4244#of Seeker#
 4245#of Assassin#
 4246#Kill#
-4247#Starfish#
+4247#Star Fish#
 4248#Shining Cross#
 4249#of Exorcist#
-4250#Anti-large#
+4250#Anti-Large#
 4251#Invade#
 4252#of Four Leafed Clover#
 4253#of Royal Guard#
-4254#Anti Medium#
+4254#Anti-Medium#
 4255#Smash#
 4256#Desired#
 4257#Wing#
-4258#Prodigy#
+4258#Improved Intelligence#
 4259#of Nature#
 4260#Confusion Guard#
 4261#Blinding Guard#
 4262#of Cloudy Day#
-4263#Bloodlust#
-4264#Thunderbolt#
+4263#Bloody Lust#
+4264#Lightning#
 4265#of Dawn#
 4266#Resist Magic#
 4267#of Dragon Slayer#
@@ -269,7 +269,7 @@
 4269#of Nightmare#
 4270#of Venom#
 4271#of Yellow Stone#
-4272#Swift#
+4272#Speedy#
 4273#Shell#
 4274#Undead Soul Gain#
 4275#of Undead Slayer#
@@ -280,7 +280,7 @@
 4280#of Great Blessing#
 4281#Hard Working#
 4282#of Potion#
-4283#Mana Spear#
+4283#Mana Sphere#
 4284#Gentle Touch#
 4285#Casted by Elf#
 4286#of Panic#
@@ -302,7 +302,7 @@
 4302#of High Risk#
 4303#Mystic#
 4304#of Shield Master#
-4305#Explosive#
+4305#Blast#
 4306#of King#
 4307#Seaforce Soul Gain#
 4308#Force Drain#
@@ -311,24 +311,24 @@
 4311#Anti Evil Power#
 4312#Spirit#
 4313#of Bog#
-4314#Fire-Proof#
+4314#Frame Guard#
 4315#of Stone Curse#
 4316#Angelic Soul Gain#
-4317#Aural#
+4317#Aura#
 4318#Storm Causing#
 4319#of Sword Master#
-4320#Meteoric#
+4320#Meteor Light#
 4321#of Polymorph#
-4322#of Retaliation#
-4323#of Frost#
-4324#Arctic#
-4325#Vicious#
+4322#of Counter Attack#
+4323#Frost#
+4324#Frozen#
+4325#Toughness#
 4326#of Fish Smell#
 4327#Spell Flow#
 4328#Hyper#
 4329#Soul Gain#
-4330#Curse Lift#
-4331#Evasion#
+4330#Uncurse#
+4331#of Evade#
 4332#of Talent#
 4333#of Chaotic Venom#
 4334#Anti-Sniping#
@@ -374,11 +374,11 @@
 4374#of Vision#
 4375#Extra High Level#
 4376#Manaful#
-4377#Sweety#
+4377#Sweetie#
 4378#Low Level#
 4379#Low Level#
 4380#Salamander#
-4381#of Wonderer#
+4381#of Wanderer#
 4382#of Scholar#
 4383#Chaotic#
 4384#Magic Eater#
@@ -390,7 +390,7 @@
 4390#Blooding#
 4391#Snack#
 4392#of Dexterity Switching#
-4393#of Inteligence Switching#
+4393#of Intelligence Switching#
 4394#Devine Cross#
 4395#Slug#
 4396#Dull#
@@ -405,7 +405,8 @@
 4405#of Magic Mirror#
 4406#Twinkle#
 4407#of Elimination#
-4408#Abbys#
+//-----EP 11.3-----
+4408#Abyss#
 4409#Panic#
 4410#Mad#
 4411#Arta's#
@@ -439,6 +440,7 @@
 4439#of Anathema#
 4440#of Ignoring#
 4441#Arrogant#
+
 4442#of Basis#
 4443#of Saharic#
 4444#of Underneath#
@@ -446,12 +448,14 @@
 4447#of Envenom#
 4448#of Damned#
 4449#of Hallowed#
-4450#Surplu#
+4450#Surplus#
 4451#of Access#
 4452#Magical#
 4453#Violent#
+
 4454#Sorry#
 4455#Love#
+
 4456#Spell Master#
 4457#Psychic#
 4458#of Illusion#
@@ -466,48 +470,241 @@
 4467#Heavy#
 4468#Pollution#
 4469#Marine#
-4470#Botani#
+4470#Botanic#
 4471#Draco#
-4472#Carnival#
+4472#Cannibal#
 4473#Undead#
 4474#Mortal#
 4475#Intangible#
 4476#Entomic#
 4477#Demonic#
-4478#Tell me#
-4479#Why did you#
+
+//---------- Update 25.01.2013
+4480#of Half Reload#
+4481#Half Jack Frost's#
+4482#of Half Regeneration#
+4483#Half Spiritual#
+4484#of Half Gemstone#
+4485#Half Abyss#
+4486#of Half Bigmouth#
+4487#Half Inferno#
+4488#Half Doom#
+4489#of Half Kirin#
+4490#Half Hasty#
+4491#Half Squeezing#
+4492#Half Neutral#
+4493#Half High Risk#
+4494#Half Blast#
+4495#of Half Protective's#
+4496#of Half Infinity#
+4497#Half Storm Gust's#
+4498#Half Manaful#
+4499#Half Bloody Lust#
+4500#Half Mirror#
+4501#Half Protection#
+4502#of Half Hollgrehenn#
+4503#of Half Vision#
+4504#Half Bearer's#
+4505#of Mad Witch#
+4506#of Archer#
+4507#Scaraba#
+4508#of Mad Berserker#
+4509#Insect-proof#
+4510#Black out#
+4511#Silentium#
+4512#of Acolyte#
+4513#of Thief#
+4514#Exorcism#
+4515#Flora#
+4516#of Stoneskin#
+4517#of Magician#
+4518#Hellfire#
+4519#Seraphim#
+4520#Scream#
 4521#Mortal Blow#
 4522#Cold#
-4523#Aquaris#
+4523#Aquarius#
 4524#of Swordman#
 4525#Sweep#
-4486#Of Half Bigmouth#
-4504#Half Bearer's#
-4498#Half Manaful#
-4497#Half Storm Gust's#
-4485#Half Abbys#
-4488#Half Destructive#
-4492#Half Neutral#
-4480#Of Half Reload#
-4549#of Upg True Sight#
+4526#of Magic Defense#
+4527#of Defense#
+4528#Willpower#
+4529#Muscular#
+4530#of Merchant#
+4531#Under Curse#
+4532#Running#
+4533#Blinding#
+4534#Water Cannon#
+4535#of Half Elimination#
+4536#Half Beast#
+4537#Half Perfect#
+4538#Half Life Stream#
+4539#Half Arrogant#
+4540#Half Crisis#
+4541#of Half Tempest#
+4542#of Half Magic Shelter#
+4543#Half Frozen#
+4544#Half Uncurse#
 
-//--- malangdo----
+4545#Newbie#
 
-4524#Of swordman#
-4526#of Magic defense#
-4527#of defense#
-4528#Spiritual#
-4529#Myodynamic#
-4530#of merchant#
-4531#Under curse#
-4532#Speedy#
-4533#blinding#
-4534#water bomb#
-4499#Half Extreme Lust's#
-4500#Half Mirror#
-4481#Half Abbys#
-4493#Half Highly Dangerous#
-4495#Of Half Protective's#
-4503#Of Half Vision#
-4539#Half Arrorgant#
-4487#Half Inferno#
+31016#of Sorrow#
+31017#of Hate#
+31018#Frustration#
+31019#Chilly#
+31020#of Anger#
+31021#Madness#
+31022#Desperation#
+31023#Maniac#
+
+27211#Half Scythelike#
+27212#Half Reflect#
+
+4652#Punishment#
+4653#Immortal Beast#
+4654#Tomb Raider#
+4655#Grave Keeper#
+4656#Hypnotic#
+4657#Flame#
+4658#Magical#
+
+4556#Power Word#
+4557#Orb Spell Power#
+
+4625#Wisdom of#
+4626#Vibration of#
+4627#Shake of#
+4628#Invisible Horror Orb#
+4629#Bone-dry#
+4630#Time Keeper Orb#
+4631#Expeditious#
+4632#Voltaic#
+
+4560#of Bragi#
+4561#of Magic Protection#
+4562#of Penetrating#
+4563#of Acid#
+4564#of Gentleman#
+4565#of Grand Cross#
+4566#of Lucky#
+4567#of Bard#
+4568#of Gnosis#
+4569#of Origin#
+4570#of Fast Recovery#
+4571#of Bind#
+4572#of Solidity#
+4573#of Dancer#
+4574#Sword Master#
+4575#Short Cut#
+4576#Educe#
+4577#Psychic#
+4578#Fear#
+4579#Morning Star#
+4580#of Devilish#
+4581#Toilet#
+4582#Stamina#
+4583#of Poison Grass#
+4584#Vampiric#
+4585#Cursed#
+4586#of Wind#
+4587#Slasher#
+4588#of Power#
+4589#of Richness#
+4590#of Helplessness#
+4591#of Bloody#
+4592#of Stone Curse#
+4593#of Shooter#
+4594#of Death Blow#
+4595#of Acid#
+4596#of Intellectual#
+4597#of Water#
+4598#of Telekinesis#
+4599#of Fire#
+4600#of Ground#
+4601#of Explosion#
+4602#of Fury#
+4603#of Evil Spirit#
+4604#of Evil God#
+4605#of Hunger#
+4606#of Revenge#
+4607#of Librarian#
+
+//    Ǽҵ  14.3 //
+4559#Blitz#
+4908#Strong#
+4909#Strong#
+4910#Strong#
+4911#Intelligent#
+4912#Intelligent#
+4913#Intelligent#
+4914#Agile#
+4915#Agile#
+4916#Agile#
+4917#Strong#
+4918#Strong#
+4919#Strong#
+4920#Clever#
+4921#Clever#
+4922#Clever#
+4923#Lucky#
+4924#Lucky#
+4925#Lucky#
+27026#Burning#
+27027#Flamimg#
+27028#Blazing#
+27029#Flameter#
+27030#Firebug#
+27106#Musician #
+27107#Dancing#
+27108#Singing#
+27109#Jitterbug's#
+
+//---     ޸𸮾     
+4608#Knight#
+4609#Knight#
+
+//2017   9      ں   ī  
+27157#of Aquawood#
+27158#Of Windness#
+27159#Demon Hunter#
+27160#Dodge#
+27161#Land Blast#of Aquawood
+27162#Soul Steal#
+
+//faceworm
+27163#Abranchia#
+27164#Coya#
+27165#Avian#
+27166#Frio#
+27167#Glacial#
+
+//EP15_1
+4697#Overload#
+4698#Boomerang#
+4699#Dual Cannon#
+27012#Active Protection#
+27013#Vulcan#
+
+//EP15_2
+27014#Mirage#
+27015#Restore#
+27016#All Scan#
+27017#Temporary#
+27018#Overclock#
+27019#Debug#
+27020#System Error#
+
+//EP10
+29047##
+29048##
+29049##
+29050##
+29053##
+29054##
+29055##
+29056##
+
+//Gatchaman
+300732#Take flight!!#
+300733#I'll crush you!#
+300734#Fire!#

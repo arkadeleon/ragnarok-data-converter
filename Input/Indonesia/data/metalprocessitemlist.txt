@@ -15,10 +15,10 @@
 10 Crystal Blue
 #
 997#
-10 Green Live
+10 Yellow Live
 #
 996#
-10 Wind Of Verdure
+10 Wind of Verdure
 #
 1101#
 2 Iron
@@ -156,7 +156,7 @@
 #
 1522#
 120  Steel
-1 Heroic Emblem
+1 Orcish Voucher
 #
 1401#
 3 Iron
@@ -213,7 +213,7 @@
 10 Opal
 #
 7135#
-1 Alcohol
+1 Alchol
 1 Fabric
 1 Empty Bottle
 #
@@ -231,7 +231,7 @@
 1 Empty Bottle
 #
 7139#
-1 Alcohol
+1 Alchol
 1 Zenorc's Fang
 1 Heart of Mermaid
 1 Empty Bottle
@@ -276,29 +276,13 @@
 #
 605#
 1 Ment
-1 Alcohol
+1 Alchol
 1 Empty Bottle
 #
 606#
 1 Aloe
 1 Honey
 1 Empty Bottle
-#
-12118#
-2 Frills
-1 Red Gemstone
-#
-12119#
-3 Hearts of Mermaid
-1 Blue Gemstone
-#
-12120#
-2 Large Jellopies
-1 Yellow Gemstone
-#
-12121#
-3 Moth Dust
-1 Blue Gemstone
 #
 12118#
 2 Frills

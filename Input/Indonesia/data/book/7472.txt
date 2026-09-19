@@ -1,58 +1,43 @@
 %faf0e6
-^000088- Jangan Panik ketika kanu sendiri di tempat yang kamu tidak ketahui. 
-Kamu bisa selamat dengan resep dibuku ini! -^000000
+^000088- ไม่ต้องตื่นตระหนกตกใจไปเมื่อท่านต้องอยู่คนเดียวในที่ๆไม่มีใครรู้จัก เพียงมีหนังสือเล่มนี้อยู่ในมือท่านก็สามารถอยู่รอดได้! -^000000
 
-Kamu bisa melakukannya: Memasak Level 1!
+ใครๆ ก็ทำได้ : Level 1 Cooking!
 
-^ff0000Fried Grasshopper Legs:^000000 Jangan khawatir -- grasshopper legs sebenarnya sangat lezat, 
-                                       dan tidak akan meloncat saat sudah digoreng.
-Bahan bahan: ^4b00825 Grasshopper Legs, 1 Old Frying Pan, 1 Cooking Oil ^000000
-Pentunjuk: 
-	1. Panaskan old frying pan dengan api sedang. (Frying pan baru terkadang menyerap minyak, dan memerlukan
-                    waktu untuk panas. Kalau kamu tidak punya frying pan bekas pakai, maka gunakan lemak Savage 
-                    untuk kalau menggunakan frying pan baru.)
-	2. Tambahkan 2 sendok teh Cooking Oil kedalam pan, dan perlahan masukkan 3 Grasshopper Legs. 
-                    ketika sudah berubah warna coklat keemasan, tambahkan lagi 2 legs dan 1 sendok teh 
-                    Cooking Oil, dan goreng hingga renyah.
+^ff0000Fried Grasshopper Legs:^000000 ไม่ต้องห่วง จริงๆแล้วขาตั๊กแตนก็รสชาตดีไม่ใช่น้อย เพียงแต่ต้องนำมาทอดให้เป็นเท่านั้นเอง
+ส่วนผสม : ^4b00825 Grasshopper Legs, 1 Old Frying Pan, 1 Cooking Oil ^000000
+วิธีทำ : 
+	1. ตั้งกระทะเก่าที่ได้มาให้ร้อนปานกลาง  (กระทะใหม่จะค่อนข้างดูดซับน้ำมัน ซึ่งใช้เวลานานกว่าจะร้อน ถ้าท่านไม่มีกระทะเก่าขอแนะนำให้ใช้ ไขมันของ Savage กับกระทะใหม่แทนน้ำมันจะดีกว่า)
+	2. เทน้ำมันลงกระทะ ใส่ขาตั๊กแตน 3 ขาลงกระทะ รอจนเหลืองกรอบจึงตักใส่จาน ค่อยๆ ใส่ลงไปอีกทีละ 2 ขาไปเรื่อยๆ จนหมด ค่อยๆ นำใส่จานเรื่อยๆ เป็นอันเสร็จพิธี
 
-^0000ffGrape Juice Herbal Tea:^000000Akan segera siap segera setelah kamu mencampur grapes dengan potion!
-Bahan: ^4b00823 Grape, 2 Red Potions ^000000
-Pentunjuk: 
-	1. Peras 1 Grape, dan campur dengan 1 Red Potion kedalam mixer. 
-                    Ingat: jangan membuang biji grape dan kulitnya! Ketika Grape dan Red potion di campur,
-                    tambahkan lagi Red Potion kedalam mixer, dan kemudian kocok 10 detik.
+^0000ffGrape Juice Herbal Tea:^000000 พร้อมแล้วที่จะให้ท่านดื่มด่ำไปกับกานผสมผสานของชาสมุนไพรและองุ่นแท้
+ส่วนผสม : ^4b00823 Grape, 2 Red Potions ^000000
+วิธีทำ : 
+	1. บดองุ่นให้แหลกแล้วผสมมันลงในขวด Red Potion จำไว้ว่าอย่านำเมล็ดและเปลือกออก เมื่อผสมกันเข้าที่แล้วให้ใส่ไปยัง Red Potion อีกขวดแล้วเขย่าประมาณ 10 วินาที เป็นอันเสร็จเรียบร้อย
 
 
 
-^800000Honey Grape Juice:^000000 Campurkan saja Honey dan Grapes bersamaan, dan langsung bisa kamu nikmati!
-Bahan bahan: ^4b00821 Honey, 2 Grape, 1 Red Potion ^000000
-Petunjuk: Ini resep yang sama dengan Grape Juice Herbal Tea, kecuali kamu menambahkan Honey daripada 
-                    Red Potion di akhirnya.
+^800000Honey Grape Juice:^000000 ส่วนผสมระหว่างองุ่นและน้ำผึ้งที่ลงตัว ทำให้เกิดรสชาตที่แสนอร่อย
+ส่วนผสม : ^4b00821 Honey, 2 Grape, 1 Red Potion ^000000
+วิธีทำ : สูตรเหมือนกับ Grape Juice Herbal Tea เพียงแต่ท่านต้องใส่แทน Red Potion ในขั้นตอนสุดท้ายเท่านั้นเอง
 
-^008040Frog Egg Squid Ink Soup:^000000Sup dengan tambahan saus Squid Ink yang sehat.
-Ingredients: ^4b00821 Bag of Grain, 10 Spawn, 1 Squid Ink ^000000
-Petunjuk: 
-	1. Taruh Spawns didalam panci berisikan air dingin untuk meningkatkan kekenyalannya, dan kemudian 
-                    haluskan grain.
-	2. Campur grain dengan air, dan kemudian panaskan campurannya sampai padat.  
-   	3. Tambahkan Spawns kedalam campuran yang masih panas.
-	4. Ketika Spawns sudah empuk, tambahkan Squid Ink sebagai saus, dan kemudian tambahkan panasnya hingga 
-                    campuran mendidih.
+^008040Frog Egg Squid Ink Soup:^000000 ซุปที่เพิ่มรสชาติด้วยซอสหมึก
+ส่วนผสม : ^4b00821 Bag of Grain, 10 Spawn, 1 Squid Ink ^000000
+วิธีทำ : 
+	1. นำไข่กบใส่ลงในชามที่มีน้ำเย็น จากนั้นให้บดเมล็ดข้าว
+	2. หลังจากบดเมล็ดข้าวจนละเอียดให้นำมาใส่รวมกัน เคี่ยวให้เข้ากันจนได้ที่
+   	3. เพิ่มไข่กบลงไปเรื่อยๆ พร้อมกับเคี่ยวให้ทั่ว
+	4. เมื่อได้ที่แล้วให้ใส่ซอสหมึกลงไป นำไปต้มจนเดือดเป็นอันเสร็จ
           
-^ff8040Steamed Crab Nippers:^000000 Menyenangkan mengupas kulit dan memakan kepiting!
-Bahan bahan: ^00804010 Nippers, 10 Green Herbs, 1 Yellow Potion ^000000
-Petunjuk:
-	1. Rendam Nippers dalam Yellow Potion selama semalam sebelum kamu memasaknya.
-	2. Jejerkan steamer dengan kain bersih, dan tambahkan Green Herbs dan 
-                    rendaman Nippers.
-	3. Kukus Nippers sampai warna kulitnya menjadi merah.
+^ff8040Steamed Crab Nippers:^000000 การกินปูมันช่างให้ความรู้สึกที่วิเศษดีจริงๆ
+ส่วนผสม : ^00804010 Nippers, 10 Green Herbs, 1 Yellow Potion ^000000
+วิธีทำ :
+	1. นำก้ามปูมาหมักในน้ำซอส Yellow Potion แล้วทิ้งไว้ 1 คืน
+	2. นำ Green Herb ใส่ลงไปคลุกเคล้าให้เข้ากัน
+	3. นำไปอบไอน้ำจนกระทั่งก้ามของปูเปลี่ยนเป็นสีแดง
 
-^400080Fried Monkey Tails:^000000 Kamu mungkin khawatir bahwa monkey tails sangat susah dikuyah, 
-                                             tapi sebenarnya mereka mudah untuk dimakan.
-Bahan bahan: ^0080405 Yoyo Tails, 1 Old Frying Pan, 1 Cooking Oil^000000
-Petunjuk: 
-	1. Kuliti Yoyo Tails, dan potong potong ke ukuran yang bisa untuk dimakan.
-	2. Panaskan Old Frying Pan dengan api sedang, tambahkan Cooking Oil, dan kemudian goreng sedikit sedikit 
-                    Yoyo Tails. Dagingnya akan susah dimasak kalau kamu memasaknya semua sekaligus, jadi masak
-                    dalam jumlah sedikit.
+^400080Fried Monkey Tails:^000000 ท่านอาจจะกังวลกับหางลิงที่อาจจะเหนียวสักหน่อย แต่มันก็ทานง่ายนะ
+ส่วนผสม : ^0080405 Yoyo Tails, 1 Old Frying Pan, 1 Cooking Oil^000000
+วิธีทำ : 
+	1. ลอกหนังออก แล้วตัดเป็นชิ้นๆ พอดีคำ
+	2. ตั้งกระทะให้ร้อนปานกลาง ใส่น้ำมันรอจนร้อนแล้วใส่หางลิงลงไป อย่าลืมว่าต้องหั่นเป็นชิ้นๆ เสียก่อน ไม่อย่างนั้นจำทำให้หางลิงนั้นเหนียวจนเกินไป
           

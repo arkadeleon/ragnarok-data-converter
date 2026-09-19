@@ -1,107 +1,107 @@
-^000088 Manual energik minuman: Alchemist Bulanan - [Dreaming SP Vol.10]  ^000000
+^000088 คู่มือเครื่องดื่ม : Monthly Alchemist - [Dreaming SP Vol.10]  ^000000
 
 
- Alchemist  : Kami telah mengundang dua tokoh terkenal di kalangan alkemis yang mengembangkan ramuan meningkatkan SP yang fantastik! 
-Bolehkah saya meminta mereka untuk memperkenalkan dirinya sendiri?
+ Alchemist  : เราได้เชิญสองผู้มีชื่อเสียงในหมู่ของ Alchemist ผู้ที่พัฒนา SP increase potion อันแสนวิเศษขึ้น! 
+ขอให้พวกท่านช่วยแนะนำตัวเองด้วย?
 
 
-vain : Saya anak tertua! Dan saya suka mengumpulkan bunga-bunga. 
+vain : ข้าคือบุตรคนโต! และข้าชื่นชอบในการเก็บดอกไม้ 
 
-vajin : Saya anak kedua dan saya suka menonton pertunjukan wayang. saudara kami dinominasikan antara 10 Alchemist terkenal. 
-Kami sangat menghargai salam dukungan kalian.
+vajin : ข้าคือบุตรคนรอง และข้าชื่นชอบดูการแสดงตุ๊กตา พี่น้องของเราถูกเสนอให้เป็น 10 Alchemist ผู้มีชื่อเสียง 
+พวกเรารู้สึกเป็นเกียรติที่ได้รับคำชมจากคุณ
 
-Alch : Saya pernah mendengar bahwa kalian berdua menciptakan seri ramuan SP meningkat. Dapatkah saya meminta bagaimana bisa kamu membuat angka-angka ini? 
-
-
-vain : Ya, sementara kita menyelidiki batu hidup, kita akhirnya membuat ramuan bagi pelanggan untuk membuat hidup.
-        Pada awalnya, kami baru saja membuat beberapa jus penyediaan, tapi kita bisa tahu cara untuk memperbesar SP sejauh itu sendiri saat berhubungan investigasi.
-Kami tidak pernah dimaksudkan untuk mendapatkan monopoli untuk memproduksi ramuan ini.
+Alch : ข้าได้ยินมาว่าท่านทั้งสองเป็นผู้คิดค้น SP Increase potion series  ข้าขอถามหน่อย ทำไมพวกท่านถึงมาสร้างของเกี่ยวกับสิ่งเหล่านี้?
 
 
-
-
-
-
-Vajin : Teknik ini adalah membutuhkan keterampilan halus dan meluangkan waktu. Meskipun kamu mengetahui bagaimana untuk bisa keluar, bukan sesuatu yang mudah. Seperti tingkat keberhasilan sangat rendah, sehingga bisa mengkonsumsi bahan. Jadi saya harap kalian muda tidak akan kehilangan banyak
+vain : อ่า ใช่, ขณะที่พวกเรากำลังทดสอบ life stone, เราเสร็จสิ้นการสร้าง Potion สำหรับลูกค้าที่ต้องการดำเนินชีวิต
+       อันดับแรก, เราได้สร้างแค่บางอย่างเกี่ยวกับน้ำผลไม้, แต่เราไม่รู้วิธีที่จะขยายขอบเขต SP ของตนเอง ในขณะที่มีการตรวจสอบ
+เราไม่เคยตั้งใจจะผูกขาดการผลิต potions เหล่านี้เลย
 
 
 
 
 
 
-Alche : Intinya adalah, itu memerlukan bakat dari pembuat dari teknik.
-
-
-Vain : Tentu! Dengan peralatan yang sama dan bahan, tiba rasa keluar berbeda! Kami sudah lelah hampir 136.072. Sehingga saya ingin meminta orang untuk mencobanya jika kamu dianggap mengetahui cara yang lebih baik.
-
-
-Alche : Tapi kalian dua bersaudara berani akan didedikasikan untuk kemajuan dan pengembangan alat penyulingan ini.
-Sebagai sebuah cerita eksklusif, saya merasa terhormat terima kasih kepada kamu.
-
-
-Vajin : Sama-sama. Kami berpikir bahwa ini melanjutkan kegiatan yang lebih baik dan membuat perdamaian bekerja.  
-Meskipun kami mencoba untuk memiliki monopoli keterampilan ini, tidak akan bertahan lebih lama.
+Vajin : เทคนิคนี้ต้องการทักษะที่ละเอียดอ่อน และ เวลาในการดำเนินการ แต่ถ้าคุณรู้วิธีในการทำมันออกมา, มันไม่ได้ง่ายเลย อย่างไรก็ตามระดับความสำเร็จมันค่อนข้างน้อย, ดังนั้นเพียงแค่การใช้วัตถุดิบ ข้าจึงหวังว่า เหล่าเด็กๆ นี้จะไม่เสียมันไปโดยเปล่าประโยชน์
 
 
 
-Alche : Benarkah? Mengapa?
-
-Vain : Seperti saudara saya jelaskan, tidak ada ramuan yang memaksimalkan SP sendiri saat ini. 
-         Sejauh ini seperti yang kita lakukan, hanya ada keterampilan, kartu & peralatan yang memimpin memaksimalkan SP 
 
 
-         Meskipun kita hanya memperbesar SP itu sendiri, kita tidak bisa memecahkan masalah inti.
-         Hal yang kita buat lebih besar adalah ukuran mesin, bukan bahan bakar itu sendiri.
+
+Alche : ประเด็นคือ, มันต้องการความสามารถพิเศษของผู้ที่ผลิต มากว่าเทคนิคที่ใช้
+
+
+Vain : อันที่จริง! ด้วยวัสดุและส่วนประกอบเดียวกัน, มันจะมีส่วนที่แตกต่างกันออกไป! เราพยายามกับมันมาเกือบ 136,072 ครั้ง ดังนั้น เราจึงต้องการที่จะบอกคุณว่า ให้ลองมันดูถ้าคุณมีวิธีที่ดีกว่า
+
+
+Alche : แต่คุณทั้งสองพี่น้อง กล้าที่จะทุ่มเทเพื่อความก้าวหน้า และพัฒนาปรับปรุงนิ
+เป็นเรื่องค่อนข้างเฉพาะส่วนตัว, ข้ารู้สึกขอบคุณท่านทั้งสองจริงๆ
+
+
+Vajin : ไม่เป็นไร พวกเราคิดว่านี่เป็นการดำเนินกิจกรรมที่ดีและมันจะสร้างสันติภาพ  
+แต่เราพยายามที่จะผูกขาดในทักษะนี้, คงอีกไม่นานนี้หละ
+
+
+
+Alche : จริงรึ? ทำไมหละ?
+
+Vain : เหมือนที่พี่ของข้าอธิบายไป, มันไม่มี Potion ที่จะเพิ่ม SP ของตัวเองในทันที 
+         ดังนั้น ถ้าเราทำได้, มันจะมีเป็นเพียงแค่สกิลเดียวเท่านั้น, Card และ อุปกรณ์สวมใส่ที่ใช้เพิ่ม SP สูงสุด
+
+
+          แม้ว่าเราจะสามารถขยาย SP ของมันได้, แต่เราก็ยังไม่สามารถแก้ไขปัญหาหลักได้
+         สิ่งที่เราสร้างให้มันใหญ่ขึ้นคือขนาดของเครื่องจักร, ไม่มีการเติมเชื้อเพลิงของตัวมันเอง
  
-Vajin : Ada beberapa fungsi pemulihan dengan ramuan SP itu sendiri, tapi bukan itu hal besar. 
-     Sebagai kesimpulan, kami mendukung percepatan aktivitas otak dan tubuh untuk mendapatkan banyak mana. 
-Sejauh yang saya tahu, banyak biksu yang sama berdasarkan.
+Vajin : มันมีฟังก์ชั่นการคืนสภาพโดยใช้ SP potion ของตัวมันเอง, แต่มันไม่มีที่ไว้ใช้เก็บมากนัก 
+     โดยสรุป, เราเร่งสนับสนุนกิจกรรมของสมองและร่างกายสำหรับในการใช้ mana  
+เท่าที่ข้าทราบ, monk จำนวนมากที่มีพื้นฐานแบบเดียวกัน
 
 
 
 
-Vain : Sehingga kita bisa mendapatkan banyak alchemist kepentingan melalui metode memperbaiki.
-         Tapi cukup titik dalam negeri, dan itu tidak bahwa tindakan yang baik untuk negara lagi.
+Vain : ดังนั้นพวกเรา alchemist จำนวนมากจะต้องหันมาสนใจในวิธีการปรับแต่งสิ่งนี้
+         แต่มันคือสิ่งที่ทั้งประเทศกำลังสนใจ, และมันจะไม่ใช่การกระทำที่เกิดประโยชน์สำหรับรัฐอีกต่อไป
 
-Vajin : Ya, hal itu akan menyebabkan situasi yang buruk. 
+Vajin : ใช่, มันอาจจะทำให้สถานการณ์เลวร้ายลง
 
 
          
-Alche : Ok. Saya mengerti maksud kamu. Rahasianya adalah bahwa tidak tahan lama, dan kami akan lebih fokus pada pengaktifan pasar.
-itu pandangan yang luas.
+Alche : ตกลง ข้าต้องการทราบจุดยืนของท่าน ความลับจะไม่ยาวนานอีกต่อไป,และเราควรจะสนใจในการกระตุ้นตลาดจะเป็นการดีที่สุด
+มันเป็นการกระจายทัศนคติในมุมกว้าง
 
 
-Vain : Kami percaya pada hal-hal yang akan dilingkari. Jika kita berbuat baik kepada orang lain, hal-hal yang akan kembali kepada kami.  
-Ini disebut 'Golden rule'.
+Vain : เราเชื่อในสิ่งที่กำลังดำเนินต่อไปจากนี้ ถ้าเราทำดีกับคนอื่น, ความดีนั้นจะส่งผลกลับมาที่ตัวเรา  
+มันเรียกว่า 'Golden rule'
 
 
 
-Alche : Jadi hal yang ditemukan Alchemist adalah aturan Emas! 
+Alche : ดังนั้นสิ่งที่เหล่า Alchemist พบก็คือ Golden rule! 
 
 
-Vain : (Tersenyum) Ini bukan bahwa kontribusi besar. (menjadi malu)
+Vain : (ยิ้ม) มันไม่ใช่สิ่งที่ยิ่งใหญ่ขนาดนั้น (หน้าเริ่มแดง)
 
 
-Alche : Tapi saya rasa banyak orang bisa mendapatkan manfaat dari kerja kamu.
-Kalian berdua orang ini sangat inspiratif dan mungkin saya bertanya rencana masa depan kamu?
+Alche : แต่ข้าคิดว่า คงมีอีกหลายคนที่ได้รับประโยชน์จากสิ่งที่ท่านทำ
+ท่านทั้งสองช่างเป็นแรงบัลดาลใจอย่างมาก อ่าแล้วข้าขอถามอีกซักนิด เกี่ยวกับแผนการในอนาคตข้างหน้า?
 
 
-Vain : Dan kita akan didedikasikan untuk menyelidiki tentang "Life ston".
-        Itu adalah tujuan dasar kita. Dan saya berharap ramuan akan berguna.
+Vain : เราจะทุ่มเทเพื่อตรวจสอบใน "Life stone"
+        มันเป็นสิ่งที่เป็นจุดประสงค์หลักของเราและข้าหวังว่า Potion นี้จะทำให้เกิดประโยชน์ได้ไม่มากก็น้อย
 
 
-Alche : Terima kasih. Terakhir, saya ingin kamu untuk bertemu orang yang akan sponsor kamu!
+Alche : ขอบคุณ สุดท้ายนี้, ข้าต้องการแนะนำท่านกับผู้ซึ่งคอยสนับสนุนท่านอยุ่!
 
-(resep ini tertutup di bawah)
+(สูตรอยู่ด้านล่างของเอกสาร)
 
-resep
+recipe
 
 SP Increase potion (S) : empty bottle 10 + Honey 10 + blue herb 10 + sweet source 1
 SP Increase potion (M) : empty bottle 10 + Honey 10 + blue herb 10 + sweet source 1
 SP Increase potion (L) : empty bottle 10 + royal jerry 10 + blue herb 15 + sweet source 1 
 
 
-efek
+ผลลัพธ์
 
-Maksimalkan MSP sebesar 1 -20% selama 500 detik. 
-sebesar itu, hal itu semakin kuat.
+เพื่มค่า MSP สูงสุด โดยประมาณ 1 -20% เป็นเวลา 500 วินาที
+มากเท่าที่มันสามารถมากได้, มันเริ่มจะรุนแรงขึ้น

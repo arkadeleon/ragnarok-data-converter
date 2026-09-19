@@ -1,38 +1,33 @@
 %faf0e6
-^000088Intermediate Alchemy: Glistening Coat^000000
+^000088การแปรธาตุขั้นกลาง : Glistening Coat^000000
 
 
-----------------Preface--------------------
-
-
-Skill Energy Coat milik mage yang menghasilkan
-lapisan mana yang melindungi penggunanya menjadi inspirasi
-Alchemists untuk membuat the Glistening Coat.
-Glistening Coat dapat digunakan bersamaan dengan
-skill proteksi Alchemist yang tidak akan
-terpengaruh darifaktor eksternal.
-Bagaimanapun juga, Jubah pelindung buatan ini secara otomatis
-kehilangan efeknya dalam kurum waktu tertentu.
+----------------คำนำ--------------------
+สกิล Energy Coat ของอาชีพ Mage ที่ใช้
+SP สร้างเกราะป้องกันผู้ร่าย เป็นแรงบันดาลใจ
+ให้เหล่า Alchemist พัฒนา Glistening Coat ขึ้นมา
+Glistening Coat เป็นวัตุดิบสำหรับการใช้สกิลป้องกัน
+ตัวของ Alchemist โดยไม่มีผลข้างเคียงใดๆ 
+แต่อย่างไรก็ตามมันก็ยังมีข้อจำกัดอยู่ในเรื่อง
+ของระยะเวลาการใช้ที่มีเวลาจำกัด
  
 ------------------------------------------
 
-What is a ^400080Glistening Coat^000000?
+^400080Glistening Coat^000000 คืออะไร?
 
-Sebuah glistening coat adalah benda yang halus, bahan perekat
-yang dapat menempelkan obyek jubah secara sementara yang meningkatkan
-ketahanan atas serangan. Hanya Alchemist yang sangat terampil
-yang mampu menerapkan skill Glistening Coat dengan menggunakan Skill
-Biochemical Helm, Synthesized Shield, Synthetic Armor,
-atau Skill Alchemical Weapon.
+Glistening Coat เป็นสสารที่มีความนุ่มและหนืด 
+มันสามารถนำไปใช้สร้างความต้านทานต่อความเสียหาย
+ชั่วคราวได้ เฉพาะ Alchemist ระดับสูงเท่านั้นที่จะ
+สามารถนำ Glistening Coat ไปใช้ในทักษะที่เคลือบ
+อุปกรณ์ส่วมใส่ต่างๆ ในร่างกาย เช่น หมวก เกราะ
+โล่และอาวุธได้
 
-Required Materials: ^4b00821 Alcohol, 1 Zenorc's Fang,
+ส่วนผสม : ^4b00821 Alcohol, 1 Zenorc's Fang,
 1 Heart of Mermaid, 1 Empty Bottle^000000
 
-Proses: Isi medicine bowl setengahnya dengan alcohol, dan
-dengan Zenorc's Fang yang sudah melebur kedalamnya. Cuci heart of mermaid,
-dan tambahkan itu ke dalam campuran Zenorc fang dan alcohol. Akhirnya,
-gunakan skill Prepare Potion untuk menuangkan campuran kedalam
-sebuah botol kosong. Kamu memerlukan skill khusus seperti
-Biochemical Helm, Synthesized Shield, Synthetic Armor,
-and Alchemical Weapon agar dapat menggunakan skill Glistening
-Coat kepada equipment.
+วิธีทำ :เท Alcohol ลงในถ้วยผสมยาครึ่งถ้วย จากนั้น
+บด Zenorc Fang ใส่ตามลงไป ล้าง Heart of Mermaid
+และใส่ตามลงไปในถ้วย คุณต้องพกหนังสือนี้ติดตัว
+ในขณะที่คุณเทส่วนผสมทั้งหมดลงไปในขวดเปล่า
+ในตอนสุดท้าย คุณต้องเรียนทักษะพิเศษเกี่ยวกับการ
+เคลือบจึงจะสามารถใช้ Glistening Coat ได้

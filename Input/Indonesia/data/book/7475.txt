@@ -1,84 +1,68 @@
 %faf0e6
-^000088-Cerita memasak yang menyentuh hati semua orang -^000000
+^000088- เรื่องราวของหัวการปรุงการปรุงอาหารสำหรับทุก ๆ คน -^000000
 
-Sudah terbit: resep Level 4 berjudul, "Kamu sudah memakannya!"
+เรื่องราวนี้เกี่ยวกับ : หัวข้อย่อยของหนังสือสูตรอาหารLevel 4 , " เจ้าพร้อมจะหม่ำรึยัง! "
 
-^ff0000Herb Marinade Beef:^000000 rib eye steak kualitas tinggi dengan saus herbal!
-Bahan bahan: ^4b00825 Meat, 3 Red Herbs, 2 Yellow Herbs, 3 Green Herbs, 1 Sweet Sauce, 1 Lemon ^000000
-Petunjuk:
-	1. Hilangkan lemak dari daging, gores gores daging, dan hilangkan darah yang keluar dari daging 
-                    dengan mencucinya dengan air dingin selama satu jam.
-	2. Potong potong herbs, dan campur dengan Sweet Sauce dan air. Rebus campuran selama satu jam. 
-        3. Saat campuran mendidih, tambahkan lemon juice, aduk aduk, dan biarkan medingin.
-	4. Siapkan mangkuk besar dan wadah Tupperware. Tuangkan saus rendaman kedalam mangkuk besar,
-                    celupkan iap bagian daging kedalam sauce satu persatu, 
-                    dan kemudian taruh di dalam Tupperware besar.
-	5. Tuangkan sisa sauce rendaman kedalam Tupperware, dan masukkan lemari es 
-                    dan biarkan selama 12 sampai 24 jam.
-	6. Masak daging yang sudah direndam, dan sajikan dengan hidangan tambahan lainnya.
+^ff0000Herb Marinade Beef:^000000สเต็กซี่โครงเนื้อนุ่มคุณภาพสูงในซอสที่ปรุงจากสมุนไพร!
+ส่วนประกอบ : ^4b00825 Meat, 3 Red Herbs, 2 Yellow Herbs, 3 Green Herbs, 1 Sweet Sauce, 1 Lemon ^000000
+วิธีปรุง :
+	1. นำไข่มันออกจากเนื้อให้หมดก่อน , ซึ่งเป็นส่วนเกินของเนื้อชิ้นนั้น ๆ ,  และจากนั้นล้างเลือดที่ตกค้างอยู่ออกจากชิ้นเนื้อให้หมดโดยการแช่ในน้ำเย็นประมาณ 1 ชม. .
+	2. สับสมุนไพรทั้งหมด, และผสมเข้ากับ Sweet Sauce และ Water. ต้มทั้งหมดเข้าด้วยกันประมาณ 1 ชม. .
+	3. เมื่อต้มจนส่วนผสมทั้งหมดเข้ากันดีแล้ว, เติม lemon juice, จะทำให้รสชาติดีขึ้น, และปล่อยให้เย็น .
+	4. เตรียมชามและ Tupperware ขนาดใหญ่ไว้ . เทซอสที่ทำการผสมไว้แล้วลงในชามใบใหญ่ที่เตรียมไว้ , จุ่มเนื้อลงในน้ำซอสทีละชิ้น, และเก็บใส่ Tupperware ขนาดใหญ่ที่เตรียมไว้. .
+	5. เทน้ำซอสที่ผสมเรียบร้อยแล้วเก็บไว้ใน Tupperware, และแช่ชิ้นเนื้อที่หมักเตรียมไว้แล้วประมาณ 12 ถึง 24 ชม. .
+	6. ปรุงเนื้อที่เตรียมไว้แล้ว, และเสิร์ฟพร้อมกับเครื่องเคียง คือ น้ำ ซอสที่ปรุงไว้เรียบร้อยแล้ว .
 
-^0000ffMorroc Fruit Wine:^000000 anggur manis dan asam yang terasa sangat enak, bahkan kepada orang                                                                       yang tidak suka dengan alcohol!
-Bahan bahan: ^4b008210 Strawberries, 4 Lemons, 10 Oranges, 2 Alcohol, and 5 Grape ^000000
-Petunjuk:
-	1. Peras Lemons dan Oranges dan tampung dalam gelas.
-	2. Bilas Strawberry dengan air dingin, dan hilangkan bintiknya.
-	3. Kupas Grapes, dan hilangkan bijinya.
-	4. Taruh Strawberry dan Grapes kedalam mixer, dan campur selama 30 detik.
-	5. Tambahkan 1 Alcohol, dan lemon juice kedalam mixer, dan campur selama 5 detik.
-	6. Tambahkan 1 Alcohol, dan aduk kembali dengan mixerr, dan campur selama 15 detik.
+^0000ffMorroc Fruit Wine :^000000ไวน์รสชาติหวานอมเปรี้ยวที่ใครชิมต้องยกนิ้วให้ , รวมถึงคนที่ไม่ชอบแอลกอฮอล์ก็ตาม!
+ส่วนประกอบ : ^4b008210 Strawberries, 4 Lemons, 10 Oranges, 2 Alcohol, and 5 Grape ^000000
+วิธีปรุง :
+	1. คั้นน้ำมะนาวและน้ำสมลงในแก้ว .
+	2. นำผล Strawberries ไปล้างในน้ำเย็นจัด, และดึงก้านมันออก .
+	3. ปลอกเปลือก Grapes, และเอาเม็ดมันออกมา .
+	4. นำผล Strawberries และ Grapes มาวางเข้าด้วยกัน, และคลุกเคล้าให้เข้ากันเป็นเวลาประมาณ 30 วินาที .
+	5. ใส่ 1 Alcohol, และ lemon juice ลงไปผสม, และผสมให้เข้ากันประมาณ 5 วินาที .
+	6. ใส่ 1 Alcohol, และน้ำผลไม้ที่เตรียมไว้ลงไปผสม, และผสมให้เข้ากันประมาณ 15 วินาที .
   
-^800000Cream Sandwich:^000000sandwich dengan cream yang banyak.
-Bahan bahan: ^4b00825 Bread, 15 Milk, 10 Cheese, 10 Yellow Herb, 1 Meat, 1 Sweet Sauce ^000000
-Petunjuk: 
-	1. Oleskan mentega pada bread, dan kocok susu hingga menjadi cream.
-	2. Potong daging dengan ukuran tebal, dan kemudian dimasak.
-	3. Potong bread menjadi dua bagian, dan oleskan Sweet Sauce di tiap sisi potongan roti. 
-                    Tambahkan setengah herbs dan daging disetiap sisi roti dengan Sweet Sauce.
-	4. Tambahkan Cheese diatasnya, dan tambahkan sisanya dengan herbs. 
-	5. Oleskan Cream disetiap sisi bread, dan taruh diatas sisi roti yang lain.
+^800000Cream Sandwich:^000000สุดยอดครีมใส่แซนวิช .
+ส่วนประกอบ : ^4b00825 Bread, 15 Milk, 10 Cheese, 10 Yellow Herb, 1 Meat, 1 Sweet Sauce ^000000
+วิธีปรุง :
+	1. ทาเนยลงบนแผ่นขนมปัง, และกวาด Milk ตามเพื่อทำตัวครีม .
+	2. แล่เนื้อชิ้นหนาหน่อย, และทำการปรุง .
+	3. หั่นขนมปังออกเป็น 2 แผ่น, และทา Sweet Sauce ลงบนด้านนึงของขนมปังแต่ละแผ่น. ใส่สมุนไพรลงไปครึ่งหนึ่งและเนื้ออีกครึ่งหนึ่งในแต่ละด้านของขนมปังกับ Sweet Sauce.
+	4. วาง Cheese ลงบนสุด, และเพิ่มรสชาติด้วยการเติมสมุนไพรอีกนิด . 
+	5. ทาครีมลงด้านหนึ่งของแผ่นขนมปังแต่ละชิ้น , และวางมันลงที่ชั้นบนสุดของแซนวิช .
 
-^008040Lutie Cold Noodle:^000000 nikmati pengalaman rasa pedas yang sangat dari mie dingin dengan harga terjangkau!. 
-Bahan bahan: ^4b00823 Bags of Grain, 1 Spicy Sauce, 10 Ice Cubes, 10 Carrots, 10 Jack o' Pumkin ^000000
-Petunjuk:
-	1. Pilih grain dengan protein tinggi dan bersihkan.
-	2. Haluskan grain untuk membuat tepung.
-	3. Tambahkan air panas kedalam tepung, dan buat adonan sampai lengket dan mengkilat.
-	4. Siapkan wadah kotak dengan saringan stainless yang ditaruh dibawahnya.
-	5. Taruh sejumlah adonan didalam wadah, dan tekan dengan keras untuk membuat mie 
-                    dari adonan yang ditekan dari atas.
-	6. Rebus mie.
-	7. Bilas mie yang sudah diangkat dengan air dingin, dan tiriskan airnya. 
-	8. Kukus Jack o' Pumpkins. Perlahan pegang, dan kemudian peras pumpkins sampai isinya 
-                    keluar berbentuk seperti benang.
-	9. Potong Carrots. 
-	10. Taruh mie yang sudah direbus dan isi pumpkins yang berbentuk benang kedalam mangkuk.
-	11. Tambahkan es batu, dan siramkan Spicy Sauce diatasnya.
-	12. Sajikan mie dengan irisan Carrot.
+^008040Lutie Cold Noodle:^000000 ปรพสบการณ์ใหม่ ๆ เกิดขึ้นแล้วกับเส้นก๋วยเตี๋ยวเย็น ๆ ที่ราคาไม่แพงนัก !
+ส่วนประกอบ : ^4b00823 Bags of Grain, 1 Spicy Sauce, 10 Ice Cubes, 10 Carrots, 10 Jack oกฏ Pumkin ^000000
+วิธีปรุง :
+	1. เลือกเมล็ดข้าวที่ให้คุณค่าโปรตีนสูงและทำความสะอาด .
+	2. บดเมล็ดข้าวที่เตรียมไว้เพื่อเอามาทำแป้ง .
+	3. เติมน้ำร้อนลงในแป้ง , และนวดจนกระทั่งมันเหรียวและเป็นเงา .
+	4. เตรียมแม่พิมพ์สี่เหลี่ยมที่มีตาข่ายโลหะอยู่ข้างใต้ .
+	5. นำแป้งที่นวดแล้วมาวางลงในเฟรม, และกดด้านบนลงแรงเพื่อทำเป็นเส้นก๋วยเตี๋ยวจากการที่มันไหลออกมาจากข้างใต้แม่พิมพ์ .
+	6. ต้มเส้นก๋วยเตี๋ยวที่ทำไว้ .
+	7. นำเส้นที่ต้มแล้วไปแช่ลงในน้ำเย็นจัด ๆ, และเอาออกจากน้ำ . 
+	8. นำ Jack o' Pumpkins มารมด้วยไอน้ำจนนิ่ม. แล้วลองเคาะดูเบา ๆ , และจากนั้นบีบฟักทองจนเหลือแต่ใยอาหาร .
+	9. หั่นเป็นแว่น ๆ Carrots. 
+	10. ใส่เส้นก๋วยเตี๋ยวและเส้นใยอาหารที่เตรียมไว้ลงในชาม .
+	11. ใส่น้ำแข็งก้อนลงไป, และราด Spicy Sauce ลงด้านบน .
+	12. เสิร์ฟก๋วยเตี๋ยวพร้อมกับ Carrot ที่เราหั่นเป็นแว่น ๆ เตรียมไว้ .
 
-^ff8040Seasoned Jellyfish:^000000 Semangkuk salad jellyfish yang dimasak matang dengan saus Squid Ink.
-Bahan bahan: ^4b008230 Tentacles, 10 White Herbs, 10 Soft Blades of Grass, 1 Old Frying Pan, 
-                   20 Squid Ink^000000
-Petunjuk:
-	1. Bersihkan Soft Blades of Grass dengan air didingin, dan peras untuk menghilangkan air dan 
-                    juice.
-	2. Campur perasan Soft Blades of Grass dengan Squid Ink.
-	3. Potong Tentacles. rebus air dalam Old Frying Pan, masak setengah matang potongan Tentacle, dan 
-                    bilas dengan air dingin. Peras air dari Tentacles. Ingat bahwa Tentacles 
-                    menjadi keras dan pendek kalau direbus terlalu lama, jadi pastikan untuk menaruhnya 
-                    dalam rebusan air hanya beberapa detik.
-	4. Potong White Herbs, dan campur dengan Tentacles dan Soft Blades of Grass.
-	5. Siramkan Squid Ink ke dalam salad. 
-	6. Masukkan ke lemari es beberapa saat, dan sajikan dengan piring datar.
+^ff8040Seasoned Jellyfish:^000000อาหารจานเด็ด jellyfish salad กับซอส Squid Ink .
+ส่วนประกอบ : ^4b008230 Tentacles, 10 White Herbs, 10 Soft Blades of Grass, 1 Old Frying Pan, 20 Squid Ink^000000
+วิธีปรุง :
+	1. นำ Soft Blades of Grass มาล้างในน้ำเย็น, และสะเด็ดน้ำออกให้แห้ง .
+	2. ผสม Soft Blades of Grass ที่เตรียมไว้เข้ากับ Squid Ink.
+	3. หั่น Tentacle  . นำไปต้มน้ำใน Old Frying Pan, ให้ Tentacle slices ไม่ต้องสุกมาก , และนำไปแช่ในน้ำเย็น. บีบน้ำอกจาก Tentacles ให้หมด. จำไว้ว่า Tentacles นั้นจะเหนียวและหดตัวถ้าเจ้าต้มมันานเกิน, ดังนั้นดูให้แน่ใจว่าใช้เวลาต้มไม่นานนัก .
+	4. สับ White Herbs , และผสมพวกมันเข้ากับ Tentacles และ Soft Blades of Grass.
+	5. นำ Squid Ink มาราดลงบนสลัด . 
+	6. นำสลัดที่เตรียมไว้มาแช่เย็นซักครู่ , และนำออกมาเสิร์ฟบนจาน .
 
-^400080Steamed Ancient Lips:^000000 jangan khawatir! makan makanan ini tidak seperti mencium ikan purba! 
-Bahan bahan: ^4b008210 Ancient Lips, 10 Raccoon Leaves, 10 White Herbs, 5 Fresh Fishes, 
-                   2 Sweet Sauce ^000000
-Petunjuk:
-	1. Cuci Ancient Lips dengan air garam. 
-	2. Siapkan ikan segar dengan memotong kepalanya dan mengeluarkan isinya, dan memotong daging ikan 
-                    menjadi 3 bagian. Keluarkan duri duri kecil dengan pinset, dan rendam dengan  
-                    1 Sweet Sauce selama setengah hari didalam lemari es. 
-        3. Alaskan Raccoon Leaves pada dasar kukusan. Pastikan untuk menaruh irisan daging dengan sisi kulit 
-                    dibagian bawah agar dagingn tidak keras dan mengkerut.
-	4. Siramkan 1 Sweet Sauce, dan taburkan potongan white herbs diatas daging sebelum pengukus mulai panas. 
-                    
+^400080Steamed Ancient Lips:^000000 อย่ากังวลเลย ! การกินอาหารจานอร่อยนี้ไม่เลวร้ายเท่ากับการจูบกับปลาโบราณหรอก !
+ส่วนประกอบ : ^4b008210 Ancient Lips, 10 Raccoon Leaves, 10 White Herbs, 5 Fresh Fishes, 2 Sweet Sauce ^000000
+วิธีปรุง :
+	1. นำ Ancient Lips มาล้างในน้ำเกลือ . 
+	2. เตรียมเนื้อปลาสดโดยเอาส่วนหัวและไส้มันออก , และหั่นเนื้อบาง ๆ  จากปลาแต่ละตัวจนได้ 3 ชิ้น . เอาก้างเล็ก ๆ ออกจากเนื้อที่แล่มาแล้วโดยการใช่คีมดึงออก , และนำเนื้อปลาที่เตรียมไว้ผสมเข้ากับ Sweet Sauce. นำส่วนผสมดังกล่าวไปแช่เย็นไว้ประมาณครึ่งวัน .
+	3. นำ Raccoon Leaves มารองไว้ข้างใต้หม้อนึ่ง. ดูให้แน่ใจว่าเนื้อและหนังของปลาไม่หดตัวลง .
+	4. ราด Sweet Sauce, และ โรยด้วย White Herbs ที่หั่นเตรียมไว้ลงด้านบนเนื้อปลาก่อนที่หม้อนึ่งจะร้อง .
+

@@ -140,14 +140,15 @@ struct Convert: ParsableCommand {
         let root = input.appendingPathIgnoringCase("Indonesia")
 
         try ItemInfoConverter().convert(
-            from: .txt(
-                displayNameTableURL: root.appendingPathIgnoringCase("data/idnum2itemdisplaynametable.txt"),
-                descriptionTableURL: root.appendingPathIgnoringCase("data/idnum2itemdesctable.txt")
-            ),
-            to: output, for: .id
+            from: .lua(itemInfoURL: root.appendingPathIgnoringCase("System/iteminfo_new.lub")),
+            to: output, for: .id, encoding: .utf8
         )
         try MapInfoConverter().convert(
             from: .txt(mapNameTableURL: root.appendingPathIgnoringCase("data/mapnametable.txt")),
+            to: output, for: .id
+        )
+        try ItemRandomOptionNameConverter().convert(
+            from: .init(directory: root.appendingPathIgnoringCase("data/luafiles514/lua files/datainfo")),
             to: output, for: .id
         )
         try MessageStringConverter().convert(

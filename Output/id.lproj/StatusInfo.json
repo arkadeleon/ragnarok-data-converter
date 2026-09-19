@@ -105,7 +105,7 @@
     "statusDescription" : "Dark Illusion"
   },
   "0035" : {
-    "statusDescription" : "Weight over 50%"
+    "statusDescription" : "Weight over 70%"
   },
   "0036" : {
     "statusDescription" : "Weight Over 90%"
@@ -494,6 +494,9 @@
   "0337" : {
     "statusDescription" : "Weapon Blocking"
   },
+  "0340" : {
+    "statusDescription" : "Expiatio "
+  },
   "0341" : {
     "statusDescription" : "Poisonous Weapon"
   },
@@ -533,6 +536,9 @@
   "0355" : {
     "statusDescription" : "Recognized Spell"
   },
+  "0356" : {
+    "statusDescription" : "Stasis "
+  },
   "0357" : {
     "statusDescription" : "Warg Rider"
   },
@@ -562,6 +568,9 @@
   },
   "0375" : {
     "statusDescription" : "Infra Red Scan"
+  },
+  "0376" : {
+    "statusDescription" : "Magnetic Field "
   },
   "0377" : {
     "statusDescription" : "Neutral Barrier"
@@ -620,6 +629,9 @@
   "0399" : {
     "statusDescription" : "Body Painting"
   },
+  "0400" : {
+    "statusDescription" : "Exceed Break"
+  },
   "0401" : {
     "statusDescription" : "Adoramus"
   },
@@ -658,6 +670,9 @@
   },
   "0415" : {
     "statusDescription" : "Masquerade : Unlucky (Mask : Unlucky)"
+  },
+  "0417" : {
+    "statusDescription" : "CURSED CIRCLE"
   },
   "0418" : {
     "statusDescription" : "Masquerade : Weakness (Mask : Weakness)"
@@ -746,6 +761,9 @@
   "0463" : {
     "statusDescription" : "Thorns Trap"
   },
+  "0470" : {
+    "statusDescription" : "Howling of Mandragora "
+  },
   "0472" : {
     "statusDescription" : "Sacrament"
   },
@@ -754,6 +772,24 @@
   },
   "0476" : {
     "statusDescription" : "Stomachache"
+  },
+  "0480" : {
+    "statusDescription" : "HP Increase Potion"
+  },
+  "0481" : {
+    "statusDescription" : "SP Increase Potion"
+  },
+  "0482" : {
+    "statusDescription" : "Enriched White PotionZ"
+  },
+  "0483" : {
+    "statusDescription" : "Vitata 500"
+  },
+  "0484" : {
+    "statusDescription" : "Enrich Celermine Juice"
+  },
+  "0490" : {
+    "statusDescription" : "Extreme Vacuum"
   },
   "0491" : {
     "statusDescription" : "Savage BBQ"
@@ -817,6 +853,9 @@
   },
   "0618" : {
     "statusDescription" : "Malang Island Cat Can"
+  },
+  "0620" : {
+    "statusDescription" : "Crush Strike "
   },
   "0621" : {
     "statusDescription" : "Monster Transformation"
@@ -887,17 +926,59 @@
   "0660" : {
     "statusDescription" : "Omnius Red Moon"
   },
+  "0662" : {
+    "statusDescription" : "Battle Pill"
+  },
+  "0664" : {
+    "statusDescription" : "Red Booster"
+  },
+  "0666" : {
+    "statusDescription" : "Mystic Powder"
+  },
+  "0670" : {
+    "statusDescription" : "Mysterious Water"
+  },
+  "0675" : {
+    "statusDescription" : "Full Spray of Flowers"
+  },
+  "0681" : {
+    "statusDescription" : "Semua statistik"
+  },
+  "0685" : {
+    "statusDescription" : "Almighty"
+  },
+  "0702" : {
+    "statusDescription" : "Meningkatkan serangan fisik"
+  },
+  "0703" : {
+    "statusDescription" : "Meningkatkan serangan magic"
+  },
+  "0704" : {
+    "statusDescription" : "Mengurangi serangan dari"
+  },
+  "0705" : {
+    "statusDescription" : "Accumulating Energy"
+  },
+  "0706" : {
+    "statusDescription" : "Accumulating Energy"
+  },
+  "0707" : {
+    "statusDescription" : "Accumulating Energy"
+  },
+  "0711" : {
+    "statusDescription" : "Power of Fenrir"
+  },
   "0715" : {
-    "statusDescription" : "FRIGG'S SON"
+    "statusDescription" : "Frigg's Song"
   },
   "0716" : {
-    "statusDescription" : "OFFERTORIUM"
+    "statusDescription" : "Offertorium"
   },
   "0717" : {
-    "statusDescription" : "TELEKINESIS INTENSE"
+    "statusDescription" : "Intense Telekinesis"
   },
   "0720" : {
-    "statusDescription" : "FULL THROTTLE"
+    "statusDescription" : "Full Throttle"
   },
   "0721" : {
     "statusDescription" : "Rebound"
@@ -906,9 +987,318 @@
     "statusDescription" : "UNLIMIT"
   },
   "0723" : {
-    "statusDescription" : "KINGS GRACE"
+    "statusDescription" : "King's Grace"
   },
   "0730" : {
     "statusDescription" : "DARK CROW"
+  },
+  "0736" : {
+    "statusDescription" : "Chill"
+  },
+  "0737" : {
+    "statusDescription" : "Burn"
+  },
+  "0752" : {
+    "statusDescription" : "Binding Trap"
+  },
+  "0753" : {
+    "statusDescription" : "Eternal Chain"
+  },
+  "0755" : {
+    "statusDescription" : "Crimson Marker"
+  },
+  "0756" : {
+    "statusDescription" : "Howling Mine"
+  },
+  "0758" : {
+    "statusDescription" : "Platinum Altar"
+  },
+  "0759" : {
+    "statusDescription" : "Heat Barrel"
+  },
+  "0760" : {
+    "statusDescription" : "Anti Material Blast"
+  },
+  "0762" : {
+    "statusDescription" : "Sword clan"
+  },
+  "0763" : {
+    "statusDescription" : "Arcwand Clan"
+  },
+  "0764" : {
+    "statusDescription" : "Goldenmace Clan"
+  },
+  "0765" : {
+    "statusDescription" : "Crossbow Clan"
+  },
+  "0766" : {
+    "statusDescription" : "Curse of Water"
+  },
+  "0767" : {
+    "statusDescription" : "Curse of Fire"
+  },
+  "0768" : {
+    "statusDescription" : "Healthy 30 seconds"
+  },
+  "0769" : {
+    "statusDescription" : "Magical 30 seconds"
+  },
+  "0770" : {
+    "statusDescription" : "Lighter 30 seconds"
+  },
+  "0771" : {
+    "statusDescription" : "Fast 30 seconds"
+  },
+  "0772" : {
+    "statusDescription" : "Defensive 30 seconds"
+  },
+  "0773" : {
+    "statusDescription" : "Safer 30 seconds"
+  },
+  "0774" : {
+    "statusDescription" : "Lucky 30 seconds"
+  },
+  "0775" : {
+    "statusDescription" : "Accurate 30 seconds"
+  },
+  "0776" : {
+    "statusDescription" : "³ à¢µá´¹ÃÐËÇèÒ§¤¹à»ç¹áÅÐ¤¹µÒÂ!"
+  },
+  "0778" : {
+    "statusDescription" : "After Effect"
+  },
+  "0783" : {
+    "statusDescription" : "Braised Short Ribs"
+  },
+  "0784" : {
+    "statusDescription" : "Braised Spareribs"
+  },
+  "0786" : {
+    "statusDescription" : "Enhance property"
+  },
+  "0790" : {
+    "statusDescription" : "Enhance property"
+  },
+  "0867" : {
+    "statusDescription" : "Limit Power Booster"
+  },
+  "0873" : {
+    "statusDescription" : "Shining Holly Water"
+  },
+  "0875" : {
+    "statusDescription" : "Petrification"
+  },
+  "0876" : {
+    "statusDescription" : "Frost"
+  },
+  "0877" : {
+    "statusDescription" : "Stun "
+  },
+  "0878" : {
+    "statusDescription" : "Sleep"
+  },
+  "0880" : {
+    "statusDescription" : "Petrification"
+  },
+  "0881" : {
+    "statusDescription" : "Burning "
+  },
+  "0882" : {
+    "statusDescription" : "Isolation"
+  },
+  "0883" : {
+    "statusDescription" : "Poison "
+  },
+  "0884" : {
+    "statusDescription" : "Curse "
+  },
+  "0885" : {
+    "statusDescription" : "Silence "
+  },
+  "0886" : {
+    "statusDescription" : "Confusion "
+  },
+  "0890" : {
+    "statusDescription" : "Fatal Poison"
+  },
+  "0891" : {
+    "statusDescription" : "Fear "
+  },
+  "0893" : {
+    "statusDescription" : "Stoop"
+  },
+  "0894" : {
+    "statusDescription" : "CN Powdering"
+  },
+  "0896" : {
+    "statusDescription" : "SV Root Twist"
+  },
+  "0897" : {
+    "statusDescription" : "Give Neutral property to the weapon"
+  },
+  "0898" : {
+    "statusDescription" : "Give Water property to the weapon"
+  },
+  "0899" : {
+    "statusDescription" : "Give Earth property to the weapon"
+  },
+  "0900" : {
+    "statusDescription" : "Give Fire property to the weapon"
+  },
+  "0901" : {
+    "statusDescription" : "Give Wind property to the weapon"
+  },
+  "0902" : {
+    "statusDescription" : "Give Poison property to the weapon"
+  },
+  "0903" : {
+    "statusDescription" : "Give Holy property to the weapon"
+  },
+  "0904" : {
+    "statusDescription" : "Give Shadow property to the weapon"
+  },
+  "0905" : {
+    "statusDescription" : "Give Ghost property to the weapon"
+  },
+  "0906" : {
+    "statusDescription" : "Give Undead property to the weapon"
+  },
+  "0907" : {
+    "statusDescription" : "Resist to Neutral property"
+  },
+  "0908" : {
+    "statusDescription" : "Resist to Water property"
+  },
+  "0909" : {
+    "statusDescription" : "Resist to Earth property"
+  },
+  "0910" : {
+    "statusDescription" : "Resist to Fire property"
+  },
+  "0911" : {
+    "statusDescription" : "Resist to Wind property"
+  },
+  "0912" : {
+    "statusDescription" : "Resist to Poison property"
+  },
+  "0913" : {
+    "statusDescription" : "Resist to Holy property"
+  },
+  "0914" : {
+    "statusDescription" : "Resist to Shadow property"
+  },
+  "0915" : {
+    "statusDescription" : "Resist to Ghost property"
+  },
+  "0916" : {
+    "statusDescription" : "Resist to Undead property"
+  },
+  "0917" : {
+    "statusDescription" : "Scar of Tarou"
+  },
+  "0918" : {
+    "statusDescription" : "Arclouse Dash"
+  },
+  "0919" : {
+    "statusDescription" : "Tuna Party"
+  },
+  "0920" : {
+    "statusDescription" : "Bunch of Shrimp"
+  },
+  "0921" : {
+    "statusDescription" : "Fresh Shrimp"
+  },
+  "0933" : {
+    "statusDescription" : "Hide"
+  },
+  "0935" : {
+    "statusDescription" : "Kahluna Milk"
+  },
+  "0936" : {
+    "statusDescription" : "Basil"
+  },
+  "0937" : {
+    "statusDescription" : "Sprite Mable"
+  },
+  "0938" : {
+    "statusDescription" : "Increase Drop Rate"
+  },
+  "0939" : {
+    "statusDescription" : "EXP up"
+  },
+  "0940" : {
+    "statusDescription" : "Job EXP up"
+  },
+  "0941" : {
+    "statusDescription" : "Decrease Death Penalty"
+  },
+  "0942" : {
+    "statusDescription" : "Expand Storage"
+  },
+  "0966" : {
+    "statusDescription" : "Magical Bullet"
+  },
+  "0983" : {
+    "statusDescription" : "Increase Drop Rate"
+  },
+  "0984" : {
+    "statusDescription" : "EXP Up"
+  },
+  "0985" : {
+    "statusDescription" : "Job EXP up"
+  },
+  "0995" : {
+    "statusDescription" : "Small Mana Potion"
+  },
+  "0996" : {
+    "statusDescription" : "Shining Defense Scroll"
+  },
+  "1001" : {
+    "statusDescription" : "Bed of Honor"
+  },
+  "1002" : {
+    "statusDescription" : "Bed of Honor"
+  },
+  "1003" : {
+    "statusDescription" : "Bed of Honor"
+  },
+  "1004" : {
+    "statusDescription" : "Bed of Honor"
+  },
+  "1027" : {
+    "statusDescription" : "Criatura Cookie"
+  },
+  "1031" : {
+    "statusDescription" : "Enhance attack"
+  },
+  "1032" : {
+    "statusDescription" : "Enhance magic attack"
+  },
+  "1033" : {
+    "statusDescription" : "Enhance attack speed"
+  },
+  "1034" : {
+    "statusDescription" : "Ultimate Cook"
+  },
+  "1065" : {
+    "statusDescription" : "Infinity Drink"
+  },
+  "1107" : {
+    "statusDescription" : "Counter State Aktif"
+  },
+  "1137" : {
+    "statusDescription" : "Cherry Blossom Cake"
+  },
+  "1511" : {
+    "statusDescription" : "Sturdy Feather"
+  },
+  "1512" : {
+    "statusDescription" : "Swift Feather"
+  },
+  "1513" : {
+    "statusDescription" : "Brilliant Feather"
+  },
+  "1514" : {
+    "statusDescription" : "Heavy Feather"
   }
 }
