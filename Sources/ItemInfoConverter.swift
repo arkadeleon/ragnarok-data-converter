@@ -53,7 +53,7 @@ struct ItemInfoConverter {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let itemInfoURL = input.appendingPathComponents(locale.path, "System", filename)
+        let itemInfoURL = input.appendingPathComponentsIgnoringCase(locale.path, "System", filename)
         context.loadData(at: itemInfoURL)
 
         try context.evaluate("""
@@ -82,7 +82,7 @@ struct ItemInfoConverter {
 
     private func txtItemInfos(from input: URL, for locale: Locale) -> [String : ItemInfo] {
         let identifiedItemNames: [String : String] = {
-            let url = input.appendingPathComponents(locale.path, "data", "idnum2itemdisplaynametable.txt")
+            let url = input.appendingPathComponentsIgnoringCase(locale.path, "data", "idnum2itemdisplaynametable.txt")
             guard let string = try? String(contentsOf: url, encoding: .isoLatin1) else {
                 return [:]
             }
@@ -109,7 +109,7 @@ struct ItemInfoConverter {
         }()
 
         let identifiedItemDescriptions: [String : String] = {
-            let url = input.appendingPathComponents(locale.path, "data", "idnum2itemdesctable.txt")
+            let url = input.appendingPathComponentsIgnoringCase(locale.path, "data", "idnum2itemdesctable.txt")
             guard let string = try? String(contentsOf: url, encoding: .isoLatin1) else {
                 return [:]
             }

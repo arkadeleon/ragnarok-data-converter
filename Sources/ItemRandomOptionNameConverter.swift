@@ -12,7 +12,7 @@ struct ItemRandomOptionNameConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
         print("Converting item random option name for \(locale.path)")
 
-        let addrandomoptionnametableURL = input.appendingPathComponents(locale.path, "data", "luafiles514", "lua files", "datainfo", "addrandomoptionnametable.lub")
+        let addrandomoptionnametableURL = input.appendingPathComponentsIgnoringCase(locale.path, "data", "luafiles514", "lua files", "datainfo", "addrandomoptionnametable.lub")
         guard FileManager.default.fileExists(atPath: addrandomoptionnametableURL.path) else {
             return
         }
@@ -20,8 +20,8 @@ struct ItemRandomOptionNameConverter {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let enumvarURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "datainfo", "enumvar.lub")
-        let addrandomoptionfURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "datainfo", "addrandomoption_f.lub")
+        let enumvarURL = input.appendingPathComponentsIgnoringCase("ko.lproj", "data", "luafiles514", "lua files", "datainfo", "enumvar.lub")
+        let addrandomoptionfURL = input.appendingPathComponentsIgnoringCase("ko.lproj", "data", "luafiles514", "lua files", "datainfo", "addrandomoption_f.lub")
 
         context.loadData(at: enumvarURL)
         context.loadData(at: addrandomoptionnametableURL)

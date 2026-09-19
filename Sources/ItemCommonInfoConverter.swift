@@ -37,7 +37,7 @@ struct ItemCommonInfoConverter {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let itemInfoURL = input.appendingPathComponents(locale.path, "System", "itemInfo.lub")
+        let itemInfoURL = input.appendingPathComponentsIgnoringCase(locale.path, "System", "itemInfo_true.lub")
         context.loadData(at: itemInfoURL)
 
         try context.evaluate("""

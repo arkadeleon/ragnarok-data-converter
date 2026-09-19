@@ -16,7 +16,7 @@ struct StatusInfoConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
         print("Converting status info for \(locale.path)")
 
-        let stateiconinfoURL = input.appendingPathComponents(locale.path, "data", "luafiles514", "lua files", "stateicon", "stateiconinfo.lub")
+        let stateiconinfoURL = input.appendingPathComponentsIgnoringCase(locale.path, "data", "luafiles514", "lua files", "stateicon", "stateiconinfo.lub")
         guard FileManager.default.fileExists(atPath: stateiconinfoURL.path) else {
             return
         }
@@ -24,8 +24,8 @@ struct StatusInfoConverter {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let efstidsURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "stateicon", "efstids.lub")
-        let stateiconimginfoURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "stateicon", "stateiconimginfo.lub")
+        let efstidsURL = input.appendingPathComponentsIgnoringCase("ko.lproj", "data", "luafiles514", "lua files", "stateicon", "efstids.lub")
+        let stateiconimginfoURL = input.appendingPathComponentsIgnoringCase("ko.lproj", "data", "luafiles514", "lua files", "stateicon", "stateiconimginfo.lub")
 
         context.loadData(at: efstidsURL)
         context.loadData(at: stateiconimginfoURL)

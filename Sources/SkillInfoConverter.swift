@@ -20,19 +20,25 @@ struct SkillInfoConverter {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let jobinheritlistURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "jobinheritlist.lub")
+        let jobinheritlistURL = input.appendingPathComponentsIgnoringCase("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "jobinheritlist.lub")
         context.loadData(at: jobinheritlistURL)
 
-        let skillidURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "skillid.lub")
+        let skillidURL = input.appendingPathComponentsIgnoringCase("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "skillid.lub")
         context.loadData(at: skillidURL)
 
-        let skillinfolistURL = input.appendingPathComponents(locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skillinfolist.lub")
+        // Skill IDs renamed in kRO that older localized files still reference.
+        try context.evaluate("""
+        SKID.BA_FROSTJOKE = SKID.BA_FROSTJOKER
+        SKID.MH_SONIC_CRAW = SKID.MH_SONIC_CLAW
+        """)
+
+        let skillinfolistURL = input.appendingPathComponentsIgnoringCase(locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skillinfolist.lub")
         context.loadData(at: skillinfolistURL)
 
-        let skilldescriptURL = input.appendingPathComponents(locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skilldescript.lub")
+        let skilldescriptURL = input.appendingPathComponentsIgnoringCase(locale.path, "data", "luafiles514", "lua files", "skillinfoz", "skilldescript.lub")
         context.loadData(at: skilldescriptURL)
 
-        let skillinfofURL = input.appendingPathComponents("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "skillinfo_f.lub")
+        let skillinfofURL = input.appendingPathComponentsIgnoringCase("ko.lproj", "data", "luafiles514", "lua files", "skillinfoz", "skillinfo_f.lub")
         context.loadData(at: skillinfofURL)
 
         try context.evaluate("""

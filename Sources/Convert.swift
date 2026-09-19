@@ -61,7 +61,7 @@ struct Convert: ParsableCommand {
         try converter.convert(from: .txt(input), to: output, for: .id)
         try converter.convert(from: .txt(input), to: output, for: .it)
         try converter.convert(from: .txt(input), to: output, for: .ja)
-        try converter.convert(from: .lua(input, "itemInfo.lub"), to: output, for: .ko)
+        try converter.convert(from: .lua(input, "itemInfo_true.lub"), to: output, for: .ko)
         try converter.convert(from: .txt(input), to: output, for: .ptBR)
         try converter.convert(from: .txt(input), to: output, for: .ru)
         try converter.convert(from: .txt(input), to: output, for: .th)
