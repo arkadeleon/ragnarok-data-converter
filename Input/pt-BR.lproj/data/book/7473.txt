@@ -1,0 +1,33 @@
+%faf0e6
+^000088- Receitas culinárias de nível 2 -^000000
+                                              ^800000Por Charles Orleans^000000
+
+^ff0000Palmípede Temperado:^000000 FOR +2.
+Ingredientes:
+        ^0000ff1 Erva Verde, 1 Erva Amarela,^000000
+        ^0000ff1 Pata Pegajosa, 1 Molho Saboroso^000000			
+
+^0000ffChá Vermelho de Outono:^000000 INT +2.
+Ingredientes:
+        ^0000ff1 Erva Azul, 1 Erva Vermelha, 1 Erva Amarela^000000
+
+^800000Mousse de Chocolate:^000000 DES +2.
+Ingredientes:
+        ^0000ff1 Cacau, 1 Pedaço de Bolo, 1 Leite,^000000
+        ^0000ff1 Prato de Porcelana^000000
+
+
+
+^008040Macarrão Liso:^000000 AGI +2.
+Ingredientes:
+        ^0000ff1 Sacola de Grãos, 1 Molho Saboroso,^000000
+        ^0000ff1 Zé-Lanterna, 1 Cenoura^000000		
+		
+^ff8040Frutos do Mar Sortidos:^000000 VIT +2.
+Ingredientes:
+        ^0000ff1 Carne de Ostra, 1 Guelra, 1 Nadadeira, 1 Peixe Fresco^000000
+
+^400080Suco Misto:^000000 SOR +2.
+Ingredientes:
+        ^0000ff1 Suco de Maçã, 1 Suco de Cenoura,^000000
+        ^0000ff1 Suco de Uva, 1 Suco de Laranja^000000	

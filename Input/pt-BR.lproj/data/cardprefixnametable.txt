@@ -44,7 +44,7 @@
 4044#do Esconderijo#
 4045#Resiliente#
 4046#do Clérigo#
-4047#Intagível#
+4047#Intangível#
 4048#de Veneno#
 4049#Inflamável#
 4050#de Hermes#
@@ -165,9 +165,9 @@
 4165#do Inseto Sugador#
 4166#do Azar#
 4167#Bestiano#
-4168#da perdição#
-4169#do mestre encantador#
-4170#do endurecimento#
+4168#da Perdição#
+4169#do Mestre Encantador#
+4170#do Endurecimento#
 4171#Drenador de Almas#
 4172#Cortante#
 4173#do Hipnotismo#
@@ -226,7 +226,7 @@
 4226#Nível Alto#
 4227#do Cheiro de Carne#
 4228#do Dia#
-4229#Veloz#
+4229#do Gerente#
 4230#do Covarde#
 4231#Encontrão#
 4232#Refrescante#
@@ -239,7 +239,7 @@
 4239#do Caçador Veterano#
 4240#da Resistência à Magia#
 4241#Duplo 7 Sortudo#
-4242#Nível Alto#
+4242#do Apocalipse#
 4243#da Escapada#
 4244#do Seguidor#
 4245#do Assassino#
@@ -269,7 +269,7 @@
 4269#do Pesadelo#
 4270#do Veneno#
 4271#da Pedra Amarela#
-4272#Veloz#
+4272#da Rapidez#
 4273#Concha#
 4274#Morto-Vivo Sugador#
 4275#do Morto-Vivo Matador#
@@ -400,7 +400,7 @@
 4400#da Tentação#
 4401#da Esquiva#
 4402#da Escolha#
-4403#da Recarga#
+4403#da Pós-conjuração#
 4404#da Hemorragia#
 4405#do Reflexo#
 4406#Cintilante#
@@ -453,7 +453,7 @@
 4454#Ceifadeiro#
 4455#Feya#
 4456#do Arcano#
-4457#Pisíquica#
+4457#Psíquica#
 4458#da Ilusão#
 4459#do Conjurador#
 4460#do Curandeiro#
@@ -531,4 +531,1065 @@
 //------------Aplicar em 2015-02-02--------------------
 //*****************************************************
 4539#do Arrogante Selado#
-4624#do Alto Nível#
+4624#do Alto Risco Selado#
+//*****************************************************
+//-----------------EP 14.3-----------------------------
+//*****************************************************
+4559#do Inescapável#
+//*****************************************************
+//-----------------Heroes Trail Part II----------------
+//*****************************************************
+4556#do Feitiço Incisivo#
+4557#dos Feitiços#
+//*****************************************************
+//----------------Aplicar em 2017-07-03----------------
+//*****************************************************
+27120#em Raios Fúlgidos#
+27121#do Ipiranga#
+27122#da Pátria Amada#
+27123#do Formoso Céu#
+27124#dos Filhos deste Solo#
+27125#do Brado Retumbante#
+27126#da Fúria Folclórica#
+//*****************************************************
+//-------------------OLD GLAST HEIM--------------------
+//*****************************************************
+4601#do Amaldiçoado#
+4603#da Aura Maldita#
+4605#da Maldição Física#
+4606#da Maldição Arcana#
+//*****************************************************
+//-----------------------EP15--------------------------
+//*****************************************************
+27012#da Proteção Mecânica#
+27013#das Cápsulas#
+27014#da Robustez#
+27015#de Reparo#
+27016#da Exploração#
+27017#da Sucata#
+27018#da Oficina#
+27019#Industrial#
+27020#da Anomalia#
+4697#da Sobrecarga#
+4698#de Arremesso#
+4699#dos Canhões#
+//*****************************************************
+//------------Clock Tower Nightmare Cards--------------
+//*****************************************************
+4625#do Vigia#
+4626#dos Ecos#
+4627#Vibrante#
+4628#do Bolor#
+4629#da Desolação#
+4630#da Desgraça#
+4631#Célere#
+4632#Voltaico#
+//*****************************************************
+//----------------Sufixo Encantamentos----------------
+//*****************************************************
+//FOR+1~FOR+10
+4700#(FOR+1) #
+4701#(FOR+2) #
+4702#(FOR+3) #
+4703#(FOR+4) #
+4704#(FOR+5) #
+4705#(FOR+6) #
+4706#(FOR+7) #
+4707#(FOR+8) #
+4708#(FOR+9) #
+4709#(FOR+10) #
+
+//INT+1~INT+10
+4710#(INT+1) #
+4711#(INT+2) #
+4712#(INT+3) #
+4713#(INT+4) #
+4714#(INT+5) #
+4715#(INT+6) #
+4716#(INT+7) #
+4717#(INT+8) #
+4718#(INT+9) #
+4719#(INT+10) #
+
+//DES+1~DES+10
+4720#(DES+1) #
+4721#(DES+2) #
+4722#(DES+3) #
+4723#(DES+4) #
+4724#(DES+5) #
+4725#(DES+6) #
+4726#(DES+7) #
+4727#(DES+8) #
+4728#(DES+9) #
+4729#(DES+10) #
+
+//AGI+1~AGI+10
+4730#(AGI+1) #
+4731#(AGI+2) #
+4732#(AGI+3) #
+4733#(AGI+4) #
+4734#(AGI+5) #
+4735#(AGI+6) #
+4736#(AGI+7) #
+4737#(AGI+8) #
+4738#(AGI+9) #
+4739#(AGI+10) #
+
+//VIT+1~VIT+10
+4740#(VIT+1) #
+4741#(VIT+2) #
+4742#(VIT+3) #
+4743#(VIT+4) #
+4744#(VIT+5) #
+4745#(VIT+6) #
+4746#(VIT+7) #
+4747#(VIT+8) #
+4748#(VIT+9) #
+4749#(VIT+10) #
+
+//SOR+1~SOR+10
+4750#(SOR+1) #
+4751#(SOR+2) #
+4752#(SOR+3) #
+4753#(SOR+4) #
+4754#(SOR+5) #
+4755#(SOR+6) #
+4756#(SOR+7) #
+4757#(SOR+8) #
+4758#(SOR+9) #
+4759#(SOR+10) #
+
+//CRI
+4764#(CRI+5) #
+4765#(CRI+7) #
+
+//DEF
+4791#(DEF+3) #
+4792#(DEF+6) #
+4793#(DEF+9) #
+4794#(DEF+12) #
+
+//DEFM
+4786#(DEFM+2) #
+4787#(DEFM+4) #
+4788#(DEFM+6) #
+4789#(DEFM+8) #
+4790#(DEFM+10) #
+
+//ATQ
+4819#(ATQ+1%) #
+4766#(ATQ+2%) #
+4767#(ATQ+3%) #
+
+//ATQM
+4760#(ATQM+1%) #
+4761#(ATQM+2%) #
+4806#(ATQM+3%) #
+
+//ESQV
+4859#(ESQV+1) #
+4860#(ESQV+3) #
+4762#(ESQV+6) #
+4763#(ESQV+12) #
+
+//HP
+4795#(HP+100) #
+4796#(HP+200) #
+4797#(HP+300) #
+4798#(HP+400) #
+4799#(HP+500) #
+
+//HP%
+4861#(HP+1%) #
+4862#(HP+2%) #
+4867#(HP+3%) #
+4868#(HP+4%) #
+4900#(HP+5%) #
+
+//SP
+4870#(SP+25) #
+4800#(SP+50) #
+4871#(SP+75) #
+4801#(SP+100) #
+4802#(SP+150) #
+
+//Super Atributos
+4853#(S.FOR) #
+4854#(S.AGI) #
+4855#(S.VIT) #
+4856#(S.INT) #
+4857#(S.DES) #
+4858#(S.SOR) #
+
+//Encantos de GH
+4875#(Delírio) #
+4876#(Epifania) #
+4877#(Ânimo) #
+4878#(Histeria) #
+4879#(Instinto) #
+4880#(Euforia) #
+
+//Redução Asas de Arcanjo
+4848#(RN5) #
+4849#(RH5) #
+
+//Espírito do Lutador
+4811#(EL 1) #
+4810#(EL 2) #
+4809#(EL 3) #
+4808#(EL 4) #
+4820#(EL 5) #
+4821#(EL 6) #
+4822#(EL 7) #
+4823#(EL 8) #
+4824#(EL 9) #
+4825#(EL 10) #
+
+//Pedra do Encantamento
+4815#(PE 1) #
+4814#(PE 2) #
+4813#(PE 3) #
+4812#(PE 4) #
+4826#(PE 5) #
+4827#(PE 6) #
+4828#(PE 7) #
+4829#(PE 8) #
+4830#(PE 9) #
+4831#(PE 10) #
+
+//Mira Apurada
+4832#(MA 1) #
+4833#(MA 2) #
+4834#(MA 3) #
+4835#(MA 4) #
+4836#(MA 5) #
+4837#(MA 6) #
+4838#(MA 7) #
+4839#(MA 8) #
+4840#(MA 9) #
+4841#(MA 10) #
+
+//Pedra de Crítico
+4818#(PC 1) #
+4817#(PC 2) #
+4816#(PC 3) #
+4843#(PC 4) #
+4844#(PC 5) #
+
+//Fatal
+4863#(F 1) #
+4864#(F 2) #
+4865#(F 3) #
+4866#(F 4) #
+
+//AB Mora
+4803#(Cura 1) #
+4804#(Catol 1) #
+
+//Arcebispo
+4805#(FC 1) #
+4850#(FC 2) #
+4851#(FC 3) #
+4852#(FC 4) #
+
+//Anti Atraso
+4869#(AA 1) #
+4872#(AA 2) #
+4873#(AA 3) #
+4881#(AA 4) #
+
+//V.Atq
+4807#(V.Atq+1) #
+4842#(V.Atq+2) #
+
+//Essências
+4908#(E.FOR1) #
+4909#(E.FOR2) #
+4910#(E.FOR3) #
+4911#(E.INT1) #
+4912#(E.INT2) #
+4913#(E.INT3) #
+4914#(E.AGI1) #
+4915#(E.AGI2) #
+4916#(E.AGI3) #
+4917#(E.VIT1) #
+4918#(E.VIT2) #
+4919#(E.VIT3) #
+4920#(E.DES1) #
+4921#(E.DES2) #
+4922#(E.DES3) #
+4923#(E.SOR1) #
+4924#(E.SOR2) #
+4925#(E.SOR3) #
+
+//Anel do Herói
+4882#(ATQ +1%) #
+4894#(ATQ +4%) #
+4895#(ATQ +5%) #
+4904#(ATQ +6%) #
+4905#(ATQ +7%) #
+4883#(ATQM +1%) #
+4896#(ATQM 2) #
+4897#(ATQM 3) #
+4898#(ATQM 4) #
+4899#(ATQM 5) #
+4906#(ATQM 6) #
+4907#(ATQM 7) #
+
+//Pedra de Feitiço
+4885#(PF 1) #
+4886#(PF 2) #
+4887#(PF 3) #
+4888#(PF 4) #
+4889#(PF 5) #
+
+//Neutralidade
+4933#(Neut 1) #
+4934#(Neut 2) #
+4935#(Neut 3) #
+
+//E.X.C.
+4970#(E-Fogo) #
+4971#(E-Água) #
+4972#(E-Terra) #
+4973#(E-Vento) #
+4974#(R-Fogo) #
+4975#(R-Água) #
+4976#(R-Terra) #
+4977#(R-Vento) #
+4978#(C-Corpo) #
+4979#(C-Alma) #
+4980#(C-Físico) #
+4981#(C-Mental) #
+4982#(A-FOR) #
+4983#(A-INT) #
+4984#(A-DEF) #
+4985#(A-ESQV) #
+4986#(A-ATQ) #
+4987#(A-ATQM) #
+4988#(A-HP) #
+4989#(A-SP) #
+4990#(I-Gelo) #
+4991#(A-VdA) #
+
+//*****************************************************
+//---ECLAGE / PORT MALAYA / BIO 4 / PORTAL DO ABISMO---
+//*****************************************************
+4560#da Poesia#
+4561#da Proteção Terrena#
+4562#da Penetração#
+4563#da Corrosão#
+4564#da Incapacitação#
+4565#da Cruz Suprema#
+4566#da Boa Ventura#
+4567#da Assombração Poeta#
+4568#da Aparição Erudita#
+4569#do Espírito Lutador#
+4570#do Espectro da Gênese#
+4571#da Alma da Desordem#
+4572#do Fantasma Virtuoso#
+4573#da Visão Musical#
+4574#do Mestre das Lâminas#
+4575#do Corte Veloz#
+4576#Caça-Fantasmas#
+4577#Afugenta Fantasmas#
+4578#do Furor#
+4579#da Devastação#
+4580#da Perversão#
+4581#da Higiene#
+4582#da Energia Vital#
+4583#da Vinha Venenosa#
+4584#da Absorção Espiritual#
+4585#do Atormentado#
+4586#do Zéfiro#
+4587#do Corte Profundo#
+4588#da Potência#
+4589#da Fartura#
+4590#da Letargia#
+4591#da Ruptura#
+4592#Petrificante#
+4593#do Franco-atirador#
+4594#do Golpe de Sorte#
+4595#do Ataque Relâmpago#
+4596#da Perspicácia#
+4597#Borbulhante#
+4598#Espectral#
+4599#Ardente#
+4600#Brotante#
+4607#do Bibliotecário#
+
+//*****************************************************
+//------------Horror Toy Factory Cards---------
+//*****************************************************
+31016#da Persistência#
+31017#da Petulância#
+31018#da Maldição à Distância#
+31019#da Retaliação Maldita#
+31020#do Sacrifício Maldito#
+31021#da Resiliência#
+31022#do Desespero#
+31023#dos Ferimentos Mortais#
+
+//*****************************************************
+//-------------Moscovia Cards-------------
+//*****************************************************
+27157#do Ecossistema#
+27158#Anti Vento#
+27159#do Exterminador de Demônios#
+27160#do Intocável#
+27161#das Forças da Natureza#
+27162#do Pacto de Mana#
+//*****************************************************
+//-------------GLAST HEIM SOMBRIA CARDS----------------
+//*****************************************************
+4602#do Assombrado#
+4604#da Aura Sombria#
+4608#do Cavaleiro#
+4609#da Cavaleira#
+//*****************************************************
+//-------------PYRAMID NIGHT MARE CARDS----------------
+//*****************************************************
+4652#Abismal#
+4653#do Predador#
+4654#do Caça-Aberrações#
+4655#do Caça-Zumbis#
+4656#dos Sussurros#
+4657#da Maldição Ancestral#
+4658#do Arcanista#
+//*****************************************************
+//-------------HOROES TRAIL PART 1 CARDS---------------
+//*****************************************************
+27163#do Invertebrado#
+27164#da Rainha#
+27165#Parasita#
+27166#Termais#
+27167#Glacial#
+27168#do Pai#
+27169#da Infantaria#
+//*****************************************************
+//------------QUEST DAS FADAS 02-07-2019---------------
+//*****************************************************
+29135#(FA1) #
+29136#(FA2) #
+29137#(FA3) #
+29138#(FA4) #
+//*****************************************************
+//-------------------Episode 16.1----------------------
+//*****************************************************
+31024#Impactante#
+31025#Intoxicante#
+31026#de Autoconjuração#
+4446#Super Fatal#
+4633#Super Ciclonal#
+4634#Super Letal#
+4635#da Fortaleza#
+4636#da Imunidade#
+4637#da Regeneração#
+4638#da Agressividade#
+4639#de Ataque#
+4640#de Magia#
+4641#da Coleta de Mana#
+4994#(RP 1) #
+4995#(RP 2) #
+4996#(RP 3) #
+4997#(RL 1) #
+4998#(RL 2) #
+4999#(RL 3) #
+29000#(RM 1) #
+29001#(RM 2) #
+29002#(RM 3) #
+29003#(RV 1) #
+29004#(RV 2) #
+29005#(RV 3) #
+29006#(RA 1) #
+29007#(RA 2) #
+29008#(RA 3) #
+29009#(RS 1) #
+29010#(RS 2) #
+29011#(RS 3) #
+//*****************************************************
+//-------------------DORAM CARDS----------------------
+//*****************************************************
+4659#do Ovo Frito#
+4660#da Rigidez#
+4661#do Escamoso#
+4662#do Omelete#
+4663#do Farfalhar#
+4664#da Grama#
+4665#do Ferrão#
+4666#da Doçura#
+4667#do Faro#
+4668#da Água Doce#
+4669#da Ventania#
+4670#do Fogaréu#
+//*****************************************************
+//--------------Sufixo Novos Encantamentos-------------
+//*****************************************************
+4928#(SP + 10) #
+4929#(SP+1%) #
+4992#(C.HP 1) #
+4993#(C.SP 1) #
+29047#(M 1) #
+29359#(M 2) #
+29360#(M 3) #
+29361#(M 4) #
+//*****************************************************
+//-----------Sufixo Ordem dos Exploradores-------------
+//*****************************************************
+29046#(Ganância) #
+29052#(Graça Divina) #
+29147#(Ressuscitar) #
+4893#(DEF+15) #
+4902#(DEF+18) #
+4903#(DEF+21) #
+4890#(DEFM+1) #
+4891#(DEFM+3) #
+4892#(DEFM+5) #
+4901#(DEFM+7) #
+4545#do Bebê#
+//*****************************************************
+//-----------Sufixo Ordem dos Exploradores-------------
+//*****************************************************
+29445#(PA 1) #
+29446#(PA 2) #
+29447#(PA 3) #
+29448#(PA 4) #
+29449#(PA 5) #
+29139#(FA 5) #
+//*****************************************************
+//------------Sufixo Festival de Brasilis--------------
+//*****************************************************
+4846#(AC) #
+//*****************************************************
+//-------------BIO 5 and Heroes Trail Pt 3-------------
+//*****************************************************
+4671#da Feiticeira#
+4672#do Shura#
+4673#do Trovador#
+4674#do Sicário#
+4675#da Arcebispa#
+4676#da Sentinela#
+4677#do Mecânico#
+4678#da Arcana#
+4679#do Cavaleiro Rúnico#
+4680#do Guardião Real#
+4681#do Bioquímico#
+4682#da Renegada#
+4683#da Musa#
+4684#das Lâminas#
+4685#de Adoramus#
+4686#do Meteoro#
+4687#da Bomba#
+4688#do Furacão#
+4689#da Ignição#
+4690#Inferi#
+4691#do Tornado#
+4692#dos Aesir#
+4693#dos Espíritos#
+4694#da Cópia#
+4695#do Temporal#
+4696#da Ressonância#
+4610#Invencível#
+27181#da Invasão#
+27182#do Capitão#
+27183#dos Gigantes#
+4939#(CRIT +2) #
+4940#(CRIT +4) #
+4941#(CRIT +6) #
+4942#(EP +3) #
+4943#(EP +4) #
+4944#(EP +5) #
+4945#(E 1) #
+4946#(E 2) #
+4947#(E 3) #
+4948#(AH 1) #
+4949#(AH 2) #
+4950#(AH 3) #
+29061#(IP 1) #
+29062#(IP 2) #
+29063#(IP 3) #
+29064#(IP 4) #
+29065#(IP 5) #
+29066#(IP 6) #
+29067#(IP 7) #
+29068#(IP 8) #
+29069#(IP 9) #
+29070#(IP 10) #
+29071#(IV 1) #
+29072#(IV 2) #
+29073#(IV 3) #
+29074#(IV 4) #
+29075#(IV 5) #
+29076#(IV 6) #
+29077#(IV 7) #
+29078#(IV 8) #
+29079#(IV 9) #
+29080#(IV 10) #
+29081#(IT 1) #
+29082#(IT 2) #
+29083#(IT 3) #
+29084#(IT 4) #
+29085#(IT 5) #
+29086#(IT 6) #
+29087#(IT 7) #
+29088#(IT 8) #
+29089#(IT 9) #
+29090#(IT 10) #
+29091#(IM 1) #
+29092#(IM 2) #
+29093#(IM 3) #
+29094#(IM 4) #
+29095#(IM 5) #
+29096#(IM 6) #
+29097#(IM 7) #
+29098#(IM 8) #
+29099#(IM 9) #
+29100#(IM 10) #
+29101#(IR 1) #
+29102#(IR 2) #
+29103#(IR 3) #
+29104#(IR 4) #
+29105#(IR 5) #
+29106#(IR 6) #
+29107#(IR 7) #
+29108#(IR 8) #
+29109#(IR 9) #
+29110#(IR 10) #
+29111#(IA 1) #
+29112#(IA 2) #
+29113#(IA 3) #
+29114#(IA 4) #
+29115#(IA 5) #
+29116#(IA 6) #
+29117#(IA 7) #
+29118#(IA 8) #
+29119#(IA 9) #
+29120#(IA 10) #
+//*****************************************************
+//-----------------------EP 14.3-----------------------
+//*****************************************************
+27321#de Satã#
+27322#do Apóstolo#
+27323#da Apóstola#
+27324#do Frio#
+27325#do Calor#
+27326#da Destruição#
+27327#do Ceifador#
+27328#dos Caídos#
+27026#Quente#
+27027#Incandescente#
+27028#da Queimada#
+27029#Corta-Fogo#
+27030#do Incêndio#
+27170#do Caubói#
+27171#do Vaqueiro#
+27172#da Peixeira#
+27173#do Velho-Oeste#
+27174#do Justiceiro#
+27175#do Facão#
+27176#da Sujeira#
+27177#da Nojeira#
+27178#da Guarda Irreal#
+27179#Acme#
+27180#do Desarme#
+27249#de Alphard#
+27250#do Sirius#
+27251#do Bandido#
+27252#do Valentão#
+27253#da Ladra#
+27254#da Mirzam#
+27255#da Muliphen#
+27256#da Wezen#
+27257#do Wei#
+27258#do Sargas#
+27259#da Shaula#
+27260#da Ahdara#
+27261#do Procyon#
+27262#de Atria#
+27263#de Kanavion#
+27264#das Trevas#
+27265#Ocultista#
+27184#das Mágoas#
+//*****************************************************
+//-----------------------EP 16.2-----------------------
+//*****************************************************
+27147#da Intensividade#
+27148#Padrão#
+27149#do Disparo#
+27150#Quimera#
+27151#da Malícia#
+27152#da Indução#
+//*****************************************************
+//-------------------ROYAL HUNTING---------------------
+//*****************************************************
+27196#de Nihil#
+27197#de Agnes#
+27198#de Jurgen#
+27199#das Gêmeas#
+27331#Heine#
+27333#Nerius#
+27390#Lugenburg#
+27392#Richard#
+27394#da Cortesia#
+27396#Wigner#
+27200#Autografado por Nihil#
+27201#Autografado por Agnes#
+27202#Autografado por Jurgen#
+27203#Autografado por Spica#
+27330#Autografado por Kronecker#
+27332#Autografado por Skia#
+27393#Autografado por Katrin#
+27395#Autografado por Isaac#
+27389#Autografado por Wolf#
+27391#Autografado por Poe#
+300127#com autógrafo de Wolf#
+300128#de Lugenburg#
+300129#com autógrafo de Poe#
+300130#de Poe#
+4488#da Perdição Selada#
+//*****************************************************
+//-------------------BRASILIS EVENT--------------------
+//*****************************************************
+27413#(PX) #
+27414#(PO) #
+27415#(PI) #
+27416#(PU) #
+//*****************************************************
+//------------------EDDA ARUNEFELTZ--------------------
+//*****************************************************
+29121#(DJ 1) #
+29122#(DJ 2) #
+29123#(DA 1) #
+29124#(DA 2) #
+29125#(DV 1) #
+29126#(DV 2) #
+//*****************************************************
+//---------------Update em 2022-05-17------------------
+//*****************************************************
+27217#da Incapacitação Selada#
+//*****************************************************
+//--------------------ILUSÃO DA LUA--------------------
+//*****************************************************
+27081#da Lua#
+27082#de Nove Caudas#
+27083#do Crescimento#
+27084#do Ressentimento#
+27085#da Delicadeza#
+27086#do Ciclone#
+27087#da Verdade#
+27088#do Aventureiro#
+29209#(C.SP 2) #
+29013#(C.HP 3) #
+//*****************************************************
+//---------------Update em 2022-07-05------------------
+//*****************************************************
+27221#Caça-Fantasmas Selada#
+27225#do Vigia Selada#
+//*****************************************************
+//---------------Update em 2022-08-30------------------
+//*****************************************************
+27215#da Penetração Selada#
+//*****************************************************
+//-----------Illusion of Turtle Island-----------------
+//*****************************************************
+27114#da Firmeza#
+27115#da Sensibilidade#
+27116#da Dualidade#
+27117#da Letalidade#
+27118#das Lanças#
+27119#da Tartaruga#
+//*****************************************************
+//---------------Illusion of Vampire-------------------
+//*****************************************************
+27101#dos Sonhos#
+27102#Anti-inflamável#
+27103#Zumbi#
+27104#da Compaixão#
+27105#da Promessa#
+//*****************************************************
+//---------------Update em 2022-10-18------------------
+//*****************************************************
+27212#de Reflexão Selada#
+//*****************************************************
+//--------------------Episode 17.1---------------------
+//*****************************************************
+27304#da Recuperação#
+27305#de Hela#
+27306#do Tambor#
+27307#de Expurgar#
+27308#da Restauração#
+27309#Benevolente#
+27310#Neutral#
+27311#Enorme#
+27312#Perfurante#
+27313#da Perícia#
+27314#do Poder Animal#
+27315#da Magia Animal#
+27316#Antiveneno#
+27317#Penetrante#
+27318#do Tigre#
+27319#Insalubre#
+27320#do Fogo Mágico#
+29527#(N-DEF) #
+29528#(N-DEFM) #
+29529#(S-HPR) #
+29530#(S-SPMax) #
+29531#(S-HPMax) #
+29532#(S-SPR) #
+29533#(S-Cura) #
+29534#(S-ATQ) #
+29535#(S-ATQM) #
+29536#(S-Tiro) #
+29537#(S-Rapidez) #
+29538#(S-Magia) #
+29539#(S-CRIT) #
+29540#(U-Pós) #
+29541#(U-Fixa) #
+29542#(U-Total) #
+29543#(U-Vida) #
+29544#(U-Alma) #
+29545#(U-Mental) #
+29546#(U-Mana) #
+29547#(L-Eternidade) #
+29548#(L-Sortilégio) #
+29549#(L-Astúcia) #
+29550#(L-Superpoder) #
+29551#(L-Lampejo) #
+29552#(L-Fortuna) #
+//*****************************************************
+//---------------Update em 2023-01-13------------------
+//*****************************************************
+311910#(CM) #
+311911#(CN) #
+//*****************************************************
+//---------------Update em 2023-02-14------------------
+//*****************************************************
+27110#à Prova de Balas#
+27111#de Refugo#
+27112#do Anteparo#
+27113#de Cristal#
+//*****************************************************
+//---------------Illusion of Teddy Bear----------------
+//*****************************************************
+27286#das Cores#
+27287#do Iluminado#
+27288#dos Mineradores#
+27289#Conveniente#
+27290#de Obsidiana#
+//*****************************************************
+//---------------Update em 2023-05-16------------------
+//*****************************************************
+4487#Infernal Selada#
+4489#do Místico Selado#
+4490#Fugazes Selados#
+4492#do Herói Selado#
+4538#da Medicina Selada#
+27209#Scaraba Selada#
+27211#do Ceifeiro Selado#
+27213#da Poesia Selada#
+27214#da Proteção Terrena Selada#
+27216#da Corrosão Selada#
+27218#da Cruz Suprema Selada#
+27219#da Boa Ventura Selada#
+27220#do Mestre das Lâminas Selada#
+27222#do Furor Selado#
+27224#da Perversão Selada#
+//*****************************************************
+//---------------Update em 2023-05-30------------------
+//*****************************************************
+300307#Autografado por Meyer#
+300308#de Meyer#
+300309#Autografado por Helmut#
+300310#de Helmut#
+//*****************************************************
+//---------------Update em 2023-07-11------------------
+//*****************************************************
+27291#das Juntas#
+27292#da Estaláctica#
+27293#Circular#
+27294#do Alto Perigo#
+27295#Disparante#
+27296#da Arquearia#
+27297#da Luta#
+27298#do Wootan#
+//*****************************************************
+//---------------Update em 2023-09-19------------------
+//*****************************************************
+27025#Real#
+27334#do Bafomé#
+27335#do Filhote#
+27336#da Víbora#
+27337#da Brisa de Caça#
+27338#da Dupla Potência#
+27339#Fantasma#
+27340#do Duplo Crítico#
+27341#da Concha d'água#
+27342#da Terra Neutra#
+27343#dos Caóticos#
+//*****************************************************
+//---------------Update em 2023-10-17------------------
+//*****************************************************
+27346#de Muspell#
+27347#Montanhista#
+27348#do Nada#
+27349#da Barreira Infernal#
+27350#da Serpe#
+27351#da Cocatrice#
+27352#Dormente#
+27353#da Barreira Diabólica#
+27354#da Depravação#
+27355#do Depravado#
+27356#da Guarda Gelada#
+27357#da Imundície#
+27358#do Foragido#
+27359#Surfista#
+27360#Vulcanista#
+27361#do Andarilho#
+27362#da Majestade#
+27363#Imperdoável#
+//*****************************************************
+//---------------Update em 2023-10-31------------------
+//*****************************************************
+4642#do Escape#
+4643#da Ofensiva#
+4644#da Defensiva#
+4645#da Saúde#
+4646#do Híbrido#
+4647#Inesquecível#
+4648#Provocante#
+4649#Atacante#
+4650#Atordoante#
+4651#do Baixo Risco#
+//*****************************************************
+//---------------Update em 2024-01-30------------------
+//*****************************************************
+27106#Musical#
+27108#Cantante#
+27107#Dançante#
+27109#do Pianista#
+//*****************************************************
+//---------------Update em 2024-04-16------------------
+//*****************************************************
+300140#do Vento Mágico#
+300141#da Sereia Má# 
+300142#do Submarino#
+300143#do Pesticida#
+300144#Lacinante#
+300145#das Fossas Abissais#
+300146#do Peixeiro#
+300147#dos Sete Mares#
+300148#das Profundezas#
+300149#Vendaval#
+300150#do Esgrimista#
+300151#do Marasmo#
+//*****************************************************
+//---------------Update em 2024-05-14------------------
+//*****************************************************
+300421#Autografado por Catherine#
+300422#de Gaebolg#
+300423#Autografado por Friedrich#
+300424#de Stolz#
+300425#Autografado por Crux Findel#
+300426#de Findel#
+//*****************************************************
+//---------------Update em 2024-05-28------------------
+//*****************************************************
+300230#Amarelante#
+300231#do Operário#
+300232#das Crias#
+300233#Vermelhante#
+300234#Esverdeante#
+300235#de Ovo#
+300236#Insistente#
+300237#Terebrante#
+300238#do Tratamento#
+300239#da Distorção#
+4884#(Precisão+1) #
+//*****************************************************
+//---------------Update em 2024-06-25------------------
+//*****************************************************
+29594#(MS) #
+29595#(MH) #
+29596#(ME) #
+29598#(MK) #
+29599#(MM) #
+29600#(MS) #
+29601#(MR) #
+29602#(MF) #
+29603#(MG) #
+29604#(MC) #
+29605#(MN) #
+29606#(MT) #
+29607#(MA) #
+//*****************************************************
+//---------------Update em 2024-07-23------------------
+//*****************************************************
+4930#(CR 2) #
+4931#(RecHP) #
+4932#(RecSP) #
+//*****************************************************
+//---------------Update em 2024-08-20------------------
+//*****************************************************
+4936#(G+1%) #
+4937#(M+1%) #
+4938#(P+1%) #
+//*****************************************************
+//------------Update em 2024-11-11 (200lvl)------------
+//*****************************************************
+300001#Superneutralizante#
+300002#do Antibala#
+300003#da Agressividade#
+300004#do Muro#
+300005#do Carvoeiro#
+300006#da Onda#
+300007#de Quebra-Pedra#
+300008#Supercintilante#
+300009#da Magia Fantasma#
+300010#da Magia Zéfira#
+300011#da Magia Sagrada#
+300012#da Santa#
+300013#da Reginleif#
+300014#da Ingrid#
+300015#da Alta Força#
+300016#do Tesouro#
+300017#Supercelestial#
+300018#Superabissal#
+300019#Dragonologista#
+300020#Brutalista#
+300021#de Fafnir#
+310076# (B.FOR)#
+310077# (B.AGI)#
+310078# (B.VIT)#
+310079# (B.INT)#
+310080# (B.DES)#
+310081# (B.SOR)#
+29238# (ESQV+10)#
+29241# (CRIT+10)#
+//*****************************************************
+//---------------Update em 2024-11-26------------------
+//*****************************************************
+300547#de Luke#
+300550#de Fei-Chai#
+300551#de A-Ji#
+300552#de Tai-Zi#
+//*****************************************************
+//---------------Update em 2024-12-10------------------
+//*****************************************************
+29028# (ATQ +1%)#
+29030# (ATQM +1%)#
+29026# (DEF+20)#
+27210#do Impacto Selado#
+300201#da Majestade Selada#
+313332# (Aquário)#
+313333# (Áries)#
+313334# (Câncer)#
+313335# (Capricórnio)#
+313336# (Gêmeos)#
+313337# (Leão)#
+313338# (Libra)#	
+313339# (Peixes)#
+313340# (Sagitário)#
+313341# (Escorpião)#
+313342# (Serpentário)#
+313343# (Touro)#
+313344# (Virgem)#

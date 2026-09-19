@@ -1,0 +1,34 @@
+%faf0e6
+^000088- Receitas culinárias de nível 4 -^000000
+                                              ^800000Por Charles Orleans^000000
+
+^ff0000Bife Marinado com Ervas:^000000 FOR +4.
+Ingredientes:
+        ^0000ff1 Carne, 1 Erva Vermelha, 1 Erva Amarela,^000000
+        ^0000ff1 Erva Verde, 1 Molho Doce, 1 Limão^000000			
+
+^0000ffVinho de Frutas de Morroc:^000000 INT +4.
+Ingredientes:
+        ^0000ff1 Morango, 1 Limão, 1 Laranja, 1 Álcool e 1 Uva^000000
+
+^800000Sanduíche Cremoso:^000000 DES +4.
+Ingredientes:
+        ^0000ff1 Pão, 1 Leite, 1 Queijo,^000000
+        ^0000ff1 Erva Amarela, 1 Carne, 1 Molho Doce^000000
+
+
+
+^008040Macarrão Frio de Lutie:^000000 AGI +4.
+Ingredientes:
+        ^0000ff1 Sacola de Grãos, 1 Molho Picante,^000000
+        ^0000ff1 Cubo de Gelo, 1 Cenoura, 1 Zé-Lanterna^000000		
+		
+^ff8040Água-Viva Temperada:^000000 VIT +4.
+Ingredientes:
+        ^0000ff1 Tentáculo, 1 Erva Branca, 1 Grama,^000000
+        ^0000ff1 Frigideira Velha, 1 Tinta de Polvo^000000	
+
+^400080Lábios no Vapor:^000000 SOR +4.
+Ingredientes:
+        ^0000ff1 Lábio Fossilizado, 1 Folha de Fumacento,^000000
+        ^0000ff1 Erva Branca, 1 Peixe Fresco, 1 Molho Doce^000000	

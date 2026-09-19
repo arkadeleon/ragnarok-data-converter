@@ -1,0 +1,38 @@
+%faf0e6
+^000088- Receitas culinárias de nível 6 -^000000
+                                              ^800000Por Charles Orleans^000000
+
+^ff0000Bife Marinado Brilhante:^000000 FOR +6.
+Ingredientes:
+        ^0000ff1 Carne, 1 Mel, 1 Erva Amarela, 1 Mastela, 1 Escama Brilhante^000000
+
+^0000ffVinho de Cogumelo:^000000 INT +6.
+Ingredientes:
+        ^0000ff1 Cogumelo Comestível, 1 Suco de Uva, 1 Álcool,^000000
+        ^0000ff1 Esporo de Cogumelo, 1 Condimento Vermelho^000000	
+
+^800000Bolo de Pêssego:^000000 DES +6.
+Ingredientes:
+        ^0000ff1 Pêssego Petrificado, 1 Pedaço de Bolo, 1 Queijo,^000000
+        ^0000ff1 Leite, 1 Suco de Laranja, 1 Molho Doce^000000
+
+
+
+^008040Gratinado de Chilli:^000000 AGI +6.
+Ingredientes:
+        ^0000ff1 Pimenta Vermelha, 1 Camarão, 1 Molho Doce, 1 Limão^000000
+		
+^ff8040Bebida Amargosa:^000000 VIT +6.
+Ingredientes:
+        ^0000ff1 Raiz Marrom, 1 Raiz de Planta Carnívora, 1 Mel,^000000
+        ^0000ff1 Esporo de Cogumelo, 1 Cogumelo Comestível^000000	
+
+^400080Sopa da Sorte:^000000 SOR +6.
+Ingredientes:
+        ^0000ff1 Língua de Réptil, 1 Língua, 1 Aloés,^000000
+        ^0000ff1 Areia Estelar de Bruxa, 1 Trevo^000000	
+
+^ff3366Rodízio Nível 6:^000000 Todos os atributos +6.
+Ingredientes:
+        ^0000ff1 Bife Marinado Brilhante, 1 Vinho de Cogumelo, 1 Bolo de Pêssego,^000000
+        ^0000ff1 Gratinado de Chilli e Camarão, 1 Bebida Amargosa, 1 Sopa da Sorte^000000	

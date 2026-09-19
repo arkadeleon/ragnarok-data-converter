@@ -1,0 +1,40 @@
+%faf0e6
+^000088- Receitas culinárias de nível 5 -^000000
+                                              ^800000Por Charles Orleans^000000
+
+^ff0000Panqueca de Lutie:^000000 FOR +5.
+Ingredientes:
+        ^0000ff1 Batata Doce, 1 Mel, 1 Cenoura,^000000
+        ^0000ff1 Óleo de Cozinha, 1 Sacola de Grãos^000000			
+
+^0000ffVinho de Mastela:^000000 INT +5.
+Ingredientes:
+        ^0000ff1 Mastela, 1 Poção Azul, 1 Álcool,^000000
+        ^0000ff1 Limão, 1 Condimento Amarelo^000000		
+
+^800000Salada Verde:^000000 DES +5.
+Ingredientes:
+        ^0000ff1 Folha de Hinalle, 1 Condimento Amarelo, 1 Molho Doce,^000000
+        ^0000ff1 Folha de Aloe, 1 Folha Afiada, 1 Folha Gigante^000000
+
+
+
+^008040Morcego na Moranga:^000000 AGI +5.
+Ingredientes:
+        ^0000ff1 Asa de Morcego Vermelho, 1 Panela,^000000
+        ^0000ff1 Zé-Lanterna, 1 Folha de Hinalle, 1 Erva Vermelha^000000		
+		
+^ff8040Pão de Carne Picante:^000000 VIT +5.
+Ingredientes:
+        ^0000ff1 Pão de Carne, 1 Erva Amarela, 1 Erva Verde,^000000
+        ^0000ff1 Condimento Vermelho, 1 Molho Picante^000000	
+
+^400080Caudas de Escorpião Fritas:^000000 SOR +5.
+Ingredientes:
+        ^0000ff1 Cauda de Escorpião, 1 Pata de Inseto, 1 Frigideira Velha^000000
+        ^0000ff1 Folha Gigante, 1 Óleo de Cozinha^000000	
+		
+^400080Rodízio Nível 5:^000000 Todos os atributos +5.
+Ingredientes:
+        ^0000ff1 Panqueca de Lutie, 1 Vinho de Mastela, 1 Salada Verde,^000000
+        ^0000ff1 Morcego na Moranga, 1 Pão de Carne Picante, 1 Caudas de Escorpião Fritas^000000			

@@ -488,18 +488,6 @@ Peso: ^7777771^000000
 Peso: ^7777771^000000
 #
 10038#Item não identificado, pode ser identificado com [Lupa]. #
-6377#
-Uma licença da Guilda dos Mercadores que permite abrir uma Loja de Atacado.
-Você precisa ter pelo menos uma cópia dos itens que deseja comprar.
-Item Consumível 
-Peso : ^7777771^000000
-#
-12548#
-Uma licença suspeita que permite abrir uma Loja de Atacado. O carimbo da Guilda dos Mercadores parece ter sido desenhado à mão.
-Você precisa ter pelo menos uma cópia dos itens que deseja comprar.
-Item Consumível 
-Peso : ^7777771^000000
-#
 6360#
 Gema com propriedades de fogo, um fragmento de Sangue Escarlate.
 Peso : ^7777770.5^000000
@@ -7183,7 +7171,7 @@ Weight : ^7777771^000000
 7227#
 Um ingresso que permite ao usuário acessar o evento Cheffênia.
 ^ffffff_^000000
-^FF0000ATENÇÃO! O evento Bossnia será encerrado às 06h59 do dia 25/07/12. O ingresso perderá a validade após esta data.^000000
+^FF0000ATENÇÃO! O evento Cheffênia será encerrado às 23h59 do dia 09/01/2017. O ingresso perderá a validade após esta data.^000000
 Peso: ^7777771^000000
 #
 7228#
@@ -16495,6 +16483,7 @@ Peso: ^7777771^000000
 #
 554#
 Bolinho doce japonês feito de arroz batido. ^000099Recupera parte de seu HP^000000.
+^FF0000Atenção! O item não podem ser negociado, vendido em NPCs, colocados no carrinho ou Kafra nem jogado ao chão.^000000
 Pode causar os status Cegueira e Atordoamento.
 ^ffffff_^000000
 Peso: ^7777778^000000
@@ -16513,6 +16502,7 @@ Peso : ^77777720^000000
 #
 13974#
 Utilize-o para receber um item aleatório.
+^FF0000Atenção! Alguns itens dados pelo pergaminho supresa não podem ser negociados, vendidos em NPCs, colocados no carrinho e jogados ao chão.^000000
 Peso: 1
 #
 5421#Item não identificado. Pode ser identificado com uma [Lupa]
@@ -22550,7 +22540,7 @@ Caixa_de_Madeira_Entalhada
 #
 
 14545#
-Super_Manual_de_Batalha
+Um manuscrito feito pelos 3 fundadores do bROWiki. Cada um colaborou com 100% do próprio conhecimento para guiar novos aventureiros em suas viagens por Midgard.
 #
 
 2164#Item não identificado. Pode ser identificado com uma [Lupa]
@@ -22792,23 +22782,14 @@ Peso : ^7777771^000000
 
 //-------RWC2012 enchant event material-------------
 
-4797#
-HP+300
-#
-4796#
-HP+200
-#
 4795#
-HP+100
+HP+ 100
 #
 4800#
-SP + 50
+SP +50
 #
 4801#
-SP + 100
-#
-4802#
-SP + 150
+SP +100
 #
 4807#
 Vel. ATQ + 1.
@@ -23140,55 +23121,55 @@ Um pó misterioso. Dizem que as fadas perversas gostam de pregar peças com ele.  
 Peso: ^7777771^000000
 #
 4786#
-DEFM + 2
+DEFM +2
 #
 4787#
-DEFM + 4
+DEFM +4
 #
 4788#
-DEFM + 6
+DEFM +6
 #
 4789#
-DEFM + 8
+DEFM +8
 #
 4790#
-DEFM + 10
+DEFM +10
 #
 4791#
-DEF + 3
+DEF +3
 #
 4792#
-DEF + 6
+DEF +6
 #
 4793#
-DEF + 9
+DEF +9
 #
 4794#
-DEF + 12
+DEF +12
 #
 4795#
-HP + 100
+HP +100
 #
 4796#
-HP + 200
+HP +200
 #
 4797#
-HP + 300
+HP +300
 #
 4798#
-HP + 400
+HP +400
 #
 4799#
-HP + 500
+HP +500
 #
 4800#
-SP + 50
+SP +50
 #
 4801#
-SP + 100
+SP +100
 #
 4802#
-SP + 150
+SP +150
 #
 4803#
 Reduz em 3 segundos o tempo de 'recarga' de Curatio.
@@ -24034,7 +24015,7 @@ Peso : ^7777770^000000
 12853#Patron_Scroll#
 17178#Cx. Água Milagrosa[50]#
 12832#Água Milagrosa#
-17224#Bolinho Divino[10]#
+17224#Bolinho Divino [10]#
 12883#Bolinho Divino#
  
 1562#Item não identificado. Pode ser identificado com uma [Lupa].#
@@ -24944,7 +24925,7 @@ ABCDEFG!!
 7608#
 Ticket promocional criado pela Corporação Kafra.
 Troque-o por um prêmio aleatório na NPC de Promoções Especiais em Prontera, coordenadas 141 226.
-Esta promoção está disponível apenas ^0000ffaté à manutenção do dia 10/10/2012^000000 e desaparecerá de sua conta de jogo durante a mesma.
+Esta promoção está disponível apenas ^0000ffaté à manutenção do dia 30/08/2016^000000 e desaparecerá de sua conta de jogo durante a mesma.
 Então troque seu ticket agora mesmo!
 Peso: ^7777771^000000
 #
@@ -25969,4 +25950,2721 @@ ATQM + 30. Diminui tempo de conjuração em 10%.
 4881#Diminui 10% o tempo entre ataques
 #
 20006#Item não identificado. Pode ser identificado com uma [Lupa]. #
+//*****************************************************
+//------------Aplicar em 2016-05-03--------------------
+//*****************************************************
+20278#Item não identificado. Pode ser identificado com uma [Lupa].#
+20287#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-05-17--------------------
+//*****************************************************
+20407#Item não identificado. Pode ser identificado com uma [Lupa].#
+20132#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-05-31--------------------
+//*****************************************************
+20315#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-06-07--------------------
+//*****************************************************
+20279#Item não identificado. Pode ser identificado com uma [Lupa].#
+20280#Item não identificado. Pode ser identificado com uma [Lupa].#
+20295#Item não identificado. Pode ser identificado com uma [Lupa].#
+20316#Item não identificado. Pode ser identificado com uma [Lupa].#
+20470#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-06-14--------------------
+//*****************************************************
+20282#Item não identificado. Pode ser identificado com uma [Lupa].#
+20404#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-07-05--------------------
+//*****************************************************
+20311#Item não identificado. Pode ser identificado com uma [Lupa].#
+20319#Item não identificado. Pode ser identificado com uma [Lupa].#
+16267#
+Uma caixa contendo 10 manuais de campo.
+^ffffff_^000000
+Manual de Campo - Aumenta a EXP ganha ao se derrotar monstros em +200% pelo período de 15 minutos.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+//*****************************************************
+//------------Aplicar em 2016-07-12--------------------
+//*****************************************************
+19871#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-07-25--------------------
+//*****************************************************
+20318#Item não identificado. Pode ser identificado com uma [Lupa].#
+20202#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-08-02--------------------
+//*****************************************************
+20218#Item não identificado. Pode ser identificado com uma [Lupa].#
+20209#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-08-09--------------------
+//*****************************************************
+20324#Item não identificado. Pode ser identificado com uma [Lupa].#
+20240#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-08-16--------------------
+//*****************************************************
+20219#Item não identificado. Pode ser identificado com uma [Lupa].#
+20220#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//-------------EQUIPAMENTOS DE MORA--------------------
+//*****************************************************
+1660#Item não identificado. Pode ser identificado com uma [Lupa].#
+16018#Item não identificado. Pode ser identificado com uma [Lupa].#
+2011#Item não identificado. Pode ser identificado com uma [Lupa].#
+2012#Item não identificado. Pode ser identificado com uma [Lupa].#
+2013#Item não identificado. Pode ser identificado com uma [Lupa].#
+2014#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-08-23--------------------
+//*****************************************************
+20217#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-08-30--------------------
+//*****************************************************
+20286#Item não identificado. Pode ser identificado com uma [Lupa].#
+20033#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-09-06--------------------
+//*****************************************************
+20325#Item não identificado. Pode ser identificado com uma [Lupa].#
+20346#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-09-13--------------------
+//*****************************************************
+20283#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//-------------Episódio 14.3 The Final-----------------
+//*****************************************************
+22035#Item não identificado. Pode ser identificado com uma [Lupa].#
+22036#Item não identificado. Pode ser identificado com uma [Lupa].#
+22037#Item não identificado. Pode ser identificado com uma [Lupa].#
+2981#Item não identificado. Pode ser identificado com uma [Lupa].#
+2988#Item não identificado. Pode ser identificado com uma [Lupa].#
+2989#Item não identificado. Pode ser identificado com uma [Lupa].#
+2990#Item não identificado. Pode ser identificado com uma [Lupa].#
+2991#Item não identificado. Pode ser identificado com uma [Lupa].#
+2992#Item não identificado. Pode ser identificado com uma [Lupa].#
+15100#Item não identificado. Pode ser identificado com uma [Lupa].#
+15101#Item não identificado. Pode ser identificado com uma [Lupa].#
+15093#Item não identificado. Pode ser identificado com uma [Lupa].#
+15094#Item não identificado. Pode ser identificado com uma [Lupa].#
+15095#Item não identificado. Pode ser identificado com uma [Lupa].#
+15096#Item não identificado. Pode ser identificado com uma [Lupa].#
+15097#Item não identificado. Pode ser identificado com uma [Lupa].#
+15098#Item não identificado. Pode ser identificado com uma [Lupa].#
+18122#Item não identificado. Pode ser identificado com uma [Lupa].#
+18123#Item não identificado. Pode ser identificado com uma [Lupa].#
+4890#
+DEFM +1
+#
+4891#
+DEFM +3
+#
+4892#
+DEFM +5
+#
+4893#
+DEF +15
+#
+4894#
+ATQ +4%.
+#
+4895#
+ATQ +5%.
+#
+4896#
+ATQM +2%.
+#
+4897#
+ATQM +3%.
+#
+4898#
+ATQM +4%.
+#
+4899#
+ATQM +5%.
+#
+4900#
+HPM +5%.
+#
+4908#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+FOR +1
+ATQ +3
+INT -1
+#
+4909#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+FOR +2
+ATQ +6
+INT -2
+#
+4910#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+FOR +4
+ATQ +12
+INT -4
+#
+4911#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+INT +1
+ATQM +3
+FOR -1
+#
+4912#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+INT +2
+ATQM +6
+FOR -2
+#
+4901#
+DEFM +7
+#
+4913#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+INT +4
+ATQM +12
+FOR -4
+#
+4902#
+DEF +18
+#
+4914#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+AGI +1
+Esquiva +2
+VIT -1
+#
+4903#
+DEF +21
+#
+4915#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+AGI +2
+Esquiva +4
+VIT -2
+#
+4904#
+ATQ +6%.
+#
+4916#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+AGI +4
+Esquiva +8
+VIT -4
+#
+4905#
+ATQ +7%.
+#
+4917#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+VIT +1
+DEF +3
+MDEF +2
+AGI -1
+#
+4906#
+ATQM +6%.
+#
+4918#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+VIT +2
+DEF +6
+DEFM +4
+AGI -2
+#
+4907#
+ATQM +7%.
+#
+4919#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+VIT +4
+DEF +12
+DEFM +8
+AGI -4
+#
+4920#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+DES +1
+Precisão +2
+SOR -1
+#
+4921#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+DES +2
+Precisão +4
+SOR -2
+#
+4922#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+DES +4
+Precisão +8
+SOR -4
+#
+4923#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+SOR +1
+CRIT +1
+DES -1
+#
+4924#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+SOR +2
+CRIT +2
+DES -2
+#
+4925#
+Essência do Rei Demoníaco Morroc. Contém parte de sua habilidade.
+SOR +4
+CRIT +4
+DES -4
+#
+4559#
+Velocidade de ataque +1
+SP Máx. -10%
+Tipo de item: ^777777Carta^000000
+Equipado em: ^777777Calçados^000000
+Peso: ^7777771^000000
+#
+4882#
+ATQ +1%.
+#
+4883#
+ATQM +1%.
+#
+6684#
+Certifica seu dono como um guerreiro inigualável.
+Peso: ^7777770^000000
+#
+6713#
+Alma de Ahat criada por Morroc.
+Você precisará disto para abrir o portal da Guerra contra o Lorde das Trevas.  
+#
+6714#
+Alma da Shenime criada por Morroc.
+Você precisará disto para abrir o portal da Guerra contra o Lorde das Trevas.  
+#
+6715#
+Um pedaço da alma do Lorde das Trevas.
+Você sente o poder do Grande Lorde das Trevas Morroc.
+#
+6708#
+Este Cristal de Mana é
+extraído de demônios, mas sua energia não está corrompida.
+#
+6719#
+Um dente arrancado do monstro piano. Possui a forma de uma tecla de piano. 
+^ffffff_^000000
+Peso: ^77777710^000000
+#
+22535#
+Um pergaminho que invoca um construtor.
+Leve este construtor a um local próprio para suas habilidades.
+^FF0000Atenção! O item não podem ser negociado, colocados no carrinho ou Kafra nem jogado ao chão, mas pode ser vendido em NPC.^000000
+Peso: ^7777771^000000
+#
+22536#
+Um pergaminho que invoca um construtor.
+Leve este construtor a um local próprio para suas habilidades.
+^FF0000Atenção! O item não podem ser negociado, colocados no carrinho ou Kafra nem jogado ao chão, mas pode ser vendido em NPC.^000000
+Peso: ^7777771^000000
+#
+22537#
+Recompensa dos guerreiros na missão para derrotar Morroc. 
+Peso: ^77777710^000000
+#
+22566#
+Congelado desde o princípio dos tempos. Nunca derreteu após a criação do mundo. 
+O toque gélido em sua pele é atormentadoramente bom. 
+Cura o efeito [Queimadura]
+Peso: ^7777770^000000
+#
+22567#
+Um prêmio para as tropas aventureiras contra Morroc. 
+#
+22568#
+Um pergaminho com um feitiço de invocação a Nidhogg. 
+#
+1934#Item não identificado. Pode ser identificado com uma [Lupa].#
+1989#Item não identificado. Pode ser identificado com uma [Lupa].#
+1935#Item não identificado. Pode ser identificado com uma [Lupa].#
+1990#Item não identificado. Pode ser identificado com uma [Lupa].#
+6686#
+Material necessário na recontrução de Morroc.
+^FF0000Atenção! O item não podem ser negociado, colocados no carrinho ou Kafra nem jogado ao chão, mas pode ser vendido em NPC.^000000
+Peso: ^777777200^000000
+#
+6687#
+Material necessário na recontrução de Morroc.
+^FF0000Atenção! O item não podem ser negociado, colocado no carrinho ou Kafra nem jogado ao chão, mas pode ser vendido em NPC.^000000
+Peso: ^777777200^000000
+#
+6688#
+Material necessário na recontrução de Morroc.
+^FF0000Atenção! O item não podem ser negociado, colocado no carrinho ou Kafra nem jogado ao chão, mas pode ser vendido em NPC.^000000
+Peso: ^777777200^000000
+#
+6689#
+Uma pela muito quente. É popular por aquecer o corpo nos dias mais frios.
+^FF0000Atenção! O item não podem ser negociado, colocado no carrinho ou Kafra nem jogado ao chão, mas pode ser vendido em NPC.^000000
+Peso: ^7777770^000000
+#
+6690#
+Um caule primitivo que permanece quente até hoje.
+Por incrível que parece ele até é gostoso!
+^FF0000Atenção! O item não podem ser negociado, colocado no carrinho ou Kafra nem jogado ao chão, mas pode ser vendido em NPC.^000000
+Peso: ^7777770^000000
+#
+6691#
+Pluma do Condor de Fogo.
+O fogo que vem da pluma se espalha para outros lugares, causando destruição.
+Peso: ^7777770^000000
+#
+6692#
+Memorando da Patrulha do Círculo de Fogo.
+Infelizmente, não parece conter muitos detalhes.
+Peso: ^7777770.1^000000
+#
+6693#
+Um fragmento do corpo de um Golem.
+Apesar do seu nome, possui uma aparência ruim.
+Peso: ^7777771^000000
+#
+6694#
+Sangue dos monstros do Círculo de Fogo. Você nunca saberá se é bom ou ruim para você.
+Peso: ^7777771^000000
+#
+6695#
+Dente do Golem de Fogo.
+Pesado, mas pontiagudo.
+Peso: ^77777710^000000
+#
+6696#
+Crista de um lagarto de fogo do deserto.
+Peso: ^7777771^000000
+#
+6698#
+Um simples machado usado por Lenhadores. Mas, não espere muito dele.
+Peso: ^777777100^000000
+#
+6685#
+Um certificado entregue aos colaboradores que estão ajudando a reconstruir Morroc.
+^FF0000Atenção! O item não podem ser negociado, colocado no carrinho ou Kafra nem jogado ao chão, mas pode ser vendido em NPC.^000000
+Peso: ^7777770^000000
+#
+//*****************************************************
+//------------Aplicar em 2016-09-20--------------------
+//*****************************************************
+20284#Item não identificado. Pode ser identificado com uma [Lupa].#
+20285#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-09-27--------------------
+//*****************************************************
+20313#Item não identificado. Pode ser identificado com uma [Lupa].#
+20314#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-10-04--------------------
+//*****************************************************
+20341#Item não identificado. Pode ser identificado com uma [Lupa].#
+20350#Item não identificado. Pode ser identificado com uma [Lupa].#
+20351#Item não identificado. Pode ser identificado com uma [Lupa].#
+20352#Item não identificado. Pode ser identificado com uma [Lupa].#
+20353#Item não identificado. Pode ser identificado com uma [Lupa].#
+20354#Item não identificado. Pode ser identificado com uma [Lupa].#
+20355#Item não identificado. Pode ser identificado com uma [Lupa].#
+20356#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-10-11--------------------
+//*****************************************************
+20340#Item não identificado. Pode ser identificado com uma [Lupa].#
+20357#Item não identificado. Pode ser identificado com uma [Lupa].#
+20358#Item não identificado. Pode ser identificado com uma [Lupa].#
+20359#Item não identificado. Pode ser identificado com uma [Lupa].#
+20360#Item não identificado. Pode ser identificado com uma [Lupa].#
+20361#Item não identificado. Pode ser identificado com uma [Lupa].#
+20362#Item não identificado. Pode ser identificado com uma [Lupa].#
+20363#Item não identificado. Pode ser identificado com uma [Lupa].#
+20344#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-10-18--------------------
+//*****************************************************
+20342#Item não identificado. Pode ser identificado com uma [Lupa].#
+20364#Item não identificado. Pode ser identificado com uma [Lupa].#
+20365#Item não identificado. Pode ser identificado com uma [Lupa].#
+20366#Item não identificado. Pode ser identificado com uma [Lupa].#
+20367#Item não identificado. Pode ser identificado com uma [Lupa].#
+20368#Item não identificado. Pode ser identificado com uma [Lupa].#
+20369#Item não identificado. Pode ser identificado com uma [Lupa].#
+20370#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-10-25--------------------
+//*****************************************************
+9101#
+A gaiola em que o bichinho de estimação Zumbichano está adormecido. Você pode acordá-lo utilizando uma [Incubadora].
+Increase 1031% healing effect for Delicious Fish, during the event period.
+A opção será removida após o período de evento de Halloween.
+Tipo: Ovo de bichinho
+#
+10040#
+Item não identificado, pode ser identificado com [Lupa].
+#
+20397#
+Item não identificado, pode ser identificado com [Lupa].
+#
+25245#
+^ff0000Este item não pode ser trocado com outras contas.^000000
+São alguns ossos que parecem ser de algum animal pequeno.
+Entre os ossos existe uma coleira com um sino.
+Peso: ^7777770^000000
+#
+25133#
+Ramo Limpo e Seco
+Perfeito para decoração de Halloween!
+Peso: ^7777770^000000
+#
+11605#
+Biscoito com cheirinho de manteiga e com recheio de chocolate bem doce. 
+Atenção: Ele pode voar e fugir.
+Peso: ^7777775^000000
+#
+11550#
+Um bolo molhadinho feito de abóbora. Dá pra sentir o cheiro adocicado de longe.
+^000088Recupera um pouco de HP e SP.^000000
+^ffffff_^000000
+Peso: ^7777774^000000
+#
+25132#
+Uma decoração que representa o Dia das Bruxas.
+Você pode sentir melhor o espírito deste dia se acender a vela dentro.
+Peso: ^7777770^000000
+#
+20430#Item não identificado. Pode ser identificado com uma [Lupa].#
+20130#Item não identificado. Pode ser identificado com uma [Lupa].#
+20174#Item não identificado. Pode ser identificado com uma [Lupa].#
+20172#Item não identificado. Pode ser identificado com uma [Lupa].#
+20175#Item não identificado. Pode ser identificado com uma [Lupa].#
+20167#Item não identificado. Pode ser identificado com uma [Lupa].#
+20168#Item não identificado. Pode ser identificado com uma [Lupa].#
+31088#Item não identificado. Pode ser identificado com uma [Lupa].#
+19787#Item não identificado. Pode ser identificado com uma [Lupa].#
+20195#Item não identificado. Pode ser identificado com uma [Lupa].#
+19840#Item não identificado. Pode ser identificado com uma [Lupa].#
+20262#Item não identificado. Pode ser identificado com uma [Lupa].#
+20266#Item não identificado. Pode ser identificado com uma [Lupa].#
+20443#Item não identificado. Pode ser identificado com uma [Lupa].#
+28319#Item não identificado. Pode ser identificado com uma [Lupa].#
+18125#Item não identificado. Pode ser identificado com uma [Lupa].#
+13449#Item não identificado. Pode ser identificado com uma [Lupa].#
+1676#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-12-01--------------------
+//*****************************************************
+20011#Item não identificado. Pode ser identificado com uma [Lupa].#
+20012#Item não identificado. Pode ser identificado com uma [Lupa].#
+20010#Item não identificado. Pode ser identificado com uma [Lupa].#
+20435#Item não identificado. Pode ser identificado com uma [Lupa].#
+20269#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-12-06--------------------
+//*****************************************************
+31158#Item não identificado. Pode ser identificado com uma [Lupa].#
+31159#Item não identificado. Pode ser identificado com uma [Lupa].#
+5914#Item não identificado. Pode ser identificado com uma [Lupa].#
+13997#Bolinhos de Carne [500]#
+19139#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-12-13--------------------
+//*****************************************************
+20099#Item não identificado. Pode ser identificado com uma [Lupa].#
+20032#Item não identificado. Pode ser identificado com uma [Lupa].#
+19865#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2016-12-20--------------------
+//*****************************************************
+31132#Guirlanda Natalina#
+25251#Suco de Uva Fermentado#
+25252#Ramo de Azevinho#
+25253#Caixa de Açúcar#
+25254#Lenha#
+23202#Quentão#
+6606#Cupom de Decoração de Carrinho#
+19697#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-01-03--------------------
+//*****************************************************
+31057#Item não identificado. Pode ser identificado com uma [Lupa].#
+31089#Item não identificado. Pode ser identificado com uma [Lupa].#
+20108#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-01-11--------------------
+//*****************************************************
+20171#Item não identificado. Pode ser identificado com uma [Lupa].#
+20197#Item não identificado. Pode ser identificado com uma [Lupa].#
+20113#Item não identificado. Pode ser identificado com uma [Lupa].#
+20109#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-01-17--------------------
+//*****************************************************
+20112#Item não identificado. Pode ser identificado com uma [Lupa].#
+19602#Item não identificado. Pode ser identificado com uma [Lupa].#
+19603#Item não identificado. Pode ser identificado com uma [Lupa].#
+19604#Item não identificado. Pode ser identificado com uma [Lupa].#
+12786#Cupom de Troca de Slot#
+//*****************************************************
+//------------Aplicar em 2017-01-24--------------------
+//*****************************************************
+2935#Item não identificado. Pode ser identificado com uma [Lupa].#
+19929#Item não identificado. Pode ser identificado com uma [Lupa].#
+19922#Item não identificado. Pode ser identificado com uma [Lupa].#
+1837#Item não identificado. Pode ser identificado com uma [Lupa].#
+19020#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-02-01--------------------
+//*****************************************************
+22101#Item não identificado. Pode ser identificado com uma [Lupa].#
+29148#Item não identificado. Pode ser identificado com uma [Lupa].#
+29149#Item não identificado. Pode ser identificado com uma [Lupa].#
+29151#Item não identificado. Pode ser identificado com uma [Lupa].#
+29150#Item não identificado. Pode ser identificado com uma [Lupa].#
+29152#Item não identificado. Pode ser identificado com uma [Lupa].#
+29153#Item não identificado. Pode ser identificado com uma [Lupa].#
+20383#Item não identificado. Pode ser identificado com uma [Lupa].#
+20382#Item não identificado. Pode ser identificado com uma [Lupa].#
+20448#Item não identificado. Pode ser identificado com uma [Lupa].#
+19118#Item não identificado. Pode ser identificado com uma [Lupa].#
+23073#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-02-07--------------------
+//*****************************************************
+31055#Item não identificado. Pode ser identificado com uma [Lupa].#
+15186#Item não identificado. Pode ser identificado com uma [Lupa].#
+19168#Item não identificado. Pode ser identificado com uma [Lupa].#
+19220#Item não identificado. Pode ser identificado com uma [Lupa].#
+20393#Item não identificado. Pode ser identificado com uma [Lupa].#
+20462#Item não identificado. Pode ser identificado com uma [Lupa].#
+20374#Item não identificado. Pode ser identificado com uma [Lupa].#
+23177#
+Cartão Kafra impressa pela Central de Kafras.
+O Serviço de Armazenagem será aberto assim que requisitado.
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+//*****************************************************
+//------------Aplicar em 2017-02-14--------------------
+//*****************************************************
+19111#Item não identificado. Pode ser identificado com uma [Lupa].#
+20176#Item não identificado. Pode ser identificado com uma [Lupa].#
+19892#Item não identificado. Pode ser identificado com uma [Lupa].#
+23135#Item não identificado. Pode ser identificado com uma [Lupa].#
+31125#Item não identificado. Pode ser identificado com uma [Lupa].#
+20467#Item não identificado. Pode ser identificado com uma [Lupa].#
+19143#Item não identificado. Pode ser identificado com uma [Lupa].#
+19146#Item não identificado. Pode ser identificado com uma [Lupa].#
+19147#Item não identificado. Pode ser identificado com uma [Lupa].#
+19148#Item não identificado. Pode ser identificado com uma [Lupa].#
+19149#Item não identificado. Pode ser identificado com uma [Lupa].#
+19150#Item não identificado. Pode ser identificado com uma [Lupa].#
+19151#Item não identificado. Pode ser identificado com uma [Lupa].#
+19152#Item não identificado. Pode ser identificado com uma [Lupa].#
+19153#Item não identificado. Pode ser identificado com uma [Lupa].#
+19154#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-02-21--------------------
+//*****************************************************
+20349#Item não identificado. Pode ser identificado com uma [Lupa].#
+5933#Item não identificado. Pode ser identificado com uma [Lupa].#
+20399#Item não identificado. Pode ser identificado com uma [Lupa].#
+19704#Item não identificado. Pode ser identificado com uma [Lupa].#
+19705#Item não identificado. Pode ser identificado com uma [Lupa].#
+19703#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-03-07--------------------
+//*****************************************************
+31040#Item não identificado. Pode ser identificado com uma [Lupa].#
+19760#Item não identificado. Pode ser identificado com uma [Lupa].#
+31046#Item não identificado. Pode ser identificado com uma [Lupa].#
+31045#Item não identificado. Pode ser identificado com uma [Lupa].#
+20326#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-03-14--------------------
+//*****************************************************
+9044#
+Ovo contendo um Shinobi de estimação. 
+Deve ser chocado por uma Incubadora. 
+Classe : ^777777Ovo de Monstro^000000
+Peso : ^7777770^000000
+#
+9053#
+Ovo contendo um Golem de estimação. 
+Deve ser chocado por uma Incubadora. 
+Classe : ^777777Ovo de Monstro^000000
+Peso : ^7777770^000000
+#
+9054#
+Ovo contendo um Pesadelo Sombrio de estimação. 
+Deve ser chocado por uma Incubadora. 
+Classe : ^777777Ovo de Monstro^000000
+Peso : ^7777770^000000
+#
+10026#Item não identificado. Pode ser identificado com uma [Lupa].#
+10035#Item não identificado. Pode ser identificado com uma [Lupa].#
+10036#Item não identificado. Pode ser identificado com uma [Lupa].#
+6099#Grilled_Rice_Cake#
+6129#
+Um ticket com os dizeres: "Você ganhou um ovo do bichinho de estimação Pesadelo Sombrio! Venha retirar seu prêmio em Prontera, ao lado do Treinador".
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+6141#
+Um ticket com os dizeres: "Você ganhou um ovo do bichinho de estimação Shinobi! Venha retirar seu prêmio em Prontera, ao lado do Treinador".
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+6142#
+Um ticket com os dizeres: "Você ganhou um ovo do bichinho de estimação Golem! Venha retirar seu prêmio em Prontera, ao lado do Treinador".
+^ffffff_^000000
+Peso: ^7777771^000000
+#
+19762#Item não identificado. Pode ser identificado com uma [Lupa].#
+20482#Item não identificado. Pode ser identificado com uma [Lupa].#
+20196#Item não identificado. Pode ser identificado com uma [Lupa].#
+20449#Item não identificado. Pode ser identificado com uma [Lupa].#
+31028#Item não identificado. Pode ser identificado com uma [Lupa].#
+20499#Item não identificado. Pode ser identificado com uma [Lupa].#
+19138#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-03-21--------------------
+//*****************************************************
+18742#Item não identificado. Pode ser identificado com uma [Lupa].#
+19676#Item não identificado. Pode ser identificado com uma [Lupa].#
+20148#Item não identificado. Pode ser identificado com uma [Lupa].#
+18823#Item não identificado. Pode ser identificado com uma [Lupa].#
+28910#Item não identificado. Pode ser identificado com uma [Lupa].#
+18564#Item não identificado. Pode ser identificado com uma [Lupa].#
+23044#Doce de Elvira#
+//*****************************************************
+//------------Aplicar em 2017-03-28--------------------
+//*****************************************************
+20062#Item não identificado. Pode ser identificado com uma [Lupa].#
+15169#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-04-05--------------------
+//*****************************************************
+28394#Item não identificado. Pode ser identificado com uma [Lupa].#
+16051#Item não identificado. Pode ser identificado com uma [Lupa].#
+5930#Item não identificado. Pode ser identificado com uma [Lupa].#
+19109#Item não identificado. Pode ser identificado com uma [Lupa].#
+28377#Item não identificado. Pode ser identificado com uma [Lupa].#
+20463#Item não identificado. Pode ser identificado com uma [Lupa].#
+20458#Item não identificado. Pode ser identificado com uma [Lupa].#
+31062#Item não identificado. Pode ser identificado com uma [Lupa].#
+5979#Item não identificado. Pode ser identificado com uma [Lupa].#
+28321#Item não identificado. Pode ser identificado com uma [Lupa].#
+28322#Item não identificado. Pode ser identificado com uma [Lupa].#
+18985#Item não identificado. Pode ser identificado com uma [Lupa].#
+5985#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-04-12--------------------
+//*****************************************************
+20268#Item não identificado. Pode ser identificado com uma [Lupa].#
+31139#Item não identificado. Pode ser identificado com uma [Lupa].#
+31186#Item não identificado. Pode ser identificado com uma [Lupa].#
+20257#Item não identificado. Pode ser identificado com uma [Lupa].#
+20298#Item não identificado. Pode ser identificado com uma [Lupa].#
+31167#Item não identificado. Pode ser identificado com uma [Lupa].#
+19117#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-04-18--------------------
+//*****************************************************
+18865#Item não identificado. Pode ser identificado com uma [Lupa].#
+19759#Item não identificado. Pode ser identificado com uma [Lupa].#
+19756#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-04-25--------------------
+//*****************************************************
+5909#Item não identificado. Pode ser identificado com uma [Lupa].#
+15166#Item não identificado. Pode ser identificado com uma [Lupa].#
+28386#Item não identificado. Pode ser identificado com uma [Lupa].#
+20487#Item não identificado. Pode ser identificado com uma [Lupa].#
+20406#Item não identificado. Pode ser identificado com uma [Lupa].#
+31149#Item não identificado. Pode ser identificado com uma [Lupa].#
+20439#Item não identificado. Pode ser identificado com uma [Lupa].#
+31166#Item não identificado. Pode ser identificado com uma [Lupa].#
+14000#
+Uma caixa contendo 500 Balas Amargas.
+-
+^ff0000Recupera todo o SP do usuário.^000000
+-
+Peso : ^7777771^000000
+#
+13571#
+Uma caixa contendo 100 asas de mosca gigante.
+^ffffff_^000000Asa de Mosca Gigante - Permite teleportar diversos personagens para uma área aleatória quando usada pelo líder de um Grupo.^ffffff_^000000
+Peso: ^7777771^000000
+#
+13998#
+Uma caixa contendo 500 asas de mosca gigante.
+^ffffff_^000000Asa de Mosca Gigante - Permite teleportar diversos personagens para uma área aleatória quando usada pelo líder de um Grupo.^ffffff_^000000
+Peso: ^7777771^000000
+#
+//*****************************************************
+//------------Aplicar em 2017-05-10--------------------
+//*****************************************************
+22106#Item não identificado. Pode ser identificado com uma [Lupa].#
+18652#Item não identificado. Pode ser identificado com uma [Lupa].#
+18528#Item não identificado. Pode ser identificado com uma [Lupa].#
+19271#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Heroes Trail Parte I--------------------
+//*****************************************************
+6648#
+Uma antiga coroa empoeirada feita de ouro, mas com algumas joias faltando.
+Pode ser vendida para ganhar dinheiro.
+Peso: ^7777771^000000
+#
+6649#
+Um chifre único que parece estar quebrado e entortado. Não parece valer muitos zenys.
+Peso: ^7777771^000000
+#
+6650#
+O pequeno texto encontrado no aro deste anel parece estar raspado e ilegível.
+Peso: ^7777771^000000
+#
+6651#
+Um bracelete enferrujado e descolorido. Possui pequenas iniciais encravadas nele.
+Peso: ^7777771^000000
+#
+6652#
+Um álbum velho e sujo. Existem poucas imagens dentro dele.
+Peso: ^7777771^000000
+#
+6653#
+Esta pílula coberta com fungos pretos é cuidadosamente guardada junto com a bula: ''Ingerir quando você tiver algum problema respiratório."
+Peso: ^7777771^000000
+#
+13089#Item não identificado. Pode ser identificado com uma [Lupa].#
+13090#Item não identificado. Pode ser identificado com uma [Lupa].#
+20717#Item não identificado. Pode ser identificado com uma [Lupa].#
+20718#Item não identificado. Pode ser identificado com uma [Lupa].#
+22507#
+Esse antigo pergaminho possui poder temporal capaz de teleportar para um espaço distorcido.
+Peso: ^7777771^000000
+#
+//*****************************************************
+//------------Heroes Trail Parte II-------------------
+//*****************************************************
+1438#Item não identificado. Pode ser identificado com uma [Lupa].#
+1496#Item não identificado. Pode ser identificado com uma [Lupa].#
+1669#Item não identificado. Pode ser identificado com uma [Lupa].#
+1671#Item não identificado. Pode ser identificado com uma [Lupa].#
+1836#Item não identificado. Pode ser identificado com uma [Lupa].#
+1933#Item não identificado. Pode ser identificado com uma [Lupa].#
+1988#Item não identificado. Pode ser identificado com uma [Lupa].#
+2023#Item não identificado. Pode ser identificado com uma [Lupa].#
+2185#Item não identificado. Pode ser identificado com uma [Lupa].#
+2186#Item não identificado. Pode ser identificado com uma [Lupa].#
+2187#Item não identificado. Pode ser identificado com uma [Lupa].#
+2963#Item não identificado. Pode ser identificado com uma [Lupa].#
+2964#Item não identificado. Pode ser identificado com uma [Lupa].#
+4556#
+ATQM +50.
+Tempo de conjuração fixo -70%
+^0000ffA cada refino:^000000
+ATQM +5.
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Equipamento para Cabeça^000000
+Peso: ^7777771^000000
+#
+4557#
+MATK +25.
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Equipamento para Cabeça^000000
+Peso: ^7777771^000000
+#
+4885#
+ATQM +5.
+Tempo de conjuração variável -3%.
+#
+4886#
+ATQM +10.
+Tempo de conjuração variável -3%.
+#
+4887#
+ATQM +15.
+Tempo de conjuração variável -3%.
+#
+4888#
+ATQM +20.
+Tempo de conjuração variável -3%.
+#
+4889#
+ATQM +30.
+Tempo de conjuração variável -5%.
+#
+6671#
+^ff0000Intransferível.^000000
+Moeda dada a participantes do Torneio de Magia de Geffen. Pode ser trocada por prêmios.
+Peso: ^7777770^000000
+#
+6672#
+^ff0000Intransferível.^000000
+Fragmento contendo memórias abandonadas do passado de Sakray.
+#
+7641#
+Kit de primeiros-socorros que contém também um manual para leigos.
+#
+13093#Item não identificado. Pode ser identificado com uma [Lupa].#
+13094#Item não identificado. Pode ser identificado com uma [Lupa].#
+13441#Item não identificado. Pode ser identificado com uma [Lupa].#
+15073#Item não identificado. Pode ser identificado com uma [Lupa].#
+15074#Item não identificado. Pode ser identificado com uma [Lupa].#
+15090#Item não identificado. Pode ser identificado com uma [Lupa].#
+15091#Item não identificado. Pode ser identificado com uma [Lupa].#
+16027#Item não identificado. Pode ser identificado com uma [Lupa].#
+16028#Item não identificado. Pode ser identificado com uma [Lupa].#
+18119#Item não identificado. Pode ser identificado com uma [Lupa].#
+18120#Item não identificado. Pode ser identificado com uma [Lupa].#
+18820#Item não identificado. Pode ser identificado com uma [Lupa].#
+20721#Item não identificado. Pode ser identificado com uma [Lupa].#
+21009#Item não identificado. Pode ser identificado com uma [Lupa].#
+21010#Item não identificado. Pode ser identificado com uma [Lupa].#
+22033#Item não identificado. Pode ser identificado com uma [Lupa].#
+22511#
+^ff0000Intransferível.^000000
+Temporariamente encanta o usuário com o poder de Fenrir.
+^0000ffATQM +25.^000000
+^0000ffTempo de conjuração fixo -50%.^000000
+Duração: ^7777775 minutos^000000
+Peso: ^7777771^000000
+#
+22517#
+Um pergaminho que invoca Loki.
+#
+28000#Item não identificado. Pode ser identificado com uma [Lupa].#
+28001#Item não identificado. Pode ser identificado com uma [Lupa].#
+28100#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-05-16--------------------
+//*****************************************************
+20746#Item não identificado. Pode ser identificado com uma [Lupa].#
+20761#Item não identificado. Pode ser identificado com uma [Lupa].#
+19614#Item não identificado. Pode ser identificado com uma [Lupa].#
+31164#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-05-30--------------------
+//*****************************************************
+18522#Item não identificado. Pode ser identificado com uma [Lupa].#
+28515#Item não identificado. Pode ser identificado com uma [Lupa].#
+20069#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-06-07--------------------
+//*****************************************************
+12927#Caixa de Aspersio Especial [10]#
+31188#Item não identificado. Pode ser identificado com uma [Lupa].#
+19944#Item não identificado. Pode ser identificado com uma [Lupa].#
+19257#Item não identificado. Pode ser identificado com uma [Lupa].#
+19252#Item não identificado. Pode ser identificado com uma [Lupa].#
+20727#Item não identificado. Pode ser identificado com uma [Lupa].#
+19106#Item não identificado. Pode ser identificado com uma [Lupa].#
+31165#Item não identificado. Pode ser identificado com uma [Lupa].#
+13713#Poção Menor de Vida [50]#
+//*****************************************************
+//------------Aplicar em 2017-06-13--------------------
+//*****************************************************
+20451#Item não identificado. Pode ser identificado com uma [Lupa].#
+31160#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-06-20--------------------
+//*****************************************************
+31189#Item não identificado. Pode ser identificado com uma [Lupa].#
+31168#Item não identificado. Pode ser identificado com uma [Lupa].#
+21012#Item não identificado. Pode ser identificado com uma [Lupa].#
+19156#Item não identificado. Pode ser identificado com uma [Lupa].#
+20764#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-06-27--------------------
+//*****************************************************
+20431#Item não identificado. Pode ser identificado com uma [Lupa].#
+31121#Item não identificado. Pode ser identificado com uma [Lupa].#
+15206#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-07-04--------------------
+//*****************************************************
+20507#Item não identificado. Pode ser identificado com uma [Lupa].#
+20133#Item não identificado. Pode ser identificado com uma [Lupa].#
+20504#Item não identificado. Pode ser identificado com uma [Lupa].#
+28025#Item não identificado. Pode ser identificado com uma [Lupa].#
+22104#Item não identificado. Pode ser identificado com uma [Lupa].#
+20799#Item não identificado. Pode ser identificado com uma [Lupa].#
+13863#
+Uma caixa que contém 10 pergaminhos de Reparar Arma em nível 5 e os materiais: 10 Aços, 10 Minérios de Ferro, 10 Ferros e 10 Minérios de Oridecon.
+Peso: ^7777771^000000
+#
+//*****************************************************
+//------------Cartas de Brasilis--------------------
+//*****************************************************
+27120#
+^0000ffHabilita [Graça Divina] nv. 1.^000000
+^FF6347Conjunto^000000
+^FF6347[Carta Obeaune]^000000
+^0000ffSP máx +50.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Acessório^000000
+Peso: ^7777771^000000
+#
+27121#
+^0000ffDano físico e mágico contra a raça Peixe +10%.^000000
+Refino +9 ou mais:
+^0000ffDano físico e mágico contra a raça Peixe +5% adicional.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Calçado^000000
+Peso: ^7777771^000000
+#
+27122#
+^0000ffDano mágico contra oponentes de propriedade Água +3%.^000000
+Refino +5 ou mais:
+^0000ffDano mágico contra oponentes de propriedade Água +5% adicional.^000000
+Refino +9 ou mais:
+^0000ffDano mágico contra oponentes de propriedade Água +7% adicional.^000000
+Tipo: ^777777Carta^000000 
+Equipa em: ^777777Arma^000000 
+Peso: ^7777771^000000
+#
+27123#
+^0000ffDano físico e mágico contra a raça Inseto +10%.^000000
+Refino +9 ou mais:
+^0000ffDano físico e mágico contra a raça Inseto +5% adicional.^000000
+Tipo: ^777777Carta^000000 
+Equipa em: ^777777Equipamento para Cabeça^000000 
+Peso: ^7777771^000000
+#
+27124#
+^0000ffDano físico e mágico contra a raça Bruto +10%.^000000
+Refino +9 ou mais:
+^0000ffDano físico e mágico contra a raça Bruto +5% adicional.^000000
+Tipo: ^777777Carta^000000 
+Equipa em: ^777777Equipamento para Cabeça^000000 
+Peso: ^7777771^000000
+#
+27125#
+^0000ffDano mágico de propriedade Água e Sagrado +20%.^000000
+Tipo: ^777777Carta^000000 
+Equipa em: ^777777Acessório^000000 
+Peso: ^7777771^000000
+#
+27126#
+^0000ffDano físico contra as raças Inseto e Bruto +40%.^000000
+^0000ffDano físico contra oponentes de propriedade Vento e Terra +40%.^000000
+Tipo: ^777777Carta^000000 
+Equipa em: ^777777Armadura^000000 
+Peso: ^7777771^000000
+#
+//*****************************************************
+//------------Aplicar em 2017-07-11--------------------
+//*****************************************************
+31244#Item não identificado. Pode ser identificado com uma [Lupa].#
+20377#Item não identificado. Pode ser identificado com uma [Lupa].#
+31187#Item não identificado. Pode ser identificado com uma [Lupa].#
+1841#Item não identificado. Pode ser identificado com uma [Lupa].#
+28728#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-07-18--------------------
+//*****************************************************
+5980#Item não identificado. Pode ser identificado com uma [Lupa].#
+20450#Item não identificado. Pode ser identificado com uma [Lupa].#
+19048#Item não identificado. Pode ser identificado com uma [Lupa].#
+19019#Item não identificado. Pode ser identificado com uma [Lupa].#
+28411#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-07-25--------------------
+//*****************************************************
+31038#Item não identificado. Pode ser identificado com uma [Lupa].#
+20131#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-08-01--------------------
+//*****************************************************
+31208#Item não identificado. Pode ser identificado com uma [Lupa].#
+31209#Item não identificado. Pode ser identificado com uma [Lupa].#
+19265#Item não identificado. Pode ser identificado com uma [Lupa].#
+28538#Item não identificado. Pode ser identificado com uma [Lupa].#
+12796#Item não identificado. Pode ser identificado com uma [Lupa].#
+12298#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//-------------------OLD GLAST HEIM--------------------
+//*****************************************************
+2022#Item não identificado. Pode ser identificado com uma [Lupa].#
+2499#Item não identificado. Pode ser identificado com uma [Lupa].#
+2949#Item não identificado. Pode ser identificado com uma [Lupa].#
+4875#Delírio#
+4876#Epifania#
+4877#Ânimo#
+4878#Histeria#
+4879#Instinto#
+4880#Euforia#
+6607#Cristal do Tempo#
+6608#Mana Coagulada#
+6609#Unha Envelhecida de GH#
+6610#Dentadura Horrenda de GH#
+6611#Chave Enfeitada#
+6612#Cesta de Moedas de Ouro#
+6613#Broche Pomposo#
+13086#Item não identificado. Pode ser identificado com uma [Lupa].#
+13440#Item não identificado. Pode ser identificado com uma [Lupa].#
+15066#Item não identificado. Pode ser identificado com uma [Lupa].#
+18752#Item não identificado. Pode ser identificado com uma [Lupa].#
+21003#Item não identificado. Pode ser identificado com uma [Lupa].#
+21007#Item não identificado. Pode ser identificado com uma [Lupa].#
+22000#Item não identificado. Pode ser identificado com uma [Lupa].#
+22001#Item não identificado. Pode ser identificado com uma [Lupa].#
+22002#Item não identificado. Pode ser identificado com uma [Lupa].#
+22003#Item não identificado. Pode ser identificado com uma [Lupa].#
+22004#Item não identificado. Pode ser identificado com uma [Lupa].#
+22005#Item não identificado. Pode ser identificado com uma [Lupa].#
+22006#Item não identificado. Pode ser identificado com uma [Lupa].#
+22007#Item não identificado. Pode ser identificado com uma [Lupa].#
+22008#Item não identificado. Pode ser identificado com uma [Lupa].#
+22009#Item não identificado. Pode ser identificado com uma [Lupa].#
+22010#Item não identificado. Pode ser identificado com uma [Lupa].#
+22011#Item não identificado. Pode ser identificado com uma [Lupa].#
+4601#Carta Amdaris#
+4603#Carta Origem da Maldição#
+4605#Carta Cavaleira Desmorta#
+4606#Carta Cavaleiro Desmorto#
+//*****************************************************
+//------------Aplicar em 2017-08-08--------------------
+//*****************************************************
+31199#Item não identificado. Pode ser identificado com uma [Lupa].#
+31202#Item não identificado. Pode ser identificado com uma [Lupa].#
+28537#Item não identificado. Pode ser identificado com uma [Lupa].#
+5918#Item não identificado. Pode ser identificado com uma [Lupa].#
+19268#Item não identificado. Pode ser identificado com uma [Lupa].#
+19081#Item não identificado. Pode ser identificado com uma [Lupa].#
+19112#Item não identificado. Pode ser identificado com uma [Lupa].#
+12299#Poção de Mega Resistência#
+//*****************************************************
+//------------Aplicar em 2017-08-16--------------------
+//*****************************************************
+31200#Item não identificado. Pode ser identificado com uma [Lupa].#
+31300#Item não identificado. Pode ser identificado com uma [Lupa].#
+5978#Item não identificado. Pode ser identificado com uma [Lupa].#
+2192#Item não identificado. Pode ser identificado com uma [Lupa].#
+1993#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-08-22--------------------
+//*****************************************************
+31179#Item não identificado. Pode ser identificado com uma [Lupa].#
+31249#Item não identificado. Pode ser identificado com uma [Lupa].#
+28933#Item não identificado. Pode ser identificado com uma [Lupa].#
+28912#Item não identificado. Pode ser identificado com uma [Lupa].#
+19114#Item não identificado. Pode ser identificado com uma [Lupa].#
+18804#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-08-29--------------------
+//*****************************************************
+19935#Item não identificado. Pode ser identificado com uma [Lupa].#
+20255#Item não identificado. Pode ser identificado com uma [Lupa].#
+22149#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-09-05--------------------
+//*****************************************************
+31301#Item não identificado. Pode ser identificado com uma [Lupa].#
+31314#Item não identificado. Pode ser identificado com uma [Lupa].#
+20511#Item não identificado. Pode ser identificado com uma [Lupa].#
+31316#Item não identificado. Pode ser identificado com uma [Lupa].#
+28505#Item não identificado. Pode ser identificado com uma [Lupa].#
+15239#Item não identificado. Pode ser identificado com uma [Lupa].#
+2983#Item não identificado. Pode ser identificado com uma [Lupa].#
+15219#Item não identificado. Pode ser identificado com uma [Lupa].#
+24012#Item não identificado. Pode ser identificado com uma [Lupa].#
+24013#Item não identificado. Pode ser identificado com uma [Lupa].#
+24014#Item não identificado. Pode ser identificado com uma [Lupa].#
+24015#Item não identificado. Pode ser identificado com uma [Lupa].#
+24016#Item não identificado. Pode ser identificado com uma [Lupa].#
+24017#Item não identificado. Pode ser identificado com uma [Lupa].#
+15238#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-09-12--------------------
+//*****************************************************
+20432#Item não identificado. Pode ser identificado com uma [Lupa].#
+20134#Item não identificado. Pode ser identificado com uma [Lupa].#
+15240#Item não identificado. Pode ser identificado com uma [Lupa].#
+19136#Item não identificado. Pode ser identificado com uma [Lupa].#
+19249#Item não identificado. Pode ser identificado com uma [Lupa].#
+19263#Item não identificado. Pode ser identificado com uma [Lupa].#
+1590#Item não identificado. Pode ser identificado com uma [Lupa].#
+1298#Item não identificado. Pode ser identificado com uma [Lupa].#
+18559#Item não identificado. Pode ser identificado com uma [Lupa].#
+18560#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-09-19--------------------
+//*****************************************************
+20277#Item não identificado. Pode ser identificado com uma [Lupa].#
+20251#Item não identificado. Pode ser identificado com uma [Lupa].#
+20441#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------QUEST DE ANIVERSÁRIO---------------------
+//*****************************************************
+28431#Item não identificado. Pode ser identificado com uma [Lupa].#
+28432#Item não identificado. Pode ser identificado com uma [Lupa].#
+2166#Item não identificado. Pode ser identificado com uma [Lupa].#
+19305#Item não identificado. Pode ser identificado com uma [Lupa].#
+20054#Item não identificado. Pode ser identificado com uma [Lupa].#
+20472#Item não identificado. Pode ser identificado com uma [Lupa].#
+19639#Item não identificado. Pode ser identificado com uma [Lupa].#
+31093#Item não identificado. Pode ser identificado com uma [Lupa].#
+19913#Item não identificado. Pode ser identificado com uma [Lupa].#
+19638#Item não identificado. Pode ser identificado com uma [Lupa].#
+18115#Item não identificado. Pode ser identificado com uma [Lupa].#
+25402#
+Uma sacola com uma criatura mágica capturada. Você pode perceber que ela ainda está viva pelo brilho da sacola.
+Peso: ^7777771^000000
+#
+25403#
+Uma pequena moeda dourada usada pelas fadas.
+Peso: ^7777770^000000
+#
+23460#
+Uma sacola confeccionada especialmente para capturar seres mágicos.
+^ff0000Intransferível entre contas.^000000
+Peso: ^7777775^000000
+#
+13073#Item não identificado. Pode ser identificado com uma [Lupa].#
+9068#
+Um ovo contendo um Unifada de estimação.
+Deve ser chocado usando uma [Incubadora]
+^008080Durante o evento:^000000
+^0000ffAumenta a velocidade de movimento.^000000
+Tipo: ^777777Mascote^000000
+Alimentação: ^777777Erva Azul^000000
+Peso: ^7777770^000000
+#
+25275#
+Um trecho na linguagem das fadas pode ser facilmente traduzido para o nosso idioma. Nele, é possível ler que você pode conseguir um ^CD3278Ovo de Unifada^000000!
+^FF6347Pode ser trocado pela Negociadora de Ovos (prontera 221, 209)^000000
+Peso: ^7777771^000000
+#
+20344#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-09-26--------------------
+//*****************************************************
+31180#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-10-10--------------------
+//*****************************************************
+20027#Item não identificado. Pode ser identificado com uma [Lupa].#
+31134#Item não identificado. Pode ser identificado com uma [Lupa].#
+20381#Item não identificado. Pode ser identificado com uma [Lupa].#
+19244#Item não identificado. Pode ser identificado com uma [Lupa].#
+20904#Item não identificado. Pode ser identificado com uma [Lupa].#
+28944#Item não identificado. Pode ser identificado com uma [Lupa].#
+5931#Item não identificado. Pode ser identificado com uma [Lupa].#
+20853#Item não identificado. Pode ser identificado com uma [Lupa].#
+19101#Item não identificado. Pode ser identificado com uma [Lupa].#
+20398#Item não identificado. Pode ser identificado com uma [Lupa].#
+31120#Item não identificado. Pode ser identificado com uma [Lupa].#
+28739#Item não identificado. Pode ser identificado com uma [Lupa].#
+20452#Item não identificado. Pode ser identificado com uma [Lupa].#
+18744#Item não identificado. Pode ser identificado com uma [Lupa].#
+16074#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Halloween 2017-10-31--------------------
+//*****************************************************
+31387#Item não identificado. Pode ser identificado com uma [Lupa].#
+9113#
+Um ovo contendo um Esqueleão de estimação. Deve ser chocado por uma [Incubadora].
+Tipo: ^777777Ovo de Mascote^000000
+Peso: ^7777770^000000
+#
+10042#Item não identificado. Pode ser identificado com uma [Lupa].#
+25408#Memória de Gyoll#
+25421#
+A decoração mais importante do Halloween!
+A vela em seu interior é o toque especial do clima de Halloween.
+^ff0000Intransferível.^000000
+Peso: ^7777770^000000
+#
+25422#
+Um Ramo Branco Fino.
+Pode ser utilizado como decoração de Halloween. 
+^ff0000Intransferível.^000000
+Peso: ^7777770^000000
+#
+25401#
+Pelugem negra decomposta. O cheiro é insuportável.
+^ff0000Intransferível.^000000
+Peso: ^7777770^000000
+#
+11616#
+A comida favorita do Esqueleão. Pode ser comprada com o Adestrador.
+Peso: ^7777775^000000
+#
+//*****************************************************
+//------------Aplicar em 2017-10-31--------------------
+//*****************************************************
+31329#Item não identificado. Pode ser identificado com uma [Lupa].#
+15248#Item não identificado. Pode ser identificado com uma [Lupa].#
+20815#Item não identificado. Pode ser identificado com uma [Lupa].#
+28410#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+
+//------------------Verus City 15.1--------------------
+
+//*****************************************************
+15110#Não identificado. Pode ser identificado com uma [Lupa].#
+
+2995#Não identificado. Pode ser identificado com uma [Lupa].#
+
+20732#Não identificado. Pode ser identificado com uma [Lupa].#
+
+22043#Não identificado. Pode ser identificado com uma [Lupa].#
+
+15111#Não identificado. Pode ser identificado com uma [Lupa].#
+
+2996#Não identificado. Pode ser identificado com uma [Lupa].#
+
+20733#Não identificado. Pode ser identificado com uma [Lupa].#
+
+22044#Não identificado. Pode ser identificado com uma [Lupa].#
+
+28101#Não identificado. Pode ser identificado com uma [Lupa].#
+
+21011#Não identificado. Pode ser identificado com uma [Lupa].#
+
+4933#Resistência a propriedade Neutro +1%.#
+
+4934#Resistência a propriedade Neutro +2%.#
+
+4935#Resistência a propriedade Neutro +3%.#
+6748#^ff0000Intransferível.^000000
+
+Relatório diário sobre as pesquisas do sítio arqueológico do projeto [Fantasmagórica]. Os reportes foram escritos pela equipe de escavação de Atnad.
+
+Peso: ^7777770^000000#
+
+6749#^ff0000Intransferível.
+^000000
+Todas as máquinas encontradas em Verus têm este componente instalado no centro de seus mecanismos. A Equipe de Escavação o chamou de Dispositivo de Energia.
+
+Peso: ^7777770^000000#
+
+6750#Um motor quebrado. Será que pode ser reparado?
+
+Peso: ^7777771^000000#
+
+6751#Uma placa de ferro amassada. Talvez possa ser desamassada e reutilizada.
+
+Peso: ^7777771^000000#
+
+6752#^ff0000Intransferível.^000000
+Uma peça queimada de Charleston. Talvez algumas partes possam ser reaproveitadas se você a entregar para Charleston.
+
+Peso: ^7777770^000000#
+
+6753#^ff0000Intransferível.^000000
+Um objeto usado pelos Adoradores do Infortúnio como amuleto.
+
+Peso: ^7777770^000000#
+
+6754#^ff0000Intransferível.^000000
+Uma erva com propriedades curativas.
+
+Peso: ^7777770^000000#
+
+22611#Um envelope facilmente encontrado no sítio arqueológico.
+
+Peso: ^7777771^000000#
+
+16030#Não identificado. Pode ser identificado com uma [Lupa].#
+
+16031#Não identificado. Pode ser identificado com uma [Lupa].#
+
+16032#Não identificado. Pode ser identificado com uma [Lupa].#
+
+16033#Não identificado. Pode ser identificado com uma [Lupa].#
+
+6756#Energia especial encontrada nas partes mecânicas que sobraram dos restos dos robôs. Isso pode ser uma pista da fonte de energia da cidade de Verus?
+
+Peso: ^7777770^000000#
+
+6757#Um registro peculiar encontrado nas ruínas de Verus. Você pode escutar parte da vida ou os incidentes da cidade.
+
+Peso: ^7777770^000000#
+//*****************************************************
+
+//------------------Verus City 15.2--------------------
+
+//*****************************************************
+18997#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+28326#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+28327#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+6824#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+6825#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+6826#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+6827#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+6828#Item não identificado. Pode ser identificado com uma [Lupa].#
+6832#Componente com uma forma estranha. Deve valer muito porque, segundo os boatos, contém uma pequena quantidade de ouro dentro.
+Peso: ^7777771^000000#
+
+11597#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+22691#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+22692#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+22693#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+22694#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+22695#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+22699#Reagente para testes que ainda não foi aprovado pelos estudos clínicos. Leia a bula.
+
+^0000ffAumenta o reflexo corporal, podendo perder a visão como efeito colateral.^000000
+
+Duração: ^7777775 segundos^000000
+
+Peso: ^7777773^000000#
+//*****************************************************
+
+//---------Verus City Additional Compensation----------
+
+//*****************************************************
+15128#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+20773#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+4970#Encanta a armadura com a propriedade Fogo.#
+
+4971#Encanta a armadura com a propriedade Água.#
+
+4972#Encanta a armadura com a propriedade Terra.#
+
+4973#Encanta a armadura com a propriedade Vento.#
+
+4974#Resistência a propriedade Fogo +25%.
+
+Resistência a propriedade Água -25%.#
+
+4975#Resistência a propriedade Água +25%.
+
+Resistência a propriedade Vento -25%.#
+
+4976#Resistência a propriedade Terra +25%.
+
+Resistência a propriedade Fogo -25%.#
+
+4977#Resistência a propriedade Vento +25%.
+
+Resistência a propriedade Terra -25%.#
+
+4978#A cada 5 segundos:
+
+^0000ffRegenera 50 de HP.^000000
+
+Refino +7 ou mais:
+^0000ffRegenera 50 de HP adicional.^000000#
+
+4979#A cada 5 segundos:
+
+^0000ffRegenera 3 de SP.^000000
+
+Refino +7 ou mais:
+
+^0000ffRegenera 2 de SP adicional.^000000#
+
+4980#^0000ffRegeneração natural de HP +50%.^000000
+
+Refino +7 ou mais:
+^0000ffRegeneração natural de HP +50% adicional.^000000#
+
+4981#^0000ffRegeneração natural de SP +50%.^000000
+
+Refino +7 ou mais:
+
+^0000ffRegeneração natural de SP +50% adicional.^000000#
+
+4982#Cada 10 de FOR base:
+
+^0000ffATQ +5.^000000
+
+Refino +7 ou mais:
+
+^0000ffATQ +10.^000000#
+
+4983#Cada 10 de INT base:
+
+^0000ffATQM +5.^000000
+
+Refino +7 ou mais:
+
+^0000ffATQM +10.^000000#
+
+4984#DEF +100.#
+
+4985#Esquiva perfeita +3.#
+
+4986#ATQ +20.#
+
+4987#ATQM +20.#
+
+4988#HP máx. +5%.#
+
+4989#SP máx. +3%.#
+
+4990#Tolerância a [Congelamento] +100%.#
+
+4991#Velocidade de ataque +1.#
+
+6961#Um enorme bloco de sucata que pode ser útil em algum lugar... talvez algum robô o queira.
+
+Peso: ^777777100^000000#
+
+6962#Apesar do recipiente estar gasto, o combustível ainda parece útil.
+
+Peso: ^77777710^000000#
+6965#Um 'blueprint' de um reator da categoria E, sendo do sub-tipo Fogo.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+^ff0000Atenção: este item só pode ser usado no primeiro encantamento.^000000
+
+Peso: ^7777771^000000#
+
+6966#Um 'blueprint' de um reator da categoria E, sendo do sub-tipo Água.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+^ff0000Atenção: este item só pode ser usado no primeiro encantamento.^000000
+
+Peso: ^7777771^000000#
+
+6967#Um 'blueprint' de um reator da categoria E, sendo do sub-tipo Terra.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+^ff0000Atenção: este item só pode ser usado no primeiro encantamento.^000000
+
+Peso: ^7777771^000000#
+
+6968#Um 'blueprint' de um reator da categoria E, sendo do sub-tipo Vento.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+^ff0000Atenção: este item só pode ser usado no primeiro encantamento.^000000
+
+Peso: ^7777771^000000#
+
+6969#Um 'blueprint' de um reator da categoria R, sendo do sub-tipo Fogo.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6970#Um 'blueprint' de um reator da categoria R, sendo do sub-tipo Água.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6971#Um 'blueprint' de um reator da categoria R, sendo do sub-tipo Terra.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6972#Um 'blueprint' de um reator da categoria R, sendo do sub-tipo Vento.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6973#Um 'blueprint' de um reator da categoria C, sendo do sub-tipo Corpo.
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6974#Um 'blueprint' de um reator da categoria C, sendo do sub-tipo Alma.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6975#Um 'blueprint' de um reator da categoria C, sendo do sub-tipo Físico.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6976#Um 'blueprint' de um reator da categoria C, sendo do sub-tipo Mental.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6977#Um 'blueprint' de um reator da categoria A, sendo do sub-tipo FOR.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6978#Um 'blueprint' de um reator da categoria A, sendo do sub-tipo INT.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6979#Um 'blueprint' de um reator da categoria A, sendo do sub-tipo DEF.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6980#Um 'blueprint' de um reator da categoria A, sendo do sub-tipo ESQV.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6981#Um 'blueprint' de um reator da categoria A, sendo do sub-tipo ATQ.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6982#Um 'blueprint' de um reator da categoria A, sendo do sub-tipo ATQM.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6983#Um 'blueprint' de um reator da categoria A, sendo do sub-tipo HP.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6984#Um 'blueprint' de um reator da categoria A, sendo do sub-tipo SP.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6985#Um 'blueprint' de um reator da categoria I, sendo do sub-tipo Gelo.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+
+6986#Um 'blueprint' de um reator da categoria A, sendo do sub-tipo VdA.
+
+Apenas MARS_01 consegue fazer a leitura deste diagrama.
+
+Peso: ^7777771^000000#
+//*****************************************************
+//-------------------EP15 Cards------------------------
+//*****************************************************
+27012#^0000ffHP máx. +8%.^000000
+^
+FF6347Mecânicos:^000000
+
+^0000ffResistência a danos físicos a distância +30%.^000000
+
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Armadura^000000
+
+Peso: ^7777771^000000#
+
+27013#^0000ffDano de [Metralhadora] +50%.^000000
+
+Refino +10 ou mais:
+
+^0000ffDano de [Metralhadora] +20% adicional.^000000
+
+^FF6347Conjunto^000000
+^FF6347[Carta Transistor]^000000
+
+^0000ffAnula o consumo de Combustível Diferenciado Leve.^000000
+
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Arma^000000
+
+Peso: ^7777771^000000#
+
+27014#^0000ffHP máx. +2%.^000000
+
+Ao receber danos físicos ou mágicos:
+
+^0000ff0,2% de chance de ativar um [efeito] por 5 segundos.^000000
+
+^FF6347Efeito:^000000
+
+^0000ffRecupera 1.000 de HP por segundo.^000000
+
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Calçado^000000
+
+Peso: ^7777771^000000#
+
+27015#^0000ffRegeneração natural de HP e SP +25%.^000000
+Ao derrotar monstros com ataques físicos:
+
+^0000ffRecupera 30 de HP e 3 de SP.^000000
+
+Refino +7 ou mais:
+
+^0000ffRecupera 10 de HP e 1 de SP adicional.^000000
+
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Equipamento para Cabeça^000000
+
+Peso: ^7777771^000000#
+
+27016#^0000ffCRIT +30 em oponentes da raça Amorfo.^000000
+
+^FF6347Conjunto^000000
+
+^FF6347[Carta Robô Reparador Turbo]^000000
+
+^0000ffDano crítico +10%.^000000
+
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Arma^000000
+
+Peso: ^7777771^000000#
+
+27017#^0000ffResistência a raça Amorfo +10%.^000000
+
+Refino +7 ou mais:
+
+^0000ffResistência a raça Amorfo +5% adicional.^000000
+
+^0000ffAo derrotar monstros, pequena chance de derrubar Parafuso Enferrujado, Ferro, Placa de Ferro Amassada e Placa de Ferro Usada.^000000
+
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Capa^000000
+
+Peso: ^7777771^000000#
+
+27018#^0000ffVelocidade de ataque +1%.^000000
+
+Nv. base 90 ou mais:
+
+^0000ffVelocidade de ataque +1% adicional.^000000
+
+Nv. base 120 ou mais:
+
+^0000ffVelocidade de ataque +1% adicional.^000000
+
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Acessório^000000
+
+Peso: ^7777771^000000#
+
+27019#^0000ffPrecisão +1.^000000
+
+Nv. base 90 ou mais:
+
+^0000ffPrecisão +1 adicional.^000000
+
+Nv. base 120 ou mais:
+
+^0000ffPrecisão +1 adicional.^000000
+
+^FF6347Conjunto^000000
+
+^FF6347[Carta GC109]^000000
+
+Ao realizar ataques físicos:
+
+^0000ff2% de chance de ativar um efeito por 5 segundos.^000000
+
+^FF6347Efeito:^000000
+
+^0000ffVelocidade de ataque +5.^000000
+
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Acessório^000000
+
+Peso: ^7777771^000000#
+
+27020#^0000ffDano físico +10%.^000000
+
+Ao realizar ataques físicos:
+
+^0000ff0,5% de chance de autoconjurar [Drenar SP] nv. 2.^000000
+
+A cada 3 refinos:
+
+^0000ffChance de autoconjurar [Drenar SP] +1%.^000000
+
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Arma^000000
+
+Peso: ^7777771^000000#
+
+4697#^0000ffSP máx. -300.^000000
+
+Ao realizar ataques físicos:
+
+^0000ff50% de chance de quebrar a armadura do oponente.^000000
+
+^FF6347Conjunto^000000
+
+^FF6347[Carta Transistor]^000000
+
+^0000ffAnula o consumo de Combustível Diferenciado Leve.^000000
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Arma^000000
+
+Peso: ^7777771^000000#
+
+4698#^0000ffDano de [Arremesso de Machado] +30%.^000000
+
+Refino +10 ou mais:
+
+^0000ffDano de [Arremesso de Machado] +30% adicional.^000000
+
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Arma^000000
+
+Peso: ^7777771^000000#
+
+4699#^0000ffDano de [Canhão] +20%.^000000
+
+Refino +10 ou mais:
+
+^0000ffDano de [Canhão] +20% adicional.^000000
+
+^FF6347Conjunto^000000
+
+^FF6347[Carta Transistor]^000000
+
+^0000ffAnula o consumo de Combustível Diferenciado Leve.^000000
+
+Tipo: ^777777Carta^000000
+
+Equipa em: ^777777Arma^000000
+
+Peso: ^7777771^000000#
+
+22508#Amuleto dado aos membros do Grupo do Éden.
+
+^0000ffTeleporta o usuário para a sede do grupo.^000000
+
+Recarga: ^77777720 minutos^000000
+
+Peso: ^7777770^000000#
+//*****************************************************
+
+//---------Aplicar em 2017-11-07-----------------------
+
+//*****************************************************
+
+2047#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+20908#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+19292#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+31312#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+31178#Item não identificado. Pode ser identificado com uma [Lupa].#
+19315#Item não identificado. Pode ser identificado com uma [Lupa].#
+
+19291#Item não identificado. Pode ser identificado com uma [Lupa].#
+20909#Item não identificado. Pode ser identificado com uma [Lupa].#
+20514#Item não identificado. Pode ser identificado com uma [Lupa].#
+15254#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-11-13--------------------
+//*****************************************************
+20806#Item não identificado. Pode ser identificado com uma [Lupa].#
+19318#Item não identificado. Pode ser identificado com uma [Lupa].#
+31152#Item não identificado. Pode ser identificado com uma [Lupa].#
+31331#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-11-21--------------------
+//*****************************************************
+28430#Item não identificado. Pode ser identificado com uma [Lupa].#
+31289#Item não identificado. Pode ser identificado com uma [Lupa].#
+31264#Item não identificado. Pode ser identificado com uma [Lupa].#
+19296#Item não identificado. Pode ser identificado com uma [Lupa].#
+19316#Item não identificado. Pode ser identificado com uma [Lupa].#
+31203#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-12-05--------------------
+//*****************************************************
+19924#Item não identificado. Pode ser identificado com uma [Lupa].#
+20300#Item não identificado. Pode ser identificado com uma [Lupa].#
+20098#Item não identificado. Pode ser identificado com uma [Lupa].#
+20401#Item não identificado. Pode ser identificado com uma [Lupa].#
+19915#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2017-12-12--------------------
+//*****************************************************
+20198#Item não identificado. Pode ser identificado com uma [Lupa].#
+20248#Item não identificado. Pode ser identificado com uma [Lupa].#
+20116#Item não identificado. Pode ser identificado com uma [Lupa].#
+19022#Item não identificado. Pode ser identificado com uma [Lupa].#
+19306#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Clock Tower Nightmare--------------------
+//*****************************************************
+2971#Item não identificado. Pode ser identificado com uma [Lupa].#
+16024#Item não identificado. Pode ser identificado com uma [Lupa].#
+1668#Item não identificado. Pode ser identificado com uma [Lupa].#
+15089#Item não identificado. Pode ser identificado com uma [Lupa].#
+22515#Item não identificado. Pode ser identificado com uma [Lupa].#
+18874#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Clock Tower Nightmare Cards--------------
+//*****************************************************
+4625#
+^0000ffDano mágico +20%.^000000
+^0000ffCusto de SP das habilidades +10%.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Arma^000000
+Peso: ^7777771^000000
+#
+4626#
+^0000ffDano mágico contra as raças Amorfo e Demônio +5%.^000000
+^FF6347Conjunto^000000
+^FF6347[Carta Neo Punk]^000000
+^0000ffIgnora 50% da DEFM das raças Amorfo e Demônio.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Arma^000000
+Peso: ^7777771^000000
+#
+4627#
+^0000ffDano físico contra as raças Amorfo e Demônio +10%.^000000
+^FF6347Conjunto^000000
+^FF6347[Carta Neo Punk]^000000
+^0000ffIgnora 50% da DEF das raças Amorfo e Demônio.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Arma^000000
+Peso: ^7777771^000000
+#
+4628#
+^0000ffResistência as raças Amorfo e Demônio +25%.^000000
+^FF6347Conjunto^000000
+^FF6347[Carta Marca-Tempo]^000000
+^0000ffResistência as raças Amorfo e Demônio +5% adicional.^000000
+^FF6347Conjunto^000000
+^FF6347[Carta Despertador]^000000
+^0000ffResistência as raças Amorfo e Demônio +5% adicional.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Escudo^000000
+Peso: ^7777771^000000
+#
+4629#
+^0000ffResistência a propriedade Neutro +15%.^000000
+A cada refino:
+^0000ffDano mágico de propriedade Terra +3%.^000000
+^FF6347Conjunto^000000
+^FF6347[Carta Diretor]^000000
+^0000ffResistência a propriedade Neutro +5% adicional.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Capa^000000
+Peso: ^7777771^000000
+#
+4630#
+Ao receber ataques físico ou mágicos:
+^0000ff3% de chance de autoconjurar [Espírito dos Amaldiçoados] nv. 2.^000000
+^FF6347Conjunto^000000
+^FF6347[Carta Ancião Ancestral]^000000
+^0000ffChance de autoconjurar [Espírito dos Amaldiçoados] +2%.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Calçado^000000
+Peso: ^7777771^000000
+#
+4631#
+^0000ffVelocidade de ataque +3%.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Acessório^000000
+Peso: ^7777771^000000
+#
+4632#
+Ao realizar ataques físicos:
+^0000ff2% de chance de autoconjurar [Furacão] nv. 1 ou no nível aprendido.^000000
+^FF6347Conjunto^000000
+^FF6347[Carta Visconde Coruja]^000000
+Ao realizar ataques físicos:
+^0000ff2% de chance de autoconjurar [Chuva de Meteoros] nv. 1.^000000
+Tipo: ^777777Carta^000000
+Equipa em: ^777777Acessório^000000
+Peso: ^7777771^000000
+#
+//*****************************************************
+//------------Aplicar em 2017-12-19--------------------
+//*****************************************************
+28521#Item não identificado. Pode ser identificado com uma [Lupa].#
+28572#Item não identificado. Pode ser identificado com uma [Lupa].#
+19083#Item não identificado. Pode ser identificado com uma [Lupa].#
+20844#Item não identificado. Pode ser identificado com uma [Lupa].#
+20457#Item não identificado. Pode ser identificado com uma [Lupa].#
+31383#Item não identificado. Pode ser identificado com uma [Lupa].#
+20433#Item não identificado. Pode ser identificado com uma [Lupa].#
+19956#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//--------------ITENS DE NATAL 2017--------------------
+//*****************************************************
+20222#Item não identificado. Pode ser identificado com uma [Lupa].#
+31390#Item não identificado. Pode ser identificado com uma [Lupa].#
+11575#Biscoito da Sorte#
+11578#Pirulito de Bengala de Natal#
+11580#Bala Natalina#
+11581#Fatia de Bolo Natalino#
+23548#Doce de Gelo#
+23549#Biscoito do Snow#
+23550#Biscoito do Winter#
+23551#Biscoito da Festie#
+23552#Biscoito da Flora#
+23553#Caixa do Festival das Flores de Neve#
+//*****************************************************
+//------------Aplicar em 2018-01-02--------------------
+//*****************************************************
+22182#Item não identificado. Pode ser identificado com uma [Lupa].#
+15272#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-01-09--------------------
+//*****************************************************
+28617#Item não identificado. Pode ser identificado com uma [Lupa].#
+19145#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-01-16--------------------
+//*****************************************************
+28492#Item não identificado. Pode ser identificado com uma [Lupa].#
+28434#Item não identificado. Pode ser identificado com uma [Lupa].#
+31396#Item não identificado. Pode ser identificado com uma [Lupa].#
+31395#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-01-23--------------------
+//*****************************************************
+5878#Item não identificado. Pode ser identificado com uma [Lupa].#
+19862#Item não identificado. Pode ser identificado com uma [Lupa].#
+31325#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-01-30--------------------
+//*****************************************************
+28564#Item não identificado. Pode ser identificado com uma [Lupa].#
+20115#Item não identificado. Pode ser identificado com uma [Lupa].#
+31399#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-02-06--------------------
+//*****************************************************
+31108#Item não identificado. Pode ser identificado com uma [Lupa].#
+31109#Item não identificado. Pode ser identificado com uma [Lupa].#
+31110#Item não identificado. Pode ser identificado com uma [Lupa].#
+31111#Item não identificado. Pode ser identificado com uma [Lupa].#
+31112#Item não identificado. Pode ser identificado com uma [Lupa].#
+28517#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-02-20--------------------
+//*****************************************************
+18741#Item não identificado. Pode ser identificado com uma [Lupa].#
+20395#Item não identificado. Pode ser identificado com uma [Lupa].#
+20145#Item não identificado. Pode ser identificado com uma [Lupa].#
+19668#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-02-27--------------------
+//*****************************************************
+28433#Item não identificado. Pode ser identificado com uma [Lupa].#
+18813#Item não identificado. Pode ser identificado com uma [Lupa].#
+20375#Item não identificado. Pode ser identificado com uma [Lupa].#
+19904#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-03-06--------------------
+//*****************************************************
+19098#Item não identificado. Pode ser identificado com uma [Lupa].#
+28901#Item não identificado. Pode ser identificado com uma [Lupa].#
+31193#Item não identificado. Pode ser identificado com uma [Lupa].#
+20506#Item não identificado. Pode ser identificado com uma [Lupa].#
+19269#Item não identificado. Pode ser identificado com uma [Lupa].#
+19097#Item não identificado. Pode ser identificado com uma [Lupa].#
+19299#Item não identificado. Pode ser identificado com uma [Lupa].#
+28902#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-03-06--------------------
+//*****************************************************
+28437#Item não identificado. Pode ser identificado com uma [Lupa].#
+19575#Item não identificado. Pode ser identificado com uma [Lupa].#
+19104#Item não identificado. Pode ser identificado com uma [Lupa].#
+5897#Item não identificado. Pode ser identificado com uma [Lupa].#
+5898#Item não identificado. Pode ser identificado com uma [Lupa].#
+5899#Item não identificado. Pode ser identificado com uma [Lupa].#
+5901#Item não identificado. Pode ser identificado com uma [Lupa].#
+5902#Item não identificado. Pode ser identificado com uma [Lupa].#
+5904#Item não identificado. Pode ser identificado com uma [Lupa].#
+5906#Item não identificado. Pode ser identificado com uma [Lupa].#
+5907#Item não identificado. Pode ser identificado com uma [Lupa].#
+18791#Item não identificado. Pode ser identificado com uma [Lupa].#
+18794#Item não identificado. Pode ser identificado com uma [Lupa].#
+18795#Item não identificado. Pode ser identificado com uma [Lupa].#
+20440#Item não identificado. Pode ser identificado com uma [Lupa].#
+20328#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-03-20--------------------
+//*****************************************************
+20236#Item não identificado. Pode ser identificado com uma [Lupa].#
+31315#Item não identificado. Pode ser identificado com uma [Lupa].#
+31151#Item não identificado. Pode ser identificado com uma [Lupa].#
+20372#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-04-03--------------------
+//*****************************************************
+28927#Item não identificado. Pode ser identificado com uma [Lupa].#
+13465#Item não identificado. Pode ser identificado com uma [Lupa].#
+31299#Item não identificado. Pode ser identificado com uma [Lupa].#
+31201#Item não identificado. Pode ser identificado com uma [Lupa].#
+20299#Item não identificado. Pode ser identificado com uma [Lupa].#
+20765#Item não identificado. Pode ser identificado com uma [Lupa].#
+24212#Item não identificado. Pode ser identificado com uma [Lupa].#
+24213#Item não identificado. Pode ser identificado com uma [Lupa].#
+24214#Item não identificado. Pode ser identificado com uma [Lupa].#
+24215#Item não identificado. Pode ser identificado com uma [Lupa].#
+24208#Item não identificado. Pode ser identificado com uma [Lupa].#
+24209#Item não identificado. Pode ser identificado com uma [Lupa].#
+28438#Item não identificado. Pode ser identificado com uma [Lupa].#
+31176#Item não identificado. Pode ser identificado com uma [Lupa].#
+31437#Item não identificado. Pode ser identificado com uma [Lupa].#
+22172#Item não identificado. Pode ser identificado com uma [Lupa].#
+2984#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-04-03--------------------
+//*****************************************************
+31381#Item não identificado. Pode ser identificado com uma [Lupa].#
+31052#Item não identificado. Pode ser identificado com uma [Lupa].#
+20023#Item não identificado. Pode ser identificado com uma [Lupa].#
+6377#
+Uma licença da Guilda dos Mercadores que permite abrir uma Loja de Atacado.
+Você precisa ter pelo menos uma cópia dos itens que deseja comprar.
+^FF0000ATENÇÃO! Este item não pode ser negociado, derrubado no chão nem colocado no carrinho, mas pode ser transferido para o armazém e vendido em NPC.^000000
+Item Consumível
+Peso : ^7777771^000000
+#
+12548#
+Uma licença suspeita que permite abrir uma Loja de Atacado. O carimbo da Guilda dos Mercadores parece ter sido desenhado à mão.
+Você precisa ter pelo menos uma cópia dos itens que deseja comprar.
+Item Consumível
+Peso : ^7777771^000000
+#
+//*****************************************************
+//------------Aplicar em 2018-05-03--------------------
+//*****************************************************
+5967#Item não identificado. Pode ser identificado com uma [Lupa].#
+19095#Item não identificado. Pode ser identificado com uma [Lupa].#
+31450#Item não identificado. Pode ser identificado com uma [Lupa].#
+31251#Item não identificado. Pode ser identificado com uma [Lupa].#
+20379#Item não identificado. Pode ser identificado com uma [Lupa].#
+19163#Item não identificado. Pode ser identificado com uma [Lupa].#
+15371#Item não identificado. Pode ser identificado com uma [Lupa].#
+5975#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-05-08--------------------
+//*****************************************************
+31177#Item não identificado. Pode ser identificado com uma [Lupa].#
+31433#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-05-15--------------------
+//*****************************************************
+31435#Item não identificado. Pode ser identificado com uma [Lupa].#
+31332#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-05-23--------------------
+//*****************************************************
+31407#Item não identificado. Pode ser identificado com uma [Lupa].#
+31117#Item não identificado. Pode ser identificado com uma [Lupa].#
+31260#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-05-29--------------------
+//*****************************************************
+18959#Item não identificado. Pode ser identificado com uma [Lupa].#
+19294#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-06-05--------------------
+//*****************************************************
+31451#Item não identificado. Pode ser identificado com uma [Lupa].#
+31474#Item não identificado. Pode ser identificado com uma [Lupa].#
+15136#Item não identificado. Pode ser identificado com uma [Lupa].#
+22070#Item não identificado. Pode ser identificado com uma [Lupa].#
+20517#Item não identificado. Pode ser identificado com uma [Lupa].#
+28534#Item não identificado. Pode ser identificado com uma [Lupa].#
+28535#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-06-12--------------------
+//*****************************************************
+28737#Item não identificado. Pode ser identificado com uma [Lupa].#
+19274#Item não identificado. Pode ser identificado com uma [Lupa].#
+19300#Item não identificado. Pode ser identificado com uma [Lupa].#
+31460#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//--------------------REBELLION------------------------
+//*****************************************************
+13228#
+Um projétil envolto em Fogo.
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777720^000000
+Peso: ^7777770.2^000000 
+Propriedade: ^777777Fogo^000000
+#
+13229#
+Um projétil envolto em Vento.
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777720^000000
+Peso: ^7777770.2^000000 
+Propriedade: ^777777Vento^000000
+#
+13230#
+Um projétil envolto em Água.
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777720^000000
+Peso: ^7777770.2^000000 
+Propriedade: ^777777Água^000000
+#
+13231#
+Um projétil coberto de Veneno.
+Pequena chance de causar [Envenenamento] ao atacar.
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777720^000000
+Peso: ^7777770.2^000000 
+Propriedade: ^777777Veneno^000000
+#
+13232#
+Um projétil envolto em poder Sombrio.
+Pequena chance de causar [Cegueira] ao atacar.
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777720^000000
+Peso: ^7777770.2^000000 
+Propriedade: ^777777Sombrio^000000
+#
+13215#
+Este projétil pode penetrar a armadura mais espessa.
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777750^000000
+Peso: ^7777770.2^000000 
+Propriedade: ^777777Neutro^000000
+Nível necessário: ^777777100^000000
+#
+13216#
+Um projétil envolto em poder de Fogo.
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777740^000000
+Peso: ^7777770.2^000000 
+Propriedade: ^777777Fogo^000000
+Nível necessário: ^777777100^000000
+#
+13217#
+Um projétil envolto em poder de Água.
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777740^000000
+Peso: ^7777770.2^000000 
+Propriedade: ^777777Água^000000
+Nível necessário: ^777777100^000000
+#
+13218#
+Um projétil envolto em poder de Vento.
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777740^000000
+Peso: ^7777770.2^000000 
+Propriedade: ^777777Vento^000000
+Nível necessário: ^777777100^000000
+#
+13219#
+Um projétil envolto em poder de Terra
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777740^000000
+Peso: ^7777770.2^000000 
+Propriedade: ^777777Terra^000000
+Nível necessário: ^777777100^000000
+#
+13220#
+Um projétil de prata embebido em água benta.
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777740^000000
+Peso: ^7777770.2^000000 
+Propriedade: ^777777Sagrado^000000
+Nível necessário: ^777777100^000000
+#
+13221#
+Um pequeno projétil de prata repleto de poder Sagrado.
+Tipo: ^777777Projétil^000000    
+Força de Ataque: ^77777715^000000
+Peso: ^7777770.2^000000      
+Propriedade: ^777777Sagrado^000000
+#
+13222#
+Um projétil vermelho sanguinário com pequena chance de causar [Sangramento].
+Tipo: ^777777Projétil^000000 
+Força de Ataque: ^77777730^000000
+Peso: ^7777770.1^000000 
+Propriedade: ^777777Neutro^000000
+#
+13223#
+Um projétil de Lança-Granadas que carrega a propriedade Fogo. 
+Tipo: ^777777Projétil^000000    
+Força de Ataque: ^77777750^000000
+Peso: ^7777770.5^000000      
+Propriedade: ^777777Fogo^000000
+#
+13224#
+Um projétil de Lança-Granadas que carrega a propriedade Vento. 
+Tipo: ^777777Projétil^000000    
+Força de Ataque: ^77777750^000000
+Peso: ^7777770.5^000000      
+Propriedade: ^777777Vento^000000
+#
+13225#
+Um projétil de Lança-Granadas que carrega um veneno mortal.
+Ao atacar, possui uma pequena chance de causar [Envenenamento] nos inimigos.
+Tipo: ^777777Projétil^000000    
+Força de Ataque: ^77777750^000000
+Peso: ^7777770.5^000000      
+Propriedade: ^777777Veneno^000000
+#
+13226#
+Um projétil de Lança-Granadas que carrega a escuridão.
+Ao atacar, possui uma pequena chance de causar [Cegueira] nos inimigos.
+Tipo: ^777777Projétil^000000    
+Força de Ataque: ^77777750^000000
+Peso: ^7777770.5^000000      
+Propriedade: ^777777Sombrio^000000
+#
+13227#
+Um projétil de Lança-Granadas que carrega a propriedade Água. 
+Tipo: ^777777Projétil^000000    
+Força de Ataque: ^77777750^000000
+Peso: ^7777770.5^000000      
+Propriedade: ^777777Água^000000
+#
+13210#
+Um projétil feito para a habilidade [Calibre Letal].
+Pode ser usado como disparo normal, mas não causa dano alto.
+É consideravelmente leve como uma munição de empuxo, mas causa dano baixo.
+Tipo: ^777777Munição^000000 
+Ataque: ^77777730^000000
+Peso: ^77777725^000000 
+Propriedade: ^777777Neutro^000000
+#
+13211#
+Um projétil feito para a habilidade [Calibre Letal].
+Pode ser usado como disparo normal, mas não causa dano alto.
+Tipo: ^777777Munição^000000 
+Ataque: ^77777730^000000
+Peso: ^77777750^000000 
+Propriedade: ^777777Neutro^000000
+#
+13212#
+Um projétil feito para a habilidade [Calibre Letal].
+Pode ser usado como disparo normal, mas não causa dano alto.
+Por ser feita para [Disparo Letal], é pesada, mas não causa dano alto.
+Tipo: ^777777Munição^000000 
+Ataque: ^77777730^000000
+Peso: ^77777775^000000 
+Propriedade: ^777777Neutro^000000
+#
+13213#
+Um projétil feito para a habilidade [Calibre Letal].
+Pode ser usado como disparo normal, mas não causa dano alto.
+É fácil usá-la para [Disparo Letal], mas cara e pesada.
+Tipo: ^777777Munição^000000 
+Ataque: ^77777730^000000
+Peso: ^777777100^000000 
+Propriedade: ^777777Neutro^000000
+#
+13214#
+Um projétil feito para a habilidade [Calibre Letal].
+Pode ser usado como disparo normal, mas não causa dano alto.
+Você deve estar se perguntando do que é feito, porque é muito caro e pesado.
+Tipo: ^777777Munição^000000 
+Ataque: ^77777730^000000
+Peso: ^777777120^000000 
+Propriedade: ^777777Neutro^000000
+#
+7663#
+Um projétil completamente revestido.
+A penetração é maximizada para causar alto dano.
+Ao usar [Espiral Perfurante], esse item será consumido.
+Peso: ^7777770.2^000000
+#
+7664#
+Um lançador de minas que pode ser usado como Lança-granadas.
+Ao usar [Lançar Granada], esse item será consumido.
+Peso: ^7777770.3^000000
+#
+7665#
+Míssil para Lança-granadas apelidado de "Cauda Maligna".
+Rastreia o alvo e causa dano.
+Ao usar [Míssil Dracônico], esse item será consumido.
+Peso: ^77777710^000000
+#
+6746#
+^ff0000Este item está vinculado à conta.^000000
+Um pedaço de ferro não acabado de alguma forja. Devido  à sua forma fora do padrão, ele não pode ser usado para montagem.
+Peso: ^7777770^000000
+#
+6747#
+^ff0000Este item está vinculado à conta.^000000
+Pedaço de uma arma padrão. Perfeito para ser usado na produção de um revólver.
+Peso: ^7777770^000000
+#
+28201#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+28202#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13120#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13122#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13189#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13190#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13192#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13193#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13194#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13124#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13195#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13196#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13197#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13198#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13199#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13118#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13119#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+28200#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+23123#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Um cartucho que contém 500 projéteis de fogo.
+Peso: ^77777725^000000
+#
+23124#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Um cartucho que contém 500 projéteis de relâmpago
+Peso: ^77777725^000000
+#
+23125#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Um cartucho que contém 500 projéteis congelantes
+Peso: ^77777725^000000
+#
+23126#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Um cartucho que contém 500 projéteis venenosos
+Peso: ^77777725^000000
+#
+23127#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Um cartucho que contém 500 projéteis cegantes
+Weight : ^77777725^000000
+#
+22737#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Contém 500 projéteis com chance de causar [Sangramento]
+^ffffff_^000000
+Peso: ^77777725^000000
+#
+22738#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Contém 500 projéteis de prata sagrados.
+^ffffff_^000000
+Peso: ^77777725^000000
+#
+22739#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+500 cápsulas com propriedade Vento.
+^ffffff_^000000
+Peso: ^77777735^000000
+#
+22740#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+500 cápsulas com propriedade Sombrio.
+^ffffff_^000000
+Peso: ^77777735^000000
+#
+22741#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+500 cápsulas com propridade Veneno.
+^ffffff_^000000
+Peso: ^77777735^000000
+#
+22742#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+500 cápsulas com propriedade Água.
+^ffffff_^000000
+Peso: ^77777735^000000
+#
+22743#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+500 cápsulas com propriedade Fogo.
+^ffffff_^000000
+Peso: ^77777735^000000
+#
+22744#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Contém 500 projéteis perfuradores de armadura.
+^ffffff_^000000
+Peso: ^77777725^000000
+#
+22745#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Contém 500 projéteis envoltos no poder de Fogo.
+^ffffff_^000000
+Peso: ^77777725^000000
+#
+22746#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Contém 500 projéteis envoltos no poder de Água.
+^ffffff_^000000
+Peso: ^77777725^000000
+#
+22747#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Contém 500 projéteis envoltos no poder de Vento.
+^ffffff_^000000
+Peso: ^77777725^000000
+#
+22748#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Contém 500 projéteis de pedra mágica envoltos no poder de Terra.
+^ffffff_^000000
+Peso: ^77777725^000000
+#
+22749#
+^ff0000"Atenção! Se você possuir mais que 30.000 unidades deste item, a quantidade excedente será perdida."^000000
+^ffffff_^000000
+Contém 500 projéteis embebidos em água benta.
+^ffffff_^000000
+Peso: ^77777725^000000
+#
+22107#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22108#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22109#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22110#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22111#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22112#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22113#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22114#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22115#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22116#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22117#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+22118#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13116#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13181#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13182#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13183#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+13180#
+Item não identificado. Pode ser identificado com uma [Lupa].
+#
+25187#
+Um projétil feito para a habilidade [Calibre Letal].
+Este item é tão caro e pesado que você vai ficar se perguntando do que ele é feito.
+Será consumido automaticamente ao usar a habilidade [Calibre Letal].
+#
+//*****************************************************
+//------------Aplicar em 2018-06-19--------------------
+//*****************************************************
+31048#Item não identificado. Pode ser identificado com uma [Lupa].#
+20048#Item não identificado. Pode ser identificado com uma [Lupa].#
+20212#Item não identificado. Pode ser identificado com uma [Lupa].#
+21042#Item não identificado. Pode ser identificado com uma [Lupa].#
+15370#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-06-26--------------------
+//*****************************************************
+19640#Item não identificado. Pode ser identificado com uma [Lupa].#
+31490#Item não identificado. Pode ser identificado com uma [Lupa].#
+31382#Item não identificado. Pode ser identificado com uma [Lupa].#
+13464#Item não identificado. Pode ser identificado com uma [Lupa].#
+28379#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//------------Aplicar em 2018-07-03--------------------
+//*****************************************************
+19612#Item não identificado. Pode ser identificado com uma [Lupa].#
+31027#Item não identificado. Pode ser identificado com uma [Lupa].#
+31493#Item não identificado. Pode ser identificado com uma [Lupa].#
+28502#Item não identificado. Pode ser identificado com uma [Lupa].#
+28947#Item não identificado. Pode ser identificado com uma [Lupa].#
+2979#Item não identificado. Pode ser identificado com uma [Lupa].#
+//*****************************************************
+//---------------QUEST DE CARNAVAL-2018----------------
+//*****************************************************
+2998#Item não identificado. Pode ser identificado com uma [Lupa].#
+18940#Item não identificado. Pode ser identificado com uma [Lupa].#
+18941#Item não identificado. Pode ser identificado com uma [Lupa].#
+18942#Item não identificado. Pode ser identificado com uma [Lupa].#
+18943#Item não identificado. Pode ser identificado com uma [Lupa].#
+22082#Item não identificado. Pode ser identificado com uma [Lupa].#
+28906#Item não identificado. Pode ser identificado com uma [Lupa].#
+28907#Item não identificado. Pode ser identificado com uma [Lupa].#
+28908#Item não identificado. Pode ser identificado com uma [Lupa].#
+28909#Item não identificado. Pode ser identificado com uma [Lupa].#
+25482#
+Um cartão que representa a Liga que você escolheu no Festival da Diversidade de Brasilis.
+A card that symbolizes team that adventurer selected.
+^ff0000Esse item será removido após o término do evento.^000000
+^ff0000Atenção! Este item não pode ser trocado, derrubado no chão, colocado no carrinho e nem no armazém.^000000
+Peso: ^7777770^000000
+#
+25483#
+Um cartão que representa a Liga que você escolheu no Festival da Diversidade de Brasilis.
+^ff0000Esse item será removido após o término do evento.^000000
+^ff0000Atenção! Este item não pode ser trocado, derrubado no chão, colocado no carrinho e nem no armazém.^000000
+Peso: ^7777770^000000
+#
+25484#
+Um cartão que representa a Liga que você escolheu no Festival da Diversidade de Brasilis.
+^ff0000Esse item será removido após o término do evento.^000000
+^ff0000Atenção! Este item não pode ser trocado, derrubado no chão, colocado no carrinho e nem no armazém.^000000
+Peso: ^7777770^000000
+#
+25485#
+Um cartão que representa a Liga que você escolheu no Festival da Diversidade de Brasilis.
+^ff0000Esse item será removido após o término do evento.^000000
+^ff0000Atenção! Este item não pode ser trocado, derrubado no chão, colocado no carrinho e nem no armazém.^000000
+Peso: ^7777770^000000
+#
+25486#
+Insígnia do Festival da Diversidade de Brasilis que representa a Liga dos Heróis do Fogo.
+^ff0000Esse item será removido após o término do evento.^000000
+^ff0000Atenção! Este item não pode ser trocado, derrubado no chão, colocado no carrinho e nem no armazém.^000000
+Peso: ^7777770^000000
+#
+25487#
+Insígnia do Festival da Diversidade de Brasilis que representa a Liga dos Heróis da Água.
+^ff0000Esse item será removido após o término do evento.^000000
+^ff0000Atenção! Este item não pode ser trocado, derrubado no chão, colocado no carrinho e nem no armazém.^000000
+Peso: ^7777770^000000
+#
+25488#
+Insígnia do Festival da Diversidade de Brasilis que representa a Liga dos Heróis do Vento.
+^ff0000Esse item será removido após o término do evento.^000000
+^ff0000Atenção! Este item não pode ser trocado, derrubado no chão, colocado no carrinho e nem no armazém.^000000
+Peso: ^7777770^000000
+#
+25489#
+Insígnia do Festival da Diversidade de Brasilis que representa a Liga dos Heróis da Terra.
+^ff0000Esse item será removido após o término do evento.^000000
+^ff0000Atenção! Este item não pode ser trocado, derrubado no chão, colocado no carrinho e nem no armazém.^000000
+Peso: ^7777770^000000
+#
+22822#
+Uma bolsa com uma roupa de banho novinha em folha. Tá esperando o quê? Vai lá dar um mergulho!
+^0000ffVeste o personagem com uma Roupa de Verão.^000000
+^0000ffImpossível atacar ou usar habilidades com essa roupa.^000000
+Tipo: ^777777Roupa^000000
+Duração: ^77777710 minutos^000000
+Peso: ^77777710^000000
+#
+//*****************************************************
+//------------Aplicar em 2018-07-10--------------------
+//*****************************************************
+31488#Item não identificado. Pode ser identificado com uma [Lupa].#
+31406#Item não identificado. Pode ser identificado com uma [Lupa].#
+15345#Item não identificado. Pode ser identificado com uma [Lupa].#
+19159#Item não identificado. Pode ser identificado com uma [Lupa].#
+28501#Item não identificado. Pode ser identificado com uma [Lupa].#
 //file end

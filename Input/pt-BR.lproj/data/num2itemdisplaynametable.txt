@@ -312,8 +312,6 @@
 6135#Ticket de Ninfa Perversa#
 6136#Ticket de Medusa#
 10038#Acessório#
-6377#Licença_de_Loja_de_Atacado#
-12548# Licença_Falsa_de_Loja_de_Atacado#
 6360#Fragmento_Escarlate#
 6361#Fragmento_Azul#
 6362#Fragmento_Amarelo#
@@ -3135,21 +3133,21 @@
 7776#Passe_Anti-Gravitacional#
 
 // ---------------- ????? 20070702 -----------------
-13711#Poção_Menor_de_Vida[10]#
-13712#Poção_Menor_de_Vida[30]#
-13713#Poção_Menor_de_Vida[50]#
-13714#Poção_Média_de_Vida[10]#
-13715#Poção_Média_de_Vida[30]#
-13716#Poção_Média_de_Vida[50]#
-13717#Caixa_de_Abrasivos[5]#
-13718#Caixa_de_Abrasivos[10]#
-13719#Caixa_de_Regeneração[5]#
-13720#Caixa_de_Regeneração[10]#
-13721#Teleporte_para_Calabouço[10]#
-14534#Poção_Menor_de_Vida#
-14535#Poção_Média_de_Vida#
+13711#Poção Menor de Vida [10]#
+13712#Poção Menor de Vida [30]#
+13713#Poção Menor de Vida [50]#
+13714#Poção Média de Vida [10]#
+13715#Poção Média de Vida [30]#
+13716#Poção Média de Vida [50]#
+13717#Caixa de Abrasivos [5]#
+13718#Caixa de Abrasivos [10]#
+13719#Caixa de Regeneração [5]#
+13720#Caixa de Regeneração [10]#
+13721#Teleporte para_Calabouço [10]#
+14534#Poção Menor de Vida#
+14535#Poção Média de Vida#
 14536#Abrasivo#
-14537#Poção_de_Regeneração#
+14537#Poção de Regeneração#
 
 // ---------------- ????? 20070801 -----------------
 13738#Cálice_da_Ilusão[5]#
@@ -5573,7 +5571,7 @@
 18639#Equipamento_para_cabeça#
 18590#Equipamento_para_cabeça#
 17181#Caixa_de_Madeira#
-14545#Super_Manual_de_Batalha#
+14545#Diário de Aventuras#
 2164#Escudo#
 18631#Equipamento_para_cabeça#
 18645#Equipamento_para_cabeça#
@@ -5645,9 +5643,9 @@
 17254#Caixa Memorável do Colar RWC#
 
 //-------RWC2012 enchant event material-------------
-4797#HP+300#
-4796#HP+200#
-4795#HP+100#
+4797#HP +300#
+4796#HP +200#
+4795#HP +100#
 4800#SP +50#
 4801#SP +100#
 4802#SP +150#
@@ -5784,19 +5782,14 @@
 4787#DEFM +4#
 4788#DEFM +6#
 4789#DEFM +8#
-4790#DEFM + 10#
+4790#DEFM +10#
 4791#DEF +3#
 4792#DEF +6#
 4793#DEF +9#
-4794#DEF + 12#
-4795#HP + 100#
-4796#HP + 200#
-4797#HP + 300#
-4798#HP + 400#
-4799#HP + 500#
-4800#SP + 50#
-4801#SP + 100#
-4802#SP + 150#
+4794#DEF +12#
+4795#HP +100#
+4798#HP +400#
+4799#HP +500#
 4803#Cura Nv. 1#
 4804#Catolicismo Nv. 1#
 4805#Arcebispo Nv. 1#
@@ -5908,7 +5901,6 @@
 1489#Lança de duas mãos#
 2872#Acessório#
 2873#Acessório#
-13208#Tatu Bola#
 16740#Caixa de Proteção do Deus do Mar#
 16741#Caixa com pelo de cauda1#
 16742#Caixa com pelo de cauda2#
@@ -7043,4 +7035,1322 @@
 4825#Espírito do Lutador 10#
 4881#Anti-Atraso 4#
 20006#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-05-03--------------------
+//*****************************************************
+20278#Equipamento Visual#
+20287#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-05-17--------------------
+//*****************************************************
+20407#Equipamento Visual#
+20132#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-05-31--------------------
+//*****************************************************
+20315#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-06-07--------------------
+//*****************************************************
+20279#Equipamento Visual#
+20280#Equipamento Visual#
+20295#Equipamento Visual#
+20316#Equipamento Visual#
+20470#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-06-14--------------------
+//*****************************************************
+20282#Equipamento Visual#
+20404#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-07-05--------------------
+//*****************************************************
+20311#Equipamento Visual#
+20319#Equipamento Visual#
+16267#Cx de Enciclopédia de Combate [10]#
+//*****************************************************
+//------------Aplicar em 2016-07-12--------------------
+//*****************************************************
+19871#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-07-25--------------------
+//*****************************************************
+20318#Equipamento Visual#
+20202#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-08-02--------------------
+//*****************************************************
+20218#Equipamento Visual#
+20209#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-08-09--------------------
+//*****************************************************
+20324#Equipamento Visual#
+20240#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-08-16--------------------
+//*****************************************************
+20219#Equipamento Visual#
+20220#Equipamento Visual#
+//*****************************************************
+//-------------EQUIPAMENTOS DE MORA--------------------
+//*****************************************************
+1660#Cajado#
+16018#Maça#
+2011#Cajado de Duas Mãos#
+2012#Cajado de Duas Mãos#
+2013#Cajado de Duas Mãos#
+2014#Cajado de Duas Mãos#
+//*****************************************************
+//------------Aplicar em 2016-08-23--------------------
+//*****************************************************
+20217#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-08-30--------------------
+//*****************************************************
+20286#Equipamento Visual#
+20033#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-09-06--------------------
+//*****************************************************
+20325#Equipamento Visual#
+20346#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-09-13--------------------
+//*****************************************************
+20283#Equipamento Visual#
+//*****************************************************
+//--------------------Eps 14.3------------------------
+//*****************************************************
+22035#Calçados#
+22036#Calçados#
+22037#Calçados#
+2981#Acessório#
+2988#Acessório#
+2989#Acessório#
+2990#Acessório#
+2991#Acessório#
+2992#Acessório#
+15100#Armadura#
+15101#Armadura#
+15093#Armadura#
+15094#Armadura#
+15095#Armadura#
+15096#Armadura#
+15097#Armadura#
+15098#Armadura#
+18122#Arco#
+18123#Arco#
+4890#DEFM +1#
+4891#DEFM +3#
+4892#DEFM +5#
+4893#DEF +15#
+4894#ATQ +4%#
+4895#ATQ +5%#
+4896#ATQM +2%#
+4897#ATQM +3%#
+4898#ATQM +4%#
+4899#ATQM +5%#
+4900#HPM +5%#
+4908#Essência de Morroc FOR1#
+4909#Essência de Morroc FOR2#
+4910#Essência de Morroc FOR3#
+4911#Essência de Morroc INT1#
+4912#Essência de Morroc INT2#
+4901#DEFM +7#
+4913#Essência de Morroc INT3#
+4902#DEF +18#
+4914#Essência de Morroc AGI1#
+4903#DEF +21#
+4915#Essência de Morroc AGI2#
+4904#ATQ +6%#
+4916#Essência de Morroc AGI3#
+4905#ATK +7%#
+4917#Essência de Morroc VIT1#
+4906#ATQM +6%#
+4918#Essência de Morroc VIT2#
+4907#ATQM +7%#
+4919#Essência de Morroc VIT3#
+4920#Essência de Morroc DES1#
+4921#Essência de Morroc DES2#
+4922#Essência de Morroc DES3#
+4923#Essência de Morroc SOR1#
+4924#Essência de Morroc SOR2#
+4925#Essência de Morroc SOR3#
+4559#Card#
+4882#ATQ +1%#
+4883#ATQM +1%#
+6684#Marca do Herói#
+6713#Alma de Ahat#
+6714#Alma de Shenime#
+6715#Pedaço da Alma do Lorde das Trevas#
+6708#Critsal de Mana#
+6719#Dente de Marfim#
+22535#Pergaminho do Construtor#
+22536#Pergaminho do Construtora#
+22537#Prêmio do Herói#
+22566#Cristal Congelado#
+22567#Prêmio de Esquadrão#
+22568#Pergaminho de Invocação de Nidhogg#
+1934#Instrumento Musical#
+1989#Chicote#
+1935#Instrumento Musical#
+1990#Chicote#
+6686#Tijolo#
+6687#Corda#
+6688#Madeira#
+6689#Pele de Verme Flamejante#
+6690#Caule Delicioso#
+6691#Pluma Flamejante#
+6692#Memorando da Patrulha#
+6693#Pedra Abençoada#
+6694#Sangue de Monstro#
+6695#Dente de Golem#
+6696#Brasão Flamejante#
+6698#Machado de Madeira#
+6685#Recibo de Morroc#
+//*****************************************************
+//------------Aplicar em 2016-09-20--------------------
+//*****************************************************
+20284#Equipamento Visual#
+20285#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-09-27--------------------
+//*****************************************************
+20313#Equipamento Visual#
+20314#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-10-04--------------------
+//*****************************************************
+20341#Equipamento Visual#
+20350#Equipamento Visual#
+20351#Equipamento Visual#
+20352#Equipamento Visual#
+20353#Equipamento Visual#
+20354#Equipamento Visual#
+20355#Equipamento Visual#
+20356#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-10-11--------------------
+//*****************************************************
+20340#Equipamento Visual#
+20357#Equipamento Visual#
+20358#Equipamento Visual#
+20359#Equipamento Visual#
+20360#Equipamento Visual#
+20361#Equipamento Visual#
+20362#Equipamento Visual#
+20363#Equipamento Visual#
+20344#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-10-18--------------------
+//*****************************************************
+20342#Equipamento Visual#
+20364#Equipamento Visual#
+20365#Equipamento Visual#
+20366#Equipamento Visual#
+20367#Equipamento Visual#
+20368#Equipamento Visual#
+20369#Equipamento Visual#
+20370#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-10-25--------------------
+//*****************************************************
+9101#Gaiola Portátil de Zumbichano#
+10040#Coleira Vermelha com Sino#
+20397#Equipamento Visual#
+25245#Pequena Pilha de Ossos#
+25133#Ramo Branco Seco#
+11605#Biscoito de Morcego#
+11550#Bolo de Abóbora#
+25132#Abóbora de Decoração#
+20430#Equipamento Visual#
+20130#Equipamento Visual#
+20174#Equipamento Visual#
+20172#Equipamento Visual#
+20175#Equipamento Visual#
+20167#Equipamento Visual#
+20168#Equipamento Visual#
+31088#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-11-01--------------------
+//*****************************************************
+19787#Equipamento Visual#
+20195#Equipamento Visual#
+19840#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-11-08--------------------
+//*****************************************************
+20262#Equipamento Visual#
+20266#Equipamento Visual#
+20443#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-11-17--------------------
+//*****************************************************
+18125#Arco#
+28319#Acessório#
+13449#Espada#
+1676#Cajado#
+//*****************************************************
+//------------Aplicar em 2016-11-30--------------------
+//*****************************************************
+20011#Equipamento Visual#
+20012#Equipamento Visual#
+20010#Equipamento Visual#
+20435#Equipamento Visual#
+20269#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-12-06--------------------
+//*****************************************************
+31158#Equipamento Visual#
+31159#Equipamento Visual#
+5914#Equipamento Visual#
+13997#Bolinhos de Carne [500]#
+19139#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2016-12-13--------------------
+//*****************************************************
+20099#Equipamento Visual#
+20032#Equipamento Visual#
+19865#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2016-12-20--------------------
+//*****************************************************
+31132#Guirlanda Natalina#
+25251#Suco de Uva Fermentado#
+25252#Ramo de Azevinho#
+25253#Caixa de Açúcar#
+25254#Lenha#
+23202#Quentão#
+6606#Cupom de Decoração de Carrinho#
+19697#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-01-03--------------------
+//*****************************************************
+31057#Equipamento Visual#
+31089#Equipamento Visual#
+20108#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-01-11--------------------
+//*****************************************************
+20171#Equipamento Visual#
+20197#Equipamento Visual#
+20113#Equipamento Visual#
+20109#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-01-17--------------------
+//*****************************************************
+20112#Equipamento Visual#
+19602#Equipamento Visual#
+19603#Equipamento Visual#
+19604#Equipamento Visual#
+12786#Cupom de Troca de Slot#
+//*****************************************************
+//------------Aplicar em 2017-01-24--------------------
+//*****************************************************
+2935#Acessório#
+19929#Equipamento Visual#
+19922#Equipamento Visual#
+1837#Punho#
+19020#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2017-02-01--------------------
+//*****************************************************
+22101#Calçados#
+29148#Encantamento Especial#
+29149#Encantamento Especial#
+29151#Encantamento Especial#
+29150#Encantamento Especial#
+29152#Encantamento Especial#
+29153#Encantamento Especial#
+20383#Equipamento Visual#
+20382#Equipamento Visual#
+20448#Equipamento Visual#
+19118#Equipamento para Cabeça#
+23073#Caixa do Anjo Poring#
+//*****************************************************
+//------------Aplicar em 2017-02-07--------------------
+//*****************************************************
+31055#Equipamento Visual#
+15186#Armadura#
+19168#Equipamento para Cabeça#
+19220#Equipamento para Cabeça#
+20393#Equipamento Visual#
+20462#Equipamento Visual#
+20374#Equipamento Visual#
+23177#Cartão Kafra Especial#
+//*****************************************************
+//------------Aplicar em 2017-02-14--------------------
+//*****************************************************
+19111#Equipamento para Cabeça#
+20176#Equipamento Visual#
+19892#Equipamento Visual#
+23135#Caixa de Balões Poring#
+31125#Equipamento Visual#
+20467#Equipamento Visual#
+19143#Equipamento para Cabeça#
+19146#Equipamento para Cabeça#
+19147#Equipamento para Cabeça#
+19148#Equipamento para Cabeça#
+19149#Equipamento para Cabeça#
+19150#Equipamento para Cabeça#
+19151#Equipamento para Cabeça#
+19152#Equipamento para Cabeça#
+19153#Equipamento para Cabeça#
+19154#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2017-02-21--------------------
+//*****************************************************
+20349#Equipamento Visual#
+5933#Equipamento para Cabeça#
+20399#Equipamento Visual#
+19704#Equipamento Visual#
+19705#Equipamento Visual#
+19703#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-03-07--------------------
+//*****************************************************
+31040#Equipamento Visual#
+19760#Equipamento Visual#
+31046#Equipamento Visual#
+31045#Equipamento Visual#
+20326#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-03-14--------------------
+//*****************************************************
+9044#Ovo de Shinobi#
+9053#Ovo de Golem#
+9054#Ovo de Pesadelo Sombrio#
+10026#Acessório#
+10035#Acessório#
+10036#Acessório#
+6099#Grilled_Rice_Cake#
+6129#Ticket_Nightmare#
+6141#Ticket_Shinobi#
+6142#Ticket_Golem#
+19762#Equipamento Visual#
+20482#Equipamento Visual#
+20196#Equipamento Visual#
+20449#Equipamento Visual#
+31028#Equipamento Visual#
+20499#Equipamento Visual#
+19138#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2017-03-21--------------------
+//*****************************************************
+18742#Equipamento Visual#
+19676#Equipamento Visual#
+20148#Equipamento Visual#
+18823#Equipamento para Cabeça#
+28910#Escudo#
+18564#Equipamento para Cabeça#
+23044#Doce de Elvira#
+//*****************************************************
+//------------Aplicar em 2017-03-28--------------------
+//*****************************************************
+20062#Equipamento Visual#
+15169#Armadura#
+//*****************************************************
+//------------Aplicar em 2017-04-05--------------------
+//*****************************************************
+28394#Acessório#
+16051#Maça#
+5930#Equipamento para Cabeça#
+19109#Equipamento para Cabeça#
+28377#Acessório#
+20463#Equipamento Visual#
+20458#Equipamento Visual#
+31062#Equipamento Visual#
+5979#Equipamento Visual#
+28321#Acessório#
+28322#Acessório#
+18985#Equipamento para Cabeça#
+5985#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2017-04-05--------------------
+//*****************************************************
+20268#Equipamento Visual#
+31139#Equipamento Visual#
+31186#Equipamento Visual#
+20257#Equipamento Visual#
+20298#Equipamento Visual#
+31167#Equipamento Visual#
+19117#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2017-04-18--------------------
+//*****************************************************
+18865#Equipamento para Cabeça#
+19759#Equipamento Visual#
+19756#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-04-25--------------------
+//*****************************************************
+5909#Equipamento Visual#
+15166#Acessório#
+28386#Acessório#
+20487#Equipamento Visual#
+20406#Equipamento Visual#
+31149#Equipamento Visual#
+20439#Equipamento Visual#
+31166#Equipamento Visual#
+14000#Cx Bala Amarga [500]#
+13571#Caixa de Asas de Borboleta Gigante#
+13998#Caixa de Asas de Borboleta Gigante#
+//*****************************************************
+//------------Aplicar em 2017-05-10--------------------
+//*****************************************************
+22106#Calçado#
+18652#Equipamento para Cabeça#
+18528#Equipamento para Cabeça#
+19271#Equipamento para Cabeça#
+//*****************************************************
+//------------Heroes Trail Parte I---------------------
+//*****************************************************
+6648#Coroa Antiga#
+6649#Chifre Quebrado#
+6650#Anel Antigo#
+6651#Bracelete Enferrujado#
+6652#Velho Álbum de Fotos#
+6653#Pilula Antiga#
+13089#Adaga#
+13090#Adaga#
+20717#Pele da Rainha Verme#
+20718#Pele da Rainha Verme#
+22507#Pergaminho Antigo#
+//*****************************************************
+//------------Heroes Trail Parte II--------------------
+//*****************************************************
+1438#Lança de uma Mão#
+1496#Lança de Duas Mãos#
+1669#Cajado#
+1671#Cajado de uma Mão#
+1836#Punho#
+1933#Instrumento musical#
+1988#Chicote#
+2023#Cajado de Duas Mãos#
+2185#Escudo#
+2186#Livro#
+2187#Escudo#
+2963#Acessório#
+2964#Acessório#
+4556#Carta Fenrir#
+4557#Carta Fenris#
+4885#Encantamento 1#
+4886#Encantamento 2#
+4887#Encantamento 3#
+4888#Encantamento 4#
+4889#Encantamento 5#
+6671#Moeda Mágica de Geffen#
+6672#Fragmento de Cinza#
+7641#Caixa de Cura#
+13093#Adaga#
+13094#Adaga#
+13441#Espada#
+15073#Armadura#
+15074#Manto#
+15090#Armadura#
+15091#Manto#
+16027#Maça#
+16028#Arma Branca#
+18119#Arco#
+18120#Arco#
+18820#Elmo#
+20721#Sobrepeliz#
+21009#Espada de Duas Mãos#
+21010#Espada de Duas Mãos#
+22033#Sapatos#
+22511#Carta Fenrir#
+22517#Pergaminho de Loki#
+28000#Katar#
+28001#Katar#
+28100#Machado de Duas Mãos#
+//*****************************************************
+//------------Aplicar em 2017-05-16--------------------
+//*****************************************************
+20746#Equipamento Visual#
+20761#Equipamento Visual#
+19614#Equipamento Visual#
+31164#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-05-30--------------------
+//*****************************************************
+18522#Equipamento para Cabeça#
+28515#Acessório#
+20069#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-06-07--------------------
+//*****************************************************
+12927#Caixa de Aspersio Especial [10]#
+31188#Equipamento Visual#
+19944#Equipamento Visual#
+19257#Equipamento para Cabeça#
+19252#Equipamento para Cabeça#
+20727#Equipamento Visual#
+19106#Equipamento para Cabeça#
+31165#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-06-13--------------------
+//*****************************************************
+20451#Equipamento Visual#
+31160#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-06-20--------------------
+//*****************************************************
+31189#Equipamento Visual#
+31168#Equipamento Visual#
+21012#Espada de Duas Mãos#
+19156#Equipamento para Cabeça#
+20764#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-06-27--------------------
+//*****************************************************
+20431#Equipamento Visual#
+31121#Equipamento Visual#
+15206#Armadura#
+//*****************************************************
+//------------Aplicar em 2017-07-04--------------------
+//*****************************************************
+20507#Equipamento Visual#
+20133#Equipamento Visual#
+20504#Equipamento Visual#
+28025#Katar#
+22104#Sapato#
+20799#Capa#
+27120#Carta Iara#
+27121#Carta Espírito da Água#
+27122#Carta Curupira#
+27123#Carta Espírito do Vento#
+27124#Carta Espírito da Terra#
+27125#Carta Mula Sem Cabeça#
+27126#Carta Boitatá#
+13863#Pergam. Repara Arma [10]#
+//*****************************************************
+//------------Aplicar em 2017-07-11--------------------
+//*****************************************************
+31244#Equipamento Visual#
+20377#Equipamento Visual#
+31187#Equipamento Visual#
+1841#Soqueira#
+28728#Adaga#
+//*****************************************************
+//------------Aplicar em 2017-07-18--------------------
+//*****************************************************
+5980#Equipamento Visual#
+20450#Equipamento Visual#
+19048#Armadura#
+19019#Equipamento para Cabeça#
+28411#Acessório#
+//*****************************************************
+//------------Aplicar em 2017-07-25--------------------
+//*****************************************************
+31038#Equipamento Visual#
+20131#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-08-01--------------------
+//*****************************************************
+31208#Equipamento Visual#
+31209#Equipamento Visual#
+19265#Equipamento para Cabeça#
+28538#Acessório#
+12796#Elixir Rubro#
+12298#Suco de Gato#
+//*****************************************************
+//-------------------OLD GLAST HEIM--------------------
+//*****************************************************
+2022#Cajado#
+2499#Sapato#
+2949#Acessório#
+4875#Delírio#
+4876#Epifania#
+4877#Ânimo#
+4878#Histeria#
+4879#Instinto#
+4880#Euforia#
+6607#Cristal do Tempo#
+6608#Mana Coagulada#
+6609#Unha Envelhecida de GH#
+6610#Dentadura Horrenda de GH#
+6611#Chave Enfeitada#
+6612#Cesta de Moedas de Ouro#
+6613#Broche Pomposo#
+13086#Adaga#
+13440#Espada#
+15066#Armadura#
+18752#Equipamento para Cabeça#
+21003#Espada de Duas Mãos#
+21007#Espada de Duas Mãos#
+22000#Sapato#
+22001#Sapato#
+22002#Sapato#
+22003#Sapato#
+22004#Sapato#
+22005#Sapato#
+22006#Sapato#
+22007#Sapato#
+22008#Sapato#
+22009#Sapato#
+22010#Sapato#
+22011#Sapato#
+4601#Carta Amdaris#
+4603#Carta Origem da Maldição#
+4605#Carta Cavaleira Desmorta#
+4606#Carta Cavaleiro Desmorto#
+//*****************************************************
+//------------Aplicar em 2017-08-08--------------------
+//*****************************************************
+31199#Equipamento Visual#
+31202#Equipamento Visual#
+28537#Acessório#
+5918#Equipamento para Cabeça#
+19268#Equipamento para Cabeça#
+19081#Equipamento para Cabeça#
+19112#Equipamento para Cabeça#
+12299#Poção de Mega Resistência#
+//*****************************************************
+//------------Aplicar em 2017-08-16--------------------
+//*****************************************************
+31200#Equipamento Visual#
+31300#Equipamento Visual#
+5978#Equipamento para Cabeça#
+2192#Escudo#
+1993#Chicote#
+//*****************************************************
+//------------Aplicar em 2017-08-22--------------------
+//*****************************************************
+31179#Equipamento Visual#
+31249#Equipamento Visual#
+28933#Escudo#
+28912#Escudo#
+19114#Equipamento para Cabeça#
+18804#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2017-08-29--------------------
+//*****************************************************
+19935#Equipamento Visual#
+20255#Equipamento Visual#
+22149#Sapato#
+//*****************************************************
+//------------Aplicar em 2017-09-05--------------------
+//*****************************************************
+31301#Equipamento Visual#
+31314#Equipamento Visual#
+20511#Equipamento Visual#
+31316#Equipamento Visual#
+19022#Equipamento para cabeça#
+28505#Acessório#
+15239#Armadura#
+2983#Acessório#
+15219#Armadura#
+15238#Armadura#
+24012#Armamento#
+24013#Armadura#
+24014#Sapatos#
+24015#Escudo#
+24016#Acessório#
+24017#Acessório#
+//*****************************************************
+//------------Aplicar em 2017-09-12--------------------
+//*****************************************************
+20432#Equipamento Visual#
+20134#Equipamento Visual#
+15240#Armadura#
+19136#Equipamento para cabeça#
+19249#Equipamento para cabeça#
+19263#Equipamento para cabeça#
+1590#Enciclopledia#
+1298#Katar#
+18559#Equipamento para cabeça#
+18560#Equipamento para cabeça#
+//*****************************************************
+//------------Aplicar em 2017-09-19--------------------
+//*****************************************************
+20277#Equipamento Visual#
+20251#Equipamento Visual#
+20441#Equipamento Visual#
+//*****************************************************
+//------------QUEST DE ANIVERSÁRIO---------------------
+//*****************************************************
+28431#Acessório#
+28432#Acessório#
+2166#Escudo#
+19305#Equipamento para cabeça#
+20054#Equipamento Visual#
+20472#Equipamento Visual#
+19639#Equipamento Visual#
+31093#Equipamento Visual#
+19913#Equipamento Visual#
+19638#Equipamento Visual#
+18115#Arco#
+25402#Fada Capturada#
+25403#Moeda de Fada#
+23460#Bolsa Mágica#
+13073#Adaga Certeira#
+9068#Ovo de Unicórnio#
+25275#Ticket de Unicórnio#
+20344#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-09-26--------------------
+//*****************************************************
+31180#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-10-10--------------------
+//*****************************************************
+20027#Equipamento Visual#
+31134#Equipamento Visual#
+20381#Equipamento Visual#
+19244#Acessório#
+20904#Armadura#
+28944#Escudo#
+5931#Equipamento para cabeça#
+5931#Equipamento para cabeça#
+20853#Equipamento para cabeça#
+19101#Equipamento para cabeça#
+20398#Equipamento Visual#
+31120#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-10-24--------------------
+//*****************************************************
+28739#Adaga#
+20452#Equipamento Visual#
+18744#Equipamento Visual#
+16074#Maça#
+//*****************************************************
+//------------Halloween 2017-10-31--------------------
+//*****************************************************
+31387#Acessório#
+9113#Ovo de Esqueleão#
+10042#Acessório#
+25408#Memória de Gyoll#
+25421#Decoração de Abóbora#
+25422#Ramo Branco Fino#
+25401#Pelugem Negra#
+11616#Porco Defumado#
+//*****************************************************
+//------------Aplicar em 2017-10-31--------------------
+//*****************************************************
+31329#Equipamento Visual#
+15248#Armadura#
+20815#Capa#
+28410#Acessório#
+//*****************************************************
+//------------------Verus City 15.1--------------------
+//*****************************************************
+15110#Armadura#
+2995#Acessório#
+20732#Capa#
+22043#Calçado#
+15111#Armadura#
+2996#Acessório#
+20733#Capa#
+22044#Calçado#
+28101#Machado#
+21011#Espada de Duas Mãos#
+4933#Neutralidade 1#
+4934#Neutralidade 2#
+4935#Neutralidade 3#
+6748#Relatório da Escavação#
+6749#Núcleo de Energia#
+6750#Motor Quebrado#
+6751#Placa de Ferro Amassada#
+6752#Componente de Charleston#
+6753#Amuleto do Infortúnio#
+6754#Erva Colhida#
+22611#Envelope Surpresa#
+16030#Maça#
+16031#Maça#
+16032#Maça#
+16033#Maça#
+6756#Energia Condensada#
+6757#Registro de Memórias do Instituto#
+//*****************************************************
+//------------------Verus City 15.2--------------------
+//*****************************************************
+18997#Elmo#
+28326#Acessório#
+28327#Acessório#
+6824#Registro de Memórias do Abrigo#
+6825#Caixa de Purificador de Ar#
+6826#Uva Fresca#
+6827#Peça Intacta#
+6828#Aparelho Gravitacional#
+6832#Peça Misteriosa#
+11597#Isoptero#
+22691#Registro do 1º dia#
+22692#Registro do 30º dia#
+22693#Registro do 32º dia#
+22694#Registro do 40º dia#
+22695#Registro do 50º dia#
+22699#Reagente de Teste#
+//*****************************************************
+//---------Verus City Additional----------
+//*****************************************************
+15128#Armadura#
+20773#Capa#
+4970#E-Fogo#
+4971#E-Água#
+4972#E-Terra#
+4973#E-Vento#
+4974#R-Fogo#
+4975#R-Água#
+4976#R-Terra#
+4977#R-Vento#
+4978#C-Corpo#
+4979#C-Alma#
+4980#C-Físico#
+4981#C-Mental#
+4982#A-FOR#
+4983#A-INT#
+4984#A-DEF#
+4985#A-ESQV#
+4986#A-ATQ#
+4987#A-ATQM#
+4988#A-HP#
+4989#A-SP#
+4990#I-Gelo#
+4991#A-VdA#
+6961#Bloco de Sucata#
+6962#Tanque Velho#
+6965#Diagrama de E-Fogo#
+6966#Diagrama de E-Água#
+6967#Diagrama de E-Terra#
+6968#Diagrama de E-Vento#
+6969#Diagrama de R-Fogo#
+6970#Diagrama de R-Água#
+6971#Diagrama de R-Terra#
+6972#Diagrama de R-Vento#
+6973#Diagrama de C-Corpo#
+6974#Diagrama de C-Alma#
+6975#Diagrama de C-Físico#
+6976#Diagrama de C-Mental#
+6977#Diagrama de A-FOR#
+6978#Diagrama de A-INT#
+6979#Diagrama de A-DEF#
+6980#Diagrama de A-ESQV#
+6981#Diagrama de A-ATQ#
+6982#Diagrama de A-ATQM#
+6983#Diagrama de A-HP#
+6984#Diagrama de A-SP#
+6985#Diagrama de I-Gelo#
+6986#Diagrama de A-VdA#
+
+//EP15 Cards
+27012#Carta Transistor#
+27013#Carta Mecha v1.6#
+27014#Carta Fumaça Verde#
+27015#Carta Robô Reparador Turbo#
+27016#Carta Robô Explorador Turbo#
+27017#Carta Robô de Sucata#
+27018#Carta GC109#
+27019#Carta DR815#
+27020#Carta T_W_O#
+4697#Carta Charleston 03#
+4698#Carta Roboring#
+4699#Carta Mecha v2.0#
+22508#Emblema do Éden#
+//*****************************************************
+//------------Aplicar em 2017-11-07--------------------
+//*****************************************************
+2047#Cajado#
+20908#Manto#
+19292#Equipamento para cabeça#
+31312#Equipamento Visual#
+31178#Equipamento Visual#
+19315#Equipamento para Cabeça#
+19291#Equipamento Visual#
+20909#Armadura#
+20514#Equipamento Visual#
+15254#Armadura#
+//*****************************************************
+//------------Aplicar em 2017-11-10--------------------
+//*****************************************************
+20806#Capa#
+19318#Equipamento para Cabeça#
+31152#Equipamento Visual#
+31331#Equipamento Visual#
+//*****************************************************
+//------------2017-11-21-------------------------------
+//*****************************************************
+28430#Acessório#
+31289#Equipamento Visual#
+31264#Equipamento Visual#
+19296#Equipamento para Cabeça#
+19316#Equipamento para Cabeça#
+31203#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-12-05--------------------
+//*****************************************************
+19924#Equipamento Visual#
+20300#Equipamento Visual#
+20098#Equipamento Visual#
+20401#Equipamento Visual#
+19915#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2017-12-12--------------------
+//*****************************************************
+20198#Equipamento Visual#
+20248#Equipamento Visual#
+20116#Equipamento Visual#
+19022#Equipamento para Cabeça#
+19306#Equipamento para Cabeça#
+//*****************************************************
+//------------Clock Tower Nightmare--------------------
+//*****************************************************
+2971#Acessório#
+16024#Maça#
+1668#Cajado#
+15089#Armadura#
+22515#Chave do Tempo Distorcido#
+18874#Equipamento para Cabeça#
+//*****************************************************
+//------------Clock Tower Nightmare Cards--------------
+//*****************************************************
+4625#Carta Vigia do Tempo#
+4626#Carta Marca-Tempo#
+4627#Carta Despertador#
+4628#Carta Neo Punk#
+4629#Carta Ancião Ancestral#
+4630#Carta Diretor#
+4631#Carta Visconde Coruja#
+4632#Carta Marquês Coruja#
+//*****************************************************
+//------------Aplicar em 2017-12-19--------------------
+//*****************************************************
+28521#Acessório#
+28572#Acessório#
+19083#Equipamento para Cabeça#
+20844#Capa#
+20457#Equipamento Visual#
+31383#Equipamento Visual#
+20433#Equipamento Visual#
+19956#Equipamento Visual#
+//*****************************************************
+//--------------ITENS DE NATAL 2017--------------------
+//*****************************************************
+20222#Equipamento Visual#
+31390#Equipamento Visual#
+11575#Biscoito da Sorte#
+11578#Pirulito de Bengala de Natal#
+11580#Bala Natalina#
+11581#Fatia de Bolo Natalino#
+23548#Doce de Gelo#
+23549#Biscoito do Snow#
+23550#Biscoito do Winter#
+23551#Biscoito da Festie#
+23552#Biscoito da Flora#
+23553#Caixa do Festival das Flores de Neve#
+//*****************************************************
+//------------Aplicar em 2018-01-02--------------------
+//*****************************************************
+22182#Calçado#
+15272#Armadura#
+//*****************************************************
+//------------Aplicar em 2018-01-09--------------------
+//*****************************************************
+28617#Livro#
+19145#Equipamento para Cabeça#
+//*****************************************************
+//------------Aplicar em 2018-01-16--------------------
+//*****************************************************
+28492#Acessório#
+28434#Acessório#
+31396#Equipamento Visual#
+31395#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2018-01-23--------------------
+//*****************************************************
+5878#Equipamento para Cabeça#
+19862#Equipamento Visual#
+31325#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2018-01-30--------------------
+//*****************************************************
+28564#Equipamento para Cabeça#
+20115#Equipamento Visual#
+31399#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2018-02-06--------------------
+//*****************************************************
+31108#Equipamento Visual#
+31109#Equipamento Visual#
+31110#Equipamento Visual#
+31111#Equipamento Visual#
+31112#Equipamento Visual#
+28517#Acessório#
+//*****************************************************
+//------------Aplicar em 2018-02-20--------------------
+//*****************************************************
+18741#Equipamento Visual#
+20395#Equipamento Visual#
+20145#Equipamento Visual#
+19668#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2018-02-27--------------------
+//*****************************************************
+28433#Acessório#
+18813#Equipamento pra Cabeça#
+20375#Equipamento Visual#
+19904#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2018-03-06--------------------
+//*****************************************************
+19098#Equipamento pra Cabeça#
+28901#Escudo#
+31193#Equipamento Visual#
+20506#Equipamento Visual#
+19269#Equipamento pra Cabeça#
+19097#Equipamento pra Cabeça#
+19299#Equipamento pra Cabeça#
+28902#Escudo#
+//*****************************************************
+//------------Aplicar em 2018-03-06--------------------
+//*****************************************************
+28437#Acessório#
+19575#Equipamento Visual#
+19104#Equipamento pra Cabeça#
+5897#Equipamento pra Cabeça#
+5898#Equipamento pra Cabeça#
+5899#Equipamento pra Cabeça#
+5901#Equipamento pra Cabeça#
+5902#Equipamento pra Cabeça#
+5904#Equipamento pra Cabeça#
+5906#Equipamento pra Cabeça#
+5907#Equipamento pra Cabeça#
+18791#Equipamento pra Cabeça#
+18794#Equipamento pra Cabeça#
+18795#Equipamento pra Cabeça#
+20440#Equipamento Visual#
+20328#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2018-03-20--------------------
+//*****************************************************
+20236#Equipamento Visual#
+31315#Equipamento Visual#
+31151#Equipamento Visual#
+20372#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2018-04-03--------------------
+//*****************************************************
+28927#Escudo#
+13465#Espada#
+31299#Equipamento Visual#
+31201#Equipamento Visual#
+20299#Equipamento Visual#
+20765#Equipamento Visual#
+24212#Calçado#
+24213#Escudo#
+24214#Calçado#
+24215#Escudo#
+24208#Calçado#
+24209#Escudo#
+28438#Acessório#
+31176#Equipamento Visual#
+31437#Equipamento Visual#
+22172#Calçado#
+2984#Acessório#
+//*****************************************************
+//------------Aplicar em 2018-04-03--------------------
+//*****************************************************
+31381#Equipamento Visual#
+31052#Equipamento Visual#
+20023#Equipamento Visual#
+12548#Licença Falsa de Loja#
+6377#Licença de Loja de Compras#
+//*****************************************************
+//------------Aplicar em 2018-05-03--------------------
+//*****************************************************
+5967#Equipamento pra Cabeça#
+19095#Equipamento pra Cabeça#
+31450#Equipamento Visual#
+31251#Equipamento Visual#
+20379#Equipamento Visual#
+19163#Equipamento pra Cabeça#
+15371#Armadura#
+5975#Equipamento pra Cabeça#
+//*****************************************************
+//------------Aplicar em 2018-05-08--------------------
+//*****************************************************
+31177#Equipamento Visual#
+31433#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2018-05-15--------------------
+//*****************************************************
+31435#Equipamento Visual#
+31332#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2018-05-23--------------------
+//*****************************************************
+31407#Equipamento Visual#
+31117#Equipamento Visual#
+31260#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2018-05-29--------------------
+//*****************************************************
+18959#Equipamento Visual#
+19294#Equipamento Visual#
+//*****************************************************
+//------------Aplicar em 2018-06-05--------------------
+//*****************************************************
+31451#Equipamento Visual#
+31474#Equipamento Visual#
+15136#Armadura#
+22070#Calçado#
+20517#Equipamento Visual#
+28534#Acessório#
+28535#Acessório#
+//*****************************************************
+//------------Aplicar em 2018-06-12--------------------
+//*****************************************************
+28737#Espada#
+19274#Equipamento pra Cabeça#
+19300#Equipamento pra Cabeça#
+31460#Equipamento Visual#
+//*****************************************************
+//--------------------REBELLION------------------------
+//*****************************************************
+13228#Projétil_de_Fogo#
+13229#Projétil_Relâmpago#
+13230#Projétil_Congelante#
+13231#Projétil_Venenoso#
+13232#Projétil_Cegante#
+13208#Tatu_Bola#
+13215#Projétil_Perfurador#
+13216#Projétil_Incandescente#
+13217#Projétil_Glacial#
+13218#Projétil_de_Eletrochoque#
+13219#Projétil_Tectônico#
+13220#Projétil_de_Purificação#
+13221#Projétil_de_Prata#
+13222#Projétil_Sanguinário#
+13223#Cápsula_de_Chamas_#
+13224#Cápsula_de_Relâmpagos#
+13225#Cápsula_Venenosa#
+13226#Cápsula_Cegante#
+13227#Cápsula_Congelante#
+13210#Munição_P#
+13213#Munição_SG#
+13212#Munição_G#
+13211#Munição_M#
+13214#Munição_XG#
+13200#Projétil#
+13201#Projétil_de_Prata_Excedente#
+13202#Projétil_Sanguinário_Excedente#
+13203#Cápsula_de_Chamas_Excedente#
+13204#Cápsula_de_Relâmpagos_Excedente#
+13205#Cápsula_Venenosa_Excedente#
+13206#Cápsula_Cegante_Excedente#
+13207#Cápsula_Congelante_Excedente#
+7663#Projétil_Revestido#
+7664#Granada_Aderente#
+7665#Míssil_Cauda_de_Dragão#
+6746#Fragmento_de_Ferro#
+6747#Fragmento_de_Aço#
+28201#Lança-granadas#
+28202#Lança-granadas#
+13120#Pistola#
+13122#Pistola#
+13189#Rifle#
+13190#Rifle#
+13192#Espingarda#
+13193#Espingarda#
+13194#Espingarda#
+13124#Pistola#
+13195#Rifle#
+13196#Espingarda#
+13197#Gatling#
+13198#Gatling#
+13199#Gatling#
+13118#Revólver#
+13119#Revólver#
+28200#Lança-granadas#
+23123#Cartucho_de_Projétil_de_Fogo#
+23124#Cartucho_de_Projétil_Relâmpago#
+23125#Cartucho_de_Projétil_Congelante#
+23126#Cartucho_de_Projétil_Venenoso#
+23127#Cartucho_de_Projétil_Cegante#
+22737#Cartucho_de_Projétil_Sanguinário#
+22738#Cartucho_de_Projétil_de_Prata#
+22739#Pacote_de_Cápsulas_de_Relâmpago#
+22740#Pacote_de_Cápsulas_Cegantes#
+22741#Pacote_de_Cápsulas_Venenosas#
+22742#Pacote_de_Cápsulas_Congelantes#
+22743#Pacote_de_Cápsulas_de_Chamas#
+22744#Cartucho_de_Projétil_Perfurador#
+22745#Cartucho_de_Projétil_Incandescente#
+22746#Cartucho_de_Projétil_Glacial#
+22747#Cartucho_de_Projétil_de_Eletrochoque#
+22748#Cartucho_de_Projétil_Tectônico#
+22749#Cartucho_de_Projétil_de_Purificação#
+22107#Calçado#
+22108#Calçado#
+22109#Calçado#
+22110#Calçado#
+22111#Calçado#
+22112#Calçado#
+22113#Calçado#
+22114#Calçado#
+22115#Calçado#
+22116#Calçado#
+22117#Calçado#
+22118#Calçado#
+13116#Pistola#
+13181#Espingarda#
+13182#Gatling#
+13183#Lança-granadas#
+13180#Rifle#
+25187#Projétil_Pesado#
+//*****************************************************
+//------------Aplicar em 2018-06-19--------------------
+//*****************************************************
+31048#Equipamento Visual#
+20048#Equipamento Visual#
+20212#Equipamento Visual#
+21042#Espada de Duas Mãos#
+15370#Equipamento pra Cabeça#
+//*****************************************************
+//------------Aplicar em 2018-06-26--------------------
+//*****************************************************
+19640#Equipamento Visual#
+31490#Equipamento Visual#
+31382#Equipamento Visual#
+13464#Espada#
+28379#Acessório#
+//*****************************************************
+//------------Aplicar em 2018-07-03--------------------
+//*****************************************************
+19612#Equipamento Visual#
+31027#Equipamento Visual#
+31493#Equipamento Visual#
+28502#Equipamento pra Cabeça#
+28947#Escudo#
+2979#Acessório#
+//*****************************************************
+//---------------QUEST DE CARNAVAL-2018----------------
+//*****************************************************
+2998#Acessório#
+18940#Equipamento pra Cabeça#
+18941#Equipamento pra Cabeça#
+18942#Equipamento pra Cabeça#
+18943#Equipamento pra Cabeça#
+22082#Equipamento pra Cabeça#
+28906#Equipamento pra Cabeça#
+28907#Equipamento pra Cabeça#
+28908#Equipamento pra Cabeça#
+28909#Equipamento pra Cabeça#
+25482#Cartão da Liga da Terra#
+25483#Cartão da Liga do Fogo#
+25484#Cartão da Liga da Água#
+25485#Cartão da Liga do Vento#
+25486#Insígnia do Orgulho Vermelho#
+25487#Insígnia do Orgulho Azul#
+25488#Insígnia do Orgulho Verde#
+25489#Insígnia do Orgulho Amarelo#
+22822#Bolsa com Roupa de Banho#
+//*****************************************************
+//------------Aplicar em 2018-07-10--------------------
+//*****************************************************
+31488#Equipamento Visual#
+31406#Equipamento Visual#
+15345#Armadura#
+19159#Equipamento pra Cabeça#
+28501#Acessório#
 //file end

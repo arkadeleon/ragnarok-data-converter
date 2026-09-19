@@ -1,0 +1,34 @@
+%faf0e6
+^000088- Receitas culinárias de nível 3 -^000000
+                                              ^800000Por Charles Orleans^000000
+
+^ff0000Bife Bombástico:^000000 FOR +3.
+Ingredientes:
+        ^0000ff1 Carne, 1 Frigideira Velha, 1 Erva Verde,^000000
+        ^0000ff1 Pimenta Vermelha, 1 Molho Picante^000000			
+
+^0000ffChá de Ervas e Mel:^000000 INT +3.
+Ingredientes:
+        ^0000ff1 Mel, 1 Erva Branca, 1 Condimento Amarelo^000000
+
+^800000Salada de Frutas:^000000 DES +3.
+Ingredientes:
+        ^0000ff1 Maçã, 1 Banana, 1 Laranja,^000000
+        ^0000ff1 Morango, 1 Condimento Amarelo^000000
+
+
+
+^008040Tentáculos Gratinados:^000000 AGI +3.
+Ingredientes:
+        ^0000ff1 Tentáculo, 1 Batata Doce Assada,^000000
+        ^0000ff1 Queijo, 1 Molho Doce^000000		
+		
+^ff8040Sopa de Ostra:^000000 VIT +3.
+Ingredientes:
+        ^0000ff1 Carne de Ostra, 1 Concha,^000000
+        ^0000ff1 Mel, 1 Molho Doce^000000	
+
+^400080Batata Doce Frita:^000000 SOR +3.
+Ingredientes:
+        ^0000ff1 Batata Doce, 1 Batata Doce Assada,^000000
+        ^0000ff1 Batata Assada, 1 Molho Doce^000000	
