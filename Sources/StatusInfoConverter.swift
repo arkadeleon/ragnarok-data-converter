@@ -35,10 +35,13 @@ struct StatusInfoConverter {
         function convert()
           local result = {}
           for statusID, value in pairs(StateIconList) do
-            local key = string.format("%04d", statusID)
-            result[key] = {
-              statusDescription = value["descript"][1][1]
-            }
+            local descript = value["descript"]
+            if descript and descript[1] and descript[1][1] then
+              local key = string.format("%04d", statusID)
+              result[key] = {
+                statusDescription = descript[1][1]
+              }
+            end
           end
         
           return dkjson.encode(result, { indent = true })

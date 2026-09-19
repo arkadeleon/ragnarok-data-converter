@@ -6,12 +6,6 @@ dew_fild01.rsw#デワタフィールド 01#
 dew_dun01.rsw#クラカト火山#
 dew_dun02.rsw#イスタナ洞窟#
 //----------------------------------------------------------
-jp_ev_map01.rsw#生物科[小]#
-jp_ev_map02.rsw#生物科・A棟[小]#
-jp_ev_map03.rsw#生物科・B棟[小]#
-jp_ev_map04.rsw#生物科・C棟[小]#
-jp_ev_map22.rsw#クリスマスパーティー会場#
-//----------------------------------------------------------
 hal10_jp01.rsw#ヘルヘイム学園#
 hal10_jp02.rsw#石炭採掘所#
 //----------------------------------------------------------
@@ -38,8 +32,6 @@ jp_ss_ev07.rsw#デリテリオのアジト#
 //----------------------------------------------------------
 s_atelier.rsw#影の工房#
 //----------------------------------------------------------
-ama_st1_a.rsw#ステージ1#
-ama_st1_b.rsw#ステージ1#
 ama_st1_c.rsw#ステージ1#
 ama_st1_d.rsw#ステージ1#
 ama_st2_a.rsw#ステージ3#
@@ -67,8 +59,6 @@ palace1.rsw#予選[B]1#
 castle1.rsw#決勝[C]1#
 casino1.rsw#決勝[D]1#
 sky1.rsw#決勝[E]1#
-//----------------------------------------------------------
-ama_in_jp.rsw#干支神の社#
 //----------------------------------------------------------
 gate_5.rsw#通路5#
 gate_6.rsw#通路6#
@@ -386,7 +376,6 @@ jp_dan09.rsw#地下大空洞09（蜃気楼の城）#
 jp_dan10.rsw#地下大空洞10（幻惑の森）#
 jp_dan11.rsw#地下大空洞11（原罪の空洞）#
 jp_dan12.rsw#地下大空洞12（最も深き空洞）#
-
 //----------------------------------------------------------
 jp_stage_a.rsw#ステージ#
 jp_castle.rsw#ハロウィーンの城#
@@ -395,16 +384,11 @@ jp_magic.rsw#魔法使いの家#
 jp_stage_b.rsw#ステージ#
 jp_dress_a.rsw#楽屋#
 jp_dress_b.rsw#楽屋#
-
 anothership.rsw#もうひとつの沈没船#
-
 //SpeedStar追加
-
 pvp_2vs2b.rsw#イベントホール#
 pvp_2vs2c.rsw#イベントホール#
-
 //RWC2007追加
-
 //2007rwc_r.rsw#RWC 待機室#
 //2007rwc_01.rsw#RWC#
 //2007rwc_02.rsw#RWC#
@@ -414,7 +398,6 @@ pvp_2vs2c.rsw#イベントホール#
 //2007rwc_06.rsw#RWC#
 //2007rwc_07.rsw#RWC#
 //2007rwc_08.rsw#RWC#
-
 //---------------Episode 11.2 Veins--------------------------
 veins.rsw#峡谷都市ベインス#
 ve_in.rsw#ベインス 室内#
@@ -431,7 +414,6 @@ que_thor.rsw#トール火山ダンジョン#
 thor_v01.rsw#トール火山ダンジョン 01#
 thor_v02.rsw#トール火山ダンジョン 02#
 thor_v03.rsw#トール火山ダンジョン 03#
-
 //---------------------Episode 11.1 Aruna felts_city of rachel--------------------------
 //06guild_r.rsw#ギルド対抗競技場 待合室#
 //06guild_01.rsw#ギルド対抗競技場 01#
@@ -449,15 +431,16 @@ ra_temin.rsw#フレイヤ大神殿 室内#
 que_rachel.rsw#フレイヤ大神殿 室内#
 ra_temsky.rsw#教皇執務室（空中庭園）#
 ra_fild01.rsw#ラヘルフィールド 01（アウドムラ草原）#
-ra_fild02.rsw#ラヘルフィールド 02（オズ狭谷）#
+ra_fild02.rsw#ラヘルフィールド 02（オズ峡谷）#
 ra_fild03.rsw#ラヘルフィールド 03（イダ平原）#
 ra_fild04.rsw#ラヘルフィールド 04（アウドムラ草原）#
 ra_fild05.rsw#ラヘルフィールド 05（アウドムラ草原）#
 ra_fild06.rsw#ラヘルフィールド 06（ポルトルナ）#
-ra_fild07.rsw#ラヘルフィールド 07（オズ狭谷）#
+ra_fild07.rsw#ラヘルフィールド 07（オズ峡谷）#
 ra_fild08.rsw#ラヘルフィールド 08（イダ平原）#
 ra_fild09.rsw#ラヘルフィールド 09（アウドムラ草原）#
-ra_fild10.rsw#ラヘルフィールド 10（オズ狭谷）#
+ra_fild10.rsw#ラヘルフィールド 10（オズ峡谷）#
+ra_fild11.rsw#ラヘルフィールド 11（イダ平原）#
 ra_fild12.rsw#ラヘルフィールド 12（イダ平原）#
 ra_fild13.rsw#ラヘルフィールド 13（涙の海岸）#
 ra_san01.rsw#フレイヤ大神殿聖域 01#
@@ -469,22 +452,8 @@ ice_dun01.rsw#氷の洞窟 01#
 ice_dun02.rsw#氷の洞窟 02#
 ice_dun03.rsw#氷の洞窟 03#
 ice_dun04.rsw#氷の洞窟 04#
-
 //RJC2007追加
-guild_vs2pa.rsw#プロンテラ Aルーム#
-guild_vs2pb.rsw#プロンテラ Bルーム#
-guild_vs2pc.rsw#プロンテラ Cルーム#
-guild_vs2ia.rsw#イズルード Aルーム#
-guild_vs2ib.rsw#イズルード Bルーム#
-guild_vs2ic.rsw#イズルード Cルーム#
-guild_vs2ga.rsw#ゲフェン Aルーム#
-guild_vs2gb.rsw#ゲフェン Bルーム#
-guild_vs2gc.rsw#ゲフェン Cルーム#
-guild_vs2ma.rsw#モロク Aルーム#
-guild_vs2mb.rsw#モロク Bルーム#
-guild_vs2mc.rsw#モロク Cルーム#
 //rwc01.rsw#RJC決勝会場#
-
 //フィゲルVer.
 auction_01.rsw#競売会場 01#
 auction_02.rsw#競売会場 02#
@@ -512,7 +481,6 @@ p_track02.rsw#モンスターレース会場 02#
 que_bingo.rsw#ビンゴゲーム会場#
 que_hugel.rsw#オーディン神殿地下#
 yuno_fild10.rsw#ジュノーフィールド 10#
-
 //ノーグハルトVer.
 abyss_01.rsw#アビスレイク地下洞窟 01#
 abyss_02.rsw#アビスレイク地下洞窟 02#
@@ -588,9 +556,7 @@ einbech.rsw#採鉱の村アインベフ#
 einbroch.rsw#鋼鉄の都市アインブロック#
 force_1-1.rsw#タイムアタックモード 1-1#
 force_1-2.rsw#タイムアタックモード 1-2#
-force_1-3.rsw#タイムアタックモード 1-3#
 force_2-1.rsw#タイムアタックモード 2-1#
-force_2-2.rsw#タイムアタックモード 2-2#
 force_2-3.rsw#タイムアタックモード 2-3#
 force_3-1.rsw#タイムアタックモード 3-1#
 force_3-2.rsw#タイムアタックモード 3-2#
@@ -660,8 +626,6 @@ guild_room.rsw#ギルドコロシアム 控室#
 guild_vs1.rsw#ギルドコロシアム 1#
 guild_vs2.rsw#ギルドコロシアム 2#
 guild_vs2-2.rsw#ギルドコロシアム 2-2#
-guild_vs3.rsw#ギルドコロシアム 3#
-guild_vs4.rsw#ギルドコロシアム 4#
 guild_vs5.rsw#不思議な空間前#
 himinn.rsw#ヴァルキリー神殿（ヒミン）#
 hu_fild01.rsw#フィゲルフィールド 01（タナトスタワー）#
@@ -812,15 +776,12 @@ orcsdun02.rsw#オーク地下洞窟 02#
 ordeal_1-1.rsw#バトルオディールモード 1-1#
 ordeal_1-2.rsw#バトルオディールモード 1-2#
 ordeal_1-3.rsw#バトルオディールモード 1-3#
-ordeal_1-4.rsw#バトルオディールモード 1-4#
 ordeal_2-1.rsw#バトルオディールモード 2-1#
 ordeal_2-2.rsw#バトルオディールモード 2-2#
 ordeal_2-3.rsw#バトルオディールモード 2-3#
-ordeal_2-4.rsw#バトルオディールモード 2-4#
 ordeal_3-1.rsw#バトルオディールモード 3-1#
 ordeal_3-2.rsw#バトルオディールモード 3-2#
 ordeal_3-3.rsw#バトルオディールモード 3-3#
-ordeal_3-4.rsw#バトルオディールモード 3-4#
 pay_arche.rsw#フェイヨン弓手村#
 pay_dun00.rsw#フェイヨン地下洞窟 B1F#
 pay_dun01.rsw#フェイヨン地下洞窟 B2F#
@@ -854,7 +815,6 @@ priest_3-1.rsw#プリースト転職所 3-1#
 prontera.rsw#ルーンミッドガッツ王国の首都プロンテラ#
 prt_are_in.rsw#アリーナ待機室#
 prt_are01.rsw#アリーナ#
-prt_arena01.rsw#アリーナ#
 prt_castle.rsw#プロンテラ城内#
 prt_church.rsw#プロンテラ聖堂内#
 prt_fild00.rsw#プロンテラフィールド 00#
@@ -885,7 +845,6 @@ prtg_cas03.rsw#ヴァルキリーレルム 砦3#
 prtg_cas04.rsw#ヴァルキリーレルム 砦4#
 prtg_cas05.rsw#ヴァルキリーレルム 砦5#
 pvp_2vs2.rsw#PvP : イベントホール#
-pvp_c_room.rsw#PvP : 控え室#
 pvp_n_1-1.rsw#PvP : 南北戦争#
 pvp_n_1-2.rsw#PvP : ロックオン#
 pvp_n_1-3.rsw#PvP : フォールーム#
@@ -975,8 +934,6 @@ quiz_01.rsw#クイズ会場 01#
 sec_in01.rsw#検証用マップ1#
 sec_in02.rsw#検証用マップ2#
 sec_pri.rsw#調査用マップ#
-sword_1-1.rsw#剣士転職所 1-1#
-sword_2-1.rsw#剣士転職所 2-1#
 sword_3-1.rsw#剣士転職所 3-1#
 tha_t01.rsw#タナトスタワー下層部 01#
 tha_t02.rsw#タナトスタワー下層部 02#
@@ -1055,20 +1012,6 @@ ama_st2a_d.rsw#ステージ2#
 jp_ev_s01.rsw#絆の部屋#
 jp_ev_s02.rsw#パーティー支援会場#
 //----------------------------------------------------------
-jp_ev_cas01.rsw#モンスターギルドの砦#
-jp_ev_cas02.rsw#モンスターギルドの砦#
-jp_ev_cas03.rsw#モンスターギルドの砦#
-jp_ev_cas04.rsw#モンスターギルドの砦#
-jp_ev_cas05.rsw#モンスターギルドの砦#
-jp_ev_cas06.rsw#モンスターギルドの砦#
-jp_ev_cas11.rsw#モンスターギルドの砦#
-jp_ev_cas12.rsw#モンスターギルドの砦#
-jp_ev_cas13.rsw#モンスターギルドの砦#
-jp_ev_cas14.rsw#モンスターギルドの砦#
-jp_ev_cas15.rsw#モンスターギルドの砦#
-jp_ev_cas16.rsw#モンスターギルドの砦#
-jp_ev_cas21.rsw#モンスターギルドの砦#
-jp_ev_cas22.rsw#モンスターギルドの砦#
 jp_ev_cas23.rsw#モンスターギルドの砦#
 jp_ev_cas24.rsw#モンスターギルドの砦#
 jp_ev_cas25.rsw#モンスターギルドの砦#
@@ -1120,98 +1063,6 @@ mora.rsw#レシア族の街 モーラ#
 1@ravi.rsw#ラヴィーネ山脈01#
 2@ravi.rsw#ラヴィーネ山脈02#
 //----------------------------------------------------------
-prt_gld01.rsw#ヴァルキリーレルム 砦前1#
-prt_gld02.rsw#ヴァルキリーレルム 砦前2#
-prt_gld03.rsw#ヴァルキリーレルム 砦前3#
-prt_gld04.rsw#ヴァルキリーレルム 砦前4#
-prt_gld05.rsw#ヴァルキリーレルム 砦前5#
-gef_fild15.rsw#ブリトニア 砦前1#
-gef_fild16.rsw#ブリトニア 砦前2#
-gef_fild17.rsw#ブリトニア 砦前3#
-gef_fild18.rsw#ブリトニア 砦前4#
-gef_fild19.rsw#ブリトニア 砦前5#
-alde_gld01.rsw#ルイーナ 砦前1#
-alde_gld02.rsw#ルイーナ 砦前2#
-alde_gld03.rsw#ルイーナ 砦前3#
-alde_gld04.rsw#ルイーナ 砦前4#
-alde_gld05.rsw#ルイーナ 砦前5#
-pay_gld01.rsw#チュンリム湖 砦前1#
-pay_gld02.rsw#チュンリム湖 砦前2#
-pay_gld03.rsw#チュンリム湖 砦前3#
-pay_gld04.rsw#チュンリム湖 砦前4#
-pay_gld05.rsw#チュンリム湖 砦前5#
-aru_gld01.rsw#ヴァルフレイヤ 砦前1#
-aru_gld02.rsw#ヴァルフレイヤ 砦前2#
-aru_gld03.rsw#ヴァルフレイヤ 砦前3#
-aru_gld04.rsw#ヴァルフレイヤ 砦前4#
-aru_gld05.rsw#ヴァルフレイヤ 砦前5#
-sch_gld01.rsw#ニダヴェリール 砦前1#
-sch_gld02.rsw#ニダヴェリール 砦前2#
-sch_gld03.rsw#ニダヴェリール 砦前3#
-sch_gld04.rsw#ニダヴェリール 砦前4#
-sch_gld05.rsw#ニダヴェリール 砦前5#
-geffen01.rsw#ベースキャンプ#
-geffen02.rsw#ベースキャンプ#
-geffen03.rsw#ベースキャンプ#
-geffen04.rsw#ベースキャンプ#
-geffen05.rsw#ベースキャンプ#
-geffen06.rsw#ベースキャンプ#
-geffen07.rsw#ベースキャンプ#
-geffen08.rsw#ベースキャンプ#
-geffen09.rsw#ベースキャンプ#
-geffen10.rsw#ベースキャンプ#
-geffen11.rsw#ベースキャンプ#
-geffen12.rsw#ベースキャンプ#
-geffen13.rsw#ベースキャンプ#
-geffen14.rsw#ベースキャンプ#
-geffen15.rsw#ベースキャンプ#
-geffen16.rsw#ベースキャンプ#
-geffen17.rsw#ベースキャンプ#
-geffen18.rsw#ベースキャンプ#
-geffen19.rsw#ベースキャンプ#
-geffen20.rsw#ベースキャンプ#
-geffen21.rsw#ベースキャンプ#
-geffen22.rsw#ベースキャンプ#
-geffen23.rsw#ベースキャンプ#
-geffen24.rsw#ベースキャンプ#
-geffen25.rsw#ベースキャンプ#
-battle01.rsw#戦闘可能エリア#
-battle02.rsw#戦闘可能エリア#
-battle03.rsw#戦闘可能エリア#
-battle04.rsw#戦闘可能エリア#
-battle05.rsw#戦闘可能エリア#
-battle06.rsw#戦闘可能エリア#
-battle07.rsw#戦闘可能エリア#
-battle08.rsw#戦闘可能エリア#
-battle09.rsw#戦闘可能エリア#
-battle10.rsw#戦闘可能エリア#
-battle11.rsw#戦闘可能エリア#
-battle12.rsw#戦闘可能エリア#
-battle13.rsw#戦闘可能エリア#
-battle14.rsw#戦闘可能エリア#
-battle15.rsw#戦闘可能エリア#
-battle16.rsw#戦闘可能エリア#
-battle17.rsw#戦闘可能エリア#
-battle18.rsw#戦闘可能エリア#
-battle19.rsw#戦闘可能エリア#
-battle20.rsw#戦闘可能エリア#
-battle21.rsw#戦闘可能エリア#
-battle22.rsw#戦闘可能エリア#
-battle23.rsw#戦闘可能エリア#
-battle24.rsw#戦闘可能エリア#
-battle25.rsw#戦闘可能エリア#
-jp_ev_map34.rsw#天空庭園[高]#
-//jp_ev_map35.rsw#飛行船グレート・アンビシャス#
-//jp_ev_map36.rsw#飛行船グレート・アンビシャス#
-//jp_ev_map37.rsw#キッコ・モストロ#
-//jp_ev_map38.rsw#コモド室内#
-//jp_ev_map40.rsw#飛行船グレート・アンビシャス#
-//jp_ev_map41.rsw#飛行船乗り場#
-jp_ev_map42.rsw#ロックスター図書館#
-//jp_ev_map43.rsw#貴族の屋敷#
-//jp_ev_map44.rsw#貴族の屋敷#
-jp_ev_map45.rsw#砲撃ゲーム会場03#
-//----------------------------------------------------------
 prtj_cas01.rsw#モデルヴァルキリーレルム／グロリア 砦1#
 prtj_cas02.rsw#モデルヴァルキリーレルム／グロリア 砦2#
 prtj_cas03.rsw#モデルヴァルキリーレルム／グロリア 砦3#
@@ -1243,8 +1094,6 @@ schj_cas03.rsw#モデルニダヴェリール 砦3#
 schj_cas04.rsw#モデルニダヴェリール 砦4#
 schj_cas05.rsw#モデルニダヴェリール 砦5#
 //----------------------------------------------------------
-jp_ev_map48.rsw#星の魔女の祭壇#
-//----------------------------------------------------------
 b_labo.rsw#ビュート教授の研究室#
 malangdo.rsw#マラン島#
 mal_in01.rsw#マラン島 室内#
@@ -1253,7 +1102,7 @@ mal_dun01.rsw#星明りの珊瑚礁#
 1@cash.rsw#暴窟王の洞窟#
 //------------------------------------------------
 jp_ev_alb3.rsw#港の都市アルベルタ(丑三つ時)#
-jp_ev_alb4.rsw#港の都市アルベルタ(朝焼け時)#
+jp_ev_alb4.rsw#港エリア 釣りスポット#
 //------------------------------------------------
 lhz_dun04.rsw#生体工学研究所 04#
 que_lhz.rsw#生体工学研究所#
@@ -1304,36 +1153,12 @@ gbt_map01.rsw#ワールド対抗戦優勝マップ01#
 gbt_map02.rsw#ワールド対抗戦優勝マップ02#
 gbt_map03.rsw#ワールド対抗戦準優勝マップ01#
 //------------------------------------------------
-moonfield01.rsw#月面#
-moonfield02.rsw#月面#
-moonfield03.rsw#月面#
-moonfield04.rsw#裏月面#
-moonfield05.rsw#裏月面#
-moonfield06.rsw#裏月面#
-//------------------------------------------------
 hallow_01.rsw#ハロウィンパーティー会場#
 egg_hunt01.rsw#卵狩り農場#
 egg_hunt02.rsw#卵狩り農場#
 egg_hunt03.rsw#卵狩り農場#
 egg_hunt04.rsw#卵狩り農場#
 egg_hunt05.rsw#卵狩り農場#
-//------------------------------------------------
-jp_ev_map50.rsw#アニバーサリー会場#
-jp_ev_map52.rsw#封印の地#
-jp_ev_map53.rsw#星明りの珊瑚礁#
-//------------------------------------------------
-ad_island.rsw#アドベンチャーズタワー特設会場#
-1@adt.rsw#アドベンチャーズタワー鍛錬の塔 1～25F#
-2@adt.rsw#アドベンチャーズタワー鍛錬の塔 26～49F#
-3@adt.rsw#アドベンチャーズタワー挑戦の塔 1～25F#
-4@adt.rsw#アドベンチャーズタワー挑戦の塔 26～49F#
-5@adt.rsw#アドベンチャーズタワー鍛錬の塔 50F#
-6@adt.rsw#アドベンチャーズタワー鍛錬の塔 最上階#
-7@adt.rsw#アドベンチャーズタワー鍛錬の塔 頂上#
-//------------------------------------------------
-jp_ev_map54.rsw#占領されたおもちゃ工場#
-jp_ev_map55.rsw#おもちゃ工場制御室#
-jp_ev_map56.rsw#特設撮影会場#
 //------------------------------------------------
 gbt_int_map.rsw#インタビュー会場#
 //------------------------------------------------
@@ -1365,72 +1190,16 @@ te_aldecas4.rsw#ビニット#
 te_aldecas5.rsw#Ｗ#
 teg_dun02.rsw#ギルドダンジョン カプラガーデン#
 //------------------------------------------------
-jp_ev_map57.rsw#プロンテラ地下水路#
-//------------------------------------------------
-geffen101.rsw#ベースキャンプ 新攻城戦用#
-geffen102.rsw#ベースキャンプ 新攻城戦用#
-geffen103.rsw#ベースキャンプ 新攻城戦用#
-geffen104.rsw#ベースキャンプ 新攻城戦用#
-geffen105.rsw#ベースキャンプ 新攻城戦用#
-geffen106.rsw#ベースキャンプ 新攻城戦用#
-geffen107.rsw#ベースキャンプ 新攻城戦用#
-geffen108.rsw#ベースキャンプ 新攻城戦用#
-geffen109.rsw#ベースキャンプ 新攻城戦用#
-geffen110.rsw#ベースキャンプ 新攻城戦用#
-geffen111.rsw#ベースキャンプ 新攻城戦用#
-geffen112.rsw#ベースキャンプ 新攻城戦用#
-geffen113.rsw#ベースキャンプ 新攻城戦用#
-geffen114.rsw#ベースキャンプ 新攻城戦用#
-geffen115.rsw#ベースキャンプ 新攻城戦用#
-//------------------------------------------------
-battle101.rsw#戦闘可能エリア#
-battle102.rsw#戦闘可能エリア#
-battle103.rsw#戦闘可能エリア#
-battle104.rsw#戦闘可能エリア#
-battle105.rsw#戦闘可能エリア#
-battle106.rsw#戦闘可能エリア#
-battle107.rsw#戦闘可能エリア#
-battle108.rsw#戦闘可能エリア#
-battle109.rsw#戦闘可能エリア#
-battle110.rsw#戦闘可能エリア#
-battle111.rsw#戦闘可能エリア#
-battle112.rsw#戦闘可能エリア#
-battle113.rsw#戦闘可能エリア#
-battle114.rsw#戦闘可能エリア#
-battle115.rsw#戦闘可能エリア#
-//------------------------------------------------
 gl_cas02_.rsw#悪夢のグラストヘイム古城2F#
 gl_chyard_.rsw#悪夢のグラストヘイムカタコンベ#
 2@gl_k.rsw#古の騎士団02#
 1@gl_k.rsw#古の騎士団01#
 //------------------------------------------------
-masters01.rsw#対戦会場#
-masters02.rsw#対戦会場#
-masters_st.rsw#待機室#
-masters_st2.rsw#待機室#
-masters_ex.rsw#RBR体験会場#
-masters_w1.rsw#エントリルーム#
-masters_w2.rsw#エントリルーム#
-masters_w3.rsw#エントリルーム#
-masters_e1.rsw#試合会場#
-masters_e2.rsw#試合会場#
-masters_e3.rsw#試合会場#
-masters_e4.rsw#試合会場#
-masters_sta.rsw#待機室#
-masters_stb.rsw#待機室#
-masters_stc.rsw#待機室#
-masters_re.rsw#試合会場出口#
-mas_pra01.rsw#訓練室#
-mas_pra02.rsw#訓練室#
-masters_new.gat#RBR体験会場入口#
-//------------------------------------------------
-gate_in.rsw#餅つき会場#
 magic_gate1.rsw#式神の廻廊#
 magic_gate2.rsw#式神の廻廊#
 magic_gate3.rsw#式神の廻廊#
 magic_gate4.rsw#式神の廻廊#
 magic_gate5.rsw#式神の廻廊#
-1@mag.rsw#式神の廻廊#
 //------------------------------------------------
 eclage.rsw#ラフィネ族の首都 エクラージュ#
 ecl_fild01.rsw#花が咲き始めた大地#
@@ -1450,61 +1219,6 @@ prt_fild08b.rsw#プロンテラフィールド 08(夕暮れ時)#
 prt_fild08c.rsw#プロンテラフィールド 08(丑三つ時)#
 prt_fild08d.rsw#プロンテラフィールド 08(夜明け前)#
 prt_fild08e.rsw#プロンテラフィールド 08(朝焼け時)#
-//------------------------------------------------
-clone_brei1.rsw#クローンスキル調整室1#
-clone_brei2.rsw#クローンスキル調整室2#
-clone_brei3.rsw#クローンスキル調整室3#
-clone_brei4.rsw#クローンスキル調整室4#
-clone_brei5.rsw#クローンスキル調整室5#
-//------------------------------------------------
-time_01.rsw#タイムアタック01#
-time_02.rsw#タイムアタック02#
-time_03.rsw#タイムアタック03#
-time_04.rsw#タイムアタック04#
-time_res01.rsw#終了待機室01#
-time_res02.rsw#終了待機室02#
-time_res03.rsw#終了待機室03#
-time_res04.rsw#終了待機室04#
-time_wa.rsw#タイムアタック待合室#
-ko_start1.rsw#影狼・朧の隠れ里#
-ko_start2.rsw#影狼・朧の隠れ里#
-ko_start3.rsw#影狼・朧の隠れ里#
-ko_start4.rsw#影狼・朧の隠れ里#
-ko_start5.rsw#影狼・朧の隠れ里#
-amatsu_ko.rsw#泉水の国アマツ#
-amatsu_k2.rsw#泉水の国アマツ(夜)#
-//------------------------------------------------
-time_05.rsw#タイムアタック05#
-time_06.rsw#タイムアタック06#
-time_07.rsw#タイムアタック07#
-time_08.rsw#タイムアタック08#
-time_res05.rsw#終了待機室05#
-time_res06.rsw#終了待機室06#
-time_res07.rsw#終了待機室07#
-time_res08.rsw#終了待機室08#
-time_wa2.rsw#タイムアタック待合室2#
-time_09.rsw#タイムアタック09#
-time_10.rsw#タイムアタック10#
-time_11.rsw#タイムアタック11#
-time_12.rsw#タイムアタック12#
-time_13.rsw#タイムアタック13#
-time_14.rsw#タイムアタック14#
-time_15.rsw#タイムアタック15#
-time_16.rsw#タイムアタック16#
-time_res09.rsw#終了待機室09#
-time_res10.rsw#終了待機室10#
-time_res11.rsw#終了待機室11#
-time_res12.rsw#終了待機室12#
-time_res13.rsw#終了待機室13#
-time_res14.rsw#終了待機室14#
-time_res15.rsw#終了待機室15#
-time_res16.rsw#終了待機室16#
-time_wa3.rsw#タイムアタック待合室3#
-time_wa4.rsw#タイムアタック待合室4#
-//------------------------------------------------
-jp_ev_map58.rsw#キャンプ場#
-jp_ev_map59.rsw#ボンバスガーデン01#
-jp_ev_map60.rsw#ボンバスガーデン02#
 //------------------------------------------------
 monbt1_a0.rsw#突入待機地点　エリアA1#
 monbt1_a1.rsw#第1作戦エリア#
@@ -1666,7 +1380,6 @@ monbt1_p6.rsw#第6作戦エリア#
 monbt1_p7.rsw#第7作戦エリア#
 monbt1_p8.rsw#第8作戦エリア#
 monbt1_p9.rsw#第9作戦エリア#
-
 monbt2_a0.rsw#突入待機地点　エリアA2#
 monbt2_a1.rsw#第1作戦エリア#
 monbt2_a2.rsw#第2作戦エリア#
@@ -1830,301 +1543,14 @@ monbt2_p9.rsw#第9作戦エリア#
 //------------------------------------------------
 job_ko.rsw#隠された場所#
 //------------------------------------------------
-jp_bweek01.rsw#修道院っぽい所 01#
-jp_bweek02.rsw#修道院っぽい所 02#
-jp_bweek03.rsw#修道院っぽい所 03#
-jp_bweek04.rsw#未知の扉の先#
-jp_bweek05.rsw#未知の扉の先#
-jp_bweek06.rsw#来光の扉の先#
-jp_bweek07.rsw#魔王の気配がしない次元の狭間 02#
-//------------------------------------------------
-wnb_s_01.rsw#準備会場1#
-wnb_s_02.rsw#準備会場2#
-wnb_s_03.rsw#準備会場3#
-wnb_s_04.rsw#準備会場4#
-wnb_s_05.rsw#準備会場5#
-wnb_g_01.rsw#ギルド待機室#
-wnb_g_02.rsw#一時待機室#
-wnb_b_01.rsw#武道会場(プロンテラ)#
-wnb_b_02.rsw#武道会場(フェイヨン)#
-wnb_b_03.rsw#武道会場(アルベルタ)#
-wnb_b_04.rsw#武道会場(アルデバラン)#
-wnb_b_05.rsw#武道会場(共通)#
-//------------------------------------------------
 jp_ev_rob31.rsw#騎士団集合地点#
 sbat_gra.rsw#模擬演習場 地上#
 sbat_in.rsw#模擬演習場 室内#
-sbat_map_b.rsw#模擬演習場 地下B#
-sbat_map_d.rsw#模擬演習場 地下D#
-sbat_map_e.rsw#模擬演習場 地下E#
-sbat_map_i.rsw#模擬演習場 地下I#
-sbat_map_p.rsw#模擬演習場 室内地下P#
-sbat_map_s.rsw#模擬演習場 室内地下S#
-sbat_map_u.rsw#模擬演習場 室内地下U#
 sbat_map_v.rsw#模擬演習場 室内地下V#
 sbat_map_w.rsw#模擬演習場 室内地下W#
 sbat_goal01.rsw#模擬演習場 深部#
 sbat_goal02.rsw#模擬演習場 深部#
 sbat_goal03.rsw#模擬演習場 深部#
-//------------------------------------------------
-aru_cas0101.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0102.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0103.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0104.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0105.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0106.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0107.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0108.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0109.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0110.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0111.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0112.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0113.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0114.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0115.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0116.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0117.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0118.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0119.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0120.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0121.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0122.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0123.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0124.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0125.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0126.rsw#モデルヴァルフレイヤ 砦1#
-aru_cas0127.rsw#モデルヴァルフレイヤ 砦1#
-
-aru_cas0501.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0502.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0503.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0504.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0505.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0506.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0507.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0508.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0509.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0510.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0511.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0512.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0513.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0514.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0515.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0516.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0517.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0518.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0519.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0520.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0521.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0522.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0523.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0524.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0525.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0526.rsw#モデルヴァルフレイヤ 砦5#
-aru_cas0527.rsw#モデルヴァルフレイヤ 砦5#
-
-sch_cas0201.rsw#モデルニダヴェリール 砦2#
-sch_cas0202.rsw#モデルニダヴェリール 砦2#
-sch_cas0203.rsw#モデルニダヴェリール 砦2#
-sch_cas0204.rsw#モデルニダヴェリール 砦2#
-sch_cas0205.rsw#モデルニダヴェリール 砦2#
-sch_cas0206.rsw#モデルニダヴェリール 砦2#
-sch_cas0207.rsw#モデルニダヴェリール 砦2#
-sch_cas0208.rsw#モデルニダヴェリール 砦2#
-sch_cas0209.rsw#モデルニダヴェリール 砦2#
-sch_cas0210.rsw#モデルニダヴェリール 砦2#
-sch_cas0211.rsw#モデルニダヴェリール 砦2#
-sch_cas0212.rsw#モデルニダヴェリール 砦2#
-sch_cas0213.rsw#モデルニダヴェリール 砦2#
-sch_cas0214.rsw#モデルニダヴェリール 砦2#
-sch_cas0215.rsw#モデルニダヴェリール 砦2#
-sch_cas0216.rsw#モデルニダヴェリール 砦2#
-sch_cas0217.rsw#モデルニダヴェリール 砦2#
-sch_cas0218.rsw#モデルニダヴェリール 砦2#
-sch_cas0219.rsw#モデルニダヴェリール 砦2#
-sch_cas0220.rsw#モデルニダヴェリール 砦2#
-sch_cas0221.rsw#モデルニダヴェリール 砦2#
-sch_cas0222.rsw#モデルニダヴェリール 砦2#
-sch_cas0223.rsw#モデルニダヴェリール 砦2#
-sch_cas0224.rsw#モデルニダヴェリール 砦2#
-sch_cas0225.rsw#モデルニダヴェリール 砦2#
-sch_cas0226.rsw#モデルニダヴェリール 砦2#
-sch_cas0227.rsw#モデルニダヴェリール 砦2#
-
-sch_cas0501.rsw#モデルニダヴェリール 砦5#
-sch_cas0502.rsw#モデルニダヴェリール 砦5#
-sch_cas0503.rsw#モデルニダヴェリール 砦5#
-sch_cas0504.rsw#モデルニダヴェリール 砦5#
-sch_cas0505.rsw#モデルニダヴェリール 砦5#
-sch_cas0506.rsw#モデルニダヴェリール 砦5#
-sch_cas0507.rsw#モデルニダヴェリール 砦5#
-sch_cas0508.rsw#モデルニダヴェリール 砦5#
-sch_cas0509.rsw#モデルニダヴェリール 砦5#
-sch_cas0510.rsw#モデルニダヴェリール 砦5#
-sch_cas0511.rsw#モデルニダヴェリール 砦5#
-sch_cas0512.rsw#モデルニダヴェリール 砦5#
-sch_cas0513.rsw#モデルニダヴェリール 砦5#
-sch_cas0514.rsw#モデルニダヴェリール 砦5#
-sch_cas0515.rsw#モデルニダヴェリール 砦5#
-sch_cas0516.rsw#モデルニダヴェリール 砦5#
-sch_cas0517.rsw#モデルニダヴェリール 砦5#
-sch_cas0518.rsw#モデルニダヴェリール 砦5#
-sch_cas0519.rsw#モデルニダヴェリール 砦5#
-sch_cas0520.rsw#モデルニダヴェリール 砦5#
-sch_cas0521.rsw#モデルニダヴェリール 砦5#
-sch_cas0522.rsw#モデルニダヴェリール 砦5#
-sch_cas0523.rsw#モデルニダヴェリール 砦5#
-sch_cas0524.rsw#モデルニダヴェリール 砦5#
-sch_cas0525.rsw#モデルニダヴェリール 砦5#
-sch_cas0526.rsw#モデルニダヴェリール 砦5#
-sch_cas0527.rsw#モデルニダヴェリール 砦5#
-
-geffen26.rsw#ベースキャンプ#
-geffen27.rsw#ベースキャンプ#
-
-geffen116.rsw#ベースキャンプ 新攻城戦用#
-geffen117.rsw#ベースキャンプ 新攻城戦用#
-geffen118.rsw#ベースキャンプ 新攻城戦用#
-geffen119.rsw#ベースキャンプ 新攻城戦用#
-geffen120.rsw#ベースキャンプ 新攻城戦用#
-geffen121.rsw#ベースキャンプ 新攻城戦用#
-geffen122.rsw#ベースキャンプ 新攻城戦用#
-geffen123.rsw#ベースキャンプ 新攻城戦用#
-geffen124.rsw#ベースキャンプ 新攻城戦用#
-geffen125.rsw#ベースキャンプ 新攻城戦用#
-geffen126.rsw#ベースキャンプ 新攻城戦用#
-geffen127.rsw#ベースキャンプ 新攻城戦用#
-
-battle26.rsw#戦闘可能エリア#
-battle27.rsw#戦闘可能エリア#
-
-battle116.rsw#戦闘可能エリア#
-battle117.rsw#戦闘可能エリア#
-battle118.rsw#戦闘可能エリア#
-battle119.rsw#戦闘可能エリア#
-battle120.rsw#戦闘可能エリア#
-battle121.rsw#戦闘可能エリア#
-battle122.rsw#戦闘可能エリア#
-battle123.rsw#戦闘可能エリア#
-battle124.rsw#戦闘可能エリア#
-battle125.rsw#戦闘可能エリア#
-battle126.rsw#戦闘可能エリア#
-battle127.rsw#戦闘可能エリア#
-
-center01.rsw#中間マップ#
-center02.rsw#中間マップ#
-center03.rsw#中間マップ#
-center04.rsw#中間マップ#
-center05.rsw#中間マップ#
-center06.rsw#中間マップ#
-center07.rsw#中間マップ#
-center08.rsw#中間マップ#
-center09.rsw#中間マップ#
-center10.rsw#中間マップ#
-center11.rsw#中間マップ#
-center12.rsw#中間マップ#
-center13.rsw#中間マップ#
-center14.rsw#中間マップ#
-center15.rsw#中間マップ#
-center16.rsw#中間マップ#
-center17.rsw#中間マップ#
-center18.rsw#中間マップ#
-center19.rsw#中間マップ#
-center20.rsw#中間マップ#
-center21.rsw#中間マップ#
-center22.rsw#中間マップ#
-center23.rsw#中間マップ#
-center24.rsw#中間マップ#
-center25.rsw#中間マップ#
-center26.rsw#中間マップ#
-center27.rsw#中間マップ#
-
-center101.rsw#中間マップ#
-center102.rsw#中間マップ#
-center103.rsw#中間マップ#
-center104.rsw#中間マップ#
-center105.rsw#中間マップ#
-center106.rsw#中間マップ#
-center107.rsw#中間マップ#
-center108.rsw#中間マップ#
-center109.rsw#中間マップ#
-center110.rsw#中間マップ#
-center111.rsw#中間マップ#
-center112.rsw#中間マップ#
-center113.rsw#中間マップ#
-center114.rsw#中間マップ#
-center115.rsw#中間マップ#
-center116.rsw#中間マップ#
-center117.rsw#中間マップ#
-center118.rsw#中間マップ#
-center119.rsw#中間マップ#
-center120.rsw#中間マップ#
-center121.rsw#中間マップ#
-center122.rsw#中間マップ#
-center123.rsw#中間マップ#
-center124.rsw#中間マップ#
-center125.rsw#中間マップ#
-center126.rsw#中間マップ#
-center127.rsw#中間マップ#
-//------------------------------------------------
-ev_city.rsw#トロピカルアイランド#
-ev_skill_1.rsw#スキル練習ルーム1#
-ev_skill_2.rsw#スキル練習ルーム2#
-ev_skill_3.rsw#スキル練習ルーム3#
-ev_job_rg.rsw#職業訓練場#
-ev_job_sr.rsw#職業訓練場#
-ev_job_sc.rsw#職業訓練場#
-ev_job_rn.rsw#職業訓練場#
-ev_job_so.rsw#職業訓練場#
-ev_job_mn.rsw#職業訓練場#
-ev_job_gt.rsw#職業訓練場#
-ev_job_ab.rsw#職業訓練場#
-ev_start_1.rsw#はじまりの島#
-ev_start_2.rsw#はじまりの島#
-ev_start_3.rsw#はじまりの島#
-ev_start_4.rsw#はじまりの島#
-ev_start_5.rsw#はじまりの島#
-ev_clone.rsw#クローン・リプロデュース習得スキル設定エリア#
-ev_pre_rg.rsw#ダンジョン入場待機エリア#
-ev_pre_sr.rsw#ダンジョン入場待機エリア#
-ev_pre_sc.rsw#ダンジョン入場待機エリア#
-ev_pre_rn.rsw#ダンジョン入場待機エリア#
-ev_pre_so.rsw#ダンジョン入場待機エリア#
-ev_pre_mn.rsw#ダンジョン入場待機エリア#
-ev_pre_gt.rsw#ダンジョン入場待機エリア#
-ev_pre_ab.rsw#ダンジョン入場待機エリア#
-ev_rg_end.rsw#最深部#
-ev_sec_rg.rsw#秘密の部屋#
-ev_sr_end.rsw#最深部#
-ev_sec_sr.rsw#秘密の部屋#
-ev_so_end.rsw#最深部#
-ev_sec_so.rsw#秘密の部屋#
-ev_rn_end.rsw#最深部#
-ev_sec_rn.rsw#秘密の部屋#
-ev_mn_end.rsw#最深部#
-ev_sec_mn.rsw#秘密の部屋#
-ev_sc_end.rsw#最深部#
-ev_sec_sc.rsw#秘密の部屋#
-ev_gt_end.rsw#最深部#
-ev_sec_gt.rsw#秘密の部屋#
-ev_ab_end.rsw#最深部#
-ev_sec_ab.rsw#秘密の部屋#
-ev_rg2_end.rsw#最深部#
-ev_sec_rg2.rsw#秘密の部屋#
-ev_sr2_end.rsw#最深部#
-ev_sec_sr2.rsw#秘密の部屋#
-ev_so2_end.rsw#最深部#
-ev_sec_so2.rsw#秘密の部屋#
-ev_rn2_end.rsw#最深部#
-ev_sec_rn2.rsw#秘密の部屋#
-ev_mn2_end.rsw#最深部#
-ev_sec_mn2.rsw#秘密の部屋#
-ev_sc2_end.rsw#最深部#
-ev_sec_sc2.rsw#秘密の部屋#
-ev_gt2_end.rsw#最深部#
-ev_sec_gt2.rsw#秘密の部屋#
-ev_ab2_end.rsw#最深部#
-ev_sec_ab2.rsw#秘密の部屋#
 //------------------------------------------------
 da_sp1_in.rsw#異界 特異点#
 da_sp2_in.rsw#異界 特異点#
@@ -2141,8 +1567,6 @@ d_area_sp5.rsw#異界 魔境#
 d_area_sp6.rsw#異界 魔境#
 d_area_sp7.rsw#異界 魔境#
 //------------------------------------------------
-jp_ev_map61.rsw#プロンテラ聖堂内#
-//------------------------------------------------
 jp_ev_pro.rsw#サモンパーク#
 jp_ev_yun.rsw#サモンパーク#
 jp_ev_mor.rsw#サモンパーク#
@@ -2151,10 +1575,6 @@ jp_ev_pay.rsw#サモンパーク#
 //------------------------------------------------
 1@sara.rsw#サラの記憶#
 dali.rsw#次元の狭間 時の通路01#
-//------------------------------------------------
-8@adt.rsw#アドベンチャーズタワー挑戦の塔 50F#
-9@adt.rsw#アドベンチャーズタワー挑戦の塔 最上階#
-1@0adt.rsw#アドベンチャーズタワー挑戦の塔 頂上#
 //------------------------------------------------
 1@face.rsw#フェイスワームの巣#
 //------------------------------------------------
@@ -2191,8 +1611,6 @@ schp_cas05.rsw#モデルニダヴェリール 砦5(シーズモード)#
 //------------------------------------------------
 1@xm_d.rsw#ホラーおもちゃ工場#
 //------------------------------------------------
-1@sweet.rsw#精霊の祠#
-//------------------------------------------------
 mbt_a.rsw#エリアA　集合地点#
 mbt_b.rsw#エリアB　集合地点#
 mbt_c.rsw#エリアC　集合地点#
@@ -2216,19 +1634,9 @@ ma_dun01_q.rsw#ビョンウンゴ病院1階#
 1@gef.rsw#ゲフェン魔法大会#
 1@gef_in.rsw#ゲフェン魔法大会#
 //------------------------------------------------
-1@rjc_d.rsw#特殊訓練場(ステージ1)#
-2@rjc_d.rsw#特殊訓練場(ステージ3)#
-3@rjc_d.rsw#特殊訓練場(ステージ4)#
-4@rjc_d.rsw#特殊訓練場(ステージ2)#
-//------------------------------------------------
-jp_ev_map66.rsw#まにゃん島#
-//------------------------------------------------
 pud_land.rsw#謎の島#
 1@pda.rsw#ヘラの神殿#
 1@pdb.rsw#記念撮影会場#
-jp_ev_map67.rsw#初心者修練場#
-jp_ev_map68.rsw#初心者修練場#
-jp_ev_map69.rsw#初心者修練場#
 //------------------------------------------------
 c_tower1_.rsw#捻じれた時間の時計塔地上 1F#
 c_tower2_.rsw#捻じれた時間の時計塔地上 2F#
@@ -2243,68 +1651,10 @@ moro_cav.rsw#フレイムケイブ#
 1@rev.rsw#モルスの洞窟#
 1@eom.rsw#魔神殿#
 //------------------------------------------------
-ev_ex5_rg.rsw#深淵#
-ev_ex5_rk.rsw#深淵#
-ev_ex5_sr.rsw#深淵#
-ev_ex5_sc.rsw#深淵#
-ev_ex5_rn.rsw#深淵#
-ev_ex5_so.rsw#深淵#
-ev_ex5_mn.rsw#深淵#
-ev_ex5_gt.rsw#深淵#
-ev_ex5_ab.rsw#深淵#
-ev_ex5_wl.rsw#深淵#
-ev_ex5_gc.rsw#深淵#
-ev_ex5_wm.rsw#深淵#
-ev_ex5_rg2.rsw#深淵#
-ev_ex5_rk2.rsw#深淵#
-ev_ex5_sr2.rsw#深淵#
-ev_ex5_sc2.rsw#深淵#
-ev_ex5_rn2.rsw#深淵#
-ev_ex5_so2.rsw#深淵#
-ev_ex5_mn2.rsw#深淵#
-ev_ex5_gt2.rsw#深淵#
-ev_ex5_ab2.rsw#深淵#
-ev_ex5_wl2.rsw#深淵#
-ev_ex5_gc2.rsw#深淵#
-ev_ex5_wm2.rsw#深淵#
-//------------------------------------------------
-ev_clone2.rsw#クローン・リプロデュース習得スキル設定エリア#
-//------------------------------------------------
-ev_job_rk.rsw#職業訓練場#
-ev_job_wl.rsw#職業訓練場#
-ev_job_gc.rsw#職業訓練場#
-ev_job_wm.rsw#職業訓練場#
-ev_pre_rk.rsw#ダンジョン入場待機エリア#
-ev_pre_wl.rsw#ダンジョン入場待機エリア#
-ev_pre_gc.rsw#ダンジョン入場待機エリア#
-ev_pre_wm.rsw#ダンジョン入場待機エリア#
-ev_rk_end.rsw#最深部#
-ev_sec_rk.rsw#秘密の部屋#
-ev_wl_end.rsw#最深部#
-ev_sec_wl.rsw#秘密の部屋#
-ev_gc_end.rsw#最深部#
-ev_sec_gc.rsw#秘密の部屋#
-ev_wm_end.rsw#最深部#
-ev_sec_wm.rsw#秘密の部屋#
-ev_rk2_end.rsw#最深部#
-ev_sec_rk2.rsw#秘密の部屋#
-ev_wl2_end.rsw#最深部#
-ev_sec_wl2.rsw#秘密の部屋#
-ev_gc2_end.rsw#最深部#
-ev_sec_gc2.rsw#秘密の部屋#
-ev_wm2_end.rsw#最深部#
-ev_sec_wm2.rsw#秘密の部屋#
-ev_hom.rsw#ホムンクルス設定エリア#
-//------------------------------------------------
 1@jtb.rsw#悪夢のジターバグ#
 jtb_01.rsw#悪夢のジターバグ(時間移動)#
 //------------------------------------------------
 moc_para01.rsw#楽園団 01#
-//------------------------------------------------
-1@zodi.rsw#ゾディアック・コロッセウム#
-2@zodi.rsw#ゾディアック・コロッセウム通路#
-3@zodi.rsw#ゾディアック・コロッセウム#
-4@zodi.rsw#ゾディアック・コロッセウム#
 //------------------------------------------------
 ama_fild_jp.rsw#おもち積み会場#
 //------------------------------------------------
@@ -2339,8 +1689,6 @@ dali02.rsw#次元の狭間 時の通路02#
 ref_room01.rsw#リフレッシュルーム#
 ref_room02.rsw#リフレッシュルーム#
 tra_hall.rsw#お試し道場#
-//------------------------------------------------
-jp_ev_map10.rsw#ぷろんてら#
 //------------------------------------------------
 lounge00_jp.rsw#ラウンジ B1F#
 lounge01_jp.rsw#ラウンジ 1F#
@@ -2687,7 +2035,6 @@ moc_prydn2.rsw#ピラミッドダンジョン 秘密の地下室02#
 //rjc_pra4_62.rsw#ロイヤル練習62#
 //rjc_pra4_63.rsw#ロイヤル練習63#
 //rjc_pra4_64.rsw#ロイヤル練習64#
-
 //rjc_pra1a01.rsw#デュエル練習01待機室[左]#
 //rjc_pra1b01.rsw#デュエル練習01待機室[右]#
 //rjc_pra1a02.rsw#デュエル練習02待機室[左]#
@@ -2933,19 +2280,6 @@ moc_prydn2.rsw#ピラミッドダンジョン 秘密の地下室02#
 //rjc_pra_set.rsw#対戦相手待合#
 //------------------------------------------------
 jp_ev_map51.rsw#波打ち際の攻防#
-jp_ev_map65.rsw#魔Qの入口#
-1@maq1.rsw#魔Q 地下1階(novice)#
-2@maq1.rsw#魔Q 地下2階(novice)#
-3@maq1.rsw#魔Q 地下3階(novice)#
-4@maq1.rsw#魔Q 地下777階#
-1@maq2.rsw#魔Q 地下1階(middle)#
-2@maq2.rsw#魔Q 地下2階(middle)#
-3@maq2.rsw#魔Q 地下3階(middle)#
-4@maq2.rsw#魔Q 地下777階#
-1@maq3.rsw#魔Q 地下1階(advanced)#
-2@maq3.rsw#魔Q 地下2階(advanced)#
-3@maq3.rsw#魔Q 地下3階(advanced)#
-4@maq3.rsw#魔Q 地下777階#
 //------------------------------------------------
 1@pump.rsw#地下排水路#
 2@pump.rsw#地下排水路 最奥部#
@@ -2963,32 +2297,13 @@ jp_ev_map65.rsw#魔Qの入口#
 //------------------------------------------------
 1@spa.rsw#亡霊の王宮#
 //------------------------------------------------
-1@rjcd1.rsw#特殊訓練場(ステージ1)#
-2@rjcd1.rsw#特殊訓練場(ステージ3)#
-3@rjcd1.rsw#特殊訓練場(ステージ4)#
-4@rjcd1.rsw#特殊訓練場(ステージ2)#
 //rjc_lobi.rsw#広場#
-1@rjcd2.rsw#スペシャルマッチ(PT用)#
-2@rjcd2.rsw#スペシャルマッチ(1人用)#
-3@rjcd2.rsw#待機室#
-4@rjcd2.rsw#ロイヤル#
-5@rjcd2.rsw#デュエル#
-6@rjcd2.rsw#バトル#
-7@rjcd2.rsw#ガーデン#
 //------------------------------------------------
 lhz_dun_n.rsw#戦死者の墓#
 lhz_dun_n_c.rsw#戦死者の墓(思念の間)#
 //------------------------------------------------
-jp_ev_map05.rsw#死立ブラック学園#
-jp_ev_map62.rsw#死立ブラック学園#
-jp_ev_map63.rsw#死立ブラック学園#
-jp_ev_map64.rsw#死立ブラック学園#
-hallow_02.rsw#死立ブラック学園#
-jp_niflheim.rsw#ニブルヘイム#
 jp_ev_in03.rsw#コンテスト会場#
 jp_ev_map39.rsw#古びた倉庫B#
-jp_ev_map70.rsw#古びた倉庫A#
-jp_ev_map46.rsw#Xの間#
 //------------------------------------------------
 t_crack.rsw#時の狭間#
 1@w_o_c.rsw#永劫の戦#
@@ -2996,26 +2311,6 @@ t_crack.rsw#時の狭間#
 3@w_o_c.rsw#永劫の戦#
 //------------------------------------------------
 1@selab.rsw#秘密の研究所#
-//------------------------------------------------
-pab_church.rsw#プロンテラ聖堂地下#
-pab_camp.rsw#プロンテラ深淵#
-pab_dun01.rsw#プロンテラ深淵（庭園）#
-pab_dun02.rsw#プロンテラ深淵（祭祀場）#
-pab_dun03.rsw#プロンテラ深淵（回廊）#
-pab_dun04.rsw#プロンテラ深淵（旧市街地）#
-1@pab.rsw#深淵の王墓#
-1@pag.rsw#恨みの淵（庭園）#
-1@par.rsw#恨みの淵（祭祀場）#
-1@pac.rsw#恨みの淵（回廊）#
-1@pau.rsw#恨みの淵（旧市街地）#
-//------------------------------------------------
-pab_dun01c.rsw#プロンテラ深淵（庭園[2]）#
-pab_dun02c.rsw#プロンテラ深淵（祭祀場[2]）#
-pab_dun03c.rsw#プロンテラ深淵（回廊[2]）#
-pab_dun04c.rsw#プロンテラ深淵（旧市街地[2]）#
-//------------------------------------------------
-jp_ev_map07.rsw#鬼之城#
-jp_ev_map08.rsw#鬼之城#
 //------------------------------------------------
 pvp_y_8-6.rsw#PvP : 旧フェイヨン#
 payon_01_q.rsw#旧フェイヨン 室内01#
@@ -3025,39 +2320,1318 @@ payon_p.rsw#旧フェイヨン#
 jp_ev_map47.rsw#神様の部屋#
 //------------------------------------------------
 jp_ev_map06.rsw#わからない所#
-jp_ev_map09.rsw#わからない所#
 //------------------------------------------------
 1@pop1.rsw#真昼の弦月 01#
 1@pop2.rsw#真昼の弦月 02#
 1@pop3.rsw#真昼の弦月 03#
 //------------------------------------------------
-ra_fild11.rsw#ラヘルフィールド 11（イダ平原模擬演習場）#
-gate_1.rsw#わからない所#
-tower_a5.rsw#わからない所#
-tower_b5.rsw#わからない所#
-tower_c5.rsw#わからない所#
-tower_d5.rsw#わからない所#
-tower_a10.rsw#わからない所#
-tower_b10.rsw#わからない所#
-tower_c10.rsw#わからない所#
-tower_d10.rsw#わからない所#
-gate_2.rsw#わからない所#
+reb_base.rsw#反逆のベースキャンプ#
+reb_camp1.rsw#反逆の初級訓練場01#
+reb_camp2.rsw#反逆の特別訓練場01#
+reb_camp3.rsw#反逆の初級訓練場02#
+reb_camp4.rsw#反逆の特別訓練場02#
+//------------------------------------------------
+job_gun.rsw#リベリオン転職所#
+//------------------------------------------------
+pab_church.rsw#プロンテラ聖堂地下#
+pab_camp.rsw#プロンテラ深淵(中央)#
+1@pag.rsw#過去のプロンテラ深淵(庭園)#
+1@par.rsw#過去のプロンテラ深淵(祭祀場)#
+1@pau.rsw#過去のプロンテラ深淵(旧市街地)#
+1@pac.rsw#過去のプロンテラ深淵(回廊)#
+pab_dun01.rsw#プロンテラ深淵(庭園)#
+pab_dun02.rsw#プロンテラ深淵(祭祀場)#
+pab_dun03.rsw#プロンテラ深淵(回廊)#
+pab_dun04.rsw#プロンテラ深淵(旧市街地)#
+pab_dun01c.rsw#プロンテラ深淵(庭園[2])#
+pab_dun02c.rsw#プロンテラ深淵(祭祀場[2])#
+pab_dun03c.rsw#プロンテラ深淵(回廊[2])#
+pab_dun04c.rsw#プロンテラ深淵(旧市街地[2])#
+//------------------------------------------------
+1@gl_kh.rsw#古の騎士団01(ハード)#
+2@gl_kh.rsw#古の騎士団02(ハード)#
+//------------------------------------------------
+jp_ev_map66.rsw#塔の入り口#
+//------------------------------------------------
+jp_nifin01.rsw#魔女の館(室内)#
+//------------------------------------------------
+1@mir.rsw#過去の儀式の間#
+2@mir.rsw#儀式の間#
+1@sthb.rsw#空中要塞内部#
+1@sthc.rsw#空中要塞秘密の部屋#
+1@sthd.rsw#空中要塞最上階#
+prt_cas.rsw#プロンテラ中央宮#
+prt_cas_q.rsw#プロンテラ離宮#
+prt_prison.rsw#プロンテラ地下監獄#
+prt_lib.rsw#王家の記憶の間#
+prt_lib_q.rsw#過去の王家の記憶の間#
+prt_q.rsw#侵攻されたプロンテラ(避難地)#
+prt_pri00.rsw#プロンテラ監獄#
+prt_q_jp.rsw#侵攻されたプロンテラ#
+mir_q.rsw#過去の儀式の間(クエスト)#
+//------------------------------------------------
+lby_in.rsw#迷宮調査団キャンプ#
+1@la_00.rsw#試練の迷宮 試練の門#
+2@la_00.rsw#試練の迷宮 大樹の幹#
+2@la_01.rsw#試練の迷宮 新緑の大樹#
+2@la_02.rsw#試練の迷宮 新緑の大樹#
+2@la_03.rsw#試練の迷宮 新緑の大樹#
+2@la_04.rsw#試練の迷宮 魔の湖#
+2@la_05.rsw#試練の迷宮 魔の湖#
+2@la_06.rsw#試練の迷宮 魔の湖#
+2@la_07.rsw#試練の迷宮 砂の洞穴#
+2@la_08.rsw#試練の迷宮 砂の洞穴#
+2@la_09.rsw#試練の迷宮 古代遺跡#
+2@la_10.rsw#試練の迷宮 古代遺跡#
+2@la_11.rsw#試練の迷宮 古代遺跡#
+2@la_12.rsw#試練の迷宮 古代遺跡#
+2@la_13.rsw#試練の迷宮 魂の牢獄#
+2@la_14.rsw#試練の迷宮 魂の牢獄#
+2@la_15.rsw#試練の迷宮 魂の牢獄#
+2@la_16.rsw#試練の迷宮 魂の牢獄#
+2@la_17.rsw#試練の迷宮 次元の裂け目#
+2@la_18.rsw#試練の迷宮 次元の裂け目#
+2@la_19.rsw#試練の迷宮 嘆きの廃城#
+2@la_20.rsw#試練の迷宮 嘆きの廃城#
+2@la_21.rsw#試練の迷宮 嘆きの廃城#
+2@la_22.rsw#試練の迷宮 嘆きの廃城#
+2@la_23.rsw#試練の迷宮 廃城の地下通路#
+2@la_24.rsw#試練の迷宮 廃城の地下通路#
+2@la_25.rsw#試練の迷宮 穢れの監獄#
+2@la_26.rsw#試練の迷宮 穢れの監獄#
+2@la_27.rsw#試練の迷宮 夢幻の道#
+2@la_28.rsw#試練の迷宮 夢幻の道#
+2@la_29.rsw#試練の迷宮 夢幻の道#
+2@la_30.rsw#試練の迷宮 禁忌の実験場#
+2@la_31.rsw#試練の迷宮 禁忌の実験場#
+2@la_99.rsw#試練の迷宮 隠された聖域#
+3@la_00.rsw#試練の迷宮 永遠の悪夢#
+4@la_00.rsw#試練の迷宮 夢の終点#
+5@la_00.rsw#試練の迷宮 夢の終わり#
+1@lb_00.rsw#封印の迷宮 封印の門#
+2@lb_00.rsw#封印の迷宮 大樹の幹#
+2@lb_01.rsw#封印の迷宮 新緑の大樹#
+2@lb_02.rsw#封印の迷宮 新緑の大樹#
+2@lb_03.rsw#封印の迷宮 新緑の大樹#
+2@lb_04.rsw#封印の迷宮 魔の湖#
+2@lb_05.rsw#封印の迷宮 魔の湖#
+2@lb_06.rsw#封印の迷宮 魔の湖#
+2@lb_07.rsw#封印の迷宮 砂の洞穴#
+2@lb_08.rsw#封印の迷宮 砂の洞穴#
+2@lb_09.rsw#封印の迷宮 古代遺跡#
+2@lb_10.rsw#封印の迷宮 古代遺跡#
+2@lb_11.rsw#封印の迷宮 古代遺跡#
+2@lb_12.rsw#封印の迷宮 古代遺跡#
+2@lb_13.rsw#封印の迷宮 魂の牢獄#
+2@lb_14.rsw#封印の迷宮 魂の牢獄#
+2@lb_15.rsw#封印の迷宮 魂の牢獄#
+2@lb_16.rsw#封印の迷宮 魂の牢獄#
+2@lb_17.rsw#封印の迷宮 次元の裂け目#
+2@lb_18.rsw#封印の迷宮 次元の裂け目#
+2@lb_19.rsw#封印の迷宮 嘆きの廃城#
+2@lb_20.rsw#封印の迷宮 嘆きの廃城#
+2@lb_21.rsw#封印の迷宮 嘆きの廃城#
+2@lb_22.rsw#封印の迷宮 嘆きの廃城#
+2@lb_23.rsw#封印の迷宮 廃城の地下通路#
+2@lb_24.rsw#封印の迷宮 廃城の地下通路#
+2@lb_25.rsw#封印の迷宮 穢れの監獄#
+2@lb_26.rsw#封印の迷宮 穢れの監獄#
+2@lb_27.rsw#封印の迷宮 夢幻の道#
+2@lb_28.rsw#封印の迷宮 夢幻の道#
+2@lb_29.rsw#封印の迷宮 夢幻の道#
+2@lb_30.rsw#封印の迷宮 禁忌の実験場#
+2@lb_31.rsw#封印の迷宮 禁忌の実験場#
+2@lb_99.rsw#封印の迷宮 隠された聖域#
+3@lb_00.rsw#封印の迷宮 永遠の悪夢#
+4@lb_00.rsw#封印の迷宮 夢の終点#
+5@lb_00.rsw#封印の迷宮 夢の終わり#
+//------------------------------------------------
+jp_ev_map71.rsw#ゲフェン地下隔離空間#
+//------------------------------------------------
+1@stg.rsw#一騎打ち#
+//------------------------------------------------
+tower_a0.rsw#わからない所#
 tower_a1.rsw#わからない所#
+tower_a2.rsw#わからない所#
+tower_a3.rsw#わからない所#
+tower_a4.rsw#わからない所#
+tower_a5.rsw#わからない所#
+tower_a6.rsw#わからない所#
+tower_a7.rsw#わからない所#
+tower_a8.rsw#わからない所#
+tower_a9.rsw#わからない所#
+tower_a10.rsw#わからない所#
+tower_a11.rsw#わからない所#
+//tower_a12.rsw#わからない所#
+tower_b0.rsw#わからない所#
 tower_b1.rsw#わからない所#
+tower_b2.rsw#わからない所#
+tower_b3.rsw#わからない所#
+tower_b4.rsw#わからない所#
+tower_b5.rsw#わからない所#
+tower_b6.rsw#わからない所#
+tower_b7.rsw#わからない所#
+tower_b8.rsw#わからない所#
+tower_b9.rsw#わからない所#
+tower_b10.rsw#わからない所#
+tower_b11.rsw#わからない所#
+//tower_b12.rsw#わからない所#
+tower_c0.rsw#わからない所#
 tower_c1.rsw#わからない所#
+tower_c2.rsw#わからない所#
+tower_c3.rsw#わからない所#
+tower_c4.rsw#わからない所#
+tower_c5.rsw#わからない所#
+tower_c6.rsw#わからない所#
+tower_c7.rsw#わからない所#
+tower_c8.rsw#わからない所#
+tower_c9.rsw#わからない所#
+tower_c10.rsw#わからない所#
+tower_c11.rsw#わからない所#
+//tower_c12.rsw#わからない所#
+tower_d0.rsw#わからない所#
 tower_d1.rsw#わからない所#
+tower_d2.rsw#わからない所#
+tower_d3.rsw#わからない所#
+tower_d4.rsw#わからない所#
+tower_d5.rsw#わからない所#
+tower_d6.rsw#わからない所#
+tower_d7.rsw#わからない所#
+tower_d8.rsw#わからない所#
+tower_d9.rsw#わからない所#
+tower_d10.rsw#わからない所#
+tower_d11.rsw#わからない所#
+//tower_d12.rsw#わからない所#
+jp_ev_map50.rsw#フルータプロイビーダ集会所#
+jp_ev_map01.rsw#わからない所#
+jp_ev_map02.rsw#わからない所#
+jp_ev_map04.rsw#わからない所#
+//------------------------------------------------
+pab_castle.rsw#プロンテラ深淵(悠久の丘)#
+1@ct_00.rsw#王城ティアマト(王城入口)#
+1@ct_01.rsw#王城ティアマト#
+1@ct_02.rsw#王城ティアマト#
+1@ct_03.rsw#王城ティアマト#
+1@ct_04.rsw#王城ティアマト#
+1@ct_05.rsw#王城ティアマト#
+1@ct_06.rsw#王城ティアマト#
+1@ct_07.rsw#王城ティアマト#
+1@ct_08.rsw#王城ティアマト#
+1@ct_09.rsw#王城ティアマト#
+1@ct_10.rsw#王城ティアマト#
+1@ct_11.rsw#王城ティアマト#
+1@ct_12.rsw#王城ティアマト#
+1@ct_13.rsw#王城ティアマト#
+1@ct_14.rsw#王城ティアマト#
+1@ct_15.rsw#王城ティアマト#
+1@ct_16.rsw#王城ティアマト#
+1@ct_17.rsw#王城ティアマト#
+1@ct_18.rsw#王城ティアマト#
+1@ct_19.rsw#王城ティアマト#
+1@ct_20.rsw#王城ティアマト#
+1@ct_22.rsw#王城ティアマト#
+1@ct_23.rsw#王城ティアマト#
+1@ct_25.rsw#王城ティアマト#
+1@ct_26.rsw#王城ティアマト#
+1@ct_29.rsw#王城ティアマト#
+1@ct_30.rsw#王城ティアマト#
+1@ct_31.rsw#王城ティアマト#
+1@ct_32.rsw#王城ティアマト#
+1@ct_33.rsw#王城ティアマト#
+1@ct_34.rsw#王城ティアマト#
+1@ct_35.rsw#王城ティアマト#
+1@ct_36.rsw#王城ティアマト#
+1@ct_37.rsw#王城ティアマト#
+1@ct_38.rsw#王城ティアマト#
+1@ct_39.rsw#王城ティアマト#
+1@ct_40.rsw#王城ティアマト#
+1@ct_41.rsw#王城ティアマト#
+1@ct_42.rsw#王城ティアマト#
+1@ct_43.rsw#王城ティアマト#
+1@ct_44.rsw#王城ティアマト#
+1@ct_45.rsw#王城ティアマト#
+1@ct_46.rsw#王城ティアマト#
+1@ct_47.rsw#王城ティアマト#
+1@ct_48.rsw#王城ティアマト#
+1@ct_49.rsw#王城ティアマト#
+1@ct_50.rsw#王城ティアマト#
+1@ct_51.rsw#王城ティアマト#
+1@ct_52.rsw#王城ティアマト#
+1@ct_53.rsw#王城ティアマト#
+1@ct_54.rsw#王城ティアマト#
+1@ct_55.rsw#王城ティアマト#
+1@ct_56.rsw#王城ティアマト#
+1@ct_57.rsw#王城ティアマト#
+1@ct_58.rsw#王城ティアマト#
+1@ct_59.rsw#王城ティアマト#
+1@ct_60.rsw#王城ティアマト#
+1@ct_61.rsw#王城ティアマト#
+1@ct_62.rsw#王城ティアマト#
+1@ct_63.rsw#王城ティアマト#
+2@ct_00.rsw#王城ティアマト(地下祭壇)#
+2@ct_01.rsw#王城ティアマト(地下祭儀場)#
+2@ct_02.rsw#王城ティアマト(深淵の玉座)#
+3@ct_00.rsw#王城ティアマト(秘密の部屋)#
+//------------------------------------------------
+rebel_in.rsw#クラナネミエリー#
+1@swat.rsw#ハートハンター軍事基地(外郭)#
+2@swat.rsw#ハートハンター軍事基地(訓練場)#
+que_swat.rsw#ハートハンター軍事基地#
+slabw01.rsw#ヴェルナー研究所 A棟#
+slabw01_jp2.rsw#ヴェルナー研究所 B棟#
+slabw01_jp.rsw#ヴェルナー研究所 C棟#
+slabw01_jp3.rsw#ヴェルナー研究所 D棟#
+slabw01_qjp.rsw#ヴェルナー研究所#
+1@slw.rsw#ヴェルナー研究所中央室#
+2@slw.rsw#ヴェルナー研究所中央室#
+//------------------------------------------------
+har_in01.rsw#ロックリッジ室内#
+harboro1.rsw#ロックリッジ#
+harboro2.rsw#ロックリッジ地下街#
+harboro3.rsw#ロックリッジ地下街 奥地#
+rockmi1.rsw#ロックリッジ鉱山 01#
+rockmi2.rsw#ロックリッジ鉱山 02#
+rockmi3.rsw#ロックリッジ鉱山 01 奥地#
+rockrdg1.rsw#キワワ砂漠 01#
+rockrdg2.rsw#キワワ砂漠 02#
+rockrdg1_q.rsw#キワワ砂漠 01#
+rockrdg2_q.rsw#キワワ砂漠 02#
+//------------------------------------------------
+lasagna.rsw#港町ラザーニャ#
+lasa_fild01.rsw#ラビオル平原 01#
+lasa_fild02.rsw#ラビオル森 01#
+lasa_dun01.rsw#龍の巣 01#
+lasa_dun02.rsw#龍の巣 02#
+lasa_dun03.rsw#龍の巣 03#
+conch_in.rsw#コンキリエ号#
+//------------------------------------------------
+do_tu01a.rsw#ラビオル平原 01(チュートリアル)#
+do_tu02a.rsw#港町ラザーニャ(チュートリアル)#
+do_tu03a.rsw#港町ラザーニャ室内(チュートリアル)#
+do_tu04a.rsw#ラビオル森 01(チュートリアル)#
+do_tu05a.rsw#コンキリエ号(チュートリアル)#
+do_tu06a.rsw#龍の巣 01(チュートリアル)#
+do_tu07a.rsw#龍の巣 03(チュートリアル)#
+do_tu01b.rsw#ラビオル平原 01(チュートリアル)#
+do_tu02b.rsw#港町ラザーニャ(チュートリアル)#
+do_tu03b.rsw#港町ラザーニャ室内(チュートリアル)#
+do_tu04b.rsw#ラビオル森 01(チュートリアル)#
+do_tu05b.rsw#コンキリエ号(チュートリアル)#
+do_tu06b.rsw#龍の巣 01(チュートリアル)#
+do_tu07b.rsw#龍の巣 03(チュートリアル)#
+do_tu01c.rsw#ラビオル平原 01(チュートリアル)#
+do_tu02c.rsw#港町ラザーニャ(チュートリアル)#
+do_tu03c.rsw#港町ラザーニャ室内(チュートリアル)#
+do_tu04c.rsw#ラビオル森 01(チュートリアル)#
+do_tu05c.rsw#コンキリエ号(チュートリアル)#
+do_tu06c.rsw#龍の巣 01(チュートリアル)#
+do_tu07c.rsw#龍の巣 03(チュートリアル)#
+do_tu01d.rsw#ラビオル平原 01(チュートリアル)#
+do_tu02d.rsw#港町ラザーニャ(チュートリアル)#
+do_tu03d.rsw#港町ラザーニャ室内(チュートリアル)#
+do_tu04d.rsw#ラビオル森 01(チュートリアル)#
+do_tu05d.rsw#コンキリエ号(チュートリアル)#
+do_tu06d.rsw#龍の巣 01(チュートリアル)#
+do_tu07d.rsw#龍の巣 03(チュートリアル)#
+do_tu01e.rsw#ラビオル平原 01(チュートリアル)#
+do_tu02e.rsw#港町ラザーニャ(チュートリアル)#
+do_tu03e.rsw#港町ラザーニャ室内(チュートリアル)#
+do_tu04e.rsw#ラビオル森 01(チュートリアル)#
+do_tu05e.rsw#コンキリエ号(チュートリアル)#
+do_tu06e.rsw#龍の巣 01(チュートリアル)#
+do_tu07e.rsw#龍の巣 03(チュートリアル)#
+//------------------------------------------------
+karma1.rsw#始まりの部屋 1#
+karma2.rsw#始まりの部屋 2#
+karma3.rsw#始まりの部屋 3#
+karma4.rsw#始まりの部屋 4#
+pronterar.rsw#悠久の王国の首都プロンテラ#
+pronterar2.rsw#悠久の王国の首都プロンテラ(夕暮れ時)#
+pronterar3.rsw#悠久の王国の首都プロンテラ(丑三つ時)#
+pronterar4.rsw#悠久の王国の首都プロンテラ(夜明け前)#
+prtg_cas1.rsw#ヴァルキリーレルム 砦1#
+prtg_cas2.rsw#ヴァルキリーレルム 砦2#
+prtg_cas3.rsw#ヴァルキリーレルム 砦3#
+prtg_cas4.rsw#ヴァルキリーレルム 砦4#
+prtg_cas5.rsw#ヴァルキリーレルム 砦5#
+gefg_cas1.rsw#ブリトニア 砦1#
+gefg_cas2.rsw#ブリトニア 砦2#
+gefg_cas3.rsw#ブリトニア 砦3#
+gefg_cas4.rsw#ブリトニア 砦4#
+gefg_cas5.rsw#ブリトニア 砦5#
+payg_cas1.rsw#チュンリム湖 砦1#
+payg_cas2.rsw#チュンリム湖 砦2#
+payg_cas3.rsw#チュンリム湖 砦3#
+payg_cas4.rsw#チュンリム湖 砦4#
+payg_cas5.rsw#チュンリム湖 砦5#
+aldg_cas1.rsw#ルイーナ 砦1#
+aldg_cas2.rsw#ルイーナ 砦2#
+aldg_cas3.rsw#ルイーナ 砦3#
+aldg_cas4.rsw#ルイーナ 砦4#
+aldg_cas5.rsw#ルイーナ 砦5#
+arug_cas1.rsw#ヴァルフレイヤ 砦1#
+arug_cas2.rsw#ヴァルフレイヤ 砦2#
+arug_cas3.rsw#ヴァルフレイヤ 砦3#
+arug_cas4.rsw#ヴァルフレイヤ 砦4#
+arug_cas5.rsw#ヴァルフレイヤ 砦5#
+schg_cas1.rsw#ニダヴェリール 砦1#
+schg_cas2.rsw#ニダヴェリール 砦2#
+schg_cas3.rsw#ニダヴェリール 砦3#
+schg_cas4.rsw#ニダヴェリール 砦4#
+schg_cas5.rsw#ニダヴェリール 砦5#
+prtg_fld1a.rsw#ヴァルキリーレルム 砦前1（A地域）#
+prtg_fld2a.rsw#ヴァルキリーレルム 砦前2（A地域）#
+prtg_fld3a.rsw#ヴァルキリーレルム 砦前3（A地域）#
+prtg_fld4a.rsw#ヴァルキリーレルム 砦前4（A地域）#
+prtg_fld5a.rsw#ヴァルキリーレルム 砦前5（A地域）#
+prtg_fld1b.rsw#ヴァルキリーレルム 砦前1（B地域）#
+prtg_fld2b.rsw#ヴァルキリーレルム 砦前2（B地域）#
+prtg_fld3b.rsw#ヴァルキリーレルム 砦前3（B地域）#
+prtg_fld4b.rsw#ヴァルキリーレルム 砦前4（B地域）#
+prtg_fld5b.rsw#ヴァルキリーレルム 砦前5（B地域）#
+gefg_fld1a.rsw#ブリトニア 砦前1（A地域）#
+gefg_fld2a.rsw#ブリトニア 砦前2（A地域）#
+gefg_fld3a.rsw#ブリトニア 砦前3（A地域）#
+gefg_fld4a.rsw#ブリトニア 砦前4（A地域）#
+gefg_fld5a.rsw#ブリトニア 砦前5（A地域）#
+gefg_fld1b.rsw#ブリトニア 砦前1（B地域）#
+gefg_fld2b.rsw#ブリトニア 砦前2（B地域）#
+gefg_fld3b.rsw#ブリトニア 砦前3（B地域）#
+gefg_fld4b.rsw#ブリトニア 砦前4（B地域）#
+gefg_fld5b.rsw#ブリトニア 砦前5（B地域）#
+payg_fld1a.rsw#チュンリム湖 砦前1（A地域）#
+payg_fld2a.rsw#チュンリム湖 砦前2（A地域）#
+payg_fld3a.rsw#チュンリム湖 砦前3（A地域）#
+payg_fld4a.rsw#チュンリム湖 砦前4（A地域）#
+payg_fld5a.rsw#チュンリム湖 砦前5（A地域）#
+payg_fld1b.rsw#チュンリム湖 砦前1（B地域）#
+payg_fld2b.rsw#チュンリム湖 砦前2（B地域）#
+payg_fld3b.rsw#チュンリム湖 砦前3（B地域）#
+payg_fld4b.rsw#チュンリム湖 砦前4（B地域）#
+payg_fld5b.rsw#チュンリム湖 砦前5（B地域）#
+aldg_fld1a.rsw#ルイーナ 砦前1（A地域）#
+aldg_fld2a.rsw#ルイーナ 砦前2（A地域）#
+aldg_fld3a.rsw#ルイーナ 砦前3（A地域）#
+aldg_fld4a.rsw#ルイーナ 砦前4（A地域）#
+aldg_fld5a.rsw#ルイーナ 砦前5（A地域）#
+aldg_fld1b.rsw#ルイーナ 砦前1（B地域）#
+aldg_fld2b.rsw#ルイーナ 砦前2（B地域）#
+aldg_fld3b.rsw#ルイーナ 砦前3（B地域）#
+aldg_fld4b.rsw#ルイーナ 砦前4（B地域）#
+aldg_fld5b.rsw#ルイーナ 砦前5（B地域）#
+arug_fld1a.rsw#ヴァルフレイヤ 砦前1（A地域）#
+arug_fld2a.rsw#ヴァルフレイヤ 砦前2（A地域）#
+arug_fld3a.rsw#ヴァルフレイヤ 砦前3（A地域）#
+arug_fld4a.rsw#ヴァルフレイヤ 砦前4（A地域）#
+arug_fld5a.rsw#ヴァルフレイヤ 砦前5（A地域）#
+arug_fld1b.rsw#ヴァルフレイヤ 砦前1（B地域）#
+arug_fld2b.rsw#ヴァルフレイヤ 砦前2（B地域）#
+arug_fld3b.rsw#ヴァルフレイヤ 砦前3（B地域）#
+arug_fld4b.rsw#ヴァルフレイヤ 砦前4（B地域）#
+arug_fld5b.rsw#ヴァルフレイヤ 砦前5（B地域）#
+schg_fld1a.rsw#ニダヴェリール 砦前1（A地域）#
+schg_fld2a.rsw#ニダヴェリール 砦前2（A地域）#
+schg_fld3a.rsw#ニダヴェリール 砦前3（A地域）#
+schg_fld4a.rsw#ニダヴェリール 砦前4（A地域）#
+schg_fld5a.rsw#ニダヴェリール 砦前5（A地域）#
+schg_fld1b.rsw#ニダヴェリール 砦前1（B地域）#
+schg_fld2b.rsw#ニダヴェリール 砦前2（B地域）#
+schg_fld3b.rsw#ニダヴェリール 砦前3（B地域）#
+schg_fld4b.rsw#ニダヴェリール 砦前4（B地域）#
+schg_fld5b.rsw#ニダヴェリール 砦前5（B地域）#
+prtp_cas1.rsw#モデルヴァルキリーレルム 砦1（シーズモード）#
+prtp_cas2.rsw#モデルヴァルキリーレルム 砦2（シーズモード）#
+prtp_cas3.rsw#モデルヴァルキリーレルム 砦3（シーズモード）#
+prtp_cas4.rsw#モデルヴァルキリーレルム 砦4（シーズモード）#
+prtp_cas5.rsw#モデルヴァルキリーレルム 砦5（シーズモード）#
+gefp_cas1.rsw#モデルブリトニア 砦1（シーズモード）#
+gefp_cas2.rsw#モデルブリトニア 砦2（シーズモード）#
+gefp_cas3.rsw#モデルブリトニア 砦3（シーズモード）#
+gefp_cas4.rsw#モデルブリトニア 砦4（シーズモード）#
+gefp_cas5.rsw#モデルブリトニア 砦5（シーズモード）#
+payp_cas1.rsw#モデルチュンリム湖 砦1（シーズモード）#
+payp_cas2.rsw#モデルチュンリム湖 砦2（シーズモード）#
+payp_cas3.rsw#モデルチュンリム湖 砦3（シーズモード）#
+payp_cas4.rsw#モデルチュンリム湖 砦4（シーズモード）#
+payp_cas5.rsw#モデルチュンリム湖 砦5（シーズモード）#
+aldp_cas1.rsw#モデルルイーナ 砦1（シーズモード）#
+aldp_cas2.rsw#モデルルイーナ 砦2（シーズモード）#
+aldp_cas3.rsw#モデルルイーナ 砦3（シーズモード）#
+aldp_cas4.rsw#モデルルイーナ 砦4（シーズモード）#
+aldp_cas5.rsw#モデルルイーナ 砦5（シーズモード）#
+arup_cas1.rsw#モデルヴァルフレイヤ 砦1（シーズモード）#
+arup_cas2.rsw#モデルヴァルフレイヤ 砦2（シーズモード）#
+arup_cas3.rsw#モデルヴァルフレイヤ 砦3（シーズモード）#
+arup_cas4.rsw#モデルヴァルフレイヤ 砦4（シーズモード）#
+arup_cas5.rsw#モデルヴァルフレイヤ 砦5（シーズモード）#
+schp_cas1.rsw#モデルニダヴェリール 砦1（シーズモード）#
+schp_cas2.rsw#モデルニダヴェリール 砦2（シーズモード）#
+schp_cas3.rsw#モデルニダヴェリール 砦3（シーズモード）#
+schp_cas4.rsw#モデルニダヴェリール 砦4（シーズモード）#
+schp_cas5.rsw#モデルニダヴェリール 砦5（シーズモード）#
+prtp_fld1.rsw#モデルヴァルキリーレルム 砦前1（シーズモード）#
+prtp_fld2.rsw#モデルヴァルキリーレルム 砦前2（シーズモード）#
+prtp_fld3.rsw#モデルヴァルキリーレルム 砦前3（シーズモード）#
+prtp_fld4.rsw#モデルヴァルキリーレルム 砦前4（シーズモード）#
+prtp_fld5.rsw#モデルヴァルキリーレルム 砦前5（シーズモード）#
+gefp_fld1.rsw#モデルブリトニア 砦前1（シーズモード）#
+gefp_fld2.rsw#モデルブリトニア 砦前2（シーズモード）#
+gefp_fld3.rsw#モデルブリトニア 砦前3（シーズモード）#
+gefp_fld4.rsw#モデルブリトニア 砦前4（シーズモード）#
+gefp_fld5.rsw#モデルブリトニア 砦前5（シーズモード）#
+payp_fld1.rsw#モデルチュンリム湖 砦前1（シーズモード）#
+payp_fld2.rsw#モデルチュンリム湖 砦前2（シーズモード）#
+payp_fld3.rsw#モデルチュンリム湖 砦前3（シーズモード）#
+payp_fld4.rsw#モデルチュンリム湖 砦前4（シーズモード）#
+payp_fld5.rsw#モデルチュンリム湖 砦前5（シーズモード）#
+aldp_fld1.rsw#モデルルイーナ 砦前1（シーズモード）#
+aldp_fld2.rsw#モデルルイーナ 砦前2（シーズモード）#
+aldp_fld3.rsw#モデルルイーナ 砦前3（シーズモード）#
+aldp_fld4.rsw#モデルルイーナ 砦前4（シーズモード）#
+aldp_fld5.rsw#モデルルイーナ 砦前5（シーズモード）#
+arup_fld1.rsw#モデルヴァルフレイヤ 砦前1（シーズモード）#
+arup_fld2.rsw#モデルヴァルフレイヤ 砦前2（シーズモード）#
+arup_fld3.rsw#モデルヴァルフレイヤ 砦前3（シーズモード）#
+arup_fld4.rsw#モデルヴァルフレイヤ 砦前4（シーズモード）#
+arup_fld5.rsw#モデルヴァルフレイヤ 砦前5（シーズモード）#
+schp_fld1.rsw#モデルニダヴェリール 砦前1（シーズモード）#
+schp_fld2.rsw#モデルニダヴェリール 砦前2（シーズモード）#
+schp_fld3.rsw#モデルニダヴェリール 砦前3（シーズモード）#
+schp_fld4.rsw#モデルニダヴェリール 砦前4（シーズモード）#
+schp_fld5.rsw#モデルニダヴェリール 砦前5（シーズモード）#
+prti_cas1.rsw#モデルヴァルキリーレルム 砦1#
+prti_cas2.rsw#モデルヴァルキリーレルム 砦2#
+prti_cas3.rsw#モデルヴァルキリーレルム 砦3#
+prti_cas4.rsw#モデルヴァルキリーレルム 砦4#
+prti_cas5.rsw#モデルヴァルキリーレルム 砦5#
+gefi_cas1.rsw#モデルブリトニア 砦1#
+gefi_cas2.rsw#モデルブリトニア 砦2#
+gefi_cas3.rsw#モデルブリトニア 砦3#
+gefi_cas4.rsw#モデルブリトニア 砦4#
+gefi_cas5.rsw#モデルブリトニア 砦5#
+payi_cas1.rsw#モデルチュンリム湖 砦1#
+payi_cas2.rsw#モデルチュンリム湖 砦2#
+payi_cas3.rsw#モデルチュンリム湖 砦3#
+payi_cas4.rsw#モデルチュンリム湖 砦4#
+payi_cas5.rsw#モデルチュンリム湖 砦5#
+aldi_cas1.rsw#モデルルイーナ 砦1#
+aldi_cas2.rsw#モデルルイーナ 砦2#
+aldi_cas3.rsw#モデルルイーナ 砦3#
+aldi_cas4.rsw#モデルルイーナ 砦4#
+aldi_cas5.rsw#モデルルイーナ 砦5#
+arui_cas1.rsw#モデルヴァルフレイヤ 砦1#
+arui_cas2.rsw#モデルヴァルフレイヤ 砦2#
+arui_cas3.rsw#モデルヴァルフレイヤ 砦3#
+arui_cas4.rsw#モデルヴァルフレイヤ 砦4#
+arui_cas5.rsw#モデルヴァルフレイヤ 砦5#
+schi_cas1.rsw#モデルニダヴェリール 砦1#
+schi_cas2.rsw#モデルニダヴェリール 砦2#
+schi_cas3.rsw#モデルニダヴェリール 砦3#
+schi_cas4.rsw#モデルニダヴェリール 砦4#
+schi_cas5.rsw#モデルニダヴェリール 砦5#
+prti_fld1.rsw#モデルヴァルキリーレルム 砦前1#
+prti_fld2.rsw#モデルヴァルキリーレルム 砦前2#
+prti_fld3.rsw#モデルヴァルキリーレルム 砦前3#
+prti_fld4.rsw#モデルヴァルキリーレルム 砦前4#
+prti_fld5.rsw#モデルヴァルキリーレルム 砦前5#
+gefi_fld1.rsw#モデルブリトニア 砦前1#
+gefi_fld2.rsw#モデルブリトニア 砦前2#
+gefi_fld3.rsw#モデルブリトニア 砦前3#
+gefi_fld4.rsw#モデルブリトニア 砦前4#
+gefi_fld5.rsw#モデルブリトニア 砦前5#
+payi_fld1.rsw#モデルチュンリム湖 砦前1#
+payi_fld2.rsw#モデルチュンリム湖 砦前2#
+payi_fld3.rsw#モデルチュンリム湖 砦前3#
+payi_fld4.rsw#モデルチュンリム湖 砦前4#
+payi_fld5.rsw#モデルチュンリム湖 砦前5#
+aldi_fld1.rsw#モデルルイーナ 砦前1#
+aldi_fld2.rsw#モデルルイーナ 砦前2#
+aldi_fld3.rsw#モデルルイーナ 砦前3#
+aldi_fld4.rsw#モデルルイーナ 砦前4#
+aldi_fld5.rsw#モデルルイーナ 砦前5#
+arui_fld1.rsw#モデルヴァルフレイヤ 砦前1#
+arui_fld2.rsw#モデルヴァルフレイヤ 砦前2#
+arui_fld3.rsw#モデルヴァルフレイヤ 砦前3#
+arui_fld4.rsw#モデルヴァルフレイヤ 砦前4#
+arui_fld5.rsw#モデルヴァルフレイヤ 砦前5#
+schi_fld1.rsw#モデルニダヴェリール 砦前1#
+schi_fld2.rsw#モデルニダヴェリール 砦前2#
+schi_fld3.rsw#モデルニダヴェリール 砦前3#
+schi_fld4.rsw#モデルニダヴェリール 砦前4#
+schi_fld5.rsw#モデルニダヴェリール 砦前5#
+//------------------------------------------------
+1@gld1.rsw#訓練の間#
+gld_in.rsw#執事室#
+//------------------------------------------------
+jp_ev_map03.rsw#わからない所#
+jp_ev_map67.rsw#調査団控室1#
+jp_ev_map68.rsw#調査団控室2#
+jp_ev_map69.rsw#調査団控室3#
+jp_ev_map70.rsw#調査団控室4#
+//------------------------------------------------
+1@lc_00.rsw#異形の迷宮 試練の門#
+2@lc_00.rsw#異形の迷宮 大樹の幹#
+2@lc_01.rsw#異形の迷宮 新緑の大樹#
+2@lc_02.rsw#異形の迷宮 新緑の大樹#
+2@lc_03.rsw#異形の迷宮 新緑の大樹#
+2@lc_04.rsw#異形の迷宮 魔の湖#
+2@lc_05.rsw#異形の迷宮 魔の湖#
+2@lc_06.rsw#異形の迷宮 魔の湖#
+2@lc_07.rsw#異形の迷宮 砂の洞穴#
+2@lc_08.rsw#異形の迷宮 砂の洞穴#
+2@lc_09.rsw#異形の迷宮 古代遺跡#
+2@lc_10.rsw#異形の迷宮 古代遺跡#
+2@lc_11.rsw#異形の迷宮 古代遺跡#
+2@lc_12.rsw#異形の迷宮 古代遺跡#
+2@lc_13.rsw#異形の迷宮 魂の牢獄#
+2@lc_14.rsw#異形の迷宮 魂の牢獄#
+2@lc_15.rsw#異形の迷宮 魂の牢獄#
+2@lc_16.rsw#異形の迷宮 魂の牢獄#
+2@lc_17.rsw#異形の迷宮 次元の裂け目#
+2@lc_18.rsw#異形の迷宮 次元の裂け目#
+2@lc_19.rsw#異形の迷宮 果てなき荒野#
+2@lc_20.rsw#異形の迷宮 忘れられた炭鉱#
+2@lc_21.rsw#異形の迷宮 疫病街#
+2@lc_22.rsw#異形の迷宮 最下層#
+2@lc_23.rsw#異形の迷宮 秘密の通路#
+2@lc_24.rsw#異形の迷宮 秘密の通路#
+2@lc_25.rsw#異形の迷宮 実験棟入口#
+2@lc_26.rsw#異形の迷宮 実験棟#
+2@lc_27.rsw#異形の迷宮 実験棟#
+2@lc_28.rsw#異形の迷宮 実験棟地下#
+2@lc_29.rsw#異形の迷宮 実験棟地下#
+2@lc_30.rsw#異形の迷宮 実験棟地下#
+2@lc_31.rsw#異形の迷宮 最終実験室#
+2@lc_99.rsw#異形の迷宮 隠された聖域#
+3@lc_00.rsw#異形の迷宮 永遠の悪夢#
+4@lc_00.rsw#異形の迷宮 夢の終点#
+5@lc_00.rsw#異形の迷宮 夢の終わり#
+//------------------------------------------------
+ice_d03_i.rsw#フローズンメモリー#
+pay_d03_i.rsw#月夜花の悪夢#
+//------------------------------------------------
+ma_night3.rsw#リトル・INN・ベーダー51号室#
+//------------------------------------------------
+gef_d01_i.rsw#250 ページ(クエスト)#
+gef_d01_j.rsw#250 ページ#
+//------------------------------------------------
+guild_in1.rsw#冒険者ギルド#
+guild_in2.rsw#冒険者ギルド(夕暮れ時)#
+guild_in3.rsw#冒険者ギルド(丑三つ時)#
+guild_in4.rsw#冒険者ギルド(夜明け前)#
+//------------------------------------------------
+jp_ev_map07.rsw#わからない所#
+//------------------------------------------------
+world_st01.rsw#Yggdrasill用倉庫#
+world_st02.rsw#通常ワールド間倉庫(スタンダードプラン)#
+world_st03.rsw#通常ワールド間倉庫(エキスパートプラン)#
+//------------------------------------------------
+tur_d03_i.rsw#悲しみの陽居村(クエスト)#
+tur_d04_i.rsw#薄暗い久陽宮(クエスト)#
+tur_d03_j.rsw#悲しみの陽居村#
+tur_d04_j.rsw#薄暗い久陽宮#
+//------------------------------------------------
+hallow_02.rsw#ホテル(地下)#
+//------------------------------------------------
+izluded.rsw#悠久の商業都市イズルード#
+d_port01.rsw#悠久の商港#
+d_port02.rsw#悠久の商港(夕暮れ時)#
+d_port03.rsw#悠久の商港(夜明け前)#
+d_port04.rsw#悠久の商港(丑三つ時)#
+d_port05.rsw#悠久の商港(朝焼け時)#
+//------------------------------------------------
+pab_dun05.rsw#プロンテラ深淵(農場)#
+pab_dun07.rsw#プロンテラ深淵(表層回廊[1])#
+pab_dun05c.rsw#プロンテラ深淵(表層庭園[2])#
+pab_dun07c.rsw#プロンテラ深淵(表層回廊[2])#
+pab_dun09.rsw#プロンテラ深淵(森林)#
+pab_dun10.rsw#プロンテラ深淵(渓谷)#
+pab_dun09c.rsw#プロンテラ深淵(森林[2])#
+pab_dun10c.rsw#プロンテラ深淵(渓谷[2])#
+1@gt_00.rsw#グローザ王墓(王墓入口)#
+1@gt_01.rsw#グローザ王墓#
+2@gt_00.rsw#グローザ王墓(最深部)#
+pab_dun11.rsw#プロンテラ深淵(草原)#
+pab_dun12.rsw#プロンテラ深淵(洞窟)#
+pab_base01.rsw#プロンテラ深淵(基地[1])#
+pab_base02.rsw#プロンテラ深淵(基地[2])#
+pab_base03.rsw#プロンテラ深淵(基地[3])#
+pab_base04.rsw#プロンテラ深淵(基地[4])#
+pab_base05.rsw#プロンテラ深淵(基地[5])#
+1_tiamat_00.rsw#王城ティアマト(王城入口)#
+1_tiamat_01.rsw#王城ティアマト#
+1_tiamat_02.rsw#王城ティアマト#
+1_tiamat_03.rsw#王城ティアマト#
+1_tiamat_04.rsw#王城ティアマト#
+1_tiamat_05.rsw#王城ティアマト#
+1_tiamat_06.rsw#王城ティアマト#
+1_tiamat_07.rsw#王城ティアマト#
+1_tiamat_08.rsw#王城ティアマト#
+1_tiamat_09.rsw#王城ティアマト#
+1_tiamat_10.rsw#王城ティアマト#
+1_tiamat_11.rsw#王城ティアマト#
+1_tiamat_12.rsw#王城ティアマト#
+1_tiamat_13.rsw#王城ティアマト#
+1_tiamat_14.rsw#王城ティアマト#
+1_tiamat_15.rsw#王城ティアマト#
+1_tiamat_16.rsw#王城ティアマト#
+1_tiamat_17.rsw#王城ティアマト#
+1_tiamat_18.rsw#王城ティアマト#
+1_tiamat_19.rsw#王城ティアマト#
+1_tiamat_20.rsw#王城ティアマト#
+1_tiamat_22.rsw#王城ティアマト#
+1_tiamat_23.rsw#王城ティアマト#
+1_tiamat_25.rsw#王城ティアマト#
+1_tiamat_26.rsw#王城ティアマト#
+1_tiamat_29.rsw#王城ティアマト#
+1_tiamat_30.rsw#王城ティアマト#
+1_tiamat_31.rsw#王城ティアマト#
+1_tiamat_32.rsw#王城ティアマト#
+1_tiamat_33.rsw#王城ティアマト#
+1_tiamat_34.rsw#王城ティアマト#
+1_tiamat_35.rsw#王城ティアマト#
+1_tiamat_36.rsw#王城ティアマト#
+1_tiamat_37.rsw#王城ティアマト#
+1_tiamat_38.rsw#王城ティアマト#
+1_tiamat_39.rsw#王城ティアマト#
+1_tiamat_40.rsw#王城ティアマト#
+1_tiamat_41.rsw#王城ティアマト#
+1_tiamat_42.rsw#王城ティアマト#
+1_tiamat_43.rsw#王城ティアマト#
+1_tiamat_44.rsw#王城ティアマト#
+1_tiamat_45.rsw#王城ティアマト#
+1_tiamat_46.rsw#王城ティアマト#
+1_tiamat_47.rsw#王城ティアマト#
+1_tiamat_48.rsw#王城ティアマト#
+1_tiamat_49.rsw#王城ティアマト#
+1_tiamat_50.rsw#王城ティアマト#
+1_tiamat_51.rsw#王城ティアマト#
+1_tiamat_52.rsw#王城ティアマト#
+1_tiamat_53.rsw#王城ティアマト#
+1_tiamat_54.rsw#王城ティアマト#
+1_tiamat_55.rsw#王城ティアマト#
+1_tiamat_56.rsw#王城ティアマト#
+1_tiamat_57.rsw#王城ティアマト#
+1_tiamat_58.rsw#王城ティアマト#
+1_tiamat_59.rsw#王城ティアマト#
+1_tiamat_60.rsw#王城ティアマト#
+1_tiamat_61.rsw#王城ティアマト#
+1_tiamat_62.rsw#王城ティアマト#
+1_tiamat_63.rsw#王城ティアマト#
+2_tiamat_00.rsw#王城ティアマト(地下祭壇)#
+2_tiamat_01.rsw#王城ティアマト(地下祭儀場)#
+2_tiamat_02.rsw#王城ティアマト(深淵の玉座)#
+3_tiamat_00.rsw#王城ティアマト(秘密の部屋)#
+//------------------------------------------------
+valkyrie_ex.rsw#ヴァルキリー神殿（フリョーズ）#
+poring_ad.rsw#ポリン団秘密基地#
+//------------------------------------------------
+1@eom_jp.rsw#魔神殿入口#
+//------------------------------------------------
+ein_d02_i.rsw#ネジリアン帝国#
+ein_d02_i_q.rsw#ネジリアン帝国(クエスト)#
+//------------------------------------------------
+base201.rsw#マッチング戦 第1会場 第01控室#
+base202.rsw#マッチング戦 第1会場 第02控室#
+base203.rsw#マッチング戦 第1会場 第03控室#
+base204.rsw#マッチング戦 第1会場 第04控室#
+base205.rsw#マッチング戦 第1会場 第05控室#
+base206.rsw#マッチング戦 第1会場 第06控室#
+base207.rsw#マッチング戦 第1会場 第07控室#
+base208.rsw#マッチング戦 第1会場 第08控室#
+base209.rsw#マッチング戦 第1会場 第09控室#
+base210.rsw#マッチング戦 第1会場 第10控室#
+base211.rsw#マッチング戦 第1会場 第11控室#
+base212.rsw#マッチング戦 第1会場 第12控室#
+base213.rsw#マッチング戦 第1会場 第13控室#
+base214.rsw#マッチング戦 第1会場 第14控室#
+base215.rsw#マッチング戦 第1会場 第15控室#
+base216.rsw#マッチング戦 第1会場 第16控室#
+base217.rsw#マッチング戦 第1会場 第17控室#
+base218.rsw#マッチング戦 第1会場 第18控室#
+base219.rsw#マッチング戦 第1会場 第19控室#
+base220.rsw#マッチング戦 第1会場 第20控室#
+base221.rsw#マッチング戦 第2会場 第21控室#
+base222.rsw#マッチング戦 第2会場 第22控室#
+base223.rsw#マッチング戦 第2会場 第23控室#
+base224.rsw#マッチング戦 第2会場 第24控室#
+base225.rsw#マッチング戦 第2会場 第25控室#
+base226.rsw#マッチング戦 第2会場 第26控室#
+base227.rsw#マッチング戦 第2会場 第27控室#
+base228.rsw#マッチング戦 第2会場 第28控室#
+base229.rsw#マッチング戦 第2会場 第29控室#
+base230.rsw#マッチング戦 第2会場 第30控室#
+base231.rsw#マッチング戦 第2会場 第31控室#
+base232.rsw#マッチング戦 第2会場 第32控室#
+base233.rsw#マッチング戦 第2会場 第33控室#
+base234.rsw#マッチング戦 第2会場 第34控室#
+base235.rsw#マッチング戦 第2会場 第35控室#
+base236.rsw#マッチング戦 第2会場 第36控室#
+base237.rsw#マッチング戦 第2会場 第37控室#
+base238.rsw#マッチング戦 第2会場 第38控室#
+base239.rsw#マッチング戦 第2会場 第39控室#
+base240.rsw#マッチング戦 第2会場 第40控室#
+//------------------------------------------------
+com_d02_i.rsw#幻想の北洞窟ルワンダ#
+com_d02_i_q.rsw#幻想の北洞窟ルワンダ(クエスト)#
+//------------------------------------------------
+1_venue1_00.rsw#王城ティアマト(王城入口)#
+1_venue1_01.rsw#王城ティアマト#
+1_venue1_02.rsw#王城ティアマト#
+1_venue1_03.rsw#王城ティアマト#
+1_venue1_04.rsw#王城ティアマト#
+1_venue1_05.rsw#王城ティアマト#
+1_venue1_06.rsw#王城ティアマト#
+1_venue1_07.rsw#王城ティアマト#
+1_venue1_08.rsw#王城ティアマト#
+1_venue1_09.rsw#王城ティアマト#
+1_venue1_10.rsw#王城ティアマト#
+1_venue1_11.rsw#王城ティアマト#
+1_venue1_12.rsw#王城ティアマト#
+1_venue1_13.rsw#王城ティアマト#
+1_venue1_14.rsw#王城ティアマト#
+1_venue1_15.rsw#王城ティアマト#
+1_venue1_16.rsw#王城ティアマト#
+1_venue1_17.rsw#王城ティアマト#
+1_venue1_18.rsw#王城ティアマト#
+1_venue1_19.rsw#王城ティアマト#
+1_venue1_20.rsw#王城ティアマト#
+1_venue1_22.rsw#王城ティアマト#
+1_venue1_23.rsw#王城ティアマト#
+1_venue1_25.rsw#王城ティアマト#
+1_venue1_26.rsw#王城ティアマト#
+1_venue1_29.rsw#王城ティアマト#
+1_venue1_30.rsw#王城ティアマト#
+1_venue1_31.rsw#王城ティアマト#
+1_venue1_32.rsw#王城ティアマト#
+1_venue1_33.rsw#王城ティアマト#
+1_venue1_34.rsw#王城ティアマト#
+1_venue1_35.rsw#王城ティアマト#
+1_venue1_36.rsw#王城ティアマト#
+1_venue1_37.rsw#王城ティアマト#
+1_venue1_38.rsw#王城ティアマト#
+1_venue1_39.rsw#王城ティアマト#
+1_venue1_40.rsw#王城ティアマト#
+1_venue1_41.rsw#王城ティアマト#
+1_venue1_42.rsw#王城ティアマト#
+1_venue1_43.rsw#王城ティアマト#
+1_venue1_44.rsw#王城ティアマト#
+1_venue1_45.rsw#王城ティアマト#
+1_venue1_46.rsw#王城ティアマト#
+1_venue1_47.rsw#王城ティアマト#
+1_venue1_48.rsw#王城ティアマト#
+1_venue1_49.rsw#王城ティアマト#
+1_venue1_50.rsw#王城ティアマト#
+1_venue1_51.rsw#王城ティアマト#
+1_venue1_52.rsw#王城ティアマト#
+1_venue1_53.rsw#王城ティアマト#
+1_venue1_54.rsw#王城ティアマト#
+1_venue1_55.rsw#王城ティアマト#
+1_venue1_56.rsw#王城ティアマト#
+1_venue1_57.rsw#王城ティアマト#
+1_venue1_58.rsw#王城ティアマト#
+1_venue1_59.rsw#王城ティアマト#
+1_venue1_60.rsw#王城ティアマト#
+1_venue1_61.rsw#王城ティアマト#
+1_venue1_62.rsw#王城ティアマト#
+1_venue1_63.rsw#王城ティアマト#
+2_venue1_00.rsw#王城ティアマト(地下祭壇)#
+2_venue1_01.rsw#王城ティアマト(地下祭儀場)#
+2_venue1_02.rsw#王城ティアマト(深淵の玉座)#
+3_venue1_00.rsw#王城ティアマト(秘密の部屋)#
+1_venue2_00.rsw#王城ティアマト(王城入口)#
+1_venue2_01.rsw#王城ティアマト#
+1_venue2_02.rsw#王城ティアマト#
+1_venue2_03.rsw#王城ティアマト#
+1_venue2_04.rsw#王城ティアマト#
+1_venue2_05.rsw#王城ティアマト#
+1_venue2_06.rsw#王城ティアマト#
+1_venue2_07.rsw#王城ティアマト#
+1_venue2_08.rsw#王城ティアマト#
+1_venue2_09.rsw#王城ティアマト#
+1_venue2_10.rsw#王城ティアマト#
+1_venue2_11.rsw#王城ティアマト#
+1_venue2_12.rsw#王城ティアマト#
+1_venue2_13.rsw#王城ティアマト#
+1_venue2_14.rsw#王城ティアマト#
+1_venue2_15.rsw#王城ティアマト#
+1_venue2_16.rsw#王城ティアマト#
+1_venue2_17.rsw#王城ティアマト#
+1_venue2_18.rsw#王城ティアマト#
+1_venue2_19.rsw#王城ティアマト#
+1_venue2_20.rsw#王城ティアマト#
+1_venue2_22.rsw#王城ティアマト#
+1_venue2_23.rsw#王城ティアマト#
+1_venue2_25.rsw#王城ティアマト#
+1_venue2_26.rsw#王城ティアマト#
+1_venue2_29.rsw#王城ティアマト#
+1_venue2_30.rsw#王城ティアマト#
+1_venue2_31.rsw#王城ティアマト#
+1_venue2_32.rsw#王城ティアマト#
+1_venue2_33.rsw#王城ティアマト#
+1_venue2_34.rsw#王城ティアマト#
+1_venue2_35.rsw#王城ティアマト#
+1_venue2_36.rsw#王城ティアマト#
+1_venue2_37.rsw#王城ティアマト#
+1_venue2_38.rsw#王城ティアマト#
+1_venue2_39.rsw#王城ティアマト#
+1_venue2_40.rsw#王城ティアマト#
+1_venue2_41.rsw#王城ティアマト#
+1_venue2_42.rsw#王城ティアマト#
+1_venue2_43.rsw#王城ティアマト#
+1_venue2_44.rsw#王城ティアマト#
+1_venue2_45.rsw#王城ティアマト#
+1_venue2_46.rsw#王城ティアマト#
+1_venue2_47.rsw#王城ティアマト#
+1_venue2_48.rsw#王城ティアマト#
+1_venue2_49.rsw#王城ティアマト#
+1_venue2_50.rsw#王城ティアマト#
+1_venue2_51.rsw#王城ティアマト#
+1_venue2_52.rsw#王城ティアマト#
+1_venue2_53.rsw#王城ティアマト#
+1_venue2_54.rsw#王城ティアマト#
+1_venue2_55.rsw#王城ティアマト#
+1_venue2_56.rsw#王城ティアマト#
+1_venue2_57.rsw#王城ティアマト#
+1_venue2_58.rsw#王城ティアマト#
+1_venue2_59.rsw#王城ティアマト#
+1_venue2_60.rsw#王城ティアマト#
+1_venue2_61.rsw#王城ティアマト#
+1_venue2_62.rsw#王城ティアマト#
+1_venue2_63.rsw#王城ティアマト#
+2_venue2_00.rsw#王城ティアマト(地下祭壇)#
+2_venue2_01.rsw#王城ティアマト(地下祭儀場)#
+2_venue2_02.rsw#王城ティアマト(深淵の玉座)#
+3_venue2_00.rsw#王城ティアマト(秘密の部屋)#
+//------------------------------------------------
+pab_base001.rsw#デヒョン地方[基地01]#
+pab_base002.rsw#デヒョン地方[基地02]#
+pab_base003.rsw#デヒョン地方[基地03]#
+pab_base004.rsw#デヒョン地方[基地04]#
+pab_base005.rsw#ヒュリエル地方[基地01]#
+pab_base006.rsw#ヒュリエル地方[基地02]#
+pab_base007.rsw#ヒュリエル地方[基地03]#
+pab_base008.rsw#ヒュリエル地方[基地04]#
+pab_base009.rsw#ジオイア地方[基地01]#
+pab_base010.rsw#ジオイア地方[基地02]#
+pab_base011.rsw#ジオイア地方[基地03]#
+pab_base012.rsw#ジオイア地方[基地04]#
+pab_base013.rsw#カデス地方[基地01]#
+pab_base014.rsw#カデス地方[基地02]#
+pab_base015.rsw#カデス地方[基地03]#
+pab_base016.rsw#カデス地方[基地04]#
+//------------------------------------------------
+1_tiamat100.rsw#王城ティアマト[デヒョン](王城入口)#
+1_tiamat101.rsw#王城ティアマト[デヒョン]#
+1_tiamat102.rsw#王城ティアマト[デヒョン]#
+1_tiamat103.rsw#王城ティアマト[デヒョン]#
+1_tiamat104.rsw#王城ティアマト[デヒョン]#
+1_tiamat105.rsw#王城ティアマト[デヒョン]#
+1_tiamat106.rsw#王城ティアマト[デヒョン]#
+1_tiamat107.rsw#王城ティアマト[デヒョン]#
+1_tiamat108.rsw#王城ティアマト[デヒョン]#
+1_tiamat109.rsw#王城ティアマト[デヒョン]#
+1_tiamat110.rsw#王城ティアマト[デヒョン]#
+1_tiamat111.rsw#王城ティアマト[デヒョン]#
+1_tiamat112.rsw#王城ティアマト[デヒョン]#
+1_tiamat113.rsw#王城ティアマト[デヒョン]#
+1_tiamat114.rsw#王城ティアマト[デヒョン]#
+1_tiamat115.rsw#王城ティアマト[デヒョン]#
+1_tiamat116.rsw#王城ティアマト[デヒョン]#
+1_tiamat117.rsw#王城ティアマト[デヒョン]#
+1_tiamat118.rsw#王城ティアマト[デヒョン]#
+1_tiamat119.rsw#王城ティアマト[デヒョン]#
+1_tiamat120.rsw#王城ティアマト[デヒョン]#
+1_tiamat122.rsw#王城ティアマト[デヒョン]#
+1_tiamat123.rsw#王城ティアマト[デヒョン]#
+1_tiamat125.rsw#王城ティアマト[デヒョン]#
+1_tiamat126.rsw#王城ティアマト[デヒョン]#
+1_tiamat129.rsw#王城ティアマト[デヒョン]#
+1_tiamat130.rsw#王城ティアマト[デヒョン]#
+1_tiamat131.rsw#王城ティアマト[デヒョン]#
+1_tiamat132.rsw#王城ティアマト[デヒョン]#
+1_tiamat133.rsw#王城ティアマト[デヒョン]#
+1_tiamat134.rsw#王城ティアマト[デヒョン]#
+1_tiamat135.rsw#王城ティアマト[デヒョン]#
+1_tiamat136.rsw#王城ティアマト[デヒョン]#
+1_tiamat137.rsw#王城ティアマト[デヒョン]#
+1_tiamat138.rsw#王城ティアマト[デヒョン]#
+1_tiamat139.rsw#王城ティアマト[デヒョン]#
+1_tiamat140.rsw#王城ティアマト[デヒョン]#
+1_tiamat141.rsw#王城ティアマト[デヒョン]#
+1_tiamat142.rsw#王城ティアマト[デヒョン]#
+1_tiamat143.rsw#王城ティアマト[デヒョン]#
+1_tiamat144.rsw#王城ティアマト[デヒョン]#
+1_tiamat145.rsw#王城ティアマト[デヒョン]#
+1_tiamat146.rsw#王城ティアマト[デヒョン]#
+1_tiamat147.rsw#王城ティアマト[デヒョン]#
+1_tiamat148.rsw#王城ティアマト[デヒョン]#
+1_tiamat149.rsw#王城ティアマト[デヒョン]#
+1_tiamat150.rsw#王城ティアマト[デヒョン]#
+1_tiamat151.rsw#王城ティアマト[デヒョン]#
+1_tiamat152.rsw#王城ティアマト[デヒョン]#
+1_tiamat153.rsw#王城ティアマト[デヒョン]#
+1_tiamat154.rsw#王城ティアマト[デヒョン]#
+1_tiamat155.rsw#王城ティアマト[デヒョン]#
+1_tiamat156.rsw#王城ティアマト[デヒョン]#
+1_tiamat157.rsw#王城ティアマト[デヒョン]#
+1_tiamat158.rsw#王城ティアマト[デヒョン]#
+1_tiamat159.rsw#王城ティアマト[デヒョン]#
+1_tiamat160.rsw#王城ティアマト[デヒョン]#
+1_tiamat161.rsw#王城ティアマト[デヒョン]#
+1_tiamat162.rsw#王城ティアマト[デヒョン]#
+1_tiamat163.rsw#王城ティアマト[デヒョン]#
+2_tiamat100.rsw#王城ティアマト[デヒョン](地下祭壇)#
+2_tiamat101.rsw#王城ティアマト[デヒョン](地下祭儀場)#
+2_tiamat102.rsw#王城ティアマト[デヒョン](深淵の玉座)#
+3_tiamat100.rsw#王城ティアマト[デヒョン](秘密の部屋)#
+//------------------------------------------------
+1_tiamat200.rsw#王城ティアマト[ヒュリエル](王城入口)#
+1_tiamat201.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat202.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat203.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat204.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat205.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat206.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat207.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat208.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat209.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat210.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat211.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat212.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat213.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat214.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat215.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat216.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat217.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat218.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat219.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat220.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat222.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat223.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat225.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat226.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat229.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat230.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat231.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat232.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat233.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat234.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat235.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat236.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat237.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat238.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat239.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat240.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat241.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat242.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat243.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat244.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat245.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat246.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat247.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat248.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat249.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat250.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat251.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat252.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat253.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat254.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat255.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat256.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat257.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat258.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat259.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat260.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat261.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat262.rsw#王城ティアマト[ヒュリエル]#
+1_tiamat263.rsw#王城ティアマト[ヒュリエル]#
+2_tiamat200.rsw#王城ティアマト[ヒュリエル](地下祭壇)#
+2_tiamat201.rsw#王城ティアマト[ヒュリエル](地下祭儀場)#
+2_tiamat202.rsw#王城ティアマト[ヒュリエル](深淵の玉座)#
+3_tiamat200.rsw#王城ティアマト[ヒュリエル](秘密の部屋)#
+//------------------------------------------------
+1_tiamat300.rsw#王城ティアマト[ジオイア](王城入口)#
+1_tiamat301.rsw#王城ティアマト[ジオイア]#
+1_tiamat302.rsw#王城ティアマト[ジオイア]#
+1_tiamat303.rsw#王城ティアマト[ジオイア]#
+1_tiamat304.rsw#王城ティアマト[ジオイア]#
+1_tiamat305.rsw#王城ティアマト[ジオイア]#
+1_tiamat306.rsw#王城ティアマト[ジオイア]#
+1_tiamat307.rsw#王城ティアマト[ジオイア]#
+1_tiamat308.rsw#王城ティアマト[ジオイア]#
+1_tiamat309.rsw#王城ティアマト[ジオイア]#
+1_tiamat310.rsw#王城ティアマト[ジオイア]#
+1_tiamat311.rsw#王城ティアマト[ジオイア]#
+1_tiamat312.rsw#王城ティアマト[ジオイア]#
+1_tiamat313.rsw#王城ティアマト[ジオイア]#
+1_tiamat314.rsw#王城ティアマト[ジオイア]#
+1_tiamat315.rsw#王城ティアマト[ジオイア]#
+1_tiamat316.rsw#王城ティアマト[ジオイア]#
+1_tiamat317.rsw#王城ティアマト[ジオイア]#
+1_tiamat318.rsw#王城ティアマト[ジオイア]#
+1_tiamat319.rsw#王城ティアマト[ジオイア]#
+1_tiamat320.rsw#王城ティアマト[ジオイア]#
+1_tiamat322.rsw#王城ティアマト[ジオイア]#
+1_tiamat323.rsw#王城ティアマト[ジオイア]#
+1_tiamat325.rsw#王城ティアマト[ジオイア]#
+1_tiamat326.rsw#王城ティアマト[ジオイア]#
+1_tiamat329.rsw#王城ティアマト[ジオイア]#
+1_tiamat330.rsw#王城ティアマト[ジオイア]#
+1_tiamat331.rsw#王城ティアマト[ジオイア]#
+1_tiamat332.rsw#王城ティアマト[ジオイア]#
+1_tiamat333.rsw#王城ティアマト[ジオイア]#
+1_tiamat334.rsw#王城ティアマト[ジオイア]#
+1_tiamat335.rsw#王城ティアマト[ジオイア]#
+1_tiamat336.rsw#王城ティアマト[ジオイア]#
+1_tiamat337.rsw#王城ティアマト[ジオイア]#
+1_tiamat338.rsw#王城ティアマト[ジオイア]#
+1_tiamat339.rsw#王城ティアマト[ジオイア]#
+1_tiamat340.rsw#王城ティアマト[ジオイア]#
+1_tiamat341.rsw#王城ティアマト[ジオイア]#
+1_tiamat342.rsw#王城ティアマト[ジオイア]#
+1_tiamat343.rsw#王城ティアマト[ジオイア]#
+1_tiamat344.rsw#王城ティアマト[ジオイア]#
+1_tiamat345.rsw#王城ティアマト[ジオイア]#
+1_tiamat346.rsw#王城ティアマト[ジオイア]#
+1_tiamat347.rsw#王城ティアマト[ジオイア]#
+1_tiamat348.rsw#王城ティアマト[ジオイア]#
+1_tiamat349.rsw#王城ティアマト[ジオイア]#
+1_tiamat350.rsw#王城ティアマト[ジオイア]#
+1_tiamat351.rsw#王城ティアマト[ジオイア]#
+1_tiamat352.rsw#王城ティアマト[ジオイア]#
+1_tiamat353.rsw#王城ティアマト[ジオイア]#
+1_tiamat354.rsw#王城ティアマト[ジオイア]#
+1_tiamat355.rsw#王城ティアマト[ジオイア]#
+1_tiamat356.rsw#王城ティアマト[ジオイア]#
+1_tiamat357.rsw#王城ティアマト[ジオイア]#
+1_tiamat358.rsw#王城ティアマト[ジオイア]#
+1_tiamat359.rsw#王城ティアマト[ジオイア]#
+1_tiamat360.rsw#王城ティアマト[ジオイア]#
+1_tiamat361.rsw#王城ティアマト[ジオイア]#
+1_tiamat362.rsw#王城ティアマト[ジオイア]#
+1_tiamat363.rsw#王城ティアマト[ジオイア]#
+2_tiamat300.rsw#王城ティアマト[ジオイア](地下祭壇)#
+2_tiamat301.rsw#王城ティアマト[ジオイア](地下祭儀場)#
+2_tiamat302.rsw#王城ティアマト[ジオイア](深淵の玉座)#
+3_tiamat300.rsw#王城ティアマト[ジオイア](秘密の部屋)#
+//------------------------------------------------
+1_tiamat400.rsw#王城ティアマト[カデス](王城入口)#
+1_tiamat401.rsw#王城ティアマト[カデス]#
+1_tiamat402.rsw#王城ティアマト[カデス]#
+1_tiamat403.rsw#王城ティアマト[カデス]#
+1_tiamat404.rsw#王城ティアマト[カデス]#
+1_tiamat405.rsw#王城ティアマト[カデス]#
+1_tiamat406.rsw#王城ティアマト[カデス]#
+1_tiamat407.rsw#王城ティアマト[カデス]#
+1_tiamat408.rsw#王城ティアマト[カデス]#
+1_tiamat409.rsw#王城ティアマト[カデス]#
+1_tiamat410.rsw#王城ティアマト[カデス]#
+1_tiamat411.rsw#王城ティアマト[カデス]#
+1_tiamat412.rsw#王城ティアマト[カデス]#
+1_tiamat413.rsw#王城ティアマト[カデス]#
+1_tiamat414.rsw#王城ティアマト[カデス]#
+1_tiamat415.rsw#王城ティアマト[カデス]#
+1_tiamat416.rsw#王城ティアマト[カデス]#
+1_tiamat417.rsw#王城ティアマト[カデス]#
+1_tiamat418.rsw#王城ティアマト[カデス]#
+1_tiamat419.rsw#王城ティアマト[カデス]#
+1_tiamat420.rsw#王城ティアマト[カデス]#
+1_tiamat422.rsw#王城ティアマト[カデス]#
+1_tiamat423.rsw#王城ティアマト[カデス]#
+1_tiamat425.rsw#王城ティアマト[カデス]#
+1_tiamat426.rsw#王城ティアマト[カデス]#
+1_tiamat429.rsw#王城ティアマト[カデス]#
+1_tiamat430.rsw#王城ティアマト[カデス]#
+1_tiamat431.rsw#王城ティアマト[カデス]#
+1_tiamat432.rsw#王城ティアマト[カデス]#
+1_tiamat433.rsw#王城ティアマト[カデス]#
+1_tiamat434.rsw#王城ティアマト[カデス]#
+1_tiamat435.rsw#王城ティアマト[カデス]#
+1_tiamat436.rsw#王城ティアマト[カデス]#
+1_tiamat437.rsw#王城ティアマト[カデス]#
+1_tiamat438.rsw#王城ティアマト[カデス]#
+1_tiamat439.rsw#王城ティアマト[カデス]#
+1_tiamat440.rsw#王城ティアマト[カデス]#
+1_tiamat441.rsw#王城ティアマト[カデス]#
+1_tiamat442.rsw#王城ティアマト[カデス]#
+1_tiamat443.rsw#王城ティアマト[カデス]#
+1_tiamat444.rsw#王城ティアマト[カデス]#
+1_tiamat445.rsw#王城ティアマト[カデス]#
+1_tiamat446.rsw#王城ティアマト[カデス]#
+1_tiamat447.rsw#王城ティアマト[カデス]#
+1_tiamat448.rsw#王城ティアマト[カデス]#
+1_tiamat449.rsw#王城ティアマト[カデス]#
+1_tiamat450.rsw#王城ティアマト[カデス]#
+1_tiamat451.rsw#王城ティアマト[カデス]#
+1_tiamat452.rsw#王城ティアマト[カデス]#
+1_tiamat453.rsw#王城ティアマト[カデス]#
+1_tiamat454.rsw#王城ティアマト[カデス]#
+1_tiamat455.rsw#王城ティアマト[カデス]#
+1_tiamat456.rsw#王城ティアマト[カデス]#
+1_tiamat457.rsw#王城ティアマト[カデス]#
+1_tiamat458.rsw#王城ティアマト[カデス]#
+1_tiamat459.rsw#王城ティアマト[カデス]#
+1_tiamat460.rsw#王城ティアマト[カデス]#
+1_tiamat461.rsw#王城ティアマト[カデス]#
+1_tiamat462.rsw#王城ティアマト[カデス]#
+1_tiamat463.rsw#王城ティアマト[カデス]#
+2_tiamat400.rsw#王城ティアマト[カデス](地下祭壇)#
+2_tiamat401.rsw#王城ティアマト[カデス](地下祭儀場)#
+2_tiamat402.rsw#王城ティアマト[カデス](深淵の玉座)#
+3_tiamat400.rsw#王城ティアマト[カデス](秘密の部屋)#
+//------------------------------------------------
+ama_st1_a.rsw#夜桜に霞むアマツ#
+ama_st1_b.rsw#夜桜に霞むアマツ（深夜）#
+ama_in_jp.rsw#あさねのおふぃす#
+//------------------------------------------------
+jp_ev_map57.rsw#キャラバンキャンプ#
+//------------------------------------------------
+1@gol1.rsw#生体実験棟(会話)#
+1@gol2.rsw#死体保管所(会話)#
+1@gol1b.rsw#生体実験棟(戦闘)#
+1@gol2b.rsw#死体保管所(戦闘)#
+//------------------------------------------------
+jp_ev_map53.rsw#わからない所#
+//------------------------------------------------
+levelroom01.rsw#レベルルーム01#
+levelroom02.rsw#レベルルーム02#
+//------------------------------------------------
+guild_ap1.rsw#冒険者ギルド 管理室1#
+guild_ap2.rsw#冒険者ギルド 管理室1(夕暮れ時)#
+guild_ap3.rsw#冒険者ギルド 管理室1(丑三つ時)#
+guild_ap4.rsw#冒険者ギルド 管理室1(夜明け前)#
+guild_mt1.rsw#冒険者ギルド 管理室2#
+guild_mt2.rsw#冒険者ギルド 管理室2(夕暮れ時)#
+guild_mt3.rsw#冒険者ギルド 管理室2(丑三つ時)#
+guild_mt4.rsw#冒険者ギルド 管理室2(夜明け前)#
+//------------------------------------------------
+jp_ev_map54.rsw#水底の図書館#
+jp_ev_map55.rsw#水底の図書館(深夜)#
+jp_ev_map56.rsw#澱の書庫#
+//------------------------------------------------
+fashion_01.rsw#コスミ前広場#
+fashion_02.rsw#ファッションセンター　コスミ#
+fashion_03.rsw#ファッションセンター　コスミ#
+//------------------------------------------------
+pub_cat.rsw#銃弾に乗った猫亭#
+sp_rudus.rsw#廃棄場ルドゥス 1階#
+sp_rudus2.rsw#廃棄場ルドゥス 2階#
+sp_rudus3.rsw#廃棄場ルドゥス 3階#
+rgsr_in.rsw#レゲンシュルム研究所#
+sp_os.rsw#特殊警戒地域オース#
+sp_cor.rsw#特殊警戒地域コル#
+1@rgsr.rsw#レゲンシュルム研究所(レゲンシュルム奪還作戦)#
+1@os_b.rsw#特殊警戒地域オース(封鎖されたオース)#
+1@os_a.rsw#特殊警戒地域オース(オース占領作戦)#
+1@os_c.rsw#特殊警戒地域オース(オース二次捜索)#
+1@cor_a.rsw#特殊警戒地域コル(エリュミナ捕縛作戦)#
+1@cor_b.rsw#特殊警戒地域コル(コルメモリアル)#
+//------------------------------------------------
+prt_mz03_i.rsw#歪んだ迷宮の森#
+prt_mz03_q.rsw#歪んだ迷宮の森(クエスト)#
+prt_mz01_i.rsw#歪んだ裂け目#
+prt_mz01_q.rsw#歪んだ裂け目(クエスト)#
+//------------------------------------------------
+jp_niflheim.rsw#ニブルハロウィンランド#
+jp_ev_map22.rsw#パレード準備会場#
+1@sweet.rsw#ハロウィンメイズ#
+//------------------------------------------------
+ad_island2.rsw#ミスティーアイランド(砂嵐02)#
+//------------------------------------------------
+jp_ev_map58.rsw#ドリームスター会場#
+jp_ev_map59.rsw#ドリームスター会場(早朝)#
+jp_ev_map28.rsw#ドリーム平原03#
+jp_ev_map30.rsw#ドリーム砂漠02#
+jp_ev_map34.rsw#ドリーム工場03#
+jp_ev_map40.rsw#ドリーム神殿02#
+sbat_map_b.rsw#序 喧嘩の花道[1]#
+sbat_map_d.rsw#序 喧嘩の花道[2]#
+sbat_map_e.rsw#序 喧嘩の花道[3]#
+sbat_map_i.rsw#序 喧嘩の花道[4]#
+sbat_map_p.rsw#序 喧嘩の花道[5]#
+sbat_map_s.rsw#序 喧嘩の花道[6]#
+sbat_map_u.rsw#序 喧嘩の花道[7]#
+jp_ev_cas01.rsw#破 城内舞台[1]#
+jp_ev_cas02.rsw#破 城内舞台[2]#
+jp_ev_cas03.rsw#破 城内舞台[3]#
+jp_ev_cas04.rsw#破 城内舞台[4]#
+jp_ev_cas05.rsw#破 城内舞台[5]#
+jp_ev_cas06.rsw#破 城内舞台[6]#
+jp_ev_cas21.rsw#破 城内舞台[7]#
+jp_ev_cas11.rsw#急 本丸舞台[1]#
+jp_ev_cas12.rsw#急 本丸舞台[2]#
+jp_ev_cas13.rsw#急 本丸舞台[3]#
+jp_ev_cas14.rsw#急 本丸舞台[4]#
+jp_ev_cas15.rsw#急 本丸舞台[5]#
+jp_ev_cas16.rsw#急 本丸舞台[6]#
+jp_ev_cas22.rsw#急 本丸舞台[7]#
+//------------------------------------------------
+gate_in.rsw#餅つき会場#
+//------------------------------------------------
+gl_cas01_.rsw#グラストヘイムアビス(1)#
+gl_cas01_a.rsw#グラストヘイムアビス(2)#
+mag_dun03.rsw#ノーグロード 3層(1)#
+mag_dun03a.rsw#ノーグロード 3層(2)#
+mag_dun03b.rsw#ノーグロード 3層(3)#
+//------------------------------------------------
+jp_ev_map60.rsw#ちょこるちパーク(クーベルチュール)#
+//------------------------------------------------
+pab_alter.rsw#プロンテラ深淵(洞窟深部)#
+pab_arena.rsw#プロンテラ深淵(栄光の道)#
+1@pg_1.rsw#ティアマトの試練場#
+2@pg_1.rsw#ティアマトの試練場(内部)#
+2@pg_2.rsw#ティアマトの試練場(内部)#
+2@pg_3.rsw#ティアマトの試練場(内部)#
+2@pg_4.rsw#ティアマトの試練場(内部)#
+2@pg_5.rsw#ティアマトの試練場(内部)#
+2@pg_6.rsw#ティアマトの試練場(内部)#
+2@pg_7.rsw#ティアマトの試練場(内部)#
+2@pg_8.rsw#ティアマトの試練場(内部)#
+2@pg_9.rsw#ティアマトの試練場(内部)#
+2@pg_10.rsw#ティアマトの試練場(内部)#
+1@colo.rsw#アンシャール天空闘技場#
+//------------------------------------------------
+int_map01.rsw#インタビュー会場#
+int_map02.rsw#インタビュー会場#
+int_map03.rsw#インタビュー会場#
+//------------------------------------------------
+1@gl_prq.rsw#グラストヘイムの没落 01#
+2@gl_prq.rsw#グラストヘイムの没落 02#
+//------------------------------------------------
+jp_ev_map62.rsw#繚乱のプロンテラフィールド 08#
+jp_ev_map63.rsw#繚乱のプロンテラフィールド 08(夕暮れ)#
+jp_ev_map09.rsw#ハワードの工房#
+jp_ev_map10.rsw#ハワードの工房#
+jp_ev_map61.rsw#ハワードの工房#
+jp_ev_map64.rsw#ハワードの工房#
+jp_ev_map65.rsw#ハワードの工房#
+gate_1.rsw#わからない所#
+jp_ev_map35.rsw#わからない所#
+jp_ev_map36.rsw#わからない所#
+jp_ev_map37.rsw#わからない所#
+jp_ev_map38.rsw#わからない所#
+jp_ev_map41.rsw#わからない所#
+jp_ev_map42.rsw#わからない所#
+jp_ev_map43.rsw#わからない所#
+jp_ev_map44.rsw#わからない所#
+gate_2.rsw#わからない所#
+jp_ev_map45.rsw#わからない所#
+jp_ev_map46.rsw#わからない所#
+jp_ev_map48.rsw#わからない所#
+jp_ev_map52.rsw#わからない所#
 jp_ev_map11.rsw#わからない所#
 jp_ev_map12.rsw#わからない所#
 jp_ev_map13.rsw#わからない所#
-jp_ev_map14.rsw#わからない所#
+jp_ev_map14.rsw#死立ブラック学園#
 gate_3.rsw#わからない所#
-jp_ev_map15.rsw#わからない所#
-jp_ev_map16.rsw#わからない所#
-jp_ev_map17.rsw#わからない所#
-jp_ev_map18.rsw#わからない所#
-jp_ev_map19.rsw#わからない所#
-jp_ev_map20.rsw#わからない所#
-jp_ev_map21.rsw#わからない所#
+jp_ev_map15.rsw#死立ブラック学園#
+jp_ev_map16.rsw#死立ブラック学園#
+jp_ev_map17.rsw#死立ブラック学園#
+jp_ev_map18.rsw#死立ブラック学園#
+jp_ev_map19.rsw#ニブルヘイム#
+jp_ev_map20.rsw#コンテスト会場#
+jp_ev_map21.rsw#Ｘの間#
 jp_ev_map23.rsw#わからない所#
 gate_4.rsw#わからない所#
 jp_ev_map24.rsw#わからない所#
@@ -3068,5 +3642,2162 @@ jp_ev_map29.rsw#わからない所#
 jp_ev_map31.rsw#わからない所#
 jp_ev_map32.rsw#わからない所#
 jp_ev_map33.rsw#わからない所#
+//------------------------------------------------
+ev_f_fes01.rsw#ファッションステージ#
+ev_f_fes02.rsw#ファッションステージ（夕暮れ）#
+ev_f_fes03.rsw#バトルステージ#
+ev_photo01.rsw#撮影会場(秘密の場所)#
+ev_photo02.rsw#撮影会場(サンゴ礁)#
+ev_photo03.rsw#撮影会場(異世界の森)#
+ev_photo04.rsw#撮影会場(常夏の島)#
+ev_photo05.rsw#撮影会場(覇王の間)#
+ev_photo06.rsw#撮影会場(死者の街)#
+//------------------------------------------------
+ad_island.rsw#トキ砂の島#
+1@adt.rsw#エンドレスタワーアナザーころさない　1層#
+2@adt.rsw#エンドレスタワーアナザーころさない　2層#
+3@adt.rsw#エンドレスタワーアナザーころさない　3層#
+4@adt.rsw#エンドレスタワーアナザーころさない　4層#
+5@adt.rsw#エンドレスタワーアナザーはんごろし　1層#
+6@adt.rsw#エンドレスタワーアナザーはんごろし　2層#
+7@adt.rsw#エンドレスタワーアナザーはんごろし　3層#
+8@adt.rsw#エンドレスタワーアナザーはんごろし　4層#
+9@adt.rsw#エンドレスタワーアナザーみなごろし　頂上#
+1@0adt.rsw#船(エンドレスタワーアナザー)#
+1@1adt.rsw#エンドレスタワーアナザーみなごろし　1層#
+1@2adt.rsw#エンドレスタワーアナザーみなごろし　2層#
+1@3adt.rsw#エンドレスタワーアナザーみなごろし　3層#
+1@4adt.rsw#エンドレスタワーアナザーみなごろし　4層#
+1@7adt.rsw#エンドレスタワーアナザーころさない　頂上#
+1@8adt.rsw#エンドレスタワーアナザーはんごろし　頂上#
+2@0adt.rsw#エンドレスタワーアナザーみなごろし　6層#
+//------------------------------------------------
+2@gld.rsw#特訓の間#
+//------------------------------------------------
+star_frst.rsw#流星林#
+star_in.rsw#流星林 室内#
+1@soul.rsw#魂の通路#
+//------------------------------------------------
+jobroom01.rsw#ジョブルーム01#
+jobroom02.rsw#ジョブルーム02#
+//------------------------------------------------
+jp_ev_mi1.rsw#わからない所#
+training01.rsw#特訓ルーム01#
+training02.rsw#特訓ルーム02#
+//------------------------------------------------
+ev_season01.rsw#神秘の館#
+//------------------------------------------------
+hal_main.rsw#ハロウィンパーティー会場#
+hal_fes1.rsw#パレード準備会場#
+hal_fes2.rsw#エキセントリックパレード#
+hal_mostro1.rsw#キッコ・モストロ#
+hal_mostro2.rsw#キッコ・モストロ（店長の部屋）#
+hal_mostro3.rsw#キッコ・モストロ（店長の部屋）#
+hal_field1.rsw#ハロウィンフィールド 01#
+hal_field2.rsw#ハロウィンフィールド 02#
+hal_field3.rsw#ハロウィンフィールド 03#
+//------------------------------------------------
+ba_in01.rsw#バルムント邸 室内#
+ba_pw01.rsw#第1魔力発電所#
+ba_pw02.rsw#下水処理場#
+ba_maison.rsw#バルムント邸 庭園#
+ba_lib.rsw#図書館 記憶の回廊#
+1@bamn1.rsw#薄明りの夜の庭園（バルムント邸掃討作戦）#
+1@bamq1.rsw#飛行船発着場（バルムント邸掃討作戦）#
+1@ghg.rsw#水上植物園オルトゥス・アクア#
+1@herbs1.rsw#隠された花園（隠された花園）#
+1@lost.rsw#飼育場ロストバレー#
+ba_go.rsw#水相戦場#
+ba_chess.rsw#チェックメイト#
+1@bamn2.rsw#薄明りの夜の庭園（ヘイ！スウィーティ！）#
+1@bamq2.rsw#飛行船発着場（ヘイ！スウィーティ！）#
+1@herbs2.rsw#隠された花園（保安区域）#
+2@lost.rsw#飼育場ロストバレー#
+1@bamn.rsw#薄明りの夜の庭園#
+1@bamq.rsw#飛行船発着場#
+1@herbs.rsw#隠された花園#
+ba_lost.rsw#飼育場ロストバレー#
+//------------------------------------------------
+mt1_camp_y.rsw#調査団キャンプ1#
+mt2_camp_y.rsw#調査団キャンプ2#
+mt3_camp_y.rsw#調査団キャンプ3#
+mt4_camp_y.rsw#調査団キャンプ4#
+mt5_camp_y.rsw#調査団キャンプ5#
+mt6_camp_y.rsw#調査団キャンプ6#
+mt7_camp_y.rsw#調査団キャンプ7#
+mt8_camp_y.rsw#調査団キャンプ8#
+mt1_pro_y.rsw#わからない所1#
+mt2_pro_y.rsw#わからない所2#
+mt3_pro_y.rsw#わからない所3#
+mt4_pro_y.rsw#わからない所4#
+mt5_pro_y.rsw#わからない所5#
+mt6_pro_y.rsw#わからない所6#
+mt7_pro_y.rsw#わからない所7#
+mt8_pro_y.rsw#わからない所8#
+mt1_lob_y.rsw#転送室1#
+mt2_lob_y.rsw#転送室2#
+mt3_lob_y.rsw#転送室3#
+mt4_lob_y.rsw#転送室4#
+mt5_lob_y.rsw#転送室5#
+mt6_lob_y.rsw#転送室6#
+mt7_lob_y.rsw#転送室7#
+mt8_lob_y.rsw#転送室8#
+mt1_1_a.rsw#格納庫A#
+mt1_10_a.rsw#格納庫中枢A#
+mt1_1_b.rsw#格納庫B#
+mt1_10_b.rsw#格納庫中枢B#
+mt1_1_c.rsw#格納庫C#
+mt1_10_c.rsw#格納庫中枢C#
+mt1_1_d.rsw#格納庫D#
+mt1_10_d.rsw#格納庫中枢D#
+mt1_1_e.rsw#格納庫E#
+mt1_10_e.rsw#格納庫中枢E#
+mt1_1_f.rsw#格納庫F#
+mt1_10_f.rsw#格納庫中枢F#
+mt1_1_g.rsw#格納庫G#
+mt1_10_g.rsw#格納庫中枢G#
+mt1_1_h.rsw#格納庫H#
+mt1_10_h.rsw#格納庫中枢H#
+mt1_r1.rsw#緩衝区画#
+mt2_1_a.rsw#格納庫A#
+mt2_10_a.rsw#格納庫中枢A#
+mt2_1_b.rsw#格納庫B#
+mt2_10_b.rsw#格納庫中枢B#
+mt2_1_c.rsw#格納庫C#
+mt2_10_c.rsw#格納庫中枢C#
+mt2_1_d.rsw#格納庫D#
+mt2_10_d.rsw#格納庫中枢D#
+mt2_1_e.rsw#格納庫E#
+mt2_10_e.rsw#格納庫中枢E#
+mt2_1_f.rsw#格納庫F#
+mt2_10_f.rsw#格納庫中枢F#
+mt2_1_g.rsw#格納庫G#
+mt2_10_g.rsw#格納庫中枢G#
+mt2_1_h.rsw#格納庫H#
+mt2_10_h.rsw#格納庫中枢H#
+mt2_r1.rsw#緩衝区画#
+mt3_1_a.rsw#格納庫A#
+mt3_10_a.rsw#格納庫中枢A#
+mt3_1_b.rsw#格納庫B#
+mt3_10_b.rsw#格納庫中枢B#
+mt3_1_c.rsw#格納庫C#
+mt3_10_c.rsw#格納庫中枢C#
+mt3_1_d.rsw#格納庫D#
+mt3_10_d.rsw#格納庫中枢D#
+mt3_1_e.rsw#格納庫E#
+mt3_10_e.rsw#格納庫中枢E#
+mt3_1_f.rsw#格納庫F#
+mt3_10_f.rsw#格納庫中枢F#
+mt3_1_g.rsw#格納庫G#
+mt3_10_g.rsw#格納庫中枢G#
+mt3_1_h.rsw#格納庫H#
+mt3_10_h.rsw#格納庫中枢H#
+mt3_r1.rsw#緩衝区画#
+mt4_1_a.rsw#格納庫A#
+mt4_10_a.rsw#格納庫中枢A#
+mt4_1_b.rsw#格納庫B#
+mt4_10_b.rsw#格納庫中枢B#
+mt4_1_c.rsw#格納庫C#
+mt4_10_c.rsw#格納庫中枢C#
+mt4_1_d.rsw#格納庫D#
+mt4_10_d.rsw#格納庫中枢D#
+mt4_1_e.rsw#格納庫E#
+mt4_10_e.rsw#格納庫中枢E#
+mt4_1_f.rsw#格納庫F#
+mt4_10_f.rsw#格納庫中枢F#
+mt4_1_g.rsw#格納庫G#
+mt4_10_g.rsw#格納庫中枢G#
+mt4_1_h.rsw#格納庫H#
+mt4_10_h.rsw#格納庫中枢H#
+mt4_r1.rsw#緩衝区画#
+mt5_1_a.rsw#格納庫A#
+mt5_10_a.rsw#格納庫中枢A#
+mt5_1_b.rsw#格納庫B#
+mt5_10_b.rsw#格納庫中枢B#
+mt5_1_c.rsw#格納庫C#
+mt5_10_c.rsw#格納庫中枢C#
+mt5_1_d.rsw#格納庫D#
+mt5_10_d.rsw#格納庫中枢D#
+mt5_1_e.rsw#格納庫E#
+mt5_10_e.rsw#格納庫中枢E#
+mt5_1_f.rsw#格納庫F#
+mt5_10_f.rsw#格納庫中枢F#
+mt5_1_g.rsw#格納庫G#
+mt5_10_g.rsw#格納庫中枢G#
+mt5_1_h.rsw#格納庫H#
+mt5_10_h.rsw#格納庫中枢H#
+mt5_r1.rsw#緩衝区画#
+mt6_1_a.rsw#格納庫A#
+mt6_10_a.rsw#格納庫中枢A#
+mt6_1_b.rsw#格納庫B#
+mt6_10_b.rsw#格納庫中枢B#
+mt6_1_c.rsw#格納庫C#
+mt6_10_c.rsw#格納庫中枢C#
+mt6_1_d.rsw#格納庫D#
+mt6_10_d.rsw#格納庫中枢D#
+mt6_1_e.rsw#格納庫E#
+mt6_10_e.rsw#格納庫中枢E#
+mt6_1_f.rsw#格納庫F#
+mt6_10_f.rsw#格納庫中枢F#
+mt6_1_g.rsw#格納庫G#
+mt6_10_g.rsw#格納庫中枢G#
+mt6_1_h.rsw#格納庫H#
+mt6_10_h.rsw#格納庫中枢H#
+mt6_r1.rsw#緩衝区画#
+mt7_1_a.rsw#格納庫A#
+mt7_10_a.rsw#格納庫中枢A#
+mt7_1_b.rsw#格納庫B#
+mt7_10_b.rsw#格納庫中枢B#
+mt7_1_c.rsw#格納庫C#
+mt7_10_c.rsw#格納庫中枢C#
+mt7_1_d.rsw#格納庫D#
+mt7_10_d.rsw#格納庫中枢D#
+mt7_1_e.rsw#格納庫E#
+mt7_10_e.rsw#格納庫中枢E#
+mt7_1_f.rsw#格納庫F#
+mt7_10_f.rsw#格納庫中枢F#
+mt7_1_g.rsw#格納庫G#
+mt7_10_g.rsw#格納庫中枢G#
+mt7_1_h.rsw#格納庫H#
+mt7_10_h.rsw#格納庫中枢H#
+mt7_r1.rsw#緩衝区画#
+mt8_1_a.rsw#格納庫A#
+mt8_10_a.rsw#格納庫中枢A#
+mt8_1_b.rsw#格納庫B#
+mt8_10_b.rsw#格納庫中枢B#
+mt8_1_c.rsw#格納庫C#
+mt8_10_c.rsw#格納庫中枢C#
+mt8_1_d.rsw#格納庫D#
+mt8_10_d.rsw#格納庫中枢D#
+mt8_1_e.rsw#格納庫E#
+mt8_10_e.rsw#格納庫中枢E#
+mt8_1_f.rsw#格納庫F#
+mt8_10_f.rsw#格納庫中枢F#
+mt8_1_g.rsw#格納庫G#
+mt8_10_g.rsw#格納庫中枢G#
+mt8_1_h.rsw#格納庫H#
+mt8_10_h.rsw#格納庫中枢H#
+mt8_r1.rsw#緩衝区画#
+//------------------------------------------------
+mt1_11_1.rsw#人工精霊実験場[火]#
+mt1_11_2.rsw#人工精霊実験場[風]#
+mt1_11_3.rsw#人工精霊実験場[水]#
+mt1_11_4.rsw#人工精霊実験場[地]#
+mt1_r2.rsw#実験場連絡通路#
+mt2_11_1.rsw#人工精霊実験場[火]#
+mt2_11_2.rsw#人工精霊実験場[風]#
+mt2_11_3.rsw#人工精霊実験場[水]#
+mt2_11_4.rsw#人工精霊実験場[地]#
+mt2_r2.rsw#実験場連絡通路#
+mt3_11_1.rsw#人工精霊実験場[火]#
+mt3_11_2.rsw#人工精霊実験場[風]#
+mt3_11_3.rsw#人工精霊実験場[水]#
+mt3_11_4.rsw#人工精霊実験場[地]#
+mt3_r2.rsw#実験場連絡通路#
+mt4_11_1.rsw#人工精霊実験場[火]#
+mt4_11_2.rsw#人工精霊実験場[風]#
+mt4_11_3.rsw#人工精霊実験場[水]#
+mt4_11_4.rsw#人工精霊実験場[地]#
+mt4_r2.rsw#実験場連絡通路#
+mt5_11_1.rsw#人工精霊実験場[火]#
+mt5_11_2.rsw#人工精霊実験場[風]#
+mt5_11_3.rsw#人工精霊実験場[水]#
+mt5_11_4.rsw#人工精霊実験場[地]#
+mt5_r2.rsw#実験場連絡通路#
+mt6_11_1.rsw#人工精霊実験場[火]#
+mt6_11_2.rsw#人工精霊実験場[風]#
+mt6_11_3.rsw#人工精霊実験場[水]#
+mt6_11_4.rsw#人工精霊実験場[地]#
+mt6_r2.rsw#実験場連絡通路#
+mt7_11_1.rsw#人工精霊実験場[火]#
+mt7_11_2.rsw#人工精霊実験場[風]#
+mt7_11_3.rsw#人工精霊実験場[水]#
+mt7_11_4.rsw#人工精霊実験場[地]#
+mt7_r2.rsw#実験場連絡通路#
+mt8_11_1.rsw#人工精霊実験場[火]#
+mt8_11_2.rsw#人工精霊実験場[風]#
+mt8_11_3.rsw#人工精霊実験場[水]#
+mt8_11_4.rsw#人工精霊実験場[地]#
+mt8_r2.rsw#実験場連絡通路#
+//------------------------------------------------
+val_tea1.rsw#ロイヤル・ティーパーティー#
+val_tea2.rsw#ロイヤル・キッチン#
+1@val.rsw#港#
+2@val.rsw#ルビーアイランド#
+3@val.rsw#ルビービーチ#
+4@val.rsw#ルビージャングル#
+5@val.rsw#ルビー砂漠#
+6@val.rsw#ルビルビ火山#
+1@valb.rsw#ルビーアイランド中心部#
+paramk_.rsw#イベントホール#
+//------------------------------------------------
+mt1_16_1.rsw#実験生物生産場[α棟](第1区画)#
+mt1_17_1.rsw#実験生物生産場[α棟](第2区画)#
+mt1_18_1.rsw#実験生物生産場[α棟](第3区画)#
+mt1_16_2.rsw#実験生物生産場[β棟](第1区画)#
+mt1_17_2.rsw#実験生物生産場[β棟](第2区画)#
+mt1_18_2.rsw#実験生物生産場[β棟](第3区画)#
+mt1_r3.rsw#中央管制室#
+mt2_16_1.rsw#実験生物生産場[α棟](第1区画)#
+mt2_17_1.rsw#実験生物生産場[α棟](第2区画)#
+mt2_18_1.rsw#実験生物生産場[α棟](第3区画)#
+mt2_16_2.rsw#実験生物生産場[β棟](第1区画)#
+mt2_17_2.rsw#実験生物生産場[β棟](第2区画)#
+mt2_18_2.rsw#実験生物生産場[β棟](第3区画)#
+mt2_r3.rsw#中央管制室#
+mt3_16_1.rsw#実験生物生産場[α棟](第1区画)#
+mt3_17_1.rsw#実験生物生産場[α棟](第2区画)#
+mt3_18_1.rsw#実験生物生産場[α棟](第3区画)#
+mt3_16_2.rsw#実験生物生産場[β棟](第1区画)#
+mt3_17_2.rsw#実験生物生産場[β棟](第2区画)#
+mt3_18_2.rsw#実験生物生産場[β棟](第3区画)#
+mt3_r3.rsw#中央管制室#
+mt4_16_1.rsw#実験生物生産場[α棟](第1区画)#
+mt4_17_1.rsw#実験生物生産場[α棟](第2区画)#
+mt4_18_1.rsw#実験生物生産場[α棟](第3区画)#
+mt4_16_2.rsw#実験生物生産場[β棟](第1区画)#
+mt4_17_2.rsw#実験生物生産場[β棟](第2区画)#
+mt4_18_2.rsw#実験生物生産場[β棟](第3区画)#
+mt4_r3.rsw#中央管制室#
+mt5_16_1.rsw#実験生物生産場[α棟](第1区画)#
+mt5_17_1.rsw#実験生物生産場[α棟](第2区画)#
+mt5_18_1.rsw#実験生物生産場[α棟](第3区画)#
+mt5_16_2.rsw#実験生物生産場[β棟](第1区画)#
+mt5_17_2.rsw#実験生物生産場[β棟](第2区画)#
+mt5_18_2.rsw#実験生物生産場[β棟](第3区画)#
+mt5_r3.rsw#中央管制室#
+mt6_16_1.rsw#実験生物生産場[α棟](第1区画)#
+mt6_17_1.rsw#実験生物生産場[α棟](第2区画)#
+mt6_18_1.rsw#実験生物生産場[α棟](第3区画)#
+mt6_16_2.rsw#実験生物生産場[β棟](第1区画)#
+mt6_17_2.rsw#実験生物生産場[β棟](第2区画)#
+mt6_18_2.rsw#実験生物生産場[β棟](第3区画)#
+mt6_r3.rsw#中央管制室#
+mt7_16_1.rsw#実験生物生産場[α棟](第1区画)#
+mt7_17_1.rsw#実験生物生産場[α棟](第2区画)#
+mt7_18_1.rsw#実験生物生産場[α棟](第3区画)#
+mt7_16_2.rsw#実験生物生産場[β棟](第1区画)#
+mt7_17_2.rsw#実験生物生産場[β棟](第2区画)#
+mt7_18_2.rsw#実験生物生産場[β棟](第3区画)#
+mt7_r3.rsw#中央管制室#
+mt8_16_1.rsw#実験生物生産場[α棟](第1区画)#
+mt8_17_1.rsw#実験生物生産場[α棟](第2区画)#
+mt8_18_1.rsw#実験生物生産場[α棟](第3区画)#
+mt8_16_2.rsw#実験生物生産場[β棟](第1区画)#
+mt8_17_2.rsw#実験生物生産場[β棟](第2区画)#
+mt8_18_2.rsw#実験生物生産場[β棟](第3区画)#
+mt8_r3.rsw#中央管制室#
+//------------------------------------------------
+march_01.rsw#桃の節句#
+1@march2.rsw#ひな壇#
+//------------------------------------------------
+1@march3.rsw#小雛#
+march_04.rsw#大雛（一白）#
+march_05.rsw#大雛（二黒）#
+march_06.rsw#大雛（三碧）#
+march_07.rsw#大雛（四緑）#
+march_08.rsw#大雛（五黄）#
+march_09.rsw#大雛（六白）#
+march_10.rsw#大雛（七赤）#
+march_11.rsw#大雛（八白）#
+march_12.rsw#大雛（九紫）#
+//------------------------------------------------
+mt1_19.rsw#管理者区域(第1区画)#
+mt1_20.rsw#管理者区域(第2区画)#
+mt1_epi_1.rsw#空中庭園#
+mt2_19.rsw#管理者区域(第1区画)#
+mt2_20.rsw#管理者区域(第2区画)#
+mt2_epi_1.rsw#空中庭園#
+mt3_19.rsw#管理者区域(第1区画)#
+mt3_20.rsw#管理者区域(第2区画)#
+mt3_epi_1.rsw#空中庭園#
+mt4_19.rsw#管理者区域(第1区画)#
+mt4_20.rsw#管理者区域(第2区画)#
+mt4_epi_1.rsw#空中庭園#
+mt5_19.rsw#管理者区域(第1区画)#
+mt5_20.rsw#管理者区域(第2区画)#
+mt5_epi_1.rsw#空中庭園#
+mt6_19.rsw#管理者区域(第1区画)#
+mt6_20.rsw#管理者区域(第2区画)#
+mt6_epi_1.rsw#空中庭園#
+mt7_19.rsw#管理者区域(第1区画)#
+mt7_20.rsw#管理者区域(第2区画)#
+mt7_epi_1.rsw#空中庭園#
+mt8_19.rsw#管理者区域(第1区画)#
+mt8_20.rsw#管理者区域(第2区画)#
+mt8_epi_1.rsw#空中庭園#
+//------------------------------------------------
+levelroom03.rsw#レベルルーム03#
+1@gl_he.rsw#汚染された次元1#
+2@gl_he.rsw#汚染された次元2#
+3@gl_he.rsw#汚染された次元#
+4@gl_he.rsw#汚染された次元#
+//------------------------------------------------
+apr_main1.rsw#久遠のグラストヘイム#
+apr_forge1.rsw#賢者のアトリエ#
+apr_forge2.rsw#賢者のアトリエ#
+apr_forge3.rsw#賢者のアトリエ#
+apr_forge4.rsw#賢者のアトリエ#
+apr_forge5.rsw#賢者のアトリエ#
+apr_ruins_s.rsw#廃亡遺跡群【醒覚ヘオース】#
+apr_ruins_g.rsw#廃亡遺跡群【昏倒ニュクス】#
+apr_ruins1.rsw#廃亡遺跡群【門出デフテーラ】#
+apr_ruins2.rsw#廃亡遺跡群【旗行列トゥリーティ】#
+apr_ruins3.rsw#廃亡遺跡群【前哨テタールティ】#
+apr_ruins4.rsw#廃亡遺跡群【先鋭ペンプティ】#
+apr_ruins5.rsw#廃亡遺跡群【雄飛パラスケヴィ】#
+apr_ruins6.rsw#廃亡遺跡群【縦走サーヴァト】#
+apr_ruins7.rsw#廃亡遺跡群【激闘キリアキ】#
+//------------------------------------------------
+prtt_cas1.rsw#訓練用ヴァルキリーレルム 砦1#
+prtt_cas2.rsw#訓練用ヴァルキリーレルム 砦2#
+prtt_cas3.rsw#訓練用ヴァルキリーレルム 砦3#
+prtt_cas4.rsw#訓練用ヴァルキリーレルム 砦4#
+prtt_cas5.rsw#訓練用ヴァルキリーレルム 砦5#
+geft_cas1.rsw#訓練用ブリトニア 砦1#
+geft_cas2.rsw#訓練用ブリトニア 砦2#
+geft_cas3.rsw#訓練用ブリトニア 砦3#
+geft_cas4.rsw#訓練用ブリトニア 砦4#
+geft_cas5.rsw#訓練用ブリトニア 砦5#
+payt_cas1.rsw#訓練用チュンリム湖 砦1#
+payt_cas2.rsw#訓練用チュンリム湖 砦2#
+payt_cas3.rsw#訓練用チュンリム湖 砦3#
+payt_cas4.rsw#訓練用チュンリム湖 砦4#
+payt_cas5.rsw#訓練用チュンリム湖 砦5#
+aldt_cas1.rsw#訓練用ルイーナ 砦1#
+aldt_cas2.rsw#訓練用ルイーナ 砦2#
+aldt_cas3.rsw#訓練用ルイーナ 砦3#
+aldt_cas4.rsw#訓練用ルイーナ 砦4#
+aldt_cas5.rsw#訓練用ルイーナ 砦5#
+arut_cas1.rsw#訓練用ヴァルフレイヤ 砦1#
+arut_cas2.rsw#訓練用ヴァルフレイヤ 砦2#
+arut_cas3.rsw#訓練用ヴァルフレイヤ 砦3#
+arut_cas4.rsw#訓練用ヴァルフレイヤ 砦4#
+arut_cas5.rsw#訓練用ヴァルフレイヤ 砦5#
+scht_cas1.rsw#訓練用ニダヴェリール 砦1#
+scht_cas2.rsw#訓練用ニダヴェリール 砦2#
+scht_cas3.rsw#訓練用ニダヴェリール 砦3#
+scht_cas4.rsw#訓練用ニダヴェリール 砦4#
+scht_cas5.rsw#訓練用ニダヴェリール 砦5#
+prtt_fld1a.rsw#訓練用ヴァルキリーレルム 砦前1（A地域）#
+prtt_fld2a.rsw#訓練用ヴァルキリーレルム 砦前2（A地域）#
+prtt_fld3a.rsw#訓練用ヴァルキリーレルム 砦前3（A地域）#
+prtt_fld4a.rsw#訓練用ヴァルキリーレルム 砦前4（A地域）#
+prtt_fld5a.rsw#訓練用ヴァルキリーレルム 砦前5（A地域）#
+prtt_fld1b.rsw#訓練用ヴァルキリーレルム 砦前1（B地域）#
+prtt_fld2b.rsw#訓練用ヴァルキリーレルム 砦前2（B地域）#
+prtt_fld3b.rsw#訓練用ヴァルキリーレルム 砦前3（B地域）#
+prtt_fld4b.rsw#訓練用ヴァルキリーレルム 砦前4（B地域）#
+prtt_fld5b.rsw#訓練用ヴァルキリーレルム 砦前5（B地域）#
+geft_fld1a.rsw#訓練用ブリトニア 砦前1（A地域）#
+geft_fld2a.rsw#訓練用ブリトニア 砦前2（A地域）#
+geft_fld3a.rsw#訓練用ブリトニア 砦前3（A地域）#
+geft_fld4a.rsw#訓練用ブリトニア 砦前4（A地域）#
+geft_fld5a.rsw#訓練用ブリトニア 砦前5（A地域）#
+geft_fld1b.rsw#訓練用ブリトニア 砦前1（B地域）#
+geft_fld2b.rsw#訓練用ブリトニア 砦前2（B地域）#
+geft_fld3b.rsw#訓練用ブリトニア 砦前3（B地域）#
+geft_fld4b.rsw#訓練用ブリトニア 砦前4（B地域）#
+geft_fld5b.rsw#訓練用ブリトニア 砦前5（B地域）#
+payt_fld1a.rsw#訓練用チュンリム湖 砦前1（A地域）#
+payt_fld2a.rsw#訓練用チュンリム湖 砦前2（A地域）#
+payt_fld3a.rsw#訓練用チュンリム湖 砦前3（A地域）#
+payt_fld4a.rsw#訓練用チュンリム湖 砦前4（A地域）#
+payt_fld5a.rsw#訓練用チュンリム湖 砦前5（A地域）#
+payt_fld1b.rsw#訓練用チュンリム湖 砦前1（B地域）#
+payt_fld2b.rsw#訓練用チュンリム湖 砦前2（B地域）#
+payt_fld3b.rsw#訓練用チュンリム湖 砦前3（B地域）#
+payt_fld4b.rsw#訓練用チュンリム湖 砦前4（B地域）#
+payt_fld5b.rsw#訓練用チュンリム湖 砦前5（B地域）#
+aldt_fld1a.rsw#訓練用ルイーナ 砦前1（A地域）#
+aldt_fld2a.rsw#訓練用ルイーナ 砦前2（A地域）#
+aldt_fld3a.rsw#訓練用ルイーナ 砦前3（A地域）#
+aldt_fld4a.rsw#訓練用ルイーナ 砦前4（A地域）#
+aldt_fld5a.rsw#訓練用ルイーナ 砦前5（A地域）#
+aldt_fld1b.rsw#訓練用ルイーナ 砦前1（B地域）#
+aldt_fld2b.rsw#訓練用ルイーナ 砦前2（B地域）#
+aldt_fld3b.rsw#訓練用ルイーナ 砦前3（B地域）#
+aldt_fld4b.rsw#訓練用ルイーナ 砦前4（B地域）#
+aldt_fld5b.rsw#訓練用ルイーナ 砦前5（B地域）#
+arut_fld1a.rsw#訓練用ヴァルフレイヤ 砦前1（A地域）#
+arut_fld2a.rsw#訓練用ヴァルフレイヤ 砦前2（A地域）#
+arut_fld3a.rsw#訓練用ヴァルフレイヤ 砦前3（A地域）#
+arut_fld4a.rsw#訓練用ヴァルフレイヤ 砦前4（A地域）#
+arut_fld5a.rsw#訓練用ヴァルフレイヤ 砦前5（A地域）#
+arut_fld1b.rsw#訓練用ヴァルフレイヤ 砦前1（B地域）#
+arut_fld2b.rsw#訓練用ヴァルフレイヤ 砦前2（B地域）#
+arut_fld3b.rsw#訓練用ヴァルフレイヤ 砦前3（B地域）#
+arut_fld4b.rsw#訓練用ヴァルフレイヤ 砦前4（B地域）#
+arut_fld5b.rsw#訓練用ヴァルフレイヤ 砦前5（B地域）#
+scht_fld1a.rsw#訓練用ニダヴェリール 砦前1（A地域）#
+scht_fld2a.rsw#訓練用ニダヴェリール 砦前2（A地域）#
+scht_fld3a.rsw#訓練用ニダヴェリール 砦前3（A地域）#
+scht_fld4a.rsw#訓練用ニダヴェリール 砦前4（A地域）#
+scht_fld5a.rsw#訓練用ニダヴェリール 砦前5（A地域）#
+scht_fld1b.rsw#訓練用ニダヴェリール 砦前1（B地域）#
+scht_fld2b.rsw#訓練用ニダヴェリール 砦前2（B地域）#
+scht_fld3b.rsw#訓練用ニダヴェリール 砦前3（B地域）#
+scht_fld4b.rsw#訓練用ニダヴェリール 砦前4（B地域）#
+scht_fld5b.rsw#訓練用ニダヴェリール 砦前5（B地域）#
+base300.rsw#模擬戦 第01拠点 A区域#
+base301.rsw#模擬戦 第01拠点 B区域#
+base302.rsw#模擬戦 第01拠点 C区域#
+base303.rsw#模擬戦 第01拠点 D区域#
+base304.rsw#模擬戦 第01拠点 E区域#
+base305.rsw#模擬戦 第01拠点 F区域#
+base306.rsw#模擬戦 第01拠点 G区域#
+base307.rsw#模擬戦 第01拠点 H区域#
+base308.rsw#模擬戦 第01拠点 I区域#
+base309.rsw#模擬戦 第01拠点 J区域#
+base310.rsw#模擬戦 第02拠点 A区域#
+base311.rsw#模擬戦 第02拠点 B区域#
+base312.rsw#模擬戦 第02拠点 C区域#
+base313.rsw#模擬戦 第02拠点 D区域#
+base314.rsw#模擬戦 第02拠点 E区域#
+base315.rsw#模擬戦 第02拠点 F区域#
+base316.rsw#模擬戦 第02拠点 G区域#
+base317.rsw#模擬戦 第02拠点 H区域#
+base318.rsw#模擬戦 第02拠点 I区域#
+base319.rsw#模擬戦 第02拠点 J区域#
+base320.rsw#模擬戦 第03拠点 A区域#
+base321.rsw#模擬戦 第03拠点 B区域#
+base322.rsw#模擬戦 第03拠点 C区域#
+base323.rsw#模擬戦 第03拠点 D区域#
+base324.rsw#模擬戦 第03拠点 E区域#
+base325.rsw#模擬戦 第03拠点 F区域#
+base326.rsw#模擬戦 第03拠点 G区域#
+base327.rsw#模擬戦 第03拠点 H区域#
+base328.rsw#模擬戦 第03拠点 I区域#
+base329.rsw#模擬戦 第03拠点 J区域#
+base330.rsw#模擬戦 第04拠点 A区域#
+base331.rsw#模擬戦 第04拠点 B区域#
+base332.rsw#模擬戦 第04拠点 C区域#
+base333.rsw#模擬戦 第04拠点 D区域#
+base334.rsw#模擬戦 第04拠点 E区域#
+base335.rsw#模擬戦 第04拠点 F区域#
+base336.rsw#模擬戦 第04拠点 G区域#
+base337.rsw#模擬戦 第04拠点 H区域#
+base338.rsw#模擬戦 第04拠点 I区域#
+base339.rsw#模擬戦 第04拠点 J区域#
+base340.rsw#模擬戦 第05拠点 A区域#
+base341.rsw#模擬戦 第05拠点 B区域#
+base342.rsw#模擬戦 第05拠点 C区域#
+base343.rsw#模擬戦 第05拠点 D区域#
+base344.rsw#模擬戦 第05拠点 E区域#
+base345.rsw#模擬戦 第05拠点 F区域#
+base346.rsw#模擬戦 第05拠点 G区域#
+base347.rsw#模擬戦 第05拠点 H区域#
+base348.rsw#模擬戦 第05拠点 I区域#
+base349.rsw#模擬戦 第05拠点 J区域#
+base350.rsw#模擬戦 第06拠点 A区域#
+base351.rsw#模擬戦 第06拠点 B区域#
+base352.rsw#模擬戦 第06拠点 C区域#
+base353.rsw#模擬戦 第06拠点 D区域#
+base354.rsw#模擬戦 第06拠点 E区域#
+base355.rsw#模擬戦 第06拠点 F区域#
+base356.rsw#模擬戦 第06拠点 G区域#
+base357.rsw#模擬戦 第06拠点 H区域#
+base358.rsw#模擬戦 第06拠点 I区域#
+base359.rsw#模擬戦 第06拠点 J区域#
+base360.rsw#模擬戦 第07拠点 A区域#
+base361.rsw#模擬戦 第07拠点 B区域#
+base362.rsw#模擬戦 第07拠点 C区域#
+base363.rsw#模擬戦 第07拠点 D区域#
+base364.rsw#模擬戦 第07拠点 E区域#
+base365.rsw#模擬戦 第07拠点 F区域#
+base366.rsw#模擬戦 第07拠点 G区域#
+base367.rsw#模擬戦 第07拠点 H区域#
+base368.rsw#模擬戦 第07拠点 I区域#
+base369.rsw#模擬戦 第07拠点 J区域#
+base370.rsw#模擬戦 第08拠点 A区域#
+base371.rsw#模擬戦 第08拠点 B区域#
+base372.rsw#模擬戦 第08拠点 C区域#
+base373.rsw#模擬戦 第08拠点 D区域#
+base374.rsw#模擬戦 第08拠点 E区域#
+base375.rsw#模擬戦 第08拠点 F区域#
+base376.rsw#模擬戦 第08拠点 G区域#
+base377.rsw#模擬戦 第08拠点 H区域#
+base378.rsw#模擬戦 第08拠点 I区域#
+base379.rsw#模擬戦 第08拠点 J区域#
+base380.rsw#模擬戦 第09拠点 A区域#
+base381.rsw#模擬戦 第09拠点 B区域#
+base382.rsw#模擬戦 第09拠点 C区域#
+base383.rsw#模擬戦 第09拠点 D区域#
+base384.rsw#模擬戦 第09拠点 E区域#
+base385.rsw#模擬戦 第09拠点 F区域#
+base386.rsw#模擬戦 第09拠点 G区域#
+base387.rsw#模擬戦 第09拠点 H区域#
+base388.rsw#模擬戦 第09拠点 I区域#
+base389.rsw#模擬戦 第09拠点 J区域#
+base390.rsw#模擬戦 第10拠点 A区域#
+base391.rsw#模擬戦 第10拠点 B区域#
+base392.rsw#模擬戦 第10拠点 C区域#
+base393.rsw#模擬戦 第10拠点 D区域#
+base394.rsw#模擬戦 第10拠点 E区域#
+base395.rsw#模擬戦 第10拠点 F区域#
+base396.rsw#模擬戦 第10拠点 G区域#
+base397.rsw#模擬戦 第10拠点 H区域#
+base398.rsw#模擬戦 第10拠点 I区域#
+base399.rsw#模擬戦 第10拠点 J区域#
+//------------------------------------------------
+iz_d04_i_q.rsw#紫色の深海洞窟 上層(クエスト)#
+iz_d04_i.rsw#紫色の深海洞窟 上層#
+iz_d05_i.rsw#紫色の深海洞窟 下層#
+//------------------------------------------------
+melon_f1.rsw#メロンフェスタ会場#
+//------------------------------------------------
+base100.rsw#乱戦 第01拠点 A区域#
+base101.rsw#乱戦 第01拠点 B区域#
+base102.rsw#乱戦 第01拠点 C区域#
+base103.rsw#乱戦 第01拠点 D区域#
+base104.rsw#乱戦 第01拠点 E区域#
+base105.rsw#乱戦 第01拠点 F区域#
+base106.rsw#乱戦 第01拠点 G区域#
+base107.rsw#乱戦 第01拠点 H区域#
+base108.rsw#乱戦 第01拠点 I区域#
+base109.rsw#乱戦 第01拠点 J区域#
+base110.rsw#乱戦 第02拠点 A区域#
+base111.rsw#乱戦 第02拠点 B区域#
+base112.rsw#乱戦 第02拠点 C区域#
+base113.rsw#乱戦 第02拠点 D区域#
+base114.rsw#乱戦 第02拠点 E区域#
+base115.rsw#乱戦 第02拠点 F区域#
+base116.rsw#乱戦 第02拠点 G区域#
+base117.rsw#乱戦 第02拠点 H区域#
+base118.rsw#乱戦 第02拠点 I区域#
+base119.rsw#乱戦 第02拠点 J区域#
+base120.rsw#乱戦 第03拠点 A区域#
+base121.rsw#乱戦 第03拠点 B区域#
+base122.rsw#乱戦 第03拠点 C区域#
+base123.rsw#乱戦 第03拠点 D区域#
+base124.rsw#乱戦 第03拠点 E区域#
+base125.rsw#乱戦 第03拠点 F区域#
+base126.rsw#乱戦 第03拠点 G区域#
+base127.rsw#乱戦 第03拠点 H区域#
+base128.rsw#乱戦 第03拠点 I区域#
+base129.rsw#乱戦 第03拠点 J区域#
+base130.rsw#乱戦 第04拠点 A区域#
+base131.rsw#乱戦 第04拠点 B区域#
+base132.rsw#乱戦 第04拠点 C区域#
+base133.rsw#乱戦 第04拠点 D区域#
+base134.rsw#乱戦 第04拠点 E区域#
+base135.rsw#乱戦 第04拠点 F区域#
+base136.rsw#乱戦 第04拠点 G区域#
+base137.rsw#乱戦 第04拠点 H区域#
+base138.rsw#乱戦 第04拠点 I区域#
+base139.rsw#乱戦 第04拠点 J区域#
+base140.rsw#乱戦 第05拠点 A区域#
+base141.rsw#乱戦 第05拠点 B区域#
+base142.rsw#乱戦 第05拠点 C区域#
+base143.rsw#乱戦 第05拠点 D区域#
+base144.rsw#乱戦 第05拠点 E区域#
+base145.rsw#乱戦 第05拠点 F区域#
+base146.rsw#乱戦 第05拠点 G区域#
+base147.rsw#乱戦 第05拠点 H区域#
+base148.rsw#乱戦 第05拠点 I区域#
+base149.rsw#乱戦 第05拠点 J区域#
+base150.rsw#乱戦 第06拠点 A区域#
+base151.rsw#乱戦 第06拠点 B区域#
+base152.rsw#乱戦 第06拠点 C区域#
+base153.rsw#乱戦 第06拠点 D区域#
+base154.rsw#乱戦 第06拠点 E区域#
+base155.rsw#乱戦 第06拠点 F区域#
+base156.rsw#乱戦 第06拠点 G区域#
+base157.rsw#乱戦 第06拠点 H区域#
+base158.rsw#乱戦 第06拠点 I区域#
+base159.rsw#乱戦 第06拠点 J区域#
+base160.rsw#乱戦 第07拠点 A区域#
+base161.rsw#乱戦 第07拠点 B区域#
+base162.rsw#乱戦 第07拠点 C区域#
+base163.rsw#乱戦 第07拠点 D区域#
+base164.rsw#乱戦 第07拠点 E区域#
+base165.rsw#乱戦 第07拠点 F区域#
+base166.rsw#乱戦 第07拠点 G区域#
+base167.rsw#乱戦 第07拠点 H区域#
+base168.rsw#乱戦 第07拠点 I区域#
+base169.rsw#乱戦 第07拠点 J区域#
+base170.rsw#乱戦 第08拠点 A区域#
+base171.rsw#乱戦 第08拠点 B区域#
+base172.rsw#乱戦 第08拠点 C区域#
+base173.rsw#乱戦 第08拠点 D区域#
+base174.rsw#乱戦 第08拠点 E区域#
+base175.rsw#乱戦 第08拠点 F区域#
+base176.rsw#乱戦 第08拠点 G区域#
+base177.rsw#乱戦 第08拠点 H区域#
+base178.rsw#乱戦 第08拠点 I区域#
+base179.rsw#乱戦 第08拠点 J区域#
+base180.rsw#乱戦 第09拠点 A区域#
+base181.rsw#乱戦 第09拠点 B区域#
+base182.rsw#乱戦 第09拠点 C区域#
+base183.rsw#乱戦 第09拠点 D区域#
+base184.rsw#乱戦 第09拠点 E区域#
+base185.rsw#乱戦 第09拠点 F区域#
+base186.rsw#乱戦 第09拠点 G区域#
+base187.rsw#乱戦 第09拠点 H区域#
+base188.rsw#乱戦 第09拠点 I区域#
+base189.rsw#乱戦 第09拠点 J区域#
+base190.rsw#乱戦 第10拠点 A区域#
+base191.rsw#乱戦 第10拠点 B区域#
+base192.rsw#乱戦 第10拠点 C区域#
+base193.rsw#乱戦 第10拠点 D区域#
+base194.rsw#乱戦 第10拠点 E区域#
+base195.rsw#乱戦 第10拠点 F区域#
+base196.rsw#乱戦 第10拠点 G区域#
+base197.rsw#乱戦 第10拠点 H区域#
+base198.rsw#乱戦 第10拠点 I区域#
+base199.rsw#乱戦 第10拠点 J区域#
+reborn1.rsw#再誕の部屋 1#
+reborn2.rsw#再誕の部屋 2#
+reborn3.rsw#再誕の部屋 3#
+reborn4.rsw#再誕の部屋 4#
+//------------------------------------------------
+pvp_1_item.rsw#セッティングルーム#
+pvp_2_item.rsw#セッティングルーム(夕暮れ時)#
+pvp_3_item.rsw#セッティングルーム(丑三つ時)#
+pvp_4_item.rsw#セッティングルーム(夜明け前)#
+pvp_r1_room.rsw#認定戦受付#
+pvp_r2_room.rsw#認定戦受付(夕暮れ時)#
+pvp_r3_room.rsw#認定戦受付(丑三つ時)#
+pvp_r4_room.rsw#認定戦受付(夜明け前)#
+//------------------------------------------------
+ev_aniver01.rsw#ドリーム劇場#
+ev_aniver02.rsw#ドリーム劇場#
+ev_aniver03.rsw#劇場周辺#
+ev_aniver04.rsw#劇場周辺#
+ev_aniver05.rsw#分からない所#
+ev_aniver06.rsw#怪しい場所付近#
+ev_aniver07.rsw#劇場周辺#
+ev_aniver08.rsw#劇場周辺#
+ev_aniver09.rsw#劇場周辺#
+ev_aniver10.rsw#劇場周辺#
+ev_aniver11.rsw#劇場周辺#
+ev_aniver12.rsw#劇場周辺#
+ev_aniver13.rsw#劇場周辺#
+ev_aniver14.rsw#劇場周辺#
+ev_aniver15.rsw#モロク周辺#
+ev_aniver16.rsw#会場候補地#
+ev_aniver17.rsw#会場周辺#
+ev_aniver18.rsw#怪しいとこ#
+ev_aniver19.rsw#怪しいとこ#
+ev_aniver20.rsw#怪しいとこ#
+ev_aniver21.rsw#怪しいとこ#
+ev_aniver22.rsw#少し怪しいとこ#
+ev_aniver23.rsw#怪しいとこ#
+ev_aniver24.rsw#怪しいとこ#
+ev_aniver25.rsw#怪しいとこ#
+ev_aniver26.rsw#怪しいとこ#
+ev_aniver27.rsw#大工の事務所#
+ev_aniver28.rsw#怪しいとこ#
+ev_aniver29.rsw#怪しいとこ#
+ev_aniver30.rsw#VIPルーム#
+ev_aniver31.rsw#会場控え室#
+ev_aniver32.rsw#バー#
+ev_aniver33.rsw#山林#
+ev_aniver34.rsw#山林#
+ev_aniver35.rsw#薄暗い室内#
+ev_aniver36.rsw#薄暗い室内#
+ev_aniver37.rsw#怪しいとこ#
+ev_aniver38.rsw#怪しいとこ#
+ev_aniver39.rsw#バー#
+//------------------------------------------------
+ev_xmas01.rsw#ドリームクイズ劇場#
+ev_xmas02.rsw#劇場周辺#
+//------------------------------------------------
+jp_ev_map08.rsw#餅つき会場　おかわり#
+//------------------------------------------------
+//pvp_rs_xx===========================================================
+pvp_rs_01.rsw#認定戦待機室#
+pvp_rs_02.rsw#認定戦待機室#
+pvp_rs_03.rsw#認定戦待機室#
+pvp_rs_04.rsw#認定戦待機室#
+pvp_rs_05.rsw#認定戦待機室#
+pvp_rs_06.rsw#認定戦待機室#
+pvp_rs_07.rsw#認定戦待機室#
+pvp_rs_08.rsw#認定戦待機室#
+pvp_rs_09.rsw#認定戦待機室#
+pvp_rs_10.rsw#認定戦待機室#
+pvp_rs_11.rsw#認定戦待機室#
+pvp_rs_12.rsw#認定戦待機室#
+pvp_rs_13.rsw#認定戦待機室#
+pvp_rs_14.rsw#認定戦待機室#
+pvp_rs_15.rsw#認定戦待機室#
+pvp_rs_16.rsw#認定戦待機室#
+pvp_rs_17.rsw#認定戦待機室#
+pvp_rs_18.rsw#認定戦待機室#
+pvp_rs_19.rsw#認定戦待機室#
+pvp_rs_20.rsw#認定戦待機室#
+pvp_rs_21.rsw#認定戦待機室#
+pvp_rs_22.rsw#認定戦待機室#
+pvp_rs_23.rsw#認定戦待機室#
+pvp_rs_24.rsw#認定戦待機室#
+pvp_rs_25.rsw#認定戦待機室#
+pvp_rs_26.rsw#認定戦待機室#
+//pvp_rf_xx===========================================================
+pvp_rf_a1.rsw#認定戦[闘技場A]#
+pvp_rf_a2.rsw#認定戦[闘技場A]#
+pvp_rf_a3.rsw#認定戦[闘技場A]#
+pvp_rf_a4.rsw#認定戦[闘技場A]#
+pvp_rf_a5.rsw#認定戦[闘技場A]#
+pvp_rf_b1.rsw#認定戦[闘技場B]#
+pvp_rf_b2.rsw#認定戦[闘技場B]#
+pvp_rf_b3.rsw#認定戦[闘技場B]#
+pvp_rf_b4.rsw#認定戦[闘技場B]#
+pvp_rf_b5.rsw#認定戦[闘技場B]#
+pvp_rf_c1.rsw#認定戦[闘技場C]#
+pvp_rf_c2.rsw#認定戦[闘技場C]#
+pvp_rf_c3.rsw#認定戦[闘技場C]#
+pvp_rf_c4.rsw#認定戦[闘技場C]#
+pvp_rf_c5.rsw#認定戦[闘技場C]#
+pvp_rf_d1.rsw#認定戦[闘技場D]#
+pvp_rf_d2.rsw#認定戦[闘技場D]#
+pvp_rf_d3.rsw#認定戦[闘技場D]#
+pvp_rf_d4.rsw#認定戦[闘技場D]#
+pvp_rf_d5.rsw#認定戦[闘技場D]#
+pvp_rf_e1.rsw#認定戦[闘技場E]#
+pvp_rf_e2.rsw#認定戦[闘技場E]#
+pvp_rf_e3.rsw#認定戦[闘技場E]#
+pvp_rf_e4.rsw#認定戦[闘技場E]#
+pvp_rf_e5.rsw#認定戦[闘技場E]#
+pvp_rf_f1.rsw#認定戦[闘技場F]#
+pvp_rf_f2.rsw#認定戦[闘技場F]#
+pvp_rf_f3.rsw#認定戦[闘技場F]#
+pvp_rf_f4.rsw#認定戦[闘技場F]#
+pvp_rf_f5.rsw#認定戦[闘技場F]#
+pvp_rf_g1.rsw#認定戦[闘技場G]#
+pvp_rf_g2.rsw#認定戦[闘技場G]#
+pvp_rf_g3.rsw#認定戦[闘技場G]#
+pvp_rf_g4.rsw#認定戦[闘技場G]#
+pvp_rf_g5.rsw#認定戦[闘技場G]#
+pvp_rf_h1.rsw#認定戦[闘技場H]#
+pvp_rf_h2.rsw#認定戦[闘技場H]#
+pvp_rf_h3.rsw#認定戦[闘技場H]#
+pvp_rf_h4.rsw#認定戦[闘技場H]#
+pvp_rf_h5.rsw#認定戦[闘技場H]#
+pvp_rf_i1.rsw#認定戦[闘技場I]#
+pvp_rf_i2.rsw#認定戦[闘技場I]#
+pvp_rf_i3.rsw#認定戦[闘技場I]#
+pvp_rf_i4.rsw#認定戦[闘技場I]#
+pvp_rf_i5.rsw#認定戦[闘技場I]#
+pvp_rf_j1.rsw#認定戦[闘技場J]#
+pvp_rf_j2.rsw#認定戦[闘技場J]#
+pvp_rf_j3.rsw#認定戦[闘技場J]#
+pvp_rf_j4.rsw#認定戦[闘技場J]#
+pvp_rf_j5.rsw#認定戦[闘技場J]#
+pvp_rf_k1.rsw#認定戦[闘技場K]#
+pvp_rf_k2.rsw#認定戦[闘技場K]#
+pvp_rf_k3.rsw#認定戦[闘技場K]#
+pvp_rf_k4.rsw#認定戦[闘技場K]#
+pvp_rf_k5.rsw#認定戦[闘技場K]#
+pvp_rf_l1.rsw#認定戦[闘技場L]#
+pvp_rf_l2.rsw#認定戦[闘技場L]#
+pvp_rf_l3.rsw#認定戦[闘技場L]#
+pvp_rf_l4.rsw#認定戦[闘技場L]#
+pvp_rf_l5.rsw#認定戦[闘技場L]#
+pvp_rf_m1.rsw#認定戦[闘技場M]#
+pvp_rf_m2.rsw#認定戦[闘技場M]#
+pvp_rf_m3.rsw#認定戦[闘技場M]#
+pvp_rf_m4.rsw#認定戦[闘技場M]#
+pvp_rf_m5.rsw#認定戦[闘技場M]#
+pvp_rf_n1.rsw#認定戦[闘技場N]#
+pvp_rf_n2.rsw#認定戦[闘技場N]#
+pvp_rf_n3.rsw#認定戦[闘技場N]#
+pvp_rf_n4.rsw#認定戦[闘技場N]#
+pvp_rf_n5.rsw#認定戦[闘技場N]#
+pvp_rf_o1.rsw#認定戦[闘技場O]#
+pvp_rf_o2.rsw#認定戦[闘技場O]#
+pvp_rf_o3.rsw#認定戦[闘技場O]#
+pvp_rf_o4.rsw#認定戦[闘技場O]#
+pvp_rf_o5.rsw#認定戦[闘技場O]#
+pvp_rf_p1.rsw#認定戦[闘技場P]#
+pvp_rf_p2.rsw#認定戦[闘技場P]#
+pvp_rf_p3.rsw#認定戦[闘技場P]#
+pvp_rf_p4.rsw#認定戦[闘技場P]#
+pvp_rf_p5.rsw#認定戦[闘技場P]#
+pvp_rf_q1.rsw#認定戦[闘技場Q]#
+pvp_rf_q2.rsw#認定戦[闘技場Q]#
+pvp_rf_q3.rsw#認定戦[闘技場Q]#
+pvp_rf_q4.rsw#認定戦[闘技場Q]#
+pvp_rf_q5.rsw#認定戦[闘技場Q]#
+pvp_rf_r1.rsw#認定戦[闘技場R]#
+pvp_rf_r2.rsw#認定戦[闘技場R]#
+pvp_rf_r3.rsw#認定戦[闘技場R]#
+pvp_rf_r4.rsw#認定戦[闘技場R]#
+pvp_rf_r5.rsw#認定戦[闘技場R]#
+pvp_rf_s1.rsw#認定戦[闘技場S]#
+pvp_rf_s2.rsw#認定戦[闘技場S]#
+pvp_rf_s3.rsw#認定戦[闘技場S]#
+pvp_rf_s4.rsw#認定戦[闘技場S]#
+pvp_rf_s5.rsw#認定戦[闘技場S]#
+pvp_rf_t1.rsw#認定戦[闘技場T]#
+pvp_rf_t2.rsw#認定戦[闘技場T]#
+pvp_rf_t3.rsw#認定戦[闘技場T]#
+pvp_rf_t4.rsw#認定戦[闘技場T]#
+pvp_rf_t5.rsw#認定戦[闘技場T]#
+pvp_rf_u1.rsw#認定戦[闘技場U]#
+pvp_rf_u2.rsw#認定戦[闘技場U]#
+pvp_rf_u3.rsw#認定戦[闘技場U]#
+pvp_rf_u4.rsw#認定戦[闘技場U]#
+pvp_rf_u5.rsw#認定戦[闘技場U]#
+pvp_rf_v1.rsw#認定戦[闘技場V]#
+pvp_rf_v2.rsw#認定戦[闘技場V]#
+pvp_rf_v3.rsw#認定戦[闘技場V]#
+pvp_rf_v4.rsw#認定戦[闘技場V]#
+pvp_rf_v5.rsw#認定戦[闘技場V]#
+pvp_rf_w1.rsw#認定戦[闘技場W]#
+pvp_rf_w2.rsw#認定戦[闘技場W]#
+pvp_rf_w3.rsw#認定戦[闘技場W]#
+pvp_rf_w4.rsw#認定戦[闘技場W]#
+pvp_rf_w5.rsw#認定戦[闘技場W]#
+pvp_rf_x1.rsw#認定戦[闘技場X]#
+pvp_rf_x2.rsw#認定戦[闘技場X]#
+pvp_rf_x3.rsw#認定戦[闘技場X]#
+pvp_rf_x4.rsw#認定戦[闘技場X]#
+pvp_rf_x5.rsw#認定戦[闘技場X]#
+pvp_rf_y1.rsw#認定戦[闘技場Y]#
+pvp_rf_y2.rsw#認定戦[闘技場Y]#
+pvp_rf_y3.rsw#認定戦[闘技場Y]#
+pvp_rf_y4.rsw#認定戦[闘技場Y]#
+pvp_rf_y5.rsw#認定戦[闘技場Y]#
+pvp_rf_z1.rsw#認定戦[闘技場Z]#
+pvp_rf_z2.rsw#認定戦[闘技場Z]#
+pvp_rf_z3.rsw#認定戦[闘技場Z]#
+pvp_rf_z4.rsw#認定戦[闘技場Z]#
+pvp_rf_z5.rsw#認定戦[闘技場Z]#
+//pvp_re_xx===========================================================
+pvp_re_01.rsw#認定戦終了待機室#
+pvp_re_02.rsw#認定戦終了待機室#
+pvp_re_03.rsw#認定戦終了待機室#
+pvp_re_04.rsw#認定戦終了待機室#
+pvp_re_05.rsw#認定戦終了待機室#
+pvp_re_06.rsw#認定戦終了待機室#
+pvp_re_07.rsw#認定戦終了待機室#
+pvp_re_08.rsw#認定戦終了待機室#
+pvp_re_09.rsw#認定戦終了待機室#
+pvp_re_10.rsw#認定戦終了待機室#
+pvp_re_11.rsw#認定戦終了待機室#
+pvp_re_12.rsw#認定戦終了待機室#
+pvp_re_13.rsw#認定戦終了待機室#
+pvp_re_14.rsw#認定戦終了待機室#
+pvp_re_15.rsw#認定戦終了待機室#
+pvp_re_16.rsw#認定戦終了待機室#
+pvp_re_17.rsw#認定戦終了待機室#
+pvp_re_18.rsw#認定戦終了待機室#
+pvp_re_19.rsw#認定戦終了待機室#
+pvp_re_20.rsw#認定戦終了待機室#
+pvp_re_21.rsw#認定戦終了待機室#
+pvp_re_22.rsw#認定戦終了待機室#
+pvp_re_23.rsw#認定戦終了待機室#
+pvp_re_24.rsw#認定戦終了待機室#
+pvp_re_25.rsw#認定戦終了待機室#
+pvp_re_26.rsw#認定戦終了待機室#
+//pvp_mf_x============================================================
+pvp_mf_a.rsw#モデルルーム[闘技場A]#
+pvp_mf_b.rsw#モデルルーム[闘技場B]#
+pvp_mf_c.rsw#モデルルーム[闘技場C]#
+pvp_mf_d.rsw#モデルルーム[闘技場D]#
+pvp_mf_e.rsw#モデルルーム[闘技場E]#
+pvp_mf_f.rsw#モデルルーム[闘技場F]#
+pvp_mf_g.rsw#モデルルーム[闘技場G]#
+pvp_mf_h.rsw#モデルルーム[闘技場H]#
+pvp_mf_i.rsw#モデルルーム[闘技場I]#
+pvp_mf_j.rsw#モデルルーム[闘技場J]#
+pvp_mf_k.rsw#モデルルーム[闘技場K]#
+pvp_mf_l.rsw#モデルルーム[闘技場L]#
+pvp_mf_m.rsw#モデルルーム[闘技場M]#
+pvp_mf_n.rsw#モデルルーム[闘技場N]#
+pvp_mf_o.rsw#モデルルーム[闘技場O]#
+pvp_mf_p.rsw#モデルルーム[闘技場P]#
+pvp_mf_q.rsw#モデルルーム[闘技場Q]#
+pvp_mf_r.rsw#モデルルーム[闘技場R]#
+pvp_mf_s.rsw#モデルルーム[闘技場S]#
+pvp_mf_t.rsw#モデルルーム[闘技場T]#
+pvp_mf_u.rsw#モデルルーム[闘技場U]#
+pvp_mf_v.rsw#モデルルーム[闘技場V]#
+pvp_mf_w.rsw#モデルルーム[闘技場W]#
+pvp_mf_x.rsw#モデルルーム[闘技場X]#
+pvp_mf_y.rsw#モデルルーム[闘技場Y]#
+pvp_mf_z.rsw#モデルルーム[闘技場Z]#
+//pvp_bf_x============================================================
+pvp_bf_a.rsw#バトルルーム[闘技場A]#
+pvp_bf_b.rsw#バトルルーム[闘技場B]#
+pvp_bf_c.rsw#バトルルーム[闘技場C]#
+pvp_bf_d.rsw#バトルルーム[闘技場D]#
+pvp_bf_e.rsw#バトルルーム[闘技場E]#
+pvp_bf_f.rsw#バトルルーム[闘技場F]#
+pvp_bf_g.rsw#バトルルーム[闘技場G]#
+pvp_bf_h.rsw#バトルルーム[闘技場H]#
+pvp_bf_i.rsw#バトルルーム[闘技場I]#
+pvp_bf_j.rsw#バトルルーム[闘技場J]#
+pvp_bf_k.rsw#バトルルーム[闘技場K]#
+pvp_bf_l.rsw#バトルルーム[闘技場L]#
+pvp_bf_m.rsw#バトルルーム[闘技場M]#
+pvp_bf_n.rsw#バトルルーム[闘技場N]#
+pvp_bf_o.rsw#バトルルーム[闘技場O]#
+pvp_bf_p.rsw#バトルルーム[闘技場P]#
+pvp_bf_q.rsw#バトルルーム[闘技場Q]#
+pvp_bf_r.rsw#バトルルーム[闘技場R]#
+pvp_bf_s.rsw#バトルルーム[闘技場S]#
+pvp_bf_t.rsw#バトルルーム[闘技場T]#
+pvp_bf_u.rsw#バトルルーム[闘技場U]#
+pvp_bf_v.rsw#バトルルーム[闘技場V]#
+pvp_bf_w.rsw#バトルルーム[闘技場W]#
+pvp_bf_x.rsw#バトルルーム[闘技場X]#
+pvp_bf_y.rsw#バトルルーム[闘技場Y]#
+pvp_bf_z.rsw#バトルルーム[闘技場Z]#
+//tra_hall_x==========================================================
+tra_hall_b.rsw#お試し道場[コロッセオ]#
+//pvp_sx_room=========================================================
+pvp_s1_room.rsw#臨時戦受付#
+pvp_s2_room.rsw#臨時戦受付(夕暮れ時)#
+pvp_s3_room.rsw#臨時戦受付(丑三つ時)#
+pvp_s4_room.rsw#臨時戦受付(夜明け前)#
+//pvp_ss_xx===========================================================
+pvp_ss_01.rsw#臨時戦待機室#
+pvp_ss_02.rsw#臨時戦待機室#
+pvp_ss_03.rsw#臨時戦待機室#
+pvp_ss_04.rsw#臨時戦待機室#
+pvp_ss_05.rsw#臨時戦待機室#
+pvp_ss_06.rsw#臨時戦待機室#
+pvp_ss_07.rsw#臨時戦待機室#
+pvp_ss_08.rsw#臨時戦待機室#
+pvp_ss_09.rsw#臨時戦待機室#
+pvp_ss_10.rsw#臨時戦待機室#
+pvp_ss_11.rsw#臨時戦待機室#
+pvp_ss_12.rsw#臨時戦待機室#
+pvp_ss_13.rsw#臨時戦待機室#
+pvp_ss_14.rsw#臨時戦待機室#
+pvp_ss_15.rsw#臨時戦待機室#
+pvp_ss_16.rsw#臨時戦待機室#
+//pvp_sf_x============================================================
+pvp_sf_a.rsw#臨時戦[闘技場A]#
+pvp_sf_b.rsw#臨時戦[闘技場B]#
+pvp_sf_c.rsw#臨時戦[闘技場C]#
+pvp_sf_d.rsw#臨時戦[闘技場D]#
+pvp_sf_e.rsw#臨時戦[闘技場E]#
+pvp_sf_f.rsw#臨時戦[闘技場F]#
+pvp_sf_g.rsw#臨時戦[闘技場G]#
+pvp_sf_h.rsw#臨時戦[闘技場H]#
+pvp_sf_i.rsw#臨時戦[闘技場I]#
+pvp_sf_j.rsw#臨時戦[闘技場J]#
+pvp_sf_k.rsw#臨時戦[闘技場K]#
+pvp_sf_l.rsw#臨時戦[闘技場L]#
+pvp_sf_m.rsw#臨時戦[闘技場M]#
+pvp_sf_n.rsw#臨時戦[闘技場N]#
+pvp_sf_o.rsw#臨時戦[闘技場O]#
+pvp_sf_p.rsw#臨時戦[闘技場P]#
+pvp_sf_q.rsw#臨時戦[闘技場Q]#
+pvp_sf_r.rsw#臨時戦[闘技場R]#
+pvp_sf_s.rsw#臨時戦[闘技場S]#
+pvp_sf_t.rsw#臨時戦[闘技場T]#
+pvp_sf_u.rsw#臨時戦[闘技場U]#
+pvp_sf_v.rsw#臨時戦[闘技場V]#
+pvp_sf_w.rsw#臨時戦[闘技場W]#
+pvp_sf_x.rsw#臨時戦[闘技場X]#
+pvp_sf_y.rsw#臨時戦[闘技場Y]#
+pvp_sf_z.rsw#臨時戦[闘技場Z]#
+//pvp_se_xx===========================================================
+pvp_se_01.rsw#臨時戦終了待機室#
+pvp_se_02.rsw#臨時戦終了待機室#
+pvp_se_03.rsw#臨時戦終了待機室#
+pvp_se_04.rsw#臨時戦終了待機室#
+pvp_se_05.rsw#臨時戦終了待機室#
+pvp_se_06.rsw#臨時戦終了待機室#
+//====================================================================
+//------------------------------------------------
+ant_d02_i.rsw#認識の庭#
+ant_d02_i_q.rsw#認識の庭(クエスト)#
+anthell02_q.rsw#蟻地獄ダンジョン B2F(クエスト)#
+//------------------------------------------------
+apr_rui2_s.rsw#廃亡遺跡群Lv.2【淵源門】#
+apr_rui2_g.rsw#廃亡遺跡群Lv.2【因果極致】#
+apr_vault_1.rsw#廃亡遺跡群Lv.2【宝物庫】#
+apr_jail_1.rsw#廃亡遺跡群Lv.2【監獄】#
+apr_rui2_1.rsw#廃亡遺跡群Lv.2【第1層　装具点検】#
+apr_rui2_2.rsw#廃亡遺跡群Lv.2【第2層　穢身喧呼】#
+apr_rui2_3.rsw#廃亡遺跡群Lv.2【第3層　穿孔多難】#
+apr_rui2_4.rsw#廃亡遺跡群Lv.2【第4層　魍魎跋扈】#
+apr_rui2_5.rsw#廃亡遺跡群Lv.2【第5層　百鬼夜行】#
+apr_rui2_6.rsw#廃亡遺跡群Lv.2【第6層　絢爛賭場】#
+apr_rui2_7.rsw#廃亡遺跡群Lv.2【第6層　絢爛賭場】#
+apr_rui2_8.rsw#廃亡遺跡群Lv.2【第7層　幻怪市庭】#
+apr_rui2_9.rsw#廃亡遺跡群Lv.2【第8層　幽暗夢遊】#
+apr_rui2_10.rsw#廃亡遺跡群Lv.2【第9層　万里走破】#
+apr_rui2_11.rsw#廃亡遺跡群Lv.2【第10層　戯言遊戯】#
+apr_rui2_12.rsw#廃亡遺跡群Lv.2【第10層　戯言遊戯】#
+apr_rui2_13.rsw#廃亡遺跡群Lv.2【第11層　難行苛烈】#
+apr_rui2_14.rsw#廃亡遺跡群Lv.2【第11層　難行苛烈】#
+//------------------------------------------------
+enchant01.rsw#リア号 船内#
+//------------------------------------------------
+arug_mdl1a.rsw#モデルヴァルフレイヤ 砦1#
+arug_mdl1b.rsw#モデルヴァルフレイヤ 砦1#
+arug_mdl2a.rsw#モデルヴァルフレイヤ 砦2#
+arug_mdl2b.rsw#モデルヴァルフレイヤ 砦2#
+arug_mdl3a.rsw#モデルヴァルフレイヤ 砦3#
+arug_mdl3b.rsw#モデルヴァルフレイヤ 砦3#
+arug_mdl4a.rsw#モデルヴァルフレイヤ 砦4#
+arug_mdl4b.rsw#モデルヴァルフレイヤ 砦4#
+arug_mdl5a.rsw#モデルヴァルフレイヤ 砦5#
+arug_mdl5b.rsw#モデルヴァルフレイヤ 砦5#
+schg_mdl1a.rsw#モデルニダヴェリール 砦1#
+schg_mdl1b.rsw#モデルニダヴェリール 砦1#
+schg_mdl2a.rsw#モデルニダヴェリール 砦2#
+schg_mdl2b.rsw#モデルニダヴェリール 砦2#
+schg_mdl3a.rsw#モデルニダヴェリール 砦3#
+schg_mdl3b.rsw#モデルニダヴェリール 砦3#
+schg_mdl4a.rsw#モデルニダヴェリール 砦4#
+schg_mdl4b.rsw#モデルニダヴェリール 砦4#
+schg_mdl5a.rsw#モデルニダヴェリール 砦5#
+schg_mdl5b.rsw#モデルニダヴェリール 砦5#
+base200.rsw#冒険者ギルド 特別室#
+//------------------------------------------------
+melon_que1.rsw#甘露山 餡蜜寺#
+melon_que2.rsw#餡蜜寺 大修練場#
+melon_que3.rsw#餡蜜寺 室内#
+melon_que4.rsw#餡蜜寺 竹林#
+melon_que5.rsw#秘密のメロン工場#
+melon_que6.rsw#秘密のメロン工場　裏口#
+melon_que7.rsw#秘密のメロン工場　跡地#
+melon_que8.rsw#秘密のメロン工場 地下#
+melon_que9.rsw#秘密のメロン工場 地下工場#
+melon_que10.rsw#秘密のメロン工場 終着点#
+1@mel.rsw#秘密のメロン工場 冷蔵庫#
+//------------------------------------------------
+melon_f2.rsw#メロンフェスタ会場(メロン畑)#
+//------------------------------------------------
+job3_gen01.rsw#錬金術師研究所#
+job3_arch01.rsw#アークビショップ転職待機室#
+job3_arch02.rsw#オーディン神殿（クエスト）#
+job3_guil01.rsw#秘密居酒屋ベインス店#
+job3_guil02.rsw#半地下の倉庫内部#
+job3_guil03.rsw#闇に沈んだ邸宅#
+job3_rang01.rsw#レンジャー転職待機室#
+job3_rang02.rsw#レンジャー転職試験場#
+job3_rune01.rsw#ルーンナイト集結地#
+job3_rune02.rsw#ルーンナイト転職試験場#
+job3_war01.rsw#ウォーロック転職待機室#
+job3_war02.rsw#ウォーロック転職試験場#
+jupe_core2.rsw#ジュピロス中心部（クエスト）#
+job3_sha01.rsw#シャドウチェイサー転職試験場#
+sword_1-1.rsw#修羅転職試験場 1-1#
+sword_2-1.rsw#修羅転職試験場 2-1#
+abyss_04.rsw#アビスレイク地下洞窟 04(1)#
+ein_dun03.rsw#鉱山ダンジョン 03(1)#
+odin_past.rsw#古のオーディン神殿(1)#
+abyss_04_j.rsw#アビスレイク地下洞窟 04(2)#
+ein_dun03_j.rsw#鉱山ダンジョン 03(2)#
+odin_past_j.rsw#古のオーディン神殿(2)#
+//------------------------------------------------
+prtm_mdl1a.rsw#モデルヴァルキリーレルム 砦1#
+prtm_mdl1b.rsw#モデルヴァルキリーレルム 砦1#
+prtm_mdl2a.rsw#モデルヴァルキリーレルム 砦2#
+prtm_mdl2b.rsw#モデルヴァルキリーレルム 砦2#
+prtm_mdl3a.rsw#モデルヴァルキリーレルム 砦3#
+prtm_mdl3b.rsw#モデルヴァルキリーレルム 砦3#
+prtm_mdl4a.rsw#モデルヴァルキリーレルム 砦4#
+prtm_mdl4b.rsw#モデルヴァルキリーレルム 砦4#
+prtm_mdl5a.rsw#モデルヴァルキリーレルム 砦5#
+prtm_mdl5b.rsw#モデルヴァルキリーレルム 砦5#
+aldm_mdl1a.rsw#モデルルイーナ 砦1#
+aldm_mdl1b.rsw#モデルルイーナ 砦1#
+aldm_mdl2a.rsw#モデルルイーナ 砦2#
+aldm_mdl2b.rsw#モデルルイーナ 砦2#
+aldm_mdl3a.rsw#モデルルイーナ 砦3#
+aldm_mdl3b.rsw#モデルルイーナ 砦3#
+aldm_mdl4a.rsw#モデルルイーナ 砦4#
+aldm_mdl4b.rsw#モデルルイーナ 砦4#
+aldm_mdl5a.rsw#モデルルイーナ 砦5#
+aldm_mdl5b.rsw#モデルルイーナ 砦5#
+paym_mdl1a.rsw#モデルチュンリム湖 砦1#
+paym_mdl1b.rsw#モデルチュンリム湖 砦1#
+paym_mdl2a.rsw#モデルチュンリム湖 砦2#
+paym_mdl2b.rsw#モデルチュンリム湖 砦2#
+paym_mdl3a.rsw#モデルチュンリム湖 砦3#
+paym_mdl3b.rsw#モデルチュンリム湖 砦3#
+paym_mdl4a.rsw#モデルチュンリム湖 砦4#
+paym_mdl4b.rsw#モデルチュンリム湖 砦4#
+paym_mdl5a.rsw#モデルチュンリム湖 砦5#
+paym_mdl5b.rsw#モデルチュンリム湖 砦5#
+gefm_mdl1a.rsw#モデルブリトニア 砦1#
+gefm_mdl1b.rsw#モデルブリトニア 砦1#
+gefm_mdl2a.rsw#モデルブリトニア 砦2#
+gefm_mdl2b.rsw#モデルブリトニア 砦2#
+gefm_mdl3a.rsw#モデルブリトニア 砦3#
+gefm_mdl3b.rsw#モデルブリトニア 砦3#
+gefm_mdl4a.rsw#モデルブリトニア 砦4#
+gefm_mdl4b.rsw#モデルブリトニア 砦4#
+gefm_mdl5a.rsw#モデルブリトニア 砦5#
+gefm_mdl5b.rsw#モデルブリトニア 砦5#
+base241.rsw#小規模戦 第01控室#
+base242.rsw#小規模戦 第02控室#
+base243.rsw#小規模戦 第03控室#
+base244.rsw#小規模戦 第04控室#
+base245.rsw#小規模戦 第05控室#
+base246.rsw#小規模戦 第06控室#
+base247.rsw#小規模戦 第07控室#
+base248.rsw#小規模戦 第08控室#
+base249.rsw#小規模戦 第09控室#
+base250.rsw#小規模戦 第10控室#
+base251.rsw#小規模戦 第11控室#
+base252.rsw#小規模戦 第12控室#
+base253.rsw#小規模戦 第13控室#
+base254.rsw#小規模戦 第14控室#
+base255.rsw#小規模戦 第15控室#
+base256.rsw#小規模戦 第16控室#
+base257.rsw#小規模戦 第17控室#
+base258.rsw#小規模戦 第18控室#
+base259.rsw#小規模戦 第19控室#
+base260.rsw#小規模戦 第20控室#
+base261.rsw#小規模戦 第21控室#
+base262.rsw#小規模戦 第22控室#
+base263.rsw#小規模戦 第23控室#
+base264.rsw#小規模戦 第24控室#
+base265.rsw#小規模戦 第25控室#
+base266.rsw#小規模戦 第26控室#
+base267.rsw#小規模戦 第27控室#
+base268.rsw#小規模戦 第28控室#
+base269.rsw#小規模戦 第29控室#
+base270.rsw#小規模戦 第30控室#
+base271.rsw#小規模戦 第31控室#
+base272.rsw#小規模戦 第32控室#
+base273.rsw#小規模戦 第33控室#
+base274.rsw#小規模戦 第34控室#
+base275.rsw#小規模戦 第35控室#
+base276.rsw#小規模戦 第36控室#
+base277.rsw#小規模戦 第37控室#
+base278.rsw#小規模戦 第38控室#
+base279.rsw#小規模戦 第39控室#
+base280.rsw#小規模戦 第40控室#
+prtm_cas1.rsw#ヴァルキリーレルム 砦1#
+prtm_fld1a.rsw#ヴァルキリーレルム 砦前1（A地域）#
+prtm_fld1b.rsw#ヴァルキリーレルム 砦前1（B地域）#
+prtm_cas2.rsw#ヴァルキリーレルム 砦2#
+prtm_fld2a.rsw#ヴァルキリーレルム 砦前2（A地域）#
+prtm_fld2b.rsw#ヴァルキリーレルム 砦前2（B地域）#
+prtm_cas3.rsw#ヴァルキリーレルム 砦3#
+prtm_fld3a.rsw#ヴァルキリーレルム 砦前3（A地域）#
+prtm_fld3b.rsw#ヴァルキリーレルム 砦前3（B地域）#
+prtm_cas4.rsw#ヴァルキリーレルム 砦4#
+prtm_fld4a.rsw#ヴァルキリーレルム 砦前4（A地域）#
+prtm_fld4b.rsw#ヴァルキリーレルム 砦前4（B地域）#
+prtm_cas5.rsw#ヴァルキリーレルム 砦5#
+prtm_fld5a.rsw#ヴァルキリーレルム 砦前5（A地域）#
+prtm_fld5b.rsw#ヴァルキリーレルム 砦前5（B地域）#
+gefm_cas1.rsw#ブリトニア 砦1#
+gefm_fld1a.rsw#ブリトニア 砦前1（A地域）#
+gefm_fld1b.rsw#ブリトニア 砦前1（B地域）#
+gefm_cas2.rsw#ブリトニア 砦2#
+gefm_fld2a.rsw#ブリトニア 砦前2（A地域）#
+gefm_fld2b.rsw#ブリトニア 砦前2（B地域）#
+gefm_cas3.rsw#ブリトニア 砦3#
+gefm_fld3a.rsw#ブリトニア 砦前3（A地域）#
+gefm_fld3b.rsw#ブリトニア 砦前3（B地域）#
+gefm_cas4.rsw#ブリトニア 砦4#
+gefm_fld4a.rsw#ブリトニア 砦前4（A地域）#
+gefm_fld4b.rsw#ブリトニア 砦前4（B地域）#
+gefm_cas5.rsw#ブリトニア 砦5#
+gefm_fld5a.rsw#ブリトニア 砦前5（A地域）#
+gefm_fld5b.rsw#ブリトニア 砦前5（B地域）#
+paym_cas1.rsw#チュンリム湖 砦1#
+paym_fld1a.rsw#チュンリム湖 砦前1（A地域）#
+paym_fld1b.rsw#チュンリム湖 砦前1（B地域）#
+paym_cas2.rsw#チュンリム湖 砦2#
+paym_fld2a.rsw#チュンリム湖 砦前2（A地域）#
+paym_fld2b.rsw#チュンリム湖 砦前2（B地域）#
+paym_cas3.rsw#チュンリム湖 砦3#
+paym_fld3a.rsw#チュンリム湖 砦前3（A地域）#
+paym_fld3b.rsw#チュンリム湖 砦前3（B地域）#
+paym_cas4.rsw#チュンリム湖 砦4#
+paym_fld4a.rsw#チュンリム湖 砦前4（A地域）#
+paym_fld4b.rsw#チュンリム湖 砦前4（B地域）#
+paym_cas5.rsw#チュンリム湖 砦5#
+paym_fld5a.rsw#チュンリム湖 砦前5（A地域）#
+paym_fld5b.rsw#チュンリム湖 砦前5（B地域）#
+aldm_cas1.rsw#ルイーナ 砦1#
+aldm_fld1a.rsw#ルイーナ 砦前1（A地域）#
+aldm_fld1b.rsw#ルイーナ 砦前1（B地域）#
+aldm_cas2.rsw#ルイーナ 砦2#
+aldm_fld2a.rsw#ルイーナ 砦前2（A地域）#
+aldm_fld2b.rsw#ルイーナ 砦前2（B地域）#
+aldm_cas3.rsw#ルイーナ 砦3#
+aldm_fld3a.rsw#ルイーナ 砦前3（A地域）#
+aldm_fld3b.rsw#ルイーナ 砦前3（B地域）#
+aldm_cas4.rsw#ルイーナ 砦4#
+aldm_fld4a.rsw#ルイーナ 砦前4（A地域）#
+aldm_fld4b.rsw#ルイーナ 砦前4（B地域）#
+aldm_cas5.rsw#ルイーナ 砦5#
+aldm_fld5a.rsw#ルイーナ 砦前5（A地域）#
+aldm_fld5b.rsw#ルイーナ 砦前5（B地域）#
+//------------------------------------------------
+levelroom04.rsw#レベルルーム04#
+9@thts0.rsw#タナトスの記憶 開始エリア#
+9@thts1.rsw#タナトスの記憶 01#
+9@thts2.rsw#タナトスの記憶 02#
+9@thts3.rsw#タナトスの記憶 03#
+9@thts4.rsw#タナトスの記憶 04#
+9@thts5.rsw#タナトスの記憶 05#
+9@thts6.rsw#タナトスの記憶 06#
+9@thts7.rsw#タナトスの記憶 07#
+9@thts8.rsw#タナトスの記憶 08#
+9@thts9.rsw#タナトスの記憶 09#
+9@thts10.rsw#タナトスの記憶 10#
+9@thts11.rsw#タナトスの記憶 11#
+9@thts12.rsw#タナトスの記憶 12#
+9@thts13.rsw#タナトスの記憶 13#
+9@thts14.rsw#タナトスの記憶 階段#
+9@thts15.rsw#タナトスの記憶 04#
+9@thts16.rsw#タナトスの記憶 05#
+9@thts17.rsw#タナトスの記憶 05#
+9@thts18.rsw#タナトスの記憶 05#
+9@thts19.rsw#タナトスの記憶 06#
+9@thts20.rsw#タナトスの記憶 06#
+9@thts21.rsw#タナトスの記憶 06#
+9@thts22.rsw#タナトスの記憶 06#
+9@thts23.rsw#タナトスの記憶 13#
+9@thts24.rsw#タナトスの記憶 入場エリア#
+1@thts.rsw#タナトスの記憶#
+2@thts.rsw#タナトスの記憶#
+3@thts.rsw#タナトスの記憶#
+4@thts.rsw#タナトスの記憶#
+5@thts.rsw#タナトスの記憶#
+6@thts.rsw#タナトスの記憶#
+7@thts.rsw#タナトスの記憶#
+8@thts.rsw#タナトスの記憶#
+//------------------------------------------------
+1@4cdn.rsw#幻影の洞窟（クエスト）#
+1@4drk.rsw#ドラゴンの試験（クエスト）#
+1@4igd.rsw#意見の決闘場（クエスト）#
+1@4inq.rsw#修道院地下（クエスト）#
+1@4mag.rsw#魔力の泉（クエスト）#
+1@4mst.rsw#ジュピロス中心部VT（クエスト）#
+1@4sac.rsw#闇に沈んだ邸宅（クエスト）#
+1@4tro.rsw#クヴァシルの箱（クエスト）#
+1@4win.rsw#ルルカの深い森（クエスト）#
+job4_bio.rsw#シークレットガーデン#
+job4_mag.rsw#魔力の泉#
+job4_tro.rsw#空っぽのクヴァシルの箱#
+ba_bath_q.rsw#名も無い泉（アークメイジ転職試験場）#
+nif_dun01.rsw#ニブルヘイムダンジョン(亡者の宴会場)#
+nif_dun02.rsw#ニブルヘイムダンジョン(崩れたオペラハウス)#
+sp_rudus4.rsw#廃棄実験体遊技場ルドゥス4階#
+rag_fes.rsw#アニバーサリー会場#
+rag_fes_.rsw#アニバーサリー撮影会場#
+ba_pw03.rsw#第2魔力発電所(クエスト)#
+ba_2whs01.rsw#貯蔵庫タルタロス上層(クエスト)#
+ba_2whs02.rsw#貯蔵庫タルタロス下層(クエスト)#
+ba_bath.rsw#大浴場メディタティオ(クエスト)#
+ba_pw03_j.rsw#第2魔力発電所#
+ba_2whs01_j.rsw#貯蔵庫タルタロス上層#
+ba_2whs02_j.rsw#貯蔵庫タルタロス下層#
+ba_bath_j.rsw#大浴場メディタティオ#
+1@herbs3.rsw#隠された花園（保安区域）(ハード)#
+2@ghg.rsw#水上植物園オルトゥス・アクア(ハード)#
+1@ld100.rsw#幻影の迷宮 試練の門#
+2@ld100.rsw#幻影の迷宮 大樹の幹#
+2@ld101.rsw#幻影の迷宮 赤の森#
+2@ld102.rsw#幻影の迷宮 地底洞窟#
+2@ld103.rsw#幻影の迷宮 凍える氷穴#
+2@ld104.rsw#幻影の迷宮 火山地帯#
+2@ld105.rsw#幻影の迷宮 魔物の巣穴#
+2@ld106.rsw#幻影の迷宮 財宝の眠る地底湖#
+2@ld107.rsw#幻影の迷宮 湿った洞窟#
+2@ld108.rsw#幻影の迷宮 湿った鉱山#
+2@ld109.rsw#幻影の迷宮 湿った鉱山#
+2@ld110.rsw#幻影の迷宮 穢れた廃村#
+2@ld111.rsw#幻影の迷宮 荒れた廃棄場#
+2@ld112.rsw#幻影の迷宮 荒れた廃棄場#
+2@ld113.rsw#幻影の迷宮 荒れた廃棄場#
+2@ld114.rsw#幻影の迷宮 血濡れた研究所#
+2@ld115.rsw#幻影の迷宮 血濡れた研究所#
+2@ld117.rsw#幻影の迷宮 実験施設#
+2@ld118.rsw#幻影の迷宮 未知の箱庭#
+2@ld119.rsw#幻影の迷宮 逢魔の館#
+2@ld120.rsw#幻影の迷宮 逢魔の館#
+2@ld121.rsw#幻影の迷宮 陰鬱な倉庫#
+2@ld122.rsw#幻影の迷宮 汚染された廃城#
+2@ld123.rsw#幻影の迷宮 煮え滾る浴場#
+2@ld124.rsw#幻影の迷宮 悪魔の劇場#
+2@ld125.rsw#幻影の迷宮 夢の花園#
+2@ld126.rsw#幻影の迷宮 夢の花園#
+2@ld127.rsw#幻影の迷宮 鮮緑の神殿#
+2@ld128.rsw#幻影の迷宮 太古の塔#
+2@ld129.rsw#幻影の迷宮 塔の地下#
+2@ld130.rsw#幻影の迷宮 深海遺跡#
+2@ld131.rsw#幻影の迷宮 海底神殿#
+2@ld199.rsw#幻影の迷宮 隠された聖域#
+3@ld100.rsw#幻影の迷宮 永遠の悪夢#
+4@ld100.rsw#幻影の迷宮 夢の終点#
+5@ld100.rsw#幻影の迷宮 夢の終わり#
+2@ld201.rsw#幻影の迷宮 新緑の大樹#
+2@ld202.rsw#幻影の迷宮 新緑の大樹#
+2@ld203.rsw#幻影の迷宮 新緑の大樹#
+2@ld204.rsw#幻影の迷宮 魔の湖#
+2@ld205.rsw#幻影の迷宮 魔の湖#
+2@ld206.rsw#幻影の迷宮 魔の湖#
+2@ld207.rsw#幻影の迷宮 砂の洞穴#
+2@ld208.rsw#幻影の迷宮 砂の洞穴#
+2@ld209.rsw#幻影の迷宮 古代遺跡#
+2@ld210.rsw#幻影の迷宮 古代遺跡#
+2@ld211.rsw#幻影の迷宮 古代遺跡#
+2@ld212.rsw#幻影の迷宮 古代遺跡#
+2@ld213.rsw#幻影の迷宮 魂の牢獄#
+2@ld214.rsw#幻影の迷宮 魂の牢獄#
+2@ld215.rsw#幻影の迷宮 魂の牢獄#
+2@ld216.rsw#幻影の迷宮 魂の牢獄#
+2@ld217.rsw#幻影の迷宮 次元の裂け目#
+2@ld218.rsw#幻影の迷宮 次元の裂け目#
+2@ld219.rsw#幻影の迷宮 嘆きの廃城#
+2@ld220.rsw#幻影の迷宮 嘆きの廃城#
+2@ld221.rsw#幻影の迷宮 嘆きの廃城#
+2@ld222.rsw#幻影の迷宮 嘆きの廃城#
+2@ld223.rsw#幻影の迷宮 廃城の地下通路#
+2@ld224.rsw#幻影の迷宮 廃城の地下通路#
+2@ld225.rsw#幻影の迷宮 穢れの監獄#
+2@ld226.rsw#幻影の迷宮 穢れの監獄#
+2@ld227.rsw#幻影の迷宮 夢幻の道#
+2@ld228.rsw#幻影の迷宮 夢幻の道#
+2@ld229.rsw#幻影の迷宮 夢幻の道#
+2@ld230.rsw#幻影の迷宮 禁忌の実験場#
+2@ld231.rsw#幻影の迷宮 禁忌の実験場#
+2@ld299.rsw#幻影の迷宮 隠された聖域#
+3@ld200.rsw#幻影の迷宮 永遠の悪夢#
+4@ld200.rsw#幻影の迷宮 夢の終点#
+5@ld200.rsw#幻影の迷宮 夢の終わり#
+bat_b01_j.rsw#bat_b01_j#
+jp_ev_map05.rsw#少女の夢の中#
+//------------------------------------------------
+pab_service.rsw#プロンテラ深淵(狭間)#
+//------------------------------------------------
+moonfield01.rsw#月面#
+moonfield02.rsw#月面#
+moonfield03.rsw#月面#
+moonfield04.rsw#裏月面#
+moonfield05.rsw#裏月面#
+moonfield06.rsw#裏月面#
+//------------------------------------------------
+wolfvill.rsw#灰色狼の村#
+gw_fild01.rsw#灰色狼の森 01#
+gw_fild02.rsw#灰色狼の森 02#
+oz_dun01.rsw#オズの迷路 01#
+oz_dun02.rsw#オズの迷路 02#
+que_thr.rsw#トール火山内部（クエスト）#
+1@oz.rsw#オズの迷路（クエスト）#
+1@nyr.rsw#聖域セスルムニル 庭園#
+2@nyr.rsw#聖域セスルムニル 心臓保管所#
+1@adv.rsw#大神官の別荘#
+1@tcamp.rsw#トール軍事基地#
+3@nyr.rsw#聖域セスルムニル 入口#
+1@nyrd.rsw#聖域セスルムニル 庭園#
+2@nyrd.rsw#聖域セスルムニル 心臓保管所#
+3@nyrd.rsw#聖域セスルムニル 入口#
+1@advs.rsw#欺瞞の別荘(入口)#
+2@advs.rsw#欺瞞の別荘(内部)#
+3@advs.rsw#欺瞞の別荘(礼拝堂)#
+//------------------------------------------------
+2@ld116.rsw#幻影の迷宮 汚染処理場#
+1@le100.rsw#幻影の迷宮 試練の門#
+2@le100.rsw#幻影の迷宮 大樹の幹#
+2@le101.rsw#幻影の迷宮 新緑の大樹#
+2@le102.rsw#幻影の迷宮 地底洞窟#
+2@le103.rsw#幻影の迷宮 凍える氷穴#
+2@le104.rsw#幻影の迷宮 火山地帯#
+2@le105.rsw#幻影の迷宮 魔物の巣穴#
+2@le106.rsw#幻影の迷宮 財宝の眠る地底湖#
+2@le107.rsw#幻影の迷宮 湿った洞窟#
+2@le108.rsw#幻影の迷宮 湿った鉱山#
+2@le109.rsw#幻影の迷宮 湿った鉱山#
+2@le110.rsw#幻影の迷宮 穢れた廃村#
+2@le111.rsw#幻影の迷宮 荒れた廃棄場#
+2@le112.rsw#幻影の迷宮 荒れた廃棄場#
+2@le113.rsw#幻影の迷宮 荒れた廃棄場#
+2@le114.rsw#幻影の迷宮 血濡れた研究所#
+2@le115.rsw#幻影の迷宮 血濡れた研究所#
+2@le116.rsw#幻影の迷宮 汚染処理場#
+2@le117.rsw#幻影の迷宮 実験施設#
+2@le118.rsw#幻影の迷宮 未知の箱庭#
+2@le119.rsw#幻影の迷宮 逢魔の館#
+2@le120.rsw#幻影の迷宮 逢魔の館#
+2@le121.rsw#幻影の迷宮 陰鬱な倉庫#
+2@le122.rsw#幻影の迷宮 汚染された廃城#
+2@le123.rsw#幻影の迷宮 煮え滾る浴場#
+2@le124.rsw#幻影の迷宮 悪魔の劇場#
+2@le125.rsw#幻影の迷宮 夢の花園#
+2@le126.rsw#幻影の迷宮 夢の花園#
+2@le127.rsw#幻影の迷宮 鮮緑の神殿#
+2@le128.rsw#幻影の迷宮 太古の塔#
+2@le129.rsw#幻影の迷宮 塔の地下#
+2@le130.rsw#幻影の迷宮 深海遺跡#
+2@le131.rsw#幻影の迷宮 海底神殿#
+2@le199.rsw#幻影の迷宮 隠された聖域#
+3@le100.rsw#幻影の迷宮 永遠の悪夢#
+4@le100.rsw#幻影の迷宮 夢の終点#
+5@le100.rsw#幻影の迷宮 夢の終わり#
+1@lf100.rsw#幻影の迷宮 試練の門#
+2@lf100.rsw#幻影の迷宮 大樹の幹#
+2@lf201.rsw#幻影の迷宮 新緑の大樹#
+2@lf202.rsw#幻影の迷宮 新緑の大樹#
+2@lf203.rsw#幻影の迷宮 新緑の大樹#
+2@lf204.rsw#幻影の迷宮 魔の湖#
+2@lf205.rsw#幻影の迷宮 魔の湖#
+2@lf206.rsw#幻影の迷宮 魔の湖#
+2@lf207.rsw#幻影の迷宮 砂の洞穴#
+2@lf208.rsw#幻影の迷宮 砂の洞穴#
+2@lf209.rsw#幻影の迷宮 古代遺跡#
+2@lf210.rsw#幻影の迷宮 古代遺跡#
+2@lf211.rsw#幻影の迷宮 古代遺跡#
+2@lf212.rsw#幻影の迷宮 古代遺跡#
+2@lf213.rsw#幻影の迷宮 魂の牢獄#
+2@lf214.rsw#幻影の迷宮 魂の牢獄#
+2@lf215.rsw#幻影の迷宮 魂の牢獄#
+2@lf216.rsw#幻影の迷宮 魂の牢獄#
+2@lf217.rsw#幻影の迷宮 次元の裂け目#
+2@lf218.rsw#幻影の迷宮 次元の裂け目#
+2@lf219.rsw#幻影の迷宮 嘆きの廃城#
+2@lf220.rsw#幻影の迷宮 嘆きの廃城#
+2@lf221.rsw#幻影の迷宮 嘆きの廃城#
+2@lf222.rsw#幻影の迷宮 嘆きの廃城#
+2@lf223.rsw#幻影の迷宮 廃城の地下通路#
+2@lf224.rsw#幻影の迷宮 廃城の地下通路#
+2@lf225.rsw#幻影の迷宮 穢れの監獄#
+2@lf226.rsw#幻影の迷宮 穢れの監獄#
+2@lf227.rsw#幻影の迷宮 夢幻の道#
+2@lf228.rsw#幻影の迷宮 夢幻の道#
+2@lf229.rsw#幻影の迷宮 夢幻の道#
+2@lf230.rsw#幻影の迷宮 禁忌の実験場#
+2@lf231.rsw#幻影の迷宮 禁忌の実験場#
+2@lf299.rsw#幻影の迷宮 隠された聖域#
+3@lf200.rsw#幻影の迷宮 永遠の悪夢#
+4@lf200.rsw#幻影の迷宮 夢の終点#
+5@lf200.rsw#幻影の迷宮 夢の終わり#
+//------------------------------------------------
+1@ge_sn.rsw#ゲフェン夜間闘技場#
+1@mjo1.rsw#ミョルニール山脈(飛行船墜落地)#
+1@mjo2.rsw#ミョルニール山脈(忘れられた空洞)#
+amicitia1.rsw#廃棄実験所アミシティア 01(1)#
+amicitia2.rsw#廃棄実験所アミシティア 02(1)#
+amicitia1b.rsw#廃棄実験所アミシティア 01(2)#
+amicitia2b.rsw#廃棄実験所アミシティア 02(2)#
+amicitia1c.rsw#廃棄実験所アミシティア 01(3)#
+amicitia2c.rsw#廃棄実験所アミシティア 02(3)#
+//------------------------------------------------
+levelroom05.rsw#レベルルーム05#
+levelroom06.rsw#レベルルーム06#
+//------------------------------------------------
+apr_rui3_s.rsw#廃亡遺跡群Lv.3【はじまりは酒場】#
+apr_rui3_g.rsw#廃亡遺跡群Lv.3【つむがれた伝説】#
+apr_sanc_2.rsw#廃亡遺跡群Lv.3【転職寺院ダンマ】#
+apr_vault_2.rsw#廃亡遺跡群Lv.3【宝物庫】#
+apr_jail_2.rsw#廃亡遺跡群Lv.3【監獄】#
+apr_rui3_1.rsw#廃亡遺跡群Lv.3【第1幕　伝説の幕開け】#
+apr_rui3_2.rsw#廃亡遺跡群Lv.3【第2幕　崩落した地下道】#
+apr_rui3_3.rsw#廃亡遺跡群Lv.3【第3幕　乱れし狭間】#
+apr_rui3_4.rsw#廃亡遺跡群Lv.3【第4幕　呪われた村】#
+apr_rui3_5.rsw#廃亡遺跡群Lv.3【第5幕　眩暈の森】#
+apr_rui3_6.rsw#廃亡遺跡群Lv.3【第6幕　天に仇なす魔塔】#
+apr_rui3_7.rsw#廃亡遺跡群Lv.3【第7幕　異国のバザール】#
+apr_rui3_8.rsw#廃亡遺跡群Lv.3【第8幕　瘴気満ちる森】#
+apr_rui3_9.rsw#廃亡遺跡群Lv.3【第9幕　神殿への道】#
+apr_rui3_10.rsw#廃亡遺跡群Lv.3【第10幕　忘れられた神殿】#
+apr_rui3_11.rsw#廃亡遺跡群Lv.3【第11幕　万魔の城】#
+//------------------------------------------------
+base281.rsw#小規模戦 第41控室#
+prtm_cas6.rsw#ヴァルキリーレルム 砦5#
+prtm_fld6.rsw#ヴァルキリーレルム 砦前5#
+gefm_cas6.rsw#ブリトニア 砦3#
+gefm_fld6.rsw#ブリトニア 砦前3#
+paym_cas6.rsw#チュンリム湖 砦2#
+paym_fld6.rsw#チュンリム湖 砦前2#
+aldm_cas6.rsw#ルイーナ 砦3#
+aldm_fld6.rsw#ルイーナ 砦前3#
+//------------------------------------------------
+//tra_hall_x==========================================================
+tra_hall_g.rsw#お試し道場[攻城戦]#
+//------------------------------------------------
+prt_elib.rsw#プロンテラ東図書館#
+1@vrpop.rsw#幻想叢書-虹の道#
+2@vrpop.rsw#幻想叢書-虹の道#
+3@vrpop.rsw#幻想叢書-虹の終わりの湖#
+//------------------------------------------------
+1@vrcas.rsw#幻想叢書‐リリウム宮#
+//------------------------------------------------
+1@vrev.rsw#幻想叢書‐アミシティア秘密研究室#
+//------------------------------------------------
+1@vrgen.rsw#幻想叢書‐ジェネティック研究所#
+//------------------------------------------------
+air_if.rsw#飛行船イフ号 内部#
+icecastle.rsw#イスガルド 氷の城#
+icas_in.rsw#イスガルド 室内#
+jor_nest.rsw#蛇の巣#
+jor_tail.rsw#凍て付いた尻尾#
+jor_back1.rsw#凍て付いた鱗の丘#
+jor_back2.rsw#凍て付いた鱗の平原(クエスト)#
+jor_back3.rsw#凍て付いた鱗の氷河(クエスト)#
+jor_ab01.rsw#捨てられた穴 01(クエスト)#
+jor_ab02.rsw#捨てられた穴 02(クエスト)#
+jor_dun01.rsw#蛇神の温もり 01(クエスト)#
+jor_dun02.rsw#蛇神の温もり 02(クエスト)#
+jor_dun03.rsw#蛇の巣(バゴットの研究室)#
+jor_que.rsw#捨てられた蛇神の温もり#
+1@iwp.rsw#はじめてのパトロール#
+1@jorchs.rsw#混乱の蛇の巣#
+1@jorlab.rsw#バゴットの研究室 入口#
+2@jorlab.rsw#バゴットの研究室#
+1@whl.rsw#飛行船破壊作戦(飛行船ワイル1号)#
+1@jca_1.rsw#シミュレーション戦闘 入場エリア#
+1@jca_2.rsw#シミュレーション戦闘 戦闘エリア#
+jor_back2_.rsw#凍て付いた鱗の平原#
+jor_back3_.rsw#凍て付いた鱗の氷河#
+jor_ab01_.rsw#捨てられた穴 01#
+jor_ab02_.rsw#捨てられた穴 02#
+jor_dun01_.rsw#蛇神の温もり 01#
+jor_dun02_.rsw#蛇神の温もり 02#
+p_cas_gr_1.rsw#プロンテラ中央宮#
+p_cas_gr_2.rsw#プロンテラ中央宮#
+//------------------------------------------------
+vr_bob.rsw#幻想叢書‐今日のご飯#
+//------------------------------------------------
+1@vrpo.rsw#幻想叢書‐ポリンテラ#
+//------------------------------------------------
+melon_que11.rsw#ゲフェン地下遺跡#
+melon_que12.rsw#ゲフェン地下遺跡　水鏡の間#
+melon_que13.rsw#隠されたピラミッド#
+melon_que14.rsw#遺棄された修練場#
+melon_que15.rsw#地下闘技場#
+melon_que16.rsw#王城ティアマト#
+melon_que17.rsw#王城ティアマト(地下祭壇)#
+melon_que18.rsw#王城ティアマト(深淵の玉座)#
+2@mel.rsw#王城ティアマト(城門)#
+//------------------------------------------------
+1@exnw.rsw#クラナネミエリー（クエスト）#
+1@exsr.rsw#内面の世界（クエスト）#
+1@exds.rsw#無名山の麓01（クエスト）#
+2@exds.rsw#無名山の麓02（クエスト）#
+1@exse.rsw#ギンガの天界分所（クエスト）#
+1@exhn.rsw#ノービスの記憶（クエスト）#
+1@exsh.rsw#深い森（クエスト）#
+//------------------------------------------------
+ev_auction.rsw#オークション会場#
+x_prt_evt.rsw#夜市#
+x_prt_in.rsw#夜市運営本部#
+x_prt_evt_.rsw#夜市（撮影会場）#
+ev_auction_.rsw#オークション会場入り口#
+//------------------------------------------------
+1@ct0.rsw#星座の塔 入場エリア#
+1@ct1.rsw#星座の塔 開始エリア#
+1@ct2.rsw#星座の塔 1層#
+1@ct3.rsw#星座の塔 2層#
+1@ct4.rsw#星座の塔 女神の祭壇#
+1@ct5.rsw#星座の塔 覇王の間#
+//------------------------------------------------
+1@ch_t.rsw#星座の塔 1層#
+2@ch_t.rsw#星座の塔 2層#
+3@ch_t.rsw#星座の塔 覇王の間#
+//------------------------------------------------
+ev_library.rsw#メモリアルレポート#
+//------------------------------------------------
+in_hunter2.rsw#回収手続き用マップ#
+in_hunter3.rsw#回収手続き用マップ#
+//------------------------------------------------
+clock_01.rsw#アルデバラン時計塔地下 未知の空間#
+//------------------------------------------------
+1@gol1b2.rsw#生体実験棟(4th)#
+1@gol2b2.rsw#死体保管所(4th)#
+levelroom07.rsw#レベルルーム07#
+levelroom08.rsw#レベルルーム08#
+levelroom09.rsw#レベルルーム09#
+//------------------------------------------------
+babyroom.rsw#養子専用室内#
+//------------------------------------------------
+4@ghc0.rsw#汚染された次元（4th） 開始エリア#
+4@ghc1.rsw#汚染された次元（4th） 1#
+4@ghc2.rsw#汚染された次元（4th） 2#
+4@ghc3.rsw#汚染された次元（4th） 呪いが溢れる次元の歪み#
+4@ghc4.rsw#汚染された次元（4th） 呪いの源#
+4@ghc11.rsw#汚染された次元（4th） 隔絶された領域 赤#
+4@ghc12.rsw#汚染された次元（4th） 隔絶された領域 黄#
+4@ghc13.rsw#汚染された次元（4th） 隔絶された領域 紫#
+4@ghc14.rsw#汚染された次元（4th） 隔絶された領域 青#
+4@ghc15.rsw#汚染された次元（4th） 隔絶された領域 緑#
+4@ghc16.rsw#汚染された次元（4th） 隔絶された領域 空#
+4@ghc17.rsw#汚染された次元（4th） 隔絶された領域 剣 壱#
+4@ghc18.rsw#汚染された次元（4th） 隔絶された領域 剣 弐#
+4@ghc19.rsw#汚染された次元（4th） 隔絶された領域 剣 参#
+//------------------------------------------------
+apr_rui4_s.rsw#廃亡遺跡群Lv.4【異邦のベースキャンプ】#
+apr_rui4_g1.rsw#廃亡遺跡群Lv.4【欲望の淵】#
+apr_rui4_g2.rsw#廃亡遺跡群Lv.4【高潔の頂】#
+apr_rui4_1.rsw#廃亡遺跡群Lv.4【1筆目　薄明の旅立ち】#
+apr_rui4_1c.rsw#廃亡遺跡群Lv.4【キャンプ地】#
+apr_rui4_2.rsw#廃亡遺跡群Lv.4【2筆目　有明の行路】#
+apr_rui4_2c.rsw#廃亡遺跡群Lv.4【キャンプ地】#
+apr_rui4_3.rsw#廃亡遺跡群Lv.4【3筆目　明昼の緑樹】#
+apr_rui4_3c.rsw#廃亡遺跡群Lv.4【キャンプ地】#
+apr_rui4_4.rsw#廃亡遺跡群Lv.4【4筆目　灯点しの楼閣】#
+apr_rui4_4c.rsw#廃亡遺跡群Lv.4【キャンプ地】#
+apr_rui4_5.rsw#廃亡遺跡群Lv.4【5筆目　終夜の彷徨い】#
+apr_rui4_5c.rsw#廃亡遺跡群Lv.4【キャンプ地】#
+apr_rui4_6.rsw#廃亡遺跡群Lv.4【6筆目　暁紅の征途】#
+apr_rui4_6c.rsw#廃亡遺跡群Lv.4【キャンプ地】#
+apr_rui4_7.rsw#廃亡遺跡群Lv.4【7筆目　晨朝の叢生】#
+apr_rui4_7c.rsw#廃亡遺跡群Lv.4【キャンプ地】#
+apr_rui4_8.rsw#廃亡遺跡群Lv.4【8筆目　午天の鐘楼】#
+apr_rui4_8c.rsw#廃亡遺跡群Lv.4【キャンプ地】#
+apr_rui4_9.rsw#廃亡遺跡群Lv.4【9筆目　黄昏の螺旋】#
+apr_rui4_9c.rsw#廃亡遺跡群Lv.4【キャンプ地】#
+apr_rui410.rsw#廃亡遺跡群Lv.4【10筆目　夜不去の城郭】#
+apr_rui410c.rsw#廃亡遺跡群Lv.4【キャンプ地】#
+apr_sanc_4.rsw#廃亡遺跡群Lv.4【転職寺院ダンマ】#
+apr_vault_4.rsw#廃亡遺跡群Lv.4【宝物庫】#
+apr_jail_4.rsw#廃亡遺跡群Lv.4【監獄】#
+//------------------------------------------------
+//6月イベント
+ev_june01.rsw#6月の都#
+1@bond0.rsw#Bond Of Lovers#
+1@bond1.rsw#Bond Of Lovers#
+1@bond2.rsw#Bond Of Lovers#
+1@bond3.rsw#Bond Of Lovers#
+1@bond4.rsw#Bond Of Lovers#
+1@bond5.rsw#Bond Of Lovers#
+//------------------------------------------------
+1@letter.rsw#室内#
+2@letter.rsw#街エリア#
+3@letter.rsw#周辺エリア#
+1@lt2.rsw#室内#
+2@lt2.rsw#街エリア#
+3@lt2.rsw#周辺エリア#
+//------------------------------------------------
+1@htst1.rsw#Heart Of Love#
+1@hted1.rsw#Heart Of Love#
+1@htpd1.rsw#Heart Of Love#
+1@htpd2.rsw#Heart Of Love#
+1@htpd3.rsw#Heart Of Love#
+1@htpd4.rsw#Heart Of Love#
+1@htpd5.rsw#Heart Of Love#
+1@htpd6.rsw#Heart Of Love#
+1@htpd7.rsw#Heart Of Love#
+1@htst1a.rsw#Heart Of Love#
+1@hted1a.rsw#Heart Of Love#
+1@htpd1a.rsw#Heart Of Love#
+1@htpd2a.rsw#Heart Of Love#
+1@htpd3a.rsw#Heart Of Love#
+1@htpd4a.rsw#Heart Of Love#
+1@htpd5a.rsw#Heart Of Love#
+1@htst1b.rsw#Heart Of Love#
+1@hted1b.rsw#Heart Of Love#
+1@htpd1b.rsw#Heart Of Love#
+1@htpd2b.rsw#Heart Of Love#
+1@htpd3b.rsw#Heart Of Love#
+1@htpd4b.rsw#Heart Of Love#
+1@htpd5b.rsw#Heart Of Love#
+1@htst1c.rsw#Heart Of Love#
+1@hted1c.rsw#Heart Of Love#
+1@htpd1c.rsw#Heart Of Love#
+1@htpd2c.rsw#Heart Of Love#
+1@htpd3c.rsw#Heart Of Love#
+1@htpd4c.rsw#Heart Of Love#
+1@htpd5c.rsw#Heart Of Love#
+1@htst1d.rsw#Heart Of Love#
+1@hted1d.rsw#Heart Of Love#
+1@htpd1d.rsw#Heart Of Love#
+1@htpd2d.rsw#Heart Of Love#
+1@htpd3d.rsw#Heart Of Love#
+1@htpd4d.rsw#Heart Of Love#
+1@htpd5d.rsw#Heart Of Love#
+1@htst1e.rsw#Heart Of Love#
+1@hted1e.rsw#Heart Of Love#
+1@htpd1e.rsw#Heart Of Love#
+1@htpd2e.rsw#Heart Of Love#
+1@htpd3e.rsw#Heart Of Love#
+1@htpd4e.rsw#Heart Of Love#
+1@htpd5e.rsw#Heart Of Love#
+1@htst1f.rsw#Heart Of Love#
+1@hted1f.rsw#Heart Of Love#
+1@htpd1f.rsw#Heart Of Love#
+1@htpd2f.rsw#Heart Of Love#
+1@htpd3f.rsw#Heart Of Love#
+1@htpd4f.rsw#Heart Of Love#
+1@htpd5f.rsw#Heart Of Love#
+//------------------------------------------------
+1vrgen.rsw#幻想叢書‐ジェネティック研究所#
+//------------------------------------------------
+ev_summer01.rsw#マッスルパンプ・ジム#
+ev_summer02.rsw#ウォームアップ・エリア#
+ev_summer03.rsw#マッスルロード01#
+ev_summer04.rsw#マッスルロード02#
+ev_summer05.rsw#マッスルロード03#
+ev_summer06.rsw#フィッシング・エリア(東島)#
+ev_summer07.rsw#フェルビナクA 駐屯地#
+ev_summer08.rsw#フェルビナクB 駐屯地#
+ev_summer09.rsw#フェルビナクC 駐屯地#
+ev_summer10.rsw#フェルビナクD 駐屯地#
+ev_summer11.rsw#フェルビナクE 駐屯地#
+ev_summer12.rsw#フェルビナクF 駐屯地#
+ev_summer13.rsw#フェルビナクG 駐屯地#
+ev_summer14.rsw#フェルビナクH 駐屯地#
+ev_summer15.rsw#フェルビナクI 駐屯地#
+ev_summer16.rsw#フェルビナクJ 駐屯地#
+ev_summer17.rsw#ソアマッスルA#
+ev_summer18.rsw#ソアマッスルB#
+ev_summer19.rsw#ソアマッスルC#
+ev_summer20.rsw#ソアマッスルD#
+ev_summer21.rsw#ソアマッスルE#
+ev_summer22.rsw#ソアマッスルF#
+ev_summer23.rsw#ソアマッスルG#
+ev_summer24.rsw#ソアマッスルH#
+ev_summer25.rsw#ソアマッスルI#
+ev_summer26.rsw#ソアマッスルJ#
+ev_summer27.rsw#マッスルオアダイA#
+ev_summer28.rsw#マッスルオアダイB#
+ev_summer29.rsw#マッスルオアダイC#
+ev_summer30.rsw#マッスルオアダイD#
+ev_summer31.rsw#マッスルオアダイE#
+ev_summer32.rsw#マッスルオアダイF#
+ev_summer33.rsw#マッスルオアダイG#
+ev_summer34.rsw#マッスルオアダイH#
+ev_summer35.rsw#マッスルオアダイI#
+ev_summer36.rsw#マッスルオアダイJ#
+ev_summer37.rsw#フィッシング・エリア(西島)#
+ev_summer38.rsw#フリールーム#
+ev_summer39.rsw#Hypoxic Chamber#
+ev_summer40.rsw#Hypoxic Chamber#
+ev_summer41.rsw#ベースキャンプコースA#
+ev_summer42.rsw#火山コースA#
+ev_summer43.rsw#洞窟コースA#
+ev_summer44.rsw#ウンバラコースA#
+ev_summer45.rsw#ベースキャンプコースB#
+ev_summer46.rsw#火山コースB#
+ev_summer47.rsw#洞窟コースB#
+ev_summer48.rsw#ウンバラコースB#
+ev_summer49.rsw#ハードマッスルロード01#
+ev_summer50.rsw#ハードマッスルロード02#
+ev_summer51.rsw#ハードマッスルロード03#
+//------------------------------------------------
+ra_temple_.rsw#フレイヤ大神殿（撮影会場）#
+//------------------------------------------------
+mjo_wst01.rsw#ミョルニール地下洞窟#
+ra_pol01.rsw#魔力が歪んだ平原#
+//------------------------------------------------
+1@20cn1.rsw#峡谷探査 01#
+1@20cn2.rsw#峡谷探査 02#
+1@slug.rsw#べたつく海#
+1@twas.rsw#分離された聖域#
+1@twbs.rsw#分離された聖域#
+1@twig.rsw#小さな枝の在り処#
+1@twsd.rsw#流氷地帯#
+icas_in2.rsw#イスガルド 室内 02#
+jor_back4.rsw#凍て付いた鱗の海辺(クエスト)#
+jor_back5.rsw#古代の氷の峡谷 東部(クエスト)#
+jor_back6.rsw#古代の氷の峡谷 西部(クエスト)#
+jor_maze.rsw#蛇の迷路#
+jor_root1.rsw#蛇神の根源 01(クエスト)#
+jor_root2.rsw#蛇神の根源 02(クエスト)#
+jor_root3.rsw#蛇神の根源 深い洞窟#
+jor_safty1.rsw#安全な場所 01#
+jor_safty2.rsw#安全な場所 02#
+jor_sanct.rsw#蛇神の根源 聖域#
+jor_twice.rsw#流氷地帯#
+jor_twig.rsw#イスガルドの聖域 小さな枝の在り処#
+jor_slug_j.rsw#べたつく海(クエスト)#
+1@twbs1.rsw#封じられた不死者 入場エリア#
+1@twbs2.rsw#封じられた不死者 戦闘エリア#
+1@twbs3.rsw#封じられた不死者 報酬エリア#
+jor_back4j.rsw#凍て付いた鱗の海辺#
+jor_back5j.rsw#古代の氷の峡谷 東部#
+jor_back6j.rsw#古代の氷の峡谷 西部#
+jor_root1j.rsw#蛇神の根源 01#
+jor_root2j.rsw#蛇神の根源 02#
+//------------------------------------------------
+1@vrclo.rsw#幻想叢書‐鏡の修道院#
+2@vrclo.rsw#幻想叢書‐そのすべての瞬間#
+//------------------------------------------------
+prt_mk.rsw#プロンテラ市場#
+1@vrhha.rsw#幻想叢書‐ハートハンター養成所#
+//------------------------------------------------
+1vrac1.rsw#幻想叢書‐クリトゥラ学園 1階#
+1vrac2.rsw#幻想叢書‐クリトゥラ学園 2階#
+//------------------------------------------------
+1vrpo.rsw#幻想叢書‐ポリンテラ#
+//------------------------------------------------
+1@spa2.rsw#悔恨の墓(入口)#
+2@spa2.rsw#悔恨の墓(内部)#
+3@spa2.rsw#悔恨の墓(地下墓地)#
+//------------------------------------------------
+1vrcas.rsw#幻想叢書‐リリウム宮#
+//------------------------------------------------
+22nd_prt1.rsw#プロンテラ城内#
+22nd_shop1.rsw#グッズショップ#
+22nd_tower1.rsw#ネバーエンドタワー入場口#
+22nd_game1.rsw#ポリンルーレット#
+22nd_game2.rsw#ポリンナンバーズ#
+22nd_party1.rsw#ファンシーパーティ#
+22nd_house1.rsw#ホーンテッドハウス入場口#
+22nd_sky1.rsw#爆撃！スカイキャノン!!入場口#
+22nd_sky2.rsw#爆撃！スカイキャノン!!#
+22nd_march1.rsw#マッスルマーチ事前準備室#
+jro22ani1.rsw#ラグナロクワールドコース#
+jro22ani.rsw#ラグナロクワールド#
+jro22ani_.rsw#ラグナロクワールド(撮影用)#
+1@never.rsw#ネバーエンドタワー 1層（1～25F）#
+2@never.rsw#ネバーエンドタワー 2層（26～50F）#
+3@never.rsw#ネバーエンドタワー 3層（51～75F）#
+4@never.rsw#ネバーエンドタワー 4層（76～99F）#
+5@never.rsw#ネバーエンドタワー 5層（100F）#
+6@never.rsw#ネバーエンドタワー 覇王の間#
+7@never.rsw#ネバーエンドタワー 次元の間#
+8@never.rsw#ミスティーアイランド#
+//------------------------------------------------
+1@22bt1.rsw#洋館　離れ#
+22nd_htbt1.rsw#洋館　001号室#
+22nd_htbt2.rsw#洋館　002号室#
+22nd_htbt3.rsw#洋館　003号室#
+22nd_htbt4.rsw#洋館　004号室#
+22nd_htbt5.rsw#洋館　005号室#
+22nd_htbt6.rsw#洋館　006号室#
+22nd_htbt7.rsw#洋館　007号室#
+22nd_htbt8.rsw#洋館　008号室#
+22nd_htbt9.rsw#洋館　009号室#
+//------------------------------------------------
+t_garden.rsw#時空の庭園#
+for_dun01.rsw#忘れられた時空 01#
+for_dun02.rsw#忘れられた時空 02#
+1@f_lake.rsw#火の湖#
+1@ba_go.rsw#生命の殿堂#
+1@hol0.rsw#生命の殿堂 入場エリア#
+1@hol1.rsw#生命の殿堂 選択エリア#
+1@hol2.rsw#生命の殿堂 攻略エリア1#
+1@hol3.rsw#生命の殿堂 攻略エリア2#
+1@hol4.rsw#生命の殿堂 攻略エリア3#
+//------------------------------------------------
+1vrpop.rsw#幻想叢書-虹の道#
+2vrpop.rsw#幻想叢書-虹の道#
+3vrpop.rsw#幻想叢書-虹の終わりの湖#
+//------------------------------------------------
+vr_v_fild07.rsw#ベインスフィールド 07（特異点 名もなき島）#
+1@nls0.rsw#特異点 名もなき島 入場エリア（ノーマル）#
+1@nls1.rsw#特異点 名もなき島 地表（ノーマル）#
+1@nls2.rsw#特異点 名もなき島 修道院 01（ノーマル）#
+1@nls3.rsw#特異点 名もなき島 修道院 02（ノーマル）#
+1@nls4.rsw#特異点 名もなき島 修道院 03（ノーマル）#
+1@nls5.rsw#特異点 名もなき島 隠された礼拝堂（ノーマル）#
+1@nls6.rsw#特異点 名もなき島 報酬エリア（ノーマル）#
+1@nls7.rsw#特異点 名もなき島 待機エリア（ノーマル）#
+1@nls8.rsw#特異点 名もなき島 撮影エリア（ノーマル）#
+2@nls0.rsw#特異点 名もなき島 入場エリア（インフェルノ）#
+2@nls1.rsw#特異点 名もなき島 地表（インフェルノ）#
+2@nls2.rsw#特異点 名もなき島 修道院 01（インフェルノ）#
+2@nls3.rsw#特異点 名もなき島 修道院 02（インフェルノ）#
+2@nls4.rsw#特異点 名もなき島 修道院 03（インフェルノ）#
+2@nls5.rsw#特異点 名もなき島 隠された礼拝堂（インフェルノ）#
+2@nls6.rsw#特異点 名もなき島 報酬エリア（インフェルノ）#
+2@nls7.rsw#特異点 名もなき島 待機エリア（インフェルノ）#
+2@nls8.rsw#特異点 名もなき島 撮影エリア（インフェルノ）#
+//------------------------------------------------
+apr_rui5_s.rsw#廃亡遺跡群Lv.5【王の驚異の部屋】#
+apr_rui5_g.rsw#廃亡遺跡群Lv.5【宝匣レーギャルン】#
+apr_sanc_5.rsw#廃亡遺跡群Lv.5【転職寺院ダンマ】#
+apr_vault_5.rsw#廃亡遺跡群Lv.5【宝物庫】#
+apr_jail_5.rsw#廃亡遺跡群Lv.5【監獄】#
+apr_rui5_1.rsw#廃亡遺跡群Lv.5【第一鎖 マッグウィルト】#
+apr_rui5_1c.rsw#廃亡遺跡群Lv.5【キャンプ地】#
+apr_rui5_2.rsw#廃亡遺跡群Lv.5【第二鎖 アトルラーゼ】#
+apr_rui5_2c.rsw#廃亡遺跡群Lv.5【キャンプ地】#
+apr_rui5_3.rsw#廃亡遺跡群Lv.5【第三鎖 スチューン】#
+apr_rui5_3c.rsw#廃亡遺跡群Lv.5【キャンプ地】#
+apr_rui5_4.rsw#廃亡遺跡群Lv.5【第四鎖 ウァイブラード】#
+apr_rui5_4c.rsw#廃亡遺跡群Lv.5【キャンプ地】#
+apr_rui5_5.rsw#廃亡遺跡群Lv.5【第五鎖 マイズ】#
+apr_rui5_5c.rsw#廃亡遺跡群Lv.5【キャンプ地】#
+apr_rui5_6.rsw#廃亡遺跡群Lv.5【第六鎖 スティゼ】#
+apr_rui5_6c.rsw#廃亡遺跡群Lv.5【キャンプ地】#
+apr_rui5_7.rsw#廃亡遺跡群Lv.5【第七鎖 ウェルグル】#
+apr_rui5_7c.rsw#廃亡遺跡群Lv.5【キャンプ地】#
+apr_rui5_8.rsw#廃亡遺跡群Lv.5【第八鎖 フィレ】#
+apr_rui5_8c.rsw#廃亡遺跡群Lv.5【キャンプ地】#
+apr_rui5_9.rsw#廃亡遺跡群Lv.5【第九鎖 フイヌル】#
+apr_rui5_9c.rsw#廃亡遺跡群Lv.5【キャンプ地】#
+jro_kuma.rsw#くまもと体験農場#
+//------------------------------------------------
+4th_lib.rsw#天体図書館#
+//------------------------------------------------
+bl_grass.rsw#標本環境(草原)#
+bl_lava.rsw#標本環境(火炎)#
+bl_ice.rsw#標本環境(氷河)#
+bl_death.rsw#標本環境(死屍)#
+bl_temple.rsw#標本環境(聖殿)#
+bl_venom.rsw#標本環境(猛毒)#
+bl_soul.rsw#標本環境(霊魂)#
+//------------------------------------------------
+vacation1.rsw#教皇と夏休み#
+vacation2_1.rsw#教皇とサマーリーフレット 01#
+vacation2_2.rsw#教皇とサマーリーフレット 02#
+//------------------------------------------------
+moc_akhet.rsw#古代神殿アケト#
+nif_fild03.rsw#ニブルヘイムカボチャ農場#
+//------------------------------------------------
+jor_crk.rsw#鱗島#
+jor_crk_p.rsw#過去の鱗島#
+jor_mbase.rsw#ルナフォーマ#
+mbase_in.rsw#ルナフォーマ 室内#
+jor_albe.rsw#漁村 アルベルタ#
+jalbe_in.rsw#漁村 アルベルタ 室内#
+jor_base.rsw#ヨルンビル#
+jor_raise2.rsw#隆起した大地 南部(クエスト)#
+jor_raise1.rsw#隆起した大地 北部(クエスト)#
+jor_tmple1.rsw#ギムレー 1階(クエスト)#
+jor_tmple2.rsw#ギムレー 2階#
+1@wtgs.rsw#正体不明の幽霊船#
+2@wtgs.rsw#正体不明の幽霊船#
+1@wtgsb.rsw#旧バルター号捜索#
+2@wtgsb.rsw#旧バルター号捜索#
+1@mdtem.rsw#静かな教団の神殿#
+2@mdtem.rsw#静かな礼拝堂#
+1@sesa.rsw#分離された聖域#
+2@sesa.rsw#分離された聖域#
+1@ep21a.rsw#秘密の祭壇#
+2@ep21a.rsw#秘密の祭壇#
+1@ep21b.rsw#蛇のねぐら#
+2@ep21b.rsw#蛇のねぐら#
+1@sptnt.rsw#変えられない最後 入場エリア#
+2@sptnt.rsw#変えられない最後 戦闘エリア#
+3@sptnt.rsw#変えられない最後 報酬エリア#
+luna_sf1.rsw#安全な場所#
+luna_sf2.rsw#安全な場所#
+jor_raise2j.rsw#隆起した大地 南部#
+jor_raise1j.rsw#隆起した大地 北部#
+jor_tmple1j.rsw#ギムレー 1階#
+jor_sklf1.rsw#ヨルスキャールヴ 1階#
+jor_sklf2.rsw#ヨルスキャールヴ 2階#
+3@mdtem.rsw#静かな教団の神殿#
+//------------------------------------------------
+1@23inf.rsw#ファロス・ライトハウス・アドベンチャー(入口)#
+2@23inf.rsw#ファロス・ライトハウス・アドベンチャー#
+3@23inf.rsw#ファロス・ライトハウス・アドベンチャー#
+4@23inf.rsw#ファロス・ライトハウス・アドベンチャー#
+5@23inf.rsw#ファロス・ライトハウス・アドベンチャー#
+6@23inf.rsw#ファロス・ライトハウス・アドベンチャー#
+7@23inf.rsw#ファロス・ライトハウス・アドベンチャー(深部)#
+8@23inf.rsw#ファロス・ライトハウス・アドベンチャー(深部)#
+9@23inf.rsw#ファロス・ライトハウス・アドベンチャー(ファロス燈台島)#
+23rd_pharo1.rsw#ファロス・ライトハウス・アドベンチャー入場口#
+//------------------------------------------------
+1@infi.rsw#無限の空間(入口)(ノーマル)#
+2@infi.rsw#無限の空間(ノーマル)#
+3@infi.rsw#無限の空間(ノーマル)#
+4@infi.rsw#無限の空間(ノーマル)#
+5@infi.rsw#無限の空間(ノーマル)#
+6@infi.rsw#無限の空間(ノーマル)#
+7@infi.rsw#無限の空間(深部)(ノーマル)#
+8@infi.rsw#無限の空間(深部)(ノーマル)#
+9@infi.rsw#ファロス燈台島(ノーマル)#
+1@a_inf.rsw#無限の空間(入口)(ハード)#
+2@a_inf.rsw#無限の空間(ハード)#
+3@a_inf.rsw#無限の空間(ハード)#
+4@a_inf.rsw#無限の空間(ハード)#
+5@a_inf.rsw#無限の空間(ハード)#
+6@a_inf.rsw#無限の空間(ハード)#
+7@a_inf.rsw#無限の空間(深部)(ハード)#
+8@a_inf.rsw#無限の空間(深部)(ハード)#
+9@a_inf.rsw#ファロス燈台島(ハード)#
+//------------------------------------------------
+1@lhd1.rsw#特異点 生体工学研究所 01#
+1@lhd2.rsw#特異点 生体工学研究所 02#
+vr_lhz.rsw#企業都市リヒタルゼン（特異点 生体工学研究所）#
+2@lhj0.rsw#特異点 生体工学研究所 入場エリア（インフェルノ）#
+2@lhj1.rsw#特異点 生体工学研究所 01 転送エリア（インフェルノ）#
+2@lhj2.rsw#特異点 生体工学研究所 01 生活エリア（インフェルノ）#
+2@lhj3.rsw#特異点 生体工学研究所 01 円環通路エリア（インフェルノ）#
+2@lhj4.rsw#特異点 生体工学研究所 01 観測エリア（インフェルノ）#
+2@lhj5.rsw#特異点 生体工学研究所 01 実験エリア（インフェルノ）#
+2@lhj7.rsw#特異点 生体工学研究所 01 待機エリア（インフェルノ）#
+2@lhj8.rsw#特異点 生体工学研究所 02 観測エリア（インフェルノ）#
+2@lhj9.rsw#特異点 生体工学研究所 02 実験エリア（インフェルノ）#
+2@lhj10.rsw#特異点 生体工学研究所 01 報酬エリア（インフェルノ）#
+2@lhj11.rsw#特異点 生体工学研究所 01 撮影エリア（インフェルノ）#
+2@lhj12.rsw#特異点 生体工学研究所 02 撮影エリア（インフェルノ）#
+//------------------------------------------------
+rag_fes1.rsw#ラグナロクフェスティバルコース#
+//------------------------------------------------
+1@gt_1.rsw#グローザ王墓(王墓入口)#
+2@gt_1.rsw#グローザ王墓#
+2@gt_2.rsw#グローザ王墓#
+2@gt_3.rsw#グローザ王墓#
+2@gt_4.rsw#グローザ王墓#
+2@gt_5.rsw#グローザ王墓#
+3@gt_1.rsw#グローザ王墓#
+3@gt_2.rsw#グローザ王墓(最深部)#
+//------------------------------------------------
+mt_sunrise.rsw#光来山#
+//------------------------------------------------
+1@lg100.rsw#亜空の迷宮 試練の門#
+2@lg100.rsw#亜空の迷宮 大樹の幹#
+2@lg101.rsw#亜空の迷宮 新緑の大樹#
+2@lg102.rsw#亜空の迷宮 赤の森#
+2@lg103.rsw#亜空の迷宮 灰の森#
+2@lg104.rsw#亜空の迷宮 溶岩の湖#
+2@lg105.rsw#亜空の迷宮 溶岩の湖#
+2@lg106.rsw#亜空の迷宮 地下洞窟#
+2@lg107.rsw#亜空の迷宮 隠匿された通路#
+2@lg108.rsw#亜空の迷宮 荒廃した実験場#
+2@lg109.rsw#亜空の迷宮 転移魔法陣#
+2@lg110.rsw#亜空の迷宮 太古の神殿#
+2@lg111.rsw#亜空の迷宮 鮮緑の神殿#
+2@lg112.rsw#亜空の迷宮 神殿の聖域#
+2@lg113.rsw#亜空の迷宮 淫靡な大聖堂#
+2@lg114.rsw#亜空の迷宮 魔女の菜園#
+2@lg115.rsw#亜空の迷宮 瘴気の谷底#
+2@lg116.rsw#亜空の迷宮 煌めきの氷河#
+2@lg117.rsw#亜空の迷宮 煌めきの氷河#
+2@lg118.rsw#亜空の迷宮 小さな聖域#
+2@lg119.rsw#亜空の迷宮 不吉な幽霊船#
+2@lg120.rsw#亜空の迷宮 不吉な幽霊船#
+2@lg121.rsw#亜空の迷宮 暗い干潟#
+2@lg122.rsw#亜空の迷宮 悲哀の王城#
+2@lg123.rsw#亜空の迷宮 悲哀の王城#
+2@lg124.rsw#亜空の迷宮 邪教徒の神殿#
+2@lg125.rsw#亜空の迷宮 邪教徒の神殿#
+2@lg126.rsw#亜空の迷宮 邪神の胎#
+2@lg127.rsw#亜空の迷宮 転移魔法陣#
+2@lg128.rsw#亜空の迷宮 悪魔の修道院#
+2@lg129.rsw#亜空の迷宮 生命の実験場#
+2@lg130.rsw#亜空の迷宮 生命の実験場#
+2@lg131.rsw#亜空の迷宮 重なりあう世界#
+2@lg199.rsw#亜空の迷宮 隠された聖域#
+3@lg100.rsw#亜空の迷宮 永遠の悪夢#
+4@lg100.rsw#亜空の迷宮 夢の終点#
+5@lg100.rsw#亜空の迷宮 夢の終わり#
+5@lg200.rsw#亜空の迷宮 夢の終わり#
+5@lg300.rsw#亜空の迷宮 夢の終わり#
+//------------------------------------------------
+costume_in.rsw#衣装用倉庫#
+//------------------------------------------------
+iz_gimlet.rsw#ギムレットの部屋#
+//------------------------------------------------
+ygg_roots.rsw#ねじれた暗黒の地(クエスト)#
+ygg_edge.rsw#トネリコ村#
+ygg_fruit.rsw#トネリコ村 室内#
+mu_fild01.rsw#ヴェルンド渓谷 外郭(クエスト)#
+ch1_sf01.rsw#安全な場所 01#
+ch1_sf02.rsw#安全な場所 02#
+ch1_sf03.rsw#安全な場所 03#
+uknw_ruin.rsw#歪んだブリミル 1階(クエスト)#
+uknw_ruin2.rsw#歪んだブリミル 2階#
+hem_fild.rsw#破壊されたゲフェンフィールド(クエスト)#
+hem_dun01.rsw#破壊されたウェルス(クエスト)#
+hem_dun02.rsw#破壊されたヴァルキリーレルム#
+1@ch1a.rsw#不吉なダークウィスパー#
+ch1_geffen.rsw#崩壊したゲフェン#
+ch1_gef_in.rsw#崩壊したゲフェン 室内#
+ch1_dw.rsw#ダークウィスパー#
+ch1_vrgef1.rsw#再現されたゲフェン 室内#
+ch1_vrgef2.rsw#再現されたゲフェン#
+ch1_que01.rsw#崩壊したゲフェン 地下#
+ch1_gfn01.rsw#浸食されたゲフェニア 東部#
+ch1_gfn03.rsw#浸食されたゲフェニア 西部#
+ygg_rootsj.rsw#ねじれた暗黒の地#
+mu_fild01j.rsw#ヴェルンド渓谷 外郭#
+uknw_ruinj.rsw#歪んだブリミル 1階#
+hem_fildj.rsw#破壊されたゲフェンフィールド#
+hem_dun01j.rsw#破壊されたウェルス#
+2@ch1a.rsw#不吉なダークウィスパー#
 //------------------------------------------------
 //[file end]

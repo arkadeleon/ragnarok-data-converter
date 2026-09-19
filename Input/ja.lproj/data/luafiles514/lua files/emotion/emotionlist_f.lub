@@ -1,0 +1,139 @@
+--==========================================
+-- filename : EmotionList_F.lub
+-- author : sadlyfox
+-- created : December 8, 2009
+-- descript : 이모션 관련 함수들 정의
+-- version : 2.0.0
+--==========================================
+
+--============================================================
+-- function : InsertEmotionListTable
+-- descript : EmotionList에 추가 (내부 함수)
+-- ex : InsertEmotionListTable(ET_SURPRISE, MSI_EMOTION_SURPRISE, 0)
+-- 		  EmotionList[ET_SURPRISE].actionNum = 0
+-- 		  EmotionList[ET_SURPRISE].msgStr = c_GetMsgString(MSI_EMOTION_SURPRISE)	
+--============================================================
+function	InsertEmotionListTable ( emotionType, MsgStrID, actionNum )
+	EmotionList[emotionType] = {}
+	EmotionList[emotionType].actionNum = actionNum
+	
+	if MsgStrID ~= -1 then 
+		msgStr =  c_GetMsgString(MsgStrID)	
+		
+		if msgStr ~= nil and msgStr ~= "" then
+			EmotionList[emotionType].msgStr = msgStr
+		end
+	end
+end
+
+--========================================
+-- function : InsertEmotionMsgListTable
+-- descript : EmotionMsgList에 추가 (내부 함수)
+-- ex : InsertEmotionMsgListTable ( ET_SURPRISE, "/!" )
+-- 		  EmotionList["/!"] = ET_SURPRISE
+--========================================
+function	InsertEmotionMsgListTable ( emotionType, MsgStr )	
+	if MsgStr ~= nil and MsgStr ~= "" then
+		EmotionMsgList[MsgStr] = {}
+		EmotionMsgList[MsgStr] = emotionType
+	end
+end
+
+--============================================
+-- function : GetEmotionMsg
+-- descript : UIEmotionListWnd 창에서 OnLBtnDown시 str 리턴
+-- returns : str
+--============================================
+function	GetEmotionMsg ( index )
+	local emotionType = EMOTION_ORDERLIST[index + 1]	
+	
+	if emotionType ~= nil then
+		local emotionMsg = EmotionList[emotionType].msgStr
+	
+		if emotionMsg ~= nil then
+			return emotionMsg
+		else
+			return ""
+		end
+	else
+		return ""
+	end
+end
+
+--===========================================
+-- function : GetEmotionActionByWndIdx
+-- descript : UIEmotionListWnd 창 생성시 이모션 각각의
+--                "이팩트\\emotion.act"에서의 actionNum를 리턴
+-- returns : int
+--===========================================
+function	GetEmotionActionByWndIdx ( index )
+	local emotionType = EMOTION_ORDERLIST[index + 1]	
+	
+	if emotionType ~= nil then
+		local emotionAction = EmotionList[emotionType].actionNum
+		
+		if emotionAction ~= nil then
+			return emotionAction
+		else
+			return -1
+		end
+	else
+		return -1
+	end
+end
+
+--===========================================
+-- function : GetEmotionAction
+-- descript : 이모션 생성시 이모션 타입에 해당하는
+--                "이팩트\\emotion.act"에서의 actionNum를 리턴
+-- returns : int
+--===========================================
+function	GetEmotionAction ( emotionType )
+	if emotionType == nil or EmotionList[emotionType] == nil then
+        	return -1
+	end
+
+	local emotionAction = EmotionList[emotionType].actionNum
+
+	if emotionAction ~= nil then
+		return emotionAction
+	else
+		return -1
+	end
+end
+
+--===============================================
+-- function : ReqEmotionByIndex
+-- descript : UIEmotionListWnd 창에서 OnLBtnDblClk 시 이모션 생성
+--===============================================
+function	ReqEmotionByIndex ( index )
+	local emotionType = EMOTION_ORDERLIST[index + 1]	
+
+	if emotionType ~= nil and emotionType >= 0 then
+		c_ReqEmotion ( emotionType )
+	end
+end
+
+--===========================================
+-- function : ReqEmotionByMsgStr
+-- descript : 채팅창에서 이모션 명령어 입력시 이모션 생성
+--===========================================
+function	ReqEmotionByMsgStr ( msgStr )
+	local	emotionType = EmotionMsgList[msgStr] ;
+
+	if emotionType ~= nil and emotionType >= 0 then
+		c_ReqEmotion ( emotionType )
+		return emotionType 
+	else
+		return -1
+	end
+end
+
+--===========================================
+-- function : GetEmotionOrderListSize()
+-- descript : UIEmotionListWnd 창 생성시 나타날 이모티콘 갯수 얻기
+-- returns : int
+--===========================================
+function	GetEmotionOrderListSize()
+	return getTableSize( EMOTION_ORDERLIST )
+end
