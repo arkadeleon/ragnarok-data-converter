@@ -1,0 +1,27 @@
+%faf0e6
+^000088Alquimia para fabricar botellas de mina^000000
+
+
+----------------Prólogo--------------------
+Durante una exploración por Izlude, encontramos un monstruo llamado Marine Sphere.
+Aunque no se movía, tenía la particularidad de explotar al tocarlo.
+Nos preguntamos si habría alguna forma de mantenerlo suspendido en el aire,
+en lugar de bajo el agua, ¡y finalmente logramos sintetizarlo!
+Creo que esta bomba, utilizada contra los enemigos, resultará eficaz para tender emboscadas.
+------------------------------------------
+
+¿Qué es una ^400080mina^000000?
+
+Es un tipo de bomba que flota en el aire o bajo el agua y lanza por los aires a todo aquel que entra en contacto con ella.
+Una botella de mina se obtiene procesándola de forma especial y envasándola en una botella.
+Debe manipularse con cuidado, tanto durante su fabricación como al utilizarla.
+Sin embargo, se dice que solo los alquimistas que han aprendido una técnica especial
+pueden utilizarla.
+
+
+Materiales: ^4B0082Detonador 1, Tendón 1, Botella vacía 1^000000
+Método de fabricación: prepara un mortero.
+Introduce el detonador y el tendón en el mortero y, mientras llevas este libro contigo,
+utiliza Farmacia para envasar la mezcla en una botella vacía.
+A diferencia de la síntesis necesaria para crear una mina, para utilizarla
+será necesario aprender una técnica distinta.

@@ -1,0 +1,56 @@
+%faf0e6
+^000088Méthode d'alchimie pour augmenter la résistance aux éléments^000000
+
+
+----------------Préface--------------------
+En étudiant les 4 éléments fondamentaux : feu, eau, vent et terre,
+un catalyseur a été découvert, capable d’augmenter temporairement la résistance à un élément donné.
+J’ai consigné dans ce livre la méthode d’alchimie pour créer des potions de résistance élémentaire en utilisant ce catalyseur.
+J’espère que cela vous sera utile pour mieux manipuler les 4 éléments.
+------------------------------------------
+
+
+^FF0000Qu’est-ce qu’une potion de résistance élémentaire ?^000000
+
+Une potion qui augmente la résistance à un élément, réduisant ainsi les dégâts reçus.
+Cependant, elle augmente également les dégâts subis par l’élément opposé,
+alors faites attention à son utilisation.
+
+
+
+
+^0000FFPotion anti-feu^000000 : Potion qui augmente la résistance à l’élément feu.
+Ingrédients : ^4B0082Peau du cou de lézard x2, Gemme rouge x1, Flacon vide x1^000000
+Méthode : Préparez un Mortier.
+Placez Peau du cou de lézard x2, catalyseur de l’élément feu, dans le Mortier.
+Provoquez une réaction chimique avec la Gemme rouge et utilisez la compétence Pharmacie
+pour fabriquer la potion.
+
+
+
+
+^800000Potion anti-froid^000000 : Potion qui augmente la résistance à l’élément eau.
+Ingrédients : ^4B0082Cœur de sirène x3, Gemme bleue x1, Flacon vide x1^000000
+Méthode : Préparez un Mortier.
+Placez Cœur de sirène x3, catalyseur de l’élément eau, dans le Mortier.
+Provoquez une réaction chimique avec la Gemme bleue et utilisez la compétence Pharmacie
+pour fabriquer la potion.
+
+
+
+^008040Potion anti-foudre^000000 : Potion qui augmente la résistance à l’élément vent.
+Ingrédients : ^4B0082Poussière d'ailes de mite x3, Gemme bleue x1, Flacon vide x1^000000
+Méthode : Préparez un Mortier.
+Placez Aile de mite x3, catalyseur de l’élément vent, dans le Mortier.
+Provoquez une réaction chimique avec la Gemme bleue et utilisez la compétence Pharmacie
+pour fabriquer la potion.
+
+
+
+
+^FF8040Potion anti-terre^000000 : Potion qui augmente la résistance à l’élément terre.
+Ingrédients : ^4B0082Jellopy géant x2, Gemme jaune x1, Flacon vide x1^000000
+Méthode : Préparez un Mortier.
+Placez Jellopy géant x2, catalyseur de l’élément terre, dans le Mortier.
+Provoquez une réaction chimique avec la Gemme jaune et utilisez la compétence Pharmacie
+pour fabriquer la potion.

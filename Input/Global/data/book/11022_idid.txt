@@ -1,0 +1,28 @@
+Mix Cooking Cookbook
+^000088Cukup masak dengan memasukkan bahan ke dalam Melange Pot! Versi terbaru Mix Cooking yang ditulis oleh koki misterius sekaligus ilmiah, Digurman.
+
+^0000FFMix Cooking Vol.1^000000
+
+^008040Bahan untuk membuat Savage BBQ: ^FF00001 Melange Pot, 1 Savage Meat, 1 Cooking Skewer, 1 Black Charcoal^000000
+
+~ Banyak yang bertanya bagaimana BBQ bisa keluar dari sebuah pot. Sebenarnya, aku memasukkan daging yang sudah ditusuk ke dalam pot yang telah berisi arang panas, lalu menguburnya di tanah selama sekitar 30 menit. Imajinasi, memasak dimulai dari imajinasi! (omitted)
+
+^008040Bahan untuk membuat Warg Blood Cocktail: ^FF00001 Melange Pot, 3 Bloods of Wolf, 2 Cold Ices^000000
+
+~ Ini adalah koktail yang terpikirkan saat aku berkeliling wilayah utara. Cuaca panas dan tidak ada air... Sejujurnya aku ingin meminum air seniku sendiri, tapi demi harga diri sebagai koki, aku tidak melakukannya. Aku mencoba mencari Mukas di sekitar sana, tapi tidak menemukan sekresinya. Dalam keputusasaan, aku pergi ke ice dungeon dan bertemu sekawanan serigala. Jumlah mereka sangat banyak sehingga aku tidak punya pilihan selain melarikan diri ke dalam ice dungeon... Beberapa dari mereka mengejarku. (omitted)... Tidak ada masalah sampai para penjaga menemukan aku yang berlumuran darah dan es (omitted)... Akhirnya aku terlihat seperti vampir! Bagaimana aku bisa terlihat seperti vampir?
+
+^008040Bahan untuk membuat Minorous Brisket: ^FF00001 Melange Pot, 2 Head Beef, 1 Large Cookpot^000000
+
+~ Aku sangat kelaparan selama 3 hari di dalam labirin Pyramid hingga hampir tidak bisa melihat apa pun. Aku memakan apa saja yang ada di tanah, bahkan jellopies. Lalu aroma yang sangat enak menuntunku ke suatu tempat, jadi aku mengikutinya dan menemukan sesuatu! Apa ini?? Seseorang sedang merebus sesuatu di dalam pot! Aku memakannya dengan rakus, lalu merasa ada seseorang di belakangku, tidak, seekor sapi? Mungkin saja aku yang akan direbus di dalam pot... Ah! Sekarang kita sedang membicarakan memasak... Aku sudah bilang kita harus melepas tanduknya terlebih dahulu...! (omitted)
+
+^008040Bahan untuk membuat Siroma Ice Tea: ^FF00001 Melange Pot, 3 Ice Pieces, 2 Ice Crystals, 1 Comodo Tropical Fruit^000000
+
+~ Bagaimana mungkin aku membayangkan memakan makhluk lucu itu. Aku hanya mengumpulkan potongan esnya saja. Namun, untuk menikmati rasa asli dari Comodo tropical fruit, kamu harus membekukannya terlebih dahulu. Sayangnya, secara teknis saat ini tidak memungkinkan untuk menyimpannya! Tapi Melange Pot ini! Melange Pot ini adalah keajaiban! Melange Pot, potongan es, dan buah tropis! Ketika kamu memasukkannya ke dalam pot, kamu bisa menyimpannya hingga 3 minggu. Dengan cara ini, kita bisa membuat teh beraroma yang sangat istimewa! Di sini, kamu bisa membuatnya sekarang juga! Untuk waktu terbatas, kamu bisa membeli 10 Comodo tropical fruits dan 10 Melange Pot sebagai satu paket seharga 39,900 zeny..... (omitted)
+
+^008040Bahan untuk membuat Drosera Herb Stew: ^FF00001 Melange Pot, 3 Drosera Tentacles, 3 Red Herbs, 3 Blue Herbs, 3 White Herbs, 1 Large Cookpot^000000
+
+~ Aku percaya ini adalah hidangan terbaik bagi mereka yang tidak suka sayuran hijau. Beberapa jenis herb dicampur untuk menampilkan berbagai warna alami! Saat dimakan, rasanya segar dan memberikan sensasi kenyal yang luar biasa. Mengunyah hanya sayuran membuat rahang cepat lelah sehingga tidak bisa makan banyak. Namun bersama tekstur lembut dari Drosera, kamu bisa merasakan sensasi kenyal yang fantastis. Sebenarnya aku ingin menambahkan lebih banyak bumbu, tapi untuk menjaga aroma herbalnya, aku berusaha tidak menggunakan bahan lain sebanyak mungkin. Kocok ke atas, atas, bawah, bawah, kiri, kanan, kiri, kanan, ABAB BABA....(omitted)
+
+^008040Bahan untuk membuat Petit Tail Noodles: ^FF00001 Melange Pot, 1 Cool Gravy, 1 Fine Noodle, 2 Petit's Tail^000000
+
+~ Benar-benar menakjubkan bahwa belum ada yang mencoba memakan ekor Petit. Ini adalah hidangan lezat, terutama di musim panas. Air dalam sup ini berasal dari kota (Beep—) yang sangat jernih... Ups, aku membocorkan rahasia perusahaan! Tolong jangan sebutkan nama kota yang tadi aku katakan. Bagaimanapun juga, mi ini dibuat dari tepung organik. Kamu bisa mendapatkan rasa alami yang luar biasa hanya dengan menggunakan bahan-bahan segar dan bersih ini tanpa menggunakan bumbu apa pun. Sup dari ekor Petit membuat rasanya jauh lebih dalam dan kaya. Jadi kamu perlu memasukkannya ke dalam melting pot dan mematangkannya setidaknya selama satu hari agar rasanya lebih enak... (omitted)

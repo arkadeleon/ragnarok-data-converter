@@ -1,0 +1,147 @@
+^FF0000---- Kapitel des Feuergeists Agni ----^000000
+
+Die beschworenen Feuergeister reagieren auf die Befehle des Beschwörers über den Befehl „Geistkontrolle“ je nach Größe des Geists mit jeweils unterschiedlichen Aktionen.
+
+
+
+^FA8072[Leih mir deine helfende Hand]^000000
+i - Pyrotechnik : Erhöht den Schaden von Fire Wall und Fire Bolt.
+
+ii - Heizer : Erhöht den Schaden von Feuerschritt.
+Erhöht leicht den Heileffekt beim Einsatz von Wärmer.
+Erhöht leicht den Schaden von Psychische Welle.
+Ändert das Schadenselement von Psychische Welle zu Feuereigenschaft.
+
+iii - Tropisch : Beim Angriff des Beschwörers wird Auto-Zauber Fire Bolt ausgelöst.
+Beim Einsatz von Frame Launcher oder Vulkan wird mit einer Wahrscheinlichkeit von 1/2 kein Rotes Blut oder
+Gelber Edelstein verbraucht.
+
+^0000FF[Beschütze mich]^000000
+i - Kreis des Feuers : Erzeugt eine Flammenbarriere um den Beschwörer. Greift ein Gegner den Beschwörer an,
+fügt sie mit einer gewissen Wahrscheinlichkeit Schaden zu und stößt den Gegner zurück.
+
+ii - Feuerumhang : Erhöht die Resistenz gegen Feuereigenschaft stark und senkt die Resistenz gegen Wassereigenschaft stark.
+
+iii - Feuermantel : Errichtet eine starke Fire Wall um den Beschwörer.
+
+
+
+^FF0000[Vernichte die Feinde, die sich mir widersetzen]^000000
+
+i - Feuerpfeil : Schießt 1 Pfeil auf 1 Gegner und fügt Feuereigenschaft-Schaden zu.
+
+ii - Feuerbombe : Greift 1 Ziel und Gegner in der Umgebung mit einer Feuerbombe an und fügt Feuereigenschaft-Schaden zu.
+Oder fügt 1 Ziel Magischer Feuerschaden zu.
+
+iii - Feuerwelle : Entfacht eine große Flamme und fügt 1 Ziel und Gegnern in der Umgebung physischen Feuereigenschaft-Schaden zu.
+Oder fügt 1 Ziel hohen Magischen Feuerschaden zu.
+^0000FF---- Kapitel des Wassergeists Aqua ----^000000
+
+
+Die beschworenen Wassergeister reagieren auf die Befehle des Beschwörers über den Befehl „Geistkontrolle“ je nach Größe des Geists mit jeweils unterschiedlichen Aktionen.
+
+
+^FA8072[Leih mir deine helfende Hand]^000000
+i - Aqua Play : Erhöht den Schaden von Kältebolt und Frosttaucher.
+
+ii - Kühler : Erhöht leicht die Erfolgschance auf Einfrieren von Diamantenstaub.
+Erhöht leicht den Schaden von Diamantenstaub.
+Erhöht leicht den Schaden von Psychische Welle.
+Ändert das Schadenselement von Psychische Welle zu Wassereigenschaft.
+
+iii - Kühle Luft : Beim Angriff des Beschwörers wird Auto-Zauber Kältebolt ausgelöst.
+Beim Einsatz von Frostwaffe oder Sintflut wird mit einer Wahrscheinlichkeit von 1/2 kein Kristallblau oder
+Gelber Edelstein verbraucht.
+
+^0000FF[Beschütze mich]^000000
+i - Wasserschirm : Stellt die HP des Beschwörers fortlaufend um einen bestimmten Wert wieder her.
+Während der Dauer erleidet Aqua den Schaden anstelle des Anwenders.
+
+ii - Wassertropfen : Erhöht die Resistenz gegen Wassereigenschaft stark und senkt die Resistenz gegen Feuereigenschaft stark.
+
+iii - Wasserbarriere : Erzeugt eine Wasserbarriere um den Anwender.
+Diese Wasserbarriere verringert physischen und magischen Schaden um einen bestimmten Wert.
+Innerhalb der Barriere sinken jedoch FLEE-Rate und Angriffskraft.
+
+^FF0000[Vernichte die Feinde, die sich mir widersetzen]^000000
+i - Eisnadel : Erzeugt eine Scharf Eisnadel und fügt 1 Gegner Magischer Wasserschaden zu.
+
+ii - Wasserschraube : Schießt eine Wasserwelle ab und fügt 1 Ziel Magischer Wasserschaden zu.
+Oder fügt 1 Ziel und Gegnern in der Umgebung Magischer Wasserschaden zu.
+
+iii - Gezeitenwaffe : Ändert für kurze Zeit die Waffen des Beschwörers und des Geists zu Wassereigenschaft
+und erhöht die Angriffskraft des Geists.
+Oder fügt 1 Ziel hohen Wassereigenschaft-Schaden zu.
+^000088---- Kapitel des Windgeists Ventus ----^000000
+
+
+Die beschworenen Windgeister reagieren auf die Befehle des Beschwörers über den Befehl „Geistkontrolle“ je nach Größe des Geists mit jeweils unterschiedlichen Aktionen.
+
+
+^FA8072[Leih mir deine helfende Hand]^000000
+i - Böe : Erhöht den Schaden von Blitzsbolt und Donnersturm.
+
+ii - Sprengmine : Erhöht den Schaden von Elektrischer Schritt.
+Erhöht den Schaden von Varetyr-Speer.
+Erhöht den Schaden von Psychische Welle.
+Ändert das Schadenselement von Psychische Welle zu Windeigenschaft.
+
+iii - Wilder Sturm : Beim Angriff des Beschwörers wird Auto-Zauber Blitzsbolt ausgelöst.
+Beim Einsatz von Blitzlader oder Wirbelwind wird mit einer Wahrscheinlichkeit von 1/2 kein Grüner Wind oder
+Gelber Edelstein verbraucht.
+
+^0000FF[Beschütze mich]^000000
+i - Windschritt : Teleportiert den Beschwörer im Moment der Auslösung sofort.
+Erhöht außerdem für eine bestimmte Zeit die Bewegungsgeschwindigkeit und FLEE-Rate des Anwenders.
+
+ii - Windvorhang : Erhöht die Resistenz gegen Windeigenschaft stark und senkt die Resistenz gegen Erdeigenschaft stark.
+
+iii - Zephyr : Erzeugt eine Windbarriere um den Beschwörer. Innerhalb dieser Barriere steigt die FLEE-Rate,
+und es wird kein Schaden durch Fernangriffe erlitten. Zudem werden physischer und magischer Schaden
+mit geringer Wahrscheinlichkeit annulliert.
+
+^FF0000[Vernichte die Feinde, die sich mir widersetzen]^000000
+i - Windschnitt : Schießt eine Windklinge auf 1 entferntes Ziel und fügt Windeigenschaft-Schaden zu
+sowie den Status Blutung.
+
+ii - Hurrikan-Rage : Fügt 1 entferntem Ziel Magischer Windschaden zu.
+Oder fügt 1 Ziel und Gegnern in der Umgebung physischen Windeigenschaft-Schaden zu.
+
+iii - Taifun-Rakete : Fügt 1 entferntem Ziel Windeigenschaft-Schaden zu.
+Oder belegt das Ziel zusätzlich zu Magischer Windschaden mit dem Status Stille.
+^008040---- Kapitel des Erdgeists Terra ----^000000
+
+
+Die beschworenen Erdgeister reagieren auf die Befehle des Beschwörers über den Befehl „Geistkontrolle“ je nach Größe des Geists mit jeweils unterschiedlichen Aktionen.
+
+
+^FA8072[Leih mir deine helfende Hand]^000000
+i - Geologie : Erhöht leicht die Erfolgswahrscheinlichkeit von Stone Curse.
+Erhöht den Schaden von Erddorn und Himmelsstoß.
+
+ii - Verfluchte Erde : Erhöht den Endschaden von Tötungswolke.
+Erhöht den Schaden von Gift-Buster.
+Erhöht den Schaden von Erdgrab.
+Erhöht den Schaden von Psychische Welle.
+Ändert das Schadenselement von Psychische Welle zu Erdeigenschaft.
+
+iii - Aufruhr : Beim Angriff des Beschwörers wird Auto-Zauber Erddorn ausgelöst.
+Beim Einsatz von Seismische Waffe wird mit einer Wahrscheinlichkeit von 1/2 kein Green Live verbraucht.
+^0000FF[Beschütze mich]^000000
+i - Feste Haut : Erhöht die Verteidigung und die maximalen HP des Beschwörers stark.
+
+ii - Steinschild : Erhöht die Resistenz gegen Erdeigenschaft stark und senkt die Resistenz gegen Feuereigenschaft stark.
+
+iii - Kraft der Gaia : Erzeugt eine Erdbarriere um den Beschwörer.
+Innerhalb dieses Bereichs treten weder Blutung noch Versteinerung auf.
+Erhöht für eine bestimmte Zeit die maximalen HP und die Verteidigung.
+Senkt jedoch die Bewegungsgeschwindigkeit stark.
+
+^FF0000[Vernichte die Feinde, die sich mir widersetzen]^000000
+i - Steinhammer : Fügt 1 Ziel Erdeigenschaft-Schaden zu und versetzt es in den Status Betäubung.
+
+ii - Felsbrecher: Fügt 1 Ziel Erdeigenschaft-Schaden zu und senkt die Verteidigung um einen bestimmten Wert.
+Oder fügt 1 Ziel Magischer Erdschaden zu und senkt die Bewegungsgeschwindigkeit um einen bestimmten Wert.
+
+iii - Steinregen : Lässt unzählige Steine auf 1 Ziel und Gegner in der Umgebung herabfallen und fügt Erdeigenschaft-Schaden zu.
+Oder fügt 1 Ziel Erdeigenschaft-Schaden zu und versetzt es in den Status Betäubung.

@@ -1,0 +1,92 @@
+%faf0e6
+^000088Auch allein gelingt es. Von den Grundlagen der Trankherstellung an...^000000
+
+
+----------------Vorwort--------------------
+
+Die Grundlage des Alchemisten sind Tränke! HP, SP, sogar Statusveränderung!
+Auch du kannst sie herstellen.
+Das ultimative Handbuch der Trankherstellung, das dich Schritt für Schritt von den Grundlagen an lehrt!
+
+------------------------------------------
+
+^FF0000Was ist ein Trank^000000?
+
+Eine Einzeldosis eines Heiltranks oder Gifttranks.
+Ein Trank bezeichnet eine Einzeldosis eines Heiltranks oder Gifttranks, meint im Allgemeinen jedoch einen Heiltrank.
+In diesem Buch werden die Herstellungsmethoden für Roten Trank, Gelben Trank, Weißen Trank, Blauen Trank sowie Schmerzmittel und Aloe Vera erläutert.
+Die im Anhang enthaltene Herstellungsmethode für Embryo ist für Alchemisten mit Kenntnissen in Bioethik unverzichtbar.
+
+
+^0000FFRoter Trank^000000 : Stellt ca. 45 HP wieder her.
+Zutaten : ^4B0082Rotes Kraut 1 Stück, Leere Trankflasche 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Geben Sie das Kraut in die Schale und zerstoßen Sie es.
+Geben Sie nach und nach etwas sauberes Wasser hinzu und zerstoßen Sie das Kraut weiter.
+Füllen Sie es in eine Leere Trankflasche.
+Für eine einfache Herstellung
+bereiten Sie dieses Buch und die Zutaten vor und verwenden Sie die Fertigkeit Trankzubereitung.
+
+
+^800000Gelber Trank^000000 : Stellt ca. 175 HP wieder her.
+Zutaten : ^4B0082Gelbes Kraut 1 Stück, Leere Trankflasche 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Geben Sie das Kraut in die Schale und zerstoßen Sie es.
+Geben Sie nach und nach etwas sauberes Wasser hinzu und zerstoßen Sie das Kraut weiter.
+Füllen Sie es in eine Leere Trankflasche.
+Für eine einfache Herstellung
+bereiten Sie dieses Buch und die Zutaten vor und verwenden Sie die Fertigkeit Trankzubereitung.
+
+^008040Weißer Trank^000000 : Stellt ca. 325 HP wieder her.
+Zutaten : ^4B0082Weißes Kraut 1 Stück, Leere Trankflasche 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Geben Sie das Kraut in die Schale und zerstoßen Sie es.
+Geben Sie nach und nach etwas sauberes Wasser hinzu und zerstoßen Sie das Kraut weiter.
+Füllen Sie es in eine Leere Trankflasche.
+Für eine einfache Herstellung
+bereiten Sie dieses Buch und die Zutaten vor und verwenden Sie die Fertigkeit Trankzubereitung.
+
+^FF8040Blauer Trank^000000 : Stellt ca. 60 SP wieder her.
+Zutaten : ^4B0082Blaues Kraut 1 Stück, Leere Trankflasche 1 Stück, Cell 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Geben Sie das Kraut in die Schale und zerstoßen Sie es.
+Geben Sie nach und nach sauberes Wasser und fein gemahlenes Cell hinzu
+und zerstoßen Sie das Kraut weiter.
+Füllen Sie es in eine Leere Trankflasche.
+Für eine einfache Herstellung
+bereiten Sie dieses Buch und die Zutaten vor und verwenden Sie die Fertigkeit Trankzubereitung.
+
+^400080Schmerzmittel^000000 : Ein Schmerzmittel, das für eine gewisse Zeit den Schmerz vergessen lässt.
+Zutaten : ^4B0082Alkohol 1 Stück, Leere Flasche 1 Stück, Ment 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Geben Sie Ment in die Schale und zerstoßen Sie es.
+Geben Sie nach und nach eine kleine Menge sauberen Wassers und Alkohol hinzu
+und zerstoßen Sie Ment weiter.
+Füllen Sie es in eine Leere Flasche.
+Für eine einfache Herstellung
+bereiten Sie dieses Buch und die Zutaten vor und verwenden Sie die Fertigkeit Trankzubereitung.
+
+
+^008040Aloe Vera^000000 : Senkt für eine gewisse Zeit die eigene Verteidigung und erhöht die Angriffskraft.
+Zutaten : ^4B0082Aloe 1 Stück, Leere Flasche 1 Stück, Honig 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Geben Sie Honig und Aloe in die Schale und zerstoßen Sie beides.
+Geben Sie nach und nach eine kleine Menge sauberen Wassers hinzu, rühren Sie weiter und füllen Sie alles in eine Leere Flasche.
+Für eine einfache Herstellung bereiten Sie dieses Buch und die Zutaten vor und verwenden Sie die Fertigkeit Trankzubereitung.
+
+^FF0000Embryo^000000 : Erschafft ein Leben in embryonaler Form.
+Zutaten : ^4B0082Yggdrasil-Tau 1 Stück, Samen des Lebens 1 Stück, Glasröhre 1 Stück^000000
+Herstellung : Die Grundlage der Alchemie ist die Mörserschale.
+Bereiten Sie eine Mörserschale vor.
+Geben Sie Yggdrasil-Tau und Samen des Lebens in die Schale,
+verwenden Sie die Fertigkeit Trankzubereitung und füllen Sie alles in eine Glasröhre.
+Erst nach dem Studium der Bioethik wird eine spätere Verwendung möglich sein.
+Dies ist äußerst gefährlich und erfordert gründliche Forschung.
+
+^0000FFHomunkulus-Nährmittel^000000 : Ein Nährmittel zur Steigerung der Vertrautheit mit einem Homunkulus.
+Zutaten : ^4B0082Samen des Lebens 1 Stück, Gelbes Kraut 1 Stück, Leere Flasche 1 Stück^000000
+Herstellung : Die Grundlage der Alchemie ist die Mörserschale.
+Bereiten Sie eine Mörserschale vor.
+Geben Sie Samen des Lebens und Gelbes Kraut in die Schale und zerstoßen Sie beides.
+Verwenden Sie die Fertigkeit Trankzubereitung, füllen Sie alles in eine Leere Flasche und schütteln Sie sie zum Vermischen.
+Erst nach dem Studium der Bioethik wird eine spätere Verwendung möglich sein.

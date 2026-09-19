@@ -1,0 +1,75 @@
+%faf0e6
+^000088Attempting the forbidden legendary cuisine—
+the desperate journey of a chef who lost his sense of taste, along with his younger sibling.^000000
+If you pursue legendary cooking, you must be careful as well.
+What remains at the end of flavor is...
+-Ultimate Level 9 Cooking Recipe-
+
+
+^FF0000Tendon Sauté:^000000 Remember—there is tender tendon too!
+Materials: ^4B00821 Tendon, 1 Pot, 1 Cheese, 1 Spicy Sauce, 1 Coal, 1 Green Herb, 1 Ink^000000 
+Cooking Method: Cut the tendon into 3 cm pieces and season lightly with salt and pepper.
+          Blanch part of the green herb briefly in boiling water, cool it in cold water, and chop the rest.
+          Put ink and water into a pot and cook, then add spicy sauce to make a thick sauce.
+          Add the cooled herbs and cheese and sauté the tendon until nicely browned.
+          At this time, turn the coal into charcoal fire and cook it gently over the ember heat.
+          Place the cooked tendon in a bowl, spoon the prepared sauce on top, then sprinkle chopped green herb.
+          
+^0000FFTristan 12-Year Vintage:^000000 A fruit wine with a whisky-like feel!
+Materials: ^4B00821 Yggdrasil Leaf, 1 Orange, 1 Alcohol, 1 Royal Jelly, 1 Blue Potion,
+         1 Yellow Spice, 1 Aloe Leaf^000000
+Cooking Method: Juice the orange using a squeezer,
+          then mix well-dried Ygg leaves, aloe leaves, and royal jelly together with the blue potion,
+          add alcohol and let it ferment. If you age it for 12 years, it becomes a 12-year vintage.
+          Lightly coat the rim of the glass with yellow spice,
+          and serve with royal jelly as a snack.
+
+^800000Heavenly Fruit Juice:^000000 It may feel like you’ll take flight, but you still can’t fly—be careful!
+Materials: ^4B00821 Unripe Apple, 1 Orange, 1 Strawberry, 1 Red Spice,
+         1 Tropical Banana, 1 Grape Juice, 1 Alcohol^000000
+Cooking Method: Peel the apple and orange, then cut them into thirds and quarters respectively.
+          Remove the stems from the strawberries, peel the banana, and cut into appropriate sizes.
+          Put the cut fruit into a blender, add about half the grape juice, and blend finely.
+          When smoothly blended, add the remaining grape juice and alcohol and mix for 30 seconds.
+          Pour into a glass and lightly sprinkle red spice.
+          If you blend with ice when making the juice, the cold ice helps reduce nutrient loss
+          and also improves the taste.
+
+^008040Special Buddha Jumps Over the Wall:^000000 It is absolutely not a stamp made of metal heated in fire and pressed!
+Materials: ^4B00821 Meat, 1 Royal Jelly, 1 Sprout, 1 Light Sauce, 1 Yellow Herb,
+         1 White Herb, 1 Red Herb^000000
+Cooking Method: Soak the meat in refined rice wine for about a day, then steam it for about 2 hours and slice thinly.
+          Cut the royal jelly and herbs into easy-to-eat pieces, and blanch the sprouts to prepare.
+          Add scallion oil to a pot; when hot, add refined rice wine, broth, seasoning, salt, pepper, and Shaoxing wine,
+          then add all prepared ingredients, seal, and steam for about 3 hours to serve.
+          
+
+^FF8040Rising Dragon Soup:^000000 With the spicy kick, you feel like a dragon breathing fire from your mouth!
+Materials: ^4B00821 Dragon Skin, 1 Dragon Tail, 1 Yggdrasil Leaf, 1 Royal Jelly, 1 Spicy Sauce
+          1 Red Spice, 1 Plump Earthworm^000000
+Cooking Method: Dragon skin is tough, so score it thoroughly.
+          Cut the tail into bite-sized pieces.
+          Slice the royal jelly thickly into half-moon shapes, and slice the Yggdrasil leaf diagonally.
+          Put the cleanly washed plump earthworm into a pot, add water, and boil vigorously for about 10 minutes.
+          When the broth is extracted, remove the earthworm.
+          Add spicy sauce and red spice evenly and dissolve into the broth,
+          then add the skin, tail, and royal jelly and boil.
+          When the broth boils vigorously and the skin and tail are almost cooked,
+          add the prepared Ygg leaves, bring to a brief boil once more, and serve.
+
+^400080Blood-Tasting Sparkling Soda:^000000 Said to taste like licking a steel desk.
+Materials: ^4B00821 Livestock Blood, 1 Anti Painment, 1 Aloe Vera, 1 Alcohol, 1 Royal Jelly,
+        1 Red Spice, 1 Apple Juice^000000
+Cooking Method: Finely chop one aloe vera, add warm water at about 20°C, and let it sit for about 5 minutes.
+          After 5 minutes, add sugar and the remaining finely chopped aloe vera and water,
+          then fill a bottle to about 3.7 liters and shake well for 2 minutes.
+          (Shake until all the sugar dissolves.)
+          Once dissolved, tighten the lid and let it ferment for about 4–6 days.
+          Cut royal jelly into appropriate sizes and blend with apple juice,
+          then add the fermented soda water from above along with alcohol and anti painment,
+          blend for 30 seconds,
+          pour into a glass, and lightly sprinkle red spice.
+
+^FF3366Level 9 Assorted Cuisine:^000000 The essence of Level 9 cooking
+Materials: ^4B00821 Tendon Sauté, 1 Tristan 12-Year Vintage, 1 Heavenly Fruit Juice, 1 Special Buddha Jumps Over the Wall, 1 Rising Dragon Soup, 1 Blood-Tasting Sparkling Soda^000000 
+Cooking Method: Gather all Level 9 dishes and serve them neatly as one large full-course spread.

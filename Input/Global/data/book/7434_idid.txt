@@ -1,0 +1,41 @@
+%faf0e6
+^000088Membuat potion khusus untuk meningkatkan ketahanan terhadap elemen.^000000
+
+
+----------------Pendahuluan--------------------
+
+Kamu dapat meningkatkan ketahanan terhadap empat elemen dasar "Fire, Water, Wind, dan Earth" untuk sementara waktu dengan menggunakan katalis untuk membuat potion yang memberikan perlindungan terhadap masing-masing elemen tersebut. Aku menulis buku tentang ketahanan elemen ini dengan harapan bahwa prinsip dan pengetahuanku mengenai empat elemen dasar dapat membantu para Alchemist di masa depan.
+
+------------------------------------------
+
+Apa itu ^FF0000potion ketahanan elemen^000000?
+
+Potion ketahanan elemen dapat meningkatkan ketahanan terhadap satu elemen untuk sementara waktu, namun juga mengurangi ketahanan terhadap elemen yang berlawanan. Sebagai contoh, Fireproof Potion dapat mengurangi kerusakan dari elemen Fire, tetapi juga meningkatkan kerusakan dari elemen Water.
+
+
+^0000FFFireproof Potion^000000: Meningkatkan ketahanan terhadap elemen Fire.
+
+Bahan yang Dibutuhkan: ^4B00822 Frills, 1 Red Gemstone, 1 Empty Potion Bottle^000000
+
+Proses: Masukkan Frills dan Red Gemstone ke dalam mangkuk obat. Gunakan skill Pharmacy agar gemstone mulai bertindak sebagai katalis bagi bahan-bahan lainnya, lalu tuangkan larutan tersebut ke dalam Empty Potion Bottle.
+
+
+^800000Coldproof Potion^000000: Meningkatkan ketahanan terhadap elemen Water.
+
+Bahan yang Dibutuhkan: ^4B00823 Heart of Mermaids, 1 Blue Gemstone, 1 Empty Potion Bottle^000000
+
+Proses: Masukkan Heart of Mermaids dan Blue Gemstone ke dalam mangkuk obat. Gunakan skill Pharmacy agar gemstone mulai bertindak sebagai katalis bagi bahan-bahan lainnya, lalu tuangkan larutan tersebut ke dalam Empty Potion Bottle.
+
+
+^008040Thunderproof Potion^000000: Meningkatkan ketahanan terhadap elemen Wind.
+
+Bahan yang Dibutuhkan: ^4B00823 Moth Dust, 1 Blue Gemstone, 1 Empty Potion Bottle^000000
+
+Proses: Masukkan Moth Dust dan Blue Gemstone ke dalam mangkuk obat. Gunakan skill Pharmacy agar gemstone mulai bertindak sebagai katalis bagi bahan-bahan lainnya, lalu tuangkan larutan tersebut ke dalam Empty Potion Bottle.
+
+
+^FF8040Earthproof Potion^000000: Meningkatkan ketahanan terhadap elemen Earth.
+
+Bahan yang Dibutuhkan: ^4B00822 Large Jellopies, 1 Yellow Gemstone, 1 Empty Potion Bottle^000000
+
+Proses: Masukkan Large Jellopies dan Yellow Gemstone ke dalam mangkuk obat. Gunakan skill Pharmacy agar gemstone mulai bertindak sebagai katalis bagi bahan-bahan lainnya, lalu tuangkan larutan tersebut ke dalam Empty Potion Bottle.

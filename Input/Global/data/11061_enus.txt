@@ -1,0 +1,123 @@
+%f5f5dc
+^000088Pront Castle Quartermaster Exchange Items - Consumables^000000
+
+^FF0000[City Map]^000000
+A map that guides you through the inside of the city.
+When used, activates Increase Agility Lv.1.
+Caution! - If used while casting, the effect will not activate.
+Caution! - It consumes 15 HP, so if your HP is not at least 15, the effect will not activate and only the City Map will disappear. Please be careful.
+Weight: 1
+
+^FF0000[Shining Holy Water]^000000
+Reduces damage taken in the Ritual Room and the Pront Invasion Dungeon by 10% for 3 minutes.
+Cures Poison, Curse, and Silence, and restores 1000 HP.
+Weight: 1.5
+
+^FF0000[Prison Key]^000000
+An old, grimy keyring with several keys attached.
+Allows travel to the Pront Castle Underground Prison Dungeon.
+Weight: 1
+
+^FF0000[Prontera Badge]^000000
+A badge with Prontera’s coordinates stored within.
+When used, sends you to Prontera.
+Weight: 1
+
+
+^000088Pront Castle Quartermaster Exchange Items - Armor Items^000000
+
+^FF0000[City Map]^000000
+A map that guides you through the inside of the city.
+Allows use of Increase Agility Lv.3.
+Type: Accessory
+DEF: 0
+Weight: 10
+Required Level: 40
+Equip: All Jobs
+Slot: 1
+
+^FF0000[Shining Holy Water]^000000
+Reduces damage taken in the Ritual Room and the Pront Invasion Dungeon by 20%.
+Restores 100 HP and 5 SP every 10 seconds.
+Type: Accessory  DEF: 0
+Weight: 15
+Required Level: 100
+Equip: All Jobs
+Slot: 1
+
+^FF0000[Royal Guard Shield]^000000
+A shield of the kingdom’s royal guard knights.
+Allows use of 'Shield Spell' Lv.1.
+When taking melee physical damage, has a chance to activate 'Assumptio' Lv.3 on yourself.
+The chance to activate 'Assumptio' Lv.3 increases based on refine level.
+Per refine: DEF +10, MDEF +1.
+Type: Shield
+DEF: 30
+Weight: 300
+Required Level: 100
+Equip: All Jobs
+Slot: 1
+
+^FF0000[Prontera Badge]^000000
+Allows use of the 'Return to Prontera' skill.
+After one use, it cannot be reused for 15 minutes.
+Type: Accessory
+DEF: 0
+Weight: 10
+Required Level: 40
+Equip: All Jobs
+
+^FF0000[Flattery Robe]^000000
+Clothing worn by those who will not hesitate to use any means to achieve their goals.
+Allows use of Endure Lv.1.
+MATK +50
+If the wearer’s level is 120 or higher, MATK +50 additionally increases.
+If the wearer’s level is 140 or higher, MATK +50 additionally increases.
+
+When worn with the Old Lord’s Cloak,
+MSP +10%, and MSP +1% per armor refine level.
+FLEE +10, and FLEE +1 per armor refine level.
+When worn with the Cloak of Survival,
+MHP +10%, and MHP +1% per armor refine level.
+MATK +2%, and MATK +1% per armor refine level.
+Type: Armor
+DEF: 0
+Weight: 10
+Required Level: 100
+Equip: All Jobs
+Slot: 1
+
+^FF0000[Rude Remark Robe]^000000
+Clothing worn by those capable of conversation that delivers serious damage even to the soul.
+Allows use of Improve Concentration Lv.1.
+Per armor refine level, additionally ignores 4% of the physical defense of Demi-Human, Demon, and Undead enemies.
+When equipped together with Moriane’s Cloak,
+Ignores 15% of the physical defense of Demi-Human, Demon, and Undead enemies.
+LUK +3, and LUK +1 per armor refine level.
+CRI +10, and CRI +1 per armor refine level.
+When equipped together with Valkyrie’s Cloak,
+Ignores 15% of the physical defense of Demi-Human, Demon, and Undead enemies.
+MHP +10%, and MHP +1% per armor refine level.
+ATK +2%, and ATK +1% per armor refine level.
+Type: Armor
+DEF: 0
+Weight: 10
+Required Level: 100
+Equip: All Jobs
+Slot: 1
+
+^FF0000[Costume Time Ornament]^000000
+It feels like you are trapped within the flow of time.
+Type: Costume
+DEF: 0
+Position: Middle
+Weight: 0
+Required Level: 1
+Equip: All Jobs
+
+^FF0000[Fate’s Black Hand]^000000
+It feels as if your head is being grabbed and your fate is being toyed with.
+Type: Costume  DEF: 0
+Position: Upper  Weight: 0
+Required Level: 1
+Equip: All Jobs

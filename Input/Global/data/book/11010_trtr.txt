@@ -1,0 +1,46 @@
+%f5f5dc
+^000088Ödül Eşyaları!!^000000
+
+Ödül olarak alınabilecek eşyalar her fraksiyona göre farklıdır,
+Tierra savaşlarından elde edilebilen amblemler Cesaret Amblemi (-A),
+Flavius savaşlarından elde edilebilen amblemler ise Komando Amblemi (-B)'dir
+Parantez içinde amblem türü ve gerekli miktar belirtilir
+Eğer amblem türü belirtilmemişse aynı türdeki amblemlerle elde edilebilir.
+
+^FF0000[Hançer]^000000
+^008040Suikastçının Damascus'u (Cesaret:100)^000000
+Suikast ve PvP savaşlarına özel bir hançer.
+STR + 1, AGI + 1, Kırılamaz
+İnsan tipi canavarlara karşı fiziksel saldırı %75 artar.
+İnsan tipi canavarların fiziksel savunmasının %20'sini yok sayar.
+Ninja, Rogue veya Stalker tarafından takıldığında ek olarak MATK + 15%
+Tür : ^777777Hançer^000000 Saldırı : ^777777120^000000 Ağırlık : ^7777770^000000
+Silah Seviyesi : ^7777773^000000 Gereken Seviye : ^77777780^000000
+Ekipman : ^777777Acemi/Kılıç Ustası/Büyücü/Okçu/Tüccar/Hırsız/Ruh Bağlayıcı/Ninja takabilir^000000
+
+^008040Suikastçının Damascus'u (Komando:100)^000000
+Suikast ve PvP savaşlarına özel bir hançer.
+STR + 1, AGI + 1, Kırılamaz
+İnsan tipi canavarlara karşı fiziksel saldırı %75 artar.
+Saldırı sırasında belirli bir ihtimalle silah uyanışı olduğunda 6 saniye boyunca Penetrasyon etkisi verir.
+Ninja, Rogue veya Stalker tarafından takıldığında ek olarak MATK + 15%
+Tür : ^777777Hançer^000000 Saldırı : ^777777120^000000 Ağırlık : ^7777770^000000
+Silah Seviyesi : ^7777773^000000 Gereken Seviye : ^77777780^000000
+Ekipman : ^777777Acemi/Kılıç Ustası/Büyücü/Okçu/Tüccar/Hırsız/Ruh Bağlayıcı/Ninja takabilir^000000
+
+^FF0000[Tek El Kılıç]^000000
+^008040Gladyatörün Kılıcı (Komando:100)^000000
+Gladyatörlerin sıkça kullandığı bir kılıç olup PvP savaşlarında oldukça etkilidir.
+STR + 1, Dex + 1, Kırılamaz
+İnsan tipi canavarlara karşı fiziksel saldırı %75 artar. İnsan tipi canavarların fiziksel savunmasının %20'sini yok sayar.
+Tür : ^777777Tek El Kılıç^000000 Saldırı : ^777777115^000000 Ağırlık : ^7777770^000000
+Silah Seviyesi : ^7777773^000000 Gereken Seviye : ^77777780^000000
+Ekipman : ^777777Acemi/Kılıç Ustası/Tüccar/Hırsız/Ninja takabilir^000000
+
+^008040Gladyatörün Kılıcı (Cesaret:100)^000000
+Gladyatörlerin sıkça kullandığı bir kılıç olup PvP savaşlarında oldukça etkilidir.
+STR + 1, Dex + 1, MATK + 10%, Kırılamaz
+İnsan tipi canavarlara karşı fiziksel saldırı %75 artar.
+Tür : ^777777Tek El Kılıç^000000 Saldırı : ^777777115^000000 Ağırlık : ^7777770^000000
+Silah Seviyesi : ^7777773^000000 Gereken Seviye : ^77777780^000000
+Ekipman : ^777777Acemi/Kılıç Ustası/Tüccar/Hırsız/Ninja takabilir^000000

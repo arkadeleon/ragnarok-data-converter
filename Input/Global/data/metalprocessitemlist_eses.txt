@@ -1,0 +1,327 @@
+1000#
+Polvo de Estrellas 10 uds.
+#
+100371#
+1 unidad de Semilla de vida
+1 unidad de Hierba amarilla
+1 unidad de Botella vacía
+#
+1101#
+Hierro 2 uds.
+#
+1104#
+Hierro 30 uds.
+#
+1107#
+Hierro 45 uds.
+Diente de murciélago 25 uds.
+#
+1110#
+Acero 20 uds.
+#
+1113#
+Acero 35 uds.
+#
+1116#
+Hierro 35 uds.
+Diente del muerto 15 uds.
+#
+1119#
+Oridecon 8 uds.
+Acero 15 uds.
+Granate 1 ud.
+#
+1122#
+Acero 40 uds.
+Garra de lobo 50 uds.
+#
+1123#
+Oridecon 8 uds.
+Acero 10 uds.
+Topacio 1 ud.
+#
+1126#
+Oridecon 8 uds.
+Acero 5 uds.
+Ópalo 1 ud.
+#
+1129#
+Oridecon 16 uds.
+Rubí 1 ud.
+#
+1151#
+Acero 25 uds.
+Uña del muerto 20 uds.
+#
+1154#
+Acero 45 uds.
+#
+1157#
+Oridecon 12 uds.
+Acero 10 uds.
+#
+1160#
+Oridecon 12 uds.
+Acero 20 uds.
+#
+1163#
+Oridecon 16 uds.
+Acero 20 uds.
+Diamante 1 ud.
+#
+1201#
+Hierro 1 ud.
+Jellopy 10 uds.
+#
+1204#
+Hierro 25 uds.
+#
+1207#
+Hierro 50 uds.
+#
+1210#
+Acero 17 uds.
+#
+1213#
+Acero 30 uds.
+#
+1216#
+Acero 40 uds.
+#
+1219#
+Oridecon 4 uds.
+Acero 40 uds.
+Zafiro 1 ud.
+#
+1222#
+Oridecon 4 uds.
+Acero 60 uds.
+Zircón 1 ud.
+#
+1301#
+Hierro 10 uds.
+#
+1330#
+Mineral de Mythril 2 uds., Acero 15 uds.
+Oridecon 18 uds., Zelostone del crepúsculo 1 ud.
+#
+13491#
+2 unidades de Mineral de Mythril, 15 unidades de Acero
+18 unidades de Oridecon, 1 unidad de Ópalo de luz radiante
+#
+1351#
+Hierro 110 uds.
+#
+1354#
+Acero 30 uds.
+#
+1357#
+Oridecon 4 uds.
+Acero 20 uds.
+Colmillo de orco 30 uds.
+#
+1360#
+Oridecon 8 uds.
+Acero 10 uds.
+Amatista 1 ud.
+#
+1401#
+Hierro 3 uds.
+#
+1404#
+Hierro 35 uds.
+#
+1407#
+Hierro 70 uds.
+#
+1410#
+Oridecon 12 uds.
+Rubí 3 uds.
+Cuerno de demonio 2 uds.
+#
+1451#
+Acero 25 uds.
+#
+1454#
+Acero 40 uds.
+#
+1457#
+Acero 55 uds.
+#
+1460#
+Oridecon 8 uds.
+Acero 10 uds.
+Aguamarina 5 uds.
+#
+1463#
+Oridecon 12 uds.
+Acero 10 uds.
+#
+1501#
+Hierro 3 uds.
+#
+1504#
+30 unidades de Hierro
+#
+1507#
+20 unidades de Acero
+#
+1510#
+33 unidades de Acero
+#
+1513#
+85 unidades de Acero
+1 diamante
+#
+1516#
+100 unidades de Acero
+20 unidades de Escama afilada
+#
+1519#
+45 unidades de Acero
+#
+1522#
+120 unidades de Acero
+1 emblema del héroe orco
+#
+16086#
+2 unidades de Mineral de Mythril, 15 unidades de Acero
+18 unidades de Oridecon, 1 unidad de Zafiro del mar azul
+#
+1801#
+160 unidades de Hierro
+1 unidad de Perla
+#
+1803#
+50 unidades de Acero
+#
+1805#
+65 unidades de Acero
+#
+1807#
+4 unidades de Oridecon
+10 unidades de Rubí
+#
+1809#
+8 unidades de Oridecon
+10 unidades de Topacio
+#
+1811#
+4 unidades de Oridecon
+10 unidades de Ópalo
+#
+1860#
+2 unidades de Mineral de Mythril, 15 unidades de Acero
+18 unidades de Oridecon, 1 unidad de Rubí empapado en sangre
+#
+21045#
+2 unidades de Mineral de Mythril, 15 unidades de Acero
+22 unidades de Oridecon, 1 unidad de Zelostone de Brisa Azul
+#
+26020#
+2 unidades de Mineral de Mythril, 15 unidades de Acero
+22 unidades de Oridecon, 1 unidad de Zelostone del caos
+#
+28134#
+2 unidades de Mineral de Mythril, 15 unidades de Acero
+22 unidades de Oridecon, 1 unidad de Esmeralda maldita
+#
+28752#
+2 unidades de Mineral de Mythril, 15 unidades de Acero
+18 unidades de Oridecon, 1 unidad de Zelostone carmesí
+#
+32016#
+2 unidades de Mineral de Mythril, 15 unidades de Acero
+18 unidades de Oridecon, 1 unidad de Zelostone del crepúsculo
+#
+501#
+Hierba roja 1 ud.
+Botella de poción vacía 1 ud.
+#
+503#
+Hierba amarilla 1 ud.
+Botella de poción vacía 1 ud.
+#
+504#
+Hierba blanca 1 ud.
+Botella de poción vacía 1 ud.
+#
+505#
+Hierba azul 1 ud.
+Scell 1 ud.
+Botella de poción vacía 1 ud.
+#
+545#
+Poción roja 1 ud.
+Tubo de ensayo vacío 1 ud.
+Aguja de Cactus 1 ud.
+#
+546#
+Poción amarilla 1 ud.
+Tubo de ensayo vacío 1 ud.
+Bigotes de topo 1 ud.
+#
+547#
+Poción blanca 1 ud.
+Tubo de ensayo vacío 1 ud.
+Arena Estelar de Bruja 1 ud.
+#
+605#
+Menta 1 ud.
+Alcohol 1 ud.
+Botella vacía 1 ud.
+#
+606#
+Aloe 1 ud.
+Miel 1 ud.
+Botella vacía 1 ud.
+#
+7135#
+1 unidad de Alcohol
+1 unidad de Trozo de tela transparente
+1 unidad de Botella vacía
+#
+7136#
+1 unidad de Corazón Inmortal
+1 unidad de Botella vacía
+#
+7137#
+2 unidades de Flor de planta carnívora
+1 unidad de Botella vacía
+#
+7138#
+1 unidad de Detonador
+1 unidad de Tendón
+1 unidad de Botella vacía
+#
+7139#
+1 unidad de Alcohol
+1 unidad de Diente de Zenorc
+1 unidad de Corazón de sirena
+1 unidad de Botella vacía
+#
+970#
+Tallo de planta 5 uds.
+Botella vacía 1 ud.
+Espora venenosa 5 uds.
+Tubo de ensayo vacío 1 ud.
+#
+994#
+Sangre Roja 10 uds.
+#
+995#
+Cristal azul 10 uds.
+#
+996#
+Viento de Verdor 10 uds.
+#
+997#
+Vida Verde 10 uds.
+#
+998#
+Mineral de hierro 1 ud.
+#
+999#
+Hierro 5 uds.
+Carbón 1 ud.
+#

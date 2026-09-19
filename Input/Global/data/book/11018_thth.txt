@@ -1,0 +1,21 @@
+%f5f5dc
+^000088ไอเทมจำหน่ายใน Splendide^000000
+ไอเทมต่อไปนี้สามารถซื้อได้ด้วย Splendide Coin
+
+^008040[Pinguicula's Fruit Jam]^000000
+แยมที่ทำจากผลของ Pinguicula เคี่ยวจนหวานหอม
+เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ใน Splendide Field 10% เป็นเวลา 10 นาที
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+น้ำหนัก : ^7777775^000000
+
+^008040[Luciola's Honey Jam]^000000
+แยมที่ทำจากน้ำผึ้งของ Luciola ผสมกับสมุนไพร
+ลด Damage ทางกายภาพและเวทมนตร์ที่ได้รับจากมอนสเตอร์ใน Splendide Field 10% เป็นเวลา 10 นาที
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+น้ำหนัก : ^7777775^000000
+
+^008040[Cornus' Tears]^000000
+Potion ที่กลั่นมาจาก Cornus' Tears ไม่อาจทราบได้ว่าได้หยดน้ำตามาด้วยวิธีใด
+เพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ใน Splendide Field 10% เป็นเวลา 10 นาที
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+น้ำหนัก : ^7777775^000000

@@ -1,0 +1,29 @@
+%faf0e6
+^000088Bases de l'alchimie pour la fabrication de la Bouteille incendiaire^000000
+
+
+----------------Préface--------------------
+
+Depuis que la fabrication de l'Alcool est devenue connue, elle a été utilisée à diverses fins...
+Dans l'armée, nous avons cherché une méthode plus efficace et simple
+pour l'utiliser facilement, et c'est ainsi que nous avons trouvé le moyen d'exploiter au maximum la Bouteille incendiaire.
+Étant conçu à des fins militaires, son utilisation par des civils est dangereuse.
+J'espère que ce document ne se répandra pas à l'extérieur et n'entraînera pas de malheurs, c'est pourquoi j'en laisse une trace.
+
+------------------------------------------
+
+
+
+^0000FFQu'est-ce que la Bouteille incendiaire ?^000000
+
+Une sorte de grenade incendiaire improvisée contenant un agent incendiaire dans une bouteille en verre.
+
+
+
+Ingrédients : ^4B0082Alcool x1, Morceau de tissu transparent x1, Bouteille vide x1^000000
+Méthode de fabrication : Préparez un Mortier.
+Versez délicatement l'Alcool dans le Mortier et laissez-le s'oxyder légèrement au contact de l'air.
+Reversez l'Alcool dans la Bouteille vide, trempez une extrémité du Morceau de tissu transparent dans l'Alcool jusqu'à ce qu'il soit imbibé,
+nouez l'autre extrémité et bouchez l'ouverture de la Bouteille vide avec la partie nouée.
+Pour une fabrication simplifiée, munissez-vous de ce livre et des ingrédients nécessaires
+et utilisez la compétence de base d'alchimie, la Pharmacie.

@@ -1,0 +1,92 @@
+%faf0e6
+^000088Je peux le faire tout seul. De la fabrication de potions, de A à Z...^000000
+
+
+----------------Préface--------------------
+
+La base de l’alchimiste, c’est la potion ! PV, PM, même l’Altération d'état !
+Vous aussi, vous pouvez y arriver.
+L’ouvrage ultime pour apprendre à fabriquer des potions, étape par étape, depuis les bases !
+
+------------------------------------------
+
+^FF0000Qu’est-ce qu’une potion ?^000000
+
+Une dose de Potion de récupération ou de poison.
+Le terme potion désigne généralement une dose unique de Potion de récupération, mais peut aussi signifier un poison.
+Ce livre explique comment fabriquer les potions rouge, jaune, blanche, bleue, l’Analgésique et l’Aloe vera.
+En annexe, la méthode de fabrication de l’Embryon, un élément indispensable pour tout alchimiste ayant étudié la Bioéthique.
+
+
+^0000FFPotion rouge^000000 : Restaure environ 45 PV.
+Ingrédients : ^4B0082Herbe rouge x1, flacon vide x1^000000
+Méthode : Préparez un Mortier.
+Mettez l’herbe dans le Mortier et écrasez-la.
+Ajoutez progressivement de l’eau propre tout en continuant d’écraser l’herbe.
+Versez dans le flacon vide.
+Pour une méthode simplifiée :
+Préparez ce livre et les ingrédients, puis utilisez la compétence Pharmacie.
+
+
+^800000Potion jaune^000000 : Restaure environ 175 PV.
+Ingrédients : ^4B0082Herbe jaune x1, flacon vide x1^000000
+Méthode : Préparez un Mortier.
+Mettez l’herbe dans le Mortier et écrasez-la.
+Ajoutez progressivement de l’eau propre tout en continuant d’écraser l’herbe.
+Versez dans le flacon vide.
+Pour une méthode simplifiée :
+Préparez ce livre et les ingrédients, puis utilisez la compétence Pharmacie.
+
+^008040Potion blanche^000000 : Restaure environ 325 PV.
+Ingrédients : ^4B0082Herbe blanche x1, flacon vide x1^000000
+Méthode : Préparez un Mortier.
+Mettez l’herbe dans le Mortier et écrasez-la.
+Ajoutez progressivement de l’eau propre tout en continuant d’écraser l’herbe.
+Versez dans le flacon vide.
+Pour une méthode simplifiée :
+Préparez ce livre et les ingrédients, puis utilisez la compétence Pharmacie.
+
+^FF8040Potion bleue^000000 : Restaure environ 60 PM.
+Ingrédients : ^4B0082Herbe bleue x1, flacon vide x1, cellule x1^000000
+Méthode : Préparez un Mortier.
+Mettez l’herbe dans le Mortier et écrasez-la.
+Ajoutez progressivement de l’eau propre et la cellule finement broyée
+tout en continuant d’écraser l’herbe.
+Versez dans le flacon vide.
+Pour une méthode simplifiée :
+Préparez ce livre et les ingrédients, puis utilisez la compétence Pharmacie.
+
+^400080Analgésique^000000 : Un analgésique qui fait oublier la douleur pendant un certain temps.
+Ingrédients : ^4B0082Alcool x1, Bouteille vide x1, menthe x1^000000
+Méthode : Préparez un Mortier.
+Mettez la menthe dans le Mortier et écrasez-la.
+Ajoutez progressivement une petite quantité d’eau propre et d’Alcool
+tout en continuant d’écraser la menthe.
+Versez dans la Bouteille vide.
+Pour une méthode simplifiée :
+Préparez ce livre et les ingrédients, puis utilisez la compétence Pharmacie.
+
+
+^008040Aloe vera^000000 : Réduit temporairement votre défense et augmente votre attaque.
+Ingrédients : ^4B0082Aloe x1, Bouteille vide x1, miel x1^000000
+Méthode : Préparez un Mortier.
+Mettez le miel et l’Aloe dans le Mortier et écrasez-les.
+Ajoutez progressivement une petite quantité d’eau propre, mélangez bien, puis versez dans la Bouteille vide.
+Pour une méthode simplifiée, préparez ce livre et les ingrédients, puis utilisez la compétence Pharmacie.
+
+^FF0000Embryon^000000 : Crée une vie sous forme embryonnaire.
+Ingrédients : ^4B0082Rosée d’Yggdrasil x1, Graine de vie x1, Tube de verre x1^000000
+Méthode : La base de l’alchimie est le Mortier.
+Préparez un Mortier.
+Mettez la Rosée d’Yggdrasil et la Graine de vie dans le Mortier,
+puis utilisez la compétence Pharmacie pour verser dans le Tube de verre.
+Il faudra étudier la Bioéthique avant de pouvoir l’utiliser.
+C’est très dangereux, il faudra donc mener des recherches approfondies.
+
+^0000FFNutriment d'homunculus^000000 : Complément nutritionnel pour renforcer les liens avec votre Homunculus.
+Ingrédients : ^4B0082Graine de vie x1, Herbe jaune x1, Bouteille vide x1^000000
+Méthode : La base de l’alchimie est le Mortier.
+Préparez un Mortier.
+Mettez la graine de vie et l’herbe jaune dans le Mortier, écrasez,
+puis utilisez la compétence Pharmacie pour verser dans la Bouteille vide et mélangez bien.
+Il faudra étudier la Bioéthique avant de pouvoir l’utiliser.

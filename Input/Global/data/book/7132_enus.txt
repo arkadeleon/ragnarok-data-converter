@@ -1,0 +1,17 @@
+%faf0e6
+^000088Intermediate Alchemy: Glistening Coat^000000
+
+
+----------------Preface--------------------
+
+The Magician's Energy Coat skill that generates a mana film that protects the caster inspired Alchemists to develop the Glistening Coat. The Glistening Coat can be used in conjunction with protective Alchemist skills enhances protection that won't be affected by most external factors. However, these artificial coats automatically lose their effectiveness after a certain amount of time.
+
+------------------------------------------
+
+What is a ^400080Glistening Coat^000000?
+
+A glistening coat is a soft, viscous substance that can safely coat objects to temporarily increase their resistance to damage. Only highly skilled Alchemists are capable of applying the Glistening Coat by using the Biochemical Helm, Synthesized Shield, Synthetic Armor, and Alchemical Weapon skills.
+
+Required Materials: ^4B00821 Alcohol, 1 Zenorc's Fang, 1 Mermaid's Heart, 1 Empty Bottle^000000
+
+Process: Fill a medicine bowl halfway with alcohol, and then melt a Zenorc's Fang in it. Wash a Mermaid's Heart, and add it to the Zenorc fang and alcohol mixture. Finally, use the Pharmacy skill to pour the solution into an empty bottle. You will need to learn special skills such as Biochemical Helm, Synthesized Shield, Synthetic Armor, and Alchemical Weapon to actually apply the Glistening Coat to equipment.

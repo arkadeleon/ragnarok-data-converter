@@ -1,0 +1,67 @@
+%f5f5dc
+^000088Kreiger Von Midgard Ödül Eşyaları!!^000000
+
+Kreiger Von Midgard ödül eşyalarıdır.
+Yükseltme seviyesine bağlı ek seçenekler.
+^FF0000[Katliam]^000000 - Yükseltme seviyesine göre fiziksel saldırı artar
+^FA8072[Yıkım]^000000 - Yükseltme seviyesine göre büyü saldırısı artar
+^0000FF[Kutsama]^000000 - Yükseltme seviyesine göre kullanılan iyileştirme türü skilllerin etkisi artar
+
+^FF0000[Hançer]^000000
+^008040Şanlı Damascus^000000
+İnsan tipi canavarlara karşı fiziksel saldırı %75 artar. İnsan tipi canavarların fiziksel savunmasının %20'sini yok sayar.
+Saldırı sırasında belirli bir ihtimalle otomatik olarak [Lex Divina] seviye 1 tetiklenir. Kırılamaz.
+※ Silah yükseltme ek seçenekleri
++6 yükseltme : İnsan tipi canavarların savunmasını yok sayma %5 artar, ^FF0000[Katliam]^000000 Lv 1
++9 yükseltme : [Sürpriz Saldırı] kullanıldığında belirli ihtimalle 5*5 alanda kanama
+Tür : ^777777Hançer^000000 Saldırı : ^777777120^000000 Ağırlık : ^7777770^000000 Silah Seviyesi : ^7777774^000000 Gereken Seviye : ^77777780^000000
+Ekipman : ^777777Acemi/Kılıç Ustası/Büyü/Okçu/Tüccar/Hırsız/Ninja takabilir^000000
+
+^FF0000[Tek El Kılıç]^000000
+^008040Şanlı Flamberge^000000
+İnsan tipi canavarlara karşı fiziksel saldırı %75 artar.
+İnsan tipi canavarların fiziksel savunmasının %20'sini yok sayar. Kırılamaz.
+※ Silah yükseltme ek seçenekleri
++6 yükseltme : İnsan tipi canavarların fiziksel savunmasını yok sayma %5 artar, ^FF0000[Katliam]^000000 Lv 1
++7 yükseltme : Saldırı hızı %10 artar
++9 yükseltme : [Bash] kullanıldığında belirli ihtimalle otomatik olarak [Ölümcül Yara] seviye 2 tetiklenir
+Tür : ^777777Tek El Kılıç^000000 Saldırı : ^777777130^000000 Ağırlık : ^7777770^000000 Silah Seviyesi : ^7777774^000000 Gereken Seviye : ^77777780^000000
+Ekipman : ^777777Acemi/Kılıç Ustası/Tüccar/Hırsız/Ninja takabilir^000000
+
+^008040Şanlı İnce Kılıç^000000
+INT + 6, MATK + 10%, Kırılamaz.
+※ Silah yükseltme ek seçenekleri : +(Yükseltme seviyesi - 5) Int artar.
++6 yükseltme : SP tüketimi %10 azalır.
++9 yükseltme : INT + 5
+Tür : ^777777Tek El Kılıç^000000 Saldırı : ^777777130^000000 Ağırlık : ^7777770^000000 Silah Seviyesi : ^7777774^000000 Gereken Seviye : ^77777780^000000
+Ekipman : ^777777Acemi/Kılıç Ustası/Tüccar/Hırsız/Ninja takabilir^000000
+
+^008040Şanlı Kutsal İntikamcı^000000
+INT + 6, MATK + 10%, Kırılamaz
+※ Silah yükseltme ek seçenekleri : +(Yükseltme seviyesi - 5) Int artar
++6 yükseltme : SP tüketimi %10 azalır
++9 yükseltme : [Pressure] skill kullanıldığında düşmana otomatik olarak [Lex Aeterna] seviye 1 tetiklenir.
++10 yükseltme : Int + 5
+Tür : ^777777Tek El Kılıç^000000 Saldırı : ^777777130^000000 Ağırlık : ^7777770^000000 Silah Seviyesi : ^7777774^000000 Gereken Seviye : ^77777780^000000
+Ekipman : ^777777Acemi/Tüccar takabilir^000000
+
+^FF0000[Tek El Mızrak]^000000
+^008040Şanlı Mızrak^000000
+İnsan tipi canavarlara karşı fiziksel saldırı %95 artar.
+İnsan tipi canavarların fiziksel savunmasının %20'sini yok sayar. Kırılamaz.
+※ Silah yükseltme ek seçenekleri
++6 yükseltme : İnsan tipi canavarların savunmasını yok sayma %5 artar, saldırı hızı %5 artar, ^FF0000[Katliam]^000000 Lv 1
++9 yükseltme : Şövalye sınıfı [Delme] kullandığında belirli ihtimalle [Ölümcül Yara] seviye 2 tetiklenir,
+Crusader sınıfı normal saldırıda belirli ihtimalle otomatik [Baskı], saldırı hızı %5 artar
+Tür : ^777777Tek El Mızrak^000000 Saldırı : ^777777130^000000 Ağırlık : ^7777770^000000 Silah Seviyesi : ^7777774^000000 Gereken Seviye : ^77777780^000000
+Ekipman : ^777777Kılıç Ustası takabilir^000000
+
+^FF0000[Tek El Asa]^000000
+^008040Şanlı Kavisli Asa^000000
+MATK + 15%, insan tipi canavarlara karşı büyü saldırısı %15 artar
+İnsan tipi canavarların büyü savunmasının %25'ini yok sayar. Kırılamaz.
+※ Silah yükseltme ek seçenekleri
++6 yükseltme : İnsan tipi canavarlara karşı büyü savunması yok sayma %5 artar
++9 yükseltme : MATK %5 artar, büyü yapma süresi %5 azalır, genel bekleme süreleri %5 azalır
+Tür : ^777777Asa^000000 Saldırı : ^77777770^000000 Ağırlık : ^7777770^000000 Silah Seviyesi : ^7777774^000000 Gereken Seviye : ^77777780^000000
+Ekipman : ^777777Büyücü/Rahip takabilir^000000

@@ -1,0 +1,56 @@
+%faf0e6
+^000088-El sabor casero de una madre que cura hasta el alma. Para quienes añoran el calor de la familia-^000000
+
+Sin embargo, este libro contiene recetas de cocina de nivel 2 que no recuperan HP.
+
+^FF0000Ensalada de membrana palmeada :^000000 Su sabor suave reduce la viscosidad y realza su textura al masticar.
+Ingredientes : ^4B0082Membrana palmeada pegajosa 1 unidad, Hierba verde 1 unidad, Hierba amarilla 1 unidad, Salsa suave 1 unidad^000000
+Preparación : Conserva la membrana palmeada pegajosa sumergida en agua helada y corta en juliana la Hierba verde y la Hierba amarilla.
+Toma una cantidad adecuada de membrana palmeada y mézclala con una cantidad adecuada de las hierbas cortadas en juliana.
+Cuando las hierbas se hayan ablandado lo suficiente, añade la Salsa suave e incorpora el resto de las hierbas.
+Debe conservarse refrigerada para mantener su textura elástica y evitar que se pegue.
+
+^0000FFTé negro de mil hojas :^000000 Disfrútalo acompañado de galletas o pastel.
+Ingredientes : ^4B0082Hierba azul 1 unidad, Hierba roja 1 unidad, Hierba amarilla 1 unidad^000000
+Preparación : Prepara las hierbas bien secadas y fermentadas.
+Introduce las hojas de hierba en una tetera calentada por fuera en agua hirviendo, procurando que no entre agua en su interior,
+vierte agua hirviendo, tapa la tetera y deja infusionar durante 2~3 minutos.
+No debe reposar ni demasiado ni demasiado poco; también puede servirse con leche, limón u otros acompañamientos.
+
+
+^800000Pastel de mousse de chocolate :^000000 Su dulzura se deshace por toda la boca.
+Ingredientes : ^4B0082Cacao 1 unidad, Porción de pastel 1 unidad, Leche 1 unidad, Plato blanco 1 unidad
+Preparación : Bate el cacao finamente molido con la leche para preparar una crema.
+Deja una cantidad adecuada del bizcocho de la Porción de pastel y cómete el resto de un bocado;
+después, mezcla la crema y un estabilizante con el pastel restante, déjalo enfriar hasta que cuaje y sírvelo en el plato.
+
+^008040Fideos resbaladizos :^000000 Hay que manejar bien los palillos para comerlos con facilidad.
+Ingredientes : ^4B0082Cereal 1 unidad, Salsa suave 1 unidad, Cabeza de calabaza 1 unidad, Zanahoria 1 unidad^000000
+Preparación : La base de los fideos es la masa. Añade poco a poco agua fría a la harina obtenida al moler un cereal con un contenido adecuado de proteínas
+y amásala; después, estírala por ambos extremos y dóblala repetidamente para formar los fideos.
+Es recomendable dejar reposar los fideos preparados durante aproximadamente un día.
+Hierve bien la Cabeza de calabaza en agua y, al golpearla suavemente, saldrán hebras finas como fideos.
+Corta la Zanahoria en juliana y saltéala ligeramente; después, cuece los fideos en agua y retíralos.
+Cuando el agua esté a punto de desbordarse, añade un poco de agua fría, deja que vuelva a hervir una vez y retira los fideos.
+Si lavas los fideos retirados frotándolos en agua fría, adquirirán una textura elástica excelente.
+Coloca los fideos y las hebras de calabaza dentro de la cáscara vaciada de la Cabeza de calabaza y vierte encima el caldo
+preparado; termina el plato colocando la Zanahoria salteada por encima.
+
+
+^FF8040Plato de marisco :^000000 Puede considerarse un surtido de distintos tipos de marisco.
+Ingredientes : ^4B0082Carne de molusco 1 unidad, Branquia espinosa 1 unidad, Aleta dorsal 1 unidad, Pescado sabroso 1 unidad^000000
+Preparación : Cuece ligeramente la Carne de molusco fresca y el Pescado sabroso, y córtalos en trozos de tamaño adecuado.
+Retira todas las espinas de la Branquia espinosa con unas pinzas u otro utensilio,
+cuécela ligeramente y córtala en trozos de tamaño adecuado.
+Escalda la Aleta dorsal en agua, coloca encima los demás ingredientes y dóblala tres veces en forma de abanico.
+
+^400080Zumo mixto :^000000 Una combinación inesperada dejó un sabor inesperado. ¡Qué suerte!
+Ingredientes : ^4B0082Zumo de manzana 1 unidad, Zumo de zanahoria 1 unidad, Zumo de uva 1 unidad, Zumo de naranja 1 unidad^000000
+Preparación : Es importante ajustar bien la proporción de los ingredientes.
+El Zumo de zanahoria sirve como base y, después, la combinación de sabores varía según
+el orden y la proporción de la mezcla. Quienes prefieren un sabor ácido deben mezclar
+Zumo de manzana, Zumo de naranja y Zumo de uva en ese orden;
+quienes prefieren un sabor dulce deben mezclar uva, manzana y naranja
+en ese orden.
+Se dice que algunas personas llegan a crear y beber sabores totalmente inesperados.
+(Se cuenta que fue como descubrir un mundo nuevo.)

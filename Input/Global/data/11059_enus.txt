@@ -1,0 +1,265 @@
+^4D4DFF TE Exclusive Rental Item List ^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+    All TE rental equipment items cannot be traded to other accounts.
+    All TE rental equipment items will be automatically removed from your inventory when the rental time expires.
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+[TE Siege Katar]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Bleeding on physical attack.
+Type: Katar  ATK: 120
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Assassin Class
+
+[TE Siege Axe]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Frozen on physical attack.
+Type: One-Handed Axe  ATK: 100
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Novice/Swordman/Merchant/Thief Classes
+
+[TE Siege Two-Handed Axe]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Stun on physical attack.
+Type: Two-Handed Axe  ATK: 150
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Swordman/Merchant Classes
+
+[TE Siege Pike]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Curse on physical attack.
+Type: One-Handed Spear  ATK: 100
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Swordman Class
+
+[TE Siege Lance]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Blind on physical attack.
+Type: Two-Handed Spear  ATK: 150
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Swordman Class
+
+
+[TE Siege Book]
+※ Additional options in TE siege areas
+Physical damage to players +40%. Magic damage +5%.
+High chance to inflict Blind on physical attack.
+Healing amount +5%.
+Type: Book  ATK: 120
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Priest Class/Sage Class/Champion
+
+[TE Siege Staff]
+※ Additional options in TE siege areas
+Magic damage to players +10%. High chance to inflict Blind on magic attack.
+Healing amount +5%.
+Type: One-Handed Staff  ATK: 50  Weight: 0
+Weapon Level: 3  Required Level: 40  Equip: Novice Class/Mage Class/Acolyte Class/Soul Linker
+
+[TE Siege Fist]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Frozen on physical attack.
+Type: Knuckle  ATK: 150  Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Priest Class/Monk Class
+[TE Siege Instrument]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Poison on physical attack.
+Type: Instrument  ATK: 100
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Bard Only
+
+[TE Siege Rope]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Blind on physical attack.
+Type: Whip  ATK: 100
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Dancer Only
+
+[TE Siege Knife]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Silence on physical attack.
+Type: Dagger  ATK: 100  MATK + 100.
+Weight: 0  Weapon Level: 3  Required Level: 40
+Equip: Novice/Swordman/Mage/Archer/Merchant/Thief/Soul Linker/Ninja
+
+[TE Two-Handed Staff]
+※ Additional options in TE siege areas
+Magic damage to players +20%. High chance to inflict Stun on magic attack.
+Healing amount +5%.
+Type: Two-Handed Staff  ATK: 50  MATK + 130
+Weight: 0  Weapon Level: 3  Required Level: 40
+Equip: Novice Class/Mage Class/Acolyte Class/Soul Linker
+
+[TE Siege Revolver]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Curse on physical attack.
+Type: Revolver  ATK: 60
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Gunslinger
+
+[TE Siege Rifle]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Silence on physical attack.
+Type: Rifle  ATK: 80
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Gunslinger
+
+[TE Siege Gatling Gun]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Stun on physical attack.
+Type: Gatling Gun  ATK: 100
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Gunslinger
+
+[TE Siege Shotgun]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Poison on physical attack.
+Type: Shotgun  ATK: 100
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Gunslinger
+
+[TE Siege Grenade Gun]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Blind on physical attack.
+Type: Grenade Launcher  ATK: 100
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Gunslinger
+
+[TE Siege Huuma Shuriken]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Bleeding on physical attack.
+Type: Huuma Shuriken  ATK: 80  MATK + 100.
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Ninja
+
+[TE Siege Sword]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Poison on physical attack.
+Type: Sword  ATK: 120  MATK + 100.
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Novice/Swordman/Merchant/Thief Classes
+
+[TE Siege Mace]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Frozen on physical attack.
+Healing amount +5%.
+Type: Mace  ATK: 120
+Weight: 0  Weapon Level: 3  Required Level: 40
+Equip: Novice/Swordman/Acolyte/Merchant Classes
+
+[TE Siege Bow]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Curse on physical attack.
+Type: Bow  ATK: 120
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Archer Class/Thief/Rogue Class
+
+[TE Siege Two-Handed Sword]
+※ Additional options in TE siege areas
+Physical damage to players +40%. High chance to inflict Bleeding on physical attack.
+Type: Two-Handed Sword  ATK: 150
+Weight: 0  Weapon Level: 3  Required Level: 40  Equip: Swordman Class
+
+
+
+
+
+
+
+
+[TE Siege Buckler]
+※ Additional options in TE siege areas
+MAXHP + 100, MAXSP + 100. Damage taken from players -15%.
+Type: Shield  DEF: 15  MDEF + 15.
+Weight: 0  Required Level: 40  Equip: All Jobs
+
+[TE Siege Shield]
+※ Additional options in TE siege areas
+MAXHP + 200. Damage taken from players -20%.
+Type: Shield  DEF: 25  MDEF + 5.
+Weight: 0  Required Level: 40  Equip: Swordman/Merchant Classes
+
+[TE Siege Magic Guard]
+※ Additional options in TE siege areas
+MAXSP + 200. Damage taken from players -10%.
+Type: Shield  DEF: 5  MDEF + 25
+Weight: 0  Required Level: 40  Equip: Novice Class/Mage Class/Acolyte Class/Soul Linker
+
+[TE Siege Muffler]
+※ Additional options in TE siege areas
+Physical/Magic damage to players +5%. Resistance to Frozen +25%.
+Type: Garment  DEF: 5  MDEF + 5.
+Weight: 0  Required Level: 40  Equip: All Jobs
+
+[TE Siege Mantle]
+※ Additional options in TE siege areas
+Physical damage to players +10%. Resistance to Frozen +25%.
+Type: Garment  DEF: 10
+Weight: 0  Required Level: 40  Equip: Swordman/Merchant Classes
+
+[TE Siege Magic Mantle]
+※ Additional options in TE siege areas
+Magic damage to players +10%.
+Resistance to Frozen +25%.
+Type: Garment  DEF: 5  MDEF + 5.
+Weight: 0  Required Level: 40  Equip: Novice Class/Mage Class/Acolyte Class/Soul Linker
+
+[TE Ring of Protection]
+※ Additional options in TE siege areas
+MAXHP + 100. Damage taken from players -5%.
+Type: Accessory  DEF: 0
+Weight: 0  Required Level: 40  Equip: All Jobs
+
+[TE Ring of Rage]
+※ Additional options in TE siege areas
+Physical/Magic damage to players +5%.
+Type: Accessory  DEF: 0
+Weight: 0  Required Level: 40  Equip: All Jobs
+
+[TE Ring of Defiance]
+※ Additional options in TE siege areas
+Damage taken from players -5%.
+Type: Accessory  DEF: 0  MDEF + 5.
+Weight: 0  Required Level: 40  Equip: All Jobs
+
+
+[TE Siege Shoes]
+※ Additional options in TE siege areas
+MAXHP + 150, MAXSP + 150. Physical/Magic damage to players +5%.
+Resistance to Frozen +25%.
+Type: Footgear  DEF: 5  MDEF + 5.  Weight: 0  Required Level: 40  Equip: All Jobs
+
+[TE Siege Boots]
+※ Additional options in TE siege areas
+MAXHP + 200, MAXSP + 100. Physical damage to players +10%.
+Resistance to Frozen +25%.
+Type: Footgear  DEF: 10  Weight: 0  Required Level: 40  Equip: Swordman/Merchant Classes
+
+[TE Siege Magic Sandals]
+※ Additional options in TE siege areas
+MAXHP + 100, MAXSP + 200. Magic damage to players +5%.
+Resistance to Frozen +25%.
+Type: Footgear  DEF: 5  MDEF + 5.
+Weight: 0  Required Level: 40  Equip: Novice Class/Mage Class/Acolyte Class/Soul Linker
+
+[TE Siege Long Coat]
+※ Additional options in TE siege areas
+MAXHP + 250, MAXSP + 250. Damage taken from players -10%.
+Resistance to Frozen +25%.
+Type: Armor  DEF: 15  MDEF + 15.  Weight: 0  Required Level: 40  Equip: All Jobs
+
+[TE Siege Mail]
+※ Additional options in TE siege areas
+MAXHP + 450, MAXSP + 50. Damage taken from players -15%.
+Resistance to Frozen +25%.
+Type: Armor  DEF: 25  MDEF + 5.
+Weight: 0  Required Level: 40  Equip: Swordman/Merchant Classes
+
+[TE Siege Magic Coat]
+※ Additional options in TE siege areas
+MAXHP + 200, MAXSP + 300. Damage taken from players -5%.
+Resistance to Frozen +25%.
+Type: Armor  DEF: 5  MDEF + 25.
+Weight: 0  Required Level: 40  Equip: Novice Class/Mage Class/Acolyte Class/Soul Linker
+[TE Siege Cap]
+※ Additional options in TE siege areas
+ATK + 5, MATK + 5. Physical/Magic damage to players +10%.
+Resistance to Frozen +25%.
+Type: Headgear  DEF: 5  MDEF + 5.  Position: Upper  Weight: 0  Required Level: 40  Equip: All Jobs
+
+[TE Siege Bone Helm]
+※ Additional options in TE siege areas
+ATK + 10. Physical damage to players +20%. Resistance to Frozen +25%.
+Type: Headgear  DEF: 10  Position: Upper
+Weight: 0  Required Level: 40  Equip: Novice Class
+
+[TE Siege Magic Eyes]
+※ Additional options in TE siege areas
+MATK + 10. Magic damage to players +20%.
+Resistance to Frozen +25%.
+Type: Headgear  DEF: 5  MDEF + 5.  Position: Upper
+Weight: 0  Required Level: 40  Equip: Novice Class/Mage Class/Acolyte Class/Soul Linker

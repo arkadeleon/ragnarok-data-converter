@@ -1,0 +1,63 @@
+%faf0e6
+^000088¡Si alguien tiene hambre, le serviré comida, ya sea un Poring o un Poporing!^000000
+
+¡Por supuesto, la regla de oro de la cocina es reservar algo para mí! - Receta de nivel 7 -
+
+
+^FF0000Barbacoa entera:^000000 ¡No te preocupes, no vamos a asar un barril entero!
+Ingredientes: ^4B0082Carne 1 unidad, Ascua 1 unidad, Carbón 1 unidad, Salsa picante 1 unidad, Trozo de madera 1 unidad, Hierba blanca 1 unidad^000000
+Preparación: Lava bien la carne por dentro y por fuera, y úntala uniformemente con salsa picante.
+Pica finamente la hierba blanca y espolvoréala ligeramente. Coloca el ascua sobre el trozo de madera
+y prepara un fuego lento que no se apague para asar la carne.
+Mientras se asa, úntala de vez en cuando con salsa picante de manera uniforme
+y sírvela espolvoreada con la hierba picada.
+
+^0000FFTé de hierbas especial con jalea real:^000000 ¡Es imposible que te pique una abeja mientras lo bebes!
+Ingredientes: ^4B0082Jalea real 1 unidad, Miel 1 unidad, Hierba blanca 1 unidad, Hoja de Hinalle 1 unidad, Especia amarilla 1 unidad^000000
+Preparación: Se prepara igual que el té de hierbas con miel de nivel 3, pero la clave está en usar hoja de Hinalle, una hoja de gran calidad,
+y añadir jalea real junto con la miel.
+
+
+^800000Pan Cazador de Almas:^000000 ¡Ten mucho cuidado, podrías perder el alma!
+Ingredientes: ^4B0082Pan 1 unidad, Fruto de Mastela 1 unidad, Salsa dulce 1 unidad, Ment 1 unidad, Amuleto de retorno del alma 1 unidad, Manzana verde 1 unidad^000000
+Preparación: Pela el fruto de Mastela y la manzana, y córtalos en dados.
+Lava bien el Ment y exprímelo. Mezcla su zumo con el fruto de Mastela y la manzana cortados en dados,
+añade azúcar y déjalo reposar durante 30 minutos. (La proporción de azúcar debe ser aproximadamente 1:1)
+Pon la mezcla a hervir a fuego fuerte. Cuando aparezca espuma, reduce a fuego medio, añade un poco más de azúcar
+y deja que se cueza lentamente. (Remueve sin parar para evitar que se pegue al fondo)
+Redúcelo hasta que quede transparente y brillante para preparar la mermelada.
+Muele bien el amuleto de retorno del alma y déjalo madurar con la salsa dulce.
+Unta el pan con la mermelada y la salsa dulce, y sírvelo.
+
+^008040Cocodrilo asado con verduras al vapor:^000000 ¡Es mucho más tierno y jugoso de lo que parece!
+Ingredientes: ^4B0082Piel de Anolian 1 unidad, Cabeza de calabaza 1 unidad, Zanahoria 1 unidad, Hoja de aloe 1 unidad,
+Hierba amarilla 1 unidad, Especia amarilla 1 unidad^000000
+Preparación: Lava bien la piel de Anolian, pícala finamente y mézclala con sal, pimienta, huevo, agua y especia amarilla.
+Amásala hasta que quede elástica. Corta la zanahoria en tiras largas y escáldala. Escalda la hoja de aloe y la hierba amarilla,
+escúrrelas bien y resérvalas. Corta la cabeza de calabaza en tiras, saltéala ligeramente y déjala enfriar.
+Extiende un paño de cocina sobre una tabla de cortar, coloca encima la piel de Anolian y cuécela en una vaporera caliente
+durante aproximadamente 15 minutos. Después, córtala en trozos fáciles de comer y sírvela con las verduras.
+
+^FF8040Delicias especiales de mar y montaña:^000000 ¡Hay que ir a la montaña para cazar jabalíes y al mar para pescar!
+Ingredientes: ^4B0082Cola de pez 1 unidad, Hoja de aloe 1 unidad, Crin de jabalí 1 unidad, Pescado sabroso 1 unidad,
+Comida para Pet 1 unidad, Salsa dulce 1 unidad^000000
+Preparación: Escalda ligeramente la hoja de aloe en agua con sal.
+Quita bien las escamas del pescado sabroso, úntalo con salsa dulce y déjalo marinar durante 10 minutos.
+Envuelve el pescado marinado con la hoja de aloe, cuécelo al vapor junto con la cola de pez durante 10 minutos y sírvelo en un plato.
+Corta la crin de jabalí en trozos de aproximadamente 4 cm y escáldala ligeramente.
+Corta la comida para Pet en trozos fáciles de comer y ásala en una sartén mientras la untas con salsa dulce.
+
+
+^400080Brocheta a la parrilla:^000000 ¡Recorta la punta de la espina para no pincharte mientras comes!
+Ingredientes: ^4B0082Piel escamosa 1 unidad, Branquia espinosa 1 unidad, Hoja tierna 1 unidad, Carne 1 unidad,
+Seta comestible 1 unidad, Carne de molusco 1 unidad^000000
+Preparación: Corta la hoja tierna en cuadrados de 4 cm y corta la seta a lo largo siguiendo su forma.
+Lava bien la piel escamosa y resérvala.
+Escoge una espina larga de la branquia espinosa y resérvala.
+Cuece ligeramente la carne y escalda la carne de molusco.
+Ensarta en la espina larga la carne, las verduras y la carne de molusco, en ese orden,
+coloca la piel escamosa sobre la parrilla para calentarla y asa encima la brocheta.
+
+^FF3366Surtido de platos de nivel 7:^000000 La esencia de los platos de nivel 7
+Ingredientes: ^4B0082Barbacoa entera 1 unidad, Té de hierbas especial con jalea real 1 unidad, Pan Cazador de Almas 1 unidad, Cocodrilo asado con verduras al vapor 1 unidad, Delicias especiales de mar y montaña 1 unidad, Brocheta a la parrilla 1 unidad^000000
+Preparación: Reúne todos los platos de nivel 7 y sírvelos cuidadosamente dispuestos en un gran banquete.

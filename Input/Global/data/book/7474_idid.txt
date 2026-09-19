@@ -1,0 +1,85 @@
+%faf0e6
+^000088-Buku terlaris di kalangan ibu rumah tangga Rune-Midgarts! Jangan lewatkan kesempatan ini untuk menjadi ahli memasak!-^000000
+
+Juga menjadi buku favorit para kepala keluarga. Biarkan istrimu beristirahat di akhir pekan. Buku ini akan mengajarkanmu cara memasak resep Level 3 dengan mudah!
+
+^FF0000Bomber Steak:^000000 Rasa pedas yang meledak-ledak pasti akan membangkitkan selera makanmu!
+
+Bahan: ^4B00824 Meat, 1 Old Frying Pan, 10 Green Herbs, 5 Red Chili, 1 Spicy Sauce^000000
+
+Cara membuat:
+
+1. Lunakkan Meat dengan memukulnya menggunakan bagian belakang Mace.
+2. Haluskan Green Herbs yang telah dikeringkan dengan baik serta Red Chili.
+3. Rendam Meat yang telah dilunakkan dalam campuran Green Herbs dan Red Chili.
+4. Panaskan Old Frying Pan dengan api sedang, lalu tambahkan minyak dan mentega.
+5. Taburkan sedikit garam pada Meat tepat sebelum dimasak.
+6. Mulailah memasak Meat pada satu sisi terlebih dahulu.
+7. Setelah satu sisi matang dengan baik, taburkan sedikit garam lagi lalu balikkan.
+8. Masak sisi lainnya hingga renyah dan berwarna cokelat tua.
+9. Letakkan steak di atas piring, hiasi dengan 3 atau 4 lembar Green Herb, lalu sajikan bersama Spicy Sauce.
+
+^0000FFHoney Herbal Tea:^000000 Teh aromatik yang meninggalkan kesegaran mint di napasmu!
+
+Bahan: ^4B00822 Honey, 10 White Herbs, 1 Yellow Spice^000000
+
+Biasanya herbal kering digunakan untuk membuat teh herbal, namun resep ini menggunakan herbal segar. Herbal segar mengandung sekitar 90% air, sehingga kamu perlu menggunakan 3 hingga 4 kali lebih banyak herbal segar dibanding herbal kering untuk mendapatkan rasa yang kuat. Jika herbal yang digunakan terasa kurang, sebagian dapat digantikan dengan tambahan Yellow Spice.
+
+Cara membuat:
+
+1. Masukkan herbal ke dalam teko, tuangkan air panas, lalu tutup rapat.
+2. Biarkan teh terinfus selama 4–5 menit karena menggunakan herbal segar. Jika menggunakan herbal kering, cukup seduh selama 3 menit.
+3. Tambahkan Yellow Spice dan Honey sesuai selera, lalu nikmati.
+
+^800000Fruit Mix:^000000 Nikmati tekstur renyah dari buah-buahan segar yang manis!
+
+Bahan: ^4B00825 Apples, 5 Bananas, 5 Oranges, 5 Strawberry, 1 Yellow Spice^000000
+
+Cara membuat:
+
+1. Cuci Apples, Oranges, dan Strawberries.
+2. Kupas Apples, Oranges, dan Bananas lalu potong menjadi bagian kecil. Potong Strawberries menjadi dua bagian.
+3. Masukkan Apples dan Oranges ke dalam gelas panjang, lalu tambahkan Bananas dan Strawberries di atasnya. Ini hanya saran penyajian; kamu bebas mencampur buah sesuai selera.
+4. Sajikan campuran buah dengan taburan Yellow Spice di atasnya.
+
+^008040Tentacle Cheese Gratin:^000000 Nikmati rasa gurih gratin dengan keju dan Tentacles yang lembut.
+
+Bahan: ^4B008210 Tentacles, 10 Cheese, 5 Yam, 1 Sweet Sauce^000000
+
+Cara membuat:
+
+1. Cuci dan kupas Yam, lalu potong menjadi kotak besar.
+2. Cuci Tentacles lalu potong sepanjang 3–4 cm.
+3. Panaskan wajan dengan api sedang.
+4. Tambahkan minyak ke dalam wajan lalu goreng Tentacles.
+5. Tambahkan garam dan merica saat menggoreng.
+6. Olesi mangkuk gratin dengan mentega lalu masukkan Tentacles goreng dan potongan Yam.
+7. Tuangkan Sweet Sauce dan taburkan Cheese di atas Tentacles dan Yam.
+8. Panggang di dalam oven selama 10 menit.
+
+^FF8040Clam Soup:^000000 Lupakan sup hambar. Kini saatnya menikmati semangkuk Clam Soup dengan rasa manis yang khas!
+
+Bahan: ^4B008220 Clam Flesh, 10 Conch, 1 Honey, 1 Sweet Sauce^000000
+
+Cara membuat:
+
+1. Gosok dan bersihkan Conches dengan air dingin.
+2. Kukus Conches lalu buang bagian dalamnya. Potong daging Conch yang telah dimasak menjadi potongan besar.
+3. Tambahkan air dan daging Conch ke dalam panci lalu mulai merebusnya.
+4. Saat mendidih, buang buih dari kaldu lalu saring kaldu setelah selesai direbus.
+5. Tuangkan kembali kaldu yang telah disaring ke dalam panci lalu tambahkan Clam Flesh dan daging Conch.
+6. Rebus sup lalu tambahkan Honey dan Sweet Sauce.
+
+^400080Fried Sweet Potato:^000000 Kentang goreng manis yang lembut di dalam dan renyah di luar!
+
+Bahan: ^4B008210 Potatoes, 10 Yams, 1 Sweet Potato, 1 Sweet Sauce^000000
+
+Cara membuat:
+
+1. Bersihkan dan cuci Potatoes serta Yams. Potong menjadi bagian kecil tanpa mengupas kulitnya. Sweet Potato digunakan untuk mengganjal perut sebelum hidangan selesai, jadi kamu boleh memakannya saat memasak.
+2. Siapkan panci besar dan tuangkan minyak secukupnya untuk merendam Potatoes dan Yams. Panaskan minyak.
+3. Saat minyak mulai berbuih, masukkan Potatoes dan Yams lalu goreng hingga kulitnya renyah dan berwarna cokelat keemasan.
+4. Angkat Potatoes dan Yams dari minyak lalu tiriskan dengan saringan untuk menghilangkan minyak berlebih.
+5. Tambahkan 1 sendok teh cooking oil dan 1 Yellow Sauce ke dalam wajan, lalu campurkan keduanya.
+6. Masukkan Potatoes dan Yams goreng ke dalam wajan lalu masak hingga campuran saus dan minyak menjadi lengket.
+7. Sajikan Potatoes dan Yams di atas piring dengan taburan biji wijen hitam di atasnya.

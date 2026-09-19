@@ -1,0 +1,16 @@
+weather#comodo.rsw#pokjuk#
+
+// Sprinkling snow in winter.
+//weather#prontera.rsw#snow#
+//weather#alberta.rsw#snow#
+//weather#geffen.rsw#snow#
+//weather#hugel.rsw#snow#
+//weather#izlude.rsw#snow#
+//weather#izlude_a.rsw#snow#
+//weather#izlude_b.rsw#snow#
+//weather#izlude_c.rsw#snow#
+//weather#izlude_d.rsw#snow#
+
+// Sprinkling cherry blossoms
+//weather#prontera.rsw#sakura#
+//weather#pay_arche.rsw#sakura#

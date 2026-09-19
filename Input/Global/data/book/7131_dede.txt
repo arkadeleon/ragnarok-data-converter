@@ -1,0 +1,27 @@
+%faf0e6
+^000088Alchemie zur Herstellung von Marine-Sphären-Flaschen^000000
+
+
+----------------Vorwort--------------------
+Das Monster Marine Sphere, das wir bei der Erkundung von Izlude entdeckten,
+bewegte sich nicht, besaß jedoch die Eigenschaft, bei Berührung zu explodieren.
+Wir fragten uns, ob es nicht möglich wäre, es nicht im Wasser, sondern in der Luft schweben zu lassen,
+und nach langem Grübeln gelang uns schließlich die Transmutation!
+Ich denke, dass diese gegen Feinde eingesetzte Bombe für einen Raid von Vorteil ist.
+------------------------------------------
+
+^400080Mine^000000 – Was ist das?
+
+Eine Art Bombe, die in der Luft oder unter Wasser schwebt und bei Kontakt ihr Ziel in die Höhe schleudert.
+Nach spezieller Verarbeitung wird sie in einer Flasche eingeschlossen – das ist die Marine-Sphären-Flasche.
+Von der Herstellung bis zur Anwendung ist Vorsicht geboten.
+Doch selbst unter Alchemisten sollen nur jene sie verwenden können,
+die eine besondere Technik erlernt haben.
+
+
+Zutaten : ^4B0082Zünder 1 Stück, Sehne 1 Stück, Leere Flasche 1 Stück^000000
+Herstellung : Eine Mörserschale vorbereiten.
+Zünder und Sehne in die Mörserschale geben und dieses Buch bei sich tragen.
+Dann Trankzubereitung verwenden und das Ergebnis in eine Leere Flasche füllen.
+Anders als bei der Transmutation zur Erschaffung einer Mine
+ist für die Anwendung das Erlernen einer separaten Fertigkeit erforderlich.

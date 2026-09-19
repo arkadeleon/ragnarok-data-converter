@@ -1,0 +1,29 @@
+%faf0e6
+^000088Mayın Şişesi Üretimi için Simya^000000
+
+
+----------------Önsöz--------------------
+Izlude’u keşfederken Deniz Küresi adlı bir canavar bulduk.
+Hareket etmiyordu; ancak dokunulduğunda patlıyordu.
+
+Onu suyun dışında, havada asılı tutmanın bir yolu olmalı diye düşündük
+ve sonunda sentezlemeyi başardık!
+Bu bombanın düşmana karşı baskınlarda çok işe yarayacağını düşünüyoruz.
+
+------------------------------------------
+
+^400080Mayın^000000 Nedir?
+Havada ya da suyun içinde asılı duran,
+temas eden hedefi havaya savuran bir bomba türü.
+Özel işlemden geçirilip şişelenmiş hâline Mayın Şişesi denir.
+
+
+
+Üretimden kullanıma kadar dikkatle kullanılmalıdır.Ancak bunu yalnızca özel teknikler öğrenmiş simyacılarınkullanabildiği söylenir.
+
+
+Malzemeler: ^4B0082Fünye 1, Kiriş 1, Boş Şişe 1^000000
+Yöntem: İlaç Kasesi hazırlayın.
+İlaç Kasesi’ne Fünye ve Kiriş koyun; bu kitabı yanınızda taşırken
+Eczacılık kullanarak karışımı Boş Şişe’ye doldurun.
+Mayın sentezinden ayrı olarak, kullanmak için ek bir teknik öğrenmek gerekir.

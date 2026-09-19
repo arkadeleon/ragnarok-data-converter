@@ -1,0 +1,38 @@
+%faf0e6
+^000088Fundamentos de alquimia para fabricar alcohol^000000
+
+
+----------------Prólogo--------------------
+
+En el momento en que escribo esta receta, el mundo de la alquimia se encuentra sumido en un gran revuelo.
+Muchos alquimistas, frustrados por sus investigaciones y sumidos en el pesimismo,
+han utilizado el método de fabricación de alcohol presentado ante la asociación para producirlo en grandes cantidades.
+Cada vez son más las personas que viven dependiendo de él.
+Esperaba que este no fuera el resultado que deseaba, pero las consecuencias han sido desastrosas.
+Espero que a ti, que estudias alquimia y lees este libro, nunca te ocurra algo así.
+Con el deseo de que jamás fabriques alcohol para dañar tu propio cuerpo, vuelvo a dejar esta receta
+para las generaciones futuras.
+
+"¡¡¡Alcoholismo!!! ¡¡No es nada bueno!!"
+
+------------------------------------------
+
+
+
+¿Qué es el ^FF0000alcohol^000000?
+
+Nombre genérico de los compuestos en los que un átomo de hidrógeno de un hidrocarburo ha sido sustituido por un grupo hidroxilo (-OH).
+
+Su fórmula general se expresa como ROH(R=grupo alquilo). Cuando el grupo alquilo es metilo, se denomina metanol,
+y cuando es etilo, se denomina etanol; es decir, se añade la terminación ol (-ol) al nombre del grupo alquilo.
+El grupo metilo es el resultado de eliminar un átomo de hidrógeno del metano,
+mientras que el grupo etilo es el resultado de eliminar un átomo de hidrógeno del etano.
+En otras palabras, un grupo alquilo es el resultado de eliminar un átomo de hidrógeno del hidrocarburo original.
+
+
+Materiales: ^4B00825 tallos de planta, 5 esporas de seta venenosa, 1 tubo de ensayo vacío, 1 botella vacía^000000
+Método de fabricación: introduce en una botella vacía tallos de planta con suficiente azúcar y esporas de seta venenosa procesadas,
+y hiérvelos con agua. Enfría el gas generado hasta que se condense y destílalo.
+Vierte el líquido resultante en un tubo de ensayo vacío.
+Para fabricarlo fácilmente, lleva este libro contigo, reúne los materiales necesarios
+y utiliza Farmacia, una técnica básica de alquimia.

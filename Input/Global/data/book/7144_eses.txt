@@ -1,0 +1,92 @@
+%faf0e6
+^000088Puedes hacerlo sin ayuda. Desde los fundamentos de la fabricación de pociones...^000000
+
+
+----------------Prólogo--------------------
+
+¡La base de todo alquimista son las pociones! ¡HP, SP e incluso alteraciones de estado!
+Tú también puedes fabricarlas.
+¡La guía definitiva para aprender a fabricar pociones paso a paso desde cero!
+
+------------------------------------------
+
+¿Qué es una ^FF0000poción^000000?
+
+Una dosis de medicina o veneno.
+Aunque una poción puede ser una dosis de medicina curativa o de veneno, por lo general se refiere a una medicina de recuperación.
+Este libro explica cómo fabricar pociones rojas, amarillas, blancas y azules, Antidolor y Aloe vera.
+El método de fabricación del Embrión incluido como apéndice será indispensable para los alquimistas que hayan estudiado Bioética.
+
+
+^0000FFPoción roja^000000: restaura aproximadamente HP 45.
+Materiales: ^4B0082Hierba roja 1, Frasco de poción vacío 1^000000
+Método de fabricación: prepara un mortero.
+Introduce la hierba en el mortero y machácala.
+Añade poco a poco agua limpia mientras sigues machacando la hierba.
+Vierte la mezcla en un frasco de poción vacío.
+Para utilizar el método de fabricación sencillo,
+prepara este libro y los materiales, y usa la habilidad Farmacia.
+
+
+^800000Poción amarilla^000000: restaura aproximadamente HP 175.
+Materiales: ^4B0082Hierba amarilla 1, Frasco de poción vacío 1^000000
+Método de fabricación: prepara un mortero.
+Introduce la hierba en el mortero y machácala.
+Añade poco a poco agua limpia mientras sigues machacando la hierba.
+Vierte la mezcla en un frasco de poción vacío.
+Para utilizar el método de fabricación sencillo,
+prepara este libro y los materiales, y usa la habilidad Farmacia.
+
+^008040Poción blanca^000000: restaura aproximadamente HP 325.
+Materiales: ^4B0082Hierba blanca 1, Frasco de poción vacío 1^000000
+Método de fabricación: prepara un mortero.
+Introduce la hierba en el mortero y machácala.
+Añade poco a poco agua limpia mientras sigues machacando la hierba.
+Vierte la mezcla en un frasco de poción vacío.
+Para utilizar el método de fabricación sencillo,
+prepara este libro y los materiales, y usa la habilidad Farmacia.
+
+^FF8040Poción azul^000000: restaura aproximadamente SP 60.
+Materiales: ^4B0082Hierba azul 1, Frasco de poción vacío 1, Scell 1^000000
+Método de fabricación: prepara un mortero.
+Introduce la hierba en el mortero y machácala.
+Añade agua limpia y Scell finamente molido
+poco a poco mientras sigues machacando la hierba.
+Vierte la mezcla en un frasco de poción vacío.
+Para utilizar el método de fabricación sencillo,
+prepara este libro y los materiales, y usa la habilidad Farmacia.
+
+^400080Antidolor^000000: analgésico que permite olvidar el dolor durante cierto tiempo.
+Materiales: ^4B0082Alcohol 1, Botella vacía 1, Ment 1^000000
+Método de fabricación: prepara un mortero.
+Introduce Ment en el mortero y machácalo.
+Añade una pequeña cantidad de agua limpia y alcohol
+poco a poco mientras sigues machacando Ment.
+Vierte la mezcla en una botella vacía.
+Para utilizar el método de fabricación sencillo,
+prepara este libro y los materiales, y usa la habilidad Farmacia.
+
+
+^008040Aloe vera^000000: reduce la defensa propia y aumenta el ataque durante cierto tiempo.
+Materiales: ^4B0082Aloe 1, Botella vacía 1, Miel 1^000000
+Método de fabricación: prepara un mortero.
+Introduce la miel y el aloe en el mortero y machácalos.
+Añade poco a poco una pequeña cantidad de agua limpia mientras sigues removiendo y, después, vierte la mezcla en una botella vacía.
+Para utilizar el método de fabricación sencillo, prepara este libro y los materiales, y usa la habilidad Farmacia.
+
+^FF0000Embrión^000000: crea una forma de vida con aspecto embrionario.
+Materiales: ^4B0082Rocío de Yggdrasil 1, Semilla de vida 1, Tubo de cristal 1^000000
+Método de fabricación: el mortero es la base de la alquimia.
+Prepara un mortero.
+Introduce el Rocío de Yggdrasil y la Semilla de vida en el mortero,
+usa la habilidad Farmacia y vierte la mezcla en un tubo de cristal.
+Solo podrás utilizarlo después de estudiar Bioética.
+Es muy peligroso, por lo que deberás investigarlo a fondo.
+
+^0000FFSuplemento para Homunculus^000000: suplemento nutritivo destinado a estrechar el vínculo con el Homunculus.
+Materiales: ^4B0082Semilla de vida 1, Hierba amarilla 1, Botella vacía 1^000000
+Método de fabricación: el mortero es la base de la alquimia.
+Prepara un mortero.
+Introduce la Semilla de vida y la Hierba amarilla en el mortero y machácalas;
+después, usa la habilidad Farmacia, vierte la mezcla en una botella vacía y agítala para mezclarla.
+Solo podrás utilizarlo después de estudiar Bioética.

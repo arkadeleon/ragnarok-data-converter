@@ -1,0 +1,48 @@
+1. Outil de création d’effets
+   Cet outil permet de définir l’apparence de l’effet d’empreintes en jeu. Il permet d’ajuster précisément non seulement l’apparence de l’image, mais aussi sa taille, son mode de placement lors du chargement et le type d’animation. Si l’image souhaitée au format PNG se trouve dans le chemin indiqué en bas de la fenêtre contextuelle, elle peut être chargée à l’aide de cet outil.
+ 
+2. Corps entier
+   Image nécessaire à l’effet de rémanence qui reste autour du corps du personnage le long du trajet parcouru lorsqu’il se déplace.
+   L’image doit être au format PNG, mesurer 128x128 px et ne pas dépasser 64 KB.
+   Seules les images situées dans le dossier footprint dont le nom de fichier est composé uniquement de lettres de l’alphabet anglais et de chiffres seront détectées.
+ 
+3. Sol
+   Image nécessaire à l’effet de rémanence qui reste au sol le long du trajet parcouru lorsque le personnage se déplace.
+   L’image doit être au format PNG, mesurer 128x128 px et ne pas dépasser 64 KB.
+   Seules les images situées dans le dossier footprint dont le nom de fichier est composé uniquement de lettres de l’alphabet anglais et de chiffres seront détectées.
+ 
+※ Afin de garantir un environnement d’utilisation sûr, les images des effets Corps entier et Sol sont retraitées pixel par pixel lors de leur enregistrement. Même après ce traitement, elles sont affichées de manière aussi fidèle que possible aux images d’origine.
+ 
+4. Type d’animation
+   Détermine le type d’animation utilisé lorsque l’effet apparaît et disparaît. Des effets de particules dispersées sont également proposés.
+ 
+5. Orientation du marquage au sol
+   Détermine si l’orientation de l’effet suit la direction de déplacement du personnage ou s’il fait toujours face à l’écran, quelle que soit la direction du personnage.
+ 
+6. Taille au sol
+   Détermine la taille de l’effet fixé au sol.
+   Plus la valeur est élevée, plus l’effet est grand.
+ 
+7. Taille du corps entier
+   Détermine la taille de l’effet fixé au corps du personnage.
+   Plus la valeur est élevée, plus l’effet est grand.
+ 
+8. Hauteur du corps entier
+   Détermine la hauteur de l’effet fixé au corps du personnage.
+   Plus la valeur est élevée, plus l’effet est placé haut.
+ 
+9. Espacement des pieds
+   Détermine l’écart entre le pied gauche et le pied droit.
+   Plus la valeur est élevée, plus l’écart entre les pieds est large.
+ 
+10. Fréquence d’apparition
+    Détermine la fréquence d’apparition de l’effet.
+    Plus la valeur est faible, plus l’effet apparaît fréquemment sur une courte période.
+ 
+11. Carte d’arrière-plan
+    Changez l’arrière-plan pour vérifier le rendu de l’effet dans chaque environnement.
+ 
+12. Boutons Lecture et Arrêt
+    Appuyez sur Lecture pour vérifier l’effet créé sur l’écran de jeu correspondant.
+    Cependant, l’effet ne fonctionnera pas si l’image Corps entier ou l’image Sol n’a pas été ajoutée.
+    Appuyez sur Arrêt pour interrompre l’effet en cours de lecture.

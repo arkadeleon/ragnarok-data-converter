@@ -1,0 +1,59 @@
+^000088Panduan Minuman Energi: Monthly Alchemist - [SP of Dream Vol.10]^000000
+
+Alchemist: Kami telah mengundang dua tokoh terkenal di kalangan Alchemist yang mengembangkan SP Increase Potion yang luar biasa! Bolehkah saya meminta mereka untuk memperkenalkan diri?
+
+Vain: Aku adalah kakak tertua! Dan aku suka mengumpulkan bunga.
+
+Vajin: Aku adalah anak kedua dan aku suka menonton pertunjukan boneka. Kami berdua termasuk dalam 10 Alchemist terkenal. Kami sangat menghargai sambutan dan dukungan kalian.
+
+Alchemist: Saya mendengar bahwa kalian berdua menemukan seri SP Increase Potion. Bolehkah saya bertanya bagaimana kalian bisa membuat item tersebut?
+
+Vain: Ya, saat kami meneliti life stone, kami akhirnya membuat potion untuk membantu pelanggan dalam aktivitas mereka. Awalnya kami hanya membuat beberapa jenis minuman penyegar, tetapi selama penelitian kami menemukan cara untuk meningkatkan kapasitas SP itu sendiri. Kami sebenarnya tidak pernah berniat memonopoli produksi potion ini.
+
+Vajin: Teknik ini membutuhkan keterampilan yang sangat teliti dan waktu yang lama. Walaupun kalian mengetahui cara membuatnya, bukan berarti mudah untuk melakukannya. Tingkat keberhasilannya juga sangat rendah, sehingga bahan-bahannya bisa saja habis tanpa hasil. Jadi saya harap kalian para Alchemist muda tidak akan mengalami kerugian besar karena hal ini.
+
+Alchemist: Jadi inti utamanya adalah bakat pembuatnya lebih penting daripada tekniknya.
+
+Vain: Benar sekali! Dengan bahan yang sama pun, hasilnya bisa memiliki rasa yang berbeda! Kami telah mencoba hampir 136.072 kali. Jadi jika ada orang yang menemukan cara yang lebih baik, kami ingin mereka mencobanya.
+
+Alchemist: Namun kalian berdua tetap berkomitmen pada kemajuan dan pengembangan teknik ini. Sebagai cerita eksklusif, saya merasa terhormat bisa mendengarnya. Terima kasih.
+
+Vajin: Sama-sama. Kami percaya bahwa ini dapat membantu perkembangan aktivitas dan pekerjaan yang lebih baik. Walaupun kami mencoba memonopoli teknik ini, hal itu tidak akan bertahan lama.
+
+Alchemist: Benarkah? Mengapa begitu?
+
+Vain: Seperti yang dijelaskan adikku, saat ini belum ada potion yang benar-benar memaksimalkan SP itu sendiri. Selama ini hanya ada skill, card, dan equipment yang dapat meningkatkan maksimum SP. Walaupun potion ini meningkatkan SP, kami tidak menyelesaikan masalah utamanya. Yang kami lakukan hanya memperbesar mesin, bukan menambah bahan bakarnya.
+
+Vajin: Memang ada fungsi pemulihan SP dari potion ini, tetapi tidak terlalu besar. Kesimpulannya, kami hanya membantu mempercepat aktivitas otak dan tubuh untuk memperoleh mana sebanyak mungkin. Setahu saya, banyak monk yang menggunakan prinsip yang sama.
+
+Vain: Jadi meskipun para Alchemist mendapatkan banyak perhatian melalui metode ini, sebenarnya ini hanya solusi sementara dan tidak baik untuk jangka panjang.
+
+Vajin: Ya, itu bisa menyebabkan situasi yang tidak baik.
+
+Alchemist: Baik, saya mengerti maksud kalian. Rahasia ini tidak akan bertahan lama, dan lebih baik kita fokus pada perkembangan pasar. Ini adalah sudut pandang yang luas.
+
+Vain: Kami percaya bahwa segala sesuatu akan kembali pada asalnya. Jika kita berbuat baik kepada orang lain, kebaikan juga akan kembali kepada kita. Itu disebut 'Golden Rule'.
+
+Alchemist: Jadi hal yang ditemukan para Alchemist adalah Golden Rule!
+
+Vain: (tersenyum) Itu bukan kontribusi sebesar itu. (malu)
+
+Alchemist: Namun saya yakin banyak orang akan mendapatkan manfaat dari usaha kalian. Kalian berdua sangat menginspirasi. Bolehkah saya menanyakan rencana kalian ke depan?
+
+Vain: Kami akan terus meneliti "stone of life". Itulah tujuan utama kami sejak awal. Dan kami berharap potion ini dapat bermanfaat.
+
+Alchemist: Terima kasih. Terakhir, saya ingin memperkenalkan seseorang yang akan menjadi sponsor kalian!
+
+(Resep terlampir di bawah ini.)
+
+
+Recipe
+
+SP Increase Potion (S): 10 Empty Bottle + 10 Lemon + 10 Grape + 1 Sweet Sauce
+SP Increase Potion (M): 10 Empty Bottle + 10 Honey + 10 Blue Herb + 1 Sweet Sauce
+SP Increase Potion (L): 10 Empty Bottle + 10 Royal Jelly + 15 Blue Herb + 1 Sweet Sauce
+
+
+Effect
+
+Meningkatkan Max SP sebesar 1~20% selama 500 detik. Semakin kuat efeknya, semakin besar peningkatan yang diberikan.

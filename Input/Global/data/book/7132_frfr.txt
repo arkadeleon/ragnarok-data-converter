@@ -1,0 +1,34 @@
+%faf0e6
+^000088Alchimie intermédiaire de protection. Revêtement !^000000
+
+
+----------------Préface--------------------
+
+En voyant les Magicien envelopper leur corps d'une barrière de mana,
+on s'est demandé s'il n'existait pas un moyen, par l'alchimie, de protéger des armes ou des armures.
+Le revêtement alchimique, inspiré de cette idée, ne se brise pas,
+donne une sensation d'enveloppement,
+et ne peut être dissipé par un adversaire.
+Cependant, gardez à l'esprit qu'il se dissipe après un certain temps.
+
+------------------------------------------
+
+^400080Qu'est-ce que le revêtement^000000 ?
+
+Il s'agit de recouvrir la surface d'un objet d'une fine couche de résine ou autre.
+On l'utilise pour créer une couche antireflet sur les lentilles,
+ou pour rendre un tissu imperméable ou résistant à la chaleur.
+Mais le revêtement utilisé en alchimie ne se brise jamais,
+et il est impossible pour un adversaire de l'enlever de force.
+Cependant, seuls les alchimistes ayant acquis une technique spéciale
+peuvent l'utiliser.
+
+
+Ingrédients : ^4B0082Alcool x1, Croc de Zenorc x1, Cœur de sirène x1, Bouteille vide x1^000000
+Recette : Préparez un Mortier.
+Versez environ la moitié de l'Alcool dans le Mortier et faites-y fondre le Croc de Zenorc.
+Broyez le Cœur de sirène, préalablement lavé et séché, puis mélangez-le bien à l'Alcool.
+Utilisez la compétence Pharmacie pour verser le mélange dans une Bouteille vide.
+Cela semble suffire de simplement l'appliquer,
+mais en réalité, il faut une technique spéciale pour revêtir une arme ou une armure.
+Vous découvrirez cette compétence spécialisée en poursuivant vos études d'alchimie.

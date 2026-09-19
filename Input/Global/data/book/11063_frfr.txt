@@ -1,0 +1,105 @@
+^FF3300[Épée Yin-Yang]^000000 Une épée imprégnée du pouvoir du Yin et du Yang.
+Augmente les Dégâts physiques infligés aux monstres de type Démon de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts physiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts physiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Épée à une main Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Épéiste/Classe de Marchand SLOT : 2
+
+^FF3300[Espadon Yin-Yang]^000000 Un espadon imprégné du pouvoir du Yin et du Yang.
+Augmente les Dégâts physiques infligés aux monstres de type Démon de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts physiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts physiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Épée à deux mains Attaque : 180 Poids : 140 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Épéiste SLOT : 2
+^FF3300[Dague Yin-Yang]^000000 Une dague imprégnée du pouvoir du Yin et du Yang.
+Augmente les Dégâts physiques infligés aux monstres de type Démon de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts physiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts physiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Dague Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Épéiste/Classe de Voleur/Classe de Marchand SLOT : 2
+
+^FF3300[Arc Yin-Yang]^000000 Un arc imprégné du pouvoir du Yin et du Yang.
+Augmente les Dégâts physiques infligés aux monstres de type Démon de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts physiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts physiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Arc Attaque : 130 Poids : 100 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Archer/Classe de Voleur SLOT : 2
+^FF3300[Bâton Yin-Yang]^000000 Un bâton imprégné du pouvoir du Yin et du Yang. ATQ.MMM + 130, Incassable.
+Augmente les Dégâts magiques infligés aux monstres de type Démon de 5%, augmente les Dégâts magiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts magiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts magiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts magiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts magiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Bâton à une main Attaque : 40 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Novice/Classe de Magicien/Classe d'Acolyte/Classe Soul Linker SLOT : 2
+
+^FF3300[Masse Yin-Yang]^000000 Une masse imprégnée du pouvoir du Yin et du Yang.
+Incassable, augmente les Dégâts physiques infligés aux monstres de type Démon de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts physiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts physiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Masse Attaque : 130 Poids : 120 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Épéiste/Classe de Novice/Classe d'Acolyte/Classe de Marchand SLOT : 2
+^FF3300[Katar Yin-Yang]^000000 Un katar imprégné du pouvoir du Yin et du Yang.
+Augmente les Dégâts physiques infligés aux monstres de type Démon de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts physiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts physiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Katar Attaque : 150 Poids : 120 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Assassin SLOT : 2
+
+^FF3300[Hache Yin-Yang]^000000 Une hache imprégnée du pouvoir du Yin et du Yang.
+Incassable, augmente les Dégâts physiques infligés aux monstres de type Démon de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts physiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts physiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Hache à deux mains Attaque : 180 Poids : 140 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Marchand SLOT : 2
+^FF3300[Lance Yin-Yang]^000000 Une lance imprégnée du pouvoir du Yin et du Yang.
+Augmente les Dégâts physiques infligés aux monstres de type Démon de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts physiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts physiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Lance à deux mains Attaque : 180 Poids : 140 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Épéiste SLOT : 2
+
+^FF3300[Griffes Yin-Yang]^000000 Des griffes imprégnées du pouvoir du Yin et du Yang.
+Augmente les Dégâts physiques infligés aux monstres de type Démon de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts physiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts physiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Poings Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Moine/Classe de Prêtre SLOT : 2
+^FF3300[Livre Yin-Yang]^000000 Un livre imprégné du pouvoir du Yin et du Yang.
+ATQ.M + 130, augmente les Dégâts phys./mag. infligés aux monstres de type Démon de 5%, augmente les dégâts physiques/magiques infligés aux ennemis de type Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts phys./mag. infligés aux monstres de type Démon de 5% supplémentaires, augmente les dégâts physiques/magiques infligés aux ennemis de type Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts phys./mag. infligés aux monstres de type Démon de 10% supplémentaires, augmente les dégâts physiques/magiques infligés aux ennemis de type Feu de 10% supplémentaires.
+
+Catégorie : Livre Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Sage/Classe de Prêtre/Classe Taekwon SLOT : 2
+^FF3300[Fouet Yin-Yang]^000000 Un fouet imprégné du pouvoir du Yin et du Yang.
+Augmente les Dégâts physiques infligés aux monstres de type Démon de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts physiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts physiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Fouet Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Danseuse SLOT : 2
+^FF3300[Instrument Yin-Yang]^000000 Un instrument à cordes imprégné du pouvoir du Yin et du Yang.
+Augmente les Dégâts physiques infligés aux monstres de type Démon de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts physiques infligés aux monstres de type Démon de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts physiques infligés aux monstres de type Démon de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Feu de 10% supplémentaires.
+
+Catégorie : Instrument Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Barde SLOT : 2
+
+^FF3300[Nindō Yin-Yang]^000000 Une dague de ninja imprégnée du pouvoir du Yin et du Yang.
+ATQ.M + 70, augmente les Dégâts phys./mag. infligés aux monstres de type Démon de 5%, augmente les dégâts physiques/magiques infligés aux ennemis de type Feu de 5%.
+Lors du raffinement +7, augmente les Dégâts phys./mag. infligés aux monstres de type Démon de 5% supplémentaires, augmente les dégâts physiques/magiques infligés aux ennemis de type Feu de 5% supplémentaires.
+Lors du raffinement +9, augmente les Dégâts phys./mag. infligés aux monstres de type Démon de 10% supplémentaires, augmente les dégâts physiques/magiques infligés aux ennemis de type Feu de 10% supplémentaires.
+
+Catégorie : Dague Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe Ninja SLOT : 2
+^FFFFFF[Arme à feu Yin-Yang]^000000

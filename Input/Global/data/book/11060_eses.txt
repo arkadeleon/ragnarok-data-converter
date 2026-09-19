@@ -1,0 +1,279 @@
+^000088Objetos combinables con Cristales de energía^000000
+
+^008040[Sombrero de mago modificado]^000000
+Descripción: un sombrero codiciado por cualquier mago con talento. Aunque su aspecto resulta algo tosco, su ajuste
+transmite una sensación fresca y vivaz. Ha sido modificado para mejorar sus capacidades.
+INT +2, SP +150, MATK +1 por cada nivel de refinamiento, con refinamiento 7, INT +1 por cada nivel de refinamiento.
+Tipo: Tocado Defensa: 2 Posición: Superior Peso: 30
+Nivel necesario: 1 Equipable por: clases Mage/Soul Linker SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Sombrero de mago + 100 Cristales de energía sin refinar
+
+^008040[Sombrero de ilusionista modificado]^000000
+Descripción: un sombrero de ilusionista con el aspecto de que, si metieras la mano ahora mismo, saldría un conejo al instante.
+Es bastante resistente y no se rompe fácilmente. Ha sido modificado para mejorar sus capacidades.
+DEX +1, AGI +1, SP +50, SP +5 por cada nivel de refinamiento, con refinamiento 7, DEX + 1 por cada nivel de refinamiento.
+Tipo: Tocado Defensa: 6 Posición: Superior Peso: 50
+Nivel necesario: 50 Equipable por: clases Mage/clases Acolyte/Soul Linker SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Sombrero de ilusionista + 100 Cristales de energía sin refinar
+^008040[Máscara de zorro modificada]^000000
+Descripción: una máscara inspirada en otra que, según se dice, lleva cierta unidad de asesinos para ocultar su identidad.
+Al ponértela, sientes que te vuelves más ágil. Ha sido modificada para mejorar sus capacidades.
+AGI + 2, LUK + 2, con refinamiento 7, Esquiva perfecta + 4
+Tipo: Tocado Defensa: 2 Posición: Superior Peso: 30
+Nivel necesario: 1 Equipable por: todas las clases excepto Novice
+^FF0000[Materiales de combinación]^000000
+1 Máscara de zorro + 100 Cristales de energía sin refinar
+
+^008040[Sombrero de bufón modificado]^000000
+Descripción: un sombrero propio de un bufón que realiza acrobacias. Tiene un aspecto puntiagudo, colorido y bastante extravagante.
+Ha sido modificado para mejorar sus capacidades.
+LUK + 2, MDEF + 5, con refinamiento 7, daño crítico 5% aumentado.
+Tipo: Tocado Defensa: 3 Posición: Superior Peso: 10
+Nivel necesario: 1 Equipable por: todas las clases excepto Novice SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Sombrero de bufón + 100 Cristales de energía sin refinar
+
+
+^008040[Diadema de conejo modificada]^000000
+Descripción: una diadema adornada con orejas inspiradas en las de un conejo. Parece difícil mantener el equilibrio con ella,
+pero, sorprendentemente, resulta bastante práctica para moverse. Ha sido modificada para mejorar sus capacidades.
+LUK + 2, con refinamiento 7, CRI + 5
+Tipo: Tocado Defensa: 3 Posición: Superior Peso: 10
+Nivel necesario: 1 Equipable por: todas las clases SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Diadema de conejo + 100 Cristales de energía sin refinar
+
+^008040[Sombrero de Munak modificado]^000000
+Descripción: el sombrero que lleva el monstruo Munak. Es enorme, tiene adherido un talismán de origen desconocido
+y parece incluir también una larga trenza. Ha sido modificado para mejorar sus capacidades.
+Daño recibido de enemigos de tipo Muerto viviente 10% reducido, con refinamiento 7, daño infligido a enemigos de tipo Muerto viviente 10% aumentado.
+Tipo: Tocado Defensa: 5 Posición: Superior, media e inferior Peso: 30
+Nivel necesario: 1 Equipable por: todas las clases SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Sombrero de Munak[1] + 100 Cristales de energía sin refinar
+
+
+^008040[Sombrero de Bongun modificado]^000000
+Descripción: el sombrero que llevaba el monstruo Bongun, cuyo rasgo más característico es el talismán medio rasgado de la parte frontal.
+Es muy resistente y, al mismo tiempo, el talismán roto obstaculiza menos la visión.
+Ha sido modificado para mejorar sus capacidades.
+Daño recibido de enemigos de tipo Demonio 10% reducido, con refinamiento 7, daño infligido a enemigos de tipo Demonio 10% aumentado.
+Tipo: Tocado Defensa: 5 Posición: Superior, media e inferior Peso: 30
+Nivel necesario: 1 Equipable por: todas las clases SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Sombrero de Bongun[1] + 100 Cristales de energía sin refinar
+
+^008040[Máscara del fantasma de la ópera modificada]^000000
+Descripción: una máscara que, según se dice, llevó el desafortunado protagonista de cierta historia.
+Al contemplarla fijamente, parece que el dolor del protagonista se transmite hasta lo más profundo del cuerpo.
+ATK +5, MATK +5
+Tipo: Tocado Defensa: 2 Posición: Media Peso: 20
+Nivel necesario: 20 Equipable por: todas las clases
+^FF0000[Materiales de combinación]^000000
+1 Máscara del fantasma de la ópera + 100 Cristales de energía sin refinar
+
+^008040[Catalejo mejorado]^000000
+Descripción: unas gafas asombrosas que utilizan cristal comprimido para ver objetos lejanos como si estuvieran justo delante.
+DEX + 1, poder de ataque a distancia +1%.
+Tipo: Tocado Defensa: 2 Posición: Media Peso: 10
+Nivel necesario: 50 Equipable por: clases Archer
+^FF0000[Materiales de combinación]^000000
+1 Catalejo + 200 Cristales de energía refinados
+
+^008040[Yelmo branquial mejorado]^000000
+Descripción: un yelmo con forma de aleta de pez que, según se dice, protege a los Swordman. Aunque lo lleves puesto,
+no podrás respirar bajo el agua, así que ten cuidado.
+MHP +300, MHP adicional aumentado según BaseLv
+Tipo: Tocado Defensa: 5 Posición: Media Peso: 30
+Nivel necesario: 65 Equipable por: clases Swordman
+^FF0000[Materiales de combinación]^000000
+1 Yelmo branquial + 200 Cristales de energía refinados
+
+
+
+^008040[Máscara de Assassin mejorada]^000000
+Descripción: una máscara oscura que los asesinos llevan para ocultar el rostro.
+Al ponértela, parece que todas tus emociones desaparecen.
+CRI +1, daño crítico +1%
+Tipo: Tocado Defensa: 1 Posición: Inferior Peso: 10
+Nivel necesario: 70 Equipable por: clases Assassin y Priest
+^FF0000[Materiales de combinación]^000000
+1 Máscara de Assassin + 200 Cristales de energía refinados
+
+^008040[Máscara de soldadura mejorada]^000000
+Descripción: una máscara de acero. Se ha fabricado con un enfoque totalmente práctico, sin preocuparse en absoluto por la elegancia ni la dignidad.
+Protege el rostro de cualquier llama, frío o impacto.
+Resistencia a ataques de elemento Fuego 10% aumentada, DEX +5, LUK+ 5.
+Tipo: Tocado Defensa: 2 Posición: Media e inferior Peso: 30
+Nivel necesario: 50 Equipable por: clases Merchant
+^FF0000[Materiales de combinación]^000000
+1 Máscara de soldadura + 200 Cristales de energía refinados
+
+
+
+
+
+^008040[Anillo de seguridad]^000000
+Descripción: un anillo mágico que protege a quien lo lleva mediante una clase de poder sobrenatural y reduce enormemente el daño sufrido.
+DEF + 10 , MDEF + 5, Todos los atributos + 1.
+Tipo: Accesorio Defensa: 0 Peso: 10
+Nivel necesario: 50 Equipable por: todas las clases excepto Novice SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Anillo de seguridad, 1 Anillo[1], 1 Guante[1], 1 Pendiente[1], 1 Broche[1], 1 Collar[1], 1 Rosario[1],
+200 Cristales de energía refinados
+
+
+
+
+
+
+
+
+^008040[Gracia del ángel mejorada]^000000
+Descripción: la túnica del ángel encargado de los Super Novice. ¡Su ajuste, que envuelve suavemente todo el cuerpo, es insuperable!
+MDEF + 30. Al equiparla junto con la Protección del ángel mejorada, resistencia al elemento Neutral + 5%.
+Al equipar al mismo tiempo la Gracia del ángel mejorada, la Reencarnación del ángel mejorada, la Protección del ángel mejorada, la Calidez del ángel mejorada
+y el Beso del ángel mejorado, HP + 900, SP + 100,
+al recibir un ataque físico, baja probabilidad de lanzar sobre uno mismo Asumptio Nv. 1.
+Tipo: Armadura Defensa: 40 Peso: 60
+Nivel necesario: 99 Equipable por: clases Novice SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Gracia del ángel, 100 Cristales de energía refinados o 20 Cristales de energía de alta pureza
+
+^008040[Protección del ángel mejorada]^000000
+Descripción: el escudo del ángel encargado de los Super Novice. Alberga un poder sagrado capaz de expulsar el mal.
+Daño recibido de monstruos de tipo Demonio 5% reducido, daño recibido de todos los elementos excepto Neutral 5% reducido.
+Al equiparla junto con la Reencarnación del ángel mejorada, Todos los atributos +2.
+Tipo: Escudo Defensa: 30 Peso: 40
+Nivel necesario: 99 Equipable por: clases Novice SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Protección del ángel, 100 Cristales de energía refinados o 20 Cristales de energía de alta pureza
+^008040[Reencarnación del ángel mejorada]^000000
+Descripción: las sandalias del ángel encargado de los Super Novice. Al saltar con ellas puestas, parece que podrías llegar hasta el cielo.
+MHP + 500, MSP + 100.
+Al equiparlas junto con el Beso del ángel mejorado, MATK+ 20.
+Tipo: Calzado Defensa: 8 Peso: 30
+Nivel necesario: 99 Equipable por: clases Novice SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Reencarnación del ángel, 100 Cristales de energía refinados o 20 Cristales de energía de alta pureza
+
+^008040[Calidez del ángel mejorada]^000000
+Descripción: el cárdigan del ángel encargado de los Super Novice. Al llevarlo, el cuerpo se vuelve tan cálido
+que parece imposible resfriarse aunque duermas al raso.
+Recuperación natural de HP 50% aumentada.
+Al equiparla junto con la Gracia del ángel mejorada, AGI +5, Flee +10
+Tipo: Tocado Defensa: 6 Posición: Superior Peso: 40
+Nivel necesario: 99 Equipable por: clases Novice SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Calidez del ángel, 100 Cristales de energía refinados o 20 Cristales de energía de alta pureza
+
+
+
+
+^008040[Beso del ángel mejorado]^000000
+Descripción: un tocado bendecido con el beso del ángel encargado de los Super Novice.
+Tal vez besar este tocado cuente como un beso indirecto con un ángel…
+Recuperación natural de SP 30% aumentada.
+Al equiparlo junto con la Calidez del ángel mejorada, ATK + 10
+Tipo: Tocado Defensa: 6 Posición: Superior Peso: 30
+Nivel necesario: 99 Equipable por: clases Novice SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Beso del ángel, 100 Cristales de energía refinados o 20 Cristales de energía de alta pureza
+
+
+
+
+
+
+
+^008040[Corsario mejorado]^000000
+Descripción: un enorme sombrero usado por los capitanes pirata. Para realzar la autoridad del capitán,
+se fabricó con un tamaño descomunal, hasta parecer un barco pirata a la deriva. Sin embargo, está muy desgastado.
+Vit + 1 MHP + 5%, con refinamiento 7, resistencia al elemento Neutral 1%, con refinamiento 9, MHP + 3%
+Tipo: Tocado Defensa: 10 Posición: Superior Peso: 50
+Nivel necesario: 99 Equipable por: todas las clases excepto Novice SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Corsario, 300 Cristales de energía de alta pureza
+
+^008040[Yelmo de hueso mejorado]^000000
+Descripción: un yelmo extremadamente resistente fabricado con huesos. Es tan pesado que no cualquiera puede llevarlo, pero su defensa excepcional es magnífica.
+Daño recibido de ataques de elemento Oscuridad 15% aumentado, resistencia al elemento Neutral 2% aumentada,
+con refinamiento 7, resistencia al elemento Neutral 2% aumentada, con refinamiento 9, resistencia al elemento Neutral 2% aumentada
+Tipo: Tocado Defensa: 15 Posición: Superior Peso: 80
+Nivel necesario: 70 Equipable por: clases Swordman/clases Merchant SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Yelmo de hueso[1], 300 Cristales de energía de alta pureza
+
+
+^008040[Yelmo de ángel mejorado]^000000
+Descripción: un asombroso yelmo creado al añadir a un casco de gran defensa unas alas elaboradas con plumas de ángel.
+Se desconoce quién lo fabricó.
+AGI +1, LUK +1, MDEF +3, con refinamiento 7, AGI +2, LUK +2, con refinamiento 9, ASPD +1
+Tipo: Tocado Defensa: 10 Posición: Superior Peso: 160
+Nivel necesario: 99 Equipable por: 2.ª clase o superior/Taekwon Master/Soul Linker/Kagerou/Oboro SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Yelmo de ángel, 300 Cristales de energía de alta pureza
+
+^008040[Sombrero del dios del sol mejorado]^000000
+Descripción: un sombrero en el que destacan unas enormes alas doradas que simbolizan el sol.
+Mejor no preguntarse cómo es posible caminar después de ponérselo.
+STR +3, INT +2, ATK +10, MATK +10,
+con refinamiento 7, ATK +15, MATK +15, con refinamiento 9, ATK +15, MATK +15.
+Tipo: Tocado Defensa: 4 Posición: Superior y media Peso: 240
+Nivel necesario: 99 Equipable por: 2.ª clase o superior/Taekwon Master/Soul Linker/Kagerou/Oboro SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Sombrero del dios del sol, 1000 Cristales de energía de alta pureza o
+1 Sombrero del dios del sol[1], 100 Cristales de energía de alta pureza
+
+
+
+
+^008040[Zapatos Variant mejorados]^000000
+Descripción: unos zapatos que transmiten una innegable sensación de imperfección.
+Se aprecia la intención de su creador de desafiar la voluntad divina, pero esta versión mejorada corrige las deficiencias de aquellos zapatos mutantes.
+MHP/MSP 12% aumentados, DEF/MDEF adicionales aumentados según el nivel de refinamiento
+Tipo: Calzado Defensa: 13 Peso: 50
+Nivel necesario: 85 Equipable por: 2.ª clase o superior/Taekwon Master/Soul Linker/Kagerou/Oboro SLOT: 1
+^FF0000[Materiales de combinación]^000000
+1 Zapatos Variant, 300 Cristales de energía de alta pureza
+
+
+
+
+
+
+
+
+
+
+
+^008040[Anillo del Señor de las Llamas mejorado]^000000
+Descripción: un anillo imbuido con el poder del rey de los espíritus de fuego. Se dice que, al llevarlo, el poder espiritual que hierve en el cuerpo
+brota a través del arma de quien lo porta.
+Forma una pareja con el Anillo de resonancia mejorado.
+STR + 3, VIT + 2, ATK + 20, resistencia a ataques de elemento Fuego 10% aumentada
+Al realizar ataques físicos, cierta probabilidad de activar varios hechizos automáticos.
+Al equiparlo junto con el Anillo de resonancia mejorado, se añaden capacidades de hechizo automático.
+Tipo: Accesorio Defensa: 0 Peso: 10
+Nivel necesario: 85 Equipable por: 2.ª clase o superior/Taekwon Master/Soul Linker/Kagerou/Oboro
+^FF0000[Materiales de combinación]^000000
+1 Anillo del Señor de las Llamas, 300 Cristales de energía de alta pureza
+
+
+
+
+
+
+
+
+^008040[Anillo de resonancia mejorado]^000000
+Descripción: forma una pareja con el Anillo del Señor de las Llamas mejorado.
+Al llevar ambos anillos al mismo tiempo, resuenan entre sí y aumentan mutuamente sus capacidades.
+AGI + 3, VIT + 1, MDEF + 2, MATK + 10
+Al recibir un ataque físico, cierta probabilidad de activar varios hechizos automáticos.
+Tipo: Accesorio Defensa: 2 Peso: 10
+Nivel necesario: 85 Equipable por: 2.ª clase o superior/Taekwon Master/Soul Linker/Kagerou/Oboro
+^FF0000[Materiales de combinación]^000000
+1 Anillo de resonancia, 300 Cristales de energía de alta pureza

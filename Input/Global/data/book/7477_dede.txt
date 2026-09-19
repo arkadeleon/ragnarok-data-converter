@@ -1,0 +1,69 @@
+%faf0e6
+^000088Derjenige, der selbst in einem geschlossenen Raum kocht^000000
+
+"Es gibt immer nur ein Ergebnis! Das Gericht steckt in diesem Topf!!" Rezept der Stufe 6!
+Im Namen des alten Kochmeisters – sein ganz eigenes Geheimnis auf dem Weg zum Feinschmecker.
+
+^FF0000Leuchtende Novizen-Kapuze :^000000 Keine Sorge, sie leuchtet nicht so stark, dass man sie nicht essen könnte!
+Zutaten : ^4B0082Fleisch 1 Stück, Honig 1 Stück, Gelbes Kraut 1 Stück, Mastela-Frucht 1 Stück, Glänzende Schuppe 1 Stück^000000
+Zubereitung : Das Fleisch entbeinen und mit einem Fleischklopfer zart klopfen.
+Das Fleisch auf einen breiten Teller legen und großzügig mit Honig und Mastela-Fruchtsaft beträufeln.
+Damit die Marinade gut einzieht, das Fleisch mit der Hand leicht klopfen und mit Salz und Pfeffer würzen.
+Das gewürzte Fleisch mit Glänzende Schuppe umwickeln und etwa einen Tag ziehen lassen.
+Einen Rost oder eine Pfanne stark erhitzen, das marinierte Fleisch darauflegen, ausbreiten und grillen.
+Gelbes Kraut auf einem leicht vertieften, breiten Teller auslegen und das gegrillte Fleisch darauf anrichten.
+
+^0000FFRoter Pilz Wein :^000000 Keine Sorge, er wurde nicht an einem feuchten Ort gelagert, bis Pilze gewachsen sind!
+Zutaten : ^4B0082Essbarer Pilz 1 Stück, Traubensaft 1 Stück, Pilzspore 1 Stück, Alkohol 1 Stück, Rotes Gewürz 1 Stück^000000
+Zubereitung : Den Essbaren Pilz klein schneiden. Eine passende Menge Traubensaft in ein Gefäß geben,
+dann die geschnittenen Pilze und die Sporen schichtweise einstreuen und 1 bis 3 Tage ziehen lassen.
+Alkohol und etwas Rotes Gewürz hinzufügen, den Deckel luftdicht verschließen und an einem kühlen, dunklen Ort
+etwa 3 Monate ziehen und reifen lassen.
+Nach der Reifung die Stückchen herausnehmen, klar filtrieren und in eine Flasche füllen.
+
+^800000Pfirsichkuchen :^000000 Der Kniff ist der sanfte Pfirsichgeschmack!
+Zutaten : ^4B0082Sehr harter Pfirsich 1 Stück, Kuchenstück 1 Stück, Käse 1 Stück, Milch 1 Stück,
+Orangensaft 1 Stück, Süße Soße 1 Stück^000000
+Zubereitung : Vom Kuchenstück nur etwas Biskuit übrig lassen und den Rest kurzerhand wegessen.
+Den Pfirsich in dünne Halbmondscheiben schneiden.
+Süße Soße und etwas Käse in einen Topf geben und schmelzen lassen, dann die geschnittenen Pfirsiche hinzufügen
+und köcheln, bis sie weich sind. Anschließend bei Raumtemperatur abkühlen lassen.
+Eine Kuchenform mit Butter ausstreichen, mit Zucker bestreuen und bereithalten.
+Den restlichen Käse und das Kuchenstück klein schneiden und mixen, dann Eier
+und Milch hinzufügen und weiter mixen.
+Das abgekühlte Pfirsichkompott samt Sirup in die Form geben und den Teig darauflegen.
+(Dekoration nach Belieben.)
+Bei 160 Grad 50 Minuten backen, dann entfaltet sich der zarte Geschmack des Pfirsichkuchens.
+
+
+
+^008040Chili-Garnelen-Gratin :^000000
+Zutaten : ^4B0082Rote Chili 1 Stück, Garnele 1 Stück, Süße Soße 1 Stück, Zitrone 1 Stück^000000
+Zubereitung : Die Garnele schälen. Die Zitrone mit einem Entsafter auspressen und den Saft bereithalten.
+Das Chili fein mahlen.
+Das fein gemahlene Chili mit 5 EL Wasser in die Pfanne geben, die Garnele hinzufügen und anbraten,
+dann unter Zugabe von Süße Soße und Zitronensaft etwas weiterbraten.
+Eine Gratinform mit Butter ausstreichen, die angebratene Garnele hineingeben, Käse darauflegen
+und in einem auf 180 Grad vorgeheizten Ofen etwa 10 Minuten backen. Danach mit Zitronenscheiben servieren.
+
+
+^FF8040Extrem bitterer Trank :^000000 Medizin zum Apotheker, Behandlung zum Arzt...
+Zutaten : ^4B0082Braune Wurzel 1 Stück, Wurzel der Menschenfresserpflanze 1 Stück, Pilzspore 1 Stück, Essbarer Pilz 1 Stück, Honig 1 Stück^000000
+Zubereitung : Die Heilzutaten gut trocknen und mit einer Schere oder Ähnlichem in feine Streifen schneiden.
+In einen Kräuterkessel (oder eine Glaskanne) geben, 4–5 Tassen kaltes Wasser eingießen und 1–2 Stunden warten,
+bis die Zutaten aufgequollen sind. Dann bei sehr schwacher Hitze langsam auskochen und den Herd ausschalten, sobald das Wasser leise an den Zutaten blubbert.
+Durch ein feines Tuch abseihen, ohne auszupressen, und nur den klaren Sud trinken.
+Für einen zweiten Aufguss erneut Wasser zu den abgeseihten Zutaten geben und aufkochen.
+
+
+^400080Geoun-Tang :^000000 Riesenglück, rein aus Zufall. (Heiß)Geoun-Tang!
+Zutaten : ^4B0082Reptilienzunge 1 Stück, Lange dünne Zunge 1 Stück, Klee 1 Stück, Hexen-Sternensand 1 Stück, Aloe 1 Stück^000000
+Zubereitung : Reptilienzunge und Lange dünne Zunge blanchieren, in kaltem Wasser abspülen und in Streifen schneiden.
+Die Aloe schälen, in Streifen schneiden und vorbereiten.
+Hexen-Sternensand in einen breiten Topf geben und aufkochen, dann die geschnittenen Zungen hinzufügen.
+Sobald die Brühe kräftig kocht und alles einigermaßen gar ist, Klee hinzufügen und kurz weiterkochen.
+
+
+^FF3366Gemischtes Gericht Lv. 6 :^000000 Die Essenz der Lv.-6-Küche
+Zutaten : ^4B0082Leuchtende Novizen-Kapuze 1 Stück, Roter Pilz Wein 1 Stück, Pfirsichkuchen 1 Stück, Chili-Garnelen-Gratin 1 Stück, Extrem bitterer Trank 1 Stück, Geoun-Tang 1 Stück^000000
+Zubereitung : Alle Gerichte der Stufe 6 sammeln und als großes Menü sauber anrichten.

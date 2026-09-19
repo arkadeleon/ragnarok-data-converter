@@ -1,0 +1,24 @@
+%f5f5dc
+^000088Objets en vente à Manuk^000000
+
+Les objets suivants peuvent être achetés avec des pièces de Manuk.
+
+^008040[Ardeur de Manuk]^000000
+Un supplément fabriqué par le laboratoire de Manuk et officiellement recommandé aux ouvriers des mines.
+Augmente de 10% les dégâts physiques infligés aux monstres des zones extérieures de Manuk pendant 10 minutes.
+^000088(Guso, Nepenthes, Hillsrion, Centipede, Centipede_Larve, Hillsrion, Tatacho, Hardrock Mammoth)^000000
+Poids : ^7777775^000000
+
+
+^008040[Volonté de Manuk]^000000
+Un complément nutritionnel fabriqué par le laboratoire de Manuk et officiellement recommandé aux ouvriers des mines.
+Réduit de 10% les dégâts physiques et magiques reçus des monstres des zones extérieures de Manuk pendant 10 minutes.
+^000088(Guso, Nepenthes, Hillsrion, Centipede, Centipede_Larve, Hillsrion, Tatacho, Hardrock Mammoth)^000000
+Poids : ^7777775^000000
+
+
+^008040[Conviction de Manuk]^000000
+Un supplément fabriqué par le laboratoire de Manuk et officiellement recommandé aux ouvriers des mines.
+Augmente de 10% les dégâts magiques infligés aux monstres des zones extérieures de Manuk pendant 10 minutes.
+^000088(Guso, Nepenthes, Centipede, Centipede_Larve, Hillsrion, Tatacho, Hardrock Mammoth)^000000
+Poids : ^7777775^000000

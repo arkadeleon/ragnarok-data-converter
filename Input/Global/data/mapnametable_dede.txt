@@ -1,0 +1,850 @@
+alb2trea.rsw#Insel nahe dem Schiffswrack#
+alb_ship.rsw#Alberta - Schiffsinneres#
+alberta.rsw#Hafenstadt Alberta#
+alberta_in.rsw#Alberta - Innenbereich#
+alde_dun01.rsw#Uhrturm U1#
+alde_dun02.rsw#Uhrturm U2#
+alde_dun03.rsw#Uhrturm U3#
+alde_dun04.rsw#Uhrturm U4#
+alde_gld.rsw#Al De Baran - Satellitenstadt Luina#
+aldeba_in.rsw#Aldebaran - Innenbereich#
+aldebaran.rsw#Al De Baran, die Grenzstadt#
+an_d01_a.rsw#Ameisenhölle-Dungeon U1#
+an_d01_b.rsw#Ameisenhölle-Dungeon U1#
+an_d01_c.rsw##
+an_d01_d.rsw##
+an_d01_y.rsw##
+an_d01_z.rsw#Ameisenhölle-Dungeon U1#
+an_d02_a.rsw#Ameisenhölle-Dungeon U2#
+an_d02_b.rsw#Ameisenhölle-Dungeon U2#
+an_d02_c.rsw##
+an_d02_d.rsw##
+an_d02_y.rsw##
+an_d02_z.rsw#Ameisenhölle-Dungeon U2#
+anthell01.rsw#Morroc - Ameisenhölle U1#
+anthell02.rsw#Morroc - Ameisenhölle U2#
+b_an_d02.rsw#Ameisenhölle-Dungeon U2#
+b_an_d02_z.rsw#Ameisenhölle-Dungeon U2#
+b_bea_d01.rsw#Westhöhle Karu#
+b_bea_d01_z.rsw#Westhöhle Karu#
+b_gef_d01.rsw#Geffen-Untergrund-Dungeon U2#
+b_gef_d01_z.rsw#Geffen-Untergrund-Dungeon U2#
+b_gef_d02.rsw#Geffen-Untergrund-Dungeon U3#
+b_gef_d02_z.rsw#Geffen-Untergrund-Dungeon U3#
+b_gef_f03.rsw#Geffen-Feld#
+b_gef_f03_z.rsw#Geffen-Feld#
+b_gef_f10.rsw#Ork-Dorf#
+b_gef_f10_z.rsw#Ork-Dorf#
+b_gl_chy.rsw#Katakomben#
+b_gl_chy_z.rsw#Katakomben#
+b_maz_d03.rsw#Prontera-Labyrinthwald E3#
+b_maz_d03_z.rsw#Prontera-Labyrinthwald E3#
+b_moc_f17.rsw#Sograt-Wüste#
+b_moc_f17_z.rsw#Sograt-Wüste#
+b_pay_d04.rsw#Payon-Höhle U5 (Verlassenes Dorf)#
+b_pay_d04_z.rsw#Payon-Höhle U5 (Verlassenes Dorf)#
+b_pay_f10.rsw#Payon-Wald#
+b_pay_f10_z.rsw#Payon-Wald#
+b_prt_d04.rsw#Prontera-Abwasserkanal U4#
+b_prt_d04_z.rsw#Prontera-Abwasserkanal U4#
+b_pry_d04.rsw#Pyramide E4#
+b_pry_d04_z.rsw#Pyramide E4#
+b_pry_d06.rsw#Pyramide U2#
+b_pry_d06_z.rsw#Pyramide U2#
+b_sp_d05.rsw#Morroc - Sphinx U5#
+b_sp_d05_z.rsw#Morroc - Sphinx U5#
+b_tre_d02.rsw#Versunkenes Schiff U2#
+b_tre_d02_z.rsw#Versunkenes Schiff U2#
+bea_d01_a.rsw#Westhöhle Karu#
+bea_d01_b.rsw#Westhöhle Karu#
+bea_d01_z.rsw#Westhöhle Karu#
+bea_d02_a.rsw#Nördliche Höhle Luanda#
+bea_d02_b.rsw#Nördliche Höhle Luanda#
+bea_d02_z.rsw#Nördliche Höhle Luanda#
+bea_d03_a.rsw#Osthöhle: Mao#
+bea_d03_b.rsw#Osthöhle: Mao#
+bea_d03_c.rsw##
+bea_d03_d.rsw##
+bea_d03_y.rsw##
+bea_d03_z.rsw#Osthöhle: Mao#
+beach_dun.rsw#Comodo - Westhöhle: Karu#
+beach_dun2.rsw#Comodo - Nordhöhle: Luanda#
+beach_dun3.rsw#Comodo - Osthöhle: Mao#
+c_tower1.rsw#Uhrturm E1#
+c_tower2.rsw#Uhrturm E2#
+c_tower3.rsw#Uhrturm E3#
+c_tower4.rsw#Uhrturm E4#
+cmd_f01_a.rsw##
+cmd_f01_b.rsw##
+cmd_f01_c.rsw##
+cmd_f01_d.rsw##
+cmd_f01_y.rsw##
+cmd_f01_z.rsw##
+cmd_f02_a.rsw#Kokomo-Strand#
+cmd_f02_b.rsw#Kokomo-Strand#
+cmd_f02_c.rsw##
+cmd_f02_d.rsw##
+cmd_f02_y.rsw##
+cmd_f02_z.rsw#Kokomo-Strand#
+cmd_f03_a.rsw##
+cmd_f03_b.rsw##
+cmd_f03_c.rsw##
+cmd_f03_d.rsw##
+cmd_f03_y.rsw##
+cmd_f03_z.rsw##
+cmd_f04_a.rsw##
+cmd_f04_b.rsw##
+cmd_f04_c.rsw##
+cmd_f04_d.rsw##
+cmd_f04_y.rsw##
+cmd_f04_z.rsw##
+cmd_f06_a.rsw##
+cmd_f06_b.rsw##
+cmd_f06_c.rsw##
+cmd_f06_d.rsw##
+cmd_f06_y.rsw##
+cmd_f06_z.rsw##
+cmd_f07_a.rsw##
+cmd_f07_b.rsw##
+cmd_f07_c.rsw##
+cmd_f07_d.rsw##
+cmd_f07_y.rsw##
+cmd_f07_z.rsw##
+cmd_f08_a.rsw##
+cmd_f08_b.rsw##
+cmd_f08_c.rsw##
+cmd_f08_d.rsw##
+cmd_f08_y.rsw##
+cmd_f08_z.rsw##
+cmd_f09_a.rsw##
+cmd_f09_b.rsw##
+cmd_f09_c.rsw##
+cmd_f09_d.rsw##
+cmd_f09_y.rsw##
+cmd_f09_z.rsw##
+cmd_fild01.rsw#Comodo - Papuchicha-Wald#
+cmd_fild02.rsw#Comodo - Kokomo-Strand#
+cmd_fild03.rsw#Comodo - Zenhai-Sumpf#
+cmd_fild04.rsw#Comodo - Kokomo-Strand#
+cmd_fild06.rsw#Festungsstadt Sankt Darmain - Westbereich#
+cmd_fild07.rsw#Pharos-Leuchtturm-Insel#
+cmd_fild08.rsw#Festungsstadt Sankt Darmain - Ostbereich#
+cmd_fild09.rsw#Festungsstadt Sankt Darmain - Südbereich#
+cmd_in01.rsw#Comodo - Innenbereich#
+cmd_in02.rsw#Comodo - Innenbereich#
+comodo.rsw#Comodo, die Strandstadt#
+gef_d00_a.rsw#Geffen-Untergrund-Dungeon U1#
+gef_d00_b.rsw#Geffen-Untergrund-Dungeon U1#
+gef_d00_z.rsw#Geffen-Untergrund-Dungeon U1#
+gef_d01_a.rsw#Geffen-Untergrund-Dungeon U2#
+gef_d01_b.rsw#Geffen-Untergrund-Dungeon U2#
+gef_d01_z.rsw#Geffen-Untergrund-Dungeon U2#
+gef_d02_a.rsw#Geffen-Untergrund-Dungeon U3#
+gef_d02_b.rsw#Geffen-Untergrund-Dungeon U3#
+gef_d02_z.rsw#Geffen-Untergrund-Dungeon U3#
+gef_dun00.rsw#Geffen-Untergrund-Dungeon U1#
+gef_dun01.rsw#Geffen-Untergrund-Dungeon U2#
+gef_dun02.rsw#Geffen-Untergrund-Dungeon U3#
+gef_f00_a.rsw##
+gef_f00_b.rsw##
+gef_f00_c.rsw##
+gef_f00_d.rsw##
+gef_f00_y.rsw##
+gef_f00_z.rsw##
+gef_f01_a.rsw##
+gef_f01_b.rsw##
+gef_f01_c.rsw##
+gef_f01_d.rsw##
+gef_f01_y.rsw##
+gef_f01_z.rsw##
+gef_f02_a.rsw##
+gef_f02_b.rsw##
+gef_f02_c.rsw##
+gef_f02_d.rsw##
+gef_f02_y.rsw##
+gef_f02_z.rsw##
+gef_f03_a.rsw##
+gef_f03_b.rsw##
+gef_f03_c.rsw##
+gef_f03_d.rsw##
+gef_f03_y.rsw##
+gef_f03_z.rsw##
+gef_f04_a.rsw#Geffen-Feld#
+gef_f04_b.rsw#Geffen-Feld#
+gef_f04_c.rsw##
+gef_f04_d.rsw##
+gef_f04_y.rsw##
+gef_f04_z.rsw#Geffen-Feld#
+gef_f05_a.rsw#Zigeunerdorf#
+gef_f05_b.rsw#Zigeunerdorf#
+gef_f05_c.rsw##
+gef_f05_d.rsw##
+gef_f05_y.rsw##
+gef_f05_z.rsw#Zigeunerdorf#
+gef_f06_a.rsw##
+gef_f06_b.rsw##
+gef_f06_c.rsw##
+gef_f06_d.rsw##
+gef_f06_y.rsw##
+gef_f06_z.rsw##
+gef_f07_a.rsw##
+gef_f07_b.rsw##
+gef_f07_c.rsw##
+gef_f07_d.rsw##
+gef_f07_y.rsw##
+gef_f07_z.rsw##
+gef_f08_a.rsw##
+gef_f08_b.rsw##
+gef_f08_c.rsw##
+gef_f08_d.rsw##
+gef_f08_y.rsw##
+gef_f08_z.rsw##
+gef_f09_a.rsw##
+gef_f09_b.rsw##
+gef_f09_c.rsw##
+gef_f09_d.rsw##
+gef_f09_y.rsw##
+gef_f09_z.rsw##
+gef_f10_a.rsw#Ork-Dorf#
+gef_f10_b.rsw#Ork-Dorf#
+gef_f10_c.rsw##
+gef_f10_d.rsw##
+gef_f10_y.rsw##
+gef_f10_z.rsw#Ork-Dorf#
+gef_f11_a.rsw#Geffen-Feld#
+gef_f11_b.rsw#Geffen-Feld#
+gef_f11_c.rsw##
+gef_f11_d.rsw##
+gef_f11_y.rsw##
+gef_f11_z.rsw#Geffen-Feld#
+gef_f12_a.rsw#Sograt-Wüste#
+gef_f12_b.rsw#Sograt-Wüste#
+gef_f18_a.rsw#Sograt-Wüste#
+gef_f18_b.rsw#Sograt-Wüste#
+gef_fild00.rsw#Geffen-Feld#
+gef_fild01.rsw#Geffen-Feld#
+gef_fild02.rsw#Geffen-Feld#
+gef_fild03.rsw#Geffen-Feld#
+gef_fild04.rsw#Geffen-Feld#
+gef_fild05.rsw#Zigeunerdorf#
+gef_fild06.rsw#Geffen-Feld#
+gef_fild07.rsw#Geffen-Feld#
+gef_fild08.rsw#Geffen-Feld#
+gef_fild09.rsw#Geffen-Feld#
+gef_fild10.rsw#Ork-Dorf#
+gef_fild11.rsw#Geffen-Feld#
+gef_fild13.rsw#Britoniah#
+gef_tower.rsw#Geffen-Zentralturm#
+geffen.rsw#Geffen, die Stadt der Magie#
+geffen_in.rsw#Geffen - Innenbereich#
+gl_c01_a.rsw#Glast Heim - Schloss E1#
+gl_c01_b.rsw#Glast Heim - Schloss E1#
+gl_c01_z.rsw#Glast Heim - Schloss E1#
+gl_c02_a.rsw#Glast Heim - Schloss E2#
+gl_c02_b.rsw#Glast Heim - Schloss E2#
+gl_c02_z.rsw#Glast Heim - Schloss E2#
+gl_cas01.rsw#Glast Heim - Schloss E1#
+gl_cas02.rsw#Glast Heim - Schloss E2#
+gl_chu_a.rsw#Kloster#
+gl_chu_b.rsw#Kloster#
+gl_chu_z.rsw#Kloster#
+gl_church.rsw#Kloster#
+gl_chy_a.rsw#Katakomben#
+gl_chy_b.rsw#Katakomben#
+gl_chy_z.rsw#Katakomben#
+gl_chyard.rsw#Katakomben#
+gl_d02_a.rsw#Unterirdische Höhle U2#
+gl_d02_b.rsw#Unterirdische Höhle U2#
+gl_d02_z.rsw#Unterirdische Höhle U2#
+gl_dun01.rsw#Unterirdische Höhle U1#
+gl_dun02.rsw#Unterirdische Höhle U2#
+gl_in01.rsw#Glast Heim - Innenbereich#
+gl_k01_a.rsw#Ritterhalle E1#
+gl_k01_b.rsw#Ritterhalle E1#
+gl_k01_z.rsw#Ritterhalle E1#
+gl_knt01.rsw#Ritterhalle E1#
+gl_knt02.rsw#Ritterhalle E2#
+gl_pri_a.rsw#Unterirdisches Gefängnis U1#
+gl_pri_b.rsw#Unterirdisches Gefängnis U1#
+gl_pri_z.rsw#Unterirdisches Gefängnis U1#
+gl_prison.rsw#Unterirdisches Gefängnis U1#
+gl_prison1.rsw#Unterirdisches Gefängnis U2#
+gl_sew01.rsw#Abwasserkanal U1#
+gl_sew02.rsw#Abwasserkanal U2#
+gl_sew03.rsw#Abwasserkanal U3#
+gl_sew04.rsw#Abwasserkanal U4#
+gl_step.rsw#Treppen-Dungeon#
+glast_01.rsw#Glast Heim#
+gld_dun01.rsw#Greenwood-See-Dungeon E1#
+gld_dun01_2.rsw#Greenwood-See-Dungeon E2#
+gld_dun02.rsw#Luina-Dungeon E1#
+gld_dun02_2.rsw#Luina-Dungeon E2#
+gld_dun03.rsw#Valkyrie-Reich-Dungeon E1#
+gld_dun03_2.rsw#Valkyrie-Reich-Dungeon E2#
+gld_dun04.rsw#Britoniah-Dungeon E1#
+gld_dun04_2.rsw#Britoniah-Dungeon E2#
+in_orcs01.rsw#Ork-Dorf - Innenbereich#
+in_sphinx1.rsw#Morroc - Sphinx U1#
+in_sphinx2.rsw#Morroc - Sphinx U2#
+in_sphinx3.rsw#Morroc - Sphinx U3#
+in_sphinx4.rsw#Morroc - Sphinx U4#
+in_sphinx5.rsw#Morroc - Sphinx U5#
+itemmall.rsw#Item-Shop#
+iz_ac01.rsw#Akademie E1#
+iz_ac02.rsw#Akademie E2#
+iz_d00_a.rsw#Unterwasserhöhlen-Dungeon U1#
+iz_d00_b.rsw#Unterwasserhöhlen-Dungeon U1#
+iz_d00_c.rsw##
+iz_d00_d.rsw##
+iz_d00_y.rsw##
+iz_d00_z.rsw#Unterwasserhöhlen-Dungeon U1#
+iz_d01_a.rsw#Unterwasserhöhlen-Dungeon U2#
+iz_d01_b.rsw#Unterwasserhöhlen-Dungeon U2#
+iz_d01_c.rsw##
+iz_d01_d.rsw##
+iz_d01_y.rsw##
+iz_d01_z.rsw#Unterwasserhöhlen-Dungeon U2#
+iz_d02_a.rsw#Unterwasserhöhlen-Dungeon U3#
+iz_d02_b.rsw#Unterwasserhöhlen-Dungeon U3#
+iz_d02_c.rsw##
+iz_d02_d.rsw##
+iz_d02_y.rsw##
+iz_d02_z.rsw#Unterwasserhöhlen-Dungeon U3#
+iz_d03_a.rsw#Unterwasserhöhlen-Dungeon U4#
+iz_d03_b.rsw#Unterwasserhöhlen-Dungeon U4#
+iz_d03_z.rsw#Unterwasserhöhlen-Dungeon U4#
+iz_d04_a.rsw#Unterwasserhöhlen-Dungeon U5#
+iz_d04_b.rsw#Unterwasserhöhlen-Dungeon U5#
+iz_d04_z.rsw#Unterwasserhöhlen-Dungeon U5#
+iz_dun00.rsw#Izlude - Unterwasserhöhlen-Dungeon U1#
+iz_dun01.rsw#Izlude - Unterwasserhöhlen-Dungeon U2#
+iz_dun02.rsw#Izlude - Unterwasserhöhlen-Dungeon U3#
+iz_dun03.rsw#Izlude - Unterwasserhöhlen-Dungeon U4#
+iz_dun04.rsw#Izlude - Unterwasserhöhlen-Dungeon U5#
+izlu2dun.rsw#Byalan-Insel#
+izlude.rsw#Izlude, die Satellitenstadt#
+izlude_in.rsw#Izlude - Innenbereich#
+maz_d01_a.rsw#Labyrinthwald E1#
+maz_d01_b.rsw#Labyrinthwald E1#
+maz_d01_z.rsw#Labyrinthwald E1#
+maz_d03_a.rsw#Labyrinthwald E3#
+maz_d03_b.rsw#Labyrinthwald E3#
+maz_d03_z.rsw#Labyrinthwald E3#
+mjo_d01_a.rsw#Mjolnir - Verlassene Mine U1#
+mjo_d01_b.rsw#Mjolnir - Verlassene Mine U1#
+mjo_d01_z.rsw#Mjolnir - Verlassene Mine U1#
+mjo_d02_a.rsw#Mjolnir - Verlassene Mine U2#
+mjo_d02_b.rsw#Mjolnir - Verlassene Mine U2#
+mjo_d02_z.rsw#Mjolnir - Verlassene Mine U2#
+mjo_d03_a.rsw#Mjolnir - Verlassene Mine U3#
+mjo_d03_b.rsw#Mjolnir - Verlassene Mine U3#
+mjo_d03_z.rsw#Mjolnir - Verlassene Mine U3#
+mjo_dun01.rsw#Mjolnir - Verlassene Mine U1#
+mjo_dun02.rsw#Mjolnir - Verlassene Mine U2#
+mjo_dun03.rsw#Mjolnir - Verlassene Mine U3#
+mjo_f01_a.rsw##
+mjo_f01_b.rsw##
+mjo_f01_c.rsw##
+mjo_f01_d.rsw##
+mjo_f01_y.rsw##
+mjo_f01_z.rsw##
+mjo_f02_a.rsw##
+mjo_f02_b.rsw##
+mjo_f02_c.rsw##
+mjo_f02_d.rsw##
+mjo_f02_y.rsw##
+mjo_f02_z.rsw##
+mjo_f03_a.rsw##
+mjo_f03_b.rsw##
+mjo_f03_c.rsw##
+mjo_f03_d.rsw##
+mjo_f03_y.rsw##
+mjo_f03_z.rsw##
+mjo_f04_a.rsw##
+mjo_f04_b.rsw##
+mjo_f04_c.rsw##
+mjo_f04_d.rsw##
+mjo_f04_y.rsw##
+mjo_f04_z.rsw##
+mjo_f05_a.rsw##
+mjo_f05_b.rsw##
+mjo_f05_c.rsw##
+mjo_f05_d.rsw##
+mjo_f05_y.rsw##
+mjo_f05_z.rsw##
+mjo_f06_a.rsw##
+mjo_f06_b.rsw##
+mjo_f06_c.rsw##
+mjo_f06_d.rsw##
+mjo_f06_y.rsw##
+mjo_f06_z.rsw##
+mjo_f07_a.rsw##
+mjo_f07_b.rsw##
+mjo_f07_c.rsw##
+mjo_f07_d.rsw##
+mjo_f07_y.rsw##
+mjo_f07_z.rsw##
+mjo_f08_a.rsw##
+mjo_f08_b.rsw##
+mjo_f08_c.rsw##
+mjo_f08_d.rsw##
+mjo_f08_y.rsw##
+mjo_f08_z.rsw##
+mjo_f09_a.rsw##
+mjo_f09_b.rsw##
+mjo_f09_c.rsw##
+mjo_f09_d.rsw##
+mjo_f09_y.rsw##
+mjo_f09_z.rsw##
+mjo_f10_a.rsw##
+mjo_f10_b.rsw##
+mjo_f10_c.rsw##
+mjo_f10_d.rsw##
+mjo_f10_y.rsw##
+mjo_f10_z.rsw##
+mjo_f11_a.rsw##
+mjo_f11_b.rsw##
+mjo_f11_c.rsw##
+mjo_f11_d.rsw##
+mjo_f11_y.rsw##
+mjo_f11_z.rsw##
+mjo_f12_a.rsw##
+mjo_f12_b.rsw##
+mjo_f12_c.rsw##
+mjo_f12_d.rsw##
+mjo_f12_y.rsw##
+mjo_f12_z.rsw##
+mjolnir_01.rsw#Mt. Mjolnir - Nordgebiet#
+mjolnir_02.rsw#Mt. Mjolnir - Nordgebiet#
+mjolnir_03.rsw#Mt. Mjolnir - Nordgebiet#
+mjolnir_04.rsw#Mt. Mjolnir - Nordgebiet#
+mjolnir_05.rsw#Mt. Mjolnir - Nordgebiet#
+mjolnir_06.rsw#Mt. Mjolnir - Südgebiet#
+mjolnir_07.rsw#Mt. Mjolnir - Südgebiet#
+mjolnir_08.rsw#Mt. Mjolnir - Südgebiet#
+mjolnir_09.rsw#Mt. Mjolnir - Südhang#
+mjolnir_10.rsw#Mt. Mjolnir - Südgebiet#
+mjolnir_11.rsw#Mt. Mjolnir - Südgebiet#
+mjolnir_12.rsw#Mt. Mjolnir - Nordhang#
+moc_f01_a.rsw##
+moc_f01_b.rsw##
+moc_f01_c.rsw##
+moc_f01_d.rsw##
+moc_f01_y.rsw##
+moc_f01_z.rsw##
+moc_f02_a.rsw##
+moc_f02_b.rsw##
+moc_f02_c.rsw##
+moc_f02_d.rsw##
+moc_f02_y.rsw##
+moc_f02_z.rsw##
+moc_f03_a.rsw##
+moc_f03_b.rsw##
+moc_f03_c.rsw##
+moc_f03_d.rsw##
+moc_f03_y.rsw##
+moc_f03_z.rsw##
+moc_f07_a.rsw##
+moc_f07_b.rsw##
+moc_f07_c.rsw##
+moc_f07_d.rsw##
+moc_f07_y.rsw##
+moc_f07_z.rsw##
+moc_f11_a.rsw##
+moc_f11_b.rsw##
+moc_f11_c.rsw##
+moc_f11_d.rsw##
+moc_f11_y.rsw##
+moc_f11_z.rsw##
+moc_f12_a.rsw##
+moc_f12_b.rsw##
+moc_f12_c.rsw##
+moc_f12_d.rsw##
+moc_f12_y.rsw##
+moc_f12_z.rsw#Sograt-Wüste#
+moc_f13_a.rsw##
+moc_f13_b.rsw##
+moc_f13_c.rsw##
+moc_f13_d.rsw##
+moc_f13_y.rsw##
+moc_f13_z.rsw##
+moc_f16_a.rsw#Sograt-Wüste#
+moc_f16_b.rsw#Sograt-Wüste#
+moc_f16_c.rsw##
+moc_f16_d.rsw##
+moc_f16_y.rsw##
+moc_f16_z.rsw#Sograt-Wüste#
+moc_f17_a.rsw##
+moc_f17_b.rsw##
+moc_f17_c.rsw##
+moc_f17_d.rsw##
+moc_f17_y.rsw##
+moc_f17_z.rsw##
+moc_f18_a.rsw##
+moc_f18_b.rsw##
+moc_f18_c.rsw##
+moc_f18_d.rsw##
+moc_f18_y.rsw##
+moc_f18_z.rsw#Sograt-Wüste#
+moc_fild01.rsw#Sograt-Wüste#
+moc_fild02.rsw#Sograt-Wüste#
+moc_fild03.rsw#Sograt-Wüste#
+moc_fild07.rsw#Sograt-Wüste#
+moc_fild11.rsw#Sograt-Wüste#
+moc_fild12.rsw#Sograt-Wüste#
+moc_fild13.rsw#Sograt-Wüste#
+moc_fild16.rsw#Sograt-Wüste#
+moc_fild17.rsw#Sograt-Wüste#
+moc_fild18.rsw#Sograt-Wüste#
+moc_fild19.rsw#Sograt-Wüste#
+moc_pryd01.rsw#Morroc - Pyramide E1#
+moc_pryd02.rsw#Morroc - Pyramide E2#
+moc_pryd03.rsw#Morroc - Pyramide E3#
+moc_pryd04.rsw#Morroc - Pyramide E4#
+moc_pryd05.rsw#Morroc - Pyramide U1#
+moc_pryd06.rsw#Morroc - Pyramide U2#
+moc_prydb1.rsw#Diebesgilde#
+moc_ruins.rsw#Morroc - Ruinen#
+monk_in.rsw#Abtei St. Capitolina - Innenbereich#
+morocc.rsw#Morroc, die Wüstenstadt#
+morocc_in.rsw#Morroc - Innenbereich#
+orc_d01_a.rsw#Ork-Untergrundhöhle U1#
+orc_d01_b.rsw#Ork-Untergrundhöhle U1#
+orc_d01_z.rsw#Ork-Untergrundhöhle U1#
+orc_d02_a.rsw#Ork-Untergrundhöhle U2#
+orc_d02_b.rsw#Ork-Untergrundhöhle U2#
+orc_d02_z.rsw#Ork-Untergrundhöhle U2#
+orcsdun01.rsw#Geffen - Ork-Untergrundhöhle U1#
+orcsdun02.rsw#Geffen - Ork-Untergrundhöhle U2#
+pay_arche.rsw#Payon-Bogenschützendorf#
+pay_d00_a.rsw#Payon-Höhle U1#
+pay_d00_b.rsw#Payon-Höhle U1#
+pay_d00_c.rsw##
+pay_d00_d.rsw##
+pay_d00_y.rsw##
+pay_d00_z.rsw#Payon-Höhle U1#
+pay_d01_a.rsw#Payon-Höhle U2#
+pay_d01_b.rsw#Payon-Höhle U2#
+pay_d01_c.rsw##
+pay_d01_d.rsw##
+pay_d01_y.rsw##
+pay_d01_z.rsw#Payon-Höhle U2#
+pay_d02_a.rsw#Payon-Höhle U3#
+pay_d02_b.rsw#Payon-Höhle U3#
+pay_d02_c.rsw##
+pay_d02_d.rsw##
+pay_d02_y.rsw##
+pay_d02_z.rsw#Payon-Höhle U3#
+pay_d03_a.rsw#Payon-Höhle U4 (Verlassenes Dorf)#
+pay_d03_b.rsw#Payon-Höhle U4 (Verlassenes Dorf)#
+pay_d03_c.rsw##
+pay_d03_d.rsw##
+pay_d03_y.rsw##
+pay_d03_z.rsw#Payon-Höhle U4 (Verlassenes Dorf)#
+pay_d04_a.rsw#Payon-Höhle U5 (Verlassenes Dorf)#
+pay_d04_b.rsw#Payon-Höhle U5 (Verlassenes Dorf)#
+pay_d04_c.rsw##
+pay_d04_d.rsw##
+pay_d04_y.rsw##
+pay_d04_z.rsw#Payon-Höhle U5 (Verlassenes Dorf)#
+pay_dc01.rsw#Payon-Höhle U1#
+pay_dc02.rsw#Geheimer Ort#
+pay_dun00.rsw#Payon-Höhle U1#
+pay_dun01.rsw#Payon-Höhle U2#
+pay_dun02.rsw#Payon-Höhle U3#
+pay_dun03.rsw#Payon-Höhle U4 (Verlassenes Dorf)#
+pay_dun04.rsw#Payon-Höhle U5 (Verlassenes Dorf)#
+pay_f01_a.rsw#Payon-Wald#
+pay_f01_b.rsw#Payon-Wald#
+pay_f01_c.rsw##
+pay_f01_d.rsw##
+pay_f01_y.rsw##
+pay_f01_z.rsw#Payon-Wald#
+pay_f02_a.rsw##
+pay_f02_b.rsw##
+pay_f02_c.rsw##
+pay_f02_d.rsw##
+pay_f02_y.rsw##
+pay_f02_z.rsw##
+pay_f03_a.rsw#Payon-Wald#
+pay_f03_b.rsw#Payon-Wald#
+pay_f03_c.rsw##
+pay_f03_d.rsw##
+pay_f03_y.rsw##
+pay_f03_z.rsw#Payon-Wald#
+pay_f04_a.rsw#Sograt-Wüste#
+pay_f04_b.rsw#Sograt-Wüste#
+pay_f04_c.rsw##
+pay_f04_d.rsw##
+pay_f04_y.rsw##
+pay_f04_z.rsw#Sograt-Wüste#
+pay_f06_a.rsw##
+pay_f06_b.rsw##
+pay_f06_c.rsw##
+pay_f06_d.rsw##
+pay_f06_y.rsw##
+pay_f06_z.rsw##
+pay_f07_a.rsw##
+pay_f07_b.rsw##
+pay_f07_c.rsw##
+pay_f07_d.rsw##
+pay_f07_y.rsw##
+pay_f07_z.rsw##
+pay_f08_a.rsw#Payon-Wald#
+pay_f08_b.rsw#Payon-Wald#
+pay_f08_c.rsw##
+pay_f08_d.rsw##
+pay_f08_y.rsw##
+pay_f08_z.rsw#Payon-Wald#
+pay_f09_a.rsw##
+pay_f09_b.rsw##
+pay_f09_c.rsw##
+pay_f09_d.rsw##
+pay_f09_y.rsw##
+pay_f09_z.rsw##
+pay_f10_a.rsw##
+pay_f10_b.rsw##
+pay_f10_c.rsw##
+pay_f10_d.rsw##
+pay_f10_y.rsw##
+pay_f10_z.rsw##
+pay_fild01.rsw#Payon-Wald#
+pay_fild02.rsw#Payon-Wald#
+pay_fild03.rsw#Payon-Wald#
+pay_fild04.rsw#Sograt-Wüste#
+pay_fild06.rsw#Payon-Wald#
+pay_fild07.rsw#Payon-Wald#
+pay_fild08.rsw#Payon-Wald#
+pay_fild09.rsw#Payon-Wald#
+pay_fild10.rsw#Payon-Wald#
+pay_gld.rsw#Greenwood-See#
+pay_mk.rsw#Payon-Marktstraße#
+payon.rsw#Bergstadt Payon#
+payon_in01.rsw#Payon - Innenbereich#
+payon_in02.rsw#Payon - Innenbereich#
+payon_in03.rsw#Payon - Innenbereich#
+prontera.rsw#Rune-Midgarts Königreich - Hauptstadt Prontera#
+prt_ca01.rsw#Prontera-Schloss U1#
+prt_ca02.rsw#Prontera-Schloss U2#
+prt_cas.rsw#Zentralpalast von Prontera#
+prt_castle.rsw#Prontera-Schloss - Innenbereich#
+prt_church.rsw#Prontera-Kathedrale - Innenbereich#
+prt_d01_a.rsw#Prontera-Abwasserkanal U1#
+prt_d01_b.rsw#Prontera-Abwasserkanal U1#
+prt_d01_c.rsw##
+prt_d01_d.rsw##
+prt_d01_y.rsw##
+prt_d01_z.rsw#Prontera-Abwasserkanal U1#
+prt_d02_a.rsw#Prontera-Abwasserkanal U2#
+prt_d02_b.rsw#Prontera-Abwasserkanal U2#
+prt_d02_c.rsw##
+prt_d02_d.rsw##
+prt_d02_y.rsw##
+prt_d02_z.rsw#Prontera-Abwasserkanal U2#
+prt_d03_a.rsw#Prontera-Abwasserkanal U3#
+prt_d03_b.rsw#Prontera-Abwasserkanal U3#
+prt_d03_c.rsw##
+prt_d03_d.rsw##
+prt_d03_y.rsw##
+prt_d03_z.rsw#Prontera-Abwasserkanal U3#
+prt_d04_a.rsw#Prontera-Abwasserkanal U4#
+prt_d04_b.rsw#Prontera-Abwasserkanal U4#
+prt_d04_c.rsw##
+prt_d04_d.rsw##
+prt_d04_y.rsw##
+prt_d04_z.rsw#Prontera-Abwasserkanal U4#
+prt_f00_a.rsw##
+prt_f00_b.rsw##
+prt_f00_c.rsw##
+prt_f00_d.rsw##
+prt_f00_y.rsw##
+prt_f00_z.rsw##
+prt_f01_a.rsw##
+prt_f01_b.rsw##
+prt_f01_c.rsw##
+prt_f01_d.rsw##
+prt_f01_y.rsw##
+prt_f01_z.rsw##
+prt_f02_a.rsw#Prontera-Feld#
+prt_f02_b.rsw#Prontera-Feld#
+prt_f02_c.rsw##
+prt_f02_d.rsw##
+prt_f02_y.rsw##
+prt_f02_z.rsw#Prontera-Feld#
+prt_f03_a.rsw##
+prt_f03_b.rsw##
+prt_f03_c.rsw##
+prt_f03_d.rsw##
+prt_f03_y.rsw##
+prt_f03_z.rsw##
+prt_f04_a.rsw##
+prt_f04_b.rsw##
+prt_f04_c.rsw##
+prt_f04_d.rsw##
+prt_f04_y.rsw##
+prt_f04_z.rsw##
+prt_f05_a.rsw##
+prt_f05_b.rsw##
+prt_f05_c.rsw##
+prt_f05_d.rsw##
+prt_f05_y.rsw##
+prt_f05_z.rsw##
+prt_f06_a.rsw##
+prt_f06_b.rsw##
+prt_f06_c.rsw##
+prt_f06_d.rsw##
+prt_f06_y.rsw##
+prt_f06_z.rsw##
+prt_f07_a.rsw#Prontera-Feld#
+prt_f07_b.rsw#Prontera-Feld#
+prt_f07_c.rsw##
+prt_f07_d.rsw##
+prt_f07_y.rsw##
+prt_f07_z.rsw#Prontera-Feld#
+prt_f08_a.rsw#Prontera-Feld#
+prt_f08_b.rsw#Prontera-Feld#
+prt_f08_c.rsw##
+prt_f08_d.rsw##
+prt_f08_y.rsw##
+prt_f08_z.rsw#Prontera-Feld#
+prt_f09_a.rsw##
+prt_f09_b.rsw##
+prt_f09_c.rsw##
+prt_f09_d.rsw##
+prt_f09_y.rsw##
+prt_f09_z.rsw##
+prt_f10_a.rsw##
+prt_f10_b.rsw##
+prt_f10_c.rsw##
+prt_f10_d.rsw##
+prt_f10_y.rsw##
+prt_f10_z.rsw##
+prt_f11_a.rsw#Prontera-Feld#
+prt_f11_b.rsw#Prontera-Feld#
+prt_f11_c.rsw##
+prt_f11_d.rsw##
+prt_f11_y.rsw##
+prt_f11_z.rsw#Prontera-Feld#
+prt_fild00.rsw#Prontera-Feld#
+prt_fild01.rsw#Prontera-Feld#
+prt_fild02.rsw#Prontera-Feld#
+prt_fild03.rsw#Prontera-Feld#
+prt_fild04.rsw#Prontera-Feld#
+prt_fild05.rsw#Prontera-Feld#
+prt_fild06.rsw#Prontera-Feld#
+prt_fild07.rsw#Prontera-Feld#
+prt_fild08.rsw#Prontera-Feld#
+prt_fild09.rsw#Prontera-Feld#
+prt_fild10.rsw#Prontera-Feld#
+prt_fild11.rsw#Prontera-Feld#
+prt_gld.rsw#Valkyrien-Reich#
+prt_in.rsw#Prontera - Innenbereich#
+prt_maze01.rsw#Prontera-Labyrinthwald E1#
+prt_maze02.rsw#Prontera-Labyrinthwald E2#
+prt_maze03.rsw#Prontera-Labyrinthwald E3#
+prt_mk.rsw#Prontera-Marktstraße#
+prt_monk.rsw#Sankt Capitolina-Abtei#
+prt_pri00.rsw#Prontera-Gefängnis#
+prt_sewb1.rsw#Prontera-Abwasserkanal U1#
+prt_sewb2.rsw#Prontera-Abwasserkanal U2#
+prt_sewb3.rsw#Prontera-Abwasserkanal U3#
+prt_sewb4.rsw#Prontera-Abwasserkanal U4#
+pry_d01_a.rsw#Pyramide E1#
+pry_d01_b.rsw#Pyramide E1#
+pry_d01_z.rsw#Pyramide E1#
+pry_d02_a.rsw#Pyramide E2#
+pry_d02_b.rsw#Pyramide E2#
+pry_d02_z.rsw#Pyramide E2#
+pry_d03_a.rsw#Pyramide E3#
+pry_d03_b.rsw#Pyramide E3#
+pry_d03_z.rsw#Pyramide E3#
+pry_d04_a.rsw#Pyramide E4#
+pry_d04_b.rsw#Pyramide E4#
+pry_d04_z.rsw#Pyramide E4#
+pry_d05_a.rsw#Pyramide U1#
+pry_d05_b.rsw#Pyramide U1#
+pry_d05_z.rsw#Pyramide U1#
+pry_d06_a.rsw#Pyramide U2#
+pry_d06_b.rsw#Pyramide U2#
+pry_d06_z.rsw#Pyramide U2#
+sec_in01.rsw#Valhalla-Palast - Innenbereich#
+sec_in02.rsw#Valhalla-Palast - Innenbereich#
+sec_pri.rsw#Valhalla-Palast - Raum der Reue (Gefängnis)#
+sp_d01_a.rsw#Sphinx U1#
+sp_d01_b.rsw#Sphinx U1#
+sp_d01_z.rsw#Sphinx U1#
+sp_d02_a.rsw#Sphinx U2#
+sp_d02_b.rsw#Sphinx U2#
+sp_d02_z.rsw#Sphinx U2#
+sp_d03_a.rsw#Sphinx U3#
+sp_d03_b.rsw#Sphinx U3#
+sp_d03_z.rsw#Sphinx U3#
+sp_d04_a.rsw#Sphinx U4#
+sp_d04_b.rsw#Sphinx U4#
+sp_d04_z.rsw#Sphinx U4#
+sp_d05_a.rsw#Sphinx U5#
+sp_d05_b.rsw#Sphinx U5#
+sp_d05_z.rsw#Sphinx U5#
+tra_fild.rsw#Prontera-Trainingsgelände#
+tre_d01_a.rsw#Versunkenes Schiff U1#
+tre_d01_b.rsw#Versunkenes Schiff U1#
+tre_d01_c.rsw##
+tre_d01_d.rsw##
+tre_d01_y.rsw##
+tre_d01_z.rsw#Versunkenes Schiff U1#
+tre_d02_a.rsw#Versunkenes Schiff U2#
+tre_d02_b.rsw#Versunkenes Schiff U2#
+tre_d02_c.rsw##
+tre_d02_d.rsw##
+tre_d02_y.rsw##
+tre_d02_z.rsw#Versunkenes Schiff U2#
+treasure01.rsw#Alberta - Versunkenes Schiff E1#
+treasure02.rsw#Alberta - Versunkenes Schiff E2#
+treasure_n1.rsw#Izlude-Schiffswrack U1#
+treasure_n2.rsw#Izlude-Schiffswrack U2#
+um_dun01.rsw#Umbala - Schreinerei im Baum#
+um_dun02.rsw#Umbala - Anderswelt-Pfad im Baum#
+um_f01_a.rsw##
+um_f01_b.rsw##
+um_f01_c.rsw##
+um_f01_d.rsw##
+um_f01_y.rsw##
+um_f01_z.rsw##
+um_f02_a.rsw##
+um_f02_b.rsw##
+um_f02_c.rsw##
+um_f02_d.rsw##
+um_f02_y.rsw##
+um_f02_z.rsw##
+um_f03_a.rsw##
+um_f03_b.rsw##
+um_f03_c.rsw##
+um_f03_d.rsw##
+um_f03_y.rsw##
+um_f03_z.rsw##
+um_f04_a.rsw##
+um_f04_b.rsw##
+um_f04_c.rsw##
+um_f04_d.rsw##
+um_f04_y.rsw##
+um_f04_z.rsw##
+um_fild01.rsw#Umbala - Luluka-Wald#
+um_fild02.rsw#Umbala - Hoomga-Wald#
+um_fild03.rsw#Umbala - Kalala-Sumpf#
+um_fild04.rsw#Umbala - Hoomga-Dschungel#
+um_in.rsw#Umbala - Innenbereich#
+umbala.rsw#Umbala - Dorf des Utan-Stamms#
+xma_d01_a.rsw#Spielzeugfabrik-Lager#
+xma_d01_b.rsw#Spielzeugfabrik-Lager#
+xma_d01_z.rsw#Spielzeugfabrik-Lager#
+xma_d02_a.rsw#Spielzeugfabrik-Sortierzentrum#
+xma_d02_b.rsw#Spielzeugfabrik-Sortierzentrum#
+xma_d02_z.rsw#Spielzeugfabrik-Sortierzentrum#
+xma_f01_a.rsw#Lutie-Feld#
+xma_f01_b.rsw#Lutie-Feld#
+xma_f01_z.rsw#Lutie-Feld#
+xmas.rsw#Lutie, das Schneedorf#
+xmas_dun01.rsw#Lutie - Spielzeugfabrik-Lager#
+xmas_dun02.rsw#Lutie - Spielzeugfabrik-Sortierzentrum#
+xmas_fild01.rsw#Lutie-Feld#
+xmas_in.rsw#Lutie - Innenbereich#

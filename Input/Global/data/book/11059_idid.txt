@@ -1,0 +1,134 @@
+^4D4DFF Daftar Item Rental TE ^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Item Rental TE tidak dapat diperdagangkan ke akun lain.
+Semua Item Rental TE akan dihapus dari inventory setelah masa sewa berakhir.
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+[TE WOE Katar]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Bleeding.
+Class :  Katar  ATK :  120
+Berat :  0  Weapon Level :  3  Level Requirement :  40  Job :  Assassin Class
+
+[TE WOE Axe]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Freezing.
+Class :  One-handed Axw  ATK :  100
+Berat :  0  Weapon Level :  3  Level Requirement :  40  Job : Novice/Swordsman Class/Merchant Class/Thief Class
+
+[TE WOE Two Hand Axe]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Stunning.
+Class :  Two-handed Axe  ATK :  150
+Berat :  0  Weapon Level :  3  Level Requirement :  40  Job :  Swordsman Class/Merchant Class
+
+[TE WOE Pike]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Cursing.
+Class :  One-handed Spear  ATK :  100
+Berat :  0  Weapon Level :  3  Level Requirement :  40  Job :  Swordsman Class
+
+[TE WOE Lance]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Blinding.
+Class :  Two-handed Spear  ATK :  150
+Berat :  0  Weapon Level :  3  Level Requirement :  40  Job :  Swordsman Class
+
+
+[TE WOE Book]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Meningkatkan Magic Attack Power +5% terhadap karakter pemain.
+Serangan fisik memiliki peluang tinggi menyebabkan Blinding.
+Jumlah Heal +5%.
+Class :  Book  ATK :  120
+Berat :  0  Weapon Level :  3  Level Requirement :  40 Job :  Priest Class/Sage Class/Taekwon Master
+
+[TE WOE Staff]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Magic Attack Power +10% terhadap karakter pemain. Serangan magic memiliki peluang tinggi menyebabkan Blinding.
+Jumlah Heal +5%.
+Class :  One-handed Staff  ATK :  50  Berat :  0
+Weapon Level :  3  Level Requirement :  40 Job :  Novice Class/Mage Class/Acolyte Class/Soul Linker
+
+[TE WOE Fist]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Freezing.
+Class: Knuckle ATK : 150 Berat : 0 Weapon Level: 3  Level Requirement: 40 Job : Priest Class/Monk Class
+
+[TE WOE Guitar]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Poisoning.
+Class :  Musical Instrument  ATK :  100
+Berat :  0  Weapon Level :  3  Level Requirement :  40  Job :  Bard
+
+[TE WOE Rope]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Blinding.
+Class :  Whip  ATK :  100
+Berat :  0  Weapon Level :  3  Level Requirement :  40  Job :  Dancer
+
+[TE WOE Knife]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Silencing.
+Class :  Dagger  ATK :  100 MATK + 100.
+Berat :  0  Weapon Level :  3  Level Requirement :  40
+Job :  Novice /Swordman Class/Mage Class/Archer Class/Merchant Class/Thief Class/Soul Linker/Ninja
+
+[TE Two Hand Staff]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Magic Attack Power 20% terhadap karakter pemain. Serangan magic memiliki peluang tinggi menyebabkan Stunning.
+Jumlah Heal +5%.
+Class :  Two-handed Staff  ATK :  50  MATK + 130
+Berat :  0  Weapon Level :  3  Level Requirement :  40
+Job :  Novice Class/Mage Class/Acolyte Class/Soul Linker
+
+[TE WOE Pistol]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Cursing.
+Class :  Gun  ATK :  60
+Berat :  0  Weapon Level :  3  Level Requirement :  40  Job :  Gunslinger
+
+[TE WOE Rifle]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Silencing.
+Class :  Rifle  ATK :  80
+Berat :  0  Weapon Level :  3 Level Requirement :  40 Job :  Gunslinger
+
+[TE WOE Gatling Gun]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Stunning.
+Class :  Gatling Gun  ATK :  100
+Berat :  0  Weapon Level :  3  Level Requirement :  40  Job :  Gunslinger
+
+[TE WOE ShotGun]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Poisoning.
+Class :  ShotGun  ATK :  100
+Berat :  0  Weapon Level :  3 Level Requirement :  40 Job :  Gunslinger
+
+[TE WOE Grenade Launcher]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Blinding.
+Class :  Grenadelauncher  ATK :  100
+Berat :  0 Weapon Level :  3 Level Requirement :  40 Job :  Gunslinger
+
+[TE WOE Huuma Shuriken]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Bleeding.
+Class :  Huuma Shuriken  ATK :  80  MATK + 100.
+Berat :  0 Weapon Level :  3 Level Requirement :  40 Job :  Ninja
+
+[TE WOE Sword]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Poisoning.
+Class :  Sword  ATK :  120 MATK + 100.
+Berat :  0 Weapon Level :  3 Level Requirement :  40 Job :  Novice /Swordman Class/Merchant Class/Thief Class
+
+[TE WOE Mace]
+※ Opsi tambahan untuk lokasi TE WOE
+Meningkatkan Physical Attack Power +40% terhadap karakter pemain. Serangan fisik memiliki peluang tinggi menyebabkan Freezing.
+Jumlah Heal +5%.
+Class :  Blunt  ATK :  120
+Berat :  0  Weapon Level :  3 Level Requirement :  40
+Job :  Novice /Swordman Class/Acolyte Class/Merchant Class

@@ -1,0 +1,144 @@
+^FF0000---- Agni: Ateş Ruhu Bölümü ----^000000
+
+Çağrılan Ateş Ruhları, "Element Kontrolü" komutuyla ruhun boyutuna göre farklı eylemler gerçekleştirerek çağırıcıların emirlerine yanıt verir.
+
+
+
+
+^FA8072[Bana yardım et]^000000i - Piroteknik: Ateş Duvarı ve Ateş Oku hasarını artırır.
+
+
+ii - Isıtıcı: Ateş Yürüyüşü hasarını artırır. Warmer becerisi kullanıldığında iyileştirme etkisi biraz artar.
+Psişik Dalga hasarı biraz artar.
+Psişik Dalga'nın hasar özelliği Ateş Özelliği'ne dönüşür.
+
+
+iii - Tropik: Çağırıcı saldırdığında, Auto Spell: Ateş Oku tetiklenir. Flame Launcher veya Volkan kullanıldığında 1/2 olasılıkla Kırmızı Kan veya Sarı Gemstone harcanmaz.
+
+^0000FF[Beni koru]^000000
+
+i - Ateş Çemberi: Çağırıcının çevresinde alev bariyeri oluşturur. Düşman çağırıcıya saldırdığında, belirli olasılıkla hasar vererek düşmanı çağırıcıdan geri iter.
+
+ii - Ateş Saati: Ateş Özelliği direnci büyük ölçüde artar, Su Özelliği direnci büyük ölçüde azalır.
+
+iii - Ateş Mantosu: Çağırıcının çevresine güçlü bir Ateş Duvarı kurar.
+
+
+
+
+
+^FF0000[Bana karşı gelenleri yen]^000000i - Ateş Oku: Ateş Ok'u 1 hedefe fırlatarak Ateş Özelliği hasarı verir.
+
+ii - Ateş Bombası: Ateş bombasıyla saldırı hedefi 1 kişi ve çevresine Ateş Özelliği hasarı verir.
+
+Veya saldırı hedefi 1 kişiye Ateş Büyü Hasarı verir.
+iii - Ateş Dalgası: Büyük bir alev dalgası oluşturup saldırı hedefi 1 kişi ve çevresine Ateş Özelliği fiziksel hasar verir.
+
+Veya saldırı hedefi 1 kişiye yüksek Ateş Büyü Hasarı verir.^0000FF---- Aqua: Su Ruhu Bölümü ----^000000
+
+
+
+
+Çağrılan Su Ruhları, "Element Kontrolü" komutuyla ruhun boyutuna göre farklı eylemler gerçekleştirerek çağırıcıların emirlerine yanıt verir.
+^FA8072[Bana yardım et]^000000
+
+
+i - Aquaplay: Soğuk Yıldırım ve Ayaz Dalgıcı hasarını artırır.ii - Soğutucu: Elmas Tozu'nun dondurma başarı şansı biraz artar.
+Elmas Tozu hasarı biraz artar.
+
+Psişik Dalga hasarı biraz artar. Psişik Dalga'nın hasar özelliği Su Özelliği'ne dönüşür.
+
+iii - Soğuk Hava: Çağırıcı saldırdığında, Auto Spell: Soğuk Yıldırım tetiklenir.
+Buz Silahı veya Tufan kullanıldığında 1/2 olasılıkla Kristal Mavisi veya Sarı Gemstone harcanmaz.
+
+^0000FF[Beni koru]^000000
+i - Su Ekranı: Çağırıcının HP'sini belirli bir miktarda sürekli yeniler.
+Süre boyunca çağırıcının aldığı hasarı Aqua onun yerine alır.
+
+ii - Su Damlası: Su Özelliği direnci büyük ölçüde artar, Ateş Özelliği direnci büyük ölçüde azalır.
+
+iii - Su Bariyeri: Çağırıcının çevresinde su savunma duvarı oluşturur.
+
+Bu su savunma duvarı fiziksel ve büyü hasarını belirli bir miktarda azaltır. Ancak savunma duvarının içindeyken FLEE Oranı ve saldırı gücü azalır.
+
+^FF0000[Bana karşı gelenleri yen]^000000
+i - Buz İğnesi: Keskin buz iğneleri oluşturarak 1 hedefe Su Büyü Hasarı verir.
+
+
+ii - Su Burgusu: Su dalgası fırlatıp saldırı hedefi 1 kişiye Su Büyü Hasarı verir. Veya saldırı hedefi 1 kişi ve çevresine Su Büyü Hasarı verir.
+
+
+iii - Gelgit Silahı: Kısa bir süre boyunca çağırıcı ve ruhun silahlarını Su Özelliği'ne dönüştürür, ruhun kendi saldırı gücünü artırır.
+Veya saldırı hedefi 1 kişiye yüksek Su Özelliği hasarı verir.
+
+^000088---- Ventus: Rüzgar Ruhu Bölümü ----^000000
+
+Çağrılan Rüzgar Ruhları, "Element Kontrolü" komutuyla ruhun boyutuna göre farklı eylemler gerçekleştirerek çağırıcıların emirlerine yanıt verir.
+
+
+
+^FA8072[Bana yardım et]^000000i - Ani Rüzgâr: Yıldırım Oku ve Gök Gürültülü Fırtına hasarını artırır.
+
+
+
+ii - Blast: Elektrik Yürüyüşü hasarını artırır. Varetyr Mızrağı hasarını artırır. Psişik Dalga hasarını artırır.
+Psişik Dalga'nın hasar özelliği Rüzgar Özelliği'ne dönüşür.
+
+iii - Vahşi Fırtına: Çağırıcı saldırdığında, Auto Spell: Yıldırım Oku tetiklenir.
+Şimşek Silahı veya Şiddetli Kasırga kullanıldığında 1/2 olasılıkla Bahar Rüzgârı veya Sarı Gemstone harcanmaz.
+
+^0000FF[Beni koru]^000000
+
+i - Rüzgâr Adımı: Devreye girdiği anda çağırıcıyı anında ışınlar. Ayrıca belirli bir süre boyunca çağırıcının hareket hızını ve FLEE Oranı'nı artırır.
+
+ii - Rüzgâr Perdesi: Rüzgar Özelliği direnci büyük ölçüde artar, Toprak direnci büyük ölçüde azalır.
+
+iii - Tanyeli: Çağırıcı çevresinde rüzgâr bariyeri oluşturur. Bu bariyer içindeyken FLEE Oranı artar,
+menzilli saldırılardan hasar alınmaz. Ayrıca belirli bir olasılıkla fiziksel/büyü hasarı
+geçersiz kılınır.
+
+^FF0000[Bana karşı gelenleri yen]^000000
+
+i - Rüzgâr Darbesi: Menzilli saldırı hedefi 1 kişiye rüzgâr bıçağı fırlatarak Rüzgar Özelliği hasarıyla birlikte Kanama Durum Etkisi uygular.
+
+ii - Hurricane Rage: Menzilli saldırı hedefi 1 kişiye Rüzgâr Büyü Hasarı verir.
+
+Veya saldırı hedefi 1 kişi ve çevresine Rüzgar Özelliği fiziksel hasar verir.
+iii - Tayfun Füzesi: Menzilli saldırı hedefi 1 kişiye Rüzgar Özelliği hasarı verir.
+Veya Rüzgâr Büyü Hasarı ile birlikte Sessizlik Durum Etkisi uygular.
+
+^008040---- Tera: Toprak Ruhu Bölümü ----^000000
+
+
+Çağrılan Toprak Ruhları, "Element Kontrolü" komutuyla ruhun boyutuna göre farklı eylemler gerçekleştirerek çağırıcıların emirlerine yanıt verir.
+
+^FA8072[Bana yardım et]^000000
+
+
+i - Jeoloji: Stone Curse olasılığı biraz artar. Toprak Diken ve Heaven's Drive hasarı artar.
+ii - Lanetli Toprak: Öldürücü Bulut'un nihai hasarı artar.
+
+
+Zehir Patlaması hasarı artar. Toprak Mezar hasarı artar. Psişik Dalga hasarı artar.
+Psişik Dalga'nın hasar özelliği Toprak'a dönüşür.
+
+
+iii - Upheaval: Çağırıcı saldırdığında, Auto Spell: Toprak Diken tetiklenir. Sismik Silah kullanıldığında 1/2 olasılıkla Yeşil Canavar Sineği harcanmaz.
+^0000FF[Beni koru]^000000
+i - Dayanıklı Deri: Çağırıcının savunması ve Maks. HP'si büyük ölçüde artar.
+
+ii - Taş Kalkan: Toprak direnci büyük ölçüde artar, Ateş Özelliği direnci büyük ölçüde azalır.
+
+iii - Gaia'nın Gücü: Çağırıcının çevresinde toprağın bariyerini oluşturur.
+Bu alan içinde Kanama ve Taşlaşma etkilenmez.
+Belirli bir süre boyunca Maks. HP ve savunma artar.
+Ancak hareket hızı büyük ölçüde azalır.
+
+^FF0000[Bana karşı gelenleri yen]^000000
+
+i - Taş Çekiç: Saldırı hedefi 1 kişiye Toprak hasarıyla birlikte Sersemletme Durum Etkisi uygular.
+ii - Kaya Kırıcı: Saldırı hedefi 1 kişiye Toprak hasarıyla birlikte savunmasını belirli oranda düşürür.
+Veya saldırı hedefi 1 kişiye Toprak Büyü Hasarı ile birlikte hareket hızını belirli oranda düşürür.
+
+
+iii - Taş Yağmuru: Saldırı hedefi 1 kişi ve çevresine sayısız taş düşürerek Toprak hasarı verir. Veya saldırı hedefi 1 kişiye Toprak hasarı verip Sersemletme Durum Etkisi uygular.

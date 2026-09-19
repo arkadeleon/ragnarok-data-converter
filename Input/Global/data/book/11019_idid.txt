@@ -1,0 +1,27 @@
+%f5f5dc
+^000088Item Toko Manuk^000000
+
+Item berikut dapat dibeli menggunakan Manuk Coin.
+
+^008040[Manuk's Opportunity]^000000
+Suplemen yang dibuat oleh Manuk Research Center. Secara resmi direkomendasikan untuk para pekerja tambang.
+Damage Serangan Fisik yang diberikan kepada monster di area Manuk meningkat 10% selama 10 menit.
+^000088(Nepenthes, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+
+Berat : ^7777775^000000
+
+
+^008040[Manuk's Courage]^000000
+Suplemen yang dibuat oleh Manuk Research Center. Secara resmi direkomendasikan untuk para pekerja tambang.
+Damage Fisik & Sihir dari monster di area Manuk berkurang 10% selama 10 menit.
+^000088(Nepenthes, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+
+Berat : ^7777775^000000
+
+
+^008040[Manuk's Faith]^000000
+Suplemen yang dibuat oleh Manuk Research Center. Secara resmi direkomendasikan untuk para pekerja tambang.
+Damage Serangan Sihir yang diberikan kepada monster di area Manuk meningkat 10% selama 10 menit.
+^000088(Nepenthes, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+
+Berat : ^7777775^000000

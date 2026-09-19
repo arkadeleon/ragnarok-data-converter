@@ -1,0 +1,48 @@
+1. Effect Creation Tool
+   This tool determines how the footprint effect will appear in-game. You can fine-tune not only the appearance of the image, but also its size, placement when loaded, and animation style. If the desired image is saved as a PNG in the path shown at the bottom of the pop-up, it can be loaded with this tool.
+ 
+2. Full Body
+   This image is used for the afterimage effect that remains around the character's body along the path traveled while moving.
+   The image must be in PNG format, 128x128 px, and no larger than 64 KB.
+   Only images in the footprint folder whose file names consist solely of English letters and numbers will be detected.
+ 
+3. Ground
+   This image is used for the afterimage effect that remains on the ground along the path traveled while moving.
+   The image must be in PNG format, 128x128 px, and no larger than 64 KB.
+   Only images in the footprint folder whose file names consist solely of English letters and numbers will be detected.
+ 
+※ For a safe user environment, Full Body and Ground effect images are reprocessed at the pixel level when saved. Even after processing, they will be displayed as close to the original images as possible.
+ 
+4. Animation Type
+   Determines the animation type used when the effect appears and disappears. Scattering particle effects are also available.
+ 
+5. Ground Stamp
+   Determines whether the effect's orientation follows the character's movement direction or always faces the screen regardless of the character's direction.
+ 
+6. Ground Size
+   Determines the size of the effect attached to the ground.
+   The higher the value, the larger the effect becomes.
+ 
+7. Full Body Size
+   Determines the size of the effect attached to the character's body.
+   The higher the value, the larger the effect becomes.
+ 
+8. Full Body Height
+   Determines the height of the effect attached to the character's body.
+   The higher the value, the higher the effect is positioned.
+ 
+9. Foot Spacing
+   Determines the distance between the left and right feet.
+   The higher the value, the wider the spacing between the feet.
+ 
+10. Appearance Frequency
+    Determines how frequently the effect appears.
+    The lower the value, the more frequently the effect appears within a short period of time.
+ 
+11. Background Map
+    Change the background to check how the effect appears in each environment.
+ 
+12. Play and Stop Buttons
+    Press Play to preview the created effect on the corresponding in-game screen.
+    However, it will not work if either the Full Body image or the Ground image has not been added.
+    Press Stop to stop the effect that is currently playing.

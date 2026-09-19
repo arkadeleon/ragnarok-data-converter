@@ -1,0 +1,108 @@
+.^FF3300[Earth Dragon Sword]^000000 A sword imbued with the power of the Earth Dragon.
+Physical damage dealt to Formless monsters +5%, physical damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical damage dealt to Formless monsters by 5% and physical damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical damage dealt to Formless monsters by 10% and physical damage dealt to Earth property enemies by 10%.
+
+Type: One-Handed Sword  ATK: 130  Weight: 80  Weapon Level: 3
+Required Level: 70  Equip: Swordman Class/Merchant Class  Slot: 2
+
+^FF3300[Earth Dragon Greatsword]^000000 A greatsword imbued with the power of the Earth Dragon.
+Physical damage dealt to Formless monsters +5%, physical damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical damage dealt to Formless monsters by 5% and physical damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical damage dealt to Formless monsters by 10%. Additionally increases physical damage dealt to Earth property enemies by 10%.
+
+Type: Two-Handed Sword  ATK: 180  Weight: 140  Weapon Level: 3
+Required Level: 70  Equip: Swordman Class  Slot: 2
+^FF3300[Earth Dragon Dagger]^000000 A dagger imbued with the power of the Earth Dragon.
+Physical damage dealt to Formless monsters +5%, physical damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical damage dealt to Formless monsters by 5% and physical damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical damage dealt to Formless monsters by 10% and physical damage dealt to Earth property enemies by 10%.
+ 
+Type: Dagger  ATK: 130  Weight: 80  Weapon Level: 3
+Required Level: 70  Equip: Swordman Class/Thief Class/Merchant Class  Slot: 2
+
+^FF3300[Earth Dragon Bow]^000000 A bow imbued with the power of the Earth Dragon.
+Physical damage dealt to Formless monsters +5%, physical damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical damage dealt to Formless monsters by 5% and physical damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical damage dealt to Formless monsters by 10% and physical damage dealt to Earth property enemies by 10%.
+
+Type: Bow  ATK: 130  Weight: 100  Weapon Level: 3
+Required Level: 70  Equip: Archer Class/Thief Class  Slot: 2
+^FF3300[Earth Dragon Staff]^000000 A staff imbued with the power of the Earth Dragon. MATK +130, Unbreakable.
+Magic damage dealt to Formless monsters +5%, magic damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases magic damage dealt to Formless monsters by 5% and magic damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases magic damage dealt to Formless monsters by 10% and magic damage dealt to Earth property enemies by 10%.
+
+Type: One-Handed Staff  ATK: 40  Weight: 80  Weapon Level: 3
+Required Level: 70  Equip: Novice Class/Mage Class/Acolyte Class/Soul Linker Class  Slot: 2
+
+^FF3300[Earth Dragon Mace]^000000 A mace imbued with the power of the Earth Dragon.
+Unbreakable, physical damage dealt to Formless monsters +5%, physical damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical damage dealt to Formless monsters by 5% and physical damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical damage dealt to Formless monsters by 10% and physical damage dealt to Earth property enemies by 10%.
+
+Type: Mace  ATK: 130  Weight: 120  Weapon Level: 3
+Required Level: 70  Equip: Swordman Class/Novice Class/Acolyte Class/Merchant Class  Slot: 2
+^FF3300[Earth Dragon Katar]^000000 A katar imbued with the power of the Earth Dragon.
+Physical damage dealt to Formless monsters +5%, physical damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical damage dealt to Formless monsters by 5% and physical damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical damage dealt to Formless monsters by 10% and physical damage dealt to Earth property enemies by 10%.
+
+Type: Katar  ATK: 150  Weight: 120  Weapon Level: 3
+Required Level: 70  Equip: Assassin Class  Slot: 2
+
+^FF3300[Earth Dragon Axe]^000000 An axe imbued with the power of the Earth Dragon.
+Unbreakable, physical damage dealt to Formless monsters +5%, physical damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical damage dealt to Formless monsters by 5% and physical damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical damage dealt to Formless monsters by 10%. Additionally increases physical damage dealt to Earth property enemies by 10%.
+
+Type: Two-Handed Axe  ATK: 180  Weight: 140  Weapon Level: 3
+Required Level: 70  Equip: Merchant Class  Slot: 2
+^FF3300[Earth Dragon Spear]^000000 A spear imbued with the power of the Earth Dragon.
+Physical damage dealt to Formless monsters +5%, physical damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical damage dealt to Formless monsters by 5% and physical damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical damage dealt to Formless monsters by 10% and physical damage dealt to Earth property enemies by 10%.
+
+Type: Two-Handed Spear  ATK: 180  Weight: 140  Weapon Level: 3
+Required Level: 70  Equip: Swordman Class  Slot: 2
+
+^FF3300[Earth Dragon Vambrace]^000000 Vambraces imbued with the power of the Earth Dragon.
+Physical damage dealt to Formless monsters +5%, physical damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical damage dealt to Formless monsters by 5% and physical damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical damage dealt to Formless monsters by 10% and physical damage dealt to Earth property enemies by 10%.
+
+Type: Knuckle  ATK: 130  Weight: 80  Weapon Level: 3
+Required Level: 70  Equip: Monk Class/Priest Class  Slot: 2
+^FF3300[Earth Dragon Book]^000000 A book imbued with the power of the Earth Dragon.
+MATK +130, physical/magic damage dealt to Formless monsters +5%, physical/magic damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical/magic damage dealt to Formless monsters by 5% and physical/magic damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical/magic damage dealt to Formless monsters by 10% and physical/magic damage dealt to Earth property enemies by 10%.
+
+Type: Book  ATK: 130  Weight: 80  Weapon Level: 3
+Required Level: 70  Equip: Sage Class/Priest Class/Champion Class  Slot: 2
+
+^FF3300[Earth Dragon Whip]^000000 A whip imbued with the power of the Earth Dragon.
+Physical damage dealt to Formless monsters +5%, physical damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical damage dealt to Formless monsters by 5% and physical damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical damage dealt to Formless monsters by 10% and physical damage dealt to Earth property enemies by 10%.
+
+Type: Whip  ATK: 130  Weight: 80  Weapon Level: 3
+Required Level: 70  Equip: Dancer Class  Slot: 2
+^FF3300[Earth Dragon Instrument]^000000 A string instrument imbued with the power of the Earth Dragon.
+Physical damage dealt to Formless monsters +5%, physical damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical damage dealt to Formless monsters by 5% and physical damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical damage dealt to Formless monsters by 10% and physical damage dealt to Earth property enemies by 10%.
+
+Type: Instrument  ATK: 130  Weight: 80  Weapon Level: 3
+Required Level: 70  Equip: Bard Class  Slot: 2
+
+^FF3300[Earth Dragon Ninja Blade]^000000 A ninja dagger imbued with the power of the Earth Dragon.
+MATK +70, physical/magic damage dealt to Formless monsters +5%, physical/magic damage dealt to Earth property enemies +5%.
+At Refine +7, additionally increases physical/magic damage dealt to Formless monsters by 5% and physical/magic damage dealt to Earth property enemies by 5%.
+At Refine +9, additionally increases physical/magic damage dealt to Formless monsters by 10% and physical/magic damage dealt to Earth property enemies by 10%.
+
+Type: Dagger  ATK: 130  Weight: 80  Weapon Level: 3
+Required Level: 70  Equip: Ninja Class  Slot: 2
+
+
+^FFFFFF[Earth Dragon Parcel]^000000

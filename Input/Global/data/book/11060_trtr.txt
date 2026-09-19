@@ -1,0 +1,271 @@
+^000088Enerji Kristali Birleştirme Eşyaları^000000
+
+^008040[Modifiye Büyücü Şapkası]^000000
+Açıklama: Yetenekli her büyücünün göz diktiği şapka. Görünüşü biraz rahatsız edici olsa da kendine has bir kullanım rahatlığı var. Ferah ve canlı bir his verir. Modifiye edilerek gücü artırıldı.
+INT +2, SP +150, her geliştirme seviyesi başına MATK +1, 7 geliştirmede her geliştirme seviyesi başına INT +1.
+Kategori : Başlık DEF: 2 Pozisyon: Üst Ağırlık: 30
+Gerekli Seviye: 1 Takılabilir: Büyücü Sınıfı/Soul Linker SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Büyücü Şapkası x1 + Rafine Edilmemiş Enerji Kristali x100
+
+
+^008040[Modifiye Sihirbaz Şapkası]^000000Açıklama: Elinizi içine soksanız her an bir tavşan fırlayacakmış gibi duran sihirbaz şapkası. Oldukça sağlamdır; kolay kolay kırılmaz. Modifiye edilerek gücü artırıldı.
+DEX +1, AGI +1, SP +50, her geliştirme seviyesi başına SP +5, 7 geliştirmede her geliştirme seviyesi başına DEX +1.
+Kategori : Başlık DEF: 6 Pozisyon: Üst Ağırlık: 50
+Gerekli Seviye: 50 Takılabilir: Büyücü Sınıfı/Mürit Sınıfı/Soul Linker SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Sihirbaz Şapkası x1 + Rafine Edilmemiş Enerji Kristali x100
+^008040[Modifiye Tilki Maskesi]^000000
+Açıklama: Bir suikast birliğinin kimliğini gizlemek için taktığı söylenen maskeden esinlenilerek yapıldı. Takınca nedense daha çevik hissedersiniz. Modifiye edilerek gücü artırıldı.
+AGI +2, LUK +2, 7 geliştirmede Mükemmel Kaçınma +4
+Kategori : Başlık DEF: 2 Pozisyon: Üst Ağırlık: 30
+Gerekli Seviye: 1 Takılabilir: Acemi hariç Tüm Meslekler
+^FF0000[Birleştirme Malzemeleri]^000000
+Tilki Maskesi x1 + Rafine Edilmemiş Enerji Kristali x100
+
+^008040[Modifiye Soytarı Şapkası]^000000
+Açıklama: Soytarının takıp numara yapacağı türden bir şapka. Sivri sivri, rengârenk ve tuhaf bir görünümü var. Modifiye edilerek gücü artırıldı.
+
+LUK +2, MDEF +5, 7 geliştirmede CRIT Hasarı %5 artar.Kategori : Başlık DEF: 3 Pozisyon: Üst Ağırlık: 10
+Gerekli Seviye: 1 Takılabilir: Acemi hariç Tüm Meslekler SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Soytarı Şapkası x1 + Rafine Edilmemiş Enerji Kristali x100
+
+
+^008040[Modifiye Tavşan Tacı]^000000
+Açıklama: Saç bandına tavşan kulağı şeklinde bir süs eklenmiş. Dengede tutmak zor gibi görünse de beklenenden daha kullanışlı. Modifiye edilerek gücü artırıldı.
+
+
+LUK +2, 7 geliştirmede CRIT +5Kategori : Başlık DEF: 3 Pozisyon: Üst Ağırlık: 10Gerekli Seviye: 1 Takılabilir: Tüm Sınıflar SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Tavşan Tacı x1 + Rafine Edilmemiş Enerji Kristali x100
+
+^008040[Modifiye Munak Şapkası]^000000
+Açıklama: Munak canavarının taktığı şapka. Büyük şapkaya ne olduğu bilinmeyen bir muska iliştirilmiş; Daenggi süsü de var gibi. Modifiye edilerek gücü artırıldı.
+Ölümsüz türü düşmanlardan alınan hasar %10 azalır, 7 geliştirmede Ölümsüz türü düşmanlara verilen hasar %10 artar.
+Kategori : Başlık DEF: 5 Pozisyon: Üst, Orta, Alt Ağırlık: 30
+
+Gerekli Seviye: 1 Takılabilir: Tüm Sınıflar SLOT: 1^FF0000[Birleştirme Malzemeleri]^000000
+Munak Şapkası[1] x1 + Rafine Edilmemiş Enerji Kristali x100
+
+
+^008040[Modifiye Bongun Şapkası]^000000
+Açıklama: Bongun canavarının taktığı şapka. Ön kısmındaki yarı yırtık muska en belirgin özelliği. Oldukça sağlamdır; yırtık muska sayesinde görüşü daha az kapatır. Modifiye edilerek gücü artırıldı.
+İblis türü düşmanlardan alınan hasar %10 azalır, 7 geliştirmede İblis türü düşmanlara verilen hasar %10 artar.
+Kategori : Başlık DEF: 5 Pozisyon: Üst, Orta, Alt Ağırlık: 30
+
+
+Gerekli Seviye: 1 Takılabilir: Tüm Sınıflar SLOT: 1^FF0000[Birleştirme Malzemeleri]^000000Bongun Şapkası[1] x1 + Rafine Edilmemiş Enerji Kristali x100
+
+^008040[Modifiye Opera Hayaleti Maskesi]^000000
+Açıklama: Bir hikâyenin talihsiz kahramanının taktığı söylenen maske.
+Uzun uzun bakınca, kahramanın acısı sanki içinize işler.
+ATK +5, MATK +5
+Kategori : Başlık DEF: 2 Pozisyon: Orta Ağırlık: 20
+Gerekli Seviye: 20 Takılabilir: Tüm Sınıflar
+^FF0000[Birleştirme Malzemeleri]^000000
+
+Opera Hayaleti Maskesi x1 + Rafine Edilmemiş Enerji Kristali x100
+^008040[Modifiye Dürbün]^000000
+Açıklama: Sıkıştırılmış camla uzaktakini yanı başındaymış gibi gösteren gözlük.
+DEX +1, Uzak Menzil Saldırı Gücü +1%.
+Kategori : Başlık DEF: 2 Pozisyon: Orta Ağırlık: 10
+Gerekli Seviye: 50 Takılabilir: Okçu Sınıfı
+^FF0000[Birleştirme Malzemeleri]^000000
+Dürbün x1 + Rafine Enerji Kristali x200
+
+^008040[Modifiye Solungaç Miğferi]^000000
+Açıklama: Kılıç Ustasını koruduğu söylenen, balık yüzgeci şeklinde miğfer. Suda nefes almanızı sağlamaz; dikkat.
+MHP +300, BaseLv'ye göre ek MHP artışı
+Kategori : Başlık DEF: 5 Pozisyon: Orta Ağırlık: 30
+Gerekli Seviye: 65 Takılabilir: Kılıç Ustası Sınıfı
+^FF0000[Birleştirme Malzemeleri]^000000
+Solungaç Miğferi x1 + Rafine Enerji Kristali x200
+
+
+
+^008040[Modifiye Suikastçı Maskesi]^000000
+Açıklama: Suikastçının yüzünü gizlemek için taktığı koyu renk maske. Takınca nedense içiniz boşalır gibi.
+CRIT +1, CRIT Hasarı +1%
+Kategori : Başlık DEF: 1 Pozisyon: Alt Ağırlık: 10
+Gerekli Seviye: 70 Takılabilir: Suikastçı, Rahip Sınıfı
+^FF0000[Birleştirme Malzemeleri]^000000
+
+
+
+Suikastçı Maskesi x1 + Rafine Enerji Kristali x200^008040[Modifiye Kaynak Maskesi]^000000Açıklama: Çelik maske. Gösterişi veya zarafeti hiç düşünmeden, sadece pratik kullanım için üretildi. Her türlü alev, soğuk ve darbeden yüzü korur.
+Ateş Özelliği Saldırılarına Direnç 10% artar, DEX +5, LUK +5.
+Kategori : Başlık DEF: 2 Pozisyon: Orta, Alt Ağırlık: 30
+Gerekli Seviye: 50 Takılabilir: Tüccar Sınıfı
+^FF0000[Birleştirme Malzemeleri]^000000
+Kaynak Maskesi x1 + Rafine Enerji Kristali x200
+
+
+
+
+
+^008040[Güvenlik Yüzüğü]^000000
+Açıklama: Bir tür büyüsel gücü ortaya çıkararak kullanıcıyı koruyan ve aldığı hasarı azaltan büyülü yüzük.
+DEF + 10 , MDEF + 5, All State + 1.
+Kategori : Aksesuar DEF: 0 Ağırlık: 10
+Gerekli Seviye: 50 Takılabilir: Acemi hariç Tüm Meslekler SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+
+
+
+
+
+Güvenlik Yüzüğü, Ring[1], Eldiven[1], Küpe[1], Broş[1], Kolye[1], Rosary[1] her birinden 1 adet, Rafine Enerji Kristali x200
+
+
+
+^008040[Modifiye Meleğin Lütfu]^000000
+Açıklama: Süper Acemi meleğinin cübbesi. Tüm vücudu yumuşakça sarar; konforu üst düzey!
+MDEF + 30. Modifiye Meleğin Koruması ile birlikte takıldığında Nötr Özelliği direnci + 5%.
+Modifiye Meleğin Lütfu, Modifiye Meleğin İnişi, Modifiye Meleğin Koruması, Modifiye Meleğin Sıcaklığı,
+
+
+
+
+
+
+
+
+Modifiye Meleğin Öpücüğü hepsi birlikte takıldığında HP + 900, SP + 100, Fiziksel saldırı alındığında düşük olasılıkla kendine Assumptio 1. seviye.Kategori : Zırh DEF: 40 Ağırlık: 60Gerekli Seviye: 99 Takılabilir: Acemi Sınıfı SLOT: 1^FF0000[Birleştirme Malzemeleri]^000000Meleğin Lütfu x1, Rafine Enerji Kristali x100 veya Yüksek Saflıkta Enerji Kristali x20^008040[Modifiye Meleğin Koruması]^000000Açıklama: Süper Acemi meleğinin kalkanı. Kötülüğü defeden kutsal güç barındırır.
+İblis Canavarlar'dan alınan hasar %5 azalır, Nötr Özelliği hariç tüm özellik hasarı %5 azalır.
+Modifiye Meleğin İnişi ile birlikte takıldığında Al l State +2.
+Kategori : Kalkan DEF: 30 Ağırlık: 40
+Gerekli Seviye: 99 Takılabilir: Acemi Sınıfı SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Meleğin Koruması x1, Rafine Enerji Kristali x100 veya Yüksek Saflıkta Enerji Kristali x20
+^008040[Modifiye Meleğin İnişi]^000000
+Açıklama: Süper Acemi meleğinin sandaletleri. Bu sandaletleri giyip zıplayınca nedense göğe fırlayacakmış gibi hissettirir.
+MHP + 500, MSP + 100.
+
+Modifiye Meleğin Öpücüğü ile birlikte takıldığında MATK+ 20.Kategori : Ayakkabı DEF: 8 Ağırlık: 30
+Gerekli Seviye: 99 Takılabilir: Acemi Sınıfı SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Meleğin İnişi x1, Rafine Enerji Kristali x100 veya Yüksek Saflıkta Enerji Kristali x20
+
+^008040[Modifiye Meleğin Sıcaklığı]^000000
+Açıklama: Süper Acemi meleğinin hırkası. Üzerinize alınca içiniz ısınır; dışarıda yatsanız bile üşütmez gibi.
+HP Yenilenmesi 50% artar.
+Modifiye Meleğin Lütfu ile birlikte takıldığında AGI +5, Flee +10
+Kategori : Başlık DEF: 6 Pozisyon: Üst Ağırlık: 40
+Gerekli Seviye: 99 Takılabilir: Acemi Sınıfı SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Meleğin Sıcaklığı x1, Rafine Enerji Kristali x100 veya Yüksek Saflıkta Enerji Kristali x20
+
+
+
+
+^008040[Modifiye Meleğin Öpücüğü]^000000
+Açıklama: Süper Acemi meleğinin öpücüğünü alan baş aksesuarı.
+Bu baş aksesuarına öpücük kondurursanız melekle dolaylı öpücük sayılır mı…
+SP Doğal Yenilenmesi 30% artar.
+Modifiye Meleğin Sıcaklığı ile birlikte takıldığında ATK + 10
+Kategori : Başlık DEF: 6 Pozisyon: Üst Ağırlık: 30
+Gerekli Seviye: 99 Takılabilir: Acemi Sınıfı SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Meleğin Öpücüğü x1, Rafine Enerji Kristali x100 veya Yüksek Saflıkta Enerji Kristali x20
+
+
+
+
+
+
+
+^008040[Geliştirilmiş Korsan Şapkası]^000000
+Açıklama: Korsan kaptanının büyük şapkası. Otoritesini göstermek için kocaman yapılmış; denizde yüzen bir korsan gemisini andırır. Ancak epey eskimiş.
+VIT + 1 MHP + 5%, 7 geliştirmede Nötr Özelliği direnci 1%, 9 geliştirmede MHP + 3%
+Kategori : Başlık DEF: 10 Pozisyon: Üst Ağırlık: 50
+Gerekli Seviye: 99 Takılabilir: Acemi hariç Tüm Meslekler SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+
+
+
+
+
+
+
+Korsan x1, Yüksek Saflıkta Enerji Kristali x300^008040[Geliştirilmiş Kemik Miğfer]^000000Açıklama: Kemikten yapılmış çok sert bir miğfer. Çok ağırdır; herkes takamaz. Savunması ise üst düzey.Gölge Özelliği saldırılardan alınan hasar 15% artar, Nötr Özelliği direnci 2% artar, 7 geliştirmede Nötr Özelliği direnci 2% artar, 9 geliştirmede Nötr Özelliği direnci 2% artarKategori : Başlık DEF: 15 Pozisyon: Üst Ağırlık: 80Gerekli Seviye: 70 Takılabilir: Kılıç Ustası Sınıfı/Tüccar Sınıfı SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Kemik Miğfer[1] x1, Yüksek Saflıkta Enerji Kristali x300
+
+
+^008040[Geliştirilmiş Meleğin Miğferi]^000000
+Açıklama: Yüksek savunmalı bir miğfere Melek Tüyü toplanarak yapılan kanatlar eklenerek üretilen etkileyici miğfer. Üreticisinin kim olduğu bilinmiyor.
+AGI +1, LUK +1, MDEF +3, 7 geliştirmede AGI +2, LUK +2, 9 geliştirmede ASPD +1
+
+Kategori : Başlık DEF: 10 Pozisyon: Üst Ağırlık: 160Gerekli Seviye: 99 Takılabilir: 2. Sınıf ve üzeri/Kensei/Soul Linker/Kagerou/Oboro SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Meleğin Miğferi x1, Yüksek Saflıkta Enerji Kristali x300
+
+^008040[Geliştirilmiş Güneş Tanrısı Şapkası]^000000
+Açıklama: Güneşi simgeleyen dev altın kanatlarıyla öne çıkan şapka.
+Bunu takıp yürümeyi nasıl başardığını sorgulamayın.
+STR +3, INT +2, ATK +10, MATK +10,
+
+
+7 geliştirmede ATK +15, MATK +15, 9 geliştirmede ATK +15, MATK +15.Kategori : Başlık DEF: 4 Pozisyon: Üst, Orta Ağırlık: 240Gerekli Seviye: 99 Takılabilir: 2. Sınıf ve üzeri/Kensei/Soul Linker/Kagerou/Oboro SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Güneş Tanrısı Şapkası x1, Yüksek Saflıkta Enerji Kristali x1000 veya
+Güneş Tanrısı Şapkası[1] x1, Yüksek Saflıkta Enerji Kristali x100
+
+
+
+
+
+^008040[Geliştirilmiş Varyant Ayakkabı]^000000Açıklama: Bir şeylerin ters gittiği hissini yok edemeyen Ayakkabı.
+Tanrının iradesine meydan okumaya çalışan üreticinin niyeti görülüyor; fakat buna ulaşamayan Mutant Ayakkabı'yı tamamladı.
+MHP/MSP 12% artar, geliştirme seviyesine göre ek DEF/MDEF artışı sağlar
+Kategori : Ayakkabı DEF: 13 Ağırlık: 50
+Gerekli Seviye: 85 Takılabilir: 2. Sınıf ve üzeri/Kensei/Soul Linker/Kagerou/Oboro SLOT: 1
+^FF0000[Birleştirme Malzemeleri]^000000
+Varyant Ayakkabı x1, Yüksek Saflıkta Enerji Kristali x300
+
+
+
+
+
+
+
+
+
+
+
+^008040[Geliştirilmiş Ring of Flame Lord]^000000
+Açıklama: Alev ruhlarının kralının gücünü barındıran yüzük. Yüzük takılınca, içten yükselen ruh gücünün kendi silahından dışarı taşacağı söylenir.
+Geliştirilmiş Ring of Resonance ile bir çifttir.
+STR + 3, VIT + 2, ATK + 20, Ateş Özelliği saldırılarına direnç 10% artar
+
+
+
+
+
+
+
+
+
+
+
+Fiziksel saldırı sırasında, belirli olasılıkla çeşitli Otospell etkinleşir.Geliştirilmiş Ring of Resonance ile birlikte takıldığında, Otospell yeteneği artar.Kategori : Aksesuar DEF: 0 Ağırlık: 10Gerekli Seviye: 85 Takılabilir: 2. Sınıf ve üzeri/Kensei/Soul Linker/Kagerou/Oboro^FF0000[Birleştirme Malzemeleri]^000000Ring of Flame Lord x1, Yüksek Saflıkta Enerji Kristali x300
+
+
+^008040[Geliştirilmiş Ring of Resonance]^000000
+Açıklama: Geliştirilmiş Ring of Flame Lord ile bir çift yüzük.
+İki yüzük birlikte takılınca yüzükler birbirinde rezonans yaratır ve yüzüklerin gücü karşılıklı olarak artar.
+AGI + 3, VIT + 1, MDEF + 2, MATK + 10
+Fiziksel saldırı alındığında, belirli olasılıkla çeşitli Otospell etkinleşir.
+Kategori : Aksesuar DEF: 2 Ağırlık: 10
+Gerekli Seviye: 85 Takılabilir: 2. Sınıf ve üzeri/Kensei/Soul Linker/Kagerou/Oboro
+^FF0000[Birleştirme Malzemeleri]^000000
+
+
+
+
+
+
+
+
+Ring of Resonance x1, Yüksek Saflıkta Enerji Kristali x300

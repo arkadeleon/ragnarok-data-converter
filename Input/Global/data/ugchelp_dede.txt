@@ -1,0 +1,48 @@
+1. Effekterstellungs-Tool
+   Mit diesem Tool wird festgelegt, wie der Fußspuren-Effekt im Spiel angezeigt wird. Neben dem Aussehen des Bildes können auch die Bildgröße, die Anordnung beim Laden und die Animationsart detailliert angepasst werden. Befindet sich das gewünschte Bild im PNG-Format in dem unten im Pop-up angezeigten Pfad, kann es mit diesem Tool geladen werden.
+ 
+2. Ganzkörper
+   Dieses Bild wird für den Nachbildeffekt benötigt, der beim Bewegen entlang des zurückgelegten Weges in der Nähe des Körpers zurückbleibt.
+   Das Bild muss im PNG-Format vorliegen, 128x128 px groß sein und darf höchstens 64 KB groß sein.
+   Es werden nur Bilder im Ordner footprint erkannt, deren Dateinamen ausschließlich aus englischen Buchstaben und Zahlen bestehen.
+ 
+3. Boden
+   Dieses Bild wird für den Nachbildeffekt benötigt, der beim Bewegen entlang des zurückgelegten Weges auf dem Boden zurückbleibt.
+   Das Bild muss im PNG-Format vorliegen, 128x128 px groß sein und darf höchstens 64 KB groß sein.
+   Es werden nur Bilder im Ordner footprint erkannt, deren Dateinamen ausschließlich aus englischen Buchstaben und Zahlen bestehen.
+ 
+※ Für eine sichere Nutzungsumgebung werden die Bilder für Ganzkörper- und Bodeneffekte beim Speichern auf Pixelebene erneut verarbeitet. Auch nach der Verarbeitung werden sie so originalgetreu wie möglich angezeigt.
+ 
+4. Animationstyp
+   Legt den Animationstyp fest, der beim Erscheinen und Verschwinden des Effekts verwendet wird. Zusätzlich stehen verstreute Partikeleffekte zur Verfügung.
+ 
+5. Ausrichtung des Bodenstempels
+   Legt fest, ob die Ausrichtung des Effekts der Bewegungsrichtung des Charakters folgt oder unabhängig von dessen Richtung immer zum Bildschirm zeigt.
+ 
+6. Bodengröße
+   Legt die Größe des am Boden haftenden Effekts fest.
+   Je höher der Wert, desto größer wird der Effekt.
+ 
+7. Ganzkörpergröße
+   Legt die Größe des am Körper haftenden Effekts fest.
+   Je höher der Wert, desto größer wird der Effekt.
+ 
+8. Ganzkörperhöhe
+   Legt die Höhe des am Körper haftenden Effekts fest.
+   Je höher der Wert, desto höher wird der Effekt positioniert.
+ 
+9. Fußabstand
+   Legt den Abstand zwischen dem linken und rechten Fuß fest.
+   Je höher der Wert, desto größer wird der Abstand zwischen den Füßen.
+ 
+10. Erscheinungsfrequenz
+    Legt fest, wie häufig der Effekt erscheint.
+    Je niedriger der Wert, desto häufiger erscheint der Effekt innerhalb kurzer Zeit.
+ 
+11. Hintergrundkarte
+    Ändere den Hintergrund, um das Ergebnis des Effekts in den verschiedenen Umgebungen zu überprüfen.
+ 
+12. Wiedergabe- und Stopp-Schaltflächen
+    Drücke Wiedergabe, um den erstellten Effekt auf dem entsprechenden Spielbildschirm zu überprüfen.
+    Der Effekt funktioniert jedoch nicht, wenn das Ganzkörperbild oder das Bodenbild nicht hinzugefügt wurde.
+    Drücke Stopp, um den aktuell wiedergegebenen Effekt anzuhalten.

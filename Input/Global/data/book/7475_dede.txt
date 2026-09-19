@@ -1,0 +1,57 @@
+%faf0e6
+^000088-Eine herzergreifende Kochgeschichte, der niemand widerstehen kann.-^000000
+
+"Du isst bereits!" – ein Level-4-Rezept! Jetzt mit großem Erfolg erhältlich.
+Aber keine Sorge: Das bedeutet nicht, dass hier irgendwer Menschen frisst!
+
+^FF0000Kräuter-marinierte Rippchen :^000000 Gereiftes Rippenfleisch in kräuterwürziger Marinade – herrlich zart!
+Zutaten : ^4B0082Fleisch 1 Stück, Rotes Kraut 1 Stück, Gelbes Kraut 1 Stück, Grünes Kraut 1 Stück, Süße Soße 1 Stück, Zitrone 1 Stück^000000
+Zubereitung : Das Fett vom Fleisch entfernen, die magere Seite einschneiden und es etwa 1 Stunde in Wasser legen, damit das Blut austritt.
+Die Kräuter fein schneiden, Süße Soße mit einer passenden Menge Wasser mischen und etwa 1 Stunde köcheln lassen. Nach dem Abkühlen Zitronensaft hinzufügen,
+gut umrühren und vollständig auskühlen lassen. Eine breite Schüssel und einen Behälter vorbereiten, die Marinade in die Schüssel gießen,
+die gut vorbereiteten Fleischstücke einzeln eintauchen, gründlich benetzen und ordentlich im Behälter schichten. Die restliche Marinade
+anschließend in den Behälter gießen. Einen halben bis ganzen Tag ziehen lassen und dann braten.
+
+^0000FFMorroc-Fruchtwein :^000000 Süß-säuerlich! Auch für deinen Gaumen geeignet, wenn du keinen Alkohol magst!
+Zutaten : ^4B0082Erdbeere 1 Stück, Zitrone 1 Stück, Orange 1 Stück, Alkohol 1 Stück, Traube 1 Stück^000000
+Zubereitung : Zitrone und Orange mit einem Entsafter gründlich auspressen.
+Bei den gründlich gewaschenen Erdbeeren die Stiele entfernen, die Trauben schälen und die Kerne entfernen,
+alles in den Mixer geben und 30 Sekunden mixen. 1 Portion Alkohol und Zitronensaft hinzufügen und weitere 5 Sekunden mixen.
+Zum Schluss 1 Portion Alkohol und Orangensaft hinzufügen und 15 Sekunden mixen – fertig!
+
+^800000Cremesandwich :^000000 Extra viel Creme! Bitte die Sandwichcreme nicht auf den Kopf schmieren!
+Zutaten : ^4B0082Brot 1 Stück, Milch 1 Stück, Käse 1 Stück, Gelbes Kraut 1 Stück, Fleisch 1 Stück ,Süße Soße 1 Stück^000000
+Zubereitung : Das Brot leicht in Butter rösten, die Milch aufschlagen und daraus Creme (Crema) machen.
+Das Fleisch-Patty dick schneiden und passend garen.
+Kräuter auf das Brot legen, mit Süßer Soße bestreichen und das Fleisch-Patty darauflegen.
+Käse daraufgeben, die restlichen Kräuter darauflegen, reichlich Creme daraufgeben und mit Brot abdecken.
+
+^008040Scharfe kalte Nudeln aus Lutie :^000000 Günstig und atemberaubend scharf!
+Zutaten : ^4B0082Getreide 1 Stück, Scharfe Soße 1 Stück, Eisstück 1 Stück, Karotte 1 Stück, Kürbiskopf 1 Stück^000000
+Zubereitung : Getreide mit passendem Eiweißgehalt zu Mehl mahlen und nach und nach heißes Wasser zugeben,
+um einen halbgegarten Teig herzustellen; weiterkneten, bis er elastisch wird und glänzt.
+Die Masse weich ausarbeiten, in eine eckige Form (unten mit fixiertem Netz) geben und den Deckel schließen.
+Von oben kräftig drücken, um die Nudeln herauszupressen, in kochendem Wasser garen, in kaltem Wasser durchkneten und abspülen,
+dann in ein Sieb geben.
+Den Kürbiskopf in Wasser weich kochen; wenn man ihn anschließend klopfend bearbeitet, entstehen feine Streifen wie Nudeln.
+Die Karotte in feine Streifen schneiden. Nudeln und Kürbisstreifen in eine Schüssel geben, Eis hinzufügen
+und eine passende Menge Scharfer Soße darübergeben, dann mit Karotte anrichten.
+
+^FF8040Gewürzte Quallen :^000000 Gut durchgegart serviert, also keine Sorge vor Stichen.
+Zutaten : ^4B0082Tentakel 1 Stück, Weißes Kraut 1 Stück, Weiches Blatt 1 Stück, Alte Bratpfanne 1 Stück, Tinte 1 Stück^000000
+Zubereitung : Weiches Blatt in Wasser abspülen, gut ausdrücken und mit Tintensoße würzen und vermengen.
+Den Tentakel in feine Streifen schneiden, waschen, Wasser in der Alten Bratpfanne erhitzen und kurz blanchieren.
+Danach in kaltem Wasser abspülen und gut ausdrücken. Wenn man ihn zu lange blanchiert, zieht er sich zusammen,
+daher nur kurz in warmes Wasser tauchen und wieder herausnehmen.
+Fein geschnittenes Weißes Kraut, Tentakel und die gewürzten Blätter zusammen mischen, etwas mehr
+Tintenwürzung hinzufügen, gut abkühlen lassen und auf einem Teller anrichten.
+
+^400080Antikes Fischgericht :^000000 Keine Sorge, es fühlt sich überhaupt nicht so an, als würdest du einen antiken Fisch küssen!
+Zutaten : ^4B0082Antike Fischlippen 1 Stück, Waschbär-Blatt 1 Stück, Weißes Kraut 1 Stück, Schmackhafter Fisch 1 Stück, Süße Soße 1 Stück^000000
+Zubereitung : Die Antiken Fischlippen in Salzwasser gründlich waschen und vorbereiten, den Schmackhaften Fisch
+von Kopf und Innereien befreien, entlang der Mittelgräte in drei Filets schneiden
+und mit einer Pinzette die feinen Gräten entfernen; anschließend mit 1 Portion Süßer Soße marinieren.
+Wenn alles ausreichend durchgezogen ist, das Waschbär-Blatt auf den Boden des Dämpfers legen und dämpfen.
+Dabei muss die Schuppenseite nach unten zeigen, damit sich das Fleisch nicht zusammenzieht.
+Bevor im Dämpfer Dampf aufsteigt, Süße Soße gleichmäßig darüber verteilen
+und fein geschnittenes Weißes Kraut darüberstreuen, dann etwa 20 Minuten dämpfen.

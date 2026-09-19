@@ -1,0 +1,24 @@
+%f5f5dc
+^000088Manuk Satış Ürünleri^000000
+
+Aşağıdaki eşyalar Manuk Sikkesi ile satın alınabilir.
+
+^008040[Manuk'un Azmi]^000000
+Manuk Araştırma Enstitüsü üretimi; madenciler için resmî olarak önerilen destek ürünü.
+Manuk alanındaki canavarlara karşı fiziksel saldırı hasarı 10 dakika boyunca %10 artar.
+^000088(Nepenthes, Hillslion, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth, Guso)^000000
+Ağırlık: ^7777775^000000
+
+
+^008040[Manuk'un İradesi]^000000
+Manuk Araştırma Enstitüsü üretimi; madenciler için resmî olarak önerilen besin takviyesi.
+Manuk alanındaki canavarlardan alınan fiziksel ve büyü hasarı 10 dakika boyunca %10 azalır.
+^000088(Nepenthes, Hillslion, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth, Guso)^000000
+Ağırlık: ^7777775^000000
+
+
+^008040[Manuk'un İnancı]^000000
+Manuk Araştırma Enstitüsü üretimi; madenciler için resmî olarak önerilen destek ürünü.
+Manuk alanındaki canavarlara karşı büyü saldırısı hasarı 10 dakika boyunca %10 artar.
+^000088(Nepenthes, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth, Guso)^000000
+Ağırlık: ^7777775^000000

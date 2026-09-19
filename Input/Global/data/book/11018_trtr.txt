@@ -1,0 +1,23 @@
+%f5f5dc
+^000088Splendide Satış Ürünleri^000000
+
+Aşağıdaki eşyalar Splendide Sikkesi ile satın alınabilir.
+
+
+^008040[Pinguicula Meyve Reçeli]^000000
+Pinguicula meyvesinden yapılan tatlı reçel.
+Splendide alanındaki canavarlara karşı fiziksel saldırı hasarı 10 dakika boyunca %10 artar.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Ağırlık: ^7777775^000000
+
+^008040[Luciola Bal Reçeli]^000000
+Luciola balı ve otlarla yapılan reçel.
+Splendide alanındaki canavarlardan alınan fiziksel ve büyü hasarı 10 dakika boyunca %10 azalır.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Ağırlık: ^7777775^000000
+
+^008040[Cornus'un Gözyaşları]^000000
+Cornus'un gözyaşlarından rafine edilen iksir. Nasıl elde edildiği bilinmez.
+Splendide alanındaki canavarlara karşı büyü saldırısı hasarı 10 dakika boyunca %10 artar.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Ağırlık: ^7777775^000000

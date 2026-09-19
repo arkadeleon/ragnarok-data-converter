@@ -1,0 +1,558 @@
+%f5f5dc
+^000088Belohnungsgegenstände!!^000000
+
+Die als Belohnung erhältlichen Gegenstände unterscheiden sich je nach Fraktion.
+Die in Tierra-Kämpfen erhältlichen Abzeichen sind Tapferkeitsabzeichen (-A),
+die in Flavius-Kämpfen erhältlichen Abzeichen sind Spezialangriffsabzeichen (-B).
+In Klammern stehen die Abzeichenart und die benötigte Anzahl.
+Wenn keine Abzeichenkennzeichnung vorhanden ist, kann der Gegenstand mit Abzeichen derselben Art erhalten werden.
+
+^FF0000[Dolch]^000000
+^008040Assassinen-Damaskus (Tapferkeit:100)^000000
+Ein auf Attentate und PvP spezialisierter Dolch.
+STR + 1, AGI + 1, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +75%.
+Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Bei Ausrüstung durch Ninja, Rogue oder Stalker zusätzlich MATK +15%
+Kategorie: ^777777Dolch^000000   Angriff: ^777777120^000000   Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Novizen-Klasse/Schwertkämpfer-Klasse/Magier-Klasse/Bogenschütze-Klasse/Händler-Klasse/Dieb-Klasse/Soul Linker/Ninja ausrüstbar^000000
+
+^008040Assassinen-Damaskus (Spezial:100)^000000
+Ein auf Attentate und PvP spezialisierter Dolch.
+STR + 1, AGI + 1, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +75%.
+Beim Angriff mit einer gewissen Chance bei Waffen-Erweckung: 6 Sek. Durchdringungseffekt.
+Bei Ausrüstung durch Ninja, Rogue oder Stalker zusätzlich MATK +15%
+Kategorie: ^777777Dolch^000000    Angriff: ^777777120^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Novizen-Klasse/Schwertkämpfer-Klasse/Magier-Klasse/Bogenschütze-Klasse/Händler-Klasse/Dieb-Klasse/Soul Linker/Ninja ausrüstbar^000000
+
+^FF0000[Einhandschwert]^000000
+^008040Gladiatoren-Klinge (Spezial:100)^000000
+Ein von Gladiatoren bevorzugtes Schwert mit hervorragender Wirkung im PvP.
+STR + 1, DEX + 1, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +75%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Einhandschwert^000000      Angriff: ^777777115^000000   Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Novizen-Klasse/Schwertkämpfer-Klasse/Händler-Klasse/Dieb-Klasse/Ninja ausrüstbar^000000
+
+^008040Gladiatoren-Klinge (Tapferkeit:100)^000000
+Ein von Gladiatoren bevorzugtes Schwert mit hervorragender Wirkung im PvP.
+STR + 1, DEX + 1, MATK + 10%, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +75%.
+Kategorie: ^777777Einhandschwert^000000      Angriff: ^777777115^000000   Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Novizen-Klasse/Schwertkämpfer-Klasse/Händler-Klasse/Dieb-Klasse/Ninja ausrüstbar^000000
+
+
+^FF0000[Einhandspeer]^000000
+^008040Speer des Sturmhauptmanns (Tapferkeit:100)^000000
+Ein speziell für Sturmangriffe gefertigter Einhandspeer. Sehr effektiv im PvP.
+STR + 2, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +95%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Bei Ausrüstung durch Kreuzritter/Paladin zusätzlich ASPD +20%.
+Kategorie: ^777777Speer^000000    Angriff: ^77777760^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Schwertkämpfer-Klasse^000000
+
+^FF0000[Einhandstab]^000000
+^008040Warlock-Zauberstab (Tapferkeit:100)^000000
+Ein speziell umgebauter Zauberstab für Magier im Krieg. Für PvP optimiert.
+MATK + 15%, INT + 4, DEX + 3, Unzerstörbar
+Ignoriert 25% der magischen Verteidigung von Halbmenschen-Monstern. Bei magischen Angriffen 5% Chance auf Betäubung.
+Kategorie: ^777777Stab^000000  Angriff: ^77777770^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Magier-Klasse/Akolyth-Klasse/Soul Linker exklusiv^000000
+
+
+^008040Warlock-Kampfstab (Spezial:100)^000000
+Ein speziell umgebauter Kampfstab für Magier im Krieg. Für PvP optimiert.
+MATK + 15%, INT + 3, DEX + 3, Unzerstörbar
+Magischer Schaden gegen Halbmenschen-Monster +15%.
+Bei magischen Angriffen 5% Chance auf Betäubung.
+Kategorie: ^777777Stab^000000  Angriff: ^77777770^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Magier-Klasse/Akolyth-Klasse/Soul Linker exklusiv^000000
+
+^008040Stab der starken Heilung (Tapferkeit:100)^000000
+Ein für Heilung im Kampf hergestellter Stab. Auch bei tiefen Wunden sehr wirksam.
+MATK + 15%, Unzerstörbar
+Die Heilwirkung von [Heilung] und [Heiligtum] wird um 14% erhöht.
+Alle 10 Sek. 5 SP Regeneration.
+Kategorie: ^777777Stab^000000  Angriff: ^77777770^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Magier-Klasse/Akolyth-Klasse/Soul Linker exklusiv^000000
+
+
+^008040Stab der schnellen Heilung (Spezial:100)^000000
+Ein für Heilung im Kampf hergestellter Stab. Für schnelle Heilung optimiert.
+MATK + 15%, INT + 3, DEX + 2, Unzerstörbar
+Globale Abklingzeit -15%.
+Alle 10 Sek. 5 SP Regeneration.
+Kategorie: ^777777Stab^000000  Angriff: ^77777770^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Magier-Klasse/Akolyth-Klasse/Soul Linker exklusiv^000000
+
+^FF0000[Streitkolben]^000000
+^008040Morgenstern des Kämpfers (Spezial:100)^000000
+Ein von Kriegern bevorzugter Streitkolben, dessen Schlag selbst durch Rüstung hindurchgeht. Für PvP optimiert.
+STR + 1, DEX + 1, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +75%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Streitkolben^000000    Angriff: ^777777105^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Novizen-Klasse/Schwertkämpfer-Klasse/Händler-Klasse/Akolyth-Klasse ausrüstbar^000000
+
+^008040Morgenstern des Kämpfers (Tapferkeit:100)^000000
+Ein von Kriegern bevorzugter Streitkolben, dessen Schlag selbst durch Rüstung hindurchgeht. Für PvP optimiert.
+STR + 1, DEX + 1, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +75%.
+Beim Angriff mit einer gewissen Chance bei Waffen-Erweckung: 6 Sek. 50% Chance, den Gegner zu betäuben.
+Kategorie: ^777777Streitkolben^000000    Angriff: ^777777105^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Novizen-Klasse/Schwertkämpfer-Klasse/Händler-Klasse/Akolyth-Klasse ausrüstbar^000000
+^FF0000[Instrument]^000000
+^008040Gitarre des Schlachtfelds (Spezial:100)^000000
+Eine Gitarre zur Steigerung der Moral verbündeter Truppen. Auch für PvP brauchbar.
+DEX + 2, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +95%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Instrument^000000  Angriff: ^77777750^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Barde^000000
+
+
+^008040Gitarre des Schlachtfelds(Tapferkeit:100)^000000
+Eine Gitarre zur Steigerung der Moral verbündeter Truppen. Auch für PvP brauchbar.
+DEX + 2, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +95%. Schaden von Pfeilvulkan +20%.
+Kategorie: ^777777Instrument^000000  Angriff: ^77777750^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Barde^000000
+
+
+^FF0000[Peitsche]^000000
+^008040Battle Lariat (Spezial:100)^000000
+Eine auf PvP spezialisierte Peitsche mit brutaler Schlagkraft.
+DEX + 2, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +95%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Peitsche^000000  Angriff: ^77777750^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Tänzerin^000000
+
+
+^008040Battle Lariat (Tapferkeit:100)^000000
+Eine auf PvP spezialisierte Peitsche mit brutaler Schlagkraft.
+DEX + 2, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +95%. Schaden von Pfeilvulkan +20%.
+Kategorie: ^777777Peitsche^000000  Angriff: ^77777750^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Tänzerin^000000
+
+
+^FF0000[Buch]^000000
+^008040Die Kunst des Krieges (Tapferkeit:100)^000000
+Ein Buch, in dem ein Stratege aus dem Osten die Essenz der Kriegskunst niederschrieb.
+Noch heute wird es von vielen Militärs studiert.
+STR + 2, INT + 1, MATK + 15%, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +75%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Buch^000000      Angriff: ^77777790^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Priester/Weiser/Sternengläubiger ausrüstbar^000000
+
+
+^008040Die Kunst des Krieges (Spezial:100)^000000
+Ein Buch, in dem ein Stratege aus dem Osten die Essenz der Kriegskunst niederschrieb.
+Noch heute wird es von vielen Militärs studiert.
+STR + 1, INT + 2, MATK + 15%, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +75%. Ignoriert 25% der magischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Buch^000000      Angriff: ^77777790^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Priester/Weiser/Sternengläubiger ausrüstbar^000000
+^FF0000[Faustwaffe]^000000
+^008040Battle Fist des Kämpfers (Spezial:100)^000000
+Ein PvP-Kampfhandschuh für Kampfkünstler. Beim Tragen quillt unaufhörlich Kraft hervor, selbst lange Kämpfe steckt man mühelos weg.
+STR + 2, AGI + 1, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +95%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Bei physischen Angriffen mit einer gewissen Chance automatischer Zauber: Zen.
+Kategorie: ^777777Klaue^000000  Angriff: ^77777730^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Priester/Mönch ausrüstbar^000000
+
+
+^008040Battle Fist des Kämpfers (Tapferkeit:100)^000000
+Ein PvP-Kampfhandschuh für Kampfkünstler. Beim Tragen quillt unaufhörlich Kraft hervor, selbst lange Kämpfe steckt man mühelos weg.
+STR + 2, INT + 1, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +95%. Zauberzeit von Guillotinenfaust -25%.
+Beim Angriff mit einer gewissen Chance bei Waffen-Erweckung: 6 Sek. Zauberzeit von Guillotinenfaust -100%.
+Kategorie: ^777777Klaue^000000  Angriff: ^77777730^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Priester/Mönch ausrüstbar^000000
+^FF0000[Zweihandschwert]^000000
+^008040Katzbalger des Sturmhauptmanns (Tapferkeit:100)^000000
+Ein speziell für Sturmangriffe gefertigtes Zweihandschwert. Sehr effektiv im PvP.
+STR + 2, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +55%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Zweihandschwert^000000  Angriff: ^777777200^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Schwertkämpfer-Klasse^000000
+
+
+
+^008040Katzbalger des Sturmhauptmanns (Spezial:100)^000000
+Ein speziell für Sturmangriffe gefertigtes Zweihandschwert. Sehr effektiv im PvP.
+CRIT + 20, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +55%. Kritischer Schaden +20%.
+Kategorie: ^777777Zweihandschwert^000000  Angriff: ^777777200^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Schwertkämpfer-Klasse^000000
+
+^FF0000[Zweihandspeer]^000000
+^008040Lanze des Sturmhauptmanns (Spezial:100)^000000
+Ein speziell für Sturmangriffe gefertigter Zweihandspeer. Für PvP optimiert.
+STR + 2, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +25%. Ignoriert die DEF von Halbmenschen-Monstern.
+Kategorie: ^777777Zweihandspeer^000000  Angriff: ^777777160^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Schwertkämpfer-Klasse^000000
+
+
+^FF0000[Zweihandaxt]^000000
+^008040Streitaxt des Berserkers (Spezial:100)^000000
+Eine furchterregende Zweihandaxt für PvP, die ihren Träger wie einen Berserker zuschlagen lässt.
+STR + 3, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +55%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Zweihandaxt^000000  Angriff: ^777777200^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Schwertkämpfer-Klasse/Händler-Klasse exklusiv^000000
+
+^008040Streitaxt des Berserkers (Tapferkeit:100)^000000
+Eine furchterregende Zweihandaxt für PvP, die ihren Träger wie einen Berserker zuschlagen lässt.
+STR + 3, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +55%.
+Beim Angriff mit einer gewissen Chance bei Waffen-Erweckung: 3 Sek. 100% Chance, die Rüstung des Ziels zu zerstören.
+Kategorie: ^777777Zweihandaxt^000000  Angriff: ^777777200^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Schwertkämpfer-Klasse/Händler-Klasse exklusiv^000000
+
+
+^FF0000[Fuuma-Shuriken]^000000
+^008040Kampffuuma-Shuriken (Tapferkeit:100)^000000
+Ein Fuuma-Shuriken mit verheerender Wirkung im PvP.
+STR + 2, DEX + 1, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +95%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Fuuma^000000    Angriff: ^77777755^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Ninja^000000
+
+^008040Kampffuuma-Shuriken (Spezial:100)^000000
+Ein Fuuma-Shuriken mit verheerender Wirkung im PvP.
+STR + 2, DEX + 1, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +95%.
+Beim Angriff mit einer gewissen Chance bei Waffen-Erweckung: 10 Sek. Schaden von Huuma-Shuriken werfen und Issen +100%.
+Kategorie: ^777777Fuuma^000000    Angriff: ^77777755^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Ninja^000000
+
+
+^FF0000[Katar]^000000
+^008040Katar des Gemetzels (Tapferkeit:100)^000000
+Ein auf PvP spezialisierter Katar, der in den Händen eines erfahrenen Assassinen ein Blutbad anrichtet.
+STR + 1, DEX + 1, LUK + 1, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +70%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Katar^000000   Angriff: ^777777130^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Assassine^000000
+
+^008040Katar des Gemetzels (Spezial:100)^000000
+Ein auf PvP spezialisierter Katar, der in den Händen eines erfahrenen Assassinen ein Blutbad anrichtet.
+STR + 1, DEX + 1, LUK + 1, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +70%. Kritischer Schaden +20%.
+ASPD +5%.
+Kategorie: ^777777Katar^000000   Angriff: ^777777130^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Assassine^000000
+
+
+^FF0000[Bogen]^000000
+^008040Battle Armbrust (Spezial:100)^000000
+Eine Armbrust, die Pfeile schmerzhafter und kraftvoller in halbmenschenartige Gegner treibt.
+DEX + 2, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +55%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Bogen^000000      Angriff: ^777777100^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Dieb-Klasse/Bogenschütze-Klasse ausrüstbar^000000
+
+^008040Battle Armbrust (Tapferkeit:100)^000000
+Eine Armbrust, die Pfeile schmerzhafter und kraftvoller in halbmenschenartige Gegner treibt.
+DEX + 2, INT + 10, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +55%.
+Kategorie: ^777777Bogen^000000      Angriff: ^777777100^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Dieb-Klasse/Bogenschütze-Klasse ausrüstbar^000000
+
+
+^FF0000[Revolver]^000000
+^008040Soldier-Revolver (Tapferkeit:100)^000000
+Ein für Nah- und Mitteldistanz-PvP gefertigter Revolver. Selbst durch kugelsichere Westen überträgt er noch Wucht.
+DEX + 2, HIT -10, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +55%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Beim Angriff mit einer gewissen Chance bei Waffen-Erweckung: 3 Sek. ASPD +100%.
+Kategorie: ^777777Revolver^000000   Angriff: ^77777770^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Gunslinger^000000
+^FF0000[Gewehr]^000000
+^008040Soldier-Gewehr (Spezial:100)^000000
+Ein Gewehr für PvP-Scharfschützen auf mittlere und lange Distanz. Minimiert Zittern und verkürzt die Zielerfassungszeit stark.
+DEX + 2, HIT + 10, CRIT + 10, Unzerstörbar, Zauberzeit von Tracking -25%.
+Physischer Schaden gegen Halbmenschen-Monster +75%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Kategorie: ^777777Gewehr^000000   Angriff: ^77777750^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Gunslinger^000000
+
+^FF0000[Gatling Gun]^000000
+^008040Soldier-Gatling Gun (Tapferkeit:100)^000000
+Eine motorbetriebene Mehrfachfeuerwaffe, spezialisiert auf PvP. Bei Dauerfeuer fliegen Geschosse gelegentlich stärker als sonst.
+DEX + 2, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +35%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Beim Angriff mit einer gewissen Chance bei Waffen-Erweckung: 6 Sek. ATK +80. Rückstoß verursacht jede Sek. 120 HP Verlust.
+Kategorie: ^777777Gatling Gun^000000   Angriff: ^77777780^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Gunslinger^000000
+^FF0000[Schrotflinte]^000000
+^008040Soldier-Schrotflinte (Spezial:100)^000000
+Eine PvP-Schrotflinte mit starker Wirkung auf kurze Distanz. Die Angriffsschwankung ist groß.
+DEX + 2, Flächenangriff, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +55%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Beim Angriff mit einer gewissen Chance bei Waffen-Erweckung: 6 Sek. ATK +100. Rückstoß verursacht jede Sek. 100 HP Verlust.
+Kategorie: ^777777Schrotflinte^000000    Angriff: ^777777100^000000    Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Gunslinger^000000
+
+^FF0000[Granatwerfer]^000000
+^008040Soldier-Granatwerfer (Spezial:100)^000000
+Ein Granatwerfer mit enormer Feuerkraft für PvP.
+DEX + 2, Unzerstörbar
+Physischer Schaden gegen Halbmenschen-Monster +35%. Ignoriert 20% der physischen Verteidigung von Halbmenschen-Monstern.
+Beim Angriff mit einer gewissen Chance bei Waffen-Erweckung: 9 Sek. ATK +300. Rückstoß verursacht jede Sek. 120 HP Verlust.
+Kategorie: ^777777Granatwerfer^000000   Angriff: ^777777300^000000  Gewicht: ^7777770^000000
+Waffenlevel: ^7777773^000000     Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Gunslinger^000000
+^FF0000[Überwurf]^000000
+^008040Mantel des Kommandanten (50)^000000
+Ein auf dem Schlachtfeld ausgegebener, würdevoll wirkender Mantel.
+Er wird nur an Personen verliehen, die sich an vorderster Front besonders ausgezeichnet haben.
+Erhaltener Schaden von Halbmenschen-Monstern -1%.
+MHP + 50. MDEF + 1.
+Kategorie: ^777777Überwurf^000000    Verteidigung: ^7777774^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Schwertkämpfer, Händler, Dieb-Klasse (Ninja), Sternengläubiger ausrüstbar^000000
+
+
+^008040Mantel des Befehlshabers (50)^000000
+Ein Mantel für Befehlshaber mit herausragender Unterstützung aus der hinteren Reihe.
+Erhaltener Schaden von Halbmenschen-Monstern -1%. MHP + 50. MDEF + 1.
+Kategorie: ^777777Überwurf^000000    Verteidigung: ^7777773^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Magier, Akolyth, Bogenschütze-Klasse, Soul Linker ausrüstbar^000000
+
+
+^008040Mantel des Sheriffs (50)^000000
+Ein Mantel, der trockene Sandstürme, Spannung und Entschlossenheit spüren lässt.
+Erhaltener Schaden von Halbmenschen-Monstern -1%. MHP + 50. MDEF + 1.
+Kategorie: ^777777Überwurf^000000    Verteidigung: ^7777773^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Gunslinger^000000
+
+
+
+^FF0000[Schuhe]^000000
+^008040Kampf-Beinschienen (50)^000000
+Beinschienen, die optimal für den Kampf ausgelegt sind.
+Erhaltener Schaden von Halbmenschen-Monstern -1%.
+MHP + 100. MDEF + 1.
+Kategorie: ^777777Schuhe^000000    Verteidigung: ^7777774^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Schwertkämpfer, Händler, Dieb-Klasse (Ninja), Sternengläubiger ausrüstbar^000000
+
+
+^008040Militärstiefel (50)^000000
+Entgegen ihrem Aussehen sind sie bequem und robust.
+Erhaltener Schaden von Halbmenschen-Monstern -1%.
+MHP + 100. MDEF + 1.
+Kategorie: ^777777Schuhe^000000    Verteidigung: ^7777773^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Magier, Akolyth, Bogenschütze-Klasse, Soul Linker ausrüstbar^000000
+
+
+
+^008040Kampfstiefel (50)^000000
+Zwar nur für Gunslinger, aber kaum anders als andere Stiefel.
+Erhaltener Schaden von Halbmenschen-Monstern -1%.
+MHP + 100. MDEF + 1.
+Kategorie: ^777777Schuhe^000000    Verteidigung: ^7777773^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Gunslinger^000000
+
+
+^FF0000[Rüstung]^000000
+^008040Plattenrüstung des Sturmhauptmanns (80)^000000
+Empfohlen für alle, die dem Feind an vorderster Front zuerst begegnen!
+Mit dem kompletten Set sind die verstärkten Effekte noch deutlicher spürbar!
+Erhaltener Schaden von Halbmenschen-Monstern -2%. MHP + 150. MDEF + 2.
+Bei Ausrüstung zusammen mit Kampf-Beinschienen und Mantel des Kommandanten wird erhaltener Schaden von Nicht-Halbmenschen-Monstern verdreifacht,
+VIT + 3, MHP +12%, erhaltene Heilung und einige Heilitems +10%,
+bei Erhalt physischer Angriffe besteht eine gewisse Chance, über 10 Sek. 6000 HP zu regenerieren.
+Kategorie: ^777777Rüstung^000000    Verteidigung: ^7777777^000000   Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Schwertkämpfer, Händler, TaeKwon, Sternengläubiger ausrüstbar^000000
+
+^008040Rüstung des Elite-Pioniers (80)^000000
+Empfohlen für alle mit außergewöhnlicher Angriffskraft! Mit dem kompletten Set sind die verstärkten Effekte noch deutlicher spürbar!
+Erhaltener Schaden von Halbmenschen-Monstern -2%. MHP + 150. MDEF + 2.
+Bei Ausrüstung zusammen mit Kampf-Beinschienen und Mantel des Kommandanten wird erhaltener Schaden von Nicht-Halbmenschen-Monstern verdreifacht,
+STR + 3, MHP +12%, Mammonite-Schaden +20%,
+HP-Heilung von [Heilung] und [Trank-Werfer] +10%, Rüstung Unzerstörbar.
+Kategorie: ^777777Rüstung^000000    Verteidigung: ^7777777^000000   Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Händler-Klasse ausrüstbar^000000
+^008040Robe des Assassinen (80)^000000
+Empfohlen für alle, die sich nach unvergleichlicher Schnelligkeit und Beweglichkeit sehnen!
+Mit dem kompletten Set sind die verstärkten Effekte noch deutlicher spürbar!
+Erhaltener Schaden von Halbmenschen-Monstern -2%. MHP + 150. MDEF + 2.
+Bei Ausrüstung zusammen mit Kampf-Beinschienen und Mantel des Kommandanten wird erhaltener Schaden von Nicht-Halbmenschen-Monstern verdreifacht,
+AGI + 3, MHP +12%, ASPD und C.RATE +5%,
+bei Erhalt physischer Angriffe besteht eine gewisse Chance, über 10 Sek. 3000 HP zu regenerieren.
+Kategorie: ^777777Rüstung^000000    Verteidigung: ^7777777^000000   Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Dieb-Klasse (Ninja) ausrüstbar^000000
+
+^008040Kampfrrobe des Warlock (80)^000000
+Empfohlen für alle, die bei höherer Überlebenschance nichts mehr zu fürchten haben!
+Mit dem kompletten Set sind die verstärkten Effekte noch deutlicher spürbar!
+Erhaltener Schaden von Halbmenschen-Monstern -2%. MHP + 150. MDEF + 2.
+Bei Ausrüstung zusammen mit Militärstiefeln und Mantel des Befehlshabers wird erhaltener Schaden von Nicht-Halbmenschen-Monstern verdreifacht,
+INT + 3, MHP +12%, Betäubungsresistenz +20%,
+bei Erhalt physischer Angriffe besteht eine gewisse Chance, die Rüstung 10 Sek. lang dem Heilig-Element zu verleihen.
+Kategorie: ^777777Rüstung^000000    Verteidigung: ^7777773^000000   Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Magier-Klasse ausrüstbar^000000
+^008040Robe des Sanitäters (80)^000000
+Empfohlen für alle, die das Überleben von Gruppe oder Gilde sichern!
+Mit dem kompletten Set sind die verstärkten Effekte noch deutlicher spürbar!
+Erhaltener Schaden von Halbmenschen-Monstern -2%. MHP + 150. MDEF + 2.
+Bei Ausrüstung zusammen mit Militärstiefeln und Mantel des Befehlshabers wird erhaltener Schaden von Nicht-Halbmenschen-Monstern verdreifacht,
+INT + 3, MHP +12%, Zauberzeit von Holy Light -50%.
+Die HP-Heilung von [Heilung] und [Heiligtum] wird um 6% erhöht.
+Bei Erhalt physischer Angriffe besteht eine gewisse Chance, die Rüstung 10 Sek. lang dem Heilig-Element zu verleihen.
+Kategorie: ^777777Rüstung^000000    Verteidigung: ^7777773^000000   Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Akolyth-Klasse ausrüstbar^000000
+
+^008040Schutzanzug des Elite-Bogenschützen (80)^000000
+Empfohlen für alle, die präzise, scharfe und effektive Kämpfe suchen!
+Mit dem kompletten Set sind die verstärkten Effekte noch deutlicher spürbar!
+Erhaltener Schaden von Halbmenschen-Monstern -2%. MHP + 150. MDEF + 2.
+Bei Ausrüstung zusammen mit Militärstiefeln und Mantel des Befehlshabers wird erhaltener Schaden von Nicht-Halbmenschen-Monstern verdreifacht,
+DEX + 3, MHP +12%, erlittener Fernkampfschaden -10%. Globale Abklingzeit -25%.
+Kategorie: ^777777Rüstung^000000    Verteidigung: ^7777773^000000   Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Bogenschütze-Klasse ausrüstbar^000000
+^008040Schutzanzug des Elite-Schützen (80)^000000
+Ein Schutzanzug, den sich jeder echte Gunslinger wünscht!
+Mit dem kompletten Set sind die verstärkten Effekte noch deutlicher spürbar!
+Erhaltener Schaden von Halbmenschen-Monstern -2%. MHP + 150. MDEF + 2.
+Bei Ausrüstung zusammen mit Kampfstiefeln und Mantel des Sheriffs wird erhaltener Schaden von Nicht-Halbmenschen-Monstern verdreifacht,
+DEX + 3, MHP +12%, erlittener Fernkampfschaden -10%. Globale Abklingzeit -25%.
+Kategorie: ^777777Rüstung^000000    Verteidigung: ^7777773^000000   Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Gunslinger^000000
+
+
+^FF0000[Zubehör]^000000
+^008040Kriegsverdienstmedaille (500)^000000
+Eine Medaille für jene, die sich auf dem Schlachtfeld hervorgetan haben.
+ATK + 5%, MATK + 5%. HIT + 10. MHP + 500. MSP + 50.
+Bei physischen Nahkampfangriffen besteht eine geringe Chance, den Gegner zu betäuben.
+Kategorie: ^777777Zubehör^000000   Verteidigung: ^7777771^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777770^000000
+Ausrüstung: ^777777Schwertkämpfer-Klasse / Sternengläubiger exklusiv^000000
+
+^008040Kriegsverdienstmedaille (500)^000000
+Eine Medaille für jene, die sich auf dem Schlachtfeld hervorgetan haben.
+ATK + 5%, MATK + 5%. FLEE + 10. MHP + 300. MSP + 80.
+Bei physischen Nahkampfangriffen besteht eine geringe Chance, den Gegner zu vergiften.
+Kategorie: ^777777Zubehör^000000   Verteidigung: ^7777771^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777770^000000
+Ausrüstung: ^777777Dieb-Klasse (Ninja) exklusiv^000000
+
+
+
+^008040Kriegsverdienstmedaille (500)^000000
+Eine Medaille für jene, die sich auf dem Schlachtfeld hervorgetan haben.
+ATK + 5%, MATK + 5%. MDEF + 6. MHP + 600.
+Bei physischen Nahkampfangriffen besteht eine geringe Chance, den Gegner zum Schweigen zu bringen.
+Kategorie: ^777777Zubehör^000000   Verteidigung: ^7777771^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777770^000000
+Ausrüstung: ^777777Akolyth-Klasse exklusiv^000000
+
+
+^008040Kriegsverdienstmedaille (500)^000000
+Eine Medaille für jene, die sich auf dem Schlachtfeld hervorgetan haben.
+ATK + 5%, MATK + 5%. MDEF + 6. MHP + 600.
+Bei Erhalt physischen Schadens besteht eine geringe Chance, den Gegner zu versteinern.
+Kategorie: ^777777Zubehör^000000   Verteidigung: ^7777771^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777770^000000
+Ausrüstung: ^777777Magier-Klasse exklusiv^000000
+
+
+
+^008040Kriegsverdienstmedaille (500)^000000
+Eine Medaille für jene, die sich auf dem Schlachtfeld hervorgetan haben.
+ATK + 5%, MATK + 5%. CRIT + 10. MHP + 300. MSP + 80.
+Bei physischen Fernkampfangriffen besteht eine geringe Chance, Blindheit zu verursachen.
+Kategorie: ^777777Zubehör^000000   Verteidigung: ^7777771^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777770^000000
+Ausrüstung: ^777777Bogenschütze-Klasse exklusiv^000000
+
+
+^008040Kriegsverdienstmedaille (500)^000000
+Eine Medaille für jene, die sich auf dem Schlachtfeld hervorgetan haben.
+ATK + 5%, MATK + 5%. ASPD + 10%. MHP + 500. MSP + 50.
+Bei physischen Nahkampfangriffen besteht eine geringe Chance, Fluch zu verursachen.
+Kategorie: ^777777Zubehör^000000   Verteidigung: ^7777771^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777770^000000
+Ausrüstung: ^777777Händler-Klasse exklusiv^000000
+
+
+
+^008040Sheriff-Abzeichen - Gunslinger (500)^000000
+Eine Medaille für jene, die sich auf dem Schlachtfeld hervorgetan haben.
+ATK + 5%, MATK + 5%. CRIT + 10. MHP + 300. MSP + 80.
+Bei physischen Fernkampfangriffen besteht eine gewisse Chance, Blindheit zu verursachen.
+Kategorie: ^777777Zubehör^000000   Verteidigung: ^7777771^000000
+Gewicht: ^7777770^000000   Benötigtes Level: ^77777780^000000
+Ausrüstung: ^777777Nur Gunslinger^000000
+
+
+^FF0000[Verbrauchsgegenstand]^000000
+^008040Leutnantsration (10)^000000
+Notproviant fürs Überleben im Ernstfall. Zu hastiges Essen kann im Hals stecken bleiben.
+^000088ATK + 15 für 10 Min.^000000
+Gewicht: ^7777777^000000
+
+
+^008040Majorration (10)^000000
+Notproviant fürs Überleben im Ernstfall. Zu hastiges Essen kann im Hals stecken bleiben.
+^000088MATK + 15 für 10 Min.^000000
+Gewicht: ^7777777^000000
+
+
+^008040Militärration Typ A (5)^000000
+Verbesserte Nahrung Typ A für schnelles Essen in hektischen Situationen. Geschmack nicht garantiert.
+^000088Stellt 5% HP wieder her.^000000
+Gewicht: ^7777777^000000
+
+
+^008040Militärration Typ B (10)^000000
+Verbesserte Nahrung Typ B für schnelles Essen in hektischen Situationen. Geschmack nicht garantiert.
+^000088HIT + 33 für 10 Min.^000000
+Gewicht: ^7777777^000000
+
+
+^008040Militärration Typ C (10)^000000
+Verbesserte Nahrung Typ C für schnelles Essen in hektischen Situationen. Geschmack nicht garantiert.
+^000088FLEE + 33 für 10 Min.^000000
+Gewicht: ^7777777^000000

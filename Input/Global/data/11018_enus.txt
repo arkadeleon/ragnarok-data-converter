@@ -1,0 +1,18 @@
+%f5f5dc
+^000088Splendide Shop Items^000000
+The following items can be purchased using Splendide Coins.
+^008040[Pinguicula Fruit Preserve]^000000
+A sweet jam made by slowly simmering Pinguicula fruit.
+For 10 minutes, physical attack damage against monsters in the Splendide field area increases by 10%.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Weight : ^7777775^000000
+^008040[Luciola Honey Jam]^000000
+A jam made by blending Luciola honey with herbs.
+For 10 minutes, physical and magical damage received from monsters in the Splendide field area is reduced by 10%.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Weight : ^7777775^000000
+^008040[Cornus’s Tears]^000000
+A potion refined from the tears of a Cornus. How those tears were obtained remains unknown.
+For 10 minutes, magic attack damage against monsters in the Splendide field area increases by 10%.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Weight : ^7777775^000000

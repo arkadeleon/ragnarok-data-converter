@@ -1,0 +1,850 @@
+alb2trea.rsw#Alberta Island#
+alb_ship.rsw#Inside Alberta Ship#
+alberta.rsw#Alberta, the Port City#
+alberta_in.rsw#Inside Alberta#
+alde_dun01.rsw#Clock Tower Underground Floor 1#
+alde_dun02.rsw#Clock Tower Underground Floor 2#
+alde_dun03.rsw#Clock Tower Underground Floor 3#
+alde_dun04.rsw#Clock Tower Underground Floor 4#
+alde_gld.rsw#Luina, the Satellite City of Al De Baran#
+aldeba_in.rsw#Inside Al De Baran#
+aldebaran.rsw#Al De Baran, the Border City#
+an_d01_a.rsw#Ant Hell Floor 1#
+an_d01_b.rsw#Ant Hell Floor 1#
+an_d01_c.rsw#Ant Hell Floor 1#
+an_d01_d.rsw#Ant Hell Floor 1#
+an_d01_y.rsw#Ant Hell Floor 1#
+an_d01_z.rsw#Ant Hell Floor 1#
+an_d02_a.rsw#Ant Hell Floor 2#
+an_d02_b.rsw#Ant Hell Floor 2#
+an_d02_c.rsw#Ant Hell Floor 2#
+an_d02_d.rsw#Ant Hell Floor 2#
+an_d02_y.rsw#Ant Hell Floor 2#
+an_d02_z.rsw#Ant Hell Floor 2#
+anthell01.rsw#Morroc Ant Hell Floor 1#
+anthell02.rsw#Morroc Ant Hell Dungeon Floor 2#
+b_an_d02.rsw#Ant Hell Floor 2#
+b_an_d02_z.rsw#Ant Hell Floor 2#
+b_bea_d01.rsw#West Cave Karu#
+b_bea_d01_z.rsw#West Cave Karu#
+b_gef_d01.rsw#Geffen Underground Dungeon Floor 2#
+b_gef_d01_z.rsw#Geffen Underground Dungeon Floor 2#
+b_gef_d02.rsw#Geffen Underground Dungeon Floor 3#
+b_gef_d02_z.rsw#Geffen Underground Dungeon Floor 3#
+b_gef_f03.rsw#Geffen Field#
+b_gef_f03_z.rsw#Geffen Field#
+b_gef_f10.rsw#Orc Village#
+b_gef_f10_z.rsw#Orc Village#
+b_gl_chy.rsw#Catacombs#
+b_gl_chy_z.rsw#Catacombs#
+b_maz_d03.rsw#Prontera Labyrinth Forest Floor 3#
+b_maz_d03_z.rsw#Prontera Labyrinth Forest Floor 3#
+b_moc_f17.rsw#Sograt Desert#
+b_moc_f17_z.rsw#Sograt Desert#
+b_pay_d04.rsw#Payon Cave Floor 5 - Abandoned Village#
+b_pay_d04_z.rsw#Payon Cave Floor 5 - Abandoned Village#
+b_pay_f10.rsw#Payon Forest#
+b_pay_f10_z.rsw#Payon Forest#
+b_prt_d04.rsw#Prontera Culvert Floor 4#
+b_prt_d04_z.rsw#Prontera Culvert Floor 4#
+b_pry_d04.rsw#Pyramid Floor 4#
+b_pry_d04_z.rsw#Pyramid Floor 4#
+b_pry_d06.rsw#Pyramid Underground Floor 2#
+b_pry_d06_z.rsw#Pyramid Underground Floor 2#
+b_sp_d05.rsw#Morroc Sphinx Dungeon Floor 5#
+b_sp_d05_z.rsw#Morroc Sphinx Dungeon Floor 5#
+b_tre_d02.rsw#Sunken Ship Floor 2#
+b_tre_d02_z.rsw#Sunken Ship Floor 2#
+bea_d01_a.rsw#West Cave Karu#
+bea_d01_b.rsw#West Cave Karu#
+bea_d01_z.rsw#West Cave Karu#
+bea_d02_a.rsw#Northern Cave Luanda#
+bea_d02_b.rsw#Northern Cave Luanda#
+bea_d02_z.rsw#Northern Cave Luanda#
+bea_d03_a.rsw#East Cave Mao#
+bea_d03_b.rsw#East Cave Mao#
+bea_d03_c.rsw#East Cave Mao#
+bea_d03_d.rsw#East Cave Mao#
+bea_d03_y.rsw#East Cave Mao#
+bea_d03_z.rsw#East Cave Mao#
+beach_dun.rsw#Comodo Western Cave Karu#
+beach_dun2.rsw#Northern Comodo Cave Luanda#
+beach_dun3.rsw#Comodo Eastern Cave Mao#
+c_tower1.rsw#Clock Tower Floor 1#
+c_tower2.rsw#Clock Tower Floor 2#
+c_tower3.rsw#Clock Tower Floor 3#
+c_tower4.rsw#Clock Tower Floor 4#
+cmd_f01_a.rsw#Comodo Papuchicha Forest#
+cmd_f01_b.rsw#Comodo Papuchicha Forest#
+cmd_f01_c.rsw#Comodo Papuchicha Forest#
+cmd_f01_d.rsw#Comodo Papuchicha Forest#
+cmd_f01_y.rsw#Comodo Papuchicha Forest#
+cmd_f01_z.rsw#Comodo Papuchicha Forest#
+cmd_f02_a.rsw#Kokomo Beach#
+cmd_f02_b.rsw#Kokomo Beach#
+cmd_f02_c.rsw#Kokomo Beach#
+cmd_f02_d.rsw#Kokomo Beach#
+cmd_f02_y.rsw#Kokomo Beach#
+cmd_f02_z.rsw#Kokomo Beach#
+cmd_f03_a.rsw#Zenhai Marsh#
+cmd_f03_b.rsw#Zenhai Marsh#
+cmd_f03_c.rsw#Zenhai Marsh#
+cmd_f03_d.rsw#Zenhai Marsh#
+cmd_f03_y.rsw#Zenhai Marsh#
+cmd_f03_z.rsw#Zenhai Marsh#
+cmd_f04_a.rsw#Kokomo Beach#
+cmd_f04_b.rsw#Kokomo Beach#
+cmd_f04_c.rsw#Kokomo Beach#
+cmd_f04_d.rsw#Kokomo Beach#
+cmd_f04_y.rsw#Kokomo Beach#
+cmd_f04_z.rsw#Kokomo Beach#
+cmd_f06_a.rsw#Fortress Saint Darmain, West Side#
+cmd_f06_b.rsw#Fortress Saint Darmain, West Side#
+cmd_f06_c.rsw#Fortress Saint Darmain, West Side#
+cmd_f06_d.rsw#Fortress Saint Darmain, West Side#
+cmd_f06_y.rsw#Fortress Saint Darmain, West Side#
+cmd_f06_z.rsw#Fortress Saint Darmain, West Side#
+cmd_f07_a.rsw#Pharos Lighthouse#
+cmd_f07_b.rsw#Pharos Lighthouse#
+cmd_f07_c.rsw#Pharos Lighthouse#
+cmd_f07_d.rsw#Pharos Lighthouse#
+cmd_f07_y.rsw#Pharos Lighthouse#
+cmd_f07_z.rsw#Pharos Lighthouse#
+cmd_f08_a.rsw#Fortress Saint Darmai, East Side#
+cmd_f08_b.rsw#Fortress Saint Darmai, East Side#
+cmd_f08_c.rsw#Fortress Saint Darmai, East Side#
+cmd_f08_d.rsw#Fortress Saint Darmai, East Side#
+cmd_f08_y.rsw#Fortress Saint Darmai, East Side#
+cmd_f08_z.rsw#Fortress Saint Darmai, East Side#
+cmd_f09_a.rsw#Fortress Saint Darmai, East Side#
+cmd_f09_b.rsw#Fortress Saint Darmai, East Side#
+cmd_f09_c.rsw#Fortress Saint Darmai, East Side#
+cmd_f09_d.rsw#Fortress Saint Darmai, East Side#
+cmd_f09_y.rsw#Fortress Saint Darmai, East Side#
+cmd_f09_z.rsw#Fortress Saint Darmai, East Side#
+cmd_fild01.rsw#Comodo Papuchicha Forest#
+cmd_fild02.rsw#Comodo Kokomo Beach#
+cmd_fild03.rsw#Zenhai Marsh#
+cmd_fild04.rsw#Comodo Kokomo Beach#
+cmd_fild06.rsw#Fortress Saint Darmain, West Side#
+cmd_fild07.rsw#Pharos Lighthouse#
+cmd_fild08.rsw#Fortress Saint Darmai, East Side#
+cmd_fild09.rsw#Fortress Saint Darmain, South Side#
+cmd_in01.rsw#Inside Comodo#
+cmd_in02.rsw#Inside Comodo#
+comodo.rsw#Comodo, the Beach Town#
+gef_d00_a.rsw#Geffen Underground Dungeon Floor 1#
+gef_d00_b.rsw#Geffen Underground Dungeon Floor 1#
+gef_d00_z.rsw#Geffen Underground Dungeon Floor 1#
+gef_d01_a.rsw#Geffen Underground Dungeon Floor 2#
+gef_d01_b.rsw#Geffen Underground Dungeon Floor 2#
+gef_d01_z.rsw#Geffen Underground Dungeon Floor 2#
+gef_d02_a.rsw#Geffen Underground Dungeon Floor 3#
+gef_d02_b.rsw#Geffen Underground Dungeon Floor 3#
+gef_d02_z.rsw#Geffen Underground Dungeon Floor 3#
+gef_dun00.rsw#Geffen Underground Dungeon Floor 1#
+gef_dun01.rsw#Geffen Underground Dungeon Floor 2#
+gef_dun02.rsw#Geffen Underground Dungeon Floor 3#
+gef_f00_a.rsw#Geffen Field#
+gef_f00_b.rsw#Geffen Field#
+gef_f00_c.rsw#Geffen Field#
+gef_f00_d.rsw#Geffen Field#
+gef_f00_y.rsw#Geffen Field#
+gef_f00_z.rsw#Geffen Field#
+gef_f01_a.rsw#Geffen Field#
+gef_f01_b.rsw#Geffen Field#
+gef_f01_c.rsw#Geffen Field#
+gef_f01_d.rsw#Geffen Field#
+gef_f01_y.rsw#Geffen Field#
+gef_f01_z.rsw#Geffen Field#
+gef_f02_a.rsw#Geffen Field#
+gef_f02_b.rsw#Geffen Field#
+gef_f02_c.rsw#Geffen Field#
+gef_f02_d.rsw#Geffen Field#
+gef_f02_y.rsw#Geffen Field#
+gef_f02_z.rsw#Geffen Field#
+gef_f03_a.rsw#Geffen Field#
+gef_f03_b.rsw#Geffen Field#
+gef_f03_c.rsw#Geffen Field#
+gef_f03_d.rsw#Geffen Field#
+gef_f03_y.rsw#Geffen Field#
+gef_f03_z.rsw#Geffen Field#
+gef_f04_a.rsw#Geffen Field#
+gef_f04_b.rsw#Geffen Field#
+gef_f04_c.rsw#Geffen Field#
+gef_f04_d.rsw#Geffen Field#
+gef_f04_y.rsw#Geffen Field#
+gef_f04_z.rsw#Geffen Field#
+gef_f05_a.rsw#Gypsy Village#
+gef_f05_b.rsw#Gypsy Village#
+gef_f05_c.rsw#Gypsy Village#
+gef_f05_d.rsw#Gypsy Village#
+gef_f05_y.rsw#Gypsy Village#
+gef_f05_z.rsw#Gypsy Village#
+gef_f06_a.rsw#Geffen Field#
+gef_f06_b.rsw#Geffen Field#
+gef_f06_c.rsw#Geffen Field#
+gef_f06_d.rsw#Geffen Field#
+gef_f06_y.rsw#Geffen Field#
+gef_f06_z.rsw#Geffen Field#
+gef_f07_a.rsw#Geffen Field#
+gef_f07_b.rsw#Geffen Field#
+gef_f07_c.rsw#Geffen Field#
+gef_f07_d.rsw#Geffen Field#
+gef_f07_y.rsw#Geffen Field#
+gef_f07_z.rsw#Geffen Field#
+gef_f08_a.rsw#Geffen Field#
+gef_f08_b.rsw#Geffen Field#
+gef_f08_c.rsw#Geffen Field#
+gef_f08_d.rsw#Geffen Field#
+gef_f08_y.rsw#Geffen Field#
+gef_f08_z.rsw#Geffen Field#
+gef_f09_a.rsw#Geffen Field#
+gef_f09_b.rsw#Geffen Field#
+gef_f09_c.rsw#Geffen Field#
+gef_f09_d.rsw#Geffen Field#
+gef_f09_y.rsw#Geffen Field#
+gef_f09_z.rsw#Geffen Field#
+gef_f10_a.rsw#Orc Village#
+gef_f10_b.rsw#Orc Village#
+gef_f10_c.rsw#Orc Village#
+gef_f10_d.rsw#Orc Village#
+gef_f10_y.rsw#Orc Village#
+gef_f10_z.rsw#Orc Village#
+gef_f11_a.rsw#Geffen Field#
+gef_f11_b.rsw#Geffen Field#
+gef_f11_c.rsw#Geffen Field#
+gef_f11_d.rsw#Geffen Field#
+gef_f11_y.rsw#Geffen Field#
+gef_f11_z.rsw#Geffen Field#
+gef_f12_a.rsw#Sograt Desert#
+gef_f12_b.rsw#Sograt Desert#
+gef_f18_a.rsw#Sograt Desert#
+gef_f18_b.rsw#Sograt Desert#
+gef_fild00.rsw#Geffen Field#
+gef_fild01.rsw#Geffen Field#
+gef_fild02.rsw#Geffen Field#
+gef_fild03.rsw#Geffen Field#
+gef_fild04.rsw#Geffen Field#
+gef_fild05.rsw#Gypsy Village#
+gef_fild06.rsw#Geffen Field#
+gef_fild07.rsw#Geffen Field#
+gef_fild08.rsw#Geffen Field#
+gef_fild09.rsw#Geffen Field#
+gef_fild10.rsw#Orc Village#
+gef_fild11.rsw#Geffen Field#
+gef_fild13.rsw#Britoniah#
+gef_tower.rsw#Geffen Tower#
+geffen.rsw#Geffen, the City of Magic#
+geffen_in.rsw#Inside Geffen#
+gl_c01_a.rsw#Glastheim Castle Floor 1#
+gl_c01_b.rsw#Glastheim Castle Floor 1#
+gl_c01_z.rsw#Glastheim Castle Floor 1#
+gl_c02_a.rsw#Glastheim Castle Floor 2#
+gl_c02_b.rsw#Glastheim Castle Floor 2#
+gl_c02_z.rsw#Glastheim Castle Floor 2#
+gl_cas01.rsw#Glastheim Castle Floor 1#
+gl_cas02.rsw#Glastheim Castle Floor 2#
+gl_chu_a.rsw#Monastery#
+gl_chu_b.rsw#Monastery#
+gl_chu_z.rsw#Monastery#
+gl_church.rsw#Monastery#
+gl_chy_a.rsw#Catacombs#
+gl_chy_b.rsw#Catacombs#
+gl_chy_z.rsw#Catacombs#
+gl_chyard.rsw#Catacombs#
+gl_d02_a.rsw#Underground Cave Floor 2#
+gl_d02_b.rsw#Underground Cave Floor 2#
+gl_d02_z.rsw#Underground Cave Floor 2#
+gl_dun01.rsw#Underground Cave Floor 1#
+gl_dun02.rsw#Underground Cave Floor 2#
+gl_in01.rsw#Inside Glastheim#
+gl_k01_a.rsw#Knights Hall Floor 1#
+gl_k01_b.rsw#Knights Hall Floor 1#
+gl_k01_z.rsw#Knights Hall Floor 1#
+gl_knt01.rsw#Knights Hall Floor 1#
+gl_knt02.rsw#Knights Hall Floor 2#
+gl_pri_a.rsw#Underground Prison Floor 1#
+gl_pri_b.rsw#Underground Prison Floor 1#
+gl_pri_z.rsw#Underground Prison Floor 1#
+gl_prison.rsw#Underground Prison Floor 1#
+gl_prison1.rsw#Underground Prison Floor 2#
+gl_sew01.rsw#Sewer Tunnel Floor 1#
+gl_sew02.rsw#Sewer Tunnel Floor 2#
+gl_sew03.rsw#Sewer Tunnel Floor 3#
+gl_sew04.rsw#Sewer Tunnel Floor 4#
+gl_step.rsw#Stair Dungeon#
+glast_01.rsw#Glastheim#
+gld_dun01.rsw#Greenwood Lake Dungeon Floor 1#
+gld_dun01_2.rsw#Greenwood Lake Dungeon Floor 2#
+gld_dun02.rsw#Luina Dungeon Floor 1#
+gld_dun02_2.rsw#Luina Dungeon Floor 2#
+gld_dun03.rsw#Valkyrie Realm Dungeon Floor 1#
+gld_dun03_2.rsw#Valkyrie Realm Dungeon Floor 2#
+gld_dun04.rsw#Britoniah Dungeon Floor 1#
+gld_dun04_2.rsw#Britoniah Dungeon Floor 2#
+in_orcs01.rsw#Inside Orc Village#
+in_sphinx1.rsw#Morroc Sphinx Dungeon Floor 1#
+in_sphinx2.rsw#Morroc Sphinx Dungeon Floor 2#
+in_sphinx3.rsw#Morroc Sphinx Dungeon Floor 3#
+in_sphinx4.rsw#Morroc Sphinx Dungeon Floor 4#
+in_sphinx5.rsw#Morroc Sphinx Dungeon Floor 5#
+itemmall.rsw#Item Mall#
+iz_ac01.rsw#Academy Floor 1#
+iz_ac02.rsw#Academy Floor 2#
+iz_d00_a.rsw#Undersea Cave Floor 1#
+iz_d00_b.rsw#Undersea Cave Floor 1#
+iz_d00_c.rsw#Undersea Cave Floor 1#
+iz_d00_d.rsw#Undersea Cave Floor 1#
+iz_d00_y.rsw#Undersea Cave Floor 1#
+iz_d00_z.rsw#Undersea Cave Floor 1#
+iz_d01_a.rsw#Undersea Cave Floor 2#
+iz_d01_b.rsw#Undersea Cave Floor 2#
+iz_d01_c.rsw#Undersea Cave Floor 2#
+iz_d01_d.rsw#Undersea Cave Floor 2#
+iz_d01_y.rsw#Undersea Cave Floor 2#
+iz_d01_z.rsw#Undersea Cave Floor 2#
+iz_d02_a.rsw#Undersea Cave Floor 3#
+iz_d02_b.rsw#Undersea Cave Floor 3#
+iz_d02_c.rsw#Undersea Cave Floor 3#
+iz_d02_d.rsw#Undersea Cave Floor 3#
+iz_d02_y.rsw#Undersea Cave Floor 3#
+iz_d02_z.rsw#Undersea Cave Floor 3#
+iz_d03_a.rsw#Undersea Cave Floor 4#
+iz_d03_b.rsw#Undersea Cave Floor 4#
+iz_d03_z.rsw#Undersea Cave Floor 4#
+iz_d04_a.rsw#Undersea Cave Floor 5#
+iz_d04_b.rsw#Undersea Cave Floor 5#
+iz_d04_z.rsw#Undersea Cave Floor 5#
+iz_dun00.rsw#Izlude Underwater Cave Dungeon Floor 1#
+iz_dun01.rsw#Izlude Underwater Cave Dungeon Floor 2#
+iz_dun02.rsw#Izlude Underwater Cave Dungeon Floor 3#
+iz_dun03.rsw#Izlude Underwater Cave Dungeon Floor 4#
+iz_dun04.rsw#Izlude Underwater Cave Dungeon Floor 5#
+izlu2dun.rsw#Byalan Island#
+izlude.rsw#Izlude, the Satellite City#
+izlude_in.rsw#Inside Izlude#
+maz_d01_a.rsw#Labyrinth Forest Floor 1#
+maz_d01_b.rsw#Labyrinth Forest Floor 1#
+maz_d01_z.rsw#Labyrinth Forest Floor 1#
+maz_d03_a.rsw#Labyrinth Forest Floor 3#
+maz_d03_b.rsw#Labyrinth Forest Floor 3#
+maz_d03_z.rsw#Labyrinth Forest Floor 3#
+mjo_d01_a.rsw#Mjolnir Dead Pit Floor 1#
+mjo_d01_b.rsw#Mjolnir Dead Pit Floor 1#
+mjo_d01_z.rsw#Mjolnir Dead Pit Floor 1#
+mjo_d02_a.rsw#Mjolnir Dead Pit Floor 2#
+mjo_d02_b.rsw#Mjolnir Dead Pit Floor 2#
+mjo_d02_z.rsw#Mjolnir Dead Pit Floor 2#
+mjo_d03_a.rsw#Mjolnir Dead Pit Floor 3#
+mjo_d03_b.rsw#Mjolnir Dead Pit Floor 3#
+mjo_d03_z.rsw#Mjolnir Dead Pit Floor 3#
+mjo_dun01.rsw#Mjolnir Dead Pit Floor 1#
+mjo_dun02.rsw#Mjolnir Dead Pit Floor 2#
+mjo_dun03.rsw#Mjolnir Dead Pit Floor 3#
+mjo_f01_a.rsw#Mt. Mjolnir North Side#
+mjo_f01_b.rsw#Mt. Mjolnir North Side#
+mjo_f01_c.rsw#Mt. Mjolnir North Side#
+mjo_f01_d.rsw#Mt. Mjolnir North Side#
+mjo_f01_y.rsw#Mt. Mjolnir North Side#
+mjo_f01_z.rsw#Mt. Mjolnir North Side#
+mjo_f02_a.rsw#Mt. Mjolnir North Side#
+mjo_f02_b.rsw#Mt. Mjolnir North Side#
+mjo_f02_c.rsw#Mt. Mjolnir North Side#
+mjo_f02_d.rsw#Mt. Mjolnir North Side#
+mjo_f02_y.rsw#Mt. Mjolnir North Side#
+mjo_f02_z.rsw#Mt. Mjolnir North Side#
+mjo_f03_a.rsw#Mt. Mjolnir North Side#
+mjo_f03_b.rsw#Mt. Mjolnir North Side#
+mjo_f03_c.rsw#Mt. Mjolnir North Side#
+mjo_f03_d.rsw#Mt. Mjolnir North Side#
+mjo_f03_y.rsw#Mt. Mjolnir North Side#
+mjo_f03_z.rsw#Mt. Mjolnir North Side#
+mjo_f04_a.rsw#Mt. Mjolnir North Side#
+mjo_f04_b.rsw#Mt. Mjolnir North Side#
+mjo_f04_c.rsw#Mt. Mjolnir North Side#
+mjo_f04_d.rsw#Mt. Mjolnir North Side#
+mjo_f04_y.rsw#Mt. Mjolnir North Side#
+mjo_f04_z.rsw#Mt. Mjolnir North Side#
+mjo_f05_a.rsw#Mt. Mjolnir North Side#
+mjo_f05_b.rsw#Mt. Mjolnir North Side#
+mjo_f05_c.rsw#Mt. Mjolnir North Side#
+mjo_f05_d.rsw#Mt. Mjolnir North Side#
+mjo_f05_y.rsw#Mt. Mjolnir North Side#
+mjo_f05_z.rsw#Mt. Mjolnir North Side#
+mjo_f06_a.rsw#Mt. Mjolnir South Side#
+mjo_f06_b.rsw#Mt. Mjolnir South Side#
+mjo_f06_c.rsw#Mt. Mjolnir South Side#
+mjo_f06_d.rsw#Mt. Mjolnir South Side#
+mjo_f06_y.rsw#Mt. Mjolnir South Side#
+mjo_f06_z.rsw#Mt. Mjolnir South Side#
+mjo_f07_a.rsw#Mt. Mjolnir South Side#
+mjo_f07_b.rsw#Mt. Mjolnir South Side#
+mjo_f07_c.rsw#Mt. Mjolnir South Side#
+mjo_f07_d.rsw#Mt. Mjolnir South Side#
+mjo_f07_y.rsw#Mt. Mjolnir South Side#
+mjo_f07_z.rsw#Mt. Mjolnir South Side#
+mjo_f08_a.rsw#Mt. Mjolnir South Side#
+mjo_f08_b.rsw#Mt. Mjolnir South Side#
+mjo_f08_c.rsw#Mt. Mjolnir South Side#
+mjo_f08_d.rsw#Mt. Mjolnir South Side#
+mjo_f08_y.rsw#Mt. Mjolnir South Side#
+mjo_f08_z.rsw#Mt. Mjolnir South Side#
+mjo_f09_a.rsw#Mt. Mjolnir Southern Foot#
+mjo_f09_b.rsw#Mt. Mjolnir Southern Foot#
+mjo_f09_c.rsw#Mt. Mjolnir Southern Foot#
+mjo_f09_d.rsw#Mt. Mjolnir Southern Foot#
+mjo_f09_y.rsw#Mt. Mjolnir Southern Foot#
+mjo_f09_z.rsw#Mt. Mjolnir Southern Foot#
+mjo_f10_a.rsw#Mt. Mjolnir South Side#
+mjo_f10_b.rsw#Mt. Mjolnir South Side#
+mjo_f10_c.rsw#Mt. Mjolnir South Side#
+mjo_f10_d.rsw#Mt. Mjolnir South Side#
+mjo_f10_y.rsw#Mt. Mjolnir South Side#
+mjo_f10_z.rsw#Mt. Mjolnir South Side#
+mjo_f11_a.rsw#Mt. Mjolnir South Side#
+mjo_f11_b.rsw#Mt. Mjolnir South Side#
+mjo_f11_c.rsw#Mt. Mjolnir South Side#
+mjo_f11_d.rsw#Mt. Mjolnir South Side#
+mjo_f11_y.rsw#Mt. Mjolnir South Side#
+mjo_f11_z.rsw#Mt. Mjolnir South Side#
+mjo_f12_a.rsw#Mt. Mjolnir Northern Foot#
+mjo_f12_b.rsw#Mt. Mjolnir Northern Foot#
+mjo_f12_c.rsw#Mt. Mjolnir Northern Foot#
+mjo_f12_d.rsw#Mt. Mjolnir Northern Foot#
+mjo_f12_y.rsw#Mt. Mjolnir Northern Foot#
+mjo_f12_z.rsw#Mt. Mjolnir Northern Foot#
+mjolnir_01.rsw#Mt. Mjolnir North Side#
+mjolnir_02.rsw#Mt. Mjolnir North Side#
+mjolnir_03.rsw#Mt. Mjolnir North Side#
+mjolnir_04.rsw#Mt. Mjolnir North Side#
+mjolnir_05.rsw#Mt. Mjolnir North Side#
+mjolnir_06.rsw#Mt. Mjolnir South Side#
+mjolnir_07.rsw#Mt. Mjolnir South Side#
+mjolnir_08.rsw#Mt. Mjolnir South Side#
+mjolnir_09.rsw#Mt. Mjolnir Southern Foot#
+mjolnir_10.rsw#Mt. Mjolnir South Side#
+mjolnir_11.rsw#Mt. Mjolnir South Side#
+mjolnir_12.rsw#Mt. Mjolnir Northern Foot#
+moc_f01_a.rsw#Sograt Desert#
+moc_f01_b.rsw#Sograt Desert#
+moc_f01_c.rsw#Sograt Desert#
+moc_f01_d.rsw#Sograt Desert#
+moc_f01_y.rsw#Sograt Desert#
+moc_f01_z.rsw#Sograt Desert#
+moc_f02_a.rsw#Sograt Desert#
+moc_f02_b.rsw#Sograt Desert#
+moc_f02_c.rsw#Sograt Desert#
+moc_f02_d.rsw#Sograt Desert#
+moc_f02_y.rsw#Sograt Desert#
+moc_f02_z.rsw#Sograt Desert#
+moc_f03_a.rsw#Sograt Desert#
+moc_f03_b.rsw#Sograt Desert#
+moc_f03_c.rsw#Sograt Desert#
+moc_f03_d.rsw#Sograt Desert#
+moc_f03_y.rsw#Sograt Desert#
+moc_f03_z.rsw#Sograt Desert#
+moc_f07_a.rsw#Sograt Desert#
+moc_f07_b.rsw#Sograt Desert#
+moc_f07_c.rsw#Sograt Desert#
+moc_f07_d.rsw#Sograt Desert#
+moc_f07_y.rsw#Sograt Desert#
+moc_f07_z.rsw#Sograt Desert#
+moc_f11_a.rsw#Sograt Desert#
+moc_f11_b.rsw#Sograt Desert#
+moc_f11_c.rsw#Sograt Desert#
+moc_f11_d.rsw#Sograt Desert#
+moc_f11_y.rsw#Sograt Desert#
+moc_f11_z.rsw#Sograt Desert#
+moc_f12_a.rsw#Sograt Desert#
+moc_f12_b.rsw#Sograt Desert#
+moc_f12_c.rsw#Sograt Desert#
+moc_f12_d.rsw#Sograt Desert#
+moc_f12_y.rsw#Sograt Desert#
+moc_f12_z.rsw#Sograt Desert#
+moc_f13_a.rsw#Sograt Desert#
+moc_f13_b.rsw#Sograt Desert#
+moc_f13_c.rsw#Sograt Desert#
+moc_f13_d.rsw#Sograt Desert#
+moc_f13_y.rsw#Sograt Desert#
+moc_f13_z.rsw#Sograt Desert#
+moc_f16_a.rsw#Sograt Desert#
+moc_f16_b.rsw#Sograt Desert#
+moc_f16_c.rsw#Sograt Desert#
+moc_f16_d.rsw#Sograt Desert#
+moc_f16_y.rsw#Sograt Desert#
+moc_f16_z.rsw#Sograt Desert#
+moc_f17_a.rsw#Sograt Desert#
+moc_f17_b.rsw#Sograt Desert#
+moc_f17_c.rsw#Sograt Desert#
+moc_f17_d.rsw#Sograt Desert#
+moc_f17_y.rsw#Sograt Desert#
+moc_f17_z.rsw#Sograt Desert#
+moc_f18_a.rsw#Sograt Desert#
+moc_f18_b.rsw#Sograt Desert#
+moc_f18_c.rsw#Sograt Desert#
+moc_f18_d.rsw#Sograt Desert#
+moc_f18_y.rsw#Sograt Desert#
+moc_f18_z.rsw#Sograt Desert#
+moc_fild01.rsw#Sograt Desert#
+moc_fild02.rsw#Sograt Desert#
+moc_fild03.rsw#Sograt Desert#
+moc_fild07.rsw#Sograt Desert#
+moc_fild11.rsw#Sograt Desert#
+moc_fild12.rsw#Sograt Desert#
+moc_fild13.rsw#Sograt Desert#
+moc_fild16.rsw#Sograt Desert#
+moc_fild17.rsw#Sograt Desert#
+moc_fild18.rsw#Sograt Desert#
+moc_fild19.rsw#Sograt Desert#
+moc_pryd01.rsw#Morroc Pyramid Floor 1#
+moc_pryd02.rsw#Morroc Pyramid Floor 2#
+moc_pryd03.rsw#Morroc Pyramid Floor 3#
+moc_pryd04.rsw#Morroc Pyramid Floor 4#
+moc_pryd05.rsw#Morroc Pyramid Underground Floor 1#
+moc_pryd06.rsw#Morroc Pyramid Underground Floor 2#
+moc_prydb1.rsw#Thief Guild#
+moc_ruins.rsw#Morroc Ruins#
+monk_in.rsw#Inside St. Capitolina Abbey#
+morocc.rsw#Morroc, the Desert City#
+morocc_in.rsw#Inside Morroc#
+orc_d01_a.rsw#Orc Underground Cave Floor 1#
+orc_d01_b.rsw#Orc Underground Cave Floor 1#
+orc_d01_z.rsw#Orc Underground Cave Floor 1#
+orc_d02_a.rsw#Orc Underground Cave Floor 2#
+orc_d02_b.rsw#Orc Underground Cave Floor 2#
+orc_d02_z.rsw#Orc Underground Cave Floor 2#
+orcsdun01.rsw#Geffen Orc Cave Floor 1#
+orcsdun02.rsw#Geffen Orc Cave Floor 2#
+pay_arche.rsw#Payon Archer Village#
+pay_d00_a.rsw#Payon Cave Floor 1#
+pay_d00_b.rsw#Payon Cave Floor 1#
+pay_d00_c.rsw#Payon Cave Floor 1#
+pay_d00_d.rsw#Payon Cave Floor 1#
+pay_d00_y.rsw#Payon Cave Floor 1#
+pay_d00_z.rsw#Payon Cave Floor 1#
+pay_d01_a.rsw#Payon Cave Floor 2#
+pay_d01_b.rsw#Payon Cave Floor 2#
+pay_d01_c.rsw#Payon Cave Floor 2#
+pay_d01_d.rsw#Payon Cave Floor 2#
+pay_d01_y.rsw#Payon Cave Floor 2#
+pay_d01_z.rsw#Payon Cave Floor 2#
+pay_d02_a.rsw#Payon Cave Floor 3#
+pay_d02_b.rsw#Payon Cave Floor 3#
+pay_d02_c.rsw#Payon Cave Floor 3#
+pay_d02_d.rsw#Payon Cave Floor 3#
+pay_d02_y.rsw#Payon Cave Floor 3#
+pay_d02_z.rsw#Payon Cave Floor 3#
+pay_d03_a.rsw#Payon Cave Floor 4 - Abandoned Village#
+pay_d03_b.rsw#Payon Cave Floor 4 - Abandoned Village#
+pay_d03_c.rsw#Payon Cave Floor 4 - Abandoned Village#
+pay_d03_d.rsw#Payon Cave Floor 4 - Abandoned Village#
+pay_d03_y.rsw#Payon Cave Floor 4 - Abandoned Village#
+pay_d03_z.rsw#Payon Cave Floor 4 - Abandoned Village#
+pay_d04_a.rsw#Payon Cave Floor 5 - Abandoned Village#
+pay_d04_b.rsw#Payon Cave Floor 5 - Abandoned Village#
+pay_d04_c.rsw#Payon Cave 5F (Abandoned Village)#
+pay_d04_d.rsw#Payon Cave 5F (Abandoned Village)#
+pay_d04_y.rsw#Payon Cave 5F (Abandoned Village)#
+pay_d04_z.rsw#Payon Cave Floor 5 - Abandoned Village#
+pay_dc01.rsw#Payon Cave Floor 1#
+pay_dc02.rsw#Secret Place#
+pay_dun00.rsw#Payon Cave Floor 1#
+pay_dun01.rsw#Payon Cave Floor 2#
+pay_dun02.rsw#Payon Cave Floor 3#
+pay_dun03.rsw#Payon Cave Floor 4 (Abandoned Village)#
+pay_dun04.rsw#Payon Cave Floor 5 (Abandoned Village)#
+pay_f01_a.rsw#Payon Forest#
+pay_f01_b.rsw#Payon Forest#
+pay_f01_c.rsw#Payon Forest#
+pay_f01_d.rsw#Payon Forest#
+pay_f01_y.rsw#Payon Forest#
+pay_f01_z.rsw#Payon Forest#
+pay_f02_a.rsw#Payon Forest#
+pay_f02_b.rsw#Payon Forest#
+pay_f02_c.rsw#Payon Forest#
+pay_f02_d.rsw#Payon Forest#
+pay_f02_y.rsw#Payon Forest#
+pay_f02_z.rsw#Payon Forest#
+pay_f03_a.rsw#Payon Forest#
+pay_f03_b.rsw#Payon Forest#
+pay_f03_c.rsw#Payon Forest#
+pay_f03_d.rsw#Payon Forest#
+pay_f03_y.rsw#Payon Forest#
+pay_f03_z.rsw#Payon Forest#
+pay_f04_a.rsw#Sograt Desert#
+pay_f04_b.rsw#Sograt Desert#
+pay_f04_c.rsw#Sograt Desert#
+pay_f04_d.rsw#Sograt Desert#
+pay_f04_y.rsw#Sograt Desert#
+pay_f04_z.rsw#Sograt Desert#
+pay_f06_a.rsw#Payon Forest#
+pay_f06_b.rsw#Payon Forest#
+pay_f06_c.rsw#Payon Forest#
+pay_f06_d.rsw#Payon Forest#
+pay_f06_y.rsw#Payon Forest#
+pay_f06_z.rsw#Payon Forest#
+pay_f07_a.rsw#Payon Forest#
+pay_f07_b.rsw#Payon Forest#
+pay_f07_c.rsw#Payon Forest#
+pay_f07_d.rsw#Payon Forest#
+pay_f07_y.rsw#Payon Forest#
+pay_f07_z.rsw#Payon Forest#
+pay_f08_a.rsw#Payon Forest#
+pay_f08_b.rsw#Payon Forest#
+pay_f08_c.rsw#Payon Forest#
+pay_f08_d.rsw#Payon Forest#
+pay_f08_y.rsw#Payon Forest#
+pay_f08_z.rsw#Payon Forest#
+pay_f09_a.rsw#Payon Forest#
+pay_f09_b.rsw#Payon Forest#
+pay_f09_c.rsw#Payon Forest#
+pay_f09_d.rsw#Payon Forest#
+pay_f09_y.rsw#Payon Forest#
+pay_f09_z.rsw#Payon Forest#
+pay_f10_a.rsw#Payon Forest#
+pay_f10_b.rsw#Payon Forest#
+pay_f10_c.rsw#Payon Forest#
+pay_f10_d.rsw#Payon Forest#
+pay_f10_y.rsw#Payon Forest#
+pay_f10_z.rsw#Payon Forest#
+pay_fild01.rsw#Payon Forest#
+pay_fild02.rsw#Payon Forest#
+pay_fild03.rsw#Payon Forest#
+pay_fild04.rsw#Sograt Desert#
+pay_fild06.rsw#Payon Forest#
+pay_fild07.rsw#Payon Forest#
+pay_fild08.rsw#Payon Forest#
+pay_fild09.rsw#Payon Forest#
+pay_fild10.rsw#Payon Forest#
+pay_gld.rsw#Greenwood Lake#
+pay_mk.rsw#Payon Marketplace#
+payon.rsw#Payon, the Mountain Village#
+payon_in01.rsw#Inside Payon#
+payon_in02.rsw#Inside Payon#
+payon_in03.rsw#Inside Payon#
+prontera.rsw#Rune-Midgarts Kingdom Capital Prontera#
+prt_ca01.rsw#Prontera Castle Underground Floor 1#
+prt_ca02.rsw#Prontera Castle Underground Floor 2#
+prt_cas.rsw#Central Palace of Prontera#
+prt_castle.rsw#Inside Prontera Castle#
+prt_church.rsw#Inside Prontera Sanctuary#
+prt_d01_a.rsw#Prontera Culvert Floor 1#
+prt_d01_b.rsw#Prontera Culvert Floor 1#
+prt_d01_c.rsw#Prontera Culvert Floor 1#
+prt_d01_d.rsw#Prontera Culvert Floor 1#
+prt_d01_y.rsw#Prontera Culvert Floor 1#
+prt_d01_z.rsw#Prontera Culvert Floor 1#
+prt_d02_a.rsw#Prontera Culvert Floor 2#
+prt_d02_b.rsw#Prontera Culvert Floor 2#
+prt_d02_c.rsw#Prontera Culvert Floor 2#
+prt_d02_d.rsw#Prontera Culvert Floor 2#
+prt_d02_y.rsw#Prontera Culvert Floor 2#
+prt_d02_z.rsw#Prontera Culvert Floor 2#
+prt_d03_a.rsw#Prontera Culvert Floor 3#
+prt_d03_b.rsw#Prontera Culvert Floor 3#
+prt_d03_c.rsw#Prontera Culvert Floor 3#
+prt_d03_d.rsw#Prontera Culvert Floor 3#
+prt_d03_y.rsw#Prontera Culvert Floor 3#
+prt_d03_z.rsw#Prontera Culvert Floor 3#
+prt_d04_a.rsw#Prontera Culvert Floor 4#
+prt_d04_b.rsw#Prontera Culvert Floor 4#
+prt_d04_c.rsw#Prontera Culvert Floor 4#
+prt_d04_d.rsw#Prontera Culvert Floor 4#
+prt_d04_y.rsw#Prontera Culvert Floor 4#
+prt_d04_z.rsw#Prontera Culvert Floor 4#
+prt_f00_a.rsw#Prontera Field#
+prt_f00_b.rsw#Prontera Field#
+prt_f00_c.rsw#Prontera Field#
+prt_f00_d.rsw#Prontera Field#
+prt_f00_y.rsw#Prontera Field#
+prt_f00_z.rsw#Prontera Field#
+prt_f01_a.rsw#Prontera Field#
+prt_f01_b.rsw#Prontera Field#
+prt_f01_c.rsw#Prontera Field#
+prt_f01_d.rsw#Prontera Field#
+prt_f01_y.rsw#Prontera Field#
+prt_f01_z.rsw#Prontera Field#
+prt_f02_a.rsw#Prontera Field#
+prt_f02_b.rsw#Prontera Field#
+prt_f02_c.rsw#Prontera Field#
+prt_f02_d.rsw#Prontera Field#
+prt_f02_y.rsw#Prontera Field#
+prt_f02_z.rsw#Prontera Field#
+prt_f03_a.rsw#Prontera Field#
+prt_f03_b.rsw#Prontera Field#
+prt_f03_c.rsw#Prontera Field#
+prt_f03_d.rsw#Prontera Field#
+prt_f03_y.rsw#Prontera Field#
+prt_f03_z.rsw#Prontera Field#
+prt_f04_a.rsw#Prontera Field#
+prt_f04_b.rsw#Prontera Field#
+prt_f04_c.rsw#Prontera Field#
+prt_f04_d.rsw#Prontera Field#
+prt_f04_y.rsw#Prontera Field#
+prt_f04_z.rsw#Prontera Field#
+prt_f05_a.rsw#Prontera Field#
+prt_f05_b.rsw#Prontera Field#
+prt_f05_c.rsw#Prontera Field#
+prt_f05_d.rsw#Prontera Field#
+prt_f05_y.rsw#Prontera Field#
+prt_f05_z.rsw#Prontera Field#
+prt_f06_a.rsw#Prontera Field#
+prt_f06_b.rsw#Prontera Field#
+prt_f06_c.rsw#Prontera Field#
+prt_f06_d.rsw#Prontera Field#
+prt_f06_y.rsw#Prontera Field#
+prt_f06_z.rsw#Prontera Field#
+prt_f07_a.rsw#Prontera Field#
+prt_f07_b.rsw#Prontera Field#
+prt_f07_c.rsw#Prontera Field#
+prt_f07_d.rsw#Prontera Field#
+prt_f07_y.rsw#Prontera Field#
+prt_f07_z.rsw#Prontera Field#
+prt_f08_a.rsw#Prontera Field#
+prt_f08_b.rsw#Prontera Field#
+prt_f08_c.rsw#Prontera Field#
+prt_f08_d.rsw#Prontera Field#
+prt_f08_y.rsw#Prontera Field#
+prt_f08_z.rsw#Prontera Field#
+prt_f09_a.rsw#Prontera Field#
+prt_f09_b.rsw#Prontera Field#
+prt_f09_c.rsw#Prontera Field#
+prt_f09_d.rsw#Prontera Field#
+prt_f09_y.rsw#Prontera Field#
+prt_f09_z.rsw#Prontera Field#
+prt_f10_a.rsw#Prontera Field#
+prt_f10_b.rsw#Prontera Field#
+prt_f10_c.rsw#Prontera Field#
+prt_f10_d.rsw#Prontera Field#
+prt_f10_y.rsw#Prontera Field#
+prt_f10_z.rsw#Prontera Field#
+prt_f11_a.rsw#Prontera Field#
+prt_f11_b.rsw#Prontera Field#
+prt_f11_c.rsw#Prontera Field#
+prt_f11_d.rsw#Prontera Field#
+prt_f11_y.rsw#Prontera Field#
+prt_f11_z.rsw#Prontera Field#
+prt_fild00.rsw#Prontera Field#
+prt_fild01.rsw#Prontera Field#
+prt_fild02.rsw#Prontera Field#
+prt_fild03.rsw#Prontera Field#
+prt_fild04.rsw#Prontera Field#
+prt_fild05.rsw#Prontera Field#
+prt_fild06.rsw#Prontera Field#
+prt_fild07.rsw#Prontera Field#
+prt_fild08.rsw#Prontera Field#
+prt_fild09.rsw#Prontera Field#
+prt_fild10.rsw#Prontera Field#
+prt_fild11.rsw#Prontera Field#
+prt_gld.rsw#Valkyrie Realm#
+prt_in.rsw#Inside Prontera#
+prt_maze01.rsw#Prontera Labyrinth Forest Floor 1#
+prt_maze02.rsw#Prontera Labyrinth Forest Floor 2#
+prt_maze03.rsw#Prontera Labyrinth Forest Floor 3#
+prt_mk.rsw#Prontera Bazaar#
+prt_monk.rsw#St. Capitolina Abbey#
+prt_pri00.rsw#Prison of Prontera#
+prt_sewb1.rsw#Prontera Culvert Floor 1#
+prt_sewb2.rsw#Prontera Culvert Floor 2#
+prt_sewb3.rsw#Prontera Culvert Floor 3#
+prt_sewb4.rsw#Prontera Culvert Floor 4#
+pry_d01_a.rsw#Pyramid Floor 1#
+pry_d01_b.rsw#Pyramid Floor 1#
+pry_d01_z.rsw#Pyramid Floor 1#
+pry_d02_a.rsw#Pyramid Floor 2#
+pry_d02_b.rsw#Pyramid Floor 2#
+pry_d02_z.rsw#Pyramid Floor 2#
+pry_d03_a.rsw#Pyramid Floor 3#
+pry_d03_b.rsw#Pyramid Floor 3#
+pry_d03_z.rsw#Pyramid Floor 3#
+pry_d04_a.rsw#Pyramid Floor 4#
+pry_d04_b.rsw#Pyramid Floor 4#
+pry_d04_z.rsw#Pyramid Floor 4#
+pry_d05_a.rsw#Pyramid Underground Floor 1#
+pry_d05_b.rsw#Pyramid Underground Floor 1#
+pry_d05_z.rsw#Pyramid Underground Floor 1#
+pry_d06_a.rsw#Pyramid Underground Floor 2#
+pry_d06_b.rsw#Pyramid Underground Floor 2#
+pry_d06_z.rsw#Pyramid Underground Floor 2#
+sec_in01.rsw#Inside Valhalla#
+sec_in02.rsw#Inside Valhalla#
+sec_pri.rsw#Room of Meditation (Valhalla Prison)#
+sp_d01_a.rsw#Sphinx Underground Floor 1#
+sp_d01_b.rsw#Sphinx Underground Floor 1#
+sp_d01_z.rsw#Sphinx Underground Floor 1#
+sp_d02_a.rsw#Sphinx Underground Floor 2#
+sp_d02_b.rsw#Sphinx Underground Floor 2#
+sp_d02_z.rsw#Sphinx Underground Floor 2#
+sp_d03_a.rsw#Sphinx Underground Floor 3#
+sp_d03_b.rsw#Sphinx Underground Floor 3#
+sp_d03_z.rsw#Sphinx Underground Floor 3#
+sp_d04_a.rsw#Sphinx Underground Floor 4#
+sp_d04_b.rsw#Sphinx Underground Floor 4#
+sp_d04_z.rsw#Sphinx Underground Floor 4#
+sp_d05_a.rsw#Sphinx Underground Floor 5#
+sp_d05_b.rsw#Sphinx Underground Floor 5#
+sp_d05_z.rsw#Sphinx Underground Floor 5#
+tra_fild.rsw#Prontera Training Ground#
+tre_d01_a.rsw#Sunken Ship Floor 1#
+tre_d01_b.rsw#Sunken Ship Floor 1#
+tre_d01_c.rsw#Sunken Ship Floor 1#
+tre_d01_d.rsw#Sunken Ship Floor 1#
+tre_d01_y.rsw#Sunken Ship Floor 1#
+tre_d01_z.rsw#Sunken Ship Floor 1#
+tre_d02_a.rsw#Sunken Ship Floor 2#
+tre_d02_b.rsw#Sunken Ship Floor 2#
+tre_d02_c.rsw#Sunken Ship Floor 2#
+tre_d02_d.rsw#Sunken Ship Floor 2#
+tre_d02_y.rsw#Sunken Ship Floor 2#
+tre_d02_z.rsw#Sunken Ship Floor 2#
+treasure01.rsw#Alberta Sunken Ship Floor 1#
+treasure02.rsw#Alberta Sunken Ship Floor 2#
+treasure_n1.rsw#Izlude Shipwreck Floor 1#
+treasure_n2.rsw#Izlude Shipwreck Floor 2#
+um_dun01.rsw#Umbala Carpenter's Shop in the Tree#
+um_dun02.rsw#Umbala Passage to a Foreign World#
+um_f01_a.rsw#Luluka Forest in Umbala#
+um_f01_b.rsw#Luluka Forest in Umbala#
+um_f01_c.rsw#Luluka Forest in Umbala#
+um_f01_d.rsw#Luluka Forest in Umbala#
+um_f01_y.rsw#Luluka Forest in Umbala#
+um_f01_z.rsw#Luluka Forest in Umbala#
+um_f02_a.rsw#Umbala Hoomga Forest#
+um_f02_b.rsw#Umbala Hoomga Forest#
+um_f02_c.rsw#Umbala Hoomga Forest#
+um_f02_d.rsw#Umbala Hoomga Forest#
+um_f02_y.rsw#Umbala Hoomga Forest#
+um_f02_z.rsw#Umbala Hoomga Forest#
+um_f03_a.rsw#Kalala Swamp in Umbala#
+um_f03_b.rsw#Kalala Swamp in Umbala#
+um_f03_c.rsw#Kalala Swamp in Umbala#
+um_f03_d.rsw#Kalala Swamp in Umbala#
+um_f03_y.rsw#Kalala Swamp in Umbala#
+um_f03_z.rsw#Kalala Swamp in Umbala#
+um_f04_a.rsw#Hoomga Jungle in Umbala#
+um_f04_b.rsw#Hoomga Jungle in Umbala#
+um_f04_c.rsw#Hoomga Jungle in Umbala#
+um_f04_d.rsw#Hoomga Jungle in Umbala#
+um_f04_y.rsw#Hoomga Jungle in Umbala#
+um_f04_z.rsw#Hoomga Jungle in Umbala#
+um_fild01.rsw#Luluka Forest in Umbala#
+um_fild02.rsw#Umbala Hoomga Forest#
+um_fild03.rsw#Kalala Swamp in Umbala#
+um_fild04.rsw#Hoomga Jungle in Umbala#
+um_in.rsw#Inside Umbala#
+umbala.rsw#Wootan Tribe's Village, Umbala#
+xma_d01_a.rsw#Toy Factory Storage#
+xma_d01_b.rsw#Toy Factory Storage#
+xma_d01_z.rsw#Toy Factory Storage#
+xma_d02_a.rsw#Toy Factory Sorting Room#
+xma_d02_b.rsw#Toy Factory Sorting Room#
+xma_d02_z.rsw#Toy Factory Sorting Room#
+xma_f01_a.rsw#Lutie Field#
+xma_f01_b.rsw#Lutie Field#
+xma_f01_z.rsw#Lutie Field#
+xmas.rsw#Lutie, the Snow Village#
+xmas_dun01.rsw#Lutie Toy Factory Warehouse#
+xmas_dun02.rsw#Lutie Toy Monitoring Room#
+xmas_fild01.rsw#Lutie Field#
+xmas_in.rsw#Inside Lutie#

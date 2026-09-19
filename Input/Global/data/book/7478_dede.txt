@@ -1,0 +1,63 @@
+%faf0e6
+^000088Wer hungrig ist, dem wird gekocht – egal ob Poring oder Poporing!^000000
+
+Natürlich muss auch etwas für mich übrig bleiben – so lautet die Kochkunst! - Rezept der Stufe 7 -
+
+
+^FF0000Ganzes Barbecue :^000000 Keine Sorge, gegrillt wird nicht das Fass!
+Zutaten : ^4B0082Fleisch 1 Stück, Glut 1 Stück, Holzkohle 1 Stück, Scharfe Soße 1 Stück, Holzstück 1 Stück, Weißes Kraut 1 Stück^000000
+Zubereitung : Das Fleisch innen und außen gründlich waschen und gleichmäßig mit Scharfer Soße bestreichen.
+Weißes Kraut fein hacken und nur leicht darüberstreuen, die Glut auf das Holzstück legen
+und eine gleichmäßige, nicht erlöschende Glut vorbereiten, um das Fleisch zu grillen.
+Während des Grillens zwischendurch immer wieder gleichmäßig mit Scharfer Soße bestreichen,
+anschließend mit fein gehackten Kräutern bestreuen.
+
+^0000FFSpezial-Royal-Jelly-Kräutertee :^000000 Beim Trinken wirst du ganz sicher nicht von einer Biene gestochen!
+Zutaten : ^4B0082Königsgelee 1 Stück, Honig 1 Stück, Weißes Kraut 1 Stück, Hinalle-Blatt 1 Stück, Gelbes Gewürz 1 Stück^000000
+Zubereitung : Wie beim Kräuter-Honigtee Lv. 3, aber entscheidend sind das Hochwertige Hinalle-Blatt
+und die Zugabe von Königsgelee zusammen mit dem Honig.
+
+
+^800000Seelenjagd-Brot :^000000 Vorsicht – deine Seele könnte davonfliegen!
+Zutaten : ^4B0082Brot 1 Stück, Mastela-Frucht 1 Stück, Süße Soße 1 Stück, Minze 1 Stück, Talisman der Rückkehr 1 Stück, Unreifer Apfel 1 Stück^000000
+Zubereitung : Mastela-Frucht und Apfel schälen und in Würfel schneiden.
+Die Minze gründlich waschen, den Saft auspressen und mit den gewürfelten Mastela-Früchten und Äpfeln
+mit Zucker 30 Minuten ziehen lassen. (Zuckerverhältnis etwa 1:1)
+Danach bei starker Hitze aufkochen; sobald sich Schaum bildet, auf mittlere Hitze reduzieren, etwas mehr Zucker zugeben
+und sanft einkochen lassen. (Ständig rühren, damit nichts am Boden ansetzt.)
+Klar und glänzend einkochen, bis Marmelade entsteht.
+Den Talisman der Rückkehr fein mahlen und zusammen mit Süßer Soße reifen lassen.
+Das Brot mit Marmelade und Süßer Soße bestreichen.
+
+^008040Gegrilltes Krokodil mit gedünstetem Gemüse :^000000 Unerwartet zart und angenehm bissfest!
+Zutaten : ^4B0082Anolian-Haut 1 Stück, Kürbiskopf 1 Stück, Karotte 1 Stück, Aloe-Blatt 1 Stück,
+Gelbes Kraut 1 Stück, Gelbes Gewürz 1 Stück^000000
+Zubereitung : Anolian-Haut gründlich waschen, fein hacken und mit Salz, Pfeffer, Ei, Wasser und Gelbem Gewürz
+kräftig durchkneten. Die Karotte in lange Streifen schneiden und blanchieren, Aloe-Blatt und Gelbes Kraut
+ebenfalls blanchieren und gut ausdrücken. Den Kürbiskopf in Streifen schneiden, kurz anbraten und abkühlen lassen.
+Ein Tuch auf ein Brett legen, die Anolian-Haut daraufgeben und im heißen Dämpfer
+etwa 15 Minuten garen, danach in mundgerechte Stücke schneiden und mit dem Gemüse servieren.
+
+^FF8040Festmahl der Köstlichkeiten :^000000 Für Wildschwein in die Berge, für Fisch ans Meer!
+Zutaten : ^4B0082Fischschwanz 1 Stück, Aloe-Blatt 1 Stück, Ebermähne 1 Stück, Schmackhafter Fisch 1 Stück,
+Pet Food 1 Stück, Süße Soße 1 Stück^000000
+Zubereitung : Aloe-Blatt kurz in Salzwasser blanchieren.
+Den sauber entschuppten Schmackhaften Fisch mit Süßer Soße bestreichen und 10 Minuten ziehen lassen.
+Den marinierten Fisch in Aloe-Blatt einwickeln, zusammen mit dem Fischschwanz 10 Minuten dämpfen und auf einem Teller anrichten.
+Die Ebermähne auf etwa 4 cm schneiden und kurz blanchieren,
+das Pet Food in mundgerechte Stücke schneiden, dabei mit Süßer Soße bestreichen und in der Pfanne braten.
+
+
+^400080Gegrillte Spieße :^000000 Damit du dich beim Essen nicht an den Stacheln stichst, spitze Enden abschneiden!
+Zutaten : ^4B0082Schuppige Haut 1 Stück, Stachlige Kiemen 1 Stück, Weiches Blatt 1 Stück, Fleisch 1 Stück,
+Essbarer Pilz 1 Stück, Muschelfleisch 1 Stück^000000
+Zubereitung : Weiches Blatt in 4-cm-Quadrate schneiden, den Pilz der Form nach länglich schneiden.
+Die Schuppige Haut gründlich waschen und vorbereiten,
+die langen Stacheln der Stachligen Kiemen auswählen und bereitlegen.
+Das Fleisch kurz garen, das Muschelfleisch kurz blanchieren.
+Auf die langen Stacheln Fleisch, Gemüse und Muschelfleisch in dieser Reihenfolge aufspießen
+und die Spieße auf der erhitzten Schuppigen Haut auf dem Grill garen.
+
+^FF3366Gemischtes Gericht Lv. 7 :^000000 Die Essenz der Küche auf Stufe 7
+Zutaten : ^4B0082Ganzes Barbecue 1 Stück, Spezial-Royal-Jelly-Kräutertee 1 Stück, Seelenjagd-Brot 1 Stück, Gegrilltes Krokodil mit gedünstetem Gemüse 1 Stück, Festmahl der Köstlichkeiten 1 Stück, Spieß 1 Stück^000000
+Zubereitung : Alle Gerichte der Stufe 7 sammeln und als große, ordentliche Festtafel anrichten.

@@ -1,0 +1,49 @@
+%faf0e6
+^000088Slim Body, Slim Research! A Revolution in Potion Making! Slim Potions!!^000000
+
+
+----------------Foreword--------------------
+
+Have you learned the basics of potions? Then now comes advanced application.
+Wouldn’t it be even better if you could achieve greater effects with smaller quantities?
+Do not strive only to slim your body—make your research slim as well!
+
+------------------------------------------
+
+What is a ^FF0000Slim Potion^000000?
+
+
+A highly concentrated potion that delivers the same effectiveness as existing potions with only a small amount.
+Naturally, it is also much more convenient to carry.
+
+
+
+^0000FFRed Slim Potion^000000: Restores approximately 45 HP.
+Materials: ^4B00821 Red Potion, 1 Sharp Cactus Needle, 1 Empty Test Tube^000000
+Manufacturing Method: Prepare a mortar.
+          Slowly pour in the red potion.
+          Grind the well-dried sharp cactus needle and mix it with the red potion,
+          then pour it into an empty test tube.
+          For a simpler method,
+          prepare this book and the materials and use the Pharmacy skill.
+
+
+^800000Yellow Slim Potion^000000: Restores approximately 175 HP.
+Materials: ^4B00821 Yellow Potion, 1 Mole Whisker, 1 Empty Test Tube^000000
+Manufacturing Method: Prepare a mortar.
+          Slowly pour in the yellow potion.
+          Add water in which mole whiskers have been thoroughly boiled and mix it with the potion.
+          Pour into an empty test tube.
+          For a simpler method,
+          prepare this book and the materials and use the Pharmacy skill.
+
+
+^008040White Slim Potion^000000: Restores approximately 325 HP.
+Materials: ^4B00821 White Potion, 1 Witch’s Star Sand, 1 Empty Test Tube^000000
+Manufacturing Method: Prepare a mortar.
+          Slowly pour in the white potion.
+          Thoroughly wash the witch’s star sand, remove all moisture,
+          then gradually add it while mixing.
+          Pour into an empty test tube.
+          For a simpler method,
+          prepare this book and the materials and use the Pharmacy skill.

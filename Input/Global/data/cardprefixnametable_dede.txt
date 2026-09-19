@@ -1,0 +1,264 @@
+4001#Glücklich#
+4002#Vital#
+4003#Hart#
+4004#Geschickt#
+4006#Glücklich#
+4007#Beholder#
+4008#Extra#
+4009#Leicht#
+4010#Weise#
+4011#Dynamisch#
+4012#Starr#
+4013#Exzellent#
+4014#des Champions#
+4015#Schnell#
+4016#Flott#
+4017#Betäubung#
+4019#Essenz#
+4020#Blinkend#
+4021#Fähig#
+4022#der Spore#
+4023#der Wüste#
+4024#Schläfrig#
+4025#Scharfsinnig#
+4026#Gerissen#
+4027#Athletisch#
+4028#Doppelkraft#
+4029#Vielfraß#
+4030#Windig#
+4031#des Marse#
+4032#der Athena#
+4033#Entgiften#
+4034#Klug#
+4035#Blutig#
+4036#Robust#
+4037#Unantastbar#
+4038#Erholsam#
+4039#Aristo#
+4040#Teleportierend#
+4041#des Sandmanns#
+4042#des Windschutzes#
+4043#Orkanartig#
+4044#Verstecken#
+4045#Schwer#
+4046#des Klerikers#
+4047#Geisterhaft#
+4048#Gift#
+4049#Flamme#
+4050#des Hermes#
+4051#des Blitzes#
+4052#Gelehrt#
+4053#Heilend#
+4054#Heilig#
+4055#Eisig#
+4056#der Wärme#
+4057#Still#
+4058#Kranial#
+4060#Lärmend#
+4061#Unsterblich#
+4063#Insektizid#
+4064#Flink#
+4066#Brutal#
+4067#Atomar#
+4068#Chemisch#
+4069#Saharik#
+4070#der Hexe#
+4071#Engelhaft#
+4072#Fest#
+4073#Rabatt#
+4074#des Gigantua#
+4075#Hypnotisch#
+4076#Verfluchend#
+4077#Unterzaubert#
+4078#der Statusheilung#
+4079#der Kraft#
+4080#Fischer#
+4081#Ruhmreich#
+4084#Explosiv#
+4085#Verdammt#
+4086#Kritisch#
+4087#Ordnung#
+4088#Schutz#
+4089#Aqua#
+4090#Amulett#
+4092#Gebunden#
+4093#Genesung#
+4094#Königsvogel#
+4095#Dschinn#
+4096#Venomous#
+4097#Grünlich#
+4098#des Zephyrus#
+4099#des Ifrit#
+4100#Seelenverzaubert#
+4101#des Gnoms#
+4102#Spöttisch#
+4103#Hellsichtig#
+4104#Chaos#
+4105#Auftauend#
+4106#Uralte#
+4107#Verseucht#
+4108#Harmlos#
+4109#Flammenwehr#
+4110#Viper#
+4111#Verzweigt#
+4112#Unvergleichlich#
+4113#des Geistes#
+4114#Vergiftet#
+4116#Göttlich#
+4117#Hybrid#
+4118#Dragoon#
+4119#Böse#
+4120#des Dragoons#
+4122#Gehärtet#
+4123#Tragend#
+4124#Verputzer#
+4125#Aqua#
+4126#Titan#
+4127#Schlaflos#
+4129#des Schurken#
+4133#Immun#
+4135#Spiegelnd#
+4136#Höllengeboren#
+4137#der Unendlichkeit#
+4138#Satanisch#
+4139#des Mondlichts#
+4140#Befreiend#
+4141#Tödlich#
+4143#Neutral#
+4147#Seitenschlag#
+4148#des Kirin#
+4149#Klarer Himmel#
+4152#Saftig#
+4153#Krebsartig#
+4155#Tödlicher Goblin#
+4156#Tödlicher Rahmen#
+4157#Harter Schlag#
+4159#Hochstufig#
+4164#Angler#
+4167#Bestienseele#
+4168#des Untergangs#
+4169#des Zaubermeisters#
+4170#Verstärkt#
+4171#Seelenentzug#
+4177#des Grünen Steins#
+4178#des Bogenmeisters#
+4179#Hervorhebung#
+4180#Drachenseele#
+4183#Werwolf#
+4185#Vernünftig#
+4186#Unerschütterlich#
+4187#Düstere Dämmerung#
+4188#des Roten Steins#
+4189#Unglücklich#
+4190#des Riffmachers#
+4192#Tödliche Fische#
+4194#der Betäubung#
+4196#des Jejellopy#
+4197#Hochglücklich#
+4199#des Ansturms#
+4200#der Zauberresistenz#
+4201#Bhainebetäubung#
+4203#Brennend#
+4205#des Blauen Kubus#
+4206#Kubisch#
+4210#Druck#
+4211#Experte#
+4212#Rückstoß#
+4213#Stumm#
+4216#des Frosts#
+4219#des Magiesteins#
+4222#des Schlafs#
+4223#Betäubungsresistent#
+4225#Schießend#
+4226#Hochstufig#
+4229#Schneller#
+4234#Reine Seele#
+4235#Gefallener Engel#
+4236#des Schutzes#
+4237#der Götterspezies#
+4238#der Doppelten Kraft#
+4240#der Zauberresistenz#
+4244#des Suchers#
+4247#Seestern#
+4248#Leuchtendes Kreuz#
+4249#Exorzistisch#
+4251#Eindringend#
+4252#Vierblättriger Klee#
+4253#der Königlichen Garde#
+4255#Zerschmetternd#
+4256#Begehrt#
+4257#Geflügelt#
+4259#der Natur#
+4260#Verwirrungswehr#
+4261#Blutungswehr#
+4264#Blitz#
+4266#Magieresistent#
+4268#Erweiternd#
+4271#des Gelben Steins#
+4273#Schale#
+4274#Untotenseele#
+4275#Untotentöter#
+4277#des Schützenmeisters#
+4283#Manaspeer#
+4284#Sanfte Berührung#
+4285#Elfenverzaubert#
+4288#Hochstufig#
+4289#Pflanzenseele#
+4293#Chance#
+4296#Gierig#
+4297#Beutelnd#
+4298#des Chaos#
+4299#Wächter#
+4300#der Giftladung#
+4302#Risikoreich#
+4306#des Königs#
+4307#Meereskraftseele#
+4308#Kraftentzug#
+4309#Harte Hülle#
+4310#Tödliches Übel#
+4312#Geist#
+4313#des Moores#
+4314#Rahmenwehr#
+4315#des Steinen Fluchs#
+4317#Aura#
+4322#Gegenschlag#
+4323#Frostig#
+4326#des Fischgeruchs#
+4329#Seelengewinn#
+4375#Extra Hoch#
+4377#des Süßen#
+4545#Novize#
+27153#der Tiefe#
+27154#des Blocks#
+27206#des Berserkers#
+27207#Eilig#
+27208#der Ewigkeit#
+27266#Bösartig#
+27267#Perfekt#
+27268#Spirituell#
+27270#des Jokers#
+27271#der Zauberin#
+27272#der Jennifer#
+27273#Angreifend#
+27274#Listig#
+27275#Meteorlicht#
+300547#Lauernd#
+300550#Fei-Chai#
+300551#Azi#
+300618#Kung Fu Panda#
+300737#Gezeiten#
+300740#Grenzstadt#
+300741#Küstenstadt#
+300742#Glast Heim#
+300834#Baby-Hai#
+300835#Hai-Familie#
+300936#Nord-Stärke#
+300937#Nord-Glück#
+300938#Juwelen#
+300939#Nord-Vitalität#
+300940#Nord-Intelligenz#
+300941#Nord-Geschicklichkeit#
+300942#Nord-Beweglichkeit#
+300943#Magischer Fels#
+300944#Tödlicher Fels#
+300964#Felsenmeister#

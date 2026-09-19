@@ -1,0 +1,49 @@
+%faf0e6
+^000088Silhouette affinée, recherche affinée ! La révolution de la fabrication de potions ! Potion Slim !!^000000
+
+
+----------------Préface--------------------
+
+As-tu appris les bases des potions ? Alors il est temps de passer aux applications Supérieur.
+N'est-ce pas encore mieux d'obtenir de plus grands effets avec une plus petite quantité ?
+Ne te contente pas d'affiner ta silhouette, affine aussi ta recherche !
+
+------------------------------------------
+
+^FF0000Qu'est-ce qu'une Potion Slim ?^000000
+
+
+Une potion Hautement concentré qui offre les mêmes performances qu'une potion classique, mais en plus petite quantité.
+Évidemment, elle est aussi plus facile à transporter.
+
+
+
+^0000FFPotion Slim Rouge^000000 : Restaure environ 45 PV.
+Ingrédients : ^4B0082Potion rouge x1, Épine pointue de cactus x1, Tube à essai vide x1^000000
+Recette : Prépare un Mortier.
+Verse lentement la Potion rouge...
+Broie l'Épine pointue de cactus bien séchée, mélange-la à la Potion rouge
+et verse le tout dans un Tube à essai vide.
+Pour une méthode de fabrication simplifiée,
+prépare ce livre et les ingrédients, puis utilise la compétence Pharmacie.
+
+
+^800000Potion Slim Jaune^000000 : Restaure environ 175 PV.
+Ingrédients : ^4B0082Potion jaune x1, Moustache de taupe x1, Tube à essai vide x1^000000
+Recette : Prépare un Mortier.
+Verse lentement la Potion jaune...
+Ajoute l'eau obtenue en faisant bouillir la Moustache de taupe et mélange avec la potion.
+Verse le tout dans un Tube à essai vide.
+Pour une méthode de fabrication simplifiée,
+prépare ce livre et les ingrédients, puis utilise la compétence Pharmacie.
+
+
+^008040Potion Slim Blanche^000000 : Restaure environ 325 PV.
+Ingrédients : ^4B0082Potion blanche x1, Sable d'étoile de sorcière x1, Tube à essai vide x1^000000
+Recette : Prépare un Mortier.
+Verse lentement la potion blanche...
+Lave soigneusement le Sable d'étoile de sorcière et sèche-le complètement
+puis ajoute-le petit à petit en mélangeant.
+Verse le tout dans un Tube à essai vide.
+Pour une méthode de fabrication simplifiée,
+prépare ce livre et les ingrédients, puis utilise la compétence Pharmacie.

@@ -1,0 +1,91 @@
+%faf0e6
+^000088Tek başıma da yaparım. İksir Yapımı: Temelden...^000000
+
+
+----------------Önsöz--------------------
+
+Simyacının temeli iksirlerdir! HP, SP, hatta Durum Etkisi bile!
+Sen de yapabilirsin.
+İksir yapımını temelden adım adım öğreten kesin rehber!
+
+------------------------------------------
+
+^FF0000İksir^000000 Nedir?
+
+Tek kullanımlık ilaç ya da zehir dozu.
+Genelde “iksir”, tek kullanımlık İyileşme İksiri anlamına gelir.
+Bu kitapta Kırmızı, Sarı, Beyaz ve Mavi İksirlerin yanı sıra
+Anodin ve Aloe Vera üretim yöntemleri de anlatılır.
+Ek olarak, Embriyo üretimi; Biyoetik eğitimi almış her simyacı için vazgeçilmezdir.
+
+
+^0000FFKırmızı İksir^000000 : Yaklaşık 45 HP yeniler.
+Malzemeler : ^4B0082Kırmızı Ot 1, Boş İksir Şişesi 1^000000
+Yöntem : İlaç Kasesi hazırlayın.
+Otu İlaç Kasesi’ne koyup ezin.
+Azar azar temiz su ekleyerek ezmeye devam edin.
+Karışımı Boş İksir Şişesi’ne doldurun.
+Kolay üretim için,
+bu kitap ve malzemeler yanınızdayken Eczacılık kullanın.
+
+
+^800000Sarı İksir^000000 : Yaklaşık 175 HP yeniler.
+Malzemeler : ^4B0082Sarı Ot 1, Boş İksir Şişesi 1^000000
+Yöntem : İlaç Kasesi hazırlayın.
+Otu İlaç Kasesi’ne koyup ezin.
+Azar azar temiz su ekleyerek ezmeye devam edin.
+Karışımı Boş İksir Şişesi’ne doldurun.
+Kolay üretim için,
+bu kitap ve malzemeler yanınızdayken Eczacılık kullanın.
+
+^008040Beyaz İksir^000000 : Yaklaşık 325 HP yeniler.
+Malzemeler : ^4B0082Beyaz Ot 1, Boş İksir Şişesi 1^000000
+Yöntem : İlaç Kasesi hazırlayın.
+Otu İlaç Kasesi’ne koyup ezin.
+Azar azar temiz su ekleyerek ezmeye devam edin.
+Karışımı Boş İksir Şişesi’ne doldurun.
+Kolay üretim için,
+bu kitap ve malzemeler yanınızdayken Eczacılık kullanın.
+
+^FF8040Mavi İksir^000000 : Yaklaşık 60 SP yeniler.
+Malzemeler : ^4B0082Mavi Ot 1, Boş İksir Şişesi 1, Hücre 1^000000
+Yöntem : İlaç Kasesi hazırlayın.
+Otu İlaç Kasesi’ne koyup ezin.
+Azar azar temiz su ve ince öğütülmüş Hücre ekleyerek ezmeye devam edin.
+Karışımı Boş İksir Şişesi’ne doldurun.
+Kolay üretim için,
+bu kitap ve malzemeler yanınızdayken Eczacılık kullanın.
+
+
+^400080Anodin^000000 : Bir süreliğine acıyı unutturan ağrı kesici.Malzemeler : ^4B0082Alkol 1, Boş Şişe 1, Ment 1^000000
+Yöntem : İlaç Kasesi hazırlayın.
+Ment’i İlaç Kasesi’ne koyup ezin.
+Azar azar temiz su ve alkol ekleyerek ezmeye devam edin.
+Karışımı Boş Şişe’ye doldurun.
+Kolay üretim için,
+bu kitap ve malzemeler yanınızdayken Eczacılık kullanın.
+
+
+
+
+^008040Aloe Vera^000000 : Bir süreliğine savunmayı düşürür, saldırı gücünü artırır.Malzemeler : ^4B0082Aloe 1, Boş Şişe 1, Bal 1^000000 Yöntem : İlaç Kasesi hazırlayın.
+Bal ve Aloe’yu İlaç Kasesi’ne koyup ezin.
+Azar azar temiz su ekleyip karıştırın, ardından karışımı Boş Şişe’ye doldurun.
+Kolay üretim için, bu kitap ve malzemeler yanınızdayken Eczacılık kullanın.
+
+^FF0000Embriyo^000000 : Embriyo biçiminde bir canlı oluşturur.
+
+Malzemeler : ^4B0082Yggdrasil Çiyi 1, Yaşam Tohumu 1, Cam Tabut 1^000000 Yöntem : Simyanın temeli İlaç Kasesi’dir.
+İlaç Kasesi’ni hazırlayın.
+Yggdrasil Çiyi ve Yaşam Tohumu’nu İlaç Kasesi’ne koyun,
+Eczacılık ile karışımı Cam Tabut’a aktarın.
+Sonrasında kullanmak için Biyoetik çalışmak gerekir.
+Oldukça tehlikelidir; yeterince araştırın.
+
+^0000FFHomunculus Besini^000000 : Homunculus yakınlığı için besin.
+
+Malzemeler : ^4B0082Yaşam Tohumu 1, Sarı Ot 1, Boş Şişe 1^000000 Yöntem : Simyanın temeli İlaç Kasesi’dir.
+İlaç Kasesi’ni hazırlayın.
+Yaşam Tohumu ve Sarı Ot’u İlaç Kasesi’ne koyup ezin,
+Eczacılık ile karışımı Boş Şişe’ye aktarın ve çalkalayarak karıştırın.
+Sonrasında kullanmak için Biyoetik çalışmak gerekir.

@@ -1,0 +1,62 @@
+%faf0e6
+^000088-A heart-wrenching cooking story that anyone can’t help but eat.-^000000
+
+"You are already eating!" A Level 4 recipe with that subtitle—now on sale to great acclaim.
+Still, it doesn’t mean you’ll eat just anyone, so don’t worry!
+
+^FF0000Herb-Marinated Galbi:^000000 Premium ribs aged with herb-infused marinade—tenderness at its finest!
+Materials: ^4B00821 Meat, 1 Red Herb, 1 Yellow Herb, 1 Green Herb, 1 Sweet Sauce, 1 Lemon^000000
+Cooking Method: Trim off excess fat, score the meat, then soak it in water for about 1 hour to remove blood.
+          Finely chop the herbs, mix an appropriate amount of sweet sauce and water, boil for about 1 hour,
+          and once it cools, add lemon juice, stir well, and chill.
+          Prepare a wide bowl and a container; pour the marinade into the wide bowl,
+          dip and coat each piece of well-prepared meat, then stack them neatly into the container.
+          Pour the remaining marinade into the container afterward, let it age for half a day to a full day,
+          then grill.
+
+^0000FFMorroc Fruit Wine:^000000 Sweet and tangy! OK even for your palate if you hate alcohol!
+Materials: ^4B00821 Strawberry, 1 Lemon, 1 Orange, 1 Alcohol, 1 Grape^000000
+Cooking Method: Use a squeezer (a tool for extracting fruit juice) to thoroughly juice the lemon and orange.
+          Remove the stems from cleanly washed strawberries, peel the grapes and remove the seeds,
+          then put them in a blender and mix for 30 seconds.
+          Add 1 serving of alcohol and lemon juice, then mix for 5 more seconds.
+          Finally, add 1 alcohol and orange juice, then mix for 15 seconds to finish!
+  
+^800000Cream Sandwich:^000000 Loaded with cream! There’s too much sandwich cream—please don’t put it on your head!
+Materials: ^4B00821 Bread, 1 Milk, 1 Cheese, 1 Yellow Herb, 1 Meat, 1 Sweet Sauce^000000
+Cooking Method: Lightly toast the bread in butter, and whip the milk to make cream (crema).
+          Cut the meat patty thick and cook it to the right doneness.
+          Place herbs on the bread, spread sweet sauce, then add the meat patty.
+          Add cheese, then the remaining herbs, pile on plenty of cream, and cover with the other slice of bread.
+
+^008040Lutie Spicy Mixed Cold Noodles:^000000 Low price and a dizzying spicy kick!
+Materials: ^4B00821 Grain, 1 Spicy Sauce, 1 Ice Piece, 1 Carrot, 1 Pumpkin Head^000000
+Cooking Method: Gradually add hot water to flour made by grinding grain with an appropriate protein content
+          to make a half-kneaded dough, then keep kneading until it becomes elastic and glossy.
+          Thinly knead the dough and put it into a square mold (with mesh fixed at the bottom), cover it,
+          press down firmly from above to extrude noodles,
+          boil them in boiling water, rinse by rubbing in cold water, and drain in a strainer.
+          Boil the pumpkin head thoroughly in water, then pound it out and it will come out thin like noodles.
+          Julienne the carrot thinly.
+          Put the noodles and pumpkin noodles in a bowl, add ice,
+          dress with an appropriate amount of spicy sauce on top, and garnish with carrot.
+
+^FF8040Seasoned Jellyfish:^000000 It is cooked thoroughly, so there is no worry of being stung.
+Materials: ^4B00821 Tentacle, 1 White Herb, 1 Soft Leaf, 1 Old Frying Pan, 1 Ink^000000
+Cooking Method: Rinse the soft leaf in water, squeeze out the moisture well,
+          and season/toss it with ink sauce.
+          Shred and wash the tentacle, heat water in an old frying pan and blanch it lightly,
+          then rinse in cold water and squeeze out the moisture well.
+          If blanched too long, it shrinks, so dip it briefly in warm water and remove.
+          Mix the shredded white herb, tentacle, and seasoned leaves together,
+          add a little more ink seasoning, chill well, and plate.
+
+^400080Ancient Fish Dish:^000000 Don’t worry—it won’t feel like kissing an ancient fish at all!
+Materials: ^4B00821 Ancient Fish Lips, 1 Raccoon Leaf, 1 White Herb, 1 Tasty Fish, 1 Sweet Sauce^000000
+Cooking Method: Wash the ancient fish lips clean in salt water.
+          Remove the head and guts from the tasty fish, then fillet it into three pieces along the backbone,
+          remove small bones with tweezers, and marinate it using one sweet sauce.
+          Once sufficiently marinated, line the bottom of a steamer with raccoon leaves and steam.
+          At this time, place it with the scales facing down so the flesh does not shrink.
+          Before steam rises in the steamer, drizzle sweet sauce evenly,
+          sprinkle shredded white herb on top, and steam for about 20 minutes.

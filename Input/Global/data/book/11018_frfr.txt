@@ -1,0 +1,23 @@
+%f5f5dc
+^000088Objets en vente à Splendide^000000
+
+Les objets suivants peuvent être achetés avec des pièces Splendide.
+
+
+^008040[Confiture de fruits de Pinguicula]^000000
+Une confiture sucrée faite à partir des fruits de Pinguicula.
+Les dégâts d’attaque physique contre les monstres des zones extérieures de Splendide augmentent de 10% pendant 10 minutes.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Poids : ^7777775^000000
+
+^008040[Confiture de miel de Luciola]^000000
+Une confiture faite de miel de Luciola et d’herbes.
+Les dégâts physiques et magiques reçus des monstres des zones extérieures de Splendide diminuent de 10% pendant 10 minutes.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Poids : ^7777775^000000
+
+^008040[Larmes de Cornus]^000000
+Une potion raffinée à partir des larmes de Cornus. On ne sait pas comment ces larmes ont été obtenues.
+Les dégâts d’attaque magique contre les monstres des zones extérieures de Splendide augmentent de 10% pendant 10 minutes.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Poids : ^7777775^000000

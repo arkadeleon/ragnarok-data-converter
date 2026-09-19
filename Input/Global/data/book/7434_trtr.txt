@@ -1,0 +1,56 @@
+%faf0e6
+^000088Element Direnç İksiri Sentezi^000000
+
+
+----------------Önsöz--------------------
+Ateş, Su, Rüzgâr ve Toprak olmak üzere dört ana elementi araştırırken,
+aynı elemente karşı direnci geçici olarak artıran bir katalizör keşfettik.
+Bu katalizörü kullanarak element direnç iksirlerinin sentez yöntemini bu kitaba kaydettik.
+Dört elementi kullanırken işinize yaramasını dileriz.
+------------------------------------------
+
+
+^FF0000Element Direnç İksiri^000000 Nedir?
+
+İlgili elemente karşı direnci artırır, alınan hasarı azaltır.
+Ancak buna karşılık, zıt elementten daha fazla hasar alırsınız;
+dikkatli olun.
+
+
+
+
+^0000FFAteşe Dayanıklılık İksiri^000000 : Ateş elementine karşı direnci artırır.
+Malzemeler : ^4B0082Kertenkele Boynu Derisi 2, Kırmızı Cevher 1, Boş İksir Şişesi 1^000000
+Yöntem : İlaç Kasesi hazırlayın.
+Ateş elementinin katalizörü olan Kertenkele Boynu Derisi 2 adet kâseye koyun.
+Kırmızı Cevher ile kimyasal tepkimeyi başlatıp Eczacılık kullanarak
+iksiri üretin.
+
+
+
+
+^800000Soğuğa Dayanıklılık İksiri^000000 : Su elementine karşı direnci artırır.
+Malzemeler : ^4B0082Denizkızı Kalbi 3, Mavi Mücevher Taşı 1, Boş İksir Şişesi 1^000000
+Yöntem : İlaç Kasesi hazırlayın.
+Su elementinin katalizörü olan Denizkızı Kalbi 3 adet kâseye koyun.
+Mavi Mücevher Taşı ile kimyasal tepkimeyi başlatıp Eczacılık kullanarak
+iksiri üretin.
+
+
+
+^008040Gök Gürültüsüne Dayanıklılık İksiri^000000 : Rüzgâr elementine karşı direnci artırır.
+Malzemeler : ^4B0082Güve Kanadı Tozu 3, Mavi Mücevher Taşı 1, Boş İksir Şişesi 1^000000
+Yöntem : İlaç Kasesi hazırlayın.
+Rüzgâr elementinin katalizörü olan Güve Kanatları 3 adet kâseye koyun.
+Mavi Mücevher Taşı ile kimyasal tepkimeyi başlatıp Eczacılık kullanarak
+iksiri üretin.
+
+
+
+
+^FF8040Toprağa Dayanıklılık İksiri^000000 : Toprak elementine karşı direnci artırır.
+Malzemeler : ^4B0082Büyük Jellopy 2, Sarı Gemstone 1, Boş İksir Şişesi 1^000000
+Yöntem : İlaç Kasesi hazırlayın.
+Toprak elementinin katalizörü olan Büyük Jellopy 2 adet kâseye koyun.
+Sarı Gemstone ile kimyasal tepkimeyi başlatıp Eczacılık kullanarak
+iksiri üretin.

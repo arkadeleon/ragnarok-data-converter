@@ -1,0 +1,36 @@
+%faf0e6
+^000088Koruma için Orta Seviye Sentez: Kaplama!^000000
+
+
+----------------Önsöz--------------------
+
+Büyücülerin bedenlerini mana perdesiyle kapladığını görünce,
+simya ile silah ve zırhı korumanın bir yolu olup olmadığını düşündük.
+
+Bu simyasal kaplama, eşyanın kırılmasını önler,
+üstüne sarılıyormuş hissi verir
+ve rakip tarafından çözülemez.
+
+Ancak belirli bir süre sonra etkisi kalkar; bunu unutmayın.
+
+------------------------------------------
+
+^400080Kaplama^000000 Nedir?
+Bir nesnenin yüzeyini reçine vb. ince bir tabakayla kaplama işlemi.
+Lenslerde yansıma önleyici katman oluşturmak veya kumaşa su/ısıya dayanıklı işlem yapmak için kullanılır.
+
+Ancak simyadaki “Kaplama”, eşyayı asla kırılmaz hâle getirir
+ve rakibin zorla sökmesini engeller.
+
+Bunu yalnızca özel teknikler öğrenmiş simyacıların
+
+
+kullanabildiği söylenir.
+Malzemeler: ^4B0082Alkol 1, Zenorc'un Sivri Dişi 1, Denizkızı Kalbi 1, Boş Şişe 1^000000
+Yöntem: İlaç Kasesi hazırlayın.
+İlaç Kasesi'ne Alkolün yaklaşık yarısını dökün, Zenorc'un Sivri Dişi'ni ekleyip eritin.
+Denizkızı Kalbi'ni iyice yıkayıp kurutun, öğütün ve Alkole ekleyip karıştırın.
+Eczacılık kullanarak karışımı Boş Şişe'ye doldurun.
+Sürmek kolay görünse de,
+silah/zırh kaplaması için özel bir teknik gerekir.
+Bu uzmanlığı, simya araştırmanız ilerledikçe öğreneceksiniz.

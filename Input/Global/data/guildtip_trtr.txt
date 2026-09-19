@@ -1,0 +1,43 @@
+[ Lonca Oluşturma ]
+1. Envanterinizde bir Emperium olmalıdır.
+ 
+2. Emperium sahibi olduğunuzda, sohbet penceresine
+'/guild (Lonca Adı)' yazın veya 'Lonca Kur' düğmesine basın.
+ 
+3. G (ALT+G) ile Lonca Bilgisi penceresini açabilirsiniz.
+ 
+[ Lonca Bilgisi Penceresi ]
+1. Lonca adı, EXP, lonca seviyesi, lonca arması, lonca lideri adı,
+üye sayısı, üye ortalama seviyesi, müttefik ve düşman lonca bilgileri görüntülenir.
+ 
+2. Üye Bilgisi:
+Lonca Üyesi bilgilerini görüntüleyebilir, sağ tıklayarak loncadan ayrılmayı yönetebilirsiniz.
+Loncadan ayrılma yalnızca kişinin kendisi tarafından yapılabilir.
+Ayrıca lonca lideri tarafından loncadan atma işlemi yapılabilir.
+ 
+3. Rütbe Ayarları:
+Üyelerin loncaya EXP bağış oranı ve rütbeleri ayarlanır.
+Bağış oranı en fazla %50 olabilir.
+Loncaya bağışlanan EXP bilgisi, loncadan ayrılınca sıfırlanır.
+ 
+4. Lonca Becerileri:
+Lonca seviyesi her 1 arttığında 1 beceri puanı kazanılır.
+Bu puanlar lonca becerilerine yatırılarak kullanılabilir.
+ 
+5. Atılan Üyeler:
+Loncadan atılanların listesi ve nedenleri gösterilir.
+ 
+6. Lonca lideri, sohbet penceresi üzerinden üyelere duyuru yapabilir.
+ 
+[ Arma Kaydı ve Değiştirme ]
+1. 24 x 24 piksel boyutunda, 256 renkli bitmap (BMP) formatında bir arma oluşturun.
+ 
+2. Ragnarok kurulum dizininde Emblem klasörü oluşturup
+arma görsel dosyasını bu klasöre kopyalayın.
+ 
+3. Lonca Bilgisi penceresinde armanın göründüğü yerdeki Düzenle düğmesine basarak
+armayı uygulayabilirsiniz.
+ 
+4. Armada değişiklik yalnızca lonca lideri tarafından yapılabilir.
+İstenilen zaman değiştirilebilir.
+#

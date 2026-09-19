@@ -1,0 +1,327 @@
+501#
+1 Herbe rouge
+1 Flacon de potion vide
+#
+503#
+1 Herbe jaune
+1 Flacon de potion vide
+#
+504#
+1 Herbe blanche
+1 Flacon de potion vide
+#
+505#
+1 Herbe bleue
+1 Cellule
+1 Flacon de potion vide
+#
+545#
+1 Potion rouge
+1 Tube à essai vide
+1 Épine de Cactus
+#
+546#
+1 Potion jaune
+1 Tube à essai vide
+1 Mole Whisker
+#
+547#
+1 Potion blanche
+1 Tube à essai vide
+1 Sable d'étoile de sorcière
+#
+605#
+1 Ment
+1 Alcool
+1 Bouteille vide
+#
+606#
+1 Aloe
+1 Miel
+1 Bouteille vide
+#
+970#
+5 Tige de plante
+1 Bouteille vide
+5 Spore de champignon toxiques
+1 Tube à essai vide
+#
+994#
+10 Sang rouge
+#
+995#
+10 Bleu cristal
+#
+996#
+10 Brise verdoyante
+#
+997#
+10 Live vert
+#
+998#
+1 Minerai de fer
+#
+999#
+5 Fer
+1 Charbon
+#
+1000#
+10 Poudre d’étoile
+#
+1101#
+2 Fer
+#
+1104#
+30 Fer
+#
+1107#
+45 Fer
+25 Croc de chauve-souris
+#
+1110#
+20 Acier
+#
+1113#
+35 Acier
+#
+1116#
+35 Fer
+15 Dent du mort
+#
+1119#
+8 Oridecon
+15 Acier
+1 Grenat
+#
+1122#
+40 Acier
+50 Griffe de loup
+#
+1123#
+8 Oridecon
+10 Acier
+1 Topaze
+#
+1126#
+8 Oridecon
+5 Acier
+1 Opale
+#
+1129#
+16 Oridecon
+1 Rubis
+#
+1151#
+25 Acier
+20 Ongle du mort
+#
+1154#
+45 Acier
+#
+1157#
+12 Oridecon
+10 Acier
+#
+1160#
+12 Oridecon
+20 Acier
+#
+1163#
+16 Oridecon
+20 Acier
+1 Diamant
+#
+1201#
+1 Fer
+10 Jejellopy
+#
+1204#
+25 Fer
+#
+1207#
+50 Fer
+#
+1210#
+17 Acier
+#
+1213#
+30 Acier
+#
+1216#
+40 Acier
+#
+1219#
+4 Oridecon
+40 Acier
+1 Saphir
+#
+1222#
+4 Oridecon
+60 Acier
+1 Zircon
+#
+1301#
+10 Fer
+#
+1330#
+2 Minerai de mithril, 15 Acier
+18 Oridecon, 1 Zelostone du Crépuscule
+#
+1351#
+110 Fer
+#
+1354#
+30 Acier
+#
+1357#
+4 Oridecon
+20 Acier
+30 Croc d’orc
+#
+1360#
+8 Oridecon
+10 Acier
+1 Améthyste
+#
+1401#
+3 Fer
+#
+1404#
+35 Fer
+#
+1407#
+70 Fer
+#
+1410#
+12 Oridecon
+3 Rubis
+2 Cornes démoniaques
+#
+1451#
+25 Acier
+#
+1454#
+40 Acier
+#
+1457#
+55 Acier
+#
+1460#
+8 Oridecon
+10 Acier
+5 Aigue-marine
+#
+1463#
+12 Oridecon
+10 Acier
+#
+1501#
+3 Fer
+#
+1504#
+30 Fer
+#
+1507#
+20 Acier
+#
+1510#
+33 Acier
+#
+1513#
+85 Acier
+1 Diamant
+#
+1516#
+100 Acier
+20 Écaille acérée
+#
+1519#
+45 Acier
+#
+1522#
+120 Acier
+1 Preuve de Heros orc
+#
+1801#
+160 Fer
+1 Perle
+#
+1803#
+50 Acier
+#
+1805#
+65 Acier
+#
+1807#
+4 Oridecon
+10 Rubis
+#
+1809#
+8 Oridecon
+10 Topaze
+#
+1811#
+4 Oridecon
+10 Opale
+#
+1860#
+2 Minerai de mithril, 15 Acier
+18 Oridecon, 1 Rubis imbibé de sang
+#
+7135#
+1 Alcool
+1 Morceau de tissu transparent
+1 Bouteille vide
+#
+7136#
+1 Cœur inarrêtable
+1 Bouteille vide
+#
+7137#
+2 Fleur de plante carnivore
+1 Bouteille vide
+#
+7138#
+1 Détonation
+1 Tendon
+1 Bouteille vide
+#
+7139#
+1 Alcool
+1 Croc de Zenorc
+1 Cœur de sirène
+1 Bouteille vide
+#
+13491#
+2 Minerai de mithril, 15 Acier
+18 Oridecon, 1 Opale scintillante
+#
+16086#
+2 Minerai de Mithril, 15 Acier
+18 Oridecon, 1 Saphir de la mer bleue
+#
+21045#
+2 Minerai de mithril, 15 Acier
+22 Oridecon, 1 Zelostone de la brise fraîche
+#
+26020#
+2 Minerai de mithril, 15 Acier
+22 Oridecon, 1 Zelostone du Chaos
+#
+28134#
+2 Minerai de Mithril, 15 Acier
+22 Oridecon, 1 Émeraude de Malédiction
+#
+28752#
+2 Minerai de mithril, 15 Acier
+18 Oridecon, 1 Zelostone cramoisie
+#
+32016#
+2 Minerai de mithril, 15 Acier
+18 Oridecon, 1 Zelostone du Crépuscule
+#
+100371#
+1 Graine de vie
+1 Herbe jaune
+1 Bouteille vide
+#

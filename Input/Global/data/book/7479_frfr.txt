@@ -1,0 +1,71 @@
+%faf0e6
+^000088Actuellement, un chef parcourt Rune-Midgard...!!^000000
+- Épopée culinaire émouvante - Recettes de niveau 8
+N’aie crainte, apprendre toutes ces recettes ne fera pas de toi un vagabond !
+
+
+^FF0000Plat spécial de pattes d’ours :^000000
+Ingrédients : ^4B0082x1 patte d’ours, x1 carotte, x1 tête de citrouille, x1 Feuille d'aloès,
+x1 Feuille de Hinare, x1 Sauce légère^000000
+Préparation : Faites tremper la patte d’ours dans l’eau, lavez-la soigneusement, puis blanchissez-la brièvement dans de l’eau bouillante.
+Lavez-la à nouveau, entaillez la partie charnue en forme de "+", puis enveloppez-la dans un tissu.
+Placez-la dans une casserole, ajoutez de l’eau, du sel, du saké de cuisine et du poivre, portez à ébullition et écumez.
+Ajoutez du gingembre et de la ciboule, puis laissez mijoter à feu doux. Coupez la carotte et la citrouille en morceaux et faites-les cuire séparément.
+Lavez soigneusement les feuilles, faites-les sauter avec du sel, placez-en la moitié au centre de l’assiette,
+sortez la patte d’ours cuite à la vapeur du tissu et déposez-la dessus. Disposez le reste des feuilles autour de l’assiette
+et décorez avec la carotte et la citrouille cuites. Le bouillon restant de la cuisson de la patte d’ours
+est assaisonné avec la Sauce légère, puis porté à ébullition jusqu’à épaississement, ajoutez de l’huile parfumée et versez sur la patte d’ours.
+La patte d’ours a une odeur forte, il faut donc bien la nettoyer et retirer toutes les impuretés et poils
+sans abîmer la surface, et changer l’eau fréquemment pour éliminer l’odeur.
+Le contrôle du feu est particulièrement important lors de la cuisson de la patte d’ours.
+
+^0000FFThé royal Supérieur :^000000 Un goût unique selon le mélange !
+Ingrédients : ^4B0082x1 Fruit épineux, x1 Feuille de Hinare, x1 Feuille d’Yggdrasil, x1 Feuille d'aloès,
+x1 Gelée royale, x1 Épice jaune^000000
+Préparation : Faites griller les baies et les feuilles bien séchées, puis coupez-les en morceaux de taille appropriée.
+Mélangez-les avec des feuilles ayant subi fermentation et séchage.
+Pour un goût acidulé, augmentez la quantité de Fruit épineux ;
+pour un goût amer, ajoutez plus de feuilles de Hinalle.
+Versez de l’eau bouillante juste avant ébullition dans la théière
+et laissez infuser 2 à 3 minutes pour les petites feuilles, 3 à 4 minutes pour les grandes.
+Ajustez la Gelée royale et l’Épice jaune selon vos préférences.
+
+^800000Toast spécial :^000000 Rien à voir (niveau ingrédients) avec les toasts de rue !
+Ingrédients : ^4B0082x1 pain, x1 Gelée royale, x1 viande, x1 fraise, x1 Sauce épicée, x1 fromage, x1 sauce sucrée^000000
+Préparation : Faites dorer le pain au beurre, hachez finement la viande et mélangez-la avec la Sauce épicée,
+façonnez un steak épais à la taille du pain. Préparez la fraise en confiture ou en fines tranches.
+Étalez la confiture sur le pain, ajoutez le steak de viande, versez la Sauce épicée,
+puis ajoutez le fromage. Si vous utilisez des tranches de fraise, étalez la Sauce épicée sur le pain, ajoutez le steak,
+puis mélangez la sauce sucrée avec la Gelée royale et étalez-la sur le dessus, ajoutez le fromage,
+puis les tranches de fraise, et recouvrez avec une autre tranche de pain.
+
+^008040Curry ultra épicé +9 :^000000 Assez épicé pour piquer pendant le travail !
+Ingrédients : ^4B0082x1 Aloe vera, x1 Sauce épicée, x1 viande, x1 Feuille de Hinare,
+x1 tête de citrouille, x1 carotte^000000
+Préparation : Séchez l’Aloe vera et la Hinalle, puis réduisez-les en poudre.
+Coupez la viande en dés de 2 cm, assaisonnez avec sel, poivre, etc.
+Coupez la citrouille et la carotte en dés, faites-les revenir dans du beurre.
+Faites revenir la viande séparément, puis, une fois cuite, mélangez-la avec les légumes sautés,
+ajoutez la poudre d’Aloe vera et de Hinalle, mélangez,
+ajoutez de l’eau, laissez mijoter, puis ajoutez la Sauce épicée et laissez cuire encore un peu.
+
+^FF8040Wrap géant :^000000 Tellement grand qu’il est difficile de le manger seul !
+Ingrédients : ^4B0082x1 feuille de vêtement, x1 viande, x1 carotte arc-en-ciel, x1 tête de citrouille, x1 Sauce légère, x1 Céréales^000000
+Préparation : Retirez les fibres de la tige de la feuille, faites-la cuire à la vapeur avec la citrouille, puis refroidissez à l’eau froide. Égouttez le sang de la viande, ficelez-la,
+faites-la cuire 40 minutes dans de l’eau avec la citrouille et la carotte. Vous pouvez ajouter un peu de Sauce légère.
+Une fois bien cuite, laissez refroidir puis coupez en fines tranches.
+Épluchez la Céréales et faites du riz, coupez la carotte en julienne et faites-la revenir légèrement.
+Étalez la feuille, placez la tige à l’intérieur.
+Ajoutez le riz, la viande, la carotte, la citrouille, badigeonnez de Sauce légère, puis refermez et servez.
+
+^400080Boule de riz à la fraise :^000000 Certains l’appellent aussi Boule de riz à la fraise goût Poring.
+Ingrédients : ^4B0082x1 fraise, x1 Céréales, x1 Vêtement en feuilles, x1 Épice jaune, x1 épice rouge, x1 Sauce légère^000000
+Préparation : Décortiquez la Céréales, faites du riz, préparez le jus de fraise.
+Mettez le riz cuit dans un grand bol, laissez tiédir,
+ajoutez la Sauce légère, les épices et le jus de fraise, mélangez bien.
+Attention à ne pas trop mélanger pour ne pas écraser les grains de riz.
+Façonnez en boules de taille appropriée, enveloppez-les dans le Vêtement en feuilles blanchi.
+
+^FF3366Assortiment de plats niv. 8 :^000000 L’essence de la Cuisine niv. 8
+Ingrédients : ^4B0082x1 plat spécial de pattes d’ours, x1 thé royal Supérieur, x1 Toast spécial, x1 Curry ultra-épicé +9, x1 Wrap géant, x1 Boule de riz à la fraise^000000
+Préparation : Rassemblez tous les plats de niveau 8 et servez-les joliment sur une grande table.

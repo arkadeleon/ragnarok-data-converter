@@ -1,0 +1,113 @@
+^FF3300[Yin-Yang Sword]^000000 A sword imbued with the power of yin and yang. 
+Physical Damage to Demon Monsters +5%, Physical Damage to Fire Enemies +5%. 
+Refine +7: Physical Damage to Demon Monsters +5% additional, Physical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical Damage to Demon Monsters +10% additional, Physical Damage to Fire Enemies +10% additional. 
+
+Type : One-handed Sword ATK : 130 Weight : 80 Weapon Level : 3 
+Required Level : 70 Equippable by : Swordsman Class/Merchant Class Slot : 2 
+
+^FF3300[Yin-Yang Greatsword]^000000 A greatsword imbued with the power of yin and yang. 
+Physical Damage to Demon Monsters +5%, Physical Damage to Fire Enemies +5%. 
+Refine +7: Physical Damage to Demon Monsters +5% additional, Physical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical Damage to Demon Monsters +10% additional, Physical Damage to Fire Enemies +10% additional. 
+
+Type : Two-handed Sword ATK : 180 Weight : 140 Weapon Level : 3 
+Required Level : 70 Equippable by : Swordsman Class Slot : 2 
+
+^FF3300[Yin-Yang Dagger]^000000 A dagger imbued with the power of yin and yang. 
+Physical Damage to Demon Monsters +5%, Physical Damage to Fire Enemies +5%. 
+Refine +7: Physical Damage to Demon Monsters +5% additional, Physical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical Damage to Demon Monsters +10% additional, Physical Damage to Fire Enemies +10% additional. 
+
+Type : Dagger ATK : 130 Weight : 80 Weapon Level : 3 
+Required Level : 70 Equippable by : Swordsman Class/Thief Class/Merchant Class Slot : 2 
+
+^FF3300[Yin-Yang Bow]^000000 A bow imbued with the power of yin and yang. 
+Physical Damage to Demon Monsters +5%, Physical Damage to Fire Enemies +5%. 
+Refine +7: Physical Damage to Demon Monsters +5% additional, Physical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical Damage to Demon Monsters +10% additional, Physical Damage to Fire Enemies +10% additional. 
+
+Type : Bow ATK : 130 Weight : 100 Weapon Level : 3 
+Required Level : 70 Equippable by : Archer Class/Thief Class Slot : 2 
+
+^FF3300[Yin-Yang Staff]^000000 A staff imbued with the power of yin and yang. MATK +130, Unbreakable. 
+Magical Damage to Demon Monsters +5%, Magical Damage to Fire Enemies +5%. 
+Refine +7: Magical Damage to Demon Monsters +5% additional, Magical Damage to Fire Enemies +5% additional. 
+Refine +9: Magical Damage to Demon Monsters +10% additional, Magical Damage to Fire Enemies +10% additional. 
+
+Type : One-handed Staff ATK : 40 Weight : 80 Weapon Level : 3 
+Required Level : 70 Equippable by : Novice Class/Mage Class/Acolyte Class/Soul Linker Class Slot : 2 
+
+^FF3300[Yin-Yang Mace]^000000 A mace imbued with the power of yin and yang. 
+Unbreakable, Physical Damage to Demon Monsters +5%, Physical Damage to Fire Enemies +5%. 
+Refine +7: Physical Damage to Demon Monsters +5% additional, Physical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical Damage to Demon Monsters +10% additional, Physical Damage to Fire Enemies +10% additional. 
+
+Type : Mace ATK : 130 Weight : 120 Weapon Level : 3 
+Required Level : 70 Equippable by : Swordsman Class/Novice Class/Acolyte Class/Merchant Class Slot : 2 
+
+^FF3300[Yin-Yang Katar]^000000 A katar imbued with the power of yin and yang. 
+Physical Damage to Demon Monsters +5%, Physical Damage to Fire Enemies +5%. 
+Refine +7: Physical Damage to Demon Monsters +5% additional, Physical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical Damage to Demon Monsters +10% additional, Physical Damage to Fire Enemies +10% additional. 
+
+Type : Katar ATK : 150 Weight : 120 Weapon Level : 3 
+Required Level : 70 Equippable by : Assassin Class Slot : 2 
+
+^FF3300[Yin-Yang Axe]^000000 An axe imbued with the power of yin and yang. 
+Unbreakable, Physical Damage to Demon Monsters +5%, Physical Damage to Fire Enemies +5%. 
+Refine +7: Physical Damage to Demon Monsters +5% additional, Physical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical Damage to Demon Monsters +10% additional, Physical Damage to Fire Enemies +10% additional. 
+
+Type : Two-handed Axe ATK : 180 Weight : 140 Weapon Level : 3 
+Required Level : 70 Equippable by : Merchant Class Slot : 2 
+
+^FF3300[Yin-Yang Spear]^000000 A spear imbued with the power of yin and yang. 
+Physical Damage to Demon Monsters +5%, Physical Damage to Fire Enemies +5%. 
+Refine +7: Physical Damage to Demon Monsters +5% additional, Physical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical Damage to Demon Monsters +10% additional, Physical Damage to Fire Enemies +10% additional. 
+
+Type : Two-handed Spear ATK : 180 Weight : 140 Weapon Level : 3 
+Required Level : 70 Equippable by : Swordsman Class Slot : 2 
+
+^FF3300[Yin-Yang Knuckle]^000000 Knuckles imbued with the power of yin and yang. 
+Physical Damage to Demon Monsters +5%, Physical Damage to Fire Enemies +5%. 
+Refine +7: Physical Damage to Demon Monsters +5% additional, Physical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical Damage to Demon Monsters +10% additional, Physical Damage to Fire Enemies +10% additional. 
+
+Type : Knuckle ATK : 130 Weight : 80 Weapon Level : 3 
+Required Level : 70 Equippable by : Monk Class/Priest Class Slot : 2 
+
+^FF3300[Yin-Yang Book]^000000 A book imbued with the power of yin and yang. 
+MATK +130, Physical and Magical Damage to Demon Monsters +5%, Physical/Magical Damage to Fire Enemies +5%. 
+Refine +7: Physical and Magical Damage to Demon Monsters +5% additional, Physical/Magical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical and Magical Damage to Demon Monsters +10% additional, Physical/Magical Damage to Fire Enemies +10% additional. 
+
+Type : Book ATK : 130 Weight : 80 Weapon Level : 3 
+Required Level : 70 Equippable by : Sage Class/Priest Class/Taekwon Master Class Slot : 2 
+
+^FF3300[Yin-Yang Whip]^000000 A whip imbued with the power of yin and yang. 
+Physical Damage to Demon Monsters +5%, Physical Damage to Fire Enemies +5%. 
+Refine +7: Physical Damage to Demon Monsters +5% additional, Physical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical Damage to Demon Monsters +10% additional, Physical Damage to Fire Enemies +10% additional. 
+
+Type : Whip ATK : 130 Weight : 80 Weapon Level : 3 
+Required Level : 70 Equippable by : Dancer Class Slot : 2 
+
+^FF3300[Yin-Yang Instrument]^000000 An instrument imbued with the power of yin and yang. 
+Physical Damage to Demon Monsters +5%, Physical Damage to Fire Enemies +5%. 
+Refine +7: Physical Damage to Demon Monsters +5% additional, Physical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical Damage to Demon Monsters +10% additional, Physical Damage to Fire Enemies +10% additional. 
+
+Type : Instrument ATK : 130 Weight : 80 Weapon Level : 3 
+Required Level : 70 Equippable by : Bard Class Slot : 2 
+
+^FF3300[Yin-Yang Ninja Dagger]^000000 A ninja dagger imbued with the power of yin and yang. 
+MATK +70, Physical and Magical Damage to Demon Monsters +5%, Physical/Magical Damage to Fire Enemies +5%. 
+Refine +7: Physical and Magical Damage to Demon Monsters +5% additional, Physical/Magical Damage to Fire Enemies +5% additional. 
+Refine +9: Physical and Magical Damage to Demon Monsters +10% additional, Physical/Magical Damage to Fire Enemies +10% additional. 
+
+Type : Dagger ATK : 130 Weight : 80 Weapon Level : 3 
+Required Level : 70 Equippable by : Ninja Class Slot : 2 
+
+^FFFFFF[Yin-Yang Firearms]^000000

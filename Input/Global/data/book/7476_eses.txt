@@ -1,0 +1,60 @@
+%faf0e6
+^000088Renace como un auténtico chef. ¡Acepta el desafío de alcanzar la cucharada divina!^000000
+
+No cualquiera puede convertirse en chef. Pero con este libro, ¡tú también serás chef!
+
+
+^FF0000Tortita de la señora de Lutie:^000000 ¡¡Todo el sabor casero de la experta señora de Lutie!!
+Ingredientes: ^4B0082Batata 1 unidad, Miel 1 unidad, Aceite de cocina 1 unidad, Zanahoria 1 unidad, Cereal 1 unidad^000000
+Preparación: Cuece la batata y tritúrala bien. Corta la zanahoria en juliana.
+Mezcla la harina de cereal bien molida con huevo, la batata triturada, la zanahoria en juliana y agua hasta obtener una masa espesa.
+Calienta una sartén, vierte una cantidad adecuada de masa y cocínala hasta que quede bien dorada.
+
+^0000FFLicor de Mastela:^000000 ¡Prohibido conducir un Peco bajo los efectos del alcohol! Un delicioso licor de color violeta
+Ingredientes: ^4B0082Fruto de Mastela 1 unidad, Poción azul 1 unidad, Alcohol 1 unidad, Limón 1 unidad, Especia amarilla 1 unidad^000000
+Preparación: Exprime por separado el fruto de Mastela y el limón con un exprimidor.
+Pon Alcohol 1 unidad y el zumo de limón en una batidora, y mezcla durante 20 segundos. Después, añade la Poción azul y Alcohol 1 unidad
+más, incorpora el zumo de Mastela y mezcla durante 5 segundos.
+Sirve el licor de Mastela en una copa, espolvorea por encima la especia amarilla y
+acompáñalo con medio fruto de Mastela cortado en rodajas.
+
+^800000Ensalada verde:^000000 ¡Una mesa repleta de verdor! Con abundante aliño dulce~
+Ingredientes: ^4B0082Hoja de Hinalle 1 unidad, Hoja de aloe 1 unidad, Hoja afilada 1 unidad, Hoja grande 1 unidad,
+Salsa dulce 1 unidad, Especia amarilla 1 unidad^000000
+Preparación: Separa una a una las hojas de Hinalle, córtalas en juliana, déjalas en agua fría y escúrrelas.
+Retira las partes duras de la hoja afilada, conserva solo el tallo interior tierno, córtalo en trozos de 5 cm y
+después en juliana. Déjalo en agua fría y escúrrelo. Para la hoja grande, elige un rábano grande,
+córtalo en rodajas y después en juliana, déjalo en agua fría y escúrrelo. Retira las espinas de la hoja de aloe,
+córtala por la mitad y después en juliana, enjuágala con agua y escúrrela. Elimina toda el agua de las verduras preparadas.
+Coloca las verduras en un plato, bien dispuestas unas junto a otras. Antes de servir, añade la salsa dulce por encima y
+espolvorea ligeramente la especia amarilla.
+
+^008040Calabaza al vapor con alas de murciélago:^000000 A la calabaza al vapor no le saldrán alas de murciélago para echar a volar.
+Ingredientes: ^4B0082Ala de murciélago rojo 1 unidad, Cabeza de calabaza 1 unidad, Olla 1 unidad, Hoja de Hinalle 1 unidad, Hierba roja 1 unidad^000000
+Preparación: Corta las alas de murciélago en trozos del tamaño de un bocado, limpia la hoja de Hinalle y pícala gruesa,
+y corta finamente la hierba roja. Añade aceite de oliva a una sartén y saltea las alas de murciélago. Después,
+incorpora la hoja de Hinalle y saltéala un poco más.
+Cuando las alas de murciélago estén suficientemente hechas, añade la hierba roja cortada en tiras y sazona con sal.
+Corta la calabaza por la mitad a lo largo y después en 6 trozos. Retira las semillas y la pulpa,
+coloca encima las alas salteadas y cuécela al vapor durante aproximadamente 15 minutos en una vaporera ya caliente.
+
+^FF8040Empanadilla asada picante:^000000 ¡Una masa transparente y crujiente!
+Ingredientes: ^4B0082Empanadilla 1 unidad, Hierba amarilla 1 unidad, Salsa picante 1 unidad, Especia roja 1 unidad, Hierba verde 1 unidad^000000
+Preparación: Corta la hierba amarilla y la hierba verde en trozos ligeramente más grandes que la empanadilla.
+Fríe la empanadilla y déjala escurrir. Cubre un plato con la hierba verde,
+coloca encima la hierba amarilla y la empanadilla, y vierte la salsa picante por encima.
+Termina el plato con la especia roja y sírvelo.
+
+^400080Salteado de escorpión:^000000 ¡No juzgues su sabor por su aspecto!
+Ingredientes: ^4B0082Cola de escorpión 1 unidad, Pata corta 1 unidad, Hoja grande 1 unidad, Sartén vieja 1 unidad, Aceite de cocina 1 unidad^000000
+Preparación: Corta la hoja grande en juliana fina.
+Calienta una sartén a fuego medio, añade Aceite de cocina 2 cucharadas y saltea la pata corta.
+En otra sartén, saltea de la misma forma la cola de escorpión.
+(Saltéalas por separado para evitar que los sabores se mezclen.)
+Cuando estén bien doradas, añade la hoja cortada en juliana y saltéala ligeramente
+solo hasta que se ablande. Cubre un plato con la hoja grande y coloca encima la cola de escorpión y la pata corta salteadas.
+Sírvelas acompañadas de salsa de soja u otros condimentos.
+
+^FF3366Surtido de platos de nivel 5:^000000 La esencia de los platos de nivel 5
+Ingredientes: ^4B0082Tortita de la señora de Lutie 1 unidad, Licor de Mastela 1 unidad, Ensalada verde 1 unidad, Calabaza al vapor con alas de murciélago 1 unidad, Empanadilla asada picante 1 unidad, Salteado de escorpión 1 unidad^000000
+Preparación: Reúne todos los platos de nivel 5 y sírvelos cuidadosamente dispuestos en un gran banquete.

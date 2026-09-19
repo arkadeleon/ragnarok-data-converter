@@ -1,0 +1,90 @@
+%faf0e6
+^000088-Seorang koki sejati tetap dapat memasak hidangan lezat bahkan saat berada di balik jeruji.-^000000
+
+Buku resep masakan Level 6: "Selalu ada satu hasil. Jawabannya ada di dalam panci ini!"   Inilah resep rahasia yang kini dibuka untuk umum oleh cucu dari seorang koki almarhum yang telah mengabdikan hidupnya pada dunia memasak.
+
+^FF0000Shiny Marinade Beef:^000000 Daging sapi marinasi kelas gourmet yang dilapisi madu.
+
+Bahan: ^4B008210 Meat, 2 Honey, 1 Yellow Herb, 1 Mastela Fruit, 20 Shining Scales^000000
+
+Cara membuat:
+
+1. Buang tulang dari Meat lalu lunakkan daging tanpa tulang tersebut.
+2. Masukkan Meat ke dalam mangkuk lebar lalu oleskan Honey dan sari Mastela Fruit di atasnya.
+3. Tekan-tekan Meat dengan tangan lalu taburkan garam dan merica.
+4. Bungkus daging dengan Shining Scales lalu simpan di lemari pendingin semalaman.
+5. Panaskan pemanggang atau wajan dengan api besar lalu panggang daging marinasi tersebut.
+6. Siapkan piring lebar dan dalam dengan melapisinya menggunakan Yellow Herbs.
+7. Sajikan daging marinasi panggang di atas piring tersebut.
+
+^0000FFRed Mushroom Wine:^000000 Minuman anggur lezat yang dibuat dari Red Mushrooms.
+
+Bahan: ^4B00823 Edible Mushrooms, 3 Grape Juice, 20 Mushroom Spores, 1 Alcohol, 1 Red Spice^000000
+
+Cara membuat:
+
+1. Potong Edible Mushroom menjadi irisan tipis.
+2. Tuangkan Grape Juice ke dalam mangkuk lalu susun irisan Edible Mushroom dan Mushroom Spores secara berlapis. Simpan di lemari pendingin selama 1 hingga 3 hari.
+3. Tambahkan Alcohol dan sedikit Red Spice ke dalam mangkuk lalu tutup rapat agar kedap udara.
+4. Simpan minuman tersebut di tempat gelap dan kering selama sekitar 3 bulan untuk proses pematangan.
+5. Setelah minuman cukup matang, saring isinya dan bersihkan cairannya menggunakan penyaring.
+6. Masukkan minuman ke dalam botol lalu nikmati.
+
+^800000Peach Cake:^000000 Kue persik yang lembut dan manis.
+
+Bahan: ^4B008220 Solid Peaches, 10 Piece of Cake, 10 Cheese, 10 Milk, 5 Orange Juice, 1 Sweet Sauce^000000
+
+Cara membuat:
+
+1. Keruk lapisan krim dari Piece of Cake sehingga hanya tersisa bagian kue yang lembut.
+2. Potong Solid Peaches menjadi irisan tipis.
+3. Masukkan Sweet Sauce dan sedikit Cheese ke dalam panci lalu panaskan sebentar.
+4. Tambahkan irisan Solid Peaches lalu rebus hingga menjadi lembut.
+5. Dinginkan isi panci hingga mencapai suhu ruangan.
+6. Olesi loyang kue dengan mentega lalu taburkan gula.
+7. Lelehkan Cheese lalu campurkan dengan telur dan Milk. Aduk hingga menjadi krim kocok.
+8. Susun lapisan sponge cake dan selai persik secara bergantian di dalam cetakan kue.
+9. Panggang kue di dalam oven pada suhu 160 derajat Celsius selama 50 menit.
+10. Oleskan krim di seluruh permukaan kue lalu hias dengan buah dan biskuit sesuai selera.
+11. Nikmati manisnya Peach Cake.
+
+
+^008040Chili Shrimp Gratin:^000000
+
+Bahan: ^4B008220 Red Chilis, 20 Shrimps, 1 Sweet Sauce, 20 Lemons^000000
+
+Cara membuat:
+
+1. Kupas Shrimps lalu peras semua Lemons kecuali satu untuk mendapatkan sarinya.
+2. Haluskan Red Chilis hingga menjadi bubuk cabai.
+3. Panaskan wajan dengan api besar lalu masukkan bubuk cabai, 5 cangkir air, dan Shrimps. Masak sebentar.
+4. Tambahkan Sweet Sauce dan sari Lemon lalu lanjutkan memasak.
+5. Olesi mangkuk gratin dengan mentega lalu masukkan Shrimps yang telah dimasak dan Cheese ke dalamnya.
+6. Panaskan oven hingga 180 derajat Celsius lalu panggang gratin selama 10 menit.
+7. Sajikan gratin dengan irisan Lemon di atasnya.
+
+^FF8040Awfully Bitter Bracer:^000000 Ingatlah bahwa potion yang sangat pahit terkadang memiliki khasiat yang baik.
+
+Bahan: ^4B008220 Brown Roots, 10 Maneater Roots, 20 Mushroom Spores, 1 Edible Mushroom, 2 Honey^000000
+
+Cara membuat:
+
+1. Jemur semua bahan obat di bawah sinar matahari selama beberapa hari hingga benar-benar kering.
+2. Iris tipis semua bahan yang telah kering.
+3. Tuangkan 4 hingga 5 cangkir air dingin ke dalam mangkuk obat atau teko lalu masukkan semua bahan tersebut.
+4. Rebus perlahan selama 1 hingga 2 jam dengan api kecil.
+5. Jika potion mulai mendidih dan berbuih, matikan api.
+6. Jangan menyaring potion menggunakan kain; cukup minum cairannya tanpa memakan isinya.
+7. Kamu dapat membuat seduhan kedua dengan menambahkan air ke dalam panci lalu merebusnya kembali.
+
+^400080Lucky Soup:^000000 Meminum sup ini dipercaya dapat membawa keberuntungan.
+
+Bahan: ^4B00825 Reptile Tongues, 5 Tongues, 10 Clovers, 10 Witch Starsand, 1 Aloe^000000
+
+Cara membuat:
+
+1. Rebus sebentar Reptile Tongues dan Tongues lalu bilas dengan air dingin. Potong menjadi irisan tipis.
+2. Kupas Aloe lalu potong menjadi irisan tipis.
+3. Rebus air bersama Witch Starsand dalam panci besar selama beberapa saat.
+4. Tambahkan irisan lidah ke dalam panci lalu rebus.
+5. Tambahkan Clovers lalu lanjutkan merebus sebentar lagi.

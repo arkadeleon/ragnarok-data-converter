@@ -1,0 +1,48 @@
+%faf0e6
+^000088-Do not panic even if you are left alone. With just this, you too can survive anywhere.-^000000
+
+You can do it too! Level 1 Cooking!
+
+^FF0000Stir-Fried Grasshopper:^000000 Don’t worry—it’s already stir-fried, so it won’t jump around in your mouth.
+Materials: ^4B00821 Grasshopper Hind Leg, 1 Cooking Oil^000000
+Cooking Method: Heat a frying pan over medium heat.
+           (With a new frying pan, it takes time for the oil to soak into the bottom,
+           so some people use fatty parts like Savage lard to season it..)
+           Once it is heated properly, add 2 tablespoons of cooking oil,
+           then add 1 hind leg and lightly stir-fry.
+           When it turns slightly golden, add the remaining 1 and add 1 more tablespoon of oil,
+           then fry until crispy.
+
+^0000FFGrape Juice Herb Tea:^000000 Just grind grapes into a potion and you’re good!
+Materials: ^4B00821 Grape, 1 Red Potion^000000
+Cooking Method: Put the grape and one serving of red potion into a blender and grind to make juice.
+           The key point is to grind the skin and seeds together!
+           When it is blended enough, add the remaining serving and mix for 10 seconds.
+
+
+
+^800000Honey Grape Juice:^000000 Add strawberries too, and it’s the icing on the cake!
+Materials: ^4B00821 Strawberry, 1 Grape, 1 Red Herb^000000
+Cooking Method: Made almost the same way as Grape Juice Herb Tea,
+           but the key is to add sweet strawberries instead of the final potion serving!
+
+^008040Frog Spawn Soup:^000000 Soup served with sauce
+Materials: ^4B00821 Grain, 1 Frog Spawn^000000
+Cooking Method: Finely grind the grain and set it aside, and soak the frog spawn in ice water to prepare it.
+           (The reason for soaking in ice water is to keep a chewier texture.)
+           Add the finely ground grain powder to an appropriate amount of water and simmer over low heat.
+           When it thickens,
+           add the frog spawn that was kept in ice water.
+           When the frog spawn is lightly cooked, add the sauce, bring it to a brief boil, then serve.
+          
+^FF8040Steamed Crab Claw:^000000 It’s fun to pick and eat!
+Materials: ^4B00821 Claw, 1 Green Herb, 1 Red Potion^000000
+Cooking Method: First, marinate the claw well in red potion a day in advance.
+           Line a steamer with a cloth, spread green herbs on top,
+           then place the well-seasoned claw on top and steam it.
+
+^400080Stir-Fried Monkey Tail:^000000 It seems like it would be tough, but it really isn’t.
+Materials: ^4B00821 Monkey Tail, 1 Cooking Oil^000000
+Cooking Method: Peel the monkey tail and cut it into bite-sized pieces.
+           Heat a frying pan over medium heat, add cooking oil, and stir-fry an appropriate amount.
+           If you fry too much at once, the meat becomes tough, so fry in moderate portions.

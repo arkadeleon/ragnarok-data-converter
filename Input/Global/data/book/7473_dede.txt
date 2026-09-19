@@ -1,0 +1,55 @@
+%faf0e6
+^000088-Mutters Kochkunst, die sogar das Herz heilt. Für dich, der du die Wärme der Familie vermisst.-^000000
+
+Enthält Rezepte für Level-2-Gerichte, die allerdings keine HP heilen.
+
+^FF0000Gewürzter Schwimmhaut-Salat :^000000 Die Milde mindert die Klebrigkeit und bringt den Biss besser zur Geltung.
+Zutaten : ^4B0082Klebrige Schwimmhaut 1 Stück, Grünes Kraut 1 Stück, Gelbes Kraut 1 Stück, Milde Soße 1 Stück^000000
+Zubereitung : Klebrige Schwimmhaut in Eiswasser aufbewahren, Grünes Kraut und Gelbes Kraut in feine Streifen schneiden.
+Eine passende Menge Schwimmhaut entnehmen und mit einer passenden Menge der geschnittenen Kräuter vermengen.
+Sobald die Kräuter etwas zusammenfallen, Milde Soße dazugeben und die restlichen Kräuter unterheben.
+Gekühlt lagern, damit der Biss erhalten bleibt und nichts zusammenklebt.
+
+^0000FFSchwarztee „Zehntausend Blätter“ :^000000 Am besten mit Keksen und Kuchen genießen.
+Zutaten : ^4B0082Blaues Kraut 1 Stück, Rotes Kraut 1 Stück, Gelbes Kraut 1 Stück^000000
+Zubereitung : Gut getrocknete und fermentierte Kräuter vorbereiten.
+In eine Kanne, deren Außenseite in kochendem Wasser erwärmt wurde, ohne dass das Innere nass wird,
+die Kräuterblätter geben, kochendes Wasser aufgießen und mit geschlossenem Deckel 2–3 Minuten ziehen lassen.
+Weder zu lange noch zu kurz ziehen lassen; nach Belieben mit Milch oder Zitrone servieren.
+
+
+^800000Schokoladen-Mousse-Kuchen :^000000 Süße, die auf der Zunge zergeht.
+Zutaten : ^4B0082Kakao 1 Stück, Stück Kuchen 1 Stück, Milch 1 Stück, Weißer Teller 1 Stück
+Zubereitung : Fein gemahlenes Kakaopulver mit Milch aufschlagen und zu einer Creme (Crema) verarbeiten.
+Vom Stück Kuchen etwas Biskuit übrig lassen und den Rest kurzerhand weg naschen,
+dann Creme und Stabilisator mit dem übrigen Kuchen vermengen, kalt fest werden lassen und auf dem Teller anrichten.
+
+^008040Glitschige Nudeln :^000000 Mit Stäbchen lassen sie sich am besten essen.
+Zutaten : ^4B0082Getreide 1 Stück, Milde Soße 1 Stück, Kürbiskopf 1 Stück, Karotte 1 Stück^000000
+Zubereitung : Die Grundlage jeder Nudel ist der Teig. Getreide mit passendem Eiweißgehalt zu Mehl mahlen,
+nach und nach kaltes Wasser zugeben und einen Teig kneten. Dann wiederholt ziehen und falten, bis Nudeln entstehen.
+Die fertigen Nudeln am besten etwa einen Tag ruhen lassen.
+Den Kürbiskopf in Wasser gründlich weich kochen; wird er danach klopfend bearbeitet, entstehen feine Streifen wie Nudeln.
+Die Karotte in Streifen schneiden, kurz anbraten und beiseitestellen, die Nudeln in Wasser kochen und herausnehmen.
+Wenn das Wasser überzukochen droht, etwas kaltes Wasser zugießen, erneut aufkochen lassen und die Nudeln dann herausheben.
+Werden die gekochten Nudeln in kaltem Wasser gerieben und gewaschen, erhalten sie einen besonders guten Biss.
+In die ausgehöhlte Schale des Kürbiskopfs sowohl die Nudeln als auch die Kürbisstreifen geben,
+die vorbereitete Brühe darübergießen und die angebratene Karotte darauf anrichten.
+
+
+^FF8040Meeresfrüchtegericht :^000000 Eine Platte aus verschiedenen Meeresfrüchten.
+Zutaten : ^4B0082Muschelfleisch 1 Stück, Stachlige Kiemen 1 Stück, Flosse 1 Stück, Schmackhafter Fisch 1 Stück^000000
+Zubereitung : Frisches Muschelfleisch und Schmackhafter Fisch kurz garen und in passende Stücke schneiden.
+Mit einer Pinzette alle Stacheln aus den Stachligen Kiemen entfernen,
+kurz garen und ebenfalls in passende Stücke schneiden.
+Die Flosse blanchieren, die übrigen Zutaten darauflegen und dreimal fächerförmig zusammenfalten.
+
+^400080Gemischter Saft :^000000 Eine unerwartete Mischung mit überraschendem Geschmack. Lucky!
+Zutaten : ^4B0082Apfelsaft 1 Stück, Karottensaft 1 Stück, Traubensaft 1 Stück, Orangensaft 1 Stück^000000
+Zubereitung : Das Mischverhältnis ist entscheidend.
+Karottensaft dient als Basis, und je nach Reihenfolge und Verhältnis beim Mischen
+entstehen unterschiedliche Geschmackskombinationen. Wer es lieber säuerlich mag,
+mixt in der Reihenfolge Apfelsaft, Orangensaft, Traubensaft.
+Wer Süße bevorzugt, mixt grundsätzlich in der Reihenfolge Traubensaft, Apfelsaft, Orangensaft.
+Man sagt, manche erzeugen dabei sogar ganz unerwartete Geschmacksnoten.
+(Angeblich wie eine ganz neue Welt.)

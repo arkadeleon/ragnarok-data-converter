@@ -1,0 +1,126 @@
+^FF0000---- Agni วิญญาณแห่งเพลิง----^000000
+
+วิญญาณอัคคีที่ถูกอัญเชิญจะตอบสนองตามคำสั่งของผู้อัญเชิญ โดยใช้คำสั่ง Spirit Control แสดงท่าทีแตกต่างกันไปตามขนาดของวิญญาณ
+
+^FA8072[Lend Me Your Aid]^000000
+i - Pyrotechnic : Damage ของ Fire Wall และ Fire Bolt เพิ่มขึ้น
+ii - Heater : Damage ของ Fire Walk เพิ่มขึ้น
+เอฟเฟกต์ฟื้นฟูจากสกิล Warmer เพิ่มขึ้นเล็กน้อย
+Damage ของ Psychic Wave เพิ่มขึ้นเล็กน้อย
+ธาตุของ Psychic Wave เปลี่ยนเป็นธาตุ Fire
+iii - Tropic : เมื่อผู้อัญเชิญโจมตี จะร่าย Fire Bolt โดยอัตโนมัติ
+เมื่อใช้ Flame Launcher หรือ Volcano มีโอกาส 1/2 ที่จะไม่ใช้ Red Blood หรือ
+Yellow Gemstone
+
+^0000FF[Protect Me]^000000
+i - Circle Of Fire : สร้างเขตแดนเพลิงรอบตัวผู้อัญเชิญ
+เมื่อศัตรูโจมตี จะมีโอกาสสร้าง Damage และผลักศัตรูออกไปจากผู้อัญเชิญ
+ii - Fire Cloak : เพิ่มความต้านทานธาตุ Fire ขึ้นอย่างมาก พร้อมทั้งลดความต้านทานต่อธาตุ Water ลง
+iii - Fire Mantle : เรียก Fire Wall อันทรงพลังรอบตัวผู้อัญเชิญ
+
+^FF0000[Defeat Those Who Oppose Me]^000000
+
+i - Fire Arrow : ยิงลูกศรเพลิง 1 ดอกใส่ศัตรู 1 ตัว สร้างความเสียหายธาตุ Fire
+ii - Fire Bomb : ใช้ระเบิดเพลิงโจมตีศัตรู 1 ตัวและบริเวณรอบ ๆ สร้าง Damage ธาตุ Fire
+หรือโจมตีศัตรู 1 ตัว เป็น Damage ทางเวทมนตร์ธาตุ Fire
+iii - Fire Wave : ก่อให้เกิดเปลวไฟขนาดใหญ่ โจมตีศัตรู 1 ตัวและบริเวณรอบ ๆ เป็น Damage ทางกายภาพ ธาตุ Fire หรือโจมตีศัตรู 1 ตัวด้วย Damage ทางเวทมนตร์ธาตุ Fire อย่างรุนแรง
+
+^0000FF---- Aqua วิญญาณแห่งวารี ----^000000
+วิญญาณวารีที่ถูกอัญเชิญจะตอบสนองตามคำสั่งของผู้อัญเชิญ โดยใช้คำสั่ง Spirit Control แสดงท่าทีแตกต่างกันไปตามขนาดของวิญญาณ
+
+^FA8072[Lend Me Your Aid]^000000
+i - Aqua Play : Damage ของ Cold Bolt และ Frost Diver เพิ่มขึ้น
+
+ii - Cooler : เพิ่มโอกาส Freezing ของ Diamond Dust ขึ้นเล็กน้อย
+Damage ของ Diamond Dust เพิ่มขึ้นเล็กน้อย
+Damage ของ Psychic Wave เพิ่มขึ้นเล็กน้อย
+ธาตุของ Psychic Wave เปลี่ยนเป็นธาตุ Water
+
+iii - Chilly Air : เมื่อผู้อัญเชิญโจมตี จะร่าย Cold Bolt โดยอัตโนมัติ
+เมื่อใช้ Frost Weapon หรือ Deluge มีโอกาส 1/2 ที่จะไม่ใช้ Crystal Blue หรือ
+Yellow Gemstone
+
+^0000FF[Protect Me]^000000
+i - Water Screen : ฟื้นฟู HP ของผู้อัญเชิญตามจำนวนที่กำหนดอย่างต่อเนื่อง
+ระหว่างนั้น Damage ที่ผู้อัญเชิญได้รับจะถูก Aqua รับแทน
+
+ii - Water Drop : เพิ่มความต้านทานธาตุ Water ขึ้นอย่างมาก พร้อมทั้งลดความต้านทานต่อธาตุ Fire ลง
+
+iii - Water Barrier : สร้างกำแพงป้องกันน้ำรอบตัวผู้ร่าย
+กำแพงนี้จะลด Damage ทางกายภาพและทางเวทมนตร์ลงตามจำนวนที่กำหนด แต่ภายในกำแพง อัตรา FLEE และพลังโจมตีจะลดลง
+
+^FF0000[Defeat Those Who Oppose Me]^000000
+
+i - Ice Needle : สร้างเข็มน้ำแข็งแหลมคม โจมตีศัตรู 1 ตัวด้วย Damage ทางเวทมนตร์ ธาตุ Water
+
+ii - Water Screw : ยิงคลื่นน้ำ โจมตีศัตรู 1 ตัวด้วย Damage ทางเวทมนตร์ ธาตุ Water
+หรือโจมตีศัตรู 1 ตัวและบริเวณรอบ ๆ ด้วย Damage ทางเวทมนตร์ ธาตุ Water
+
+iii - Tidal Weapon : ในช่วงเวลาสั้น ๆ เปลี่ยนอาวุธของผู้อัญเชิญและวิญญาณให้เป็นธาตุ Water
+และเพิ่มพลังโจมตีของวิญญาณเอง
+หรือโจมตีศัตรู 1 ตัวด้วย Damage ธาตุ Water อย่างรุนแรง
+
+^0000FF---- Ventus วิญญาณแห่งวายุ ----^000000
+วิญญาณวายุที่ถูกอัญเชิญจะตอบสนองตามคำสั่งของผู้อัญเชิญ โดยใช้คำสั่ง Spirit Control แสดงท่าทีแตกต่างกันไปตามขนาดของวิญญาณ
+
+^FA8072[Lend Me Your Aid]^000000
+i - Gust : Damage ของ Lightening Bolt และ Thunder Storm เพิ่มขึ้น
+
+ii - Blast : Damage ของ Electric Walk เพิ่มขึ้น
+Damage ของ Varetyr Spear เพิ่มขึ้น
+Damage ของ Psychic Wave เพิ่มขึ้น
+ธาตุของ Psychic Wave เปลี่ยนเป็นธาตุ Wind
+
+iii - Wild Storm : เมื่อผู้อัญเชิญโจมตี จะร่าย Lightening Bolt อัตโนมัติ
+เมื่อใช้ Lightning Loader หรือ Violent Gale มีโอกาส 1/2 ที่จะไม่ใช้ Wind of Verdure หรือ
+Yellow Gemstone
+
+
+^0000FF[Protect Me]^000000
+i - Wind Step : Teleport ผู้อัญเชิญทันที
+และเพิ่มความเร็วเคลื่อนที่และอัตรา FLEE ขึ้นเป็นระยะเวลาหนึ่ง
+ii - Wind Curtain : เพิ่มความต้านทานธาตุ Wind ขึ้นอย่างมาก พร้อมทั้งลดความต้านทานต่อธาตุ Earth ลง
+iii - Zephyr : สร้างเขตแดนแห่งลมรอบตัวผู้อัญเชิญ ภายในเขตแดนนี้อัตรา FLEE จะเพิ่มขึ้น
+และจะไม่รับ Damage จากการโจมตีระยะไกล นอกจากนี้ยังมีโอกาสทำให้ Damage ทางกายภาพและทางเวทมนตร์เป็นโมฆะเล็กน้อย
+
+^FF0000[Defeat Those Who Oppose Me]^000000
+i - Wind Slash : ยิงคมมีดลมใส่ศัตรูเป้าหมายระยะไกล 1 ตัว สร้าง Damage ธาตุ Wind
+พร้อมติดสถานะ Bleeding
+ii - Hurricane Rage : โจมตีศัตรูเป้าหมายระยะไกล 1 ตัวด้วย Damage ทางเวทมนตร์ ธาตุ Wind
+หรือโจมตีศัตรู 1 ตัวและบริเวณรอบ ๆ ด้วย Damage ทางกายภาพ ธาตุ Wind
+iii - Typhoon Missile : โจมตีศัตรูเป้าหมายระยะไกล 1 ตัวด้วย Damage ธาตุ Wind
+หรือสร้าง Damage ทางเวทมนตร์ ธาตุ Wind พร้อมทำให้ติดสถานะ Silence
+
+^008040---- Tera วิญญาณแห่งพสุธา ----^000000
+วิญญาณพสุธาที่ถูกอัญเชิญจะตอบสนองตามคำสั่งของผู้อัญเชิญ โดยใช้คำสั่ง Spirit Control แสดงท่าทีแตกต่างกันไปตามขนาดของวิญญาณ
+
+^FA8072[Lend Me Your Aid]^000000
+i - Petrology : โอกาสติดสถานะ Stone Curse เพิ่มขึ้นเล็กน้อย
+Damage ของ Earth Spike และ Heaven's Drive เพิ่มขึ้น
+
+ii - Cursed Soil : Damage สุดท้ายของ Killing Cloud เพิ่มขึ้น
+Damage ของ Poison Burst เพิ่มขึ้น
+Damage ของ Earth Grave เพิ่มขึ้น
+Damage ของ Psychic Wave เพิ่มขึ้น
+ธาตุของ Psychic Wave เปลี่ยนเป็นธาตุ Earth
+
+iii - Upheaval : เมื่อผู้อัญเชิญโจมตี จะร่าย Earth Spike อัตโนมัติ
+เมื่อใช้ Seismic Weapon มีโอกาส 1/2 ที่จะไม่ใช้ Green Live
+
+^0000FF[Protect Me]^000000
+i - Solid Skin : เพิ่มพลังป้องกันและ Max HP ของผู้อัญเชิญอย่างมาก
+
+ii - Stone Shield : เพิ่มความต้านทานธาตุ Earth ขึ้นอย่างมาก พร้อมทั้งลดความต้านทานต่อธาตุ Fire ลง
+
+iii - Power Of Gaia : สร้างเขตแดนแห่งผืนดินรอบตัวผู้อัญเชิญ
+ภายในบริเวณนี้จะไม่ติดสถานะ Bleeding และ Petrify เพิ่ม Max HP และพลังป้องกันเป็นระยะเวลาหนึ่ง
+แต่ความเร็วเคลื่อนที่จะลดลงอย่างมาก
+
+^FF0000[Defeat Those Who Oppose Me]^000000
+
+i - Stone Hammer : โจมตีเป้าหมาย 1 ตัวด้วย Damage ธาตุ Earth พร้อมทำให้ติดสถานะ Stun
+
+ii - Rock Crusher Attack : โจมตีเป้าหมาย 1 ตัวด้วย Damage ธาตุ Earth พร้อมลดพลังป้องกันลงตามจำนวนที่กำหนด หรือโจมตีศัตรู 1 ตัวด้วย Damage ทางเวทมนตร์ ธาตุ Earth พร้อมลดความเร็วเคลื่อนที่ลงตามจำนวนที่กำหนด
+
+iii - Stone Rain : ซัดหินจำนวนมากใส่ศัตรู 1 ตัวและบริเวณรอบ ๆ สร้าง Damage ธาตุ Earth
+หรือโจมตีศัตรู 1 ตัวด้วย Damage ธาตุ Earth พร้อมทำให้ติดสถานะ Stun

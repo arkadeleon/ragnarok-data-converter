@@ -1,0 +1,126 @@
+%f5f5dc
+^000088Prontera Kalesi Levazım Subayı Takas Eşyası - Tüketim Eşyaları^000000
+
+^FF0000[Şehir Merkezi Haritası]^000000
+Şehir içini gösteren harita.
+Kullanım: Çevikliği Artır 1 seviye etkinleşir.
+Dikkat! - Döküm sırasında kullanılırsa etki etkinleşmez.
+Dikkat! - 15 HP harcadığı için HP 15'ten az ise etki etkinleşmez ve yalnızca Şehir Merkezi Haritası kaybolur.
+Ağırlık : 1
+
+^FF0000[Parlayan Kutsal Su]^000000
+Ritüel Odası ve Prontera İstilası Zindanı'nda alınan hasarı 3 dakika boyunca %10 azaltır.
+Zehir ve Lanet ile Sessizlik etkilerini kaldırır ve HP'yi 1000 yeniler.
+Ağırlık : 1.5
+
+^FF0000[Hapishane Anahtarı]^000000
+Eski, kirli bir anahtarlık.
+Prontera Kalesi Yeraltı Hapishanesi Zindanı'na geçiş sağlar.
+Ağırlık : 1
+
+^FF0000[Prontera Rozeti]^000000
+Prontera koordinatlarının kayıtlı olduğu rozet.
+Kullanım: Prontera'ya gönderir.
+Ağırlık : 1
+
+
+^000088Prontera Kalesi Levazım Subayı Takas Eşyası - Zırh Eşyaları^000000
+
+^FF0000[Şehir Merkezi Haritası]^000000
+Şehir içini gösteren harita.
+Çevikliği Artır 3 seviye kullanılabilir.
+Kategori : Aksesuar
+DEF : 0
+Ağırlık : 10
+Gerekli Seviye : 40
+Kuşanım : Tüm Sınıflar
+Slot : 1
+
+^FF0000[Parlayan Kutsal Su]^000000
+Ritüel Odası ve Prontera İstilası Zindanı'nda alınan hasarı %20 azaltır.
+Her 10 saniyede HP'yi 100, SP'yi 5 yeniler.
+Kategori : Aksesuar
+DEF : 0
+Ağırlık : 15
+Gerekli Seviye : 100
+Kuşanım : Tüm Sınıflar
+
+Slot : 1
+^FF0000[Kraliyet Muhafız Kalkanı]^000000
+Krallık Muhafız Şövalyesinin kalkanı.
+'Shield Spell' 1 seviye kullanılabilir.
+Yakın mesafe fiziksel hasar alındığında, belirli bir olasılıkla kendine 'Assumptio' 3 seviye etkinleşir.
+Arıtma derecesine göre 'Assumptio' 3 seviye etkinleşme olasılığı artar.
+Her 1 arıtma başına DEF +10, MDEF +1.
+Kategori : Kalkan
+DEF : 30
+Ağırlık : 300
+Gerekli Seviye : 100
+Kuşanım : Tüm Sınıflar
+
+Slot : 1
+^FF0000[Prontera Rozeti]^000000
+'Prontera'ya Dönüş' becerisi kullanılabilir.
+Bir kez kullanıldığında 15 dakika boyunca tekrar kullanılamaz.
+Kategori : Aksesuar
+DEF : 0
+Ağırlık : 10
+Gerekli Seviye : 40
+
+Kuşanım : Tüm Sınıflar
+^FF0000[Yalakalık Cübbesi]^000000
+Amacı için yöntem ayırt etmeyenlerin giysisi.
+Dayanıklılık 1 seviye kullanılabilir.
+MATK + 50
+Kuşananın seviyesi 120 ve üzeriyse, MATK + 50 ilave artar.
+
+Kuşananın seviyesi 140 ve üzeriyse, MATK + 50 ilave artar.
+Eski Lord'un Pelerini ile birlikte kuşanılırsa,
+MSP + 10%, zırh arıtma derecesi 1 başına MSP + 1% artar.
+FLEE + 10, zırh arıtma derecesi 1 başına FLEE + 1 artar.
+Hayatta Kalma Pelerini ile birlikte kuşanılırsa,
+MHP + 10%, zırh arıtma derecesi 1 başına MHP + 1% artar.
+MATK + 2%, zırh arıtma derecesi 1 başına MATK + 1% artar.
+Kategori : Zırh
+DEF : 0
+Ağırlık : 10
+Gerekli Seviye : 100
+Kuşanım : Tüm Sınıflar
+
+Slot : 1
+^FF0000[Keskin Sözler Cübbesi]^000000
+Sözleriyle ruha kadar ağır darbe vurabilenlerin giysisi.
+Konsantrasyon Artışı 1 seviye kullanılabilir.
+Zırh arıtma derecesi 1 başına, Yarı-İnsan, İblis, Ölümsüz düşmanların fiziksel savunmasını %4 ilave yok sayar.
+Moriane'nin Pelerini ile birlikte kuşanılırsa,
+Yarı-İnsan, İblis, Ölümsüz düşmanların fiziksel savunmasını %15 yok sayar.
+LUK + 3, zırh arıtma derecesi 1 başına LUK + 1 artar.
+CRIT + 10, zırh arıtma derecesi 1 başına CRIT + 1 artar.
+Valkyrie'nin Pelerini ile birlikte kuşanılırsa,
+Yarı-İnsan, İblis, Ölümsüz düşmanların fiziksel savunmasını %15 yok sayar.
+MHP + 10%, zırh arıtma derecesi 1 başına MHP + 1% artar.
+ATK + 2%, zırh arıtma derecesi 1 başına SAL +1% artar.
+Kategori : Zırh
+DEF : 0
+Ağırlık : 10
+Gerekli Seviye : 100
+Kuşanım : Tüm Sınıflar
+
+Slot : 1
+^FF0000[Kostüm Zaman Süsü]^000000
+Akan zaman içinde sıkışıp kalmış gibi hissettirir.
+Kategori : Kostüm
+DEF : 0
+Konum : Orta
+Ağırlık : 0
+Gerekli Seviye : 1
+
+Kuşanım : Tüm Sınıflar
+^FF0000[Kaderin Kara Eli]^000000
+Başınız bağlanmış ve kaderiniz tarafından yönlendiriliyormuş gibi hissettirir.
+Kategori : Kostüm
+DEF : 0
+Konum : Üst
+Ağırlık : 0
+Gerekli Seviye : 1
+Kuşanım : Tüm Sınıflar

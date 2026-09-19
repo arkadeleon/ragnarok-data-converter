@@ -1,0 +1,108 @@
+.^FF3300[Earth Dragon Blade]^000000 Ein Schwert, erfüllt von der Macht des Erddrachen.
+Physischer Schaden gegen formlose Monster +5%, Physischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Physischer Schaden gegen formlose Monster zusätzlich +5%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Physischer Schaden gegen formlose Monster zusätzlich +10%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Einhandschwert  ATK: 130  Gewicht: 80  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Schwertkämpfer-Klasse/Händler-Klasse  SLOT: 2
+
+^FF3300[Earth Dragon Greatsword]^000000 Ein Großschwert, erfüllt von der Macht des Erddrachen.
+Physischer Schaden gegen formlose Monster +5%, Physischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Physischer Schaden gegen formlose Monster zusätzlich +5%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Physischer Schaden gegen formlose Monster zusätzlich +10%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Zweihandschwert  ATK: 180  Gewicht: 140  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Schwertkämpfer-Klasse  SLOT: 2
+^FF3300[Earth Dragon Dagger]^000000 Ein Dolch, erfüllt von der Macht des Erddrachen.
+Physischer Schaden gegen formlose Monster +5%, Physischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Physischer Schaden gegen formlose Monster zusätzlich +5%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Physischer Schaden gegen formlose Monster zusätzlich +10%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Dolch  ATK: 130  Gewicht: 80  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Schwertkämpfer-Klasse/Dieb-Klasse/Händler-Klasse  SLOT: 2
+
+^FF3300[Erddrachenbogen]^000000 Ein Bogen, erfüllt von der Macht des Erddrachen.
+Physischer Schaden gegen formlose Monster +5%, Physischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Physischer Schaden gegen formlose Monster zusätzlich +5%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Physischer Schaden gegen formlose Monster zusätzlich +10%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Bogen  ATK: 130  Gewicht: 100  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Bogenschütze-Klasse/Dieb-Klasse  SLOT: 2
+^FF3300[Erddrachenstab]^000000 Ein Stab, erfüllt von der Macht des Erddrachen. MATK +130, Unzerstörbar.
+Magischer Schaden gegen formlose Monster +5%, Magischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Magischer Schaden gegen formlose Monster zusätzlich +5%, Magischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Magischer Schaden gegen formlose Monster zusätzlich +10%, Magischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Einhandstab  ATK: 40  Gewicht: 80  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Novizen-Klasse/Magier-Klasse/Akolyth-Klasse/Soul-Linker-Klasse  SLOT: 2
+
+^FF3300[Erddrachenstreitkolben]^000000 Ein Streitkolben, erfüllt von der Macht des Erddrachen.
+Unzerstörbar, Physischer Schaden gegen formlose Monster +5%, Physischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Physischer Schaden gegen formlose Monster zusätzlich +5%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Physischer Schaden gegen formlose Monster zusätzlich +10%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Streitkolben  ATK: 130  Gewicht: 120  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Schwertkämpfer-Klasse/Novizen-Klasse/Akolyth-Klasse/Händler-Klasse  SLOT: 2
+^FF3300[Erddrachenkatar]^000000 Ein Katar, erfüllt von der Macht des Erddrachen.
+Physischer Schaden gegen formlose Monster +5%, Physischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Physischer Schaden gegen formlose Monster zusätzlich +5%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Physischer Schaden gegen formlose Monster zusätzlich +10%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Katar  ATK: 150  Gewicht: 120  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Assassine-Klasse  SLOT: 2
+
+^FF3300[Erddrachenaxt]^000000 Eine Axt, erfüllt von der Macht des Erddrachen.
+Unzerstörbar, Physischer Schaden gegen formlose Monster +5%, Physischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Physischer Schaden gegen formlose Monster zusätzlich +5%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Physischer Schaden gegen formlose Monster zusätzlich +10%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Zweihandaxt  ATK: 180  Gewicht: 140  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Händler-Klasse  SLOT: 2
+^FF3300[Erddrachenlanze]^000000 Eine Lanze, erfüllt von der Macht des Erddrachen.
+Physischer Schaden gegen formlose Monster +5%, Physischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Physischer Schaden gegen formlose Monster zusätzlich +5%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Physischer Schaden gegen formlose Monster zusätzlich +10%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Zweihandlanze  ATK: 180  Gewicht: 140  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Schwertkämpfer-Klasse  SLOT: 2
+
+^FF3300[Erddrachenfaust]^000000 Eine Faustwaffe, erfüllt von der Macht des Erddrachen.
+Physischer Schaden gegen formlose Monster +5%, Physischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Physischer Schaden gegen formlose Monster zusätzlich +5%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Physischer Schaden gegen formlose Monster zusätzlich +10%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Faustwaffe  ATK: 130  Gewicht: 80  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Mönch-Klasse/Priester-Klasse  SLOT: 2
+^FF3300[Erddrachenbuch]^000000 Ein Buch, erfüllt von der Macht des Erddrachen.
+MATK +130, Phys./mag. Schaden gegen formlose Monster +5%, Phys./mag. Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Phys./mag. Schaden gegen formlose Monster zusätzlich +5%, Phys./mag. Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Phys./mag. Schaden gegen formlose Monster zusätzlich +10%, Phys./mag. Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Buch  ATK: 130  Gewicht: 80  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Weiser-Klasse/Priester-Klasse/Star-Gladiator-Klasse  SLOT: 2
+
+^FF3300[Erddrachenpeitsche]^000000 Eine Peitsche, erfüllt von der Macht des Erddrachen.
+Physischer Schaden gegen formlose Monster +5%, Physischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Physischer Schaden gegen formlose Monster zusätzlich +5%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Physischer Schaden gegen formlose Monster zusätzlich +10%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Peitsche  ATK: 130  Gewicht: 80  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Tänzerin-Klasse  SLOT: 2
+^FF3300[Erddracheninstrument]^000000 Ein Saiteninstrument, erfüllt von der Macht des Erddrachen.
+Physischer Schaden gegen formlose Monster +5%, Physischer Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Physischer Schaden gegen formlose Monster zusätzlich +5%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Physischer Schaden gegen formlose Monster zusätzlich +10%, Physischer Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Instrument  ATK: 130  Gewicht: 80  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Barde-Klasse  SLOT: 2
+
+^FF3300[Erddrachenninjadolch]^000000 Ein Ninja-Dolch, erfüllt von der Macht des Erddrachen.
+MATK +70, Phys./mag. Schaden gegen formlose Monster +5%, Phys./mag. Schaden gegen Gegner mit Erd-Element +5%.
+Ab Verfeinerung 7: Phys./mag. Schaden gegen formlose Monster zusätzlich +5%, Phys./mag. Schaden gegen Gegner mit Erd-Element zusätzlich +5%.
+Ab Verfeinerung 9: Phys./mag. Schaden gegen formlose Monster zusätzlich +10%, Phys./mag. Schaden gegen Gegner mit Erd-Element zusätzlich +10%.
+
+Kategorie: Dolch  ATK: 130  Gewicht: 80  Waffenlevel: 3
+Benötigtes Level: 70  Ausrüstbar von: Ninja-Klasse  SLOT: 2
+
+
+^FFFFFF[Erddrachenpaket]^000000

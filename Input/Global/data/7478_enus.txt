@@ -1,0 +1,70 @@
+%faf0e6
+^000088If you’re hungry, whether you’re a Poring or a Poporing, you’ll be served a meal!^000000
+
+Of course, the golden rule of cooking is to leave some for myself! - Level 7 Recipe -
+
+
+^FF0000Whole Barbecue:^000000 Don’t worry—I’m not grilling the “barrel” itself!
+Materials: ^4B00821 Meat, 1 Ember, 1 Coal, 1 Spicy Sauce, 1 Wood Piece, 1 White Herb^000000
+Cooking Method: Wash the meat thoroughly inside and out, then spread spicy sauce evenly over it.
+          Finely chop the white herb and sprinkle just a little, then place the ember on the wood piece
+          and prepare a steady, gentle fire so it won’t go out, and grill the meat.
+          While grilling, spread spicy sauce evenly from time to time,
+          then sprinkle with finely chopped herbs when serving.
+
+^0000FFSpecial Royal Jelly Herb Tea:^000000 You will never get stung by bees while drinking it!
+Materials: ^4B00821 Royal Jelly, 1 Honey, 1 White Herb, 1 Hinare Leaf, 1 Yellow Spice^000000
+Cooking Method: Same as the Level 3 Herb Honey Tea, but the key points are
+          using the premium Hinare leaf,
+          and adding royal jelly along with honey.
+
+
+^800000Soul Hunt Bread:^000000 Watch out—your soul might fly away!
+Materials: ^4B00821 Bread, 1 Mastela Fruit, 1 Sweet Sauce, 1 Ment, 1 Half-Soul, 1 Unripe Apple^000000
+Cooking Method: Peel the Mastela fruit and apple, then dice them.
+         Wash the ment clean, extract its juice,
+         and marinate the diced Mastela fruit and apple with sugar for 30 minutes.
+         (A roughly 1:1 sugar ratio.)
+         Bring the marinated mixture to a boil over high heat; when foam rises, reduce to medium heat,
+         add a bit more sugar, and simmer gently.
+         (Keep stirring so it doesn’t stick to the bottom.)
+         Reduce until it becomes clear and glossy to make jam.
+         Grind the half-soul well and age it together with sweet sauce.
+         Spread the jam and sweet sauce onto the bread.
+
+^008040Grilled Alligator Vegetable Steam:^000000 Surprisingly tender and chewy!
+Materials: ^4B00821 Anolian Skin, 1 Pumpkin Head, 1 Carrot, 1 Aloe Leaf,
+         1 Yellow Herb, 1 Yellow Spice^000000
+Cooking Method: Wash the Anolian skin clean, mince it finely, then add salt, pepper, egg, water, and yellow spice
+          and knead until sticky and elastic.
+          Julienne the carrot lengthwise and blanch it.
+          Blanch the aloe leaf and yellow herb, then squeeze out the moisture firmly.
+          Shred the pumpkin head, lightly stir-fry it, and let it cool.
+          Lay a cloth on a cutting board, place the Anolian skin mixture on top,
+          steam it in a preheated steamer for about 15 minutes,
+          then cut into bite-sized pieces and serve with the vegetables.
+
+^FF8040Special Mountain-and-Sea Delicacies:^000000 To catch a boar, go to the mountains; to fish, go to the sea!
+Materials: ^4B00821 Fish Tail, 1 Aloe Leaf, 1 Boar Mane Hair, 1 Tasty Fish,
+         1 Pet Food, 1 Sweet Sauce^000000
+Cooking Method: Lightly blanch the aloe leaf in salt water and set aside.
+          Remove scales from the tasty fish, coat it with sweet sauce, and marinate for 10 minutes.
+          Wrap the marinated fish with aloe leaf, steam it together with the fish tail for 10 minutes,
+          then plate.
+          Cut the boar mane hair to about 4 cm and blanch lightly.
+          Cut the pet food into bite-sized pieces, coat with sweet sauce while grilling it in a pan.
+         
+
+^400080Skewer Grill:^000000 If you don’t want to get pricked while eating, trim the tips of the spikes!
+Materials: ^4B00821 Scaly Skin, 1 Spiky Gill, 1 Soft Leaf, 1 Meat,
+         1 Edible Mushroom, 1 Clam Meat^000000
+Cooking Method: Cut the soft leaf into 4 cm squares, and slice the mushrooms lengthwise along their shape.
+          Wash the scaly skin clean and set aside,
+          and select and prepare long spikes from the spiky gill.
+          Lightly boil the meat, and lightly blanch the clam meat.
+          Thread in the order of meat, vegetables, then clam meat onto the long spikes,
+          heat the scaly skin on the grill, then grill the skewers on top of it.
+
+^FF3366Level 7 Assorted Cuisine:^000000 The essence of Level 7 cooking
+Materials: ^4B00821 Whole Barbecue, 1 Special Royal Jelly Herb Tea, 1 Soul Hunt Bread, 1 Grilled Alligator Vegetable Steam, 1 Special Mountain-and-Sea Delicacies, 1 Skewer Grill^000000 
+Cooking Method: Gather all Level 7 dishes and serve them neatly as one large full-course spread.

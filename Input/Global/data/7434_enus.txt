@@ -1,0 +1,56 @@
+%faf0e6
+^000088Synthesis Method for Elemental Potions that Increase Resistance^000000
+
+
+----------------Foreword--------------------
+While researching the four basic elements—fire, water, wind, and earth—
+we discovered a catalyst that temporarily increases resistance to a specific element.
+Using this, we record the synthesis method for elemental resistance potions in this book.
+We hope it will be used more effectively when dealing with the four elements.
+------------------------------------------
+
+
+What is an ^FF0000Elemental Resist Potion^000000?
+
+A potion that increases resistance to a specific element, reducing damage taken.
+However, be aware that it will cause you to take increased damage
+from the opposing element.
+
+
+
+
+^0000FFResist Fire Potion^000000: A potion that increases resistance to the fire element.
+Materials: ^4B00822 Lizard Necks, 1 Red Gemstone, 1 Empty Potion Bottle^000000
+Manufacturing Method: Prepare a mortar.
+          Place 2 lizard necks, catalysts of the fire element, into the mortar.
+          Trigger a chemical reaction with the red gemstone and use Pharmacy
+          to create the potion.
+
+
+
+
+^800000Resist Cold Potion^000000: A potion that increases resistance to the water element.
+Materials: ^4B00823 Mermaid Hearts, 1 Blue Gemstone, 1 Empty Potion Bottle^000000
+Manufacturing Method: Prepare a mortar.
+          Place 3 mermaid hearts, catalysts of the water element, into the mortar.
+          Trigger a chemical reaction with the blue gemstone and use Pharmacy
+          to create the potion.
+
+
+
+^008040Resist Thunder Potion^000000: A potion that increases resistance to the wind element.
+Materials: ^4B00823 Moth Wing Powders, 1 Blue Gemstone, 1 Empty Potion Bottle^000000
+Manufacturing Method: Prepare a mortar.
+          Place 3 moth wings, catalysts of the wind element, into the mortar.
+          Trigger a chemical reaction with the blue gemstone and use Pharmacy
+          to create the potion.
+
+
+
+
+^FF8040Resist Earth Potion^000000: A potion that increases resistance to the earth element.
+Materials: ^4B00822 Large Jellopies, 1 Yellow Gemstone, 1 Empty Potion Bottle^000000
+Manufacturing Method: Prepare a mortar.
+          Place 2 large jellopies, catalysts of the earth element, into the mortar.
+          Trigger a chemical reaction with the yellow gemstone and use Pharmacy
+          to create the potion.

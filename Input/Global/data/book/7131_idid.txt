@@ -1,0 +1,18 @@
+%faf0e6
+^000088Dasar-Dasar Alkimia: Pembuatan Marine Sphere^000000
+
+
+----------------Pendahuluan--------------------
+
+Kami menemukan monster bernama Marine Sphere saat menjelajahi Izlude. Makhluk ini mengapung dengan tenang di dalam air, tetapi akan meledak jika sesuatu menyentuhnya. Kami kemudian menemukan cara agar makhluk ini dapat bertahan hidup di luar air dan bergerak di udara, serta mengembangkan metode agar makhluk tersebut dapat diubah menjadi bentuk botol melalui proses alkimia. Kami percaya bahwa menggunakan Marine Sphere sebagai bom akan sangat berguna bagi para Alchemist untuk mempertahankan diri dari musuh yang bermusuhan.
+
+
+------------------------------------------
+
+Apa itu ^400080marine sphere^000000?
+
+Marine Sphere adalah bom hidup yang akan meledak jika sesuatu menyentuhnya. Makhluk ini dapat diubah menjadi bentuk botol, namun harus ditangani dengan langkah-langkah keselamatan yang tepat. Seorang Alchemist juga harus mempelajari skill Sphere Mine untuk mengubah Marine Sphere dalam botol kembali ke bentuk aslinya.
+
+Bahan: ^4B00821 Detonator, 1 Tendon, 1 Empty Bottle^000000
+
+Cara membuat: Masukkan detonator dan tendon ke dalam mangkuk obat, lalu gunakan skill Pharmacy sambil merujuk buku ini. Kamu harus mempelajari skill Sphere Mine jika ingin menghasilkan Marine Sphere hidup dari dalam botol.

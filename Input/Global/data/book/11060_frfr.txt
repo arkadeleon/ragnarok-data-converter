@@ -1,0 +1,280 @@
+^000088Objets de combinaison de cristaux d'énergie^000000
+
+^008040[Chapeau de Magicien modifié]^000000
+Description : Un chapeau convoité par tout Magicien talentueux. Bien qu'il ait l'air un peu gênant, il offre un certain confort
+tout en donnant une impression vive et rafraîchissante. Les capacités ont été améliorées par modification.
+INT +2, PS +150, ATQ.M +1 par niveau de raffinement, INT +1 par niveau de raffinement à partir de +7.
+Catégorie : Chapeau Défense : 2 Position : Supérieur Poids : 30
+Niveau requis : 1 Équipement : Classe de Magicien/Lieur d'Âme SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Chapeau de Magicien x1 + Cristal d'Énergie non raffiné x100
+
+^008040[Chapeau de magicien modifié]^000000
+Description : Un Chapeau de magicien qui semble prêt à faire surgir un lapin dès que l'on y glisse la main.
+Assez solide, il ne se casse pas facilement. Les capacités ont été améliorées par modification.
+DEX +1, AGI +1, PS +50, PM +5 par niveau de raffinement, DEX +1 par niveau de raffinement à partir de +7.
+Catégorie : Chapeau Défense : 6 Position : Supérieur Poids : 50
+Niveau requis : 50 Équipement : Classe de Magicien/Classe d'Acolyte/Lieur d'Âme SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Chapeau de magicien x1 + Cristal d'Énergie non raffiné x100
+
+^008040[Masque de renard modifié]^000000
+Description : Un masque inspiré d'un masque que porterait une unité d'assassins pour dissimuler son identité.
+Le porter donne étrangement l'impression de devenir plus agile. Les capacités ont été améliorées par modification.
+AGI +2, CHA +2, Esquive parfaite +4 à +7 de raffinement
+Catégorie : Chapeau Défense : 2 Position : Supérieur Poids : 30
+Niveau requis : 1 Équipement : Toutes les classes sauf Novice
+^FF0000[Matériaux de combinaison]^000000
+Masque de renard x1 + Cristal d'Énergie non raffiné x100
+
+^008040[Chapeau de bouffon modifié]^000000
+Description : Un chapeau porté par un bouffon pour amuser la galerie. Il est étrangement pointu et bariolé.
+Les capacités ont été améliorées par modification.
+CHA +2, DÉF.M +5, Dégâts critiques +5% à +7 de raffinement.
+Catégorie : Chapeau Défense : 3 Position : Supérieur Poids : 10
+Niveau requis : 1 Équipement : Toutes les classes sauf Novice SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Chapeau de bouffon x1 + Cristal d'Énergie non raffiné x100
+
+
+^008040[Bandeau de lapin modifié]^000000
+Description : Un bandeau sur lequel sont fixées des décorations imitant des oreilles de lapin. On pourrait croire qu'il est difficile de rester sérieux avec,
+mais il semble étonnamment pratique et n'entrave pas les mouvements. Les capacités ont été améliorées par modification.
+CHA +2, CRIT +5 à +7 de raffinement
+Catégorie : Chapeau Défense : 3 Position : Supérieur Poids : 10
+Niveau requis : 1 Équipement : Toutes les classes SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Bandeau de lapin x1 + Cristal d'Énergie non raffiné x100
+
+^008040[Chapeau de Munak modifié]^000000
+Description : Un chapeau porté par le monstre Munak. Un talisman inconnu est fixé sur ce grand chapeau,
+et il semble aussi être orné de Cheveux noués d’un ruban. Les capacités ont été améliorées par modification.
+Dégâts subis des ennemis de type Mort-vivant -10%, à +7 de raffinement, dégâts infligés aux ennemis de type Mort-vivant +10%.
+Catégorie : Chapeau Défense : 5 Position : Supérieur / Intermédiaire / Inférieur Poids : 30
+Niveau requis : 1 Équipement : Toutes les classes SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Chapeau de Munak[1] x1 + Cristal d'Énergie non raffiné x100
+
+
+^008040[Chapeau de Bongun modifié]^000000
+Description : Un chapeau jadis porté par le monstre Bongun. Sa particularité réside dans le talisman déchiré à l'avant.
+Il est très solide, et le talisman déchiré réduit en même temps l'obstruction du champ de vision.
+Les capacités ont été améliorées par modification.
+Dégâts subis des ennemis de type Démon -10%, à +7 de raffinement, dégâts infligés aux ennemis de type Démon +10%.
+Catégorie : Chapeau Défense : 5 Position : Supérieur / Intermédiaire / Inférieur Poids : 30
+Niveau requis : 1 Équipement : Toutes les classes SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Chapeau de Bongun[1] x1 + Cristal d'Énergie non raffiné x100
+
+^008040[Masque du fantôme de l’opéra modifié]^000000
+Description : Un masque qu'aurait porté le malheureux protagoniste d'une certaine histoire.
+Si l'on le fixe longuement, on a l'impression que sa tristesse se transmet jusque dans le corps.
+ATQ +5, ATQ.M +5
+Catégorie : Chapeau Défense : 2 Position : Intermédiaire Poids : 20
+Niveau requis : 20 Équipement : Toutes les classes
+^FF0000[Matériaux de combinaison]^000000
+Masque du fantôme de l’opéra x1 + Cristal d'Énergie non raffiné x100
+
+^008040[Longue-vue améliorée]^000000
+Description : Des lunettes mystérieuses permettant de voir les choses lointaines comme si elles étaient juste devant le nez grâce à du verre compressé.
+DEX +1, puissance d'attaque à distance +1%.
+Catégorie : Chapeau Défense : 2 Position : Intermédiaire Poids : 10
+Niveau requis : 50 Équipement : Classe d'Archer
+^FF0000[Matériaux de combinaison]^000000
+Longue-vue x1 + Cristal d'Énergie raffiné x200
+
+^008040[Heaume d'Agami amélioré]^000000
+Description : Un couvre-chef en forme de branchies de poisson, censé protéger un Épéiste.
+Il ne permet pas de respirer sous l'eau, alors prudence.
+PV max. +300, augmentation supplémentaire de PV max. selon le niveau de base
+Catégorie : Chapeau Défense : 5 Position : Intermédiaire Poids : 30
+Niveau requis : 65 Équipement : Classe d'Épéiste
+^FF0000[Matériaux de combinaison]^000000
+Heaume d'Agami x1 + Cristal d'Énergie raffiné x200
+
+
+
+^008040[Masque d'Assassin amélioré]^000000
+Description : Un masque sombre porté par les Assassins pour dissimuler leur visage.
+Une fois porté, on a l'impression que les émotions s'effacent.
+CRIT +1, Dégâts critiques +1%
+Catégorie : Chapeau Défense : 1 Position : Inférieur Poids : 10
+Niveau requis : 70 Équipement : Assassin, Classe de Prêtre
+^FF0000[Matériaux de combinaison]^000000
+Masque d'Assassin x1 + Cristal d'Énergie raffiné x200
+
+^008040[Masque de soudure amélioré]^000000
+Description : Un masque fait d'acier. Conçu uniquement pour être pratique, sans se soucier du style.
+Il protège le visage contre les flammes, le froid et les impacts.
+Résistance à l'élément Feu +10%, DEX +5, CHA +5.
+Catégorie : Chapeau Défense : 2 Position : Intermédiaire / Inférieur Poids : 30
+Niveau requis : 50 Équipement : Classe de Marchand
+^FF0000[Matériaux de combinaison]^000000
+Masque de soudure x1 + Cristal d'Énergie raffiné x200
+
+
+
+
+
+^008040[Anneau de sécurité]^000000
+Description : Un anneau magique qui protège son porteur en déployant un certain pouvoir et en réduisant les dégâts subis.
+DÉF +10, DÉF.M +5, All State +1.
+Catégorie : Accessoire Défense : 0 Poids : 10
+Niveau requis : 50 Équipement : Toutes les classes sauf Novice SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Anneau de sécurité x1, Anneau[1] x1, Gants[1] x1, Boucles d’oreilles[1] x1, Broche[1] x1, Collier[1] x1, Rosaire[1] x1,
+Cristal d'Énergie raffiné x200
+
+
+
+
+
+
+
+
+^008040[Bénédiction de l'ange améliorée]^000000
+Description : La robe de l'ange en charge des SuperNovice. Elle enveloppe tout le corps d'une douceur incomparable !
+DÉF.M +30. Équipée avec Protection de l'ange améliorée : Résistance Type : Neutre +5%.
+En équipant simultanément : Bénédiction de l'ange améliorée, Retour de l'ange amélioré, Protection de l'ange améliorée, Chaleur de l'ange améliorée,
+Baiser de l'ange amélioré : PV +900, PM +100,
+Lorsque vous subissez une attaque physique : faible chance de lancer Assumptio (niveau 1) sur vous-même.
+Catégorie : Armure Défense : 40 Poids : 60
+Niveau requis : 99 Équipement : Classe de Novice SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Bénédiction de l'ange x1, Cristal d'Énergie raffiné x100 ou Cristal d'Énergie de haute pureté x20
+
+^008040[Protection de l'ange améliorée]^000000
+Description : Le bouclier de l'ange en charge des Super Novice. Une force sacrée qui repousse le mal y est imprégnée.
+Dégâts subis des Monstres de type Démon -5%, Dégâts élémentaires (sauf Type : Neutre) -5%.
+Équipée avec Retour de l'ange amélioré : All State +2.
+Catégorie : Bouclier Défense : 30 Poids : 40
+Niveau requis : 99 Équipement : Classe de Novice SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Protection de l'ange x1, Cristal d'Énergie raffiné x100 ou Cristal d'Énergie de haute pureté x20
+
+^008040[Retour de l'ange amélioré]^000000
+Description : Les Sandales de l'ange en charge des Super Novice. Quand on saute avec, on a l'impression de pouvoir atteindre le ciel.
+PV max. +500, PM max. +100.
+Équipées avec Baiser de l'ange amélioré : ATQ.M +20.
+Catégorie : Chaussures Défense : 8 Poids : 30
+Niveau requis : 99 Équipement : Classe de Novice SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Retour de l'ange x1, Cristal d'Énergie raffiné x100 ou Cristal d'Énergie de haute pureté x20
+
+^008040[Chaleur de l'ange améliorée]^000000
+Description : Le cardigan de l'ange en charge des Super Novice. Une fois porté, le corps se réchauffe,
+et l'on a l'impression de ne pas pouvoir attraper froid, même en dormant dehors.
+Régénération naturelle de PV +50%.
+Équipée avec Bénédiction de l'ange améliorée : AGI +5, ESQ +10
+Catégorie : Chapeau Défense : 6 Position : Supérieur Poids : 40
+Niveau requis : 99 Équipement : Classe de Novice SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Chaleur de l'ange x1, Cristal d'Énergie raffiné x100 ou Cristal d'Énergie de haute pureté x20
+
+
+
+
+^008040[Baiser de l'ange amélioré]^000000
+Description : Un ornement pour les cheveux ayant reçu le baiser de l'ange en charge des Super Novice.
+Si l'on embrasse cet ornement, cela compterait-il comme un baiser indirect avec l'ange…
+Régénération naturelle de PM +30%.
+Équipé avec Chaleur de l'ange améliorée : ATQ +10
+Catégorie : Chapeau Défense : 6 Position : Supérieur Poids : 30
+Niveau requis : 99 Équipement : Classe de Novice SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Baiser de l'ange x1, Cristal d'Énergie raffiné x100 ou Cristal d'Énergie de haute pureté x20
+
+
+
+
+
+
+
+^008040[Corsaire amélioré]^000000
+Description : Un immense chapeau porté par un capitaine pirate. Il a été agrandi pour renforcer son autorité,
+et ressemble à lui seul à un navire pirate flottant sur la mer. Mais il a beaucoup vieilli.
+VIT +1 PV max. +5%, à +7 de raffinement Type : Neutre +1%, à +9 de raffinement PV max. +3%
+Catégorie : Chapeau Défense : 10 Position : Supérieur Poids : 50
+Niveau requis : 99 Équipement : Toutes les classes sauf Novice SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Corsaire x1, Cristal d'Énergie de haute pureté x300
+
+^008040[Heaume d'os amélioré]^000000
+Description : Un couvre-chef extrêmement solide fait d'os. Il est lourd et difficile à porter pour tout le monde, mais offre une excellente défense.
+Dégâts subis des attaques Type : Ombre +15%, Type : Neutre +2%,
+à +7 de raffinement Type : Neutre +2%, à +9 de raffinement Type : Neutre +2%
+Catégorie : Chapeau Défense : 15 Position : Supérieur Poids : 80
+Niveau requis : 70 Équipement : Classe d'Épéiste/Classe de Marchand SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Heaume d'os[1] x1, Cristal d'Énergie de haute pureté x300
+
+^008040[Heaume de l'ange amélioré]^000000
+Description : Un heaume incroyable fabriqué en fixant des ailes faites de Plume d'ange sur un heaume doté d'une grande défense.
+Le fabricant n'est pas connu.
+AGI +1, CHA +1, DÉF.M +3, à +7 de raffinement AGI +2, CHA +2, à +9 de raffinement V.ATQ +1
+Catégorie : Chapeau Défense : 10 Position : Supérieur Poids : 160
+Niveau requis : 99 Équipement : Classes 2-2 et supérieures/Champion/Lieur d'Âme/Kagerou/Oboro SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Heaume de l'ange x1, Cristal d'Énergie de haute pureté x300
+
+^008040[Chapeau du Dieu Soleil amélioré]^000000
+Description : Un chapeau orné de gigantesques ailes dorées symbolisant le soleil.
+Ne demandons pas comment il est possible de le porter et de marcher avec.
+FOR +3, INT +2, ATQ +10, ATQ.M +10,
+à +7 de raffinement ATQ +15, ATQ.M +15, à +9 de raffinement ATQ +15, ATQ.M +15.
+Catégorie : Chapeau Défense : 4 Position : Supérieur / Intermédiaire Poids : 240
+Niveau requis : 99 Équipement : Classes 2-2 et supérieures/Champion/Lieur d'Âme/Kagerou/Oboro SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Chapeau du Dieu Soleil x1, Cristal d'Énergie de haute pureté x1000 ou
+Chapeau du Dieu Soleil[1] x1, Cristal d'Énergie de haute pureté x100
+
+
+
+
+^008040[Chaussures de variante améliorées]^000000
+Description : Des Chaussures dont on ne peut se défaire d'un sentiment de bizarrerie.
+On y perçoit l'intention du créateur de défier la volonté des dieux, mais il a corrigé des Chaussures Mutant qui n'atteignaient pas cet objectif.
+PV max./PM max. +12%, augmentation supplémentaire de DÉF/DÉF.M selon le niveau de raffinement.
+Catégorie : Chaussures Défense : 13 Poids : 50
+Niveau requis : 85 Équipement : Classes 2-2 et supérieures/Champion/Lieur d'Âme/Kagerou/Oboro SLOT : 1
+^FF0000[Matériaux de combinaison]^000000
+Chaussures de variante x1, Cristal d'Énergie de haute pureté x300
+
+
+
+
+
+
+
+
+
+
+
+^008040[Anneau du Seigneur des flammes amélioré]^000000
+Description : Un anneau imprégné du pouvoir du roi des esprits de flamme. En l'équipant, l'énergie spirituelle qui bouillonne dans le corps
+jaillirait à travers l'arme du porteur.
+Il forme une paire avec l'Anneau de résonance amélioré.
+FOR +3, VIT +2, ATQ +20, Type : Feu +10%
+Lors d'une attaque physique : chance d'activer divers autospells.
+Équipé avec l'Anneau de résonance amélioré : amélioration des autospells.
+Catégorie : Accessoire Défense : 0 Poids : 10
+Niveau requis : 85 Équipement : Classes 2-2 et supérieures/Champion/Lieur d'Âme/Kagerou/Oboro
+^FF0000[Matériaux de combinaison]^000000
+Anneau du Seigneur des flammes x1, Cristal d'Énergie de haute pureté x300
+
+
+
+
+
+
+
+
+^008040[Anneau de résonance amélioré]^000000
+Description : Un anneau formant une paire avec l'Anneau du Seigneur des flammes amélioré.
+En équipant les deux anneaux, ils entrent en réson ance et leurs pouvoirs se renforcent mutuellement.
+AGI +3, VIT +1, DÉF.M +2, ATQ.M+10
+Lorsque vous subissez une attaque physique : chance d'activer divers autospells.
+Catégorie : Accessoire Défense : 2 Poids : 10
+Niveau requis: 85 Équipement : Classes 2-2 et supérieures/Champion/Lieur d'Âme/Kagerou/Oboro
+^FF0000[Matériaux de combinaison]^000000
+Anneau de résonance x1, Cristal d'Énergie de haute pureté x300^000000

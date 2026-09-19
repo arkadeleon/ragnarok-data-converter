@@ -1,0 +1,60 @@
+%faf0e6
+^000088Renaître en tant que véritable chef. Un défi vers la cuillère divine !^000000
+
+On ne devient pas chef n'importe comment. Mais avec ce livre, vous aussi, devenez chef !
+
+
+^FF0000Crêpe de la tante de Lutie :^000000 Retrouvez le goût authentique de Lutie, la maîtresse des saveurs !!
+Ingrédients : ^4B0082Patate douce x1, Miel x1, Huile de cuisson x1, Carotte x1, Céréales x1^000000
+Recette : Faites bouillir la Patate douce puis écrasez-la finement, coupez la carotte en julienne.
+Mélangez la farine de Céréales bien moulue avec un œuf, la Patate douce écrasée, la carotte émincée et de l'eau pour obtenir une pâte épaisse.
+Faites chauffer une poêle, versez une portion de pâte et faites dorer des deux côtés.
+
+^0000FFVin de Mastela :^000000 Pas d'abus d'alcool chez Peco ! Un alcool violet et séduisant
+Ingrédients : ^4B0082Fruit de Mastela x1, Potion bleue x1, Alcool x1, Citron x1, Épice jaune x1^000000
+Recette : Pressez séparément le Fruit de Mastela et le citron à l'aide d'un presse-fruits.
+Mettez une dose d'Alcool et le jus de citron dans un mixeur, mixez 20 secondes, ajoutez la Potion bleue et une autre dose d'Alcool,
+puis ajoutez le jus de Mastela et mixez encore 5 secondes.
+Versez le Vin de Mastela obtenu dans un verre, saupoudrez d'Épice jaune,
+et servez avec une demi-tranche de Fruit de Mastela.
+
+^800000Salade verte :^000000 Une table pleine de verdure ! Une Sauce sucrée à volonté~
+Ingrédients : ^4B0082Feuille de Hinare x1, Feuille d'aloès x1, Feuille acérée x1, Grande feuille x1,
+Sauce sucrée x1, Épice jaune x1^000000
+Recette : Détachez les Feuilles de Hinalle une à une, coupez-les en julienne et faites-les tremper dans l'eau froide, puis égouttez.
+Pour la Feuille acérée, ne gardez que la tige tendre, coupez-la en morceaux de 5 cm, puis
+coupez-la en julienne, trempez-la dans l'eau froide puis égouttez. Pour la Grande feuille, choisissez un gros radis,
+coupez-le en rondelles puis en julienne, trempez dans l'eau froide puis égouttez. Pour la Feuille d'aloès, retirez les épines et
+coupez-la en deux, émincez-la, rincez à l'eau puis égouttez. Retirez toute l'eau des légumes préparés.
+Disposez joliment les légumes sur une assiette, ajoutez la Sauce sucrée juste avant de servir,
+et saupoudrez légèrement d'Épice jaune.
+
+^008040Potiron aux ailes de chauve-souris :^000000 Le potiron ne s'envolera pas avec ses ailes de chauve-souris.
+Ingrédients : ^4B0082Aile de chauve-souris rouge x1, Tête de potiron x1, Casserole x1, Feuille de Hinare x1, Herbe rouge x1^000000
+Recette : Coupez les ailes de chauve-souris en bouchées, hachez grossièrement la Feuille de Hinare,
+émincez l'Herbe rouge. Faites chauffer de l'huile d'olive dans une poêle, faites revenir les ailes de chauve-souris,
+puis ajoutez la Feuille de Hinare et faites revenir légèrement.
+Quand les ailes sont bien cuites, ajoutez l'Herbe rouge émincée et salez à votre goût.
+Coupez le potiron en deux dans la longueur, puis en 6 morceaux, retirez les graines et la chair,
+garnissez de la préparation et faites cuire à la vapeur pendant 15 minutes.
+
+^FF8040Raviolis grillés épicés :^000000 Une pâte à ravioli transparente et croustillante !
+Ingrédients : ^4B0082Ravioli x1, Herbe jaune x1, Sauce épicée x1, Épice rouge x1, Herbe verte x1^000000
+Recette : Coupez l'Herbe jaune et l'Herbe verte en morceaux légèrement plus grands que le ravioli.
+Faites frire le ravioli puis égouttez-le. Sur une assiette, disposez l'Herbe verte,
+puis l'Herbe jaune, posez le ravioli dessus et nappez de Sauce épicée.
+Terminez avec une touche d'Épice rouge.
+
+^400080Sauté de scorpion :^000000 Ne jugez pas le goût à l'apparence !
+Ingrédients : ^4B0082Queue de scorpion x1, Patte courte x1, Grande feuille x1, Vieille poêle x1, Huile de cuisson x1^000000
+Recette : Coupez la Grande feuille en fines lamelles.
+Faites chauffer la poêle à feu moyen, ajoutez 2 cuillères à soupe d'Huile de cuisson, puis faites revenir la patte courte.
+Dans une autre poêle, faites revenir la Queue de scorpion séparément
+(pour éviter de mélanger les saveurs).
+Quand c'est bien doré, ajoutez les feuilles émincées et faites sauter légèrement jusqu'à ce qu'elles ramollissent.
+Sur une assiette, disposez la Grande feuille, puis la Queue de scorpion et la patte courte sautées,
+servez avec de la sauce soja ou autre.
+
+^FF3366Assortiment de plats niv. 5 :^000000 L'essence de la Cuisine niv. 5
+Ingrédients : ^4B0082Crêpe de la tante de Lutie x1, Vin de Mastela x1, Salade verte x1, Potiron aux ailes de chauve-souris x1, Raviolis grillés épicés x1, Sauté de scorpion x1^000000
+Recette : Rassemblez tous les plats de niveau 5 et servez-les joliment sur une grande table.

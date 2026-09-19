@@ -1,0 +1,402 @@
+501#
+1 Kırmızı Ot
+
+1 Boş İksir Şişesi
+#
+503#
+1 Sarı Ot
+
+1 Boş İksir Şişesi
+#
+504#
+1 Beyaz Ot
+
+1 Boş İksir Şişesi
+#
+505#
+1 Mavi Ot
+
+1 Sel
+
+1 Boş İksir Şişesi
+#
+545#
+1 Kırmızı İksir
+
+1 Boş Deney Tüpü
+
+1 Kaktüs İğnesi
+#
+546#
+1 Sarı İksir
+
+1 Boş Deney Tüpü
+
+1 Köstebek Bıyığı
+#
+547#
+1 Beyaz İksir
+
+1 Boş Deney Tüpü
+
+1 Cadı Yıldız Kumu
+#
+605#
+1 Nane
+
+1 Alkol
+
+1 Boş Şişe
+#
+606#
+1 Aloe
+
+1 Bal
+
+1 Boş Şişe
+#
+970#
+5 Sap
+
+1 Boş Şişe
+
+5 Zehirli Mantar Sporu
+
+1 Boş Deney Tüpü
+#
+994#
+10 Kırmızı Kan
+#
+995#
+10 Kristal Mavisi
+#
+996#
+10 Bahar Rüzgârı
+#
+997#
+10 Yeşil Canavar Sineği
+#
+998#
+1 Demir Cevheri
+#
+999#
+5 Demir
+
+1 Kömür
+#
+1000#
+10 Yıldız Tozu
+#
+1101#
+2 Demir
+#
+1104#
+30 Demir
+#
+1107#
+45 Demir
+
+25 Yarasa Dişi
+#
+1110#
+20 Çelik
+#
+1113#
+35 Çelik
+#
+1116#
+35 Demir
+
+15 Ölü Dişi
+#
+1119#
+8 Oridecon
+
+15 Çelik
+
+1 Granat
+#
+1122#
+40 Çelik
+
+50 Kurt Pençesi
+#
+1123#
+8 Oridecon
+
+10 Çelik
+
+1 Topaz
+#
+1126#
+8 Oridecon
+
+5 Çelik
+
+1 Opal
+#
+1129#
+16 Oridecon
+
+1 Rubi
+#
+1151#
+25 Çelik
+
+20 Ölü Tırnağı
+#
+1154#
+45 Çelik
+#
+1157#
+12 Oridecon
+
+10 Çelik
+#
+1160#
+12 Oridecon
+
+20 Çelik
+#
+1163#
+16 Oridecon
+
+20 Çelik
+
+1 Elmas
+#
+1201#
+1 Demir
+
+10 Jellopy
+#
+1204#
+25 Demir
+#
+1207#
+50 Demir
+#
+1210#
+17 Çelik
+#
+1213#
+30 Çelik
+#
+1216#
+40 Çelik
+#
+1219#
+4 Oridecon
+
+40 Çelik
+
+1 Safir
+#
+1222#
+4 Oridecon
+
+60 Çelik
+
+1 Zirkon
+#
+1301#
+10 Demir
+#
+1330#
+2 Mitril Cevheri, 15 Çelik
+
+18 Oridecon, 1 Alaca Karanlık Zelo Taşı
+#
+1351#
+110 Demir
+#
+1354#
+30 Çelik
+#
+1357#
+4 Oridecon
+
+20 Çelik
+
+30 Ork Sivri Dişi
+#
+1360#
+8 Oridecon
+
+10 Çelik
+
+1 Ametist
+#
+1401#
+3 Demir
+#
+1404#
+35 Demir
+#
+1407#
+70 Demir
+#
+1410#
+12 Oridecon
+
+3 Rubi
+
+2 Şeytan Boynuzu
+#
+1451#
+25 Çelik
+#
+1454#
+40 Çelik
+#
+1457#
+55 Çelik
+#
+1460#
+8 Oridecon
+
+10 Çelik
+
+5 Akuamarin
+#
+1463#
+12 Oridecon
+
+10 Çelik
+#
+1501#
+3 Demir
+#
+1504#
+30 Demir
+#
+1507#
+20 Çelik
+#
+1510#
+33 Çelik
+#
+1513#
+85 Çelik
+
+1 Elmas
+#
+1516#
+100 Çelik
+
+20 Keskin Pul
+#
+1519#
+45 Çelik
+#
+1522#
+120 Çelik
+
+1 Ork Kahramanı Kanıtı
+#
+1801#
+160 Demir
+
+1 İnci
+#
+1803#
+50 Çelik
+#
+1805#
+65 Çelik
+#
+1807#
+4 Oridecon
+
+10 Rubi
+#
+1809#
+8 Oridecon
+
+10 Topaz
+#
+1811#
+4 Oridecon
+
+10 Opal
+#
+1860#
+2 Mitril Cevheri, 15 Çelik
+
+18 Oridecon, 1 Kana Bulanmış Yakut
+#
+7135#
+1 Alkol
+
+1 Şeffaf Kumaş Parçası
+
+1 Boş Şişe
+#
+7136#
+1 Durmayan Kalp
+
+1 Boş Şişe
+#
+7137#
+2 İnsan Yiyen Çiçeği
+
+1 Boş Şişe
+#
+7138#
+1 Fünye
+
+1 Kiriş
+
+1 Boş Şişe
+#
+7139#
+1 Alkol
+
+1 Zenorc'un Sivri Dişi
+
+1 Denizkızı Kalbi
+
+1 Boş Şişe
+#
+13491#
+2 Mitril Cevheri, 15 Çelik
+
+18 Oridecon, 1 Işıltılı Opal
+#
+16086#
+2 Mitril Cevheri, 15 Çelik
+
+18 Oridecon, 1 Mavi Deniz Safiri
+#
+21045#
+2 Mitril Cevheri, 15 Çelik
+
+22 Oridecon, 1 Yeşil Rüzgâr Zelo Taşı
+#
+26020#
+2 Mitril Cevheri, 15 Çelik
+
+22 Oridecon, 1 Kaos Zelo Taşı
+#
+28134#
+2 Mitril Cevheri, 15 Çelik
+
+22 Oridecon, 1 Lanetli Zümrüt
+#
+28752#
+2 Mitril Cevheri, 15 Çelik
+
+18 Oridecon, 1 Kızıl Zelo Taşı
+#
+32016#
+2 Mitril Cevheri, 15 Çelik
+
+18 Oridecon, 1 Alaca Karanlık Zelo Taşı
+#
+100371#
+1 Yaşam Tohumu
+
+1 Sarı Ot
+
+1 Boş Şişe
+#

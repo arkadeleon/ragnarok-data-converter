@@ -1,0 +1,145 @@
+^FF0000---- Chapitre d'Agni, l'Esprit du Feu ----^000000
+
+Les esprits du feu invoqués répondent aux ordres de l'invocateur en adoptant des comportements différents selon leur taille via la commande "Contrôle des esprits".
+
+
+
+^FA8072[Tends-moi une main secourable]^000000
+i - Pyrotechnie : les dégâts de Mur de feu et d’Éclair de feu augmentent.
+
+ii - Chauffage : les dégâts de Marche de feu augmentent.
+L'effet de soin lors de l'utilisation de Réchauffement augmente légèrement.
+Les dégâts d’Onde psychique augmentent légèrement.
+Le type de dégâts d’Onde psychique devient Type : Feu.
+
+iii - Tropical : lorsque l'invocateur attaque, Sort automatique : Éclair de feu se déclenche.
+Lors de l'utilisation de Frame Launcher ou de Volcan, il y a 1/2 chance de ne pas consommer Sang rouge ou Gemme jaune.
+
+^0000FF[Protège-moi]^000000
+i - Cercle de feu : crée une barrière de flammes autour de l'invocateur ; quand un ennemi attaque l'invocateur, il inflige des dégâts avec une certaine probabilité et repousse l'ennemi.
+
+ii - Cape de feu : la résistance Type : Feu augmente fortement et la résistance Type : Eau diminue fortement.
+
+iii - Manteau de feu : installe un puissant Mur de feu autour de l'invocateur.
+
+
+
+^FF0000[Élimine les ennemis qui s'opposent à moi]^000000
+
+i - Flèche de feu : tire 1 Flèche de feu sur 1 cible, infligeant des dégâts de Type : Feu.
+
+ii - Bombe de feu : utilise une bombe pour infliger des dégâts de Type : Feu à 1 cible et aux ennemis proches.
+Ou inflige des Dégâts magiques de type Feu à 1 cible.
+
+iii - Vague de feu : déclenche une grande vague de flammes, infligeant des dégâts de Type : Feu à 1 cible et aux ennemis proches.
+Ou inflige de grands Dégâts magiques de type Feu à 1 cible.
+^0000FF---- Chapitre d'Aqua, l'Esprit de l'Eau ----^000000
+
+
+Les esprits de l'eau invoqués répondent aux ordres de l'invocateur en adoptant des comportements différents selon leur taille via la commande "Contrôle des esprits".
+
+
+^FA8072[Tends-moi une main secourable]^000000
+i - Aqua Play : les dégâts d’Éclair de glace et de Frost Diver augmentent.
+
+ii - Réfrigérant : le taux de réussite de gel de Poussière de diamant augmente légèrement.
+Les dégâts de Poussière de diamant augmentent légèrement.
+Les dégâts d’Onde psychique augmentent légèrement.
+Le type de dégâts d’Onde psychique devient Type : Eau.
+
+iii - Air glacial : lorsque l'invocateur attaque, Sort automatique : Éclair de glace se déclenche.
+Lors de l'utilisation d’Arme de givre ou de Déluge, il y a 1/2 chance de ne pas consommer Cristal bleu ou Gemme jaune.
+
+^0000FF[Protège-moi]^000000
+i - Écran d'eau : restaure continuellement une certaine quantité de PV de l'invocateur.
+Pendant la Durée, Aqua subit à la place du lanceur les dégâts qu'il reçoit.
+
+ii - Goutte d'eau : la résistance Type : Eau augmente fortement et la résistance Type : Feu diminue fortement.
+
+iii - Barrière d'eau : crée un mur défensif d'eau autour du lanceur.
+Ce mur réduit d'une certaine quantité les dégâts physiques et magiques.
+Cependant, à l'intérieur du mur, le Taux d'Esquive et la puissance d'attaque diminuent.
+
+^FF0000[Élimine les ennemis qui s'opposent à moi]^000000
+
+i - Aiguille de glace : crée une aiguille de glace Acéré et inflige des Dégâts magiques de type Eau à 1 cible.
+
+ii - Vrille d'eau : envoie une onde d'eau et inflige des Dégâts magiques de type Eau à 1 cible.
+Ou inflige des Dégâts magiques de type Eau à 1 cible et aux ennemis proches.
+
+iii - Arme des marées : pendant un court instant, change les armes de l'invocateur et de l'esprit en Type : Eau,
+et augmente la puissance d'attaque de l'esprit.
+Ou inflige de grands dégâts de Type : Eau à 1 cible.
+^000088---- Chapitre de Ventus, l'Esprit du Vent ----^000000
+
+
+Les esprits du vent invoqués répondent aux ordres de l'invocateur en adoptant des comportements différents selon leur taille via la commande "Contrôle des esprits".
+
+
+^FA8072[Tends-moi une main secourable]^000000
+i - Rafale : les dégâts d’Éclair et de Tempête de foudre augmentent.
+
+ii - Blast : les dégâts de Marche électrique augmentent.
+Les dégâts de Lance de Varetyr augmentent.
+Les dégâts d’Onde psychique augmentent.
+Le type de dégâts d’Onde psychique devient Type : Vent.
+
+iii - Tempête sauvage : lorsque l'invocateur attaque, Sort automatique : Éclair se déclenche.
+Lors de l'utilisation de Chargeur de foudre ou de Tourbillon de violence, il y a 1/2 chance de ne pas consommer Brise verdoyante ou Gemme jaune.
+
+^0000FF[Protège-moi]^000000
+i - Pas du vent : au moment de l'activation, téléporte instantanément l'invocateur.
+Augmente aussi, pendant un certain temps, la vitesse de déplacement et le Taux d'Esquive du lanceur.
+
+ii - Rideau de vent : la résistance Type : Vent augmente fortement et la résistance Type: Terre diminue fortement.
+
+iii - Zéphyr : crée une barrière de vent autour de l'invocateur. Dans cette barrière, le Taux d'Esquive augmente
+et aucun dégât n'est subi des attaques à distance. Avec une faible probabilité, annule les dégâts physiques/magiques.
+
+^FF0000[Élimine les ennemis qui s'opposent à moi]^000000
+
+i - Entaille du vent : projette une lame de vent vers 1 cible à distance, infligeant des dégâts de Type : Vent
+et appliquant l'altération d'état Saignement.
+
+ii - Rage ouragan : inflige des Dégâts magiques de type Vent à 1 cible à distance.
+Ou inflige des dégâts physiques de Type : Vent à 1 cible et aux ennemis proches.
+
+iii - Missile typhon : inflige des dégâts de Type : Vent à 1 cible à distance.
+Ou inflige des Dégâts magiques de type Vent et applique une altération d'état (silence).
+^008040---- Chapitre de Terra, l'Esprit de la Terre ----^000000
+
+
+Les esprits de la terre invoqués répondent aux ordres de l'invocateur en adoptant des comportements différents selon leur taille via la commande "Contrôle des esprits".
+
+
+^FA8072[Tends-moi une main secourable]^000000
+i - Pétrologie : la probabilité de Stone Curse augmente légèrement.
+Les dégâts de Pic de terre et d’Assaut céleste augmentent.
+
+ii - Sol maudit : les dégâts finaux de Nuage mortel augmentent.
+Les dégâts d’Explosion de poison augmentent.
+Les dégâts de Tombe terrestre augmentent.
+Les dégâts d’Onde psychique augmentent.
+Le type de dégâts d’Onde psychique devient Type: Terre.
+
+iii - Soulèvement : lorsque l'invocateur attaque, Sort automatique : Pic de terre se déclenche.
+Lors de l'utilisation d’Arme sismique, il y a 1/2 chance de ne pas consommer Live vert.
+^0000FF[Protège-moi]^000000
+i - Peau solide : la défense et le maximum de PV de l'invocateur augmentent fortement.
+
+ii - Bouclier de pierre : la résistance Type: Terre augmente fortement et la résistance Type : Feu diminue fortement.
+
+iii - Pouvoir de Gaïa : crée une barrière de terre autour de l'invocateur.
+Dans cette zone, immunise contre Saignement et Pétrification.
+Pendant un certain temps, le maximum de PV et la défense augmentent.
+Cependant, la vitesse de déplacement diminue fortement.
+
+^FF0000[Élimine les ennemis qui s'opposent à moi]^000000
+
+i - Marteau de pierre : inflige des dégâts deType: Terre à 1 cible et la plonge dans l'altération d'état Étourdissement.
+
+ii - Broyeur de roches : inflige des dégâts de Type: Terre à 1 cible et réduit la défense d'une certaine valeur.
+Ou inflige des Dégâts magiques de type Terre à 1 cible et réduit sa vitesse de déplacement d'une certaine valeur.
+
+iii - Pluie de pierres : fait tomber d'innombrables pierres sur 1 cible et les ennemis proches, infligeant des dégâts de Type: Terre.
+Ou inflige des dégâts de Type: Terre à 1 cible et la plonge dans l'état Étourdissement.

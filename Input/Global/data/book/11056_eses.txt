@@ -1,0 +1,152 @@
+^FF0000---- Capítulo de Agni, el espíritu del fuego ----^000000
+
+Los espíritus del fuego invocados responden a las órdenes del invocador mediante la orden "Control de espíritu",
+adoptando distintos comportamientos individuales según su tamaño.
+
+
+
+^FA8072[Tiéndeme una mano]^000000
+i - Pirotecnia: aumenta el daño de Muro de Fuego y Descarga de Fuego.
+
+ii - Calentador: aumenta el daño de Paseo Ígneo.
+Aumenta ligeramente el efecto de recuperación al usar la habilidad Calentador.
+Aumenta ligeramente el daño de Onda Psíquica.
+El atributo del daño de Onda Psíquica cambia a Fuego.
+
+iii - Trópico: cuando el invocador ataca, se activa automáticamente Descarga de Fuego.
+Al usar Lanzallamas o Volcán, hay una probabilidad de 1/2 de no consumir Sangre Roja ni
+Gema Amarilla.
+
+^0000FF[Protégeme]^000000
+i - Círculo de Fuego: crea una barrera de llamas alrededor del invocador y, cuando un enemigo lo ataca,
+tiene cierta probabilidad de infligirle daño y empujarlo lejos del invocador.
+
+ii - Manto Ígneo: aumenta enormemente la resistencia al Fuego y reduce enormemente la resistencia al Agua.
+
+iii - Manto de Fuego: instala un poderoso Muro de Fuego alrededor del invocador.
+
+
+
+^FF0000[Derrota a los enemigos que se opongan a mí]^000000
+
+i - Flecha de Fuego: lanza 1 flecha de fuego contra 1 enemigo y le inflige daño de atributo Fuego.
+
+ii - Bomba de Fuego: utiliza una bomba de fuego para infligir daño de atributo Fuego a 1 objetivo y a los enemigos cercanos.
+O inflige daño mágico de atributo Fuego a 1 objetivo.
+
+iii - Ola de Fuego: genera una gran llamarada e inflige daño físico de atributo Fuego a 1 objetivo y a los enemigos cercanos.
+O inflige gran daño mágico de atributo Fuego a 1 objetivo.
+^0000FF---- Capítulo de Aqua, el espíritu del agua ----^000000
+
+
+Los espíritus del agua invocados responden a las órdenes del invocador mediante la orden "Control de espíritu",
+adoptando distintos comportamientos individuales según su tamaño.
+
+
+^FA8072[Tiéndeme una mano]^000000
+i - Juego Acuático: aumenta el daño de Descarga de Frío y Buceo Glacial.
+
+ii - Refrigerador: aumenta ligeramente la probabilidad de Congelación de Polvo de Diamante.
+Aumenta ligeramente el daño de Polvo de Diamante.
+Aumenta ligeramente el daño de Onda Psíquica.
+El atributo del daño de Onda Psíquica cambia a Agua.
+
+iii - Aire Gélido: cuando el invocador ataca, se activa automáticamente Descarga de Frío.
+Al usar Arma de Escarcha o Diluvio, hay una probabilidad de 1/2 de no consumir Azul Cristal ni
+Gema Amarilla.
+
+^0000FF[Protégeme]^000000
+i - Pantalla de Agua: recupera continuamente una cantidad determinada de HP del invocador.
+Durante el efecto, Aqua recibe en su lugar el daño sufrido por el invocador.
+
+ii - Gota de Agua: aumenta enormemente la resistencia al Agua y reduce enormemente la resistencia al Fuego.
+
+iii - Barrera de Agua: crea una barrera de agua alrededor del invocador.
+Esta barrera de agua reduce una cantidad determinada del daño físico y mágico.
+Sin embargo, dentro de la barrera se reducen la evasión y el poder de ataque.
+
+^FF0000[Derrota a los enemigos que se opongan a mí]^000000
+i - Aguja de Hielo: crea una afilada aguja de hielo e inflige daño mágico de atributo Agua a 1 enemigo.
+
+ii - Tornillo de Agua: dispara una onda de agua e inflige daño mágico de atributo Agua a 1 objetivo.
+O inflige daño mágico de atributo Agua a 1 objetivo y a los enemigos cercanos.
+
+iii - Arma de Marea: durante un breve periodo, cambia a atributo Agua las armas del invocador y del espíritu,
+y aumenta el poder de ataque del propio espíritu.
+O inflige gran daño de atributo Agua a 1 objetivo.
+^000088---- Capítulo de Ventus, el espíritu del viento ----^000000
+
+
+Los espíritus del viento invocados responden a las órdenes del invocador mediante la orden "Control de espíritu",
+adoptando distintos comportamientos individuales según su tamaño.
+
+
+^FA8072[Tiéndeme una mano]^000000
+i - Ráfaga: aumenta el daño de Descarga de Rayos y Tormenta de Truenos.
+
+ii - Explosión: aumenta el daño de Paseo Eléctrico.
+Aumenta el daño de Lanza de Varetyr.
+Aumenta el daño de Onda Psíquica.
+El atributo del daño de Onda Psíquica cambia a Viento.
+
+iii - Tormenta Salvaje: cuando el invocador ataca, se activa automáticamente Descarga de Rayos.
+Al usar Cargador de Rayos o Vendaval Violento, hay una probabilidad de 1/2 de no consumir Viento de Verdor ni
+Gema Amarilla.
+
+^0000FF[Protégeme]^000000
+i - Paso del Viento: teletransporta instantáneamente al invocador al activarse.
+Además, aumenta durante cierto tiempo la velocidad de movimiento y la evasión del invocador.
+
+ii - Cortina de Viento: aumenta enormemente la resistencia al Viento y reduce enormemente la resistencia a Tierra.
+
+iii - Céfiro: crea una barrera de viento alrededor del invocador. Dentro de esta barrera aumenta la evasión
+y no se recibe daño de ataques a distancia. Además, hay una pequeña probabilidad de anular el daño
+físico o mágico.
+
+^FF0000[Derrota a los enemigos que se opongan a mí]^000000
+i - Corte de Viento: lanza una cuchilla de viento contra 1 objetivo lejano e inflige daño de atributo Viento,
+además de causar el estado Hemorragia.
+
+ii - Furia Huracanada: inflige daño mágico de atributo Viento a 1 objetivo lejano.
+O inflige daño físico de atributo Viento a 1 objetivo y a los enemigos cercanos.
+
+iii - Misil Tifón: inflige daño de atributo Viento a 1 objetivo lejano.
+O inflige daño mágico de atributo Viento y causa el estado Silencio.
+^008040---- Capítulo de Tera, el espíritu de la tierra ----^000000
+
+
+Los espíritus de la tierra invocados responden a las órdenes del invocador mediante la orden "Control de espíritu",
+adoptando distintos comportamientos individuales según su tamaño.
+
+
+^FA8072[Tiéndeme una mano]^000000
+i - Petrología: aumenta ligeramente la probabilidad de Maldición de Piedra.
+Aumenta el daño de Púa Terrestre y Terremoto Celestial.
+
+ii - Suelo Maldito: aumenta el daño final de Nube Asesina.
+Aumenta el daño de Explosión Venenosa.
+Aumenta el daño de Tumba Terrestre.
+Aumenta el daño de Onda Psíquica.
+El atributo del daño de Onda Psíquica cambia a Tierra.
+
+iii - Convulsión: cuando el invocador ataca, se activa automáticamente Púa Terrestre.
+Al usar Arma Sísmica, hay una probabilidad de 1/2 de no consumir Vida Verde.
+^0000FF[Protégeme]^000000
+i - Piel Sólida: aumenta enormemente la defensa y el HP máx. del invocador.
+
+ii - Escudo de Piedra: aumenta enormemente la resistencia a Tierra y reduce enormemente la resistencia al Fuego.
+
+iii - Poder de Gaia: crea una barrera terrestre alrededor del invocador.
+Dentro de esta zona, no se puede sufrir Hemorragia ni Petrificación.
+Aumenta durante cierto tiempo el HP máx. y la defensa.
+Sin embargo, reduce enormemente la velocidad de movimiento.
+
+^FF0000[Derrota a los enemigos que se opongan a mí]^000000
+i - Martillo de Piedra: inflige daño de atributo Tierra a 1 objetivo y le causa el estado Aturdimiento.
+
+ii - Triturarrocas: inflige daño de atributo Tierra a 1 objetivo y reduce su defensa en una cantidad determinada.
+O inflige daño mágico de atributo Tierra a 1 objetivo y reduce su velocidad de movimiento en una cantidad
+determinada.
+
+iii - Lluvia de Piedras: deja caer innumerables piedras sobre 1 objetivo y los enemigos cercanos, infligiéndoles daño de atributo Tierra.
+O inflige daño de atributo Tierra a 1 objetivo y le causa el estado Aturdimiento.

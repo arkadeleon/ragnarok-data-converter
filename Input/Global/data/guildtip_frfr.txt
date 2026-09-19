@@ -1,0 +1,55 @@
+[ Création de guilde ]
+1. Vous devez posséder un Emperium.
+ 
+2. Lorsque vous possédez un Emperium,
+   saisissez « /guild (Nom de la guilde) » dans la fenêtre de discussion,
+   ou cliquez sur le bouton « Créer une guilde » pour créer une guilde.
+ 
+3. La fenêtre d’informations de guilde peut être ouverte avec G (ALT+G).
+ 
+[ Fenêtre d’informations de guilde ]
+1. Vous pouvez consulter des informations telles que le nom de la guilde,
+   l’EXP, le niveau de guilde, l’emblème de guilde,
+   le nom du maître, le nombre de membres,
+   le niveau moyen des membres, les alliances,
+   et les guildes ennemies.
+ 
+2. Informations sur les membres :
+   Vous pouvez consulter les informations individuelles des Membre de guilde,
+   et faire un clic droit pour gérer votre départ de la guilde.
+   Le départ de la guilde ne peut être effectué que par le membre lui-même,
+   et le maître de guilde peut également expulser des membres.
+ 
+3. Réglage des rangs :
+   Vous pouvez définir le taux de contribution en EXP de guilde
+   et le rang des membres.
+   Le taux de contribution peut être réglé jusqu’à 50 %.
+   Les informations d’EXP contribué à la guilde sont réinitialisées lors du départ de la guilde.
+ 
+4. Compétences de guilde :
+   À chaque augmentation de 1 niveau de guilde,
+   vous obtenez 1 point de compétence,
+   qui peut être investi dans les compétences de guilde.
+ 
+5. Membres expulsés :
+   Affiche la liste des membres expulsés de la guilde
+   ainsi que les raisons.
+ 
+6. Le maître de guilde peut transmettre diverses annonces
+   aux membres via la fenêtre de discussion.
+ 
+[ Enregistrement et modification de l’emblème ]
+1. Créez un emblème de 24×24 pixels
+   au format Bitmap (BMP) 256 couleurs.
+ 
+2. Créez un dossier nommé Emblem
+   dans le répertoire d’installation de Ragnarok,
+   puis copiez-y le fichier image de l’emblème.
+ 
+3. Dans la fenêtre d’informations de guilde,
+   appuyez sur le bouton d’édition situé dans la zone d’affichage de l’emblème
+   pour appliquer l’emblème.
+ 
+4. Seul le maître de guilde peut modifier l’emblème,
+   et l’emblème peut être modifié à tout moment.
+#

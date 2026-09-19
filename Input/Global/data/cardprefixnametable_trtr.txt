@@ -1,0 +1,264 @@
+4001#Şanslı#
+4002#Hayati#
+4003#Sert#
+4004#Becerikli#
+4006#Şanslı#
+4007#Beholder#
+4008#Ekstra#
+4009#Hafif#
+4010#Bilge#
+4011#Dinamik#
+4012#Katı#
+4013#Üstün#
+4014#Şampiyonun#
+4015#Çabuk#
+4016#Süratli#
+4017#Sersemletici#
+4019#Öz#
+4020#Ani#
+4021#Usta#
+4022#Sporun#
+4023#Çölün#
+4024#Uykulu#
+4025#Keskin#
+4026#Uyanık#
+4027#Atletik#
+4028#Çifte Güç#
+4029#Kurtpençesi#
+4030#Rüzgârlı#
+4031#Mars'ın#
+4032#Athena'nın#
+4033#Antidot#
+4034#Zeki#
+4035#Kanlı#
+4036#Dayanıklı#
+4037#Dokunulmaz#
+4038#İyileştirici#
+4039#Aristo#
+4040#Işınlanan#
+4041#Kum Adamın#
+4042#Rüzgar Muhafızının#
+4043#Kasırga#
+4044#Saklan#
+4045#Ağır#
+4046#Rahibin#
+4047#Hayaletimsi#
+4048#Zehir#
+4049#Alev#
+4050#Hermes'in#
+4051#Parıltının#
+4052#Bilgin#
+4053#Şifacı#
+4054#Kutsal#
+4055#Buzlu#
+4056#Sıcaklığın#
+4057#Sessiz#
+4058#Kafatası#
+4060#Gürültülü#
+4061#Ölümsüz#
+4063#Böcek İlacı#
+4064#Çevik#
+4066#Vahşi#
+4067#Atomik#
+4068#Kimyasal#
+4069#Saharik#
+4070#Cadının#
+4071#Meleksi#
+4072#Sağlam#
+4073#İndirimli#
+4074#Gigantua'nın#
+4075#Hipnotik#
+4076#Lanetleyici#
+4077#Alt-Büyülü#
+4078#İyileşmenin#
+4079#Gücün#
+4080#Balıkçı#
+4081#Görkemli#
+4084#Patlayıcı#
+4085#Lanetli#
+4086#Kritik#
+4087#Düzen#
+4088#Muhafız#
+4089#Akuatik#
+4090#Muska#
+4092#Bağlı#
+4093#Tedavi#
+4094#Kral Kuş#
+4095#Cin#
+4096#Zehirli#
+4097#Yeşil#
+4098#Zephyrus'un#
+4099#Ifrit'in#
+4100#Ruh Büyülü#
+4101#Gnomun#
+4102#Alaycı#
+4103#Kehanetli#
+4104#Kaos#
+4105#Çözülmez#
+4106#Kadim#
+4107#Vebalı#
+4108#Zararsız#
+4109#Alev Muhafızı#
+4110#Engerek#
+4111#Çatallı#
+4112#Eşsiz#
+4113#Hayaletin#
+4114#Zehirlenmiş#
+4116#İlahi#
+4117#Hibrit#
+4118#Dragoon#
+4119#Kötü#
+4120#Dragoon'un#
+4122#Sertleşmiş#
+4123#Taşıyıcı#
+4124#Sıvacı#
+4125#Akuatik#
+4126#Titan#
+4127#Uykusuz#
+4129#Hırsızın#
+4133#Bağışık#
+4135#Ayna#
+4136#Cehennem Doğumlu#
+4137#Sonsuzluğun#
+4138#Şeytani#
+4139#Ay Işığının#
+4140#Özgürlük#
+4141#Ölümcül#
+4143#Nötr#
+4147#Yan Darbe#
+4148#Kirin'in#
+4149#Açık Gökyüzü#
+4152#Sulu#
+4153#Kanserli#
+4155#Ölümcül Goblin#
+4156#Ölümcül Çerçeve#
+4157#Sert Darbe#
+4159#Yüksek Seviye#
+4164#Balıkçılık#
+4167#Canavar Ruhu#
+4168#Kıyametin#
+4169#Büyü Ustasının#
+4170#Güçlendirilmiş#
+4171#Ruh Emme#
+4177#Yeşil Taşın#
+4178#Okçu Ustasının#
+4179#Parlak#
+4180#Ejder Ruh#
+4183#Kurtadam#
+4185#Akıllı#
+4186#Sarsılmaz#
+4187#Kasvetli Alacakaranlık#
+4188#Kırmızı Taşın#
+4189#Şanssız#
+4190#Riffmaker'ın#
+4192#Ölümcül Balıklar#
+4194#Sersemletmenin#
+4196#Jellopy'nin#
+4197#Yüksek Şanslı#
+4199#Atılımın#
+4200#Büyü Direncinin#
+4201#Bağlayıcı Sersemletme#
+4203#Yanıcı#
+4205#Mavi Kübik'in#
+4206#Kübik#
+4210#Baskı#
+4211#Uzman#
+4212#Geri Savurma#
+4213#Dilsiz#
+4216#Donmanın#
+4219#Büyü Taşının#
+4222#Uykunun#
+4223#Sersemletme Dirençli#
+4225#Atış#
+4226#Yüksek Seviye#
+4229#Daha Hızlı#
+4234#Berrak Zihin#
+4235#Düşmüş Melek#
+4236#Korumanın#
+4237#Tanrı Irkının#
+4238#Çifte Gücün#
+4240#Büyü Direncinin#
+4244#Arayıcının#
+4247#Denizyıldızı#
+4248#Parlayan Haç#
+4249#Şeytan Kovucu#
+4251#İstilacı#
+4252#Dört Yapraklı Yonca#
+4253#Kraliyet Muhafızının#
+4255#Ezici#
+4256#Arzulanan#
+4257#Kanatlı#
+4259#Doğanın#
+4260#Kargaşa Muhafızı#
+4261#Kanama Muhafızı#
+4264#Yıldırım#
+4266#Büyü Dirençli#
+4268#Genişleyen#
+4271#Sarı Taşın#
+4273#Kabuk#
+4274#Ölümsüz Ruhu#
+4275#Ölümsüz Avcısı#
+4277#Atış Ustasının#
+4283#Mana Küresi#
+4284#Nazik Dokunuş#
+4285#Elf Büyülü#
+4288#Yüksek Seviye#
+4289#Bitki Ruhu#
+4293#Şans#
+4296#Açgözlü#
+4297#Kese#
+4298#Kaosun#
+4299#Koruyucu#
+4300#Zehir Yükünün#
+4302#Yüksek Riskli#
+4306#Kralın#
+4307#Deniz Gücü Ruhu#
+4308#Güç Emici#
+4309#Sert Kaplama#
+4310#Ölümcül Kötü#
+4312#Ruh#
+4313#Bataklığın#
+4314#Çerçeve Muhafızı#
+4315#Taş Lanetinin#
+4317#Aura#
+4322#Karşı Saldırı#
+4323#Soğuk#
+4326#Balık Kokusunun#
+4329#Ruh Kazancı#
+4375#Ekstra Yüksek#
+4377#Tatlı'nın#
+4545#Acemi#
+27153#Derinliğin#
+27154#Blokun#
+27206#Berserker'ın#
+27207#Aceleci#
+27208#Ebediyetin#
+27266#Kötücül#
+27267#Mükemmel#
+27268#Ruhani#
+27270#Joker'in#
+27271#Büyücünün#
+27272#Jennifer'ın#
+27273#Saldırgan#
+27274#Kurnaz#
+27275#Meteor Işığı#
+300547#Pusucu#
+300550#Fei-Chai#
+300551#Azi#
+300618#Kung Fu Panda#
+300737#Gelgit#
+300740#Sınır Şehri#
+300741#Kıyı#
+300742#Glast Heim#
+300834#Bebek Köpekbalığı#
+300835#Köpekbalığı Ailesi#
+300936#Nord Gücünün#
+300937#Nord Şansının#
+300938#Mücevher#
+300939#Nord Canlılığının#
+300940#Nord Zekâsının#
+300941#Nord Becerisinin#
+300942#Nord Çevikliğinin#
+300943#Büyülü Kaya#
+300944#Ölümcül Kaya#
+300964#Kaya Ustasının#

@@ -1,0 +1,27 @@
+%faf0e6
+^000088Alchemy for Manufacturing Mine Bottles^000000
+
+
+----------------Foreword--------------------
+The monster known as the Marine Sphere, discovered while exploring Izlude,
+did not move, but possessed the characteristic of exploding when touched.
+We wondered if there was a way to suspend it in the air rather than underwater,
+and eventually, we succeeded in synthesizing it!
+We believe this bomb, when used against enemies, will be advantageous for ambushes.
+------------------------------------------
+
+What is a ^400080Mine^000000?
+
+A type of bomb that floats in midair or underwater and sends targets flying upon contact.
+A mine bottle is created by processing this bomb in a special way and storing it in a bottle.
+Extreme caution is required from manufacturing to usage.
+However, only alchemists who have mastered specialized techniques
+are said to be able to use it.
+
+
+Materials: ^4B00821 Detonator, 1 Tendon, 1 Empty Bottle^000000
+Manufacturing Method: Prepare a mortar.
+          Place the detonator and tendon into the mortar, and while carrying this book,
+          use Pharmacy to bottle the result into an empty bottle.
+          Unlike the synthesis used to create mines,
+          a separate skill must be learned in order to use it.

@@ -1,0 +1,69 @@
+%faf0e6
+^000088Tentative de Cuisine niv. de la légende interdite
+Le périple tragique d’un cuisinier qui a perdu le goût, tout comme son petit frère.^000000
+Si vous poursuivez la cuisine légendaire, prenez garde, vous aussi.
+Au bout du goût, il ne reste que...
+- Recette de Cuisine niv. 9 ultime -
+
+
+^FF0000Sauté de tendons :^000000 Souviens-toi qu’il existe aussi des tendons tendres !
+Ingrédients : ^4B0082Tendon x1, Marmite x1, Fromage x1, Sauce épicée x1, Charbon x1, Herbe verte x1, Encre de seiche x1^000000
+Préparation : Coupez le tendon en morceaux de 3 cm, puis assaisonnez avec du sel et du poivre.
+Blanchissez une partie de l’Herbe verte dans de l’eau bouillante, refroidissez-la dans de l’eau froide, puis hachez le reste.
+Faites cuire l’encre de seiche avec de l’eau dans la marmite, puis ajoutez la Sauce épicée afin d’obtenir une sauce épaisse.
+Ajoutez l’Herbe verte refroidie et le fromage, puis faites sauter le tendon jusqu’à ce qu’il soit doré.
+À ce moment-là, utilisez le Charbon pour obtenir une braise et laissez cuire doucement.
+Disposez le tendon cuit dans une assiette, nappez de sauce, puis saupoudrez d’Herbe verte hachée.
+
+^0000FFTristan 12 ans :^000000 Un vin de fruits au goût de whisky !
+Ingrédients : ^4B0082Feuille d’Yggdrasil x1, Orange x1, Alcool x1, Gelée royale x1, Potion bleue x1,
+Épice jaune x1, Feuille d'aloès x1^000000
+Préparation : Pressez l’Orange.
+Mélangez la Feuille d’Yggdrasil séchée et la Feuille d'aloès avec la Gelée royale et la Potion bleue,
+puis ajoutez l’Alcool et laissez fermenter. Après 12 ans de maturation, cela devient un Tristan 12 ans.
+Enduisez légèrement le bord du verre d’Épice jaune et servez avec de la Gelée royale en accompagnement.
+
+^800000Jus de fruits céleste :^000000 On a l’impression de s’envoler, mais on ne peut pas voler : attention !
+Ingrédients : ^4B0082Pomme pas mûre x1, Orange x1, Fraise x1, Épice rouge x1,
+Banane tropicale x1, Jus de raisin x1, Alcool x1^000000
+Préparation : Épluchez la pomme et l’Orange, puis coupez-les respectivement en 3 et 4 morceaux.
+Équeutez les fraises et coupez la banane épluchée en morceaux.
+Mettez les fruits dans un mixeur, ajoutez environ la moitié du Jus de raisin, puis mixez finement.
+Quand c’est bien lisse, ajoutez le reste du Jus de raisin et l’Alcool, puis mixez 30 secondes.
+Versez dans un verre et saupoudrez légèrement d’Épice rouge.
+Si vous mixez avec des glaçons, cela rafraîchit, limite la perte de nutriments et améliore le goût.
+
+^008040Bouddha saute par-dessus le mur spécial :^000000 Ce n’est absolument pas un tampon en métal chauffé au feu !
+Ingrédients : ^4B0082Viande x1, Gelée royale x1, Jeunes pousses x1, Sauce légère x1, Herbe jaune x1,
+Herbe blanche x1, Herbe rouge x1^000000
+Préparation : Faites mariner la viande dans du saké environ une journée, puis faites-la cuire à la vapeur 2 heures et tranchez finement.
+Coupez la Gelée royale et les herbes en morceaux faciles à manger, puis blanchissez les jeunes pousses.
+Dans une marmite, faites chauffer de l’huile de ciboule, puis ajoutez le saké, le bouillon, les assaisonnements, le sel, le poivre et le vin de Shaoxing.
+Ajoutez tous les ingrédients préparés, scellez et faites cuire à la vapeur environ 3 heures.
+
+^FF8040Soupe du dragon ascendant :^000000 Une sensation de devenir un dragon qui crache du feu à cause du piquant !
+Ingrédients : ^4B0082Peau de dragon x1, Queue de dragon x1, Feuille d’Yggdrasil x1, Gelée royale x1, Sauce épicée x1,
+Épice rouge x1, Ver dodu x1^000000
+Préparation : La Peau de dragon étant coriace, incisez-la suffisamment.
+Coupez la Queue de dragon en morceaux.
+Tranchez la Gelée royale en demi-lunes épaisses et coupez la Feuille d’Yggdrasil en biais.
+Mettez le ver bien lavé dans la marmite, ajoutez de l’eau et faites bouillir vivement environ 10 minutes.
+Quand le bouillon est bien infusé, retirez le ver.
+Ajoutez la Sauce épicée et l’Épice rouge, puis mélangez dans le bouillon.
+Ajoutez la peau, la queue et la Gelée royale, puis faites bouillir.
+Quand le bouillon bout fortement et que la peau et la queue sont presque cuites,
+ajoutez la Feuille d’Yggdrasil préparée, portez de nouveau à frémissement, puis servez.
+
+^400080Soda pétillant sanguinolent :^000000 On dit que ça a le goût de lécher un bureau en acier.
+Ingrédients : ^4B0082Sang d’animal x1, Antidouleur x1, Aloe vera x1, Alcool x1, Gelée royale x1,
+Épice rouge x1, Jus de pomme x1^000000
+Préparation : Coupez finement un Aloe vera, ajoutez de l’eau tiède (environ 20 °C) et laissez 5 minutes.
+Après 5 minutes, mettez le sucre et l’autre Aloe vera finement coupé dans une bouteille d’environ 3,7 litres, remplissez d’eau et secouez 2 minutes (jusqu’à dissolution du sucre).
+Une fois dissous, fermez bien et laissez fermenter environ 4 à 6 jours.
+Mixez la Gelée royale coupée à une taille adaptée avec le Jus de pomme,
+puis ajoutez l’eau gazeuse fermentée, l’Alcool et l’Antidouleur, et mixez 30 secondes.
+Versez dans un verre et saupoudrez légèrement d’Épice rouge.
+
+^FF3366Assortiment de plats niv. 9 :^000000 L’essence de la Cuisine niv. 9
+Ingrédients : ^4B0082Sauté de tendons x1, Tristan 12 ans x1, Jus de fruits céleste x1, Bouddha saute par-dessus le mur spécial x1, Soupe du dragon ascendant x1, Soda pétillant sanguinolent x1^000000
+Préparation : Réunissez toutes les recettes de Cuisine niv. 9 et servez-les soigneusement en grand plateau.MSI

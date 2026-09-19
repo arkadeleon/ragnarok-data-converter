@@ -1,0 +1,107 @@
+^FF3300[Espada del Dragón de Tierra]^000000 Espada imbuida con el poder del Dragón de Tierra.
+Daño físico infligido a monstruos de raza Amorfa 5% aumentado, daño físico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : espada de una mano Ataque : 130 Peso : 80 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Espadachín/clase Mercader RANURAS : 2
+
+^FF3300[Mandoble del Dragón de Tierra]^000000 Mandoble imbuido con el poder del Dragón de Tierra.
+Daño físico infligido a monstruos de raza Amorfa 5% aumentado, daño físico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico infligido a monstruos de raza Amorfa 10% adicional aumentado. Daño físico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : espada de dos manos Ataque : 180 Peso : 140 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Espadachín RANURAS : 2
+^FF3300[Daga del Dragón de Tierra]^000000 Daga imbuida con el poder del Dragón de Tierra.
+Daño físico infligido a monstruos de raza Amorfa 5% aumentado, daño físico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : daga Ataque : 130 Peso : 80 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Espadachín/clase Ladrón/clase Mercader RANURAS : 2
+
+^FF3300[Arco del Dragón de Tierra]^000000 Arco imbuido con el poder del Dragón de Tierra.
+Daño físico infligido a monstruos de raza Amorfa 5% aumentado, daño físico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : arco Ataque : 130 Peso : 100 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Arquero/clase Ladrón RANURAS : 2
+^FF3300[Báculo del Dragón de Tierra]^000000 Báculo imbuido con el poder del Dragón de Tierra. ATQM + 130, indestructible.
+Daño mágico infligido a monstruos de raza Amorfa 5% aumentado, daño mágico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño mágico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño mágico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño mágico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño mágico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : báculo de una mano Ataque : 40 Peso : 80 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Novato/clase Mago/clase Acólito/clase Vinculador de Almas RANURAS : 2
+
+^FF3300[Maza del Dragón de Tierra]^000000 Maza imbuida con el poder del Dragón de Tierra.
+Indestructible, daño físico infligido a monstruos de raza Amorfa 5% aumentado, daño físico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : maza Ataque : 130 Peso : 120 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Espadachín/clase Novato/clase Acólito/clase Mercader RANURAS : 2
+^FF3300[Katar del Dragón de Tierra]^000000 Katar imbuido con el poder del Dragón de Tierra.
+Daño físico infligido a monstruos de raza Amorfa 5% aumentado, daño físico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : katar Ataque : 150 Peso : 120 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Asesino RANURAS : 2
+
+^FF3300[Hacha del Dragón de Tierra]^000000 Hacha imbuida con el poder del Dragón de Tierra.
+Indestructible, daño físico infligido a monstruos de raza Amorfa 5% aumentado, daño físico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico infligido a monstruos de raza Amorfa 10% adicional aumentado. Daño físico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : hacha de dos manos Ataque : 180 Peso : 140 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Mercader RANURAS : 2
+^FF3300[Lanza del Dragón de Tierra]^000000 Lanza imbuida con el poder del Dragón de Tierra.
+Daño físico infligido a monstruos de raza Amorfa 5% aumentado, daño físico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : lanza de dos manos Ataque : 180 Peso : 140 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Espadachín RANURAS : 2
+
+^FF3300[Puño del Dragón de Tierra]^000000 Puño imbuido con el poder del Dragón de Tierra.
+Daño físico infligido a monstruos de raza Amorfa 5% aumentado, daño físico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : nudillera Ataque : 130 Peso : 80 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Monje/clase Sacerdote RANURAS : 2
+^FF3300[Libro del Dragón de Tierra]^000000 Libro imbuido con el poder del Dragón de Tierra.
+ATQM + 130, daño físico/mágico infligido a monstruos de raza Amorfa 5% aumentado, daño físico/mágico infligido a enemigos de elemento Tierra 5% aumentado. Con 7 de refinamiento, daño físico/mágico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico/mágico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico/mágico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño físico/mágico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : libro Ataque : 130 Peso : 80 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Sabio/clase Sacerdote/clase Maestro Taekwon RANURAS : 2
+
+^FF3300[Látigo del Dragón de Tierra]^000000 Látigo imbuido con el poder del Dragón de Tierra.
+Daño físico infligido a monstruos de raza Amorfa 5% aumentado, daño físico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : látigo Ataque : 130 Peso : 80 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Bailarina RANURAS : 2
+^FF3300[Instrumento del Dragón de Tierra]^000000 Instrumento de cuerda imbuido con el poder del Dragón de Tierra.
+Daño físico infligido a monstruos de raza Amorfa 5% aumentado, daño físico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño físico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : instrumento Ataque : 130 Peso : 80 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Bardo RANURAS : 2
+
+^FF3300[Daga Ninja del Dragón de Tierra]^000000 Daga ninja imbuida con el poder del Dragón de Tierra.
+ATQM + 70, daño físico/mágico infligido a monstruos de raza Amorfa 5% aumentado, daño físico/mágico infligido a enemigos de elemento Tierra 5% aumentado.
+Con 7 de refinamiento, daño físico/mágico infligido a monstruos de raza Amorfa 5% adicional aumentado, daño físico/mágico infligido a enemigos de elemento Tierra 5% adicional aumentado.
+Con 9 de refinamiento, daño físico/mágico infligido a monstruos de raza Amorfa 10% adicional aumentado, daño físico/mágico infligido a enemigos de elemento Tierra 10% adicional aumentado.
+
+Tipo : daga Ataque : 130 Peso : 80 Nivel de arma : 3
+Nivel requerido : 70 Equipada por : clase Ninja RANURAS : 2
+
+
+^FFFFFF[Paquete del Dragón de Tierra]^000000

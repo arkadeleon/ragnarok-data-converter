@@ -1,0 +1,265 @@
+^4D4DFF Liste exklusiver TE-Leihitems ^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Alle TE-Leihausrüstungen sind nicht mit anderen Accounts handelbar.
+Alle TE-Leihausrüstungen werden nach Ablauf der Leihdauer automatisch aus dem Inventar entfernt.
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+[TE Belagerungs-Katar]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Blutung zu verursachen.
+Kategorie: Katar  ATK : 120
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Assassinen-Klasse
+
+[TE Belagerungs-Axt]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Einfrieren zu verursachen.
+Kategorie: Einhandaxt  ATK : 100
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Novize/Schwertkämpfer-Klasse/Händler-Klasse/Dieb-Klasse
+
+[TE Belagerungs-Zweihand-Axt]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Betäubung zu verursachen.
+Kategorie: Zweihandaxt  ATK : 150
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Schwertkämpfer-Klasse/Händler-Klasse
+
+[TE Belagerungs-Pike]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Fluch zu verursachen.
+Kategorie: Einhand-Speer  ATK : 100
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Schwertkämpfer-Klasse
+
+[TE Belagerungs-Lanze]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Blindheit zu verursachen.
+Kategorie: Zweihand-Speer  ATK : 150
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Schwertkämpfer-Klasse
+
+
+[TE Belagerungs-Buch]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Magische Angriffskraft gegen Spieler +5%.
+Hohe Chance, bei physischen Angriffen Blindheit zu verursachen.
+Heilwirkung +5%.
+Kategorie: Buch  ATK : 120
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Priester-Klasse/Weiser-Klasse/Taekwon-Meister
+
+[TE Belagerungs-Stab]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Magische Angriffskraft gegen Spieler +10%. Hohe Chance, bei magischen Angriffen Blindheit zu verursachen.
+Heilwirkung +5%.
+Kategorie: Einhandstab  ATK : 50  Gewicht : 0
+Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Novizen-Klasse/Magier-Klasse/Akolyth-Klasse/Seelenverbinder
+
+[TE Belagerungs-Faust]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Einfrieren zu verursachen.
+Kategorie: Schlagring  ATK : 150
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Priester-Klasse/Mönch-Klasse
+[TE Belagerungs-Gitarre]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Gift zu verursachen.
+Kategorie: Instrument  ATK : 100
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Nur Barde
+
+[TE Belagerungs-Rope]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Blindheit zu verursachen.
+Kategorie: Peitsche  ATK : 100
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Nur Tänzerin
+
+[TE Belagerungs-Messer]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Schweigen zu verursachen.
+Kategorie: Dolch  ATK : 100  MATK +100.
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40
+Tragbar von : Novize/Schwertkämpfer-Klasse/Magier-Klasse/Bogenschütze-Klasse/Händler-Klasse/Dieb-Klasse/Seelenverbinder/Ninja
+
+[TE Zweihand-Stab]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Magische Angriffskraft gegen Spieler +20%. Hohe Chance, bei magischen Angriffen Betäubung zu verursachen.
+Heilwirkung +5%.
+Kategorie: Zweihandstab  ATK : 50  MATK +130
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40
+Tragbar von : Novizen-Klasse/Magier-Klasse/Akolyth-Klasse/Seelenverbinder
+
+[TE Belagerungs-Pistole]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Fluch zu verursachen.
+Kategorie: Pistole  ATK : 60
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Revolverheld
+
+[TE Belagerungs-Gewehr]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Schweigen zu verursachen.
+Kategorie: Gewehr  ATK : 80
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Revolverheld
+
+[TE Belagerungs-Gatlinggun]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Betäubung zu verursachen.
+Kategorie: Gatlinggun  ATK : 100
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Revolverheld
+
+[TE Belagerungs-Schrotflinte]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Gift zu verursachen.
+Kategorie: Schrotflinte  ATK : 100
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Revolverheld
+
+[TE Belagerungs-Granatwerfer]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Blindheit zu verursachen.
+Kategorie: Granatwerfer  ATK : 100
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Revolverheld
+
+[TE Belagerungs-Huuma-Shuriken]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Blutung zu verursachen.
+Kategorie: Huuma-Shuriken  ATK : 80  MATK +100.
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Ninja
+
+[TE Belagerungs-Schwert]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Gift zu verursachen.
+Kategorie: Schwert  ATK : 120  MATK +100.
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Novize/Schwertkämpfer-Klasse/Händler-Klasse/Dieb-Klasse
+
+[TE Belagerungs-Streitkolben]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Einfrieren zu verursachen.
+Heilwirkung +5%.
+Kategorie: Streitkolben  ATK : 120
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40
+Tragbar von : Novize/Schwertkämpfer-Klasse/Akolyth-Klasse/Händler-Klasse
+
+[TE Belagerungs-Bogen]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Fluch zu verursachen.
+Kategorie: Bogen  ATK : 120
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von: Bogenschütze-Klasse/Dieb/Schurken-Klasse
+
+[TE Belagerungs-Zweihand-Schwert]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +40%. Hohe Chance, bei physischen Angriffen Blutung zu verursachen.
+Kategorie: Zweihand-Schwert  ATK : 150
+Gewicht : 0  Waffenstufe : 3  Benötigtes Level : 40  Tragbar von : Schwertkämpfer-Klasse
+
+
+
+
+
+
+
+[TE Belagerungs-Faustschild]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+MAXHP +100, MAXSP +100. Erlittener Schaden von Spielern -15%.
+Kategorie: Schild  DEF : 15  MDEF +15.
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Alle Klassen
+
+[TE Belagerungs-Schild]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+MAXHP +200. Erlittener Schaden von Spielern -20%.
+Kategorie: Schild  DEF : 25  MDEF +5.
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Schwertkämpfer-Klasse/Händler-Klasse
+
+[TE Belagerungs-Magieschild]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+MAXSP +200. Erlittener Schaden von Spielern -10%.
+Kategorie: Schild  DEF : 5  MDEF +25
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Novizen-Klasse/Magier-Klasse/Akolyth-Klasse/Seelenverbinder
+
+[TE Belagerungs-Schal]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische/Magische Angriffskraft gegen Spieler +5%. Resistenz gegen Einfrieren +25%.
+Kategorie: Überwurf  DEF : 5  MDEF +5.
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Alle Klassen
+
+[TE Belagerungs-Umhang]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische Angriffskraft gegen Spieler +10%. Resistenz gegen Einfrieren +25%.
+Kategorie: Überwurf  DEF : 10
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Schwertkämpfer-Klasse/Händler-Klasse
+
+[TE Belagerungs-Zauberumhang]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Magische Angriffskraft gegen Spieler +10%.
+Resistenz gegen Einfrieren +25%.
+Kategorie: Überwurf  DEF : 5  MDEF +5.
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Novizen-Klasse/Magier-Klasse/Akolyth-Klasse/Seelenverbinder
+
+[TE Ring des Schutzes]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+MAXHP +100. Erlittener Schaden von Spielern -5%.
+Kategorie: Accessoire  DEF : 0
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Alle Klassen
+
+[TE Zornig-Ring]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Physische/Magische Angriffskraft gegen Spieler +5%.
+Kategorie: Accessoire  DEF : 0
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Alle Klassen
+
+[TE Ring des Widerstands]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+Erlittener Schaden von Spielern -5%.
+Kategorie: Accessoire  DEF : 0  MDEF +5.
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Alle Klassen
+
+
+[TE Belagerungs-Schuhe]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+MAXHP +150, MAXSP +150. Physische/Magische Angriffskraft gegen Spieler +5%.
+Resistenz gegen Einfrieren +25%.
+Kategorie: Schuhe  DEF : 5  MDEF +5.  Gewicht : 0  Benötigtes Level : 40  Tragbar von : Alle Klassen
+
+[TE Belagerungs-Stiefel]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+MAXHP +200, MAXSP +100. Physische Angriffskraft gegen Spieler +10%.
+Resistenz gegen Einfrieren +25%.
+Kategorie: Stiefel  DEF : 10  Gewicht : 0  Benötigtes Level : 40  Tragbar von : Schwertkämpfer-Klasse/Händler-Klasse
+
+[TE Belagerungs-Magiesandalen]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+MAXHP +100, MAXSP +200. Magische Angriffskraft gegen Spieler +5%.
+Resistenz gegen Einfrieren +25%.
+Kategorie: Sandalen  DEF : 5  MDEF +5.
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Novizen-Klasse/Magier-Klasse/Akolyth-Klasse/Seelenverbinder
+
+[TE Belagerungs-Langmantel]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+MAXHP +250, MAXSP +250. Erlittener Schaden von Spielern -10%.
+Resistenz gegen Einfrieren +25%.
+Kategorie: Rüstung  DEF : 15  MDEF +15.  Gewicht : 0  Benötigtes Level : 40  Tragbar von : Alle Klassen
+
+[TE Belagerungs-Mail]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+MAXHP +450, MAXSP +50. Erlittener Schaden von Spielern -15%.
+Resistenz gegen Einfrieren +25%.
+Kategorie: Rüstung  DEF : 25  MDEF +5.
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Schwertkämpfer-Klasse/Händler-Klasse
+
+[TE Belagerungs-Magischer Mantel]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+MAXHP +200, MAXSP +300. Erlittener Schaden von Spielern -5%.
+Resistenz gegen Einfrieren +25%.
+Kategorie: Rüstung  DEF : 5  MDEF +25.
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Novizen-Klasse/Magier-Klasse/Akolyth-Klasse/Seelenverbinder
+[TE Belagerungs-Kappe]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+ATK +5, MATK +5. Physische/Magische Angriffskraft gegen Spieler +10%.
+Resistenz gegen Einfrieren +25%.
+Kategorie: Kopfbedeckung  DEF : 5  MDEF +5.  Position : Oben  Gewicht : 0  Benötigtes Level : 40  Tragbar von : Alle Klassen
+
+[TE Belagerungs-Knochenhelm]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+ATK +10. Physische Angriffskraft gegen Spieler +20%. Resistenz gegen Einfrieren +25%.
+Kategorie: Kopfbedeckung  DEF : 10  Position : Oben
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Novizen-Klasse
+
+[TE Belagerungs-Magische Augen]
+– Zusätzliche Optionen im TE-Belagerungsgebiet
+MATK +10. Magische Angriffskraft gegen Spieler +20%.
+Resistenz gegen Einfrieren +25%.
+Kategorie: Kopfbedeckung  DEF : 5  MDEF +5.  Position : Oben
+Gewicht : 0  Benötigtes Level : 40  Tragbar von : Novizen-Klasse/Magier-Klasse/Akolyth-Klasse/Seelenverbinder

@@ -1,0 +1,32 @@
+%faf0e6
+^000088Alchemy Basics for Manufacturing Hydrochloric Acid Bottles^000000
+
+
+----------------Foreword--------------------
+
+While researching the never-stopping heart, we discovered that under certain conditions,
+hydrogen chloride is generated.
+Using this, we record here the method for creating hydrochloric acid.
+Hydrochloric acid is a strong acidic solution due to its high degree of ionization.
+At times, it may become strong enough to dissolve stone, so please handle it with caution.
+
+------------------------------------------
+
+
+What is ^008040Hydrochloric Acid^000000?
+
+A solution made by dissolving hydrogen chloride (HCl) in water.
+When this solution is stored in a bottle, it becomes a hydrochloric acid bottle.
+
+
+
+Materials: ^4B00821 Never-Stopping Heart, 1 Empty Bottle^000000
+Manufacturing Method: Prepare a mortar.
+                    Place the never-stopping heart into the mortar, add a small amount of water, and heat it using a water bath.
+                    Maintain the water temperature at 72 degrees.
+                    Distill the gas generated at this time to obtain hydrogen chloride.
+                    Fill an empty bottle with water and allow the hydrogen chloride to dissolve into the water.
+                    When 100 hydrogen chloride molecules dissolve and equilibrium is reached,
+                    most of the molecules dissociate, creating a strong hydrochloric acid bottle.
+                    For easier manufacturing, carry this book, prepare the materials,
+                    and use Pharmacy, the basic skill of alchemy.

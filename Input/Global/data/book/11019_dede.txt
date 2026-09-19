@@ -1,0 +1,24 @@
+%f5f5dc
+^000088Manuk-Verkaufsartikel^000000
+
+Die folgenden Gegenstände können mit Manuk-Münzen erworben werden.
+
+^008040[Manuks Tatkraft]^000000
+Ein im Manuk-Forschungslabor hergestelltes Stärkungsmittel, das Bergarbeitern offiziell empfohlen wird.
+Erhöht 10 Minuten lang den physischen Schaden gegen Monster in den Feldgebieten von Manuk um 10%.
+^000088(Nepenthes, Hillslion, Centipede, Centipede-Larve, Hillslion, Tatacho, Hardrock Mammoth)^000000
+Gewicht: ^7777775^000000
+
+
+^008040[Manuks Wille]^000000
+Ein im Manuk-Forschungslabor hergestelltes Nahrungsergänzungsmittel, das Bergarbeitern offiziell empfohlen wird.
+Verringert 10 Minuten lang physischen und magischen Schaden durch Monster in den Feldgebieten von Manuk um 10%.
+^000088(Nepenthes, Hillslion, Centipede, Centipede-Larve, Hillslion, Tatacho, Hardrock Mammoth)^000000
+Gewicht: ^7777775^000000
+
+
+^008040[Manuks Überzeugung]^000000
+Ein im Manuk-Forschungslabor hergestelltes Stärkungsmittel, das Bergarbeitern offiziell empfohlen wird.
+Erhöht 10 Minuten lang den magischen Schaden gegen Monster in den Feldgebieten von Manuk um 10%.
+^000088(Nepenthes, Centipede, Centipede-Larve, Hillslion, Tatacho, Hardrock Mammoth)^000000
+Gewicht: ^7777775^000000

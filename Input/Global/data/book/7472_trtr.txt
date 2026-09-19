@@ -1,0 +1,45 @@
+%faf0e6
+^000088-Yalnız kalsan da panik yapma. Bunu yanında bulundurursan her yerde hayatta kalırsın.-^000000
+
+Sen de yapabilirsin! Sv. 1 yemek!
+
+^FF0000Sote Çekirge :^000000 Merak etme; zaten sotelenmiş, ağzında zıplamaz.
+Malzemeler : ^4B0082Çekirgenin Arka Bacağı 1, Yemeklik Yağ 1^000000
+Yöntem : Tavayı orta ateşte ısıt.
+(Yeni tavada yağın yüzeye işlemesi zaman alabilir; bu yüzden bazıları
+Savage’ın yağlı kısmı gibi bir parçayla yağı tavaya yedirir.)
+Tava ısınınca 2 yemek kaşığı Yemeklik Yağ ekle, 1 arka bacağı koyup hafifçe kavur.
+Hafifçe kızarınca kalan 1 arka bacağı ekle, 1 yemek kaşığı daha Yemeklik Yağ ilave et
+
+ve çıtır olana kadar kavur.
+^0000FFÜzüm Sulu Ot Çayı :^000000 İksire üzüm ez; tamamdır!
+Malzemeler : ^4B0082Üzüm 1, Kırmızı İksir 1^000000
+Yöntem : Blender’a üzüm ve 1 porsiyon Kırmızı İksir koyup çekerek suyu çıkar.
+Püf noktası: kabuğu ve çekirdeğiyle birlikte çekmek!
+
+
+
+Kıvam alınca kalan 1 porsiyonu ekle, 10 saniye daha karıştır.
+^800000Ballı Üzüm Suyu :^000000 Üzüme çilek eklersen tadı katlanır!
+Malzemeler : ^4B0082Çilek 1, Üzüm 1, Kırmızı Ot 1^000000
+Yöntem : Üzüm Sulu Ot Çayı’yla neredeyse aynı yapılır;
+
+sondaki 1 porsiyon iksir yerine tatlı çilek eklemek püf noktasıdır!
+^008040Kurbağa Yumurtası Çorbası :^000000 Soslu çorba.
+Malzemeler : ^4B0082Tahıl 1, Kurbağa Yumurtası 1^000000
+Yöntem : Tahılı ince öğütüp hazır et; Kurbağa Yumurtası’nı buzlu suda beklet.
+(Buzlu suda bekletmenin sebebi, daha diri dokuyu korumaktır.)
+Uygun miktarda suya ince öğütülmüş tahıl ununu ekle, kısık ateşte ağır ağır kaynat.
+Koyulaşınca buzlu suda bekletilmiş Kurbağa Yumurtası’nı ekle.
+Hafifçe pişince sosu ekle, bir taşım kaynatıp servis et.
+
+^FF8040Buharda Yengeç Kıskaç :^000000 Ayıklaması ayrı keyif!
+Malzemeler : ^4B0082Kıskaç 1, Yeşil Ot 1, Kırmızı İksir 1^000000
+Yöntem : Kıskaç’ı bir gün önceden Kırmızı İksir’de beklet.
+
+Buharlı tencereye bez ser, üstüne Yeşil Ot ser; ardından kıskaçı koyup buharda pişir.
+^400080Maymun Kuyruğu Kavurması :^000000 Sert gibi görünür, ama değil.
+Malzemeler : ^4B0082Maymun Kuyruğu 1, Yemeklik Yağ 1^000000
+Yöntem : Maymun Kuyruğu’nu soy, lokmalık doğra.
+Tavayı orta ateşte ısıt, Yemeklik Yağ ekle, uygun miktarda kavur.
+Tek seferde çok kavurursan et sertleşir; az az kavur.

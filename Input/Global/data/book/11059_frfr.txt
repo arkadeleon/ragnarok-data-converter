@@ -1,0 +1,265 @@
+^4D4DFF Liste des objets de location réservés à TE ^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Tous les équipements de location de TE sont des objets ne pouvant pas être échangés avec d’autres comptes.
+Tous les équipements de location de TE sont automatiquement supprimés de l’inventaire à la fin de la durée de location.
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+[TE Siège Katar]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Saignement.
+Catégorie : Katar Attaque : 120
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Série Assassin
+
+[TE Siège Hache]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Gel.
+Catégorie : Hache à une main Attaque : 100
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Classe de Novice/Classe d'Épéiste/Classe de Marchand/Classe de Voleur
+
+[TE Siège Hache à deux mains]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Étourdissement.
+Catégorie : Hache à deux mains Attaque : 150
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Classe d'Épéiste/Classe de Marchand
+
+[TE Siège Pique]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Malédiction.
+Catégorie : Lance à une main Attaque : 100
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Classe d'Épéiste
+
+[TE Siège Lance]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Cécité.
+Catégorie : Lance à deux mains Attaque : 150
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Classe d'Épéiste
+
+
+[TE Siège Livre]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Augmente l’attaque magique de 5%.
+Lors d’une attaque physique, a une forte chance d’infliger Cécité.
+Quantité de soins + 5%.
+Catégorie : Livre Attaque : 120
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Classe de Prêtre/Classe de Sage/Autorité
+
+[TE Siège Bâton]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque magique du joueur de 10%. Lors d’une attaque magique, a une forte chance d’infliger Cécité.
+Quantité de soins + 5%.
+Catégorie : Bâton à une main Attaque : 50 Poids : 0
+Niveau d’arme : 3 Niveau requis : 40 Équipable : Classe de Novice/Classe de Magicien/Classe d'Acolyte/Soul Linker
+
+[TE Siège Poing]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Gel.
+Catégorie : Poing Attaque : 150 Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Classe de Prêtre/Classe de Moine
+[TE Siège Instrument]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’empoisonner.
+Catégorie : Instrument Attaque : 100
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Réservé à Barde
+
+[TE Siège Fouet]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Cécité.
+Catégorie : Fouet Attaque : 100
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Réservé à Danseuse
+
+[TE Siège Couteau]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Silence.
+Catégorie : Couteau Attaque : 100 ATQ.M + 100.
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40
+Équipable : Classe de Novice/Classe d'Épéiste/Classe de Magicien/Classe d'Archer/Classe de Marchand/Classe de Voleur/Soul Linker/Ninja
+
+[TE Bâton à deux mains]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque magique du joueur de 20%. Lors d’une attaque magique, a une forte chance d’infliger Étourdissement.
+Quantité de soins + 5%.
+Catégorie : Bâton à deux mains Attaque : 50 ATQ.M + 130
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40
+Équipable : Classe de Novice/Classe de Magicien/Classe d'Acolyte/Soul Linker
+
+[TE Siège Fusil]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Malédiction.
+Catégorie : Fusil Attaque : 60
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Gunslinger
+
+[TE Siège Fusil de précision]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Silence.
+Catégorie : Fusil de précision Attaque : 80
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Gunslinger
+
+[TE Siège Gatling]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Étourdissement.
+Catégorie : Gatling Attaque : 100
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Gunslinger
+
+[TE Siège Shotgun]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’empoisonner.
+Catégorie : Shotgun Attaque : 100
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Gunslinger
+
+[TE Siège Lance-grenades]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Cécité.
+Catégorie : Lance-grenades Attaque : 100
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Gunslinger
+
+[TE Siège Épée de réparateur de Fûma]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Saignement.
+Catégorie : Épée de réparateur de Fûma Attaque : 80 ATQ.M + 100.
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Ninja
+
+[TE Siège Épée]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’empoisonner.
+Catégorie : Épée Attaque : 120 ATQ.MMMM + 100.
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Classe de Novice/Classe d'Épéiste/Classe de Marchand/Classe de Voleur
+
+[TE Siège Masse]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Gel.
+Quantité de soins + 5%.
+Catégorie : Masse Attaque : 120
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40
+Équipable : Classe de Novice/Classe d'Épéiste/Classe d'Acolyte/Classe de Marchand
+
+[TE Siège Arc]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Malédiction.
+Catégorie : Arc Attaque : 120
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Classe d'Archer/Voleur/Classe de Voleur
+
+[TE Siège Épée à deux mains]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 40%. Lors d’une attaque physique, a une forte chance d’infliger Saignement.
+Catégorie : Épée à deux mains Attaque : 150
+Poids : 0 Niveau d’arme : 3 Niveau requis : 40 Équipable : Classe d'Épéiste
+
+
+
+
+
+
+
+
+[TE Siège Rondache]
+※ Option supplémentaire de zone de siège TE
+MAXPV + 100, MAXPM + 100. Réduit de 15% les dégâts reçus des joueurs.
+Catégorie : Bouclier Défense : 15 DÉF.M + 15.
+Poids : 0 Niveau requis : 40 Équipable : Toutes les classes
+
+[TE Siège Bouclier]
+※ Option supplémentaire de zone de siège TE
+MAXPV + 200. Réduit de 20% les dégâts reçus des joueurs.
+Catégorie : Bouclier Défense : 25 DÉF.M + 5.
+Poids : 0 Niveau requis : 40 Équipable : Classe d'Épéiste/Classe de Marchand
+
+[TE Siège Garde magique]
+※ Option supplémentaire de zone de siège TE
+MAXPM + 200. Réduit de 10% les dégâts reçus des joueurs.
+Catégorie : Bouclier Défense : 5 DÉF.M + 25
+Poids : 0 Niveau requis : 40 Équipable : Classe de Novice/Classe de Magicien/Classe d'Acolyte/Soul Linker
+
+[TE Siège Écharpe]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique/magique du joueur de 5%. Augmente de 25% la Résistance au gel.
+Catégorie : Cape Défense : 5 DÉF.M + 5.
+Poids : 0 Niveau requis : 40 Équipable : Toutes les classes
+
+[TE Siège Cape]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique du joueur de 10%. Augmente de 25% la Résistance au gel.
+Catégorie : Cape Défense : 10
+Poids : 0 Niveau requis : 40 Équipable : Classe d'Épéiste/Classe de Marchand
+
+[TE Siège Cape magique]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque magique du joueur de 10%.
+Augmente de 25% la Résistance au gel.
+Catégorie : Cape Défense : 5 DÉF.M + 5.
+Poids : 0 Niveau requis : 40 Équipable : Classe de Novice/Classe de Magicien/Classe d'Acolyte/Soul Linker
+
+[TE Anneau de protection]
+※ Option supplémentaire de zone de siège TE
+MAXPV + 100. Réduit de 5% les dégâts reçus des joueurs.
+Catégorie : Accessoire Défense : 0
+Poids : 0 Niveau requis : 40 Équipable : Toutes les classes
+
+[TE Anneau Enragé]
+※ Option supplémentaire de zone de siège TE
+Augmente l’attaque physique/magique du joueur de 5%.
+Catégorie : Accessoire Défense : 0
+Poids : 0 Niveau requis : 40 Équipable : Toutes les classes
+
+[TE Anneau de résistance]
+※ Option supplémentaire de zone de siège TE
+Réduit de 5% les dégâts reçus des joueurs.
+Catégorie : Accessoire Défense : 0 DÉF.M + 5.
+Poids : 0 Niveau requis : 40 Équipable : Toutes les classes
+
+
+[TE Siège Chaussures]
+※ Option supplémentaire de zone de siège TE
+MAXPV + 150, MAXPM + 150. Augmente l’attaque physique/magique du joueur de 5%.
+Augmente de 25% la Résistance au gel.
+Catégorie : Chaussures Défense : 5 DÉF.M + 5. Poids : 0 Niveau requis : 40 Équipable : Toutes les classes
+
+[TE Siège Bottes]
+※ Option supplémentaire de zone de siège TE
+MAXPV + 200, MAXPM + 100. Augmente l’attaque physique du joueur de 10%.
+Augmente de 25% la Résistance au gel.
+Catégorie : Chaussures Défense : 10 Poids : 0 Niveau requis : 40 Équipable : Classe d'Épéiste/Classe de Marchand
+
+[TE Siège Sandales magiques]
+※ Option supplémentaire de zone de siège TE
+MAXPV + 100, MAXPM + 200. Augmente l’attaque magique du joueur de 5%.
+Augmente de 25% la Résistance au gel.
+Catégorie : Chaussures Défense : 5 DÉF.M + 5.
+Poids : 0 Niveau requis : 40 Équipable : Classe de Novice/Classe de Magicien/Classe d'Acolyte/Soul Linker
+
+[TE Siège Long coat]
+※ Option supplémentaire de zone de siège TE
+MAXPV + 250, MAXPM + 250. Réduit de 10% les dégâts reçus des joueurs.
+Augmente de 25% la Résistance au gel.
+Catégorie : Armure Défense : 15 DÉF.M + 15. Poids : 0 Niveau requis : 40 Équipable : Toutes les classes
+
+[TE Siège Mail]
+※ Option supplémentaire de zone de siège TE
+MAXPV + 450, MAXPM + 50. Réduit de 15% les dégâts reçus des joueurs.
+Augmente de 25% la Résistance au gel.
+Catégorie : Armure Défense : 25 DÉF.M + 5.
+Poids : 0 Niveau requis : 40 Équipable : Classe d'Épéiste/Classe de Marchand
+
+[TE Siège Manteau magique]
+※ Option supplémentaire de zone de siège TE
+MAXPV + 200, MAXPM + 300. Réduit de 5% les dégâts reçus des joueurs.
+Augmente de 25% la Résistance au gel.
+Catégorie : Armure Défense : 5 DÉF.M + 25.
+Poids : 0 Niveau requis : 40 Équipable : Classe de Novice/Classe de Magicien/Classe d'Acolyte/Soul Linker
+[TE Siège Casquette]
+※ Option supplémentaire de zone de siège TE
+ATQ + 5, ATQ.M + 5. Augmente l’attaque physique/magique du joueur de 10%.
+Augmente de 25% la Résistance au gel.
+Catégorie : Coiffe Défense : 5 DÉF.M + 5. Position : Haut Poids : 0 Niveau requis : 40 Équipable : Toutes les classes
+
+[TE Siège Heaume d'os]
+※ Option supplémentaire de zone de siège TE
+ATQ + 10. Augmente l’attaque physique du joueur de 20%. Augmente de 25% la Résistance au gel.
+Catégorie : Coiffe Défense : 10 Position : Haut
+Poids : 0 Niveau requis : 40 Équipable : Classe de Novice
+
+[TE Siège Magic Eyes]
+※ Option supplémentaire de zone de siège TE
+ATQ.M + 10. Augmente l’attaque magique du joueur de 20%.
+Augmente de 25% la Résistance au gel.
+Catégorie : Coiffe Défense : 5 DÉF.M + 5. Position : Haut
+Poids : 0 Niveau requis : 40 Équipable : Classe de Novice/Classe de Magicien/Classe d'Acolyte/Soul Linker

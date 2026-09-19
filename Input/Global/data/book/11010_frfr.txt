@@ -1,0 +1,182 @@
+%f5f5dc
+^000088Objets de récompense !!^000000
+
+Les objets que vous pouvez recevoir en récompense diffèrent selon chaque camp,
+L’insigne que vous pouvez obtenir lors du combat de Tierra est l’Insigne de Bravoure(-A)
+L’insigne que vous pouvez obtenir lors du combat de Flavius est l’Insigne d’Assaut(-B)
+Entre parenthèses figurent le type d’insigne et la quantité requise.
+S’il n’y a pas d’indication de type d’insigne, vous pouvez l’obtenir avec le même type d’insigne.
+
+^FF0000[Dague]^000000
+^008040Damas de l’Assassin(Bravoure:100)^000000
+Dague spécialisée pour l’assassinat et le combat contre les humains.
+FOR + 1, AGI + 1, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 75% augmentés.
+Ignore la DÉF des Monstres de type Humanoïde à 20%.
+Ninja, Rogue, Rôdeur équipés : ATQ.M + 15% en plus
+Catégorie : ^777777Dague^000000   Attaque : ^777777120^000000   Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000   Niveau requis : ^77777780^000000
+Équipable : ^777777Classe de Novice/Classe d'Épéiste/Classe de Magicien/Classe d'Archer/Classe de Marchand/Classe de Voleur/Soul Linker/Ninja équipable^000000
+
+^008040Damas de l’Assassin(Assaut:100)^000000
+Dague spécialisée pour l’assassinat et le combat contre les humains.
+FOR + 1, AGI + 1, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 75% augmentés.
+Lors d’une attaque, a une chance d’activer l’éveil de l’arme, conférant l’effet de Lunettes d'infiltration pendant 6 secondes.
+Ninja, Rogue, Rôdeur équipés : ATQ.M + 15% en plus
+Catégorie : ^777777Dague^000000    Attaque : ^777777120^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Classe de Novice/Classe d'Épéiste/Classe de Magicien/Classe d'Archer/Classe de Marchand/Classe de Voleur/Soul Linker/Ninja équipable^000000
+
+^FF0000[Épée à une main]^000000
+^008040Lame du Gladiateur(Assaut:100)^000000
+Épée appréciée des gladiateurs, elle est très efficace en combat contre les humains.
+FOR + 1, DEX + 1, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 75% augmentés. Ignore la DÉF des Monstres de type Humanoïde à 20%.
+Catégorie : ^777777Épée à une main^000000      Attaque : ^777777115^000000   Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Classe de Novice/Classe d'Épéiste/Classe de Marchand/Classe de Voleur/Ninja équipable^000000
+
+^008040Lame du Gladiateur(Bravoure:100)^000000
+Épée appréciée des gladiateurs, elle est très efficace en combat contre les humains.
+FOR + 1, DEX + 1, ATQ.M + 10%, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 75% augmentés.
+Catégorie : ^777777Épée à une main^000000      Attaque : ^777777115^000000   Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Classe de Novice/Classe d'Épéiste/Classe de Marchand/Classe de Voleur/Ninja équipable^000000
+
+
+^FF0000[Lance à une main]^000000
+^008040Lance du Chef d’Assaut(Bravoure:100)^000000
+Lance à une main spécialement conçue pour la charge. Elle démontre un grand effet en combat contre les humains.
+FOR + 2, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 95% augmentés. Ignore la DÉF des Monstres de type Humanoïde à 20%.
+Croisé/Paladin équipés : V.ATQ 20% augmentée en plus.
+Catégorie : ^777777Lance^000000    Attaque : ^77777760^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Classe d'Épéiste uniquement^000000
+
+^FF0000[Bâton à une main]^000000
+^008040Bâton Magique du Warlock(Bravoure:100)^000000
+Bâton magique spécialement modifié pour les mages participant à la guerre. Il est dit qu’il est optimisé pour le combat contre les humains.
+ATQ.M + 15%, INT + 4, DEX + 3, Incassable
+Ignore 25% de la DÉF.M des Monstres de type Humanoïde. Lors d’une attaque magique, 5% de chance d’infliger l’Étourdissement.
+Catégorie : ^777777Bâton^000000  Attaque : ^77777770^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Classe de Magicien/Classe d'Acolyte/Soul Linker uniquement^000000
+
+
+^008040Bâton de Combat du Warlock(Assaut:100)^000000
+Bâton de combat spécialement modifié pour les mages participant à la guerre. Il est dit qu’il est optimisé pour le combat contre les humains.
+ATQ.M + 15%, INT + 3, DEX + 3, Incassable
+Dégâts magiques contre les Monstres de type Humanoïde 15% augmentés.
+Lors d’une attaque magique, 5% de chance d’infliger l’Étourdissement.
+Catégorie : ^777777Bâton^000000  Attaque : ^77777770^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Classe de Magicien/Classe d'Acolyte/Soul Linker uniquement^000000
+
+^008040Bâton de Grande Guérison(Bravoure:100)^000000
+Bâton créé à des fins de soin en combat. Il est très efficace même sur les blessures profondes.
+ATQ.M + 15%, Incassable
+L’Efficacité des soins de [Heal] et [Sanctuaire] augmente de 14%.
+Récupère 5 PM toutes les 10 secondes.
+Catégorie : ^777777Bâton^000000  Attaque : ^77777770^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Classe de Magicien/Classe d'Acolyte/Soul Linker uniquement^000000
+
+
+^008040Bâton de Guérison Rapide(Assaut:100)^000000
+Bâton créé à des fins de soin en combat. Il est optimisé pour produire un effet de soin rapide.
+ATQ.M + 15%, INT + 3, DEX + 2, Incassable
+Le Temps de recharge global diminue de 15%.
+Récupère 5 PM toutes les 10 secondes.
+Catégorie : ^777777Bâton^000000  Attaque : ^77777770^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Classe de Magicien/Classe d'Acolyte/Soul Linker uniquement^000000
+
+^FF0000[Masse]^000000
+^008040Morgenstern du Guerrier(Assaut:100)^000000
+Masse utilisée par les guerriers ; même en frappant une armure, l’impact se transmet, ce qui en fait une arme redoutable.
+Elle est optimisée pour le combat contre les humains.
+FOR + 1, DEX + 1, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 75% augmentés. Ignore la DÉF des Monstres de type Humanoïde à 20%.
+Catégorie : ^777777Masse^000000    Attaque : ^777777105^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Classe de Novice/Classe d'Épéiste/Classe de Marchand/Classe d'Acolyte équipable^000000
+
+^008040Morgenstern du Guerrier(Bravoure:100)^000000
+Masse utilisée par les guerriers ; même en frappant une armure, l’impact se transmet, ce qui en fait une arme redoutable.
+Elle est optimisée pour le combat contre les humains.
+FOR + 1, DEX + 1, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 75% augmentés.
+Lors d’une attaque, a une chance d’activer l’éveil de l’arme ; pendant 6 secondes, 50% de chance d’Étourdissement sur l’ennemi.
+Catégorie : ^777777Masse^000000    Attaque : ^777777105^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Classe de Novice/Classe d'Épéiste/Classe de Marchand/Classe d'Acolyte équipable^000000
+
+^FF0000 [Instrument]^000000
+^008040Guitare de Champ de Bataille(Assaut:100)^000000
+Guitare créée pour remonter le moral des alliés sur le champ de bataille. Elle peut aussi servir à attaquer les humains.
+DEX + 2, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 95% augmentés. Ignore la DÉF des Monstres de type Humanoïde à 20%.
+Catégorie : ^777777Instrument^000000  Attaque : ^77777750^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Barde uniquement^000000
+
+
+^008040Guitare de Champ de Bataille(Bravoure:100)^000000
+Guitare créée pour remonter le moral des alliés sur le champ de bataille. Elle peut aussi servir à attaquer les humains.
+DEX + 2, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 95% augmentés. Dégâts de Flèche de Vulcain 20% augmentés.
+Catégorie : ^777777Instrument^000000  Attaque : ^77777750^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Barde uniquement^000000
+
+
+^FF0000[Fouet]^000000
+^008040Battle Lariat(Assaut:100)^000000
+Fouet spécialisé pour le combat contre les humains ; si vous êtes correctement touché, il est assez puissant pour déchirer la chair.
+DEX + 2, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 95% augmentés. Ignore la DÉF des Monstres de type Humanoïde à 20%.
+Catégorie : ^777777Fouet^000000  Attaque : ^77777750^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Danseuse uniquement^000000
+
+
+^008040Battle Lariat(Bravoure:100)^000000
+Fouet spécialisé pour le combat contre les humains ; si vous êtes correctement touché, il est assez puissant pour déchirer la chair.
+DEX + 2, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 95% augmentés. Dégâts de Flèche de Vulcain 20% augmentés.
+Catégorie : ^777777Fouet^000000  Attaque : ^77777750^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Danseuse uniquement^000000
+
+
+^FF0000[Livre]^000000
+^008040L’Art de la Guerre(Bravoure:100)^000000
+Livre écrit par un stratège oriental, contenant l’essence de la stratégie.
+Il est dit qu’aujourd’hui encore, de nombreux soldats étudient ce livre.
+FOR + 2, INT + 1, ATQ.M + 15%, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 75% augmentés. Ignore la DÉF des Monstres de type Humanoïde à 20%.
+Catégorie : ^777777Livre^000000      Attaque : ^77777790^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Prêtre/Sage/Classe de Taekwon Master équipable^000000
+
+
+^008040L’Art de la Guerre(Assaut:100)^000000
+Livre écrit par un stratège oriental, contenant l’essence de la stratégie.
+Il est dit qu’aujourd’hui encore, de nombreux soldats étudient ce livre.
+FOR + 1, INT + 2, ATQ.M + 15%, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 75% augmentés. Ignore la DÉF.M des Monstres de type Humanoïde à 25%.
+Catégorie : ^777777Livre^000000      Attaque : ^77777790^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Prêtre/Sage/Maître Taekwon équipable^000000
+
+^FF0000[Poing américain]^000000
+^008040Poing de Bataille du Guerrier(Assaut:100)^000000
+Gants de combat utilisés par les moines sur le champ de bataille. En les portant, une force jaillit sans cesse ; il est dit qu’ils ne faiblissent pas même lors de longs combats. FOR + 2, AGI + 1, Incassable
+Dégâts physiques contre les Monstres de type Humanoïde 95% augmentés. Ignore la DÉF des Monstres de type Humanoïde à 20%.
+Lors d’une attaque physique, a une chance d’activer l’autospell « Zen ».
+Catégorie : ^777777Poing^000000  Attaque : ^77777730^000000    Poids : ^7777770^000000
+Niveau d'arme : ^7777773^000000     Niveau requis : ^77777780^000000
+Équipable : ^777777Prêtre/Moine équipable^000000

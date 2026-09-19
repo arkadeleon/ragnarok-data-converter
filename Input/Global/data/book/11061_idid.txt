@@ -1,0 +1,123 @@
+%f5f5dc
+^000088Item Penukaran Quartermaster Kastil Prontera - Consumables^000000
+
+^FF0000[City Map]^000000
+Peta yang memandu perjalananmu di dalam kota.
+Saat digunakan, mengaktifkan Increase Agility Lv.1.
+Perhatian! - Jika digunakan saat sedang melakukan casting, efek tidak akan aktif.
+Perhatian! - Mengonsumsi 15 HP. Jika HP tidak mencapai 15 atau lebih, efek tidak akan aktif dan City Map akan hilang. Harap berhati-hati.
+Berat : 1
+
+^FF0000[Shining Holy Water]^000000
+Mengurangi damage yang diterima di Ritual Room dan Pront Invasion Dungeon sebesar 10% selama 3 menit.
+Menyembuhkan Poison, Curse, dan Silence, serta memulihkan 1000 HP.
+Berat : 1.5
+
+^FF0000[Prison Key]^000000
+Gantungan kunci tua dan kotor dengan beberapa kunci yang terpasang.
+Memungkinkan perjalanan ke Dungeon Penjara Bawah Tanah Kastil Prontera.
+Berat : 1
+
+^FF0000[Prontera Badge]^000000
+Lencana yang menyimpan koordinat kota Prontera.
+Saat digunakan, akan memindahkanmu ke Prontera.
+Berat : 1
+
+
+^000088Item Penukaran Quartermaster Kastil Prontera - Armor Items^000000
+
+^FF0000[City Map]^000000
+Peta yang memandu perjalananmu di dalam kota.
+Memungkinkan penggunaan Increase Agility Lv.3.
+Type: Accessory
+DEF: 0
+Berat : 10
+Required Level: 40
+Equip: All Jobs
+Slot: 1
+
+^FF0000[Shining Holy Water]^000000
+Mengurangi damage yang diterima di Ritual Room dan Pront Invasion Dungeon sebesar 20%.
+Memulihkan 100 HP dan 5 SP setiap 10 detik.
+Type: Accessory  DEF: 0
+Berat : 15
+Required Level: 100
+Equip: All Jobs
+Slot: 1
+
+^FF0000[Royal Guard Shield]^000000
+Perisai milik para ksatria penjaga kerajaan.
+Memungkinkan penggunaan 'Shield Spell' Lv.1.
+Saat menerima serangan fisik jarak dekat, memiliki peluang untuk mengaktifkan 'Assumptio' Lv.3 pada diri sendiri.
+Peluang aktivasi 'Assumptio' Lv.3 meningkat sesuai tingkat refine.
+Setiap refine: DEF +10, MDEF +1.
+Type: Shield
+DEF: 30
+Berat : 300
+Required Level: 100
+Equip: All Jobs
+Slot: 1
+
+^FF0000[Prontera Badge]^000000
+Memungkinkan penggunaan skill 'Return to Prontera'.
+Setelah digunakan sekali, tidak dapat digunakan kembali selama 15 menit.
+Type: Accessory
+DEF: 0
+Berat : 10
+Required Level: 40
+Equip: All Jobs
+
+^FF0000[Flattery Robe]^000000
+Pakaian yang dikenakan oleh mereka yang tidak ragu menggunakan cara apa pun demi mencapai tujuan.
+Memungkinkan penggunaan Endure Lv.1.
+MATK +50
+Jika level pemakai 120 atau lebih, tambahan MATK +50.
+Jika level pemakai 140 atau lebih, tambahan MATK +50 lagi.
+
+Jika dipakai bersama Old Lord’s Cloak,
+MSP +10%, dan MSP +1% setiap refine armor.
+FLEE +10, dan FLEE +1 setiap refine armor.
+Jika dipakai bersama Cloak of Survival,
+MHP +10%, dan MHP +1% setiap refine armor.
+MATK +2%, dan MATK +1% setiap refine armor.
+Type: Armor
+DEF: 0
+Berat : 10
+Required Level: 100
+Equip: All Jobs
+Slot: 1
+
+^FF0000[Rude Remark Robe]^000000
+Pakaian yang dikenakan oleh mereka yang mampu melontarkan kata-kata tajam yang bahkan melukai jiwa.
+Memungkinkan penggunaan Improve Concentration Lv.1.
+Setiap refine armor, tambahan mengabaikan 4% DEF fisik dari musuh Demi-Human, Demon, dan Undead.
+Jika dipakai bersama Moriane’s Cloak,
+Mengabaikan 15% DEF fisik dari musuh Demi-Human, Demon, dan Undead.
+LUK +3, dan LUK +1 setiap refine armor.
+CRI +10, dan CRI +1 setiap refine armor.
+Jika dipakai bersama Valkyrie’s Cloak,
+Mengabaikan 15% DEF fisik dari musuh Demi-Human, Demon, dan Undead.
+MHP +10%, dan MHP +1% setiap refine armor.
+ATK +2%, dan ATK +1% setiap refine armor.
+Type: Armor
+DEF: 0
+Berat : 10
+Required Level: 100
+Equip: All Jobs
+Slot: 1
+
+^FF0000[Costume Time Ornament]^000000
+Terasa seolah dirimu terperangkap dalam aliran waktu.
+Type: Costume
+DEF: 0
+Position: Middle
+Berat : 0
+Required Level: 1
+Equip: All Jobs
+
+^FF0000[Fate’s Black Hand]^000000
+Terasa seolah kepalamu sedang digenggam dan takdirmu sedang dipermainkan.
+Type: Costume  DEF: 0
+Position: Upper  Berat : 0
+Required Level: 1
+Equip: All Jobs

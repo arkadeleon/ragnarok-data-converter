@@ -1,0 +1,64 @@
+%faf0e6
+^000088Be Reborn as a True Chef. Challenge Yourself Toward a Spoonful of the Divine!^000000
+
+Not just anyone becomes a chef. But with this one book, you can be a chef too!
+
+
+^FF0000Lutie Auntie’s Pancake:^000000 Exactly the same taste as the masterful “hand flavor” of Lutie Auntie!!
+Materials: ^4B00821 Sweet Potato, 1 Honey, 1 Cooking Oil, 1 Carrot, 1 Grain^000000 
+Cooking Method: Boil the sweet potato and mash it finely, and julienne the carrot.
+          Make a thick batter by mixing finely ground grain flour with egg, mashed sweet potato, julienned carrot, and water.
+          Heat a frying pan, add an appropriate amount of batter, and fry until golden.
+
+^0000FFMastela Fruit Liquor:^000000 No drunken Peco herding! A lovely purple drink
+Materials: ^4B00821 Mastela Fruit, 1 Blue Potion, 1 Alcohol, 1 Lemon, 1 Yellow Spice^000000 
+Cooking Method: Use a squeezer (a tool for extracting fruit juice) to juice the Mastela fruit and the lemon separately.
+          Put 1 serving of alcohol and lemon juice into a blender and mix for 20 seconds,
+          then add the blue potion and 1 more serving of alcohol,
+          add Mastela juice, and mix for 5 seconds.
+          Pour the mixed Mastela liquor into a glass, sprinkle yellow spice on top,
+          and serve with half a sliced Mastela fruit.
+
+^800000Green Salad:^000000 A table full of greenery! Full of sweet dressing~
+Materials: ^4B00821 Hinare Leaf, 1 Aloe Leaf, 1 Sharp Leaf, 1 Large Leaf,
+        1 Sweet Sauce, 1 Yellow Spice^000000 
+Cooking Method: Pluck Hinare leaves one by one, shred them, soak in cold water, then drain.
+          Trim the sharp leaf to only the tender inner stem, cut into 5 cm lengths,
+          shred, soak in cold water, then drain.
+          Choose a large leaf (radish) of a large size, slice it into rounds,
+          shred, soak in cold water, then drain.
+          Remove the thorns from the aloe leaf, split it, shred it, rinse in water, and drain.
+          Remove all moisture from all prepared vegetables.
+          Arrange the vegetables neatly side by side on a plate,
+          top with sweet sauce before serving, and lightly sprinkle yellow spice.
+
+^008040Bat Wing Pumpkin Steam:^000000 The bat wings won’t sprout and fly away from the pumpkin steam.
+Materials: ^4B00821 Red Bat Wing, 1 Pumpkin Head, 1 Pot, 1 Hinare Leaf, 1 Red Herb^000000 
+Cooking Method: Cut the bat wing into bite-sized pieces, trim and roughly chop the Hinare leaf,
+          and finely chop the red herb.
+          Add olive oil to a pan and stir-fry the bat wing, then add Hinare leaf and stir-fry a bit more.
+          When the bat wing is cooked appropriately, add shredded red herb and season with salt.
+          Split the pumpkin lengthwise, cut into 6 pieces, scrape out seeds and flesh,
+          top with the stir-fried wing, and steam in a steamer that has come up to steam for about 15 minutes.
+
+^FF8040Spicy Baked Dumplings:^000000 Crispy transparent dumpling skin!
+Materials: ^4B00821 Dumpling, 1 Yellow Herb, 1 Spicy Sauce, 1 Red Spice, 1 Green Herb^000000 
+Cooking Method: Cut the yellow and green herbs into pieces slightly larger than the dumpling.
+          Deep-fry the dumpling and drain the oil.
+          Lay green herb on a plate, place yellow herb and the dumpling on top, then drizzle spicy sauce.
+          Finish and serve with red spice.
+
+^400080Stir-Fried Scorpion:^000000 Do not judge the taste by appearance alone!
+Materials: ^4B00821 Scorpion Tail, 1 Short Leg, 1 Large Leaf, 1 Old Frying Pan, 1 Cooking Oil^000000 
+Cooking Method: Julienne the large leaf and set aside.
+          Heat a pan over medium heat, add 2 tablespoons of cooking oil,
+          then add the short leg and stir-fry.
+          In another pan, stir-fry the scorpion tail in the same way.
+          (Stir-fry separately so the flavors do not mix.)
+          When lightly golden, add the shredded leaf and stir-fry just until it wilts slightly.
+          Line a plate with the large leaf, place the stir-fried scorpion tail and short leg on top,
+          and serve with soy sauce or similar.
+
+^FF3366Level 5 Assorted Cuisine:^000000 The essence of Level 5 cooking
+Materials: ^4B00821 Lutie Auntie’s Pancake, 1 Mastela Fruit Liquor, 1 Green Salad, 1 Bat Wing Pumpkin Steam, 1 Spicy Baked Dumplings, 1 Stir-Fried Scorpion^000000 
+Cooking Method: Gather all Level 5 dishes and serve them neatly as one large full-course spread.

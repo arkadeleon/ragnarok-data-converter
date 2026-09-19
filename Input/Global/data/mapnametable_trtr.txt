@@ -1,0 +1,850 @@
+alb2trea.rsw#Alberta Adası#
+alb_ship.rsw#Alberta Gemisinin İçinde#
+alberta.rsw#Liman Şehri Alberta#
+alberta_in.rsw#Alberta'nın İçinde#
+alde_dun01.rsw#Saat Kulesi B1. Kat#
+alde_dun02.rsw#Saat Kulesi B2. Kat#
+alde_dun03.rsw#Saat Kulesi B3. Kat#
+alde_dun04.rsw#Saat Kulesi B4. Kat#
+alde_gld.rsw#Al De Baran'ın Uydu Şehri Luina#
+aldeba_in.rsw#Al De Baran İçerisi#
+aldebaran.rsw#Sınır Şehri Al De Baran#
+an_d01_a.rsw#Karınca Cehennemi 1F#
+an_d01_b.rsw#Karınca Cehennemi 1F#
+an_d01_c.rsw##
+an_d01_d.rsw##
+an_d01_y.rsw##
+an_d01_z.rsw#Karınca Cehennemi 1F#
+an_d02_a.rsw#Karınca Cehennemi 2F#
+an_d02_b.rsw#Karınca Cehennemi 2F#
+an_d02_c.rsw##
+an_d02_d.rsw##
+an_d02_y.rsw##
+an_d02_z.rsw#Karınca Cehennemi 2F#
+anthell01.rsw#Morroc Karınca Cehennemi 1F#
+anthell02.rsw#Morroc Karınca Cehennemi 2F#
+b_an_d02.rsw#Karınca Cehennemi 2F#
+b_an_d02_z.rsw#Karınca Cehennemi 2F#
+b_bea_d01.rsw#Batı Mağarası Karu#
+b_bea_d01_z.rsw#Batı Mağarası Karu#
+b_gef_d01.rsw#Geffen Zindanı B2F#
+b_gef_d01_z.rsw#Geffen Zindanı B2F#
+b_gef_d02.rsw#Geffen Zindanı B3F#
+b_gef_d02_z.rsw#Geffen Zindanı B3F#
+b_gef_f03.rsw#Geffen Alanı#
+b_gef_f03_z.rsw#Geffen Alanı#
+b_gef_f10.rsw#Ork Köyü#
+b_gef_f10_z.rsw#Ork Köyü#
+b_gl_chy.rsw#Katakomplar#
+b_gl_chy_z.rsw#Katakomplar#
+b_maz_d03.rsw#Prontera Labirent Ormanı 3F#
+b_maz_d03_z.rsw#Prontera Labirent Ormanı 3F#
+b_moc_f17.rsw#Sograt Çölü#
+b_moc_f17_z.rsw#Sograt Çölü#
+b_pay_d04.rsw#Payon Mağarası 5F (Terkedilmiş Köy)#
+b_pay_d04_z.rsw#Payon Mağarası 5F (Terkedilmiş Köy)#
+b_pay_f10.rsw#Payon Ormanı#
+b_pay_f10_z.rsw#Payon Ormanı#
+b_prt_d04.rsw#Prontera Kanalizasyonu 4F#
+b_prt_d04_z.rsw#Prontera Kanalizasyonu 4F#
+b_pry_d04.rsw#Piramit 4F#
+b_pry_d04_z.rsw#Piramit 4F#
+b_pry_d06.rsw#Piramit B2F#
+b_pry_d06_z.rsw#Piramit B2F#
+b_sp_d05.rsw#Morroc Sfenks B5F#
+b_sp_d05_z.rsw#Morroc Sfenks B5F#
+b_tre_d02.rsw#Batık Gemi 2F#
+b_tre_d02_z.rsw#Batık Gemi 2F#
+bea_d01_a.rsw#Batı Mağarası Karu#
+bea_d01_b.rsw#Batı Mağarası Karu#
+bea_d01_z.rsw#Batı Mağarası Karu#
+bea_d02_a.rsw#Kuzey Mağarası Luanda#
+bea_d02_b.rsw#Kuzey Mağarası Luanda#
+bea_d02_z.rsw#Kuzey Mağarası Luanda#
+bea_d03_a.rsw#Doğu Mağarası Mao#
+bea_d03_b.rsw#Doğu Mağarası Mao#
+bea_d03_c.rsw##
+bea_d03_d.rsw##
+bea_d03_y.rsw##
+bea_d03_z.rsw#Doğu Mağarası Mao#
+beach_dun.rsw#Comodo Batı Mağarası: Karu#
+beach_dun2.rsw#Comodo Kuzey Mağarası: Luanda#
+beach_dun3.rsw#Comodo Doğu Mağarası: Mao#
+c_tower1.rsw#Saat Kulesi 1F#
+c_tower2.rsw#Saat Kulesi 2F#
+c_tower3.rsw#Saat Kulesi 3. Kat#
+c_tower4.rsw#Saat Kulesi 4. Kat#
+cmd_f01_a.rsw##
+cmd_f01_b.rsw##
+cmd_f01_c.rsw##
+cmd_f01_d.rsw##
+cmd_f01_y.rsw##
+cmd_f01_z.rsw##
+cmd_f02_a.rsw#Kokomo Plajı#
+cmd_f02_b.rsw#Kokomo Plajı#
+cmd_f02_c.rsw##
+cmd_f02_d.rsw##
+cmd_f02_y.rsw##
+cmd_f02_z.rsw#Kokomo Plajı#
+cmd_f03_a.rsw##
+cmd_f03_b.rsw##
+cmd_f03_c.rsw##
+cmd_f03_d.rsw##
+cmd_f03_y.rsw##
+cmd_f03_z.rsw##
+cmd_f04_a.rsw##
+cmd_f04_b.rsw##
+cmd_f04_c.rsw##
+cmd_f04_d.rsw##
+cmd_f04_y.rsw##
+cmd_f04_z.rsw##
+cmd_f06_a.rsw##
+cmd_f06_b.rsw##
+cmd_f06_c.rsw##
+cmd_f06_d.rsw##
+cmd_f06_y.rsw##
+cmd_f06_z.rsw##
+cmd_f07_a.rsw##
+cmd_f07_b.rsw##
+cmd_f07_c.rsw##
+cmd_f07_d.rsw##
+cmd_f07_y.rsw##
+cmd_f07_z.rsw##
+cmd_f08_a.rsw##
+cmd_f08_b.rsw##
+cmd_f08_c.rsw##
+cmd_f08_d.rsw##
+cmd_f08_y.rsw##
+cmd_f08_z.rsw##
+cmd_f09_a.rsw##
+cmd_f09_b.rsw##
+cmd_f09_c.rsw##
+cmd_f09_d.rsw##
+cmd_f09_y.rsw##
+cmd_f09_z.rsw##
+cmd_fild01.rsw#Comodo Papuchicha Ormanı#
+cmd_fild02.rsw#Comodo Kokomo Plajı#
+cmd_fild03.rsw#Zenhai Bataklığı#
+cmd_fild04.rsw#Comodo Kokomo Plajı#
+cmd_fild06.rsw#Aziz Darmain Kalesi, Batı Tarafı#
+cmd_fild07.rsw#Pharos Feneri#
+cmd_fild08.rsw#Aziz Darmain Kalesi, Doğu Tarafı#
+cmd_fild09.rsw#Aziz Darmain Kalesi, Güney Tarafı#
+cmd_in01.rsw#Comodo'nun İçi#
+cmd_in02.rsw#Comodo'nun İçi#
+comodo.rsw#Plaj Kasabası Comodo#
+gef_d00_a.rsw#Geffen Zindanı B1F#
+gef_d00_b.rsw#Geffen Zindanı B1F#
+gef_d00_z.rsw#Geffen Zindanı B1F#
+gef_d01_a.rsw#Geffen Zindanı B2F#
+gef_d01_b.rsw#Geffen Zindanı B2F#
+gef_d01_z.rsw#Geffen Zindanı B2F#
+gef_d02_a.rsw#Geffen Zindanı B3F#
+gef_d02_b.rsw#Geffen Zindanı B3F#
+gef_d02_z.rsw#Geffen Zindanı B3F#
+gef_dun00.rsw#Geffen Zindanı B1F#
+gef_dun01.rsw#Geffen Zindanı B2F#
+gef_dun02.rsw#Geffen Zindanı B3F#
+gef_f00_a.rsw##
+gef_f00_b.rsw##
+gef_f00_c.rsw##
+gef_f00_d.rsw##
+gef_f00_y.rsw##
+gef_f00_z.rsw##
+gef_f01_a.rsw##
+gef_f01_b.rsw##
+gef_f01_c.rsw##
+gef_f01_d.rsw##
+gef_f01_y.rsw##
+gef_f01_z.rsw##
+gef_f02_a.rsw##
+gef_f02_b.rsw##
+gef_f02_c.rsw##
+gef_f02_d.rsw##
+gef_f02_y.rsw##
+gef_f02_z.rsw##
+gef_f03_a.rsw##
+gef_f03_b.rsw##
+gef_f03_c.rsw##
+gef_f03_d.rsw##
+gef_f03_y.rsw##
+gef_f03_z.rsw##
+gef_f04_a.rsw#Geffen Alanı#
+gef_f04_b.rsw#Geffen Alanı#
+gef_f04_c.rsw##
+gef_f04_d.rsw##
+gef_f04_y.rsw##
+gef_f04_z.rsw#Geffen Alanı#
+gef_f05_a.rsw#Çingene Köyü#
+gef_f05_b.rsw#Çingene Köyü#
+gef_f05_c.rsw##
+gef_f05_d.rsw##
+gef_f05_y.rsw##
+gef_f05_z.rsw#Çingene Köyü#
+gef_f06_a.rsw##
+gef_f06_b.rsw##
+gef_f06_c.rsw##
+gef_f06_d.rsw##
+gef_f06_y.rsw##
+gef_f06_z.rsw##
+gef_f07_a.rsw##
+gef_f07_b.rsw##
+gef_f07_c.rsw##
+gef_f07_d.rsw##
+gef_f07_y.rsw##
+gef_f07_z.rsw##
+gef_f08_a.rsw##
+gef_f08_b.rsw##
+gef_f08_c.rsw##
+gef_f08_d.rsw##
+gef_f08_y.rsw##
+gef_f08_z.rsw##
+gef_f09_a.rsw##
+gef_f09_b.rsw##
+gef_f09_c.rsw##
+gef_f09_d.rsw##
+gef_f09_y.rsw##
+gef_f09_z.rsw##
+gef_f10_a.rsw#Ork Köyü#
+gef_f10_b.rsw#Ork Köyü#
+gef_f10_c.rsw##
+gef_f10_d.rsw##
+gef_f10_y.rsw##
+gef_f10_z.rsw#Aziz Darmain Kalesi, Güney Tarafı#
+gef_f11_a.rsw#Comodo'nun İçi#
+gef_f11_b.rsw#Comodo'nun İçi#
+gef_f11_c.rsw##
+gef_f11_d.rsw##
+gef_f11_y.rsw##
+gef_f11_z.rsw#Plaj Kasabası Comodo#
+gef_f12_a.rsw#Geffen Zindanı B1F#
+gef_f12_b.rsw#Geffen Zindanı B1F#
+gef_f18_a.rsw#Geffen Zindanı B1F#
+gef_f18_b.rsw#Geffen Zindanı B2F#
+gef_fild00.rsw#Geffen Zindanı B2F#
+gef_fild01.rsw#Geffen Zindanı B2F#
+gef_fild02.rsw#Geffen Zindanı B3F#
+gef_fild03.rsw#Geffen Zindanı B3F#
+gef_fild04.rsw#Geffen Zindanı B3F#
+gef_fild05.rsw#Geffen Zindanı B1F#
+gef_fild06.rsw#Geffen Zindanı B2F#
+gef_fild07.rsw#Geffen Zindanı B3F#
+gef_fild08.rsw#Geffen Alanı#
+gef_fild09.rsw#Geffen Alanı#
+gef_fild10.rsw#Geffen Alanı#
+gef_fild11.rsw#Çingene Köyü#
+gef_fild13.rsw#Çingene Köyü#
+gef_tower.rsw#Çingene Köyü#
+geffen.rsw#Ork Köyü#
+geffen_in.rsw#Ork Köyü#
+gl_c01_a.rsw#Glast Heim Kalesi 1. Kat#
+gl_c01_b.rsw#Glast Heim Kalesi 1. Kat#
+gl_c01_z.rsw#Glast Heim Kalesi 1. Kat#
+gl_c02_a.rsw#Glast Heim Kalesi 2. Kat#
+gl_c02_b.rsw#Glast Heim Kalesi 2. Kat#
+gl_c02_z.rsw#Glast Heim Kalesi 2. Kat#
+gl_cas01.rsw#Glast Heim Kalesi 1. Kat#
+gl_cas02.rsw#Glast Heim Kalesi 2. Kat#
+gl_chu_a.rsw#Manastır#
+gl_chu_b.rsw#Manastır#
+gl_chu_z.rsw#Manastır#
+gl_church.rsw#Manastır#
+gl_chy_a.rsw#Katakomplar#
+gl_chy_b.rsw#Katakomplar#
+gl_chy_z.rsw#Katakomplar#
+gl_chyard.rsw#Katakomplar#
+gl_d02_a.rsw#Yeraltı Mağarası 2F#
+gl_d02_b.rsw#Yeraltı Mağarası 2F#
+gl_d02_z.rsw#Yeraltı Mağarası 2F#
+gl_dun01.rsw#Yeraltı Mağarası 1F#
+gl_dun02.rsw#Yeraltı Mağarası 2F#
+gl_in01.rsw#Glast Heim İçerisi#
+gl_k01_a.rsw#Şövalyeler Salonu 1F#
+gl_k01_b.rsw#Şövalyeler Salonu 1F#
+gl_k01_z.rsw#Şövalyeler Salonu 1F#
+gl_knt01.rsw#Şövalyeler Salonu 1F#
+gl_knt02.rsw#Şövalyeler Salonu 2F#
+gl_pri_a.rsw#Yeraltı Hapishanesi 1F#
+gl_pri_b.rsw#Yeraltı Hapishanesi 1F#
+gl_pri_z.rsw#Yeraltı Hapishanesi 1F#
+gl_prison.rsw#Yeraltı Hapishanesi 1F#
+gl_prison1.rsw#Yeraltı Hapishanesi 2F#
+gl_sew01.rsw#Lağım Tüneli 1F#
+gl_sew02.rsw#Lağım Tüneli 2F#
+gl_sew03.rsw#Lağım Tüneli 3F#
+gl_sew04.rsw#Lağım Tüneli 4F#
+gl_step.rsw#Merdiven Zindanı#
+glast_01.rsw#Glast Heim#
+gld_dun01.rsw#Greenwood Gölü Zindanı 1F#
+gld_dun01_2.rsw#Greenwood Gölü Zindanı 2F#
+gld_dun02.rsw#Luina Zindanı 1F#
+gld_dun02_2.rsw#Luina Zindanı 2F#
+gld_dun03.rsw#Valkyrie Diyarı Zindanı 1F#
+gld_dun03_2.rsw#Valkyrie Diyarı Zindanı 2F#
+gld_dun04.rsw#Britoniah Zindanı 1F#
+gld_dun04_2.rsw#Britoniah Zindanı 2F#
+in_orcs01.rsw#Ork Köyünün İçinde#
+in_sphinx1.rsw#Morroc Sfenks B1F#
+in_sphinx2.rsw#Morroc Sfenks B2F#
+in_sphinx3.rsw#Morroc Sfenks B3F#
+in_sphinx4.rsw#Morroc Sfenks B4F#
+in_sphinx5.rsw#Morroc Sfenks B5F#
+itemmall.rsw#Eşya Dükkanı#
+iz_ac01.rsw#Akademi 1. Kat#
+iz_ac02.rsw#Akademi 2. Kat#
+iz_d00_a.rsw#Denizaltı Mağarası 1F#
+iz_d00_b.rsw#Denizaltı Mağarası 1F#
+iz_d00_c.rsw##
+iz_d00_d.rsw##
+iz_d00_y.rsw##
+iz_d00_z.rsw#Denizaltı Mağarası 1F#
+iz_d01_a.rsw#Denizaltı Mağarası 2F#
+iz_d01_b.rsw#Denizaltı Mağarası 2F#
+iz_d01_c.rsw##
+iz_d01_d.rsw##
+iz_d01_y.rsw##
+iz_d01_z.rsw#Denizaltı Mağarası 2F#
+iz_d02_a.rsw#Denizaltı Mağarası 3F#
+iz_d02_b.rsw#Denizaltı Mağarası 3F#
+iz_d02_c.rsw##
+iz_d02_d.rsw##
+iz_d02_y.rsw##
+iz_d02_z.rsw#Denizaltı Mağarası 3F#
+iz_d03_a.rsw#Denizaltı Mağarası 4F#
+iz_d03_b.rsw#Denizaltı Mağarası 4F#
+iz_d03_z.rsw#Denizaltı Mağarası 4F#
+iz_d04_a.rsw#Denizaltı Mağarası 5F#
+iz_d04_b.rsw#Denizaltı Mağarası 5F#
+iz_d04_z.rsw#Denizaltı Mağarası 5F#
+iz_dun00.rsw#Izlude Denizaltı Tüneli 1F#
+iz_dun01.rsw#Izlude Denizaltı Tüneli 2F#
+iz_dun02.rsw#Izlude Denizaltı Tüneli 3F#
+iz_dun03.rsw#Izlude Denizaltı Tüneli 4F#
+iz_dun04.rsw#Izlude Denizaltı Tüneli 5F#
+izlu2dun.rsw#Byalan Adası#
+izlude.rsw#Izlude, Uydu Şehir#
+izlude_in.rsw#Izlude'nin İçinde#
+maz_d01_a.rsw#Labirent Ormanı 1F#
+maz_d01_b.rsw#Labirent Ormanı 1F#
+maz_d01_z.rsw#Labirent Ormanı 1F#
+maz_d03_a.rsw#Labirent Ormanı 3F#
+maz_d03_b.rsw#Labirent Ormanı 3F#
+maz_d03_z.rsw#Labirent Ormanı 3F#
+mjo_d01_a.rsw#Mjolnir Ölüm Çukuru 1F#
+mjo_d01_b.rsw#Mjolnir Ölüm Çukuru 1F#
+mjo_d01_z.rsw#Mjolnir Ölüm Çukuru 1F#
+mjo_d02_a.rsw#Mjolnir Ölüm Çukuru 2F#
+mjo_d02_b.rsw#Mjolnir Ölüm Çukuru 2F#
+mjo_d02_z.rsw#Mjolnir Ölüm Çukuru 2F#
+mjo_d03_a.rsw#Mjolnir Ölüm Çukuru 3F#
+mjo_d03_b.rsw#Mjolnir Ölüm Çukuru 3F#
+mjo_d03_z.rsw#Mjolnir Ölüm Çukuru 3F#
+mjo_dun01.rsw#Mjolnir Ölüm Çukuru 1F#
+mjo_dun02.rsw#Mjolnir Ölüm Çukuru 2F#
+mjo_dun03.rsw#Mjolnir Ölüm Çukuru 3F#
+mjo_f01_a.rsw##
+mjo_f01_b.rsw##
+mjo_f01_c.rsw##
+mjo_f01_d.rsw##
+mjo_f01_y.rsw##
+mjo_f01_z.rsw##
+mjo_f02_a.rsw##
+mjo_f02_b.rsw##
+mjo_f02_c.rsw##
+mjo_f02_d.rsw##
+mjo_f02_y.rsw##
+mjo_f02_z.rsw##
+mjo_f03_a.rsw##
+mjo_f03_b.rsw##
+mjo_f03_c.rsw##
+mjo_f03_d.rsw##
+mjo_f03_y.rsw##
+mjo_f03_z.rsw##
+mjo_f04_a.rsw##
+mjo_f04_b.rsw##
+mjo_f04_c.rsw##
+mjo_f04_d.rsw##
+mjo_f04_y.rsw##
+mjo_f04_z.rsw##
+mjo_f05_a.rsw##
+mjo_f05_b.rsw##
+mjo_f05_c.rsw##
+mjo_f05_d.rsw##
+mjo_f05_y.rsw##
+mjo_f05_z.rsw##
+mjo_f06_a.rsw##
+mjo_f06_b.rsw##
+mjo_f06_c.rsw##
+mjo_f06_d.rsw##
+mjo_f06_y.rsw##
+mjo_f06_z.rsw##
+mjo_f07_a.rsw##
+mjo_f07_b.rsw##
+mjo_f07_c.rsw##
+mjo_f07_d.rsw##
+mjo_f07_y.rsw##
+mjo_f07_z.rsw##
+mjo_f08_a.rsw##
+mjo_f08_b.rsw##
+mjo_f08_c.rsw##
+mjo_f08_d.rsw##
+mjo_f08_y.rsw##
+mjo_f08_z.rsw##
+mjo_f09_a.rsw##
+mjo_f09_b.rsw##
+mjo_f09_c.rsw##
+mjo_f09_d.rsw##
+mjo_f09_y.rsw##
+mjo_f09_z.rsw##
+mjo_f10_a.rsw##
+mjo_f10_b.rsw##
+mjo_f10_c.rsw##
+mjo_f10_d.rsw##
+mjo_f10_y.rsw##
+mjo_f10_z.rsw##
+mjo_f11_a.rsw##
+mjo_f11_b.rsw##
+mjo_f11_c.rsw##
+mjo_f11_d.rsw##
+mjo_f11_y.rsw##
+mjo_f11_z.rsw##
+mjo_f12_a.rsw##
+mjo_f12_b.rsw##
+mjo_f12_c.rsw##
+mjo_f12_d.rsw##
+mjo_f12_y.rsw##
+mjo_f12_z.rsw##
+mjolnir_01.rsw#Mt. Mjolnir Kuzey Yakası#
+mjolnir_02.rsw#Mt. Mjolnir Kuzey Yakası#
+mjolnir_03.rsw#Mt. Mjolnir Kuzey Yakası#
+mjolnir_04.rsw#Mt. Mjolnir Kuzey Yakası#
+mjolnir_05.rsw#Mt. Mjolnir Kuzey Yakası#
+mjolnir_06.rsw#Mt. Mjolnir Güney Tarafı#
+mjolnir_07.rsw#Mt. Mjolnir Güney Tarafı#
+mjolnir_08.rsw#Mt. Mjolnir Güney Tarafı#
+mjolnir_09.rsw#Mt. Mjolnir Güney Eteği#
+mjolnir_10.rsw#Mt. Mjolnir Güney Tarafı#
+mjolnir_11.rsw#Mt. Mjolnir Güney Tarafı#
+mjolnir_12.rsw#Mt. Mjolnir Kuzey Eteği#
+moc_f01_a.rsw##
+moc_f01_b.rsw##
+moc_f01_c.rsw##
+moc_f01_d.rsw##
+moc_f01_y.rsw##
+moc_f01_z.rsw##
+moc_f02_a.rsw##
+moc_f02_b.rsw##
+moc_f02_c.rsw##
+moc_f02_d.rsw##
+moc_f02_y.rsw##
+moc_f02_z.rsw##
+moc_f03_a.rsw##
+moc_f03_b.rsw##
+moc_f03_c.rsw##
+moc_f03_d.rsw##
+moc_f03_y.rsw##
+moc_f03_z.rsw##
+moc_f07_a.rsw##
+moc_f07_b.rsw##
+moc_f07_c.rsw##
+moc_f07_d.rsw##
+moc_f07_y.rsw##
+moc_f07_z.rsw##
+moc_f11_a.rsw##
+moc_f11_b.rsw##
+moc_f11_c.rsw##
+moc_f11_d.rsw##
+moc_f11_y.rsw##
+moc_f11_z.rsw##
+moc_f12_a.rsw##
+moc_f12_b.rsw##
+moc_f12_c.rsw##
+moc_f12_d.rsw##
+moc_f12_y.rsw##
+moc_f12_z.rsw#Sograt Çölü#
+moc_f13_a.rsw##
+moc_f13_b.rsw##
+moc_f13_c.rsw##
+moc_f13_d.rsw##
+moc_f13_y.rsw##
+moc_f13_z.rsw##
+moc_f16_a.rsw#Sograt Çölü#
+moc_f16_b.rsw#Sograt Çölü#
+moc_f16_c.rsw##
+moc_f16_d.rsw##
+moc_f16_y.rsw##
+moc_f16_z.rsw#Sograt Çölü#
+moc_f17_a.rsw##
+moc_f17_b.rsw##
+moc_f17_c.rsw##
+moc_f17_d.rsw##
+moc_f17_y.rsw##
+moc_f17_z.rsw##
+moc_f18_a.rsw##
+moc_f18_b.rsw##
+moc_f18_c.rsw##
+moc_f18_d.rsw##
+moc_f18_y.rsw##
+moc_f18_z.rsw#Sograt Çölü#
+moc_fild01.rsw#Sograt Çölü#
+moc_fild02.rsw#Sograt Çölü#
+moc_fild03.rsw#Sograt Çölü#
+moc_fild07.rsw#Sograt Çölü#
+moc_fild11.rsw#Sograt Çölü#
+moc_fild12.rsw#Sograt Çölü#
+moc_fild13.rsw#Sograt Çölü#
+moc_fild16.rsw#Sograt Çölü#
+moc_fild17.rsw#Sograt Çölü#
+moc_fild18.rsw#Sograt Çölü#
+moc_fild19.rsw#Sograt Çölü#
+moc_pryd01.rsw#Morroc Piramidi 1F#
+moc_pryd02.rsw#Morroc Piramidi 2F#
+moc_pryd03.rsw#Morroc Piramidi 3F#
+moc_pryd04.rsw#Morroc Piramidi 4F#
+moc_pryd05.rsw#Morroc Piramidi B1F#
+moc_pryd06.rsw#Morroc Piramidi B2F#
+moc_prydb1.rsw#Hırsızlar Loncası#
+moc_ruins.rsw#Morroc Harabeleri#
+monk_in.rsw#St. Capitolina Manastırı İçi#
+morocc.rsw#Çöl Şehri Morroc#
+morocc_in.rsw#Morroc İçerisi#
+orc_d01_a.rsw#Ork Yeraltı Mağarası 1F#
+orc_d01_b.rsw#Ork Yeraltı Mağarası 1F#
+orc_d01_z.rsw#Ork Yeraltı Mağarası 1F#
+orc_d02_a.rsw#Ork Yeraltı Mağarası 2F#
+orc_d02_b.rsw#Ork Yeraltı Mağarası 2F#
+orc_d02_z.rsw#Ork Yeraltı Mağarası 2F#
+orcsdun01.rsw#Geffen Ork Yeraltı Mağarası 1. Kat#
+orcsdun02.rsw#Geffen Ork Yeraltı Mağarası 2. Kat#
+pay_arche.rsw#Payon Okçu Köyü#
+pay_d00_a.rsw#Payon Mağarası 1F#
+pay_d00_b.rsw#Payon Mağarası 1F#
+pay_d00_c.rsw##
+pay_d00_d.rsw##
+pay_d00_y.rsw##
+pay_d00_z.rsw#Payon Mağarası 1F#
+pay_d01_a.rsw#Payon Mağarası 2F#
+pay_d01_b.rsw#Payon Mağarası 2F#
+pay_d01_c.rsw##
+pay_d01_d.rsw##
+pay_d01_y.rsw##
+pay_d01_z.rsw#Payon Mağarası 2F#
+pay_d02_a.rsw#Payon Mağarası 3F#
+pay_d02_b.rsw#Payon Mağarası 3F#
+pay_d02_c.rsw##
+pay_d02_d.rsw##
+pay_d02_y.rsw##
+pay_d02_z.rsw#Payon Mağarası 3F#
+pay_d03_a.rsw#Payon Mağarası 4F (Terkedilmiş Köy)#
+pay_d03_b.rsw#Payon Mağarası 4F (Terkedilmiş Köy)#
+pay_d03_c.rsw##
+pay_d03_d.rsw##
+pay_d03_y.rsw##
+pay_d03_z.rsw#Payon Mağarası 4F (Terkedilmiş Köy)#
+pay_d04_a.rsw#Payon Mağarası 5F (Terkedilmiş Köy)#
+pay_d04_b.rsw#Payon Mağarası 5F (Terkedilmiş Köy)#
+pay_d04_c.rsw##
+pay_d04_d.rsw##
+pay_d04_y.rsw##
+pay_d04_z.rsw#Payon Mağarası 5F (Terkedilmiş Köy)#
+pay_dc01.rsw#Payon Mağarası 1F#
+pay_dc02.rsw#Gizli Yer#
+pay_dun00.rsw#Payon Mağarası 1F#
+pay_dun01.rsw#Payon Mağarası 2F#
+pay_dun02.rsw#Payon Mağarası 3F#
+pay_dun03.rsw#Payon Mağarası 4F (Terkedilmiş Köy)#
+pay_dun04.rsw#Payon Mağarası 5F (Terkedilmiş Köy)#
+pay_f01_a.rsw#Payon Ormanı#
+pay_f01_b.rsw#Payon Ormanı#
+pay_f01_c.rsw##
+pay_f01_d.rsw##
+pay_f01_y.rsw##
+pay_f01_z.rsw#Payon Ormanı#
+pay_f02_a.rsw##
+pay_f02_b.rsw##
+pay_f02_c.rsw##
+pay_f02_d.rsw##
+pay_f02_y.rsw##
+pay_f02_z.rsw##
+pay_f03_a.rsw#Payon Ormanı#
+pay_f03_b.rsw#Payon Ormanı#
+pay_f03_c.rsw##
+pay_f03_d.rsw##
+pay_f03_y.rsw##
+pay_f03_z.rsw#Payon Ormanı#
+pay_f04_a.rsw#Sograt Çölü#
+pay_f04_b.rsw#Sograt Çölü#
+pay_f04_c.rsw##
+pay_f04_d.rsw##
+pay_f04_y.rsw##
+pay_f04_z.rsw#Sograt Çölü#
+pay_f06_a.rsw##
+pay_f06_b.rsw##
+pay_f06_c.rsw##
+pay_f06_d.rsw##
+pay_f06_y.rsw##
+pay_f06_z.rsw##
+pay_f07_a.rsw##
+pay_f07_b.rsw##
+pay_f07_c.rsw##
+pay_f07_d.rsw##
+pay_f07_y.rsw##
+pay_f07_z.rsw##
+pay_f08_a.rsw#Payon Ormanı#
+pay_f08_b.rsw#Payon Ormanı#
+pay_f08_c.rsw##
+pay_f08_d.rsw##
+pay_f08_y.rsw##
+pay_f08_z.rsw#Payon Ormanı#
+pay_f09_a.rsw##
+pay_f09_b.rsw##
+pay_f09_c.rsw##
+pay_f09_d.rsw##
+pay_f09_y.rsw##
+pay_f09_z.rsw##
+pay_f10_a.rsw##
+pay_f10_b.rsw##
+pay_f10_c.rsw##
+pay_f10_d.rsw##
+pay_f10_y.rsw##
+pay_f10_z.rsw##
+pay_fild01.rsw#Payon Ormanı#
+pay_fild02.rsw#Payon Ormanı#
+pay_fild03.rsw#Payon Ormanı#
+pay_fild04.rsw#Sograt Çölü#
+pay_fild06.rsw#Payon Ormanı#
+pay_fild07.rsw#Payon Ormanı#
+pay_fild08.rsw#Payon Ormanı#
+pay_fild09.rsw#Payon Ormanı#
+pay_fild10.rsw#Payon Ormanı#
+pay_gld.rsw#Yeşil Orman Gölü#
+pay_mk.rsw#Payon Pazar Sokağı#
+payon.rsw#Dağ Köyü Payon#
+payon_in01.rsw#Payon İçerisi#
+payon_in02.rsw#Payon İçerisi#
+payon_in03.rsw#Payon İçerisi#
+prontera.rsw#Rune-Midgarts Kingdom Capital Prontera#
+prt_ca01.rsw#Prontera Kalesi B1F#
+prt_ca02.rsw#Prontera Kalesi B2F#
+prt_cas.rsw#Prontera Merkez Sarayı#
+prt_castle.rsw#Prontera Kalesi'nin İçi#
+prt_church.rsw#Prontera Tapınağı'nın İçi#
+prt_d01_a.rsw#Prontera Kanalizasyonu 1F#
+prt_d01_b.rsw#Prontera Kanalizasyonu 1F#
+prt_d01_c.rsw##
+prt_d01_d.rsw##
+prt_d01_y.rsw##
+prt_d01_z.rsw#Prontera Kanalizasyonu 1F#
+prt_d02_a.rsw#Prontera Kanalizasyonu 2F#
+prt_d02_b.rsw#Prontera Kanalizasyonu 2F#
+prt_d02_c.rsw##
+prt_d02_d.rsw##
+prt_d02_y.rsw##
+prt_d02_z.rsw#Prontera Kanalizasyonu 2F#
+prt_d03_a.rsw#Prontera Kanalizasyonu 3F#
+prt_d03_b.rsw#Prontera Kanalizasyonu 3F#
+prt_d03_c.rsw##
+prt_d03_d.rsw##
+prt_d03_y.rsw##
+prt_d03_z.rsw#Prontera Kanalizasyonu 3F#
+prt_d04_a.rsw#Prontera Kanalizasyonu 4F#
+prt_d04_b.rsw#Prontera Kanalizasyonu 4F#
+prt_d04_c.rsw##
+prt_d04_d.rsw##
+prt_d04_y.rsw##
+prt_d04_z.rsw#Prontera Kanalizasyonu 4F#
+prt_f00_a.rsw##
+prt_f00_b.rsw##
+prt_f00_c.rsw##
+prt_f00_d.rsw##
+prt_f00_y.rsw##
+prt_f00_z.rsw##
+prt_f01_a.rsw##
+prt_f01_b.rsw##
+prt_f01_c.rsw##
+prt_f01_d.rsw##
+prt_f01_y.rsw##
+prt_f01_z.rsw##
+prt_f02_a.rsw#Prontera Tarlası#
+prt_f02_b.rsw#Prontera Tarlası#
+prt_f02_c.rsw##
+prt_f02_d.rsw##
+prt_f02_y.rsw##
+prt_f02_z.rsw#Prontera Tarlası#
+prt_f03_a.rsw##
+prt_f03_b.rsw##
+prt_f03_c.rsw##
+prt_f03_d.rsw##
+prt_f03_y.rsw##
+prt_f03_z.rsw##
+prt_f04_a.rsw##
+prt_f04_b.rsw##
+prt_f04_c.rsw##
+prt_f04_d.rsw##
+prt_f04_y.rsw##
+prt_f04_z.rsw##
+prt_f05_a.rsw##
+prt_f05_b.rsw##
+prt_f05_c.rsw##
+prt_f05_d.rsw##
+prt_f05_y.rsw##
+prt_f05_z.rsw##
+prt_f06_a.rsw##
+prt_f06_b.rsw##
+prt_f06_c.rsw##
+prt_f06_d.rsw##
+prt_f06_y.rsw##
+prt_f06_z.rsw##
+prt_f07_a.rsw#Prontera Tarlası#
+prt_f07_b.rsw#Prontera Tarlası#
+prt_f07_c.rsw##
+prt_f07_d.rsw##
+prt_f07_y.rsw##
+prt_f07_z.rsw#Prontera Tarlası#
+prt_f08_a.rsw#Prontera Tarlası#
+prt_f08_b.rsw#Prontera Tarlası#
+prt_f08_c.rsw##
+prt_f08_d.rsw##
+prt_f08_y.rsw##
+prt_f08_z.rsw#Prontera Tarlası#
+prt_f09_a.rsw##
+prt_f09_b.rsw##
+prt_f09_c.rsw##
+prt_f09_d.rsw##
+prt_f09_y.rsw##
+prt_f09_z.rsw##
+prt_f10_a.rsw##
+prt_f10_b.rsw##
+prt_f10_c.rsw##
+prt_f10_d.rsw##
+prt_f10_y.rsw##
+prt_f10_z.rsw##
+prt_f11_a.rsw#Prontera Tarlası#
+prt_f11_b.rsw#Prontera Tarlası#
+prt_f11_c.rsw##
+prt_f11_d.rsw##
+prt_f11_y.rsw##
+prt_f11_z.rsw#Prontera Tarlası#
+prt_fild00.rsw#Prontera Tarlası#
+prt_fild01.rsw#Prontera Tarlası#
+prt_fild02.rsw#Prontera Tarlası#
+prt_fild03.rsw#Prontera Tarlası#
+prt_fild04.rsw#Prontera Tarlası#
+prt_fild05.rsw#Prontera Tarlası#
+prt_fild06.rsw#Prontera Tarlası#
+prt_fild07.rsw#Prontera Tarlası#
+prt_fild08.rsw#Prontera Tarlası#
+prt_fild09.rsw#Prontera Tarlası#
+prt_fild10.rsw#Prontera Tarlası#
+prt_fild11.rsw#Prontera Tarlası#
+prt_gld.rsw#Valkyrie Diyarı#
+prt_in.rsw#Prontera İçerisi#
+prt_maze01.rsw#Prontera Labirent Ormanı 1F#
+prt_maze02.rsw#Prontera Labirent Ormanı 2F#
+prt_maze03.rsw#Prontera Labirent Ormanı 3F#
+prt_mk.rsw#Prontera Pazar Sokağı#
+prt_monk.rsw#St. Capitolina Manastırı#
+prt_pri00.rsw#Prontera Hapishanesi#
+prt_sewb1.rsw#Prontera Kanalizasyonu 1F#
+prt_sewb2.rsw#Prontera Kanalizasyonu 2F#
+prt_sewb3.rsw#Prontera Kanalizasyonu 3F#
+prt_sewb4.rsw#Prontera Kanalizasyonu 4F#
+pry_d01_a.rsw#Piramit 1F#
+pry_d01_b.rsw#Piramit 1F#
+pry_d01_z.rsw#Piramit 1F#
+pry_d02_a.rsw#Piramit 2F#
+pry_d02_b.rsw#Piramit 2F#
+pry_d02_z.rsw#Piramit 2F#
+pry_d03_a.rsw#Piramit 3F#
+pry_d03_b.rsw#Piramit 3F#
+pry_d03_z.rsw#Piramit 3F#
+pry_d04_a.rsw#Piramit 4F#
+pry_d04_b.rsw#Piramit 4F#
+pry_d04_z.rsw#Piramit 4F#
+pry_d05_a.rsw#Piramit B1F#
+pry_d05_b.rsw#Piramit B1F#
+pry_d05_z.rsw#Piramit B1F#
+pry_d06_a.rsw#Piramit B2F#
+pry_d06_b.rsw#Piramit B2F#
+pry_d06_z.rsw#Piramit B2F#
+sec_in01.rsw#Valhalla'nın İçi#
+sec_in02.rsw#Valhalla'nın İçi#
+sec_pri.rsw#Kefaret Odası (Valhalla Sarayı)#
+sp_d01_a.rsw#Sfenks B1F#
+sp_d01_b.rsw#Sfenks B1F#
+sp_d01_z.rsw#Sfenks B1F#
+sp_d02_a.rsw#Sfenks B2F#
+sp_d02_b.rsw#Sfenks B2F#
+sp_d02_z.rsw#Sfenks B2F#
+sp_d03_a.rsw#Sfenks B3F#
+sp_d03_b.rsw#Sfenks B3F#
+sp_d03_z.rsw#Sfenks B3F#
+sp_d04_a.rsw#Sfenks B4F#
+sp_d04_b.rsw#Sfenks B4F#
+sp_d04_z.rsw#Sfenks B4F#
+sp_d05_a.rsw#Sfenks B5F#
+sp_d05_b.rsw#Sfenks B5F#
+sp_d05_z.rsw#Sfenks B5F#
+tra_fild.rsw#Prontera Eğitim Alanı#
+tre_d01_a.rsw#Batık Gemi 1F#
+tre_d01_b.rsw#Batık Gemi 1F#
+tre_d01_c.rsw##
+tre_d01_d.rsw##
+tre_d01_y.rsw##
+tre_d01_z.rsw#Batık Gemi 1F#
+tre_d02_a.rsw#Batık Gemi 2F#
+tre_d02_b.rsw#Batık Gemi 2F#
+tre_d02_c.rsw##
+tre_d02_d.rsw##
+tre_d02_y.rsw##
+tre_d02_z.rsw#Batık Gemi 2F#
+treasure01.rsw#Alberta Batık Gemi 1F#
+treasure02.rsw#Alberta Batık Gemi 2F#
+treasure_n1.rsw#Izlude Batık Gemi 1F#
+treasure_n2.rsw#Izlude Batık Gemi 2F#
+um_dun01.rsw#Umbala Ağaçtaki Marangoz Dükkanı#
+um_dun02.rsw#Umbala Yabancı Dünyaya Geçit#
+um_f01_a.rsw##
+um_f01_b.rsw##
+um_f01_c.rsw##
+um_f01_d.rsw##
+um_f01_y.rsw##
+um_f01_z.rsw##
+um_f02_a.rsw##
+um_f02_b.rsw##
+um_f02_c.rsw##
+um_f02_d.rsw##
+um_f02_y.rsw##
+um_f02_z.rsw##
+um_f03_a.rsw##
+um_f03_b.rsw##
+um_f03_c.rsw##
+um_f03_d.rsw##
+um_f03_y.rsw##
+um_f03_z.rsw##
+um_f04_a.rsw##
+um_f04_b.rsw##
+um_f04_c.rsw##
+um_f04_d.rsw##
+um_f04_y.rsw##
+um_f04_z.rsw##
+um_fild01.rsw#Umbala'daki Luluka Ormanı#
+um_fild02.rsw#Umbala Hoomga Ormanı#
+um_fild03.rsw#Umbala'daki Kalala Bataklığı#
+um_fild04.rsw#Umbala'daki Hoomga Ormanı#
+um_in.rsw#Umbala'nın İçinde#
+umbala.rsw#Utan Kabilesi Köyü, Umbala#
+xma_d01_a.rsw#Oyuncak Fabrikası Deposu#
+xma_d01_b.rsw#Oyuncak Fabrikası Deposu#
+xma_d01_z.rsw#Oyuncak Fabrikası Deposu#
+xma_d02_a.rsw#Oyuncak Fabrikası Sıralama Odası#
+xma_d02_b.rsw#Oyuncak Fabrikası Sıralama Odası#
+xma_d02_z.rsw#Oyuncak Fabrikası Sıralama Odası#
+xma_f01_a.rsw#Lutie Tarlası#
+xma_f01_b.rsw#Lutie Tarlası#
+xma_f01_z.rsw#Lutie Tarlası#
+xmas.rsw#Kar Köyü Lutie#
+xmas_dun01.rsw#Lutie Oyuncak Fabrikası Deposu#
+xmas_dun02.rsw#Lutie Oyuncak Ayırma Merkezi#
+xmas_fild01.rsw#Lutie Tarlası#
+xmas_in.rsw#Lutie İçerisi#

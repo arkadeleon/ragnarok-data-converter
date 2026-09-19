@@ -1,0 +1,62 @@
+%faf0e6
+^000088Quiconque a faim, qu'il soit Poring ou Poporing, se verra offrir un bon repas !^000000
+
+Bien sûr, il faut toujours en laisser pour soi-même, c'est la règle d'or de la Cuisine niv. ! - Recettes de niveau 7 -
+
+
+^FF0000Barbecue entier :^000000 Ne t'inquiète pas, on ne fait pas griller le tonneau !
+Ingrédients : ^4B0082Viande x1, Braise x1, Charbon x1, Sauce épicée x1, Morceau de bois x1, Herbe blanche x1^000000
+Préparation : Laver soigneusement la viande à l'intérieur et à l'extérieur, puis l'enduire uniformément de Sauce épicée.
+Hacher finement l'Herbe blanche et en saupoudrer légèrement, placer la Braise sur le morceau de bois
+et préparer un feu doux pour griller la viande sans l'éteindre.
+Pendant que la Goule, badigeonner régulièrement de Sauce épicée
+et servir avec les herbes finement hachées.
+
+^0000FFThé aux herbes spécial à la gelée royale :^000000 Aucun risque de se faire piquer en buvant !
+Ingrédients : ^4B0082Gelée royale x1, Miel x1, Herbe blanche x1, Feuille de Hinare x1, Épice jaune x1^000000
+Préparation : Identique au Thé au miel et aux herbes de niveau 3, mais on utilise la Feuille de Hinare, une herbe de qualité Supérieur,
+et on ajoute la Gelée royale avec le miel, c'est le secret de la recette.
+
+
+^800000Pain de chasse aux âmes :^000000 Attention, ton âme pourrait s'envoler !
+Ingrédients : ^4B0082Pain x1, Fruit de Mastela x1, Sauce sucrée x1, Menthe x1, Talisman de rappel x1, Pomme pas mûre x1^000000
+Préparation : Éplucher le Fruit de Mastela et la pomme, puis les couper en dés.
+Laver soigneusement la menthe, en extraire le jus et faire macérer les dés de Mastela et de pomme
+avec du sucre pendant 30 minutes (proportion de sucre 1:1).
+Porter à ébullition à feu vif, puis réduire à feu moyen dès que ça mousse, ajouter un peu plus de sucre
+et laisser mijoter doucement (remuer constamment pour éviter que ça n'attache).
+Laisser confire jusqu'à obtenir une confiture brillante et translucide.
+Moudre finement le Talisman de rappel et le faire macérer avec la Sauce sucrée.
+Tartiner le pain de confiture et de Sauce sucrée avant de servir.
+
+^008040Ragoût de crocodile aux légumes :^000000 Étonnamment tendre et moelleux !
+Ingrédients : ^4B0082Peau d'Anolian x1, Tête de citrouille x1, Carotte x1, Feuille d'aloès x1,
+Herbe jaune x1, Épice jaune x1^000000
+Préparation : Laver soigneusement la Peau d'Anolian, la hacher finement, puis ajouter sel, poivre, œuf, eau et Épice jaune,
+et bien malaxer. Couper la carotte en julienne et la blanchir, blanchir également la Feuille d'aloès et l'Herbe jaune, puis bien les essorer, et faire sauter légèrement la tête de citrouille coupée en julienne avant de la laisser refroidir.
+Étaler un torchon sur la planche, déposer la Peau d'Anolian dessus, puis cuire à la vapeur dans un panier bien chaud
+pendant environ 15 minutes. Couper en morceaux et servir avec les légumes.
+
+^FF8040Festin spécial de mets raffinés :^000000 Il faut aller à la montagne pour chasser le sanglier, et à la mer pour pêcher du poisson !
+Ingrédients : ^4B0082Queue de poisson x1, Feuille d'aloès x1, Crinière de sanglier x1, Poisson savoureux x1,
+Nourriture pour animal x1, Sauce sucrée x1^000000
+Préparation : Blanchir légèrement la Feuille d'aloès dans de l'eau salée.
+Écailler soigneusement le Poisson savoureux, l'enduire de Sauce sucrée et laisser mariner 10 minutes.
+Enrouler le poisson mariné dans la Feuille d'aloès, puis cuire à la vapeur avec la Queue de poisson pendant 10 minutes et dresser sur une assiette.
+Couper la crinière de sanglier en morceaux de 4 cm et la blanchir légèrement,
+couper la nourriture pour animal en morceaux de taille appropriée, les badigeonner de Sauce sucrée et les faire griller à la poêle.
+
+
+^400080Brochettes grillées :^000000 Pour ne pas se piquer en mangeant, il faut bien tailler la pointe des piquants !
+Ingrédients : ^4B0082Peau écailleuse x1, Branchie à pointes x1, Brin d’herbe tendre x1, Viande x1,
+Champignon comestible x1, Chair de coquillage x1^000000
+Préparation : Couper le Brin d’herbe tendre en cubes de 4 cm, couper le champignon en longues lamelles selon sa forme.
+Laver soigneusement la peau écailleuse,
+sélectionner les longues épines de la Branchie à pointes.
+Faire bouillir légèrement la viande, blanchir la Chair de coquillage.
+Enfiler sur la longue épine la viande, les légumes, puis la Chair de coquillage
+et griller les brochettes sur la peau écailleuse préalablement chauffée sur le gril.
+
+^FF3366Assortiment de plats niv. 7 :^000000 L'essence de la Cuisine niv. 7
+Ingrédients : ^4B0082Barbecue entier x1, Thé aux herbes spécial à la gelée royale x1, Pain de chasse aux âmes x1, Ragoût de crocodile aux légumes x1, Festin spécial de mets raffinés x1, Brochette x1^000000
+Préparation : Rassembler tous les plats de niveau 7 et dresser soigneusement un grand festin.

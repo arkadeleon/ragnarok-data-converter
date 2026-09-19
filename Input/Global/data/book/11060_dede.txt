@@ -1,0 +1,276 @@
+^000088Energiekristall-Kombinationsgegenstände^000000
+
+^008040[Modifizierter Magierhut]^000000
+Beschreibung: Ein Hut, den sich jeder talentierte Magier wünscht. Er wirkt zwar etwas unbequem, trägt sich aber überraschend angenehm
+und vermittelt ein frisches, lebendiges Gefühl. Modifiziert, um seine Leistung zu verbessern.
+INT +2, SP +150, MATK +1 pro Veredelungsstufe, bei Veredelung +7: INT +1 pro Veredelungsstufe.
+Kategorie: Kopfbedeckung  DEF: 2  Position: Oben  Gewicht: 30
+Benötigtes Level: 1  Tragbar von: Magier-Klasse/Soul Linker  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Magierhut x1 + Unveredelter Energiekristall x100
+
+^008040[Modifizierter Zauberhut]^000000
+Beschreibung: Ein Zauberhut, als könnte jederzeit ein Hase herausspringen, sobald man die Hand hineinsteckt.
+Ziemlich robust und nicht leicht zu zerstören. Modifiziert, um seine Leistung zu verbessern.
+DEX +1, AGI +1, SP +50, SP +5 pro Veredelungsstufe, bei Veredelung +7: DEX +1 pro Veredelungsstufe.
+Kategorie: Kopfbedeckung  DEF: 6  Position: Oben  Gewicht: 50
+Benötigtes Level: 50  Tragbar von: Magier-Klasse/Akolyth-Klasse/Soul Linker  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Zauberhut x1 + Unveredelter Energiekristall x100
+
+^008040[Modifizierte Kitsune-Maske]^000000
+Beschreibung: Eine Maske nach dem Vorbild einer Maske, die angeblich von einer Assassinen-Einheit zur Verschleierung der Identität getragen wird.
+Beim Tragen fühlt man sich irgendwie wendiger. Modifiziert, um ihre Leistung zu verbessern.
+AGI +2, LUK +2, bei Veredelung +7: Perfektes Ausweichen +4
+Kategorie: Kopfbedeckung  DEF: 2  Position: Oben  Gewicht: 30
+Benötigtes Level: 1  Tragbar von: Von allen Klassen ausrüstbar außer Novize
+^FF0000[Kombinationsmaterialien]^000000
+Kitsune-Maske x1 + Unveredelter Energiekristall x100
+
+^008040[Modifizierter Narrenhut]^000000
+Beschreibung: Ein Hut, wie ihn ein Narr für seine Kunststücke tragen würde. Spitz, bunt und bizarr.
+Modifiziert, um seine Leistung zu verbessern.
+LUK +2, MDEF +5, bei Veredelung +7: Kritischer Schaden +5%.
+Kategorie: Kopfbedeckung  DEF: 3  Position: Oben  Gewicht: 10
+Benötigtes Level: 1  Tragbar von: Von allen Klassen ausrüstbar außer Novize  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Narrenhut x1 + Unveredelter Energiekristall x100
+
+
+^008040[Modifiziertes Hasenstirnband]^000000
+Beschreibung: Ein Stirnband mit einem Schmuckstück in Form von Hasenohren. Es sieht aus, als wäre es schwer auszubalancieren,
+ist aber überraschend bewegungsfreundlich. Modifiziert, um seine Leistung zu verbessern.
+LUK +2, bei Veredelung +7: CRIT +5
+Kategorie: Kopfbedeckung  DEF: 3  Position: Oben  Gewicht: 10
+Benötigtes Level: 1  Tragbar von: Alle Klassen  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Hasenstirnband x1 + Unveredelter Energiekristall x100
+
+^008040[Modifizierter Munak-Hut]^000000
+Beschreibung: Ein Hut, wie ihn das Monster Munak trägt. An dem großen Hut hängt ein unbekannter Talisman,
+und offenbar auch eine Denggi-Frisur. Modifiziert, um seine Leistung zu verbessern.
+Erhaltener Schaden von Untoten -10%, bei Veredelung +7: Schaden gegen Untote +10%.
+Kategorie: Kopfbedeckung  DEF: 5  Position: Oben - Mitte - Unten  Gewicht: 30
+Benötigtes Level: 1  Tragbar von: Alle Klassen  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Munak-Hut[1] x1 + Unveredelter Energiekristall x100
+
+
+^008040[Modifizierter Bongun-Hut]^000000
+Beschreibung: Ein Hut, den das Monster Bongun getragen haben soll. Das auffälligste Merkmal ist der vorne halb zerrissene Talisman.
+Sehr robust, und durch den zerrissenen Talisman wird das Sichtfeld sogar weniger beeinträchtigt.
+Modifiziert, um seine Leistung zu verbessern.
+Erhaltener Schaden von Dämonen -10%, bei Veredelung +7: Schaden gegen Dämonen +10%.
+Kategorie: Kopfbedeckung  DEF: 5  Position: Oben - Mitte - Unten  Gewicht: 30
+Benötigtes Level: 1  Tragbar von: Alle Klassen  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Bongun-Hut[1] x1 + Unveredelter Energiekristall x100
+
+^008040[Modifizierte Maske des Phantoms der Oper]^000000
+Beschreibung: Eine Maske, die angeblich ein unglücklicher Held aus einer bestimmten Geschichte getragen hat.
+Wenn man sie lange betrachtet, scheint der Schmerz des Helden bis ins Innere vorzudringen.
+ATK +5, MATK +5
+Kategorie: Kopfbedeckung  DEF: 2  Position: Mitte  Gewicht: 20
+Benötigtes Level: 20  Tragbar von: Alle Klassen
+^FF0000[Kombinationsmaterialien]^000000
+Maske des Phantoms der Oper x1 + Unveredelter Energiekristall x100
+
+^008040[Verbessertes Fernglas]^000000
+Beschreibung: Eine wundersame Brille aus komprimiertem Glas, mit der auch weit Entferntes ganz nah erscheint.
+DEX +1, Fernkampfschaden +1%.
+Kategorie: Kopfbedeckung  DEF: 2  Position: Mitte  Gewicht: 10
+Benötigtes Level: 50  Tragbar von: Bogenschütze-Klasse
+^FF0000[Kombinationsmaterialien]^000000
+Fernglas x1 + Veredelter Energiekristall x200
+
+^008040[Verbesserter Kiemenhelm]^000000
+Beschreibung: Ein helm in Form einer Fischflosse, der Schwertkämpfer beschützen soll.
+Aber Vorsicht: Unter Wasser atmen kann man damit nicht.
+MHP +300, zusätzliche MHP je nach BaseLv
+Kategorie: Kopfbedeckung  DEF: 5  Position: Mitte  Gewicht: 30
+Benötigtes Level: 65  Tragbar von: Schwertkämpfer-Klasse
+^FF0000[Kombinationsmaterialien]^000000
+Kiemenhelm x1 + Veredelter Energiekristall x200
+
+
+
+^008040[Verbesserte Assassinenmaske]^000000
+Beschreibung: Eine dunkle Maske, die Assassinen tragen, um ihr Gesicht zu verbergen.
+Nach dem Aufsetzen fühlt es sich an, als würde das Herz verschwinden.
+CRIT +1, Kritischer Schaden +1%
+Kategorie: Kopfbedeckung  DEF: 1  Position: Unten  Gewicht: 10
+Benötigtes Level: 70  Tragbar von: Assassine/Priester-Klasse
+^FF0000[Kombinationsmaterialien]^000000
+Assassinenmaske x1 + Veredelter Energiekristall x200
+
+^008040[Verbesserte Schweißmaske]^000000
+Beschreibung: Eine Maske aus Stahl. Ohne jeden Gedanken an Stil oder Würde rein für den praktischen Einsatz gefertigt.
+Schützt das Gesicht vor Flammen, Kälte und Stößen.
+Resistenz gegen Feuer-Element 10% erhöht, DEX +5, LUK +5.
+Kategorie: Kopfbedeckung  DEF: 2  Position: Mitte, Unten  Gewicht: 30
+Benötigtes Level: 50  Tragbar von: Händler-Klasse
+^FF0000[Kombinationsmaterialien]^000000
+Schweißmaske x1 + Veredelter Energiekristall x200
+
+
+
+
+
+^008040[Schutzring]^000000
+Beschreibung: Ein magischer Ring, der den Träger schützt und erlittenen Schaden stark verringert.
+DEF +10, MDEF +5, Alle Statuswerte +1.
+Kategorie: Accessoire  DEF: 0  Gewicht: 10
+Benötigtes Level: 50  Tragbar von: Von allen Klassen ausrüstbar außer Novize  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Schutzring x1, Ring[1] x1, Handschuhe[1] x1, Ohrringe[1] x1, Brosche[1] x1, Halskette[1] x1, Rosenkranz[1] x1,
+Veredelter Energiekristall x200
+
+
+
+
+
+
+
+^008040[Verbesserter Segen des Engels]^000000
+Beschreibung: Die Robe des Engels für Super-Novizen. Das weiche Tragegefühl, das den ganzen Körper umhüllt, ist erstklassig!
+MDEF +30. Beim Tragen zusammen mit Verbesserter Schutz des Engels: Neutralresistenz +5%.
+Bei gleichzeitigem Tragen von Verbesserter Segen des Engels, VerbesserterAbstieg des Engels, Verbesserter Schutz des Engels, Verbesserter Wärme des Engels,
+Verbesserter Kuss des Engels: HP +900, SP +100,
+bei erlittenem physischen Schaden geringe Chance auf Assumptio Lv. 1 auf sich selbst.
+Kategorie: Rüstung  DEF: 40  Gewicht: 60
+Benötigtes Level: 99  Tragbar von: Novizen-Klasse  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Segen des Engels x1, Veredelter Energiekristall x100 oder Hochreiner Energiekristall x20
+
+^008040[Verbesserter Schutz des Engels]^000000
+Beschreibung: Der Schild des Engels für Super-Novizen. Er ist von heiliger Kraft erfüllt, die das Böse vertreibt.
+Erhaltener Schaden von Dämonen-Monstern -5%, Schaden von allen Elementen außer Neutral -5%.
+Beim Tragen zusammen mit Verbesserter Abstieg des Engels: Alle Statuswerte +2.
+Kategorie: Schild  DEF: 30  Gewicht: 40
+Benötigtes Level: 99  Tragbar von: Novizen-Klasse  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Schutz des Engels x1, Veredelter Energiekristall x100 oder Hochreiner Energiekristall x20
+^008040[Verbesserter Abstieg des Engels]^000000
+Beschreibung: Die Sandalen des Engels für Super-Novizen. Mit diesen Sandalen fühlt sich jeder Sprung an, als ginge es bis in den Himmel.
+MHP +500, MSP +100.
+Beim Tragen zusammen mit Verbesserter Kuss des Engels: MATK +20.
+Kategorie: Schuhe  DEF: 8  Gewicht: 30
+Benötigtes Level: 99  Tragbar von: Novizen-Klasse  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Abstieg des Engels x1, Veredelter Energiekristall x100 oder Hochreiner Energiekristall x20
+
+^008040[Verbesserte Wärme des Engels]^000000
+Beschreibung: Die Strickjacke des Engels für Super-Novizen. Beim Anziehen wird einem angenehm warm,
+fast so, als würde man selbst beim Schlafen im Freien keine Erkältung bekommen.
+MHP-Regeneration +50%.
+Beim Tragen zusammen mit Verbesserter Segen des Engels: AGI +5, FLEE +10
+Kategorie: Kopfbedeckung  DEF: 6  Position: Oben  Gewicht: 40
+Benötigtes Level: 99  Tragbar von: Novizen-Klasse  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Wärme des Engels x1, Veredelter Energiekristall x100 oder Hochreiner Energiekristall x20
+
+
+
+
+^008040[Verbesserter Kuss des Engels]^000000
+Beschreibung: Ein Kopfschmuck, der den Kuss des Engels für Super-Novizen empfangen hat.
+Wer diesen Kopfschmuck küsst, erlebt vielleicht einen indirekten Kuss mit einem Engel...
+MSP-Regeneration +30%.
+Beim Tragen zusammen mit Verbesserter Wärme des Engels: ATK +10
+Kategorie: Kopfbedeckung  DEF: 6  Position: Oben  Gewicht: 30
+Benötigtes Level: 99  Tragbar von: Novizen-Klasse  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Kuss des Engels x1, Veredelter Energiekristall x100 oder Hochreiner Energiekristall x20
+
+
+
+
+
+
+
+^008040[Verbesserter Korsar]^000000
+Beschreibung: Ein großer Hut, wie ihn ein Piratenkapitän trägt. Groß gefertigt, um die Autorität des Kapitäns zu betonen,
+wirkt er fast wie ein umherfahrendes Piratenschiff auf See. Allerdings stark abgenutzt.
+VIT +1, MHP +5%, bei Veredelung +7: Neutralresistenz +1%, bei Veredelung +9: MHP +3%
+Kategorie: Kopfbedeckung  DEF: 10  Position: Oben  Gewicht: 50
+Benötigtes Level: 99  Tragbar von: Von allen Klassen ausrüstbar außer Novize  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Korsar x1, Hochreiner Energiekristall x300
+
+^008040[Verbesserter Knochenhelm]^000000
+Beschreibung: Ein sehr harter Helm aus Knochen. Schwer und nicht leicht zu tragen, dafür mit hervorragender Verteidigung.
+Erhaltener Schaden durch Schattenangriffe +15%, Neutralresistenz +2%,
+bei Veredelung +7: Neutralresistenz +2%, bei Veredelung +9: Neutralresistenz +2%
+Kategorie: Kopfbedeckung  DEF: 15  Position: Oben  Gewicht: 80
+Benötigtes Level: 70  Tragbar von: Schwertkämpfer-Klasse/Händler-Klasse  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Knochenhelm[1] x1, Hochreiner Energiekristall x300
+
+
+^008040[Verbesserter Engelhelm]^000000
+Beschreibung: Ein erstaunlicher Helm mit hoher Verteidigung, an dem Flügel aus gesammelten Engelsfedern angebracht wurden.
+Wer ihn gefertigt hat, ist unbekannt.
+AGI +1, LUK +1, MDEF +3, bei Veredelung +7: AGI +2, LUK +2, bei Veredelung +9: ASPD +1
+Kategorie: Kopfbedeckung  DEF: 10  Position: Oben  Gewicht: 160
+Benötigtes Level: 99  Tragbar von: 2. Klasse und höher/Taekwon-Meister/Soul Linker/Kagerou/Oboro  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Engelhelm x1, Hochreiner Energiekristall x300
+
+^008040[Verbesserter Hut des Sonnengottes]^000000
+Beschreibung: Ein Hut mit riesigen goldenen Flügeln als Symbol der Sonne.
+Wie man damit noch laufen kann, sollte man besser nicht hinterfragen.
+STR +3, INT +2, ATK +10, MATK +10,
+bei Veredelung +7: ATK +15, MATK +15, bei Veredelung +9: ATK +15, MATK +15.
+Kategorie: Kopfbedeckung  DEF: 4  Position: Oben - Mitte  Gewicht: 240
+Benötigtes Level: 99  Tragbar von: 2. Klasse und höher/Taekwon-Meister/Soul Linker/Kagerou/Oboro  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Hut des Sonnengottes x1, Hochreiner Energiekristall x1.000 oder
+Hut des Sonnengottes[1] x1, Hochreiner Energiekristall x100
+
+
+
+
+^008040[Verbesserte Variant-Schuhe]^000000
+Beschreibung: Schuhe mit einem unverkennbar verzerrten Eindruck.
+Die Absicht des Schöpfers, den Willen der Götter herauszufordern, ist erkennbar, und die unvollkommene Mutant-Schuhe wurden verbessert.
+MHP/MSP +12%, zusätzliche DEF/MDEF je nach Veredelungsstufe
+Kategorie: Schuhe  DEF: 13  Gewicht: 50
+Benötigtes Level: 85  Tragbar von: 2. Klasse und höher/Taekwon-Meister/Soul Linker/Kagerou/Oboro  SLOT: 1
+^FF0000[Kombinationsmaterialien]^000000
+Variant-Schuhe x1, Hochreiner Energiekristall x300
+
+
+
+
+
+
+
+
+
+^008040[Verbesserter Ring des Flammenfürsten]^000000
+Beschreibung: Ein Ring, der die Macht des Königs der Feuergeister in sich trägt. Beim Tragen soll die im Körper aufwallende Geisterkraft
+über die eigene Waffe hervorbrechen.
+Er bildet ein Paar mit dem Verbesserter Ring der Resonanz.
+STR +3, VIT +2, ATK +20, Resistenz gegen Feuer-Element 10% erhöht
+bei physischen Angriffen Chance auf verschiedene Autospells.
+Beim Tragen zusammen mit Verbesserter Ring der Resonanz: zusätzliche Autospell-Effekte.
+Kategorie: Accessoire  DEF: 0  Gewicht: 10
+Benötigtes Level: 85  Tragbar von: 2. Klasse und höher/Taekwon-Meister/Soul Linker/Kagerou/Oboro
+^FF0000[Kombinationsmaterialien]^000000
+Ring des Flammenfürsten x1, Hochreiner Energiekristall x300
+
+
+
+
+
+
+
+^008040[Verbesserter Ring der Resonanz]^000000
+Beschreibung: Ein Ringpaar zum Verbesserter Ring des Flammenfürsten.
+Wer beide Ringe zusammen trägt, löst eine Resonanz aus, die die Kräfte beider Ringe verstärkt.
+AGI +3, VIT +1, MDEF +2, MATK +10
+bei erlittenen physischen Angriffen Chance auf verschiedene Autospells.
+Kategorie: Accessoire  DEF: 2  Gewicht: 10
+Benötigtes Level: 85  Tragbar von: 2. Klasse und höher/Taekwon-Meister/Soul Linker/Kagerou/Oboro
+^FF0000[Kombinationsmaterialien]^000000
+Ring der Resonanz x1, Hochreiner Energiekristall x300

@@ -1,0 +1,58 @@
+%faf0e6
+^000088-A mother's home cooking that heals even the heart. For you who longs for the warmth of family.-^000000
+
+Still, here are Level 2 cooking recipes that do not restore HP.
+
+^FF0000Seasoned Flipper Salad:^000000 The lightness reduces the stickiness and brings out a satisfying bite.
+Materials: ^4B00821 Sticky Flipper, 1 Green Herb, 1 Yellow Herb, 1 Light Sauce^000000
+Cooking Method: Keep the sticky flipper soaked in ice water, and shred the green and yellow herbs.
+           Take out an appropriate amount of flipper and mix it together with a suitable amount of the shredded herbs.
+           When the herbs soften appropriately, add the light sauce and toss in the remaining herbs to mix.
+           Refrigeration keeps the chewy texture and prevents it from sticking.
+
+^0000FFTea of Ten Thousand Leaves:^000000 Enjoy it with cookies and cake.
+Materials: ^4B00821 Blue Herb, 1 Red Herb, 1 Yellow Herb^000000
+Cooking Method: Prepare well-dried and fermented herbs.
+           In a pot that has been warmed only on the outside in boiling water so the inside does not get wet,
+           add the herb leaves, pour in boiling water, close the lid, and steep for 2–3 minutes.
+           It must not be too long or too short, and you may also add milk, lemon, and so on.
+
+
+^800000Chocolate Mousse Cake:^000000 Sweetness melts through your mouth.
+Materials: ^4B00821 Cacao, 1 Slice of Cake, 1 Milk, 1 White Plate
+Cooking Method: Whip finely ground cacao powder and milk to make cream (crema).
+           Leave an appropriate amount of the slice cake’s sponge, then gulp down the rest,
+           mix cream and stabilizer into the remaining cake, chill until set, and plate it.
+
+^008040Slippery Noodles:^000000 You need good chopstick skills to eat it easily.
+Materials: ^4B00821 Grain, 1 Light Sauce, 1 Pumpkin Head, 1 Carrot^000000
+Cooking Method: The basics of noodles is the dough. Grind grain with an appropriate protein content into flour,
+          gradually add cold water to make dough, then stretch and fold repeatedly to form noodles.
+          It is best to let the noodles rest for about a day.
+          Boil the pumpkin head thoroughly in water, then pound it out and it will come out thin like noodles.
+          Julienne the carrot and lightly stir-fry it, then boil the noodles in water and remove.
+          At this time, when the water is about to boil over, splash in a little cold water,
+          then boil once more and scoop them out.
+          If you rub-wash the noodles in cold water, the chewy texture is exceptional.
+          Put the noodle portion together with the pumpkin “noodles” into the hollowed pumpkin skin,
+          pour in the prepared broth, and top with the stir-fried carrot.
+          
+
+^FF8040Seafood Dish:^000000 You could call it an assorted platter of various seafood.
+Materials: ^4B00821 Clam Meat, 1 Spiky Gill, 1 Back Fin, 1 Tasty Fish^000000
+Cooking Method: Lightly boil the fresh clam meat and tasty fish, then cut into appropriate sizes.
+          Use tweezers or similar tools to remove all spines from the spiky gill,
+          lightly boil it, then cut into appropriate sizes.
+          Blanch the back fin in water, place the other ingredients on it,
+          then fold it three times into a fan shape.
+
+^400080Mixed Juice:^000000 An unexpected combination left an unexpected flavor. Lucky!
+Materials: ^4B00821 Apple Juice, 1 Carrot Juice, 1 Grape Juice, 1 Orange Juice^000000
+Cooking Method: Adjusting the ingredient ratios is important.
+          Carrot juice becomes the base, and depending on the mixing order and ratios,
+          the flavor combinations will differ. Those who value tanginess
+          mix in the order of apple juice, orange juice, then grape juice,
+          while those who value sweetness
+          generally mix in the order of grape, apple, then orange.
+          Some say there are even people who create and drink truly unexpected flavors.
+          (It is said they “experienced a new world.”)

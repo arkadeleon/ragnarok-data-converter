@@ -1,0 +1,86 @@
+%faf0e6
+^000088The first woman in Prontera Kingdom history to become the royal court’s top chef!!^000000
+It would have been nice to depict her tumultuous life story, but what sells even better....
+A recipe book filled with her passion for cooking! All contained in this single volume!
+
+It includes the author’s handwritten autograph.
+
+^FF0000Tongue Dish:^000000 
+Materials: ^4B00821 Long, Thin Tongue, 1 Pot, 1 Alcohol, 1 Aloe Vera, 1 Spicy Sauce,
+         1 Royal Jelly, 1 Yggdrasil Leaf, 1 Blue Potion^000000
+Cooking Method: Put the long, thin tongue and alcohol into a pot, then blanch them in clear broth.
+            Slice the aloe vera diagonally and arrange it around the edge of the plate.
+            Remove the thin skin, muscles, and tendons from the blanched tongue,
+            add an appropriate amount of spicy sauce and toss,
+            then plate it on the dish lined with aloe vera.
+            If you prefer, you may serve the spicy sauce separately.
+
+
+^0000FFCocktail: Dragon’s Breath:^000000 A sticky cocktail that somehow feels like it will warm you up!
+Materials: ^4B00821 Man-Eating Plant Root, 1 Singing Plant, 1 Aloe Leaf, 1 Royal Jelly, 1 Lemon,
+         1 Thorny Fruit, 1 Yggdrasil Fruit, 1 Blue Herb^000000
+Cooking Method: Finely grind the well-dried singing plant.
+            Slice the man-eating plant root into small pieces and wash it, and wash the thorny fruit clean as well.
+            In a kettle or pot, wrap the man-eating plant root with aloe leaves,
+            then add it together with the thorny fruit and boil well for at least 2 hours.
+            Once sufficiently extracted, remove from heat and strain through a fine sieve or cheesecloth.
+            Drink it chilled, or mix it with ice.
+            Depending on taste, you may also add royal jelly or lemon.
+
+
+^800000Hvergelmir’s Liquor:^000000 The legendary “spring-brand” drink! It is absolutely not soy sauce!
+Materials: ^4B00821 Yggdrasil Fruit, 1 Ice Piece, 1 Mycelium, 1 Royal Jelly, 1 Concentration Potion,
+         1 Alcohol, 1 Thorny Fruit, 1 Illusion Flower^000000
+Cooking Method: Wash the Yggdrasil fruit and thorny fruit clean, peel them, and prepare them whole.
+            Put mycelium, alcohol, and a well-dried illusion flower into the concentration potion, seal it,
+            and ferment for one week.
+            After one week, place royal jelly and the peeled fruits into an oak barrel,
+            seal it, and age it. (Be careful—flavor changes depending on the aging period.)
+            Age for at least 1 year, then strain, bottle, and store.
+
+
+^008040Desert Scorpion Sand Steam:^000000 It’s scorpion steam, not sand steam!
+Materials: ^4B00821 Scorpion Tail, 1 Scorpion Claw, 1 Aloe Vera, 1 Yggdrasil Leaf,
+        1 Bitter Herb, 1 Royal Jelly, 1 Spicy Sauce, 1 Pot^000000
+Cooking Method: Remove toxins from the scorpion tail, and wash it together with the claw clean.
+            Make a marinade by mixing aloe vera juice, finely chopped Yggdrasil leaf, royal jelly, spicy sauce,
+            and a small amount of water.
+            Soak the tail and claw in the marinade until submerged and marinate for about 10 hours.
+            Put it into a pot and seal it tightly, then around 10 a.m.,
+            lightly dig into the hot sand of the Morroc Desert under strong sunlight,
+            place the pot inside and cover it with sand, then take it out around 5 p.m.
+            and plate it.
+
+
+^FF8040Immortal Stew:^000000 The very dish an ancient eastern emperor sought to live long!
+Materials: ^4B00821 Never-Stopping Heart, 1 Dead Man’s Belongings, 1 Yggdrasil Seed, 1 Anti Painment,
+         1 Mermaid Heart, 1 Spicy Sauce, 1 Half-Soul, 1 Bitter Herb^000000
+Cooking Method: Dice the cleanly washed never-stopping heart carefully, as it may splatter when cut.
+            Choose a small mermaid heart, wash it clean, and prepare it.
+            First, put the diced never-stopping heart and spicy sauce into a pot,
+            stir-fry with finely torn half-soul, and when it is somewhat cooked,
+            add anti painment and water, add finely ground dead man’s belongings, and boil.
+            When it starts to boil, add the mermaid heart and simmer a little more until it cooks through.
+            When the mermaid heart is somewhat cooked, add shredded bitter herb and Yggdrasil seed
+            and bring to a brief boil once more.
+
+
+^400080Nine-Tailed Fox Tail Dish:^000000 For the day you finally cook a Moonlight Flower tail!
+Materials: ^4B00821 Fox Tail, 1 Four-Leaf Clover, 1 Man-Eating Plant Root, 1 Sharp Leaf,
+         1 Yggdrasil Leaf, 1 Light Sauce, 1 Yellow Spice, 1 Isidor^000000
+Cooking Method: Peel the fox tail, rinse it lightly in water, then blanch it in boiling water
+            to remove fat.
+            Wash the man-eating plant root clean and trim it into small pieces,
+            and blanch the sharp leaf lightly and cut it in half.
+            Put the blanched tail into a marinade made with finely chopped Yggdrasil leaf, light sauce, Isidor,
+            and yellow spice, toss evenly, and let it absorb flavor well.
+            Place the seasoned tail together with the remaining marinade in a pot,
+            add 1 cup of broth, and boil.
+            When it has boiled to a certain point, reduce the heat and let it steam gently,
+            add the four-leaf clover, and when the marinade has almost reduced away, remove from heat.
+            (Be careful—if you add the four-leaf clover too early, it turns yellow and looks unappealing.)
+            
+
+^FF3366Level 10 Assorted Cuisine:^000000 The essence of Level 10 cooking
+Materials: ^4B00821 Tongue Dish, 1 Cocktail: Dragon’s Breath, 1 Hvergelmir’s Liquor, 1 Desert Scorpion Sand Steam, 1 Immortal Stew, 1 Nine-Tailed Fox Tail Dish^000000 
+Cooking Method: Gather all Level 10 dishes and serve them neatly as one large full-course spread.

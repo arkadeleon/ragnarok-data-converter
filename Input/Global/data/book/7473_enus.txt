@@ -1,0 +1,84 @@
+%faf0e6
+^000088-Food just like mom used to make, perfect for healing wounded, homesick hearts...-^000000
+
+These Level 2 recipes may heal wounded hearts, even if they don't restore HP.
+
+^FF0000Seasoned Sticky Webfoot:^000000 Savory and chewy Sticky Webfoot that aren't as sticky if you cook them right.
+
+
+Ingredients: ^4B008220 Sticky Webfoot, 10 Green Herbs, 10 Yellow Herbs, 1 Savory Sauce^000000
+
+Directions:
+
+1. Place the Sticky Webfeet in ice water and chop the Green Herbs and Yellow Herbs.
+2. Mix half of the chopped herbs with some Sticky Webfeet.
+3. Add Savory Sauce and the rest of the chopped herbs and mix them altogther.
+4. Make sure to keep the food refrigerated to preserve its flavor and crunchiness.
+
+
+^0000FFAutumn Red Tea:^000000 Enjoy a cup of red tea with cookies and cake.
+
+Ingredients: ^4B00825 Blue Herbs, 10 Red Herbs, 10 Yellow Herbs^000000
+
+Directions:
+
+1. Dry out and then ferment all the herbs.
+2. Boil water in a teapot.
+3. Add the herbs in the teapot, tightly close the lid, and heat for 2–3 minutes. If you boil the leaves for too long, the tea will taste bitter.
+4. Enjoy the tea with milk, lemon, or whatever else you may prefer.
+
+
+^800000Chocolate Mousse Cake:^000000 Try the heavenly sweet taste of rich chocolate mousse cake.
+
+Ingredients: ^4B008210 Cacao, 1 Piece of Cake, 1 Milk, 1 China
+
+Directions:
+
+1. Finely crush the Cacao.
+2. Whisk the Cacao powder and milk to make chocolate mousse.
+3. Remove the frosting from the Piece of Cake and leave behind teh spongy cake. You can eat the frosting if you like.
+4. Frost the sponge cake with your chocolate mousse and refrigerate until the chocolate sets.
+5. Serve the cake on the China.
+
+^008040Smooth Noodle:^000000 Only expert chopstick holders can enjoy this noodle without frustration.
+
+Ingredients: ^4B00821 Bag of Grain, 1 Savory Sauce, 5 Jack o' Pumpkin, 3 Carrots^000000
+
+Directions:
+
+1. Grind the grain to create high protein flour.
+2. Mix the flour with cold water and then knead.
+3. Stretch the dough lengthwise and fold it into multiple layers until it is flexible yet firm.
+4. Thinly slice the dough to make noodles.
+5. Refrigerate the noodles for one night so they taste smooth and chewy.
+6. Cut a Jack o' Pumpkin in half and scoop out the pulp. The pumpkin's rind will be used as a noodle bowl.
+7. Steam 4 Jack o' Pumpkins. Gently tap and then squeeze the pumpkins until the pulp fibers are threadlike.
+8. Slice the Carrots and lightly fry the slices.
+9. Boil the noodles at high heat. If the water boils out, add a cup of cold water and continue boiling.
+10. When the noodles are cooked, strain out the water and then rinse the noodles in cold water for a chewier texture.
+11. Place the boiled noodles and threadlike pumpkin pulp into the pumpkin bowl and pour in anchovy broth until the noodles and pulp are covered.
+12. Sprinkle the fried Carrot slices on top and serve.
+
+
+^FF8040Assorted Seafood:^000000 A variety of fresh seafood.
+
+Ingredients: ^4B008210 Clam Flesh, 5 Gill, 5 Fin, 1 Fresh Fish^000000
+
+Directions:
+
+1. Steam Clam Flesh and Fresh Fish for a few minutes and then cut them into bite-size pieces.
+2. Remove the Gills' spines with tweezers, steam the Gills for a few minutes, and then cut them into bite-size pieces.
+3. Parboil the Fins.
+4. Spread the parboiled Fins and add the other ingredients on top of the Fins.
+5. Fold each Fin three times fanwise.
+
+
+^400080Mixed Juice:^000000 Try the unique taste of mixed fruit juices!
+
+Ingredients: ^4B00823 Apple Juice, 2 Carrot Juice, 1 Grape Juice, 2 Orange Juice^000000
+
+Directions:
+
+1. This juice's flavor depends on the ratios of each ingredient and the order in which they are mixed.
+
+Carrot Juice is the main ingredient and the taste varies according to the ratios of the juices that are mixed with it. If you prefer your juice to be sweet and sour, we recommend adding Apple Juice, Orange Juice, and then Grape Juice in that order. For a juice that is sweeter, mix Grape Juice, Apple Juice, and then Orange Juice in that order. Try different mixes of these four different juices for new, unique juice flavors. The right mix can introduce you to a new world of flavor!

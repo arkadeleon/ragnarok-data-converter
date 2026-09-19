@@ -1,0 +1,70 @@
+%faf0e6
+^000088Yasak Efsane Yemeğine Meydan Okumak
+Kendisi ve kardeşi, ikisi birden tat alma duyusunu yitiren bir şefin çaresiz yolculuğu.^000000
+Efsane yemeğin peşindeysen, sen de dikkat et.
+Lezzetin sonunda geriye kalan...
+-Nihai Sv. 9 Tarif-
+
+
+^FF0000Tendon Sote :^000000 Unutma: yumuşak tendon da vardır!
+Malzemeler : ^4B0082Tendon 1, Tencere 1, Peynir 1, Acı Sos 1, Kömür 1, Yeşil Ot 1, Mürekkep 1^000000
+Yöntem : Tendonu 3 cm doğra; tuz ve karabiberle ön baharatla.
+Yeşil Otun bir kısmını kaynar suda hafifçe haşla, soğuk suda soğut. Kalanını kıy.
+Tencerede mürekkep ve suyu kaynat; Acı Sos ekleyip koyu bir sos yap.
+Soğutulmuş Yeşil Ot ve peyniri ekle; tendonu iyice sotele.
+Kömürü köz yapıp hafif ateşte narince pişir.
+Tabağa al, sosu gezdir, kıyılmış Yeşil Ot serp.
+
+^0000FFTristram 12 Yıllık :^000000 Viski hissi veren meyve şarabı!
+Malzemeler : ^4B0082Yggdrasil Yaprağı 1, Portakal 1, Alkol 1, Kraliyet Jölesi 1, Mavi İksir 1,
+Sarı Baharat 1, Aloe Yaprağı 1^000000
+Yöntem : Portakal suyunu sık.
+İyice kurumuş Yggdrasil Yaprağı, Aloe Yaprağı ve Kraliyet Jölesini Mavi İksir ile karıştır.
+Alkol ekleyip fermente et.
+12 yıl olgunlaştırırsan 12 yıllık olur.
+
+Bardağın ağzına Sarı Baharatı hafifçe sür; yanında Kraliyet Jölesiyle servis et.
+^800000Göksel Meyve Suyu :^000000 Uçacak gibi olursun; ama uçamazsın, dikkat!
+Malzemeler : ^4B0082Olgunlaşmamış Elma 1, Portakal 1, Çilek 1, Kırmızı Baharat 1,
+Tropik Muz 1, Üzüm Suyu 1, Alkol 1^000000
+Yöntem : Elma ve portakalı soy. Elmayı 3’e, portakalı 4’e böl.
+Çileğin sapını çıkar. Muzu soyup uygun boyutta kes.
+Blender’a meyveleri koy; üzüm suyunun yarısını ekleyip pürüzsüz olana kadar çek.
+Kalan üzüm suyu ve alkolü ekle, 30 sn daha karıştır.
+Bardağa dök, üstüne Kırmızı Baharat serpiştir.
+Buzla çekersen daha soğuk olur; besin kaybı azalır, tadı da güzelleşir.
+
+^008040Özel Dövülmüş Et :^000000 Ateşte ısıtılıp basılan metal mühür değildir!
+Malzemeler : ^4B0082Et 1, Kraliyet Jölesi 1, Filiz 1, Hafif Sos 1, Sarı Ot 1,
+Beyaz Ot 1, Kırmızı Ot 1^000000
+Yöntem : Eti pirinç şarabında 1 gün beklet; buharda 2 saat pişirip ince dilimle.
+Kraliyet Jölesi ve otları doğra; filizleri hafifçe haşla.
+Tencerede yeşil soğan yağını ısıt; pirinç şarabı, et suyu, baharat, tuz, karabiber ve Shaoxing şarabını ekle.
+Tüm malzemeyi ekle, kapağını kapat; 3 saat buharda pişirip servis et.
+
+
+^FF8040Yükselen Ejderha Çorbası :^000000 Acıyla ağzından ateş püskürtür gibi!Malzemeler : ^4B0082Ejderha Derisi 1, Ejderha Kuyruğu 1, Yggdrasil Yaprağı 1, Kraliyet Jölesi 1, Acı Sos 1,
+Kırmızı Baharat 1, İri Solucan 1^000000
+Yöntem : Ejderha derisi serttir; bolca çizik at.
+Kuyruğu lokmalık doğra.
+Kraliyet Jölesini kalın yarım ay, Yggdrasil Yaprağını verev doğra.
+Solucanı yıka; tencereye alıp 10 dk kaynat. Suyu lezzetlenince solucanı çıkar.
+Acı Sos ve Kırmızı Baharatı ekleyip karıştır.
+Deri, kuyruk ve Kraliyet Jölesini ekle, kaynat.
+Neredeyse pişince Yggdrasil Yaprağını at; bir taşım daha kaynatıp servis et.
+
+^400080Kan Aromalı Gazoz :^000000 "Metal masa yalıyor" tadı diye bilinir.
+Malzemeler : ^4B0082Çiftlik Hayvanı Kanı 1, Ağrı Önleyici 1, Aloe Vera 1, Alkol 1, Kraliyet Jölesi 1,
+
+Kırmızı Baharat 1, Elma Suyu 1^000000Yöntem : Aloe Vera’yı ince doğra; 20°C ılık suda 5 dk beklet.
+5 dk sonra ~3,7 L şişeyi şeker, kalan Aloe Vera ve suyla doldur.
+Şeker eriyene kadar 2 dk çalkala.
+Kapağı sıkıca kapat, 4–6 gün fermente et.
+Kraliyet Jölesini doğra; Elma Suyu ile karıştır.
+Fermente sodalı su, alkol ve Ağrı Önleyiciyi ekle; 30 sn daha karıştır.
+Bardağa dök; üstüne Kırmızı Baharat serpiştir.
+
+^FF3366Karışık Yemek Sv. 9 :^000000 Sv. 9 yemeklerinin özü
+Malzemeler : ^4B0082Tendon Sote 1, Tristram 12 Yıllık 1, Göksel Meyve Suyu 1, Özel Dövülmüş Et 1, Yükselen Ejderha Çorbası 1, Kan Aromalı Gazoz 1^000000
+
+Yöntem : Tüm Sv. 9 yemeklerini topla, büyük bir sofra olarak düzenli sun.

@@ -1,0 +1,55 @@
+[ Pembuatan Guild ]
+1. Kamu harus memiliki Emperium.
+ 
+2. Saat memiliki Emperium,
+   masukkan "/guild (Nama Guild)" di jendela chat,
+   atau klik tombol "Buat Guild" untuk membuat guild.
+ 
+3. Jendela Informasi Guild dapat dibuka dengan G (ALT+G).
+ 
+[ Jendela Informasi Guild ]
+1. Kamu dapat melihat informasi seperti nama guild,
+   EXP, level guild, emblem guild,
+   nama master, jumlah anggota,
+   level rata-rata anggota, aliansi,
+   dan guild lawan.
+ 
+2. Informasi Anggota:
+   Kamu dapat melihat informasi individual anggota guild,
+   dan klik kanan untuk mengelola keluar dari guild.
+   Keluar dari guild hanya dapat dilakukan oleh anggota itu sendiri,
+   dan master guild juga dapat mengeluarkan anggota.
+ 
+3. Pengaturan Jabatan:
+   Kamu dapat mengatur tingkat kontribusi EXP guild
+   dan jabatan anggota.
+   Tingkat kontribusi dapat diatur hingga 50%.
+   EXP yang disumbangkan ke guild akan direset saat keluar dari guild.
+ 
+4. Skill Guild:
+   Setiap kenaikan 1 level guild,
+   kamu akan mendapatkan 1 poin skill,
+   yang dapat digunakan untuk skill guild.
+ 
+5. Anggota yang Dikeluarkan:
+   Menampilkan daftar anggota yang dikeluarkan dari guild
+   beserta alasannya.
+ 
+6. Master guild dapat menyampaikan berbagai pengumuman
+   kepada anggota melalui jendela chat.
+ 
+[ Pendaftaran dan Perubahan Emblem ]
+1. Buat emblem berukuran 24x24 piksel
+   dengan format Bitmap (BMP) 256 warna.
+ 
+2. Buat folder bernama "Emblem"
+   di direktori instalasi Ragnarok,
+   lalu salin file gambar emblem ke dalamnya.
+ 
+3. Di jendela Informasi Guild,
+   tekan tombol edit pada area emblem
+   untuk menerapkan emblem.
+ 
+4. Hanya master guild yang dapat mengubah emblem,
+   dan emblem dapat diubah kapan saja.
+#

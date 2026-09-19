@@ -1,0 +1,29 @@
+%faf0e6
+^000088Grundlagen der Alchemie zur Herstellung von Flaschengranaten^000000
+
+
+----------------Vorwort--------------------
+
+Nachdem die Herstellung von Alkohol in der Welt bekannt geworden war, wurde er für verschiedenste Zwecke genutzt.
+Beim Militär suchten wir nach einer effizienteren und einfacheren Methode,
+um eine leicht einsetzbare Form zu schaffen, und fanden schließlich die Flaschengranate.
+Da sie für den militärischen Einsatz entwickelt wurde, ist ihre Verwendung durch Zivilisten gefährlich.
+Ich halte dies fest in der Hoffnung, dass dieses Dokument nicht nach außen gelangt und kein Unglück daraus entsteht.
+
+------------------------------------------
+
+
+
+^0000FFFlaschengranate^000000 – Was ist das?
+
+Eine Art improvisierte Brandgranate, bei der ein Brandmittel in einer Glasflasche enthalten ist.
+
+
+
+Zutaten : ^4B0082Alkohol 1 Stück, Transparentes Stoffstück 1 Stück, Leere Flasche 1 Stück^000000
+Herstellung : Eine Mörserschale vorbereiten.
+Alkohol vorsichtig in die Mörserschale gießen und durch Kontakt mit der Luft leicht oxidieren lassen.
+Den Alkohol erneut in die Leere Flasche füllen, ein Ende des Transparenten Stoffstücks darin tränken,
+das andere Ende einmal verknoten und mit dem geknoteten Teil die Öffnung der Leeren Flasche verschließen.
+Für eine einfache Herstellung dieses Buch bei sich tragen, die Materialien bereithalten und
+Trankzubereitung als Grundlage der Alchemie verwenden.

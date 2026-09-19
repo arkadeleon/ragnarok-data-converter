@@ -1,0 +1,55 @@
+%faf0e6
+^000088-Le goût maternel qui guérit jusqu’au cœur. Pour ceux qui ont la nostalgie de la chaleur familiale-^000000
+
+Cependant, il s’agit d’un recueil de recettes de Cuisine niv. 2 qui ne soigne pas les PV.
+
+^FF0000Salade de palmure assaisonnée :^000000 La saveur légère réduit la viscosité et met en valeur la texture.
+Ingrédients : ^4B0082Palmure collante x1, Herbe verte x1, Herbe jaune x1, Sauce légère x1^000000
+Préparation : Conservez la Palmure collante dans de l’eau glacée, et coupez en julienne l’Herbe verte et l’Herbe jaune.
+Mélangez une quantité appropriée de Palmure collante avec une quantité équivalente d’herbes coupées.
+Lorsque les herbes commencent à ramollir, ajoutez la Sauce légère et le reste des herbes, puis mélangez à nouveau.
+À conserver au frais pour garder la texture élastique et éviter que ça ne colle.
+
+^0000FFThé noir aux feuilles d'automne :^000000 À déguster avec des biscuits ou des gâteaux.
+Ingrédients : ^4B0082Herbe bleue x1, Herbe rouge x1, Herbe jaune x1^000000
+Préparation : Préparez des herbes bien séchées et fermentées.
+Placez les feuilles d’herbe dans une théière préchauffée à l’eau bouillante (veillez à ce que l’intérieur reste sec),
+ajoutez l’eau bouillante, fermez le couvercle et laissez infuser 2 à 3 minutes.
+Ni trop longtemps, ni trop peu ; on peut aussi ajouter du lait ou du citron selon les goûts.
+
+
+^800000Mousse au chocolat :^000000 La douceur fond dans la bouche.
+Ingrédients : ^4B0082Cacao x1, x1, x1, Assiette blanche x1
+Préparation : Fouettez la poudre de Cacao finement moulue avec le lait pour obtenir une crème (crema).
+Gardez une partie de la génoise du gâteau, mangez le reste sans attendre,
+puis mélangez la crème et un stabilisant avec le gâteau restant, laissez refroidir et servez sur une assiette.
+
+^008040Nouilles glissantes :^000000 Il faut bien manier les baguettes pour les manger facilement.
+Ingrédients : ^4B0082Céréales x1, Sauce légère x1, x1, x1^000000
+Préparation : La base des nouilles, c’est la pâte. Mélangez de la farine obtenue à partir de Céréales à teneur modérée en protéines
+avec un peu d’eau froide, pétrissez, puis étirez et repliez plusieurs fois pour former les nouilles.
+Il est conseillé de laisser reposer les nouilles une journée.
+Faites bouillir la tête de courge dans l’eau, puis tapez-la pour obtenir des filaments fins comme des nouilles.
+Coupez la carotte en julienne et faites-la revenir légèrement. Faites cuire les nouilles dans l’eau, puis égouttez-les.
+Lorsque l’eau commence à déborder, versez un peu d’eau froide, faites bouillir à nouveau, puis égouttez.
+Rincez les nouilles à l’eau froide pour obtenir une texture élastique exceptionnelle.
+Placez les nouilles et les filaments de courge dans la peau évidée de la courge,
+versez le bouillon préparé et ajoutez les carottes sautées par-dessus.
+
+
+^FF8040Plateau de fruits de mer :^000000 Un assortiment de divers fruits de mer.
+Ingrédients : ^4B0082Chair de coquillage x1, Branchie à pointes x1, Nageoire dorsale x1, Poisson savoureux x1^000000
+Préparation : Faites bouillir légèrement la Chair de coquillage et le Poisson savoureux, puis coupez-les en morceaux appropriés.
+Retirez toutes les épines de la Branchie à pointes à l’aide d’une pince,
+faites-la bouillir légèrement, puis coupez-la en morceaux.
+Blanchissez la Nageoire dorsale, puis pliez-la en éventail trois fois avec les autres ingrédients.
+
+^400080Jus mélangé :^000000 Une combinaison inattendue pour une saveur surprenante. Chance !
+Ingrédients : ^4B0082x1, x1, x1, Jus d'orange x1^000000
+Préparation : Le dosage des ingrédients est crucial.
+Le jus de carotte sert de base, puis selon l’ordre et la proportion des autres jus,
+la saveur varie. Ceux qui préfèrent l’acidité
+mélangent dans l’ordre pomme, Orange, raisin ;
+ceux qui préfèrent la douceur mélangent raisin, pomme, Orange.
+Parfois, certains créent des saveurs inattendues en expérimentant.
+(On raconte que certains ont découvert un nouveau monde.)

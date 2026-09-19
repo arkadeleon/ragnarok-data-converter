@@ -1,0 +1,67 @@
+%faf0e6
+^000088Kapalı odada bile yemek yapabilen kişi^000000
+
+"Sonuç hep tek: Yemek bu tencerede!!" Sv. 6 tarifi!
+Usta aşçı dedenin adını taşıyan, gurmelik yolunun gizli tarifi.
+
+^FF0000Parlayan Novice Başlığı :^000000Yemeyecek kadar parlamıyor; merak etme!
+Malzemeler : ^4B0082Et 1, Bal 1, Sarı Ot 1, Mastela Meyvesi 1, Işıltılı Pul 1^000000
+Yöntem : Eti kemikten ayırın, et tokmağıyla iyice dövüp yumuşatın.
+Geniş bir tabağa alın; bol bal ve Mastela meyvesi suyunu gezdirin.
+İyice yedirin; tuz ve karabiberle ön tat verin.
+Eti Işıltılı Pul ile sıkıca sarın, yaklaşık 1 gün marine edin.
+Izgara ya da tavayı iyice kızdırın; eti serip pişirin.
+Hafif çukur, geniş bir tabağa Sarı Ot serin; eti yerleştirip servis edin.
+
+^0000FFKırmızı Mantar Şarabı :^000000Nemden mantar türemedi; için rahat olsun!
+Malzemeler : ^4B0082Yenilebilir Mantar 1, Üzüm Suyu 1, Mantar Sporu 1, Alkol 1, Kırmızı Baharat 1^000000
+Yöntem : Yenilebilir mantarı küçük küçük doğrayın.
+Kaba yeterince üzüm suyu koyun; mantarı kat kat dizip aralara azar azar Mantar Sporu serpin. 1–3 gün dinlendirin.
+Alkol ve az miktarda Kırmızı Baharat ekleyin; kapağını sıkıca kapatın.
+Serin ve karanlık bir yerde yaklaşık 3 ay demleyip olgunlaştırın.
+Olgunlaşınca posayı ayırın, berrakça süzün; şişeleyin.
+
+^800000Şeftalili Kek :^000000Püf nokta: yumuşak şeftali aroması!
+Malzemeler : ^4B0082Çok Sert Şeftali 1, Kek Parçası 1, Peynir 1, Süt 1,
+Portakal Suyu 1, Tatlı Sos 1^000000
+Yöntem : Kek parçasının pandispanyasından biraz bırakın; kalanını hızlıca yiyip hazırlayın.
+Şeftaliyi ince yarım ay dilimler halinde kesin.
+Tencerede Tatlı Sos ve az peynir eritin; şeftaliyi ekleyin.
+Yumuşayana kadar kısık ateşte pişirip oda sıcaklığında soğutun.
+Kek kalıbını tereyağıyla yağlayıp şeker serpin.
+Kalan peyniri ve kek parçasını küçük doğrayıp karıştırın.
+Yumurta ve süt ekleyip biraz daha karıştırın.
+Ilıyan şeftali kompostosunu ve şurubunu kalıba dökün; hamuru üstüne koyun.
+(Süsleme isteğe bağlı.)
+160°C'de 50 dk pişirin.
+
+
+
+^008040Acılı Karides Graten :^000000Malzemeler : ^4B0082Kırmızı Biber 1, Karides 1, Tatlı Sos 1, Limon 1^000000Yöntem : Karidesi ayıklayın; limonu sıkıp suyunu hazırlayın.
+Kırmızı Biber'i ince öğütüp toz haline getirin.
+Tavaya Kırmızı Biber tozu ve 5 yemek kaşığı su koyun; karidesi ekleyip soteleyin.
+Tatlı Sos ve limon suyunu ekleyip biraz daha soteleyin.
+Graten kabını tereyağıyla yağlayın; karidesi koyup üstüne peynir serpin.
+Önceden 180°C'ye ısıtılmış fırında yaklaşık 10 dk pişirin; dilim limonla servis edin.
+
+^FF8040Son Derece Acı İksir :^000000İlaç eczacıdan, muayene doktordan...
+Malzemeler : ^4B0082Kahverengi Kök 1, İnsan Yiyen Kök 1, Mantar Sporu 1, Yenilebilir Mantar 1, Bal 1^000000
+
+Yöntem : Şifalı malzemeleri iyice kurutun; makasla ince ince kesin.Kaynatma kabına (veya cam demliğe) koyun; 4–5 bardak soğuk su ekleyin.
+1–2 saat bekletin; ardından en kısık ateşte ağır ağır kaynatın.
+Su cızırdamaya başlayınca ocağı kapatın.
+İnce bir bezden süzün (sıkmayın); sadece berrak kısmını için.
+Tekrar demlemek için aynı malzemeye su ekleyip yeniden kaynatın.
+
+^400080Geoun Çorbası :^000000Tamamen şans eseri doğan dev şans. (Sıc)ak Geoun Çorbası!
+
+
+Malzemeler : ^4B0082Sürüngen Dili 1, Uzun İnce Dil 1, Yonca 1, Cadı Yıldız Kumu 1, Aloe 1^000000Yöntem : Sürüngen dili ve Uzun İnce Dil'i haşlayın; soğuk sudan geçirip ince şeritler halinde doğrayın.Aloe'yi soyup ince şeritler halinde doğrayın.
+Geniş bir tencerede Cadı Yıldız Kumu'nu kaynatın; doğranmış dilleri ekleyin.
+Kaynayıp biraz pişince Yonca ekleyin; kısa süre daha kaynatın.
+
+^FF3366Karışık Yemek Sv. 6 :^000000Sv. 6 yemeklerin özü
+Malzemeler : ^4B0082Parlayan Novice Başlığı 1, Kırmızı Mantar Şarabı 1, Şeftalili Kek 1, Acılı Karides Graten 1, Son Derece Acı İksir 1, Geoun Çorbası 1^000000
+
+
+Yöntem : Tüm Sv. 6 yemekleri toplayın; büyük bir sofra olarak özenle sunun.

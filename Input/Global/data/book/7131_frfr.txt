@@ -1,0 +1,27 @@
+%faf0e6
+^000088Alchimie pour la fabrication de Bouteille de Marine Sphere^000000
+
+
+----------------Préface--------------------
+En explorant Izlude, nous avons découvert un monstre appelé Marine Sphere qui
+ne bougeait pas, mais explosait lorsqu'on le touchait.
+Nous nous sommes demandé s'il était possible de le faire flotter dans l'air plutôt que dans l'eau
+et, après réflexion, nous avons finalement réussi à le synthétiser !
+Cette bombe, utilisée contre l'ennemi, sera sans doute avantageuse pour les attaques surprises.
+------------------------------------------
+
+^400080Qu'est-ce que la Bouteille de Marine Sphere ?^000000
+
+Il s'agit d'un type de bombe qui flotte dans l'air ou sous l'eau et projette toute cible en contact dans les airs.
+En la traitant spécialement et en la plaçant dans une Bouteille vide, on obtient une Bouteille de Marine Sphere.
+Il faut la manipuler avec précaution, de la fabrication à l'utilisation.
+Cependant, seuls les alchimistes ayant acquis une technique particulière
+peuvent l'utiliser.
+
+
+Ingrédients : ^4B0082Détonateur x1, x1, Bouteille vide x1^000000
+Méthode de fabrication : Préparez un Mortier.
+Placez le Détonateur et le tendon dans le Mortier, puis, en ayant ce livre sur vous,
+utilisez la compétence Pharmacie pour les mettre dans la Bouteille vide.
+Contrairement à la simple synthèse,
+il faudra apprendre une technique spéciale pour pouvoir l'utiliser.

@@ -1,0 +1,57 @@
+%faf0e6
+^000088-Una conmovedora historia culinaria que nadie puede resistirse a probar.-^000000
+
+¡Una receta de nivel 4 con el subtítulo "¡Tú ya estás comiendo!"! Ya a la venta con gran éxito.
+Pero no te preocupes, ¡no significa que vaya a comerse a cualquiera!
+
+^FF0000Costillas marinadas con hierbas:^000000 Costillas de primera calidad maduradas con un adobo de hierbas. ¡Una ternura excepcional!
+Ingredientes: ^4B0082Carne 1 unidad, Hierba roja 1 unidad, Hierba amarilla 1 unidad, Hierba verde 1 unidad, Salsa dulce 1 unidad, Limón 1 unidad^000000
+Preparación: Retira la grasa de la carne, haz unos cortes en la parte magra y déjala en agua durante aproximadamente 1 hora para eliminar la sangre.
+Pica bien las hierbas, mézclalas con una cantidad adecuada de salsa dulce y agua, cuécelas durante aproximadamente 1 hora y, cuando se enfríen, añade el zumo de limón.
+Remueve bien y deja enfriar. Prepara una fuente amplia y un recipiente, vierte el adobo en la fuente
+y sumerge uno a uno los trozos de carne ya preparados para impregnarlos. Después, colócalos ordenadamente en el recipiente y vierte el adobo restante
+dentro. Déjalos marinar entre medio día y un día, y luego ásalos.
+
+^0000FFLicor de frutas de Morroc:^000000 ¡Dulce y ácido! ¡Incluso te gustará si no soportas el alcohol!
+Ingredientes: ^4B0082Fresa 1 unidad, Limón 1 unidad, Naranja 1 unidad, Alcohol 1 unidad, Uva 1 unidad^000000
+Preparación: Exprime bien el limón y la naranja con un exprimidor.
+Retira el pedúnculo de las fresas bien lavadas, pela las uvas y quítales las semillas.
+Ponlo todo en una batidora y tritura durante 30 segundos. Añade Alcohol 1 unidad y el zumo de limón, y tritura durante otros 5 segundos.
+Por último, añade Alcohol 1 unidad y el zumo de naranja, y tritura durante 15 segundos. ¡Listo!
+
+^800000Sándwich de crema:^000000 ¡Repleto de crema! Aunque el sándwich tenga demasiada crema, ¡no te la pongas en el pelo!
+Ingredientes: ^4B0082Pan 1 unidad, Leche 1 unidad, Queso 1 unidad, Hierba amarilla 1 unidad, Carne 1 unidad, Salsa dulce 1 unidad^000000
+Preparación: Tuesta ligeramente el pan con mantequilla y bate la leche para hacer crema.
+Corta una hamburguesa de carne bien gruesa y cocínala al punto.
+Coloca las hierbas sobre el pan, úntalo con salsa dulce y pon encima la hamburguesa de carne.
+Añade el queso, coloca el resto de las hierbas, cubre con abundante crema y termina con otra rebanada de pan.
+
+^008040Bibim-naengmyeon de Lutie:^000000 ¡Precio económico y un picante vertiginoso!
+Ingredientes: ^4B0082Cereal 1 unidad, Salsa picante 1 unidad, Trozo de hielo 1 unidad, Zanahoria 1 unidad, Cabeza de calabaza 1 unidad^000000
+Preparación: Añade poco a poco agua caliente a la harina obtenida al moler cereal con una cantidad adecuada de proteínas
+para preparar una masa escaldada, y amásala continuamente hasta que adquiera elasticidad y brillo.
+Ablanda la masa y colócala en un molde cuadrado con una malla fijada en la parte inferior. Cúbrelo con una tapa
+y presiona con fuerza desde arriba para formar los fideos. Cuécelos en agua hirviendo, frótalos y enjuágalos con agua fría,
+y déjalos escurrir en un colador.
+Cuece bien la cabeza de calabaza en agua y golpéala para que salga en tiras finas como fideos.
+Corta la zanahoria en juliana fina. Coloca los fideos y los fideos de calabaza en un cuenco, añade el hielo
+y aliña por encima con una cantidad adecuada de salsa picante. Sirve con la zanahoria por encima.
+
+^FF8040Ensalada de medusa:^000000 Como se sirve bien cocida, no hay riesgo de que te pique.
+Ingredientes: ^4B0082Tentáculo 1 unidad, Hierba blanca 1 unidad, Hoja tierna 1 unidad, Sartén vieja 1 unidad, Tinta 1 unidad^000000
+Preparación: Enjuaga la hoja tierna con agua, escúrrela bien y mézclala con salsa de tinta.
+Corta el tentáculo en tiras y lávalo. Calienta agua en la sartén vieja y escáldalo ligeramente. Después,
+enjuágalo con agua fría y escúrrelo bien. Si lo escaldas demasiado, se encogerá, así que
+sumérgelo brevemente en agua caliente y retíralo enseguida.
+Mezcla la hierba blanca cortada en tiras, el tentáculo y la hoja aliñada, y añade un poco más
+de aderezo de tinta. Déjalo enfriar y sírvelo en un plato.
+
+^400080Plato de pez antiguo:^000000 ¡No te preocupes, no sentirás que estás besando a un pez antiguo!
+Ingredientes: ^4B0082Labio de pez antiguo 1 unidad, Hoja de mapache 1 unidad, Hierba blanca 1 unidad, Pescado sabroso 1 unidad, Salsa dulce 1 unidad^000000
+Preparación: Lava bien el labio de pez antiguo con agua salada. Al pescado sabroso,
+quítale la cabeza y las vísceras, y córtalo en tres filetes siguiendo la espina central.
+Retira las espinas pequeñas con unas pinzas y déjalo marinar con Salsa dulce 1 unidad.
+Cuando esté bien marinado, cubre el fondo de una vaporera con la hoja de mapache y cuécelo al vapor.
+Colócalo con el lado de las escamas hacia abajo para evitar que la carne se encoja.
+Antes de que empiece a salir vapor, reparte la salsa dulce de manera uniforme,
+esparce por encima la hierba blanca cortada en tiras y cuécelo al vapor durante aproximadamente 20 minutos.

@@ -1,0 +1,327 @@
+501#
+1 Rotes Kraut
+1 Leere Trankflasche
+#
+503#
+1 Gelbes Kraut
+1 Leere Trankflasche
+#
+504#
+1 Weißes Kraut
+1 Leere Trankflasche
+#
+505#
+1 Blaues Kraut
+1 Zell
+1 Leere Trankflasche
+#
+545#
+1 Roter Trank
+1 Leeres Reagenzglas
+1 Kaktusnadel
+#
+546#
+1 Gelber Trank
+1 Leeres Reagenzglas
+1 Schnurrhaar des Maulwurfs
+#
+547#
+1 Weißer Trank
+1 Leeres Reagenzglas
+1 Hexen-Sternensand
+#
+605#
+1 Ment
+1 Alkohol
+1 Leere Flasche
+#
+606#
+1 Aloe
+1 Honig
+1 Leere Flasche
+#
+970#
+5 Pflanzenstängel
+1 Leere Flasche
+5 Giftpilzsporen
+1 Leeres Reagenzglas
+#
+994#
+10 Rotes Blut
+#
+995#
+10 Kristallblau
+#
+996#
+10 Grüner Wind
+#
+997#
+10 Green Live
+#
+998#
+1 Eisenerz
+#
+999#
+5 Eisen
+1 Kohle
+#
+1000#
+10 Sternenstaub
+#
+1101#
+2 Eisen
+#
+1104#
+30 Eisen
+#
+1107#
+45 Eisen
+25 Fledermauszahn
+#
+1110#
+20 Stahl
+#
+1113#
+35 Stahl
+#
+1116#
+35 Eisen
+15 Zahn des Toten
+#
+1119#
+8 Oridecon
+15 Stahl
+1 Granat
+#
+1122#
+40 Stahl
+50 Wolfsklaue
+#
+1123#
+8 Oridecon
+10 Stahl
+1 Topas
+#
+1126#
+8 Oridecon
+5 Stahl
+1 Opal
+#
+1129#
+16 Oridecon
+1 Rubin
+#
+1151#
+25 Stahl
+20 Nagel des Toten
+#
+1154#
+45 Stahl
+#
+1157#
+12 Oridecon
+10 Stahl
+#
+1160#
+12 Oridecon
+20 Stahl
+#
+1163#
+16 Oridecon
+20 Stahl
+1 Diamant
+#
+1201#
+1 Eisen
+10 Jejellopy
+#
+1204#
+25 Eisen
+#
+1207#
+50 Eisen
+#
+1210#
+17 Stahl
+#
+1213#
+30 Stahl
+#
+1216#
+40 Stahl
+#
+1219#
+4 Oridecon
+40 Stahl
+1 Saphir
+#
+1222#
+4 Oridecon
+60 Stahl
+1 Zirkon
+#
+1301#
+10 Eisen
+#
+1330#
+2 Mithril-Erz, 15 Stahl
+18 Oridecon, 1 Zelostein der Dämmerung
+#
+1351#
+110 Eisen
+#
+1354#
+30 Stahl
+#
+1357#
+4 Oridecon
+20 Stahl
+30 Ork-Reißzahn
+#
+1360#
+8 Oridecon
+10 Stahl
+1 Amethyst
+#
+1401#
+3 Eisen
+#
+1404#
+35 Eisen
+#
+1407#
+70 Eisen
+#
+1410#
+12 Oridecon
+3 Rubin
+2 Baphomets Horn
+#
+1451#
+25 Stahl
+#
+1454#
+40 Stahl
+#
+1457#
+55 Stahl
+#
+1460#
+8 Oridecon
+10 Stahl
+5 Aquamarin
+#
+1463#
+12 Oridecon
+10 Stahl
+#
+1501#
+3 Eisen
+#
+1504#
+30 Eisen
+#
+1507#
+20 Stahl
+#
+1510#
+33 Stahl
+#
+1513#
+85 Stahl
+1 Diamant
+#
+1516#
+100 Stahl
+20 Scharfe Schuppe
+#
+1519#
+45 Stahl
+#
+1522#
+120 Stahl
+1 Beweis des Orkhelden
+#
+1801#
+160 Eisen
+1 Perle
+#
+1803#
+50 Stahl
+#
+1805#
+65 Stahl
+#
+1807#
+4 Oridecon
+10 Rubin
+#
+1809#
+8 Oridecon
+10 Topas
+#
+1811#
+4 Oridecon
+10 Opal
+#
+1860#
+2 Mithril-Erz, 15 Stahl
+18 Oridecon, 1 Blutgetränkter Rubin
+#
+7135#
+1 Alkohol
+1 Transparentes Stoffstück
+1 Leere Flasche
+#
+7136#
+1 Unaufhaltsames Herz
+1 Leere Flasche
+#
+7137#
+2 Blüte der Menschenfresserpflanze
+1 Leere Flasche
+#
+7138#
+1 Zünder
+1 Sehne
+1 Leere Flasche
+#
+7139#
+1 Alkohol
+1 Zenorc-Zahn
+1 Herz der Meerjungfrau
+1 Leere Flasche
+#
+13491#
+2 Mithril-Erz, 15 Stahl
+18 Oridecon, 1 Schimmernder Opal
+#
+16086#
+2 Mithril-Erz, 15 Stahl
+18 Oridecon, 1 Saphir des blauen Meeres
+#
+21045#
+2 Mithril-Erz, 15 Stahl
+22 Oridecon, 1 Zelostein des blauen Winds
+#
+26020#
+2 Mithril-Erz, 15 Stahl
+22 Oridecon, 1 Zelostein des Chaos
+#
+28134#
+2 Mithril-Erz, 15 Stahl
+22 Oridecon, 1 Verfluchter Smaragd
+#
+28752#
+2 Mithril-Erz, 15 Stahl
+18 Oridecon, 1 Karmesinroter Zelostein
+#
+32016#
+2 Mithril-Erz, 15 Stahl
+18 Oridecon, 1 Zelostein der Dämmerung
+#
+100371#
+1 Samen des Lebens
+1 Gelbes Kraut
+1 Leere Flasche
+#

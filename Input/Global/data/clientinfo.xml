@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+	<servicetype>global</servicetype>
+	<servertype>primary</servertype>
+	<extendedslot></extendedslot>
+	<readfolder></readfolder>
+	
+	<connection>
+		<display>Europe</display>
+		<domain></domain>
+		<taaddress></taaddress>
+		<version>14</version>
+		<aid>
+			<admin>1900121</admin>
+			<admin>1900122</admin>
+			<admin>1900123</admin>
+			<admin>1900124</admin>
+			<admin>1900125</admin>
+			<admin>1900126</admin>
+			<admin>1900127</admin>
+			<admin>1900128</admin>
+			<admin>1900129</admin>
+			<admin>1900130</admin>
+		</aid>
+	</connection>
+	
+	<connection>
+		<display>Southeast Asia</display>
+		<domain></domain>
+		<taaddress></taaddress>
+		<version>14</version>
+		<aid>
+			<admin>1900121</admin>
+			<admin>1900122</admin>
+			<admin>1900123</admin>
+			<admin>1900124</admin>
+			<admin>1900125</admin>
+			<admin>1900126</admin>
+			<admin>1900127</admin>
+			<admin>1900128</admin>
+			<admin>1900129</admin>
+			<admin>1900130</admin>
+		</aid>
+	</connection>
+</clientinfo>

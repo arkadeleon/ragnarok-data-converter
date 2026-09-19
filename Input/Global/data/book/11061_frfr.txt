@@ -1,0 +1,123 @@
+%f5f5dc
+^000088Échange d'objets de l'officier de logistique du château de Prontera - Objets de consommation^000000
+
+^FF0000[Carte du centre-ville]^000000
+Carte guidant l'intérieur de la ville.
+À l'utilisation, déclenche l'Augmentation de l'agilité niveau 1.
+Attention ! - Si utilisée pendant un lancement de sort, l'effet ne s'active pas.
+Attention ! - Consomme 15 PV, donc si vous n'avez pas au moins 15 PV, l'effet ne s'active pas et la carte disparaît, soyez prudent.
+Poids : 1
+
+^FF0000[Eau bénite scintillante]^000000
+Réduit de 10% les dégâts reçus dans la Salle du Rituel et le Donjon d'Invasion de Prontera pendant 3 minutes.
+Dissipe poison, Malédiction, silence et restaure 1000 PV.
+Poids : 1,5
+
+^FF0000[Clé de la prison]^000000
+Plusieurs clés usées et sales sont attachées ensemble.
+Permet de se déplacer vers le donjon de la Prison souterraine du château de Prontera.
+Poids : 1
+
+^FF0000[Badge de Prontera]^000000
+Badge contenant les coordonnées de Prontera.
+À l'utilisation, vous téléporte à Prontera.
+Poids : 1
+
+
+^000088Échange d'objets de l'officier de logistique du château de Prontera - Objets d'armure^000000
+
+^FF0000[Carte du centre-ville]^000000
+Carte guidant l'intérieur de la ville.
+Permet d'utiliser l'Augmentation de l'agilité niveau 3.
+Catégorie : Accessoire
+Défense : 0
+Poids : 10
+Niveau requis : 40
+Équipable par Toutes les classes
+Emplacement : 1
+
+^FF0000[Eau bénite scintillante]^000000
+Réduit de 20% les dégâts reçus dans la Salle du Rituel et le Donjon d'Invasion de Prontera.
+Restaure 100 PV et 5 PM toutes les 10 secondes.
+Catégorie : Accessoire Défense : 0
+Poids : 15
+Niveau requis : 100
+Équipable par Toutes les classes
+Emplacement : 1
+
+^FF0000[Bouclier de la garde royale]^000000
+Bouclier du chevalier de la garde royale du royaume.
+Permet d'utiliser 'Sort de Bouclier' niveau 1.
+Lors de la réception de dégâts physiques au corps à corps, a une certaine chance d'activer 'Assumptio' niveau 3 sur soi-même.
+La probabilité d'activation de 'Assumptio' niveau 3 augmente selon le niveau de raffinement.
+Par raffinement, DÉF +10, DÉF.M +1.
+Catégorie : Bouclier
+Défense : 30
+Poids : 300
+Niveau requis : 100
+Équipable par Toutes les classes
+Emplacement : 1
+
+^FF0000[Badge de Prontera]^000000
+Permet d'utiliser la compétence 'Retour à Prontera'.
+Après utilisation, ne peut pas être réutilisé pendant 15 minutes.
+Catégorie : Accessoire
+Défense : 0
+Poids : 10
+Niveau requis : 40
+Équipable par Toutes les classes
+
+^FF0000[Robe de la flatterie]^000000
+Vêtement de ceux qui n'hésitent devant rien pour atteindre leur but.
+Permet d'utiliser Endurance niveau 1
+ATQ.M + 50
+Si le niveau du porteur est supérieur ou égal à 120, ATQ.M + 50 supplémentaire
+Si le niveau du porteur est supérieur ou égal à 140, ATQ.M + 50 supplémentaire
+
+Si portée avec la Cape de l'ancien seigneur,
+PM max. + 10%, +1% PM max. par niveau de raffinement de l'armure.
+ESQ + 10, +1 ESQ par niveau de raffinement de l'armure.
+Si portée avec la Cape de la survie,
+PV max. + 10%, +1% PV max. par niveau de raffinement de l'armure.
+ATQ.M + 2%, +1% ATQ.M par niveau de raffinement de l'armure.
+Catégorie : Armure
+Défense : 0
+Poids : 10
+Niveau requis : 100
+Équipable par Toutes les classes
+Emplacement : 1
+
+^FF0000[Robe du sarcasme]^000000
+Vêtement de ceux capables de conversations infligeant des blessures jusqu'à l'âme.
+Permet d'utiliser Concentration niveau 1.
+Par niveau de raffinement de l'armure, ignore 4% de la défense physique des ennemis Humanoïdes, Démons et Mort-vivants.
+Si portée avec la Cape de Moriane,
+Ignore 15% de la défense physique des ennemis Humanoïdes, Démons et Mort-vivants.
+CHA + 3, +1 CHA par niveau de raffinement de l'armure.
+CRIT + 10, +1 CRIT par niveau de raffinement de l'armure.
+Si portée avec la Cape de la Valkyrie,
+Ignore 15% de la défense physique des ennemis Humanoïdes, Démons et Mort-vivants.
+PV max. + 10%, +1% PV max. par niveau de raffinement de l'armure.
+ATQ + 2%, +1% ATQ par niveau de raffinement de l'armure.
+Catégorie : Armure
+Défense : 0
+Poids : 10
+Niveau requis : 100
+Équipable par Toutes les classes
+Emplacement : 1
+
+^FF0000[Costume Ornement du Temps]^000000
+On a l'impression d'être piégé dans le temps qui s'écoule
+Catégorie : Costume
+Défense : 0
+Position : Milieu
+Poids : 0
+Niveau requis : 1
+Équipable par Toutes les classes
+
+^FF0000[Main noire du destin]^000000
+On a l'impression que sa tête est saisie et contrôlée par le destin.
+Catégorie : Costume Défense : 0
+Position : Haut Poids : 0
+Niveau requis : 1
+Équipable par Toutes les classes

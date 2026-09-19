@@ -1,0 +1,56 @@
+%faf0e6
+^000088Método de síntesis de pociones elementales que aumentan la resistencia^000000
+
+
+----------------Prólogo--------------------
+Mientras investigábamos los atributos de fuego, agua, viento y tierra, los cuatro elementos básicos,
+descubrimos un catalizador que aumenta temporalmente la resistencia al mismo atributo,
+y en este libro dejamos constancia del método de síntesis de las pociones de resistencia elemental.
+Espero que resulte de utilidad para manejar mejor los cuatro elementos.
+------------------------------------------
+
+
+^FF0000¿Qué son las pociones de resistencia elemental?^000000
+
+Son pociones que aumentan la resistencia al atributo correspondiente y reducen el daño recibido.
+Sin embargo, como consecuencia, se recibe más daño del atributo opuesto,
+así que tened cuidado.
+
+
+
+
+^0000FFPoción de resistencia al fuego^000000 : Poción que aumenta la resistencia al atributo fuego.
+Materiales : ^4B0082Cuello de lagarto 2 unidades, Gema roja 1 unidad, Frasco de poción vacío 1 unidad^000000
+Método de elaboración : Prepara un mortero.
+Coloca en el mortero Cuello de lagarto 2 unidades, el catalizador del atributo fuego.
+Provoca una reacción química con la Gema roja y usa Farmacia para
+elaborar la poción.
+
+
+
+
+^800000Poción de resistencia al frío^000000 : Poción que aumenta la resistencia al atributo agua.
+Materiales : ^4B0082Corazón de sirena 3 unidades, Gema azul 1 unidad, Frasco de poción vacío 1 unidad^000000
+Método de elaboración : Prepara un mortero.
+Coloca en el mortero Corazón de sirena 3 unidades, el catalizador del atributo agua.
+Provoca una reacción química con la Gema azul y usa Farmacia para
+elaborar la poción.
+
+
+
+^008040Poción de resistencia al trueno^000000 : Poción que aumenta la resistencia al atributo viento.
+Materiales : ^4B0082Polvo de ala de polilla 3 unidades, Gema azul 1 unidad, Frasco de poción vacío 1 unidad^000000
+Método de elaboración : Prepara un mortero.
+Coloca en el mortero Ala de polilla 3 unidades, el catalizador del atributo viento.
+Provoca una reacción química con la Gema azul y usa Farmacia para
+elaborar la poción.
+
+
+
+
+^FF8040Poción de resistencia a la tierra^000000 : Poción que aumenta la resistencia al atributo tierra.
+Materiales : ^4B0082Jellopy grande 2 unidades, Gema amarilla 1 unidad, Frasco de poción vacío 1 unidad^000000
+Método de elaboración : Prepara un mortero.
+Coloca en el mortero Jellopy grande 2 unidades, el catalizador del atributo tierra.
+Provoca una reacción química con la Gema amarilla y usa Farmacia para
+elaborar la poción.

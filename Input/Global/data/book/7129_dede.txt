@@ -1,0 +1,32 @@
+%faf0e6
+^000088Grundlagen der Alchemie zur Herstellung von Säureflasche^000000
+
+
+----------------Vorwort--------------------
+
+Während wir das Unaufhaltsame Herz untersuchten, entdeckten wir, dass unter bestimmten Bedingungen
+Chlorwasserstoff entsteht.
+So hinterlassen wir hier die Methode zur Herstellung von Salzsäure.
+Salzsäure ist aufgrund ihres hohen Ionisationsgrades eine stark saure Lösung.
+Mitunter kann sie stark genug sein, um sogar Stein zu zersetzen, also ist bei der Handhabung Vorsicht geboten.
+
+------------------------------------------
+
+
+^008040Salzsäure^000000 – Was ist das?
+
+Eine Lösung, die entsteht, wenn Chlorwasserstoff (HCl) in Wasser gelöst wird.
+In Flaschen abgefüllt wird daraus eine Säureflasche.
+
+
+
+Zutaten : ^4B0082Unaufhaltsames Herz 1 Stück, Leere Flasche 1 Stück^000000
+Herstellung : Eine Mörserschale vorbereiten.
+Das Unaufhaltsame Herz in die Mörserschale geben, etwas Wasser hinzufügen und im Wasserbad erhitzen.
+Die Wassertemperatur dabei bei 72 Grad halten.
+Das dabei entstehende Gas destillieren, um Chlorwasserstoff zu gewinnen.
+Wasser in eine Leere Flasche füllen und den Chlorwasserstoff darin lösen.
+Wenn 100 Chlorwasserstoffmoleküle gelöst sind und ein Gleichgewicht erreicht wird,
+dissoziiert der Großteil der Moleküle, wodurch eine starke Säureflasche entsteht.
+Für eine einfache Herstellung dieses Buch bei sich tragen, die Materialien bereithalten und
+Trankzubereitung als Grundlage der Alchemie verwenden.

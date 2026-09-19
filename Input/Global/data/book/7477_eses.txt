@@ -1,0 +1,69 @@
+%faf0e6
+^000088Quien es capaz de cocinar incluso en una habitación cerrada^000000
+
+"¡El resultado siempre es uno solo! ¡¡La comida está dentro de esta olla!!" ¡Una receta de nivel 6!
+Los secretos del anciano maestro de cocina para recorrer el camino de la gastronomía, poniendo en juego su propio nombre.
+
+^FF0000Neobiani resplandeciente:^000000 ¡No te preocupes, no brilla tanto como para que no puedas comértelo!
+Ingredientes: ^4B0082Carne 1 unidad, Miel 1 unidad, Hierba amarilla 1 unidad, Fruto de Mastela 1 unidad, Escama brillante 1 unidad^000000
+Preparación: Retira los huesos de la carne y golpéala suavemente con un mazo para ablandarla.
+Coloca la carne en un plato amplio y vierte abundante miel y zumo de fruto de Mastela.
+Golpéala con las manos para que el adobo penetre bien y sazónala con sal y pimienta.
+Envuelve bien la carne adobada con la escama brillante y déjala marinar durante aproximadamente un día.
+Calienta bien una parrilla o sartén, extiende encima la carne marinada y ásala.
+Cubre un plato ancho y ligeramente hondo con hierba amarilla y sirve encima la carne asada.
+
+^0000FFVino de setas rojas:^000000 ¡No te preocupes, las setas no han crecido por guardarlo en un lugar húmedo!
+Ingredientes: ^4B0082Seta comestible 1 unidad, Zumo de uva 1 unidad, Espora de seta 1 unidad, Alcohol 1 unidad, Especia roja 1 unidad^000000
+Preparación: Pica finamente la seta comestible. Vierte una cantidad adecuada de zumo de uva en un recipiente,
+espolvorea poco a poco la seta picada y las esporas, formando capas, y déjalo reposar entre 1 ~ 3 días.
+Añade el alcohol y una pequeña cantidad de especia roja, cierra bien la tapa y déjalo macerar y madurar
+durante aproximadamente 3 meses en un lugar fresco y oscuro.
+Cuando termine la maduración, retira los sólidos, filtra el líquido hasta que quede transparente y embotéllalo.
+
+^800000Tarta de melocotón:^000000 ¡La clave está en conseguir un suave sabor a melocotón!
+Ingredientes: ^4B0082Melocotón muy duro 1 unidad, Porción de tarta 1 unidad, Queso 1 unidad, Leche 1 unidad,
+Zumo de naranja 1 unidad, Salsa dulce 1 unidad^000000
+Preparación: Cómete rápidamente casi todo el bizcocho de la porción de tarta, dejando solo una cantidad adecuada.
+Corta el melocotón en finas medias lunas.
+Pon la salsa dulce y un poco de queso en una olla y derrítelos. Añade el melocotón cortado y
+cuécelo a fuego lento hasta que se ablande. Después, déjalo enfriar a temperatura ambiente.
+Unta un molde para tartas con mantequilla, espolvorea azúcar y déjalo preparado.
+Pica el queso restante y la porción de tarta, y mézclalos. Después, añade el huevo y
+la leche, y sigue mezclando un poco más.
+Vierte en el molde el melocotón cocido, ya templado, junto con el almíbar y coloca la masa encima.
+(La decoración puede hacerse al gusto.)
+Hornéala a 160 grados durante 50 minutos para disfrutar del suave sabor de la tarta de melocotón.
+
+
+
+^008040Gratén de gambas con chile:^000000
+Ingredientes: ^4B0082Chile rojo 1 unidad, Gamba 1 unidad, Salsa dulce 1 unidad, Limón 1 unidad^000000
+Preparación: Pela la gamba y exprime el limón con un exprimidor.
+Muele finamente el chile hasta convertirlo en polvo.
+Pon el chile en polvo bien molido en una sartén con agua 5 cucharadas, añade la gamba y saltéala.
+Incorpora poco a poco la salsa dulce y el zumo de limón, y sigue salteando un poco más.
+Unta una fuente de gratén con mantequilla, coloca dentro la gamba salteada y cúbrela con queso.
+Hornéala durante aproximadamente 10 minutos en un horno precalentado a 180 grados y sírvela con rodajas de limón por encima.
+
+
+^FF8040Tónico extremadamente amargo:^000000 Los medicamentos, al farmacéutico; el diagnóstico, al médico...
+Ingredientes: ^4B0082Raíz marrón 1 unidad, Raíz de planta carnívora 1 unidad, Espora de seta 1 unidad, Seta comestible 1 unidad, Miel 1 unidad^000000
+Preparación: Seca bien las hierbas medicinales y córtalas en tiras finas con unas tijeras u otra herramienta.
+Ponlas en una olla medicinal o una tetera de cristal, vierte agua fría 4~5 tazas y espera 1~2 horas.
+Cuando las hierbas se hayan empapado, cuécelas lentamente al fuego más bajo y apágalo cuando el agua empiece a hervir suavemente alrededor de ellas.
+Filtra el líquido con un paño fino sin estrujarlo y bebe únicamente el remedio transparente.
+Para preparar una segunda decocción, vuelve a añadir agua a las hierbas filtradas y hiérvelas de nuevo.
+
+
+^400080Sopa de la gran suerte:^000000 Una suerte enorme creada únicamente por azar. ¡Es una sopa ca(liente) de suerte!
+Ingredientes: ^4B0082Lengua de reptil 1 unidad, Lengua larga y fina 1 unidad, Trébol 1 unidad, Arena estelar de bruja 1 unidad, Aloe 1 unidad^000000
+Preparación: Escalda la lengua de reptil y la lengua larga y fina, enjuágalas con agua fría y córtalas en tiras.
+Pela el aloe y córtalo en tiras.
+Pon la arena estelar de bruja en una olla ancha y llévala a ebullición. Después, añade las lenguas cortadas.
+Cuando el caldo hierva con fuerza y estén suficientemente cocidas, añade el trébol y deja hervir un poco más.
+
+
+^FF3366Surtido de platos de nivel 6:^000000 La esencia de los platos de nivel 6
+Ingredientes: ^4B0082Neobiani resplandeciente 1 unidad, Vino de setas rojas 1 unidad, Tarta de melocotón 1 unidad, Gratén de gambas con chile 1 unidad, Tónico extremadamente amargo 1 unidad, Sopa de la gran suerte 1 unidad^000000
+Preparación: Reúne todos los platos de nivel 6 y sírvelos cuidadosamente dispuestos en un gran banquete.

@@ -1,0 +1,32 @@
+%faf0e6
+^000088Fundamentos de alquimia para fabricar botellas de ácido clorhídrico^000000
+
+
+----------------Prólogo--------------------
+
+Mientras investigábamos el Corazón Inmóvil, descubrimos que, al cumplirse determinadas condiciones,
+se generaba cloruro de hidrógeno.
+Dejamos aquí constancia del método para fabricar ácido clorhídrico a partir de este hallazgo.
+Como el ácido clorhídrico presenta un alto grado de ionización, forma una disolución fuertemente ácida.
+En ocasiones puede llegar a ser un ácido tan fuerte como para disolver piedra, así que manipúlalo con cuidado.
+
+------------------------------------------
+
+
+¿Qué es el ^008040ácido clorhídrico^000000?
+
+Una disolución obtenida al disolver cloruro de hidrógeno(HCl) en agua.
+Al introducirla en una botella, se obtiene una botella de ácido clorhídrico.
+
+
+
+Materiales: ^4B0082Corazón Inmóvil 1 unidad, botella vacía 1 unidad^000000
+Método de fabricación: prepara un mortero.
+Introduce el Corazón Inmóvil en el mortero, añade un poco de agua y caliéntalo al baño maría.
+Mantén la temperatura del agua a 72 grados.
+Destila el gas generado para obtener cloruro de hidrógeno y,
+después, llena una botella vacía con agua y haz que el cloruro de hidrógeno se disuelva en ella.
+Cuando 100 moléculas de cloruro de hidrógeno se hayan disuelto y se alcance el equilibrio,
+la mayoría de las moléculas se disociarán y se formará una potente botella de ácido clorhídrico.
+Para fabricarla fácilmente, lleva este libro contigo, reúne los materiales necesarios
+y utiliza Farmacia, una técnica básica de alquimia.

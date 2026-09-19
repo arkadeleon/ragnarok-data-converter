@@ -1,0 +1,69 @@
+%faf0e6
+^000088Celui qui cuisine même dans une pièce close^000000
+
+"Le résultat est toujours le même ! Le plat est dans cette marmite !!" Recettes de niveau 6 !
+Au nom du grand-père maître cuisinier, sa propre méthode pour suivre la voie de la gastronomie.
+
+^FF0000Capuche de novice étincelante :^000000 Ne t’inquiète pas, elle ne brille pas au point d’être immangeable !
+Ingrédients : ^4B0082Viande x1, Miel x1, Herbe jaune x1, Fruit de Mastela x1, Écaille brillante x1^000000
+Préparation : Retirer les os de la viande et l’attendrir doucement avec un maillet à viande.
+Disposer la viande sur une grande assiette, arroser généreusement de miel et de jus de Fruit de Mastela.
+Tapoter la viande à la main pour bien faire pénétrer la marinade, puis assaisonner de sel et de poivre.
+Envelopper la viande marinée avec l’Écaille brillante et laisser reposer une journée.
+Faire chauffer une grille ou une poêle, étaler la viande marinée et la faire griller.
+Disposer de l’Herbe jaune sur une assiette large et creuse, puis servir la viande grillée dessus.
+
+^0000FFVin de Champignon rouge :^000000 Rassure-toi, les champignons n’ont pas poussé parce qu’il était stocké dans un endroit humide !
+Ingrédients : ^4B0082Champignon comestible x1, Jus de raisin x1, Spore de champignon x1, Alcool x1, Épice rouge x1^000000
+Préparation : Émincer finement le Champignon comestible. Verser une quantité appropriée de Jus de raisin dans un récipient,
+saupoudrer les champignons et les spores en couches et laisser macérer 1 à 3 jours.
+Ajouter une petite quantité d’Alcool et d’Épice rouge, fermer hermétiquement le couvercle et laisser infuser
+dans un endroit frais et sombre pendant environ 3 mois.
+Une fois la macération terminée, retirer les particules, filtrer pour clarifier, puis mettre en bouteille.
+
+^800000Gâteau à la pêche :^000000 Le secret est d’obtenir une saveur de pêche douce !
+Ingrédients : ^4B0082Pêche très dure x1, Part de gâteau x1, Fromage x1, Lait x1,
+Jus d'orange x1, Sauce sucrée x1^000000
+Préparation : Garder uniquement la partie génoise du gâteau et manger le reste, puis préparer.
+Couper la pêche en fines tranches en demi-lune.
+Faire fondre un peu de Sauce sucrée et de Fromage dans une casserole, puis ajouter les pêches tranchées
+et laisser mijoter jusqu’à ce qu’elles ramollissent, puis laisser refroidir à température ambiante.
+Beurrer un moule à gâteau, saupoudrer de sucre, puis préparer.
+Couper le reste du Fromage et la Part de gâteau en petits morceaux, mélanger, puis ajouter l’œuf
+et le Lait et mélanger encore.
+Verser la compote de pêche refroidie et le sirop dans le moule, puis ajouter la pâte par-dessus
+(décorer selon vos envies).
+Cuire à 160°C pendant 50 minutes pour savourer un gâteau à la pêche moelleux.
+
+
+
+^008040Gratin de crevettes au chili :^000000
+Ingrédients : ^4B0082Piment rouge x1, Crevette x1, Sauce sucrée x1, Citron x1^000000
+Préparation : Décortiquer la crevette, presser le citron à l’aide d’un presse-agrumes.
+Moudre finement le piment.
+Dans une poêle, mélanger le piment moulu avec 5 cuillères à soupe d’eau, ajouter la crevette et faire sauter,
+puis ajouter la Sauce sucrée et le jus de citron et faire revenir un peu plus.
+Beurrer un plat à gratin, y déposer les crevettes sautées, ajouter du fromage,
+puis faire cuire au four préchauffé à 180°C pendant environ 10 minutes et servir avec des tranches de citron.
+
+
+^FF8040Tonique extrêmement amer :^000000 Les médicaments chez le pharmacien, les soins chez le médecin...
+Ingrédients : ^4B0082Racine brune x1, Racine de plante carnivore x1, Spore de champignon x1, Champignon comestible x1, Miel x1^000000
+Préparation : Bien sécher les ingrédients médicinaux et les couper finement avec des ciseaux.
+Mettre dans une marmite à décoction (ou une théière en verre), verser 4 à 5 tasses d’eau froide et attendre 1 à 2 heures
+jusqu’à ce que les ingrédients soient bien imbibés, puis faire bouillir à feu très doux jusqu’à ce que l’eau frémisse, puis éteindre le feu.
+Ne pas presser à travers un tissu fin, mais filtrer pour ne garder que le liquide clair.
+Pour une deuxième décoction, ajouter de l’eau aux ingrédients filtrés et refaire bouillir.
+
+
+^400080Soupe Geoun-tang :^000000 Une grande chance créée purement par hasard. C’est une soupe (brû)lante !
+Ingrédients : ^4B0082Langue de reptile x1, Longue langue fine x1, Trèfle x1, Sable d'étoile de sorcière x1, Aloe x1^000000
+Préparation : Blanchir la Langue de reptile et la Longue langue fine, puis les rincer à l’eau froide et les couper en julienne.
+Éplucher l’Aloe et le couper en julienne.
+Mettre le Sable d'étoile de sorcière dans une grande marmite, porter à ébullition, puis ajouter les langues coupées
+et, une fois le bouillon bien bouillant, ajouter le Trèfle et faire cuire encore un peu.
+
+
+^FF3366Assortiment de plats niv. 6 :^000000 L’essence de la Cuisine niv. 6
+Ingrédients : ^4B0082Capuche de novice étincelante x1, Vin de Champignon rouge x1, Gâteau à la pêche x1, Gratin de crevettes au chili x1, Tonique extrêmement amer x1, Soupe Geoun-tang x1^000000
+Préparation : Rassembler tous les plats de niveau 6 et les servir joliment sur une grande table.

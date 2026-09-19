@@ -1,0 +1,114 @@
+.^FF3300[Épée du Dragon de Terre]^000000 Une épée imprégnée du pouvoir du Dragon de Terre.
+Augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Épée à une main Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Épéiste/Classe de Marchand SLOT : 2
+
+^FF3300[Espadon du Dragon de Terre]^000000 Un espadon imprégné du pouvoir du Dragon de Terre.
+Augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Épée à deux mains Attaque : 180 Poids : 140 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Épéiste SLOT : 2
+
+^FF3300[Dague du Dragon de Terre]^000000 Une dague imprégnée du pouvoir du Dragon de Terre.
+Augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Dague Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Épéiste/Classe de Voleur/Classe de Marchand SLOT : 2
+
+^FF3300[Arc du Dragon de Terre]^000000 Un arc imprégné du pouvoir du Dragon de Terre.
+Augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Arc Attaque : 130 Poids : 100 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Archer/Classe de Voleur SLOT : 2
+
+^FF3300[Bâton du Dragon de Terre]^000000 Un bâton imprégné du pouvoir du Dragon de Terre. ATQ.MM +130, Incassable.
+Augmente les Dégâts magiques infligés aux monstres de type Incorporel de 5%, augmente les Dégâts magiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts magiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts magiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts magiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts magiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Bâton à une main Attaque : 40 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Novice/Classe de Magicien/Classe d'Acolyte/Classe Soul Linker SLOT : 2
+
+^FF3300[Masse du Dragon de Terre]^000000 Une masse imprégnée du pouvoir du Dragon de Terre.
+Incassable, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Masse Attaque : 130 Poids : 120 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Épéiste/Classe de Novice/Classe d'Acolyte/Classe de Marchand SLOT : 2
+
+^FF3300[Katar du Dragon de Terre]^000000 Un katar imprégné du pouvoir du Dragon de Terre.
+Augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Katar Attaque : 150 Poids : 120 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Assassin SLOT : 2
+
+^FF3300[Hache du Dragon de Terre]^000000 Une hache imprégnée du pouvoir du Dragon de Terre.
+Incassable, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Hache à deux mains Attaque : 180 Poids : 140 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Marchand SLOT : 2
+
+^FF3300[Lance du Dragon de Terre]^000000 Une lance imprégnée du pouvoir du Dragon de Terre.
+Augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Lance à deux mains Attaque : 180 Poids : 140 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe d'Épéiste SLOT : 2
+
+^FF3300[Poings du Dragon de Terre]^000000 Des gants de combat imprégnés du pouvoir du Dragon de Terre.
+Augmente les Dégâts physiques infligés aux monstres de type Incorporel de5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Poing Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Moine/Classe de Prêtre SLOT : 2
+
+^FF3300[Livre du Dragon de Terre]^000000 Un livre imprégné du pouvoir du Dragon de Terre.
+ATQ.M +130, augmente les Dégâts phys./mag. infligés aux monstres de type Incorporel de 5%, augmente les Dégâts phys./mag. infligés aux Ennemis de type Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts phys./mag. infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts phys./mag. infligés aux Ennemis de type Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts phys./mag. infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts phys./mag. infligés aux Ennemis de type Terre de 10% supplémentaires.
+
+Catégorie : Livre Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Sage/Classe de Prêtre/Classe Taekwon SLOT : 2
+
+^FF3300[Fouet du Dragon de Terre]^000000 Un fouet imprégné du pouvoir du Dragon de Terre.
+Augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Fouet Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Danseuse SLOT : 2
+
+^FF3300[Instrument du Dragon de Terre]^000000 Un instrument à cordes imprégné du pouvoir du Dragon de Terre.
+Augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5%, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts physiques infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts physiques infligés aux ennemis de l'élément Terre de 10% supplémentaires.
+
+Catégorie : Instrument Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe de Barde SLOT : 2
+
+^FF3300[Nindō du Dragon de Terre]^000000 Une dague de ninja imprégnée du pouvoir du Dragon de Terre.
+ATQ.M +70, augmente les Dégâts phys./mag. infligés aux monstres de type Incorporel de 5%, augmente les Dégâts phys./mag. infligés aux Ennemis de type Terre de 5%.
+Lors du raffinage +7, augmente les Dégâts phys./mag. infligés aux monstres de type Incorporel de 5% supplémentaires, augmente les Dégâts phys./mag. infligés aux Ennemis de type Terre de 5% supplémentaires.
+Lors du raffinage +9, augmente les Dégâts phys./mag. infligés aux monstres de type Incorporel de 10% supplémentaires, augmente les Dégâts phys./mag. infligés aux Ennemis de type Terre de 10% supplémentaires.
+
+Catégorie : Dague Attaque : 130 Poids : 80 Niveau d’arme : 3
+Niveau requis : 70 Équipement : Classe Ninja SLOT : 2
+
+
+^FFFFFF[Colis du Dragon de Terre]^000000

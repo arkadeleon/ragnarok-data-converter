@@ -1,0 +1,48 @@
+1. Tool Pembuatan Efek
+   Tool ini digunakan untuk menentukan bagaimana efek jejak kaki akan ditampilkan di dalam game. Selain tampilan gambar, ukuran gambar, susunan saat dimuat, dan jenis animasi juga dapat disesuaikan secara mendetail. Jika gambar PNG yang diinginkan berada di lokasi yang ditampilkan pada bagian bawah jendela pop-up, gambar tersebut dapat dimuat menggunakan tool ini.
+ 
+2. Efek Tubuh
+   Gambar yang diperlukan untuk efek jejak bayangan yang tertinggal di sekitar tubuh karakter sepanjang jalur yang telah dilewati saat bergerak.
+   Gambar harus berformat PNG, berukuran 128x128 px, dan tidak lebih dari 64 KB.
+   Hanya gambar di dalam folder footprint dengan nama file yang terdiri dari huruf alfabet Inggris dan angka saja yang akan terdeteksi.
+ 
+3. Efek Lantai
+   Gambar yang diperlukan untuk efek jejak bayangan yang tertinggal di lantai sepanjang jalur yang telah dilewati saat karakter bergerak.
+   Gambar harus berformat PNG, berukuran 128x128 px, dan tidak lebih dari 64 KB.
+   Hanya gambar di dalam folder footprint dengan nama file yang terdiri dari huruf alfabet Inggris dan angka saja yang akan terdeteksi.
+ 
+※ Untuk menyediakan lingkungan penggunaan yang aman, gambar Efek Tubuh dan Efek Lantai akan diproses ulang pada tingkat piksel saat disimpan. Setelah diproses, gambar tetap akan ditampilkan semirip mungkin dengan gambar aslinya.
+ 
+4. Tipe Animasi
+   Menentukan jenis animasi yang digunakan saat efek muncul dan menghilang. Efek partikel yang menyebar juga tersedia.
+ 
+5. Orientasi Efek Lantai
+   Menentukan apakah arah efek mengikuti arah pergerakan karakter atau selalu menghadap ke layar tanpa memandang arah karakter.
+ 
+6. Ukuran Efek Lantai
+   Menentukan ukuran efek yang menempel pada lantai.
+   Semakin besar nilainya, semakin besar ukuran efek.
+ 
+7. Ukuran Efek Tubuh
+   Menentukan ukuran efek yang menempel pada tubuh karakter.
+   Semakin besar nilainya, semakin besar ukuran efek.
+ 
+8. Ketinggian Efek Tubuh
+   Menentukan ketinggian efek yang menempel pada tubuh karakter.
+   Semakin besar nilainya, semakin tinggi posisi efek.
+ 
+9. Jarak Antar Kaki
+   Menentukan jarak antara kaki kiri dan kanan.
+   Semakin besar nilainya, semakin lebar jarak antara kedua kaki.
+ 
+10. Frekuensi Kemunculan
+    Menentukan seberapa sering efek muncul.
+    Semakin kecil nilainya, semakin sering efek muncul dalam waktu singkat.
+ 
+11. Peta Latar Belakang
+    Ubah latar belakang untuk memeriksa hasil efek pada setiap lingkungan.
+ 
+12. Tombol Putar dan Hentikan
+    Tekan Putar untuk melihat efek yang telah dibuat pada layar game yang sesuai.
+    Namun, efek tidak akan berfungsi jika gambar Efek Tubuh atau gambar Efek Lantai belum ditambahkan.
+    Tekan Hentikan untuk menghentikan efek yang sedang diputar.

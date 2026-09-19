@@ -1,0 +1,126 @@
+%f5f5dc
+^000088Tauschgegenstände des Quartiermeisters von Schloss Prontera – Verbrauchsgegenstände^000000
+
+^FF0000[Dochtstadtplan]^000000
+Karte des Stadtinneren.
+Bei Verwendung: Agilität erhöhen Lv. 1.
+Achtung! – Bei Verwendung während des Castens wird der Effekt nicht aktiviert.
+Achtung! – Verbraucht 15 HP. Bei weniger als 15 HP wird der Effekt nicht aktiviert und nur der Dochtstadtplan verschwindet.
+Gewicht : 1
+
+^FF0000[Leuchtendes Heiliges Wasser]^000000
+Reduziert 3 Minuten lang den erlittenen Schaden im Raum des Rituals und im Invasionsdungeon von Prontera um 10%.
+Entfernt Gift, Fluch und Stille und stellt 1.000 HP wieder her.
+Gewicht : 1.5
+
+^FF0000[Gefängnisschlüssel]^000000
+Ein alter, schmutziger Schlüsselbund mit mehreren Schlüsseln.
+Ermöglicht den Zugang zum Unterirdischen Gefängnisdungeon von Schloss Prontera.
+Gewicht : 1
+
+^FF0000[Prontera-Abzeichen]^000000
+Ein Abzeichen mit den gespeicherten Koordinaten von Prontera.
+Bei Verwendung: Teleport nach Prontera.
+Gewicht : 1
+
+
+^000088Tauschgegenstände des Quartiermeisters von Schloss Prontera – Rüstungsgegenstände^000000
+
+^FF0000[Dochtstadtplan]^000000
+Karte des Stadtinneren.
+Agilität erhöhen Lv. 3 verwendbar.
+Kategorie: Accessoire
+DEF : 0
+Gewicht : 10
+Benötigtes Level : 40
+Ausrüstbar von : Alle Klassen
+Slots : 1
+
+^FF0000[Leuchtendes Heiliges Wasser]^000000
+Reduziert den erlittenen Schaden im Raum des Rituals und im Invasionsdungeon von Prontera um 20%.
+Stellt alle 10 Sekunden 100 HP und 5 SP wieder her.
+Kategorie: Accessoire
+DEF : 0
+Gewicht : 15
+Benötigtes Level : 100
+Ausrüstbar von : Alle Klassen
+Slots : 1
+
+^FF0000[Schild der Leibgarde]^000000
+Schild eines königlichen Leibgardisten.
+'Shield Spell' Lv. 1 verwendbar.
+Bei erlittenem physischen Nahkampfschaden besteht eine Chance, Assumptio Lv. 3 auf sich selbst zu aktivieren.
+Mit höherer Verfeinerung erhöht sich die Aktivierungschance von Assumptio Lv. 3.
+Pro Verfeinerung: DEF +10, MDEF +1.
+Kategorie: Schild
+DEF : 30
+Gewicht : 300
+Benötigtes Level : 100
+Ausrüstbar von : Alle Klassen
+Slots : 1
+
+^FF0000[Prontera-Abzeichen]^000000
+Fertigkeit 'Rückkehr nach Prontera' verwendbar.
+Nach Verwendung 15 Minuten lang keine erneute Nutzung möglich.
+Kategorie: Accessoire
+DEF : 0
+Gewicht : 10
+Benötigtes Level : 40
+Ausrüstbar von : Alle Klassen
+
+^FF0000[Robe der Schmeichelei]^000000
+Kleidung für Menschen, die für ihr Ziel vor keinem Mittel zurückschrecken.
+Ausharren Lv. 1 verwendbar
+MATK + 50
+Bei Level 120 oder höher zusätzlich MATK + 50
+Bei Level 140 oder höher zusätzlich MATK + 50
+
+Zusammen mit dem Umhang des alten Lords:
+MSP + 10%, pro Rüstungsverfeinerung zusätzlich MSP + 1%.
+FLEE + 10, pro Rüstungsverfeinerung zusätzlich FLEE + 1.
+Zusammen mit dem Umhang des Überlebens:
+MHP + 10%, pro Rüstungsverfeinerung zusätzlich MHP + 1%.
+MATK + 2%, pro Rüstungsverfeinerung zusätzlich MATK +1%.
+Kategorie: Rüstung
+DEF : 0
+Gewicht : 10
+Benötigtes Level : 100
+Ausrüstbar von : Alle Klassen
+Slots : 1
+
+^FF0000[Robe der Giftzunge]^000000
+Kleidung für Menschen, deren Worte selbst der Seele schweren Schaden zufügen.
+'Konzentration steigern' Lv. 1 verwendbar.
+Pro Rüstungsverfeinerung wird die physische Verteidigung von humanoiden, dämonischen und untoten Gegnern zusätzlich um 4% ignoriert.
+Zusammen mit Morianes Umhang:
+Ignoriert 15% der physischen Verteidigung von humanoiden, dämonischen und untoten Gegnern.
+LUK + 3, pro Rüstungsverfeinerung zusätzlich LUK + 1.
+CRIT + 10, pro Rüstungsverfeinerung zusätzlich CRIT + 1.
+Zusammen mit Valkyries Umhang:
+Ignoriert 15% der physischen Verteidigung von humanoiden, dämonischen und untoten Gegnern.
+MHP + 10%, pro Rüstungsverfeinerung zusätzlich MHP + 1%.
+ATK + 2%, pro Rüstungsverfeinerung zusätzlich ATK +1%.
+Kategorie: Rüstung
+DEF : 0
+Gewicht : 10
+Benötigtes Level : 100
+Ausrüstbar von : Alle Klassen
+Slots : 1
+
+^FF0000[Kostüm Zeitverzierung]^000000
+Man fühlt sich, als wäre man in fließender Zeit gefangen.
+Kategorie: Kostüm
+DEF : 0
+Position : Mitte
+Gewicht : 0
+Benötigtes Level : 1
+Ausrüstbar von : Alle Klassen
+
+^FF0000[Schwarze Hand des Schicksals]^000000
+Man fühlt sich, als würde der Kopf gepackt und vom Schicksal beherrscht.
+Kategorie: Kostüm
+DEF : 0
+Position : Oben
+Gewicht : 0
+Benötigtes Level : 1
+Ausrüstbar von : Alle Klassen

@@ -1,0 +1,24 @@
+%f5f5dc
+^000088Objetos a la venta en Manuk^000000
+
+Los siguientes objetos pueden adquirirse con monedas de Manuk.
+
+^008040[Vigor de Manuk]^000000
+Suplemento elaborado en el laboratorio de Manuk y recomendado oficialmente para los trabajadores de las minas.
+El daño de los ataques físicos contra los monstruos de los campos de Manuk aumenta 10% durante 10 minutos.
+^000088(Nepenthes, Hillsrion, Centipede, Centipede_Larva, Hillsrion, Tatacho, Hardrock Mammoth)^000000
+Peso: ^7777775^000000
+
+
+^008040[Voluntad de Manuk]^000000
+Complemento nutricional elaborado en el laboratorio de Manuk y recomendado oficialmente para los trabajadores de las minas.
+El daño físico y mágico recibido de los monstruos de los campos de Manuk disminuye 10% durante 10 minutos.
+^000088(Nepenthes, Hillsrion, Centipede, Centipede_Larva, Hillsrion, Tatacho, Hardrock Mammoth)^000000
+Peso: ^7777775^000000
+
+
+^008040[Convicción de Manuk]^000000
+Suplemento elaborado en el laboratorio de Manuk y recomendado oficialmente para los trabajadores de las minas.
+El daño de los ataques mágicos contra los monstruos de los campos de Manuk aumenta 10% durante 10 minutos.
+^000088(Nepenthes, Centipede, Centipede_Larva, Hillsrion, Tatacho, Hardrock Mammoth)^000000
+Peso: ^7777775^000000

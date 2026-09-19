@@ -1,0 +1,113 @@
+^FF3300[Yin-Yang Kılıcı]^000000 Yin-Yang gücünü barındıran kılıç.
+Demon tipi canavarlara verilen fiziksel hasar %5 artar, ateş elementli düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %5 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %10 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Tek El Kılıç Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Swordsman/Merchant SLOT : 2
+
+^FF3300[Yin-Yang Büyük Kılıcı]^000000 Yin-Yang gücünü barındıran büyük kılıç.
+Demon tipi canavarlara verilen fiziksel hasar %5 artar, ateş elementli düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %5 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %10 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : İki El Kılıç Saldırı : 180 Ağırlık : 140 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Swordsman SLOT : 2
+
+^FF3300[Yin-Yang Hançeri]^000000 Yin-Yang gücünü barındıran hançer.
+Demon tipi canavarlara verilen fiziksel hasar %5 artar, ateş elementli düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %5 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %10 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Hançer Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Swordsman/Thief/Merchant SLOT : 2
+
+^FF3300[Yin-Yang Yayı]^000000 Yin-Yang gücünü barındıran yay.
+Demon tipi canavarlara verilen fiziksel hasar %5 artar, ateş elementli düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %5 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %10 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Yay Saldırı : 130 Ağırlık : 100 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Archer/Thief SLOT : 2
+
+^FF3300[Yin-Yang Asası]^000000 Yin-Yang gücünü barındıran asa. MATK + 130, Kırılamaz.
+Demon tipi canavarlara verilen büyü hasarı %5 artar, ateş elementli düşmanlara verilen büyü hasarı %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen büyü hasarı %5 ek artar, ateş elementli düşmanlara verilen büyü hasarı %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen büyü hasarı %10 ek artar, ateş elementli düşmanlara verilen büyü hasarı %10 ek artar.
+
+Tür : Tek El Asa Saldırı : 40 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Novice/Mage/Priest/Soul Linker SLOT : 2
+
+^FF3300[Yin-Yang Topuzu]^000000 Yin-Yang gücünü barındıran topuz.
+Kırılamaz, demon tipi canavarlara verilen fiziksel hasar %5 artar, ateş elementli düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %5 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %10 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Topuz Saldırı : 130 Ağırlık : 120 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Swordsman/Novice/Priest/Merchant SLOT : 2
+
+^FF3300[Yin-Yang Katarı]^000000 Yin-Yang gücünü barındıran katar.
+Demon tipi canavarlara verilen fiziksel hasar %5 artar, ateş elementli düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %5 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %10 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Katar Saldırı : 150 Ağırlık : 120 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Assassin SLOT : 2
+
+^FF3300[Yin-Yang Baltası]^000000 Yin-Yang gücünü barındıran balta.
+Kırılamaz, demon tipi canavarlara verilen fiziksel hasar %5 artar, ateş elementli düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %5 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %10 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : İki El Balta Saldırı : 180 Ağırlık : 140 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Merchant SLOT : 2
+
+^FF3300[Yin-Yang Mızrağı]^000000 Yin-Yang gücünü barındıran mızrak.
+Demon tipi canavarlara verilen fiziksel hasar %5 artar, ateş elementli düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %5 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %10 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : İki El Mızrak Saldırı : 180 Ağırlık : 140 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Swordsman SLOT : 2
+
+^FF3300[Yin-Yang Eldiveni]^000000 Yin-Yang gücünü barındıran eldiven.
+Demon tipi canavarlara verilen fiziksel hasar %5 artar, ateş elementli düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %5 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %10 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Knuckle Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Monk/Priest SLOT : 2
+
+^FF3300[Yin-Yang Kitabı]^000000 Yin-Yang gücünü barındıran kitap.
+MATK + 130, demon tipi canavarlara verilen fiziksel/büyü hasarı %5 artar, ateş elementli düşmanlara verilen fiziksel/büyü hasarı %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel/büyü hasarı %5 ek artar, ateş elementli düşmanlara verilen fiziksel/büyü hasarı %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel/büyü hasarı %10 ek artar, ateş elementli düşmanlara verilen fiziksel/büyü hasarı %10 ek artar.
+
+Tür : Kitap Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Sage/Priest/Taekwon SLOT : 2
+
+^FF3300[Yin-Yang Kırbacı]^000000 Yin-Yang gücünü barındıran kırbaç.
+Demon tipi canavarlara verilen fiziksel hasar %5 artar, ateş elementli düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %5 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %10 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Kırbaç Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Dancer SLOT : 2
+
+^FF3300[Yin-Yang Enstrümanı]^000000 Yin-Yang gücünü barındıran telli çalgı.
+Demon tipi canavarlara verilen fiziksel hasar %5 artar, ateş elementli düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %5 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %5 ekartar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel hasar %10 ek artar, ateş elementli düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Enstrüman Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Bard SLOT : 2
+
+^FF3300[Yin-Yang Ninja Hançeri]^000000 Yin-Yang gücünü barındıran ninja hançeri.
+MATK + 70, demon tipi canavarlara verilen fiziksel/büyü hasarı %5 artar, ateş elementli düşmanlara verilen fiziksel/büyü hasarı %5 artar.
++7 yükseltmede, demon tipi canavarlara verilen fiziksel/büyü hasarı %5 ek artar, ateş elementli düşmanlara verilen fiziksel/büyü hasarı %5 ek artar.
++9 yükseltmede, demon tipi canavarlara verilen fiziksel/büyü hasarı %10 ek artar, ateş elementli düşmanlara verilen fiziksel/büyü hasarı %10 ek artar.
+
+Tür : Hançer Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Ninja SLOT : 2
+
+^FFFFFF[Yin-Yang Ateşli Silahı]^000000

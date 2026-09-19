@@ -1,0 +1,27 @@
+%f5f5dc
+^000088Item Toko Splendide^000000
+
+Item berikut dapat dibeli menggunakan Splendide Coin.
+
+^008040[Pinguicula's Fruit Jam]^000000
+Selai manis yang dibuat dari buah Pinguicula.
+Damage Serangan Fisik yang diberikan kepada monster di area Splendide meningkat 10% selama 10 menit.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+
+Berat : ^7777775^000000
+
+
+^008040[Luciola's Honey Jam]^000000
+Selai yang dibuat dari Madu Luciola dan Herb.
+Damage Fisik & Sihir dari monster di area Splendide berkurang 10% selama 10 menit.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+
+Berat : ^7777775^000000
+
+
+^008040[Cornus' Tears]^000000
+Potion yang dibuat dari Air Mata Cornus. Kamu tidak tahu bagaimana air mata tersebut diperoleh.
+Damage Serangan Sihir yang diberikan kepada monster di area Manuk meningkat 10% selama 10 menit.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+
+Berat : ^7777775^000000

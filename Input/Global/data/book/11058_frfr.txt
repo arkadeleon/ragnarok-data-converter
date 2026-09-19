@@ -1,0 +1,168 @@
+%faf0e6
+^4D4DFFPotion rouge de novice^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Préparation : Herbe rouge x2, Pomme x1, un soupçon de désir ardent pour la potion
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Fabrication : Avec tous les ingrédients dans votre inventaire, essayez d'utiliser le « Kit d’assemblage ».>
+Peu importe comment vous avez obtenu les Herbe rouge. Que quelqu'un les ait laissées tomber,
+ou que vous les ayez prises à un monstre faible et innocent, tant que vous en avez x2, c'est bon. La pomme est pour le goûter.
+
+1. Préparez Herbe rouge x2.
+2. Frottez-les dans vos paumes. (Si vous avez faim, mangez la pomme.)
+3. Si vous avez bien suivi les étapes 1 et 2, du jus devrait sortir et des résidus d'Herbe rouge resteront sur vos mains.
+4. Ah, au fait, vous êtes-vous lavé les mains ?
+5. ..... Tant pis. Allons au palais comme ça.
+* Point : Joignez vos mains et priez sincèrement pour que ce qui est dans vos paumes devienne une Potion rouge.
+
+
+^CD3278 Loupe de novice^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Préparation : morceaux de bois à grain fin x3, Jejellopy x1, un peu de talent manuel inné
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Fabrication : Avec tous les ingrédients dans votre inventaire, essayez d'utiliser le « Kit d’assemblage ».>
+La sensation en main d'un morceau de bois à grain fin, comme s'il avait toujours été à vous.
+L'harmonie éclatante créée par le Jejellopy, qui laisse à peine passer la lumière du soleil...
+
+1. Taillez le morceau de bois à grain fin dans la forme souhaitée.
+2. Continuez à tailler et à polir. Faites-le jusqu'à ce que ce soit lisse.
+-> Le client peut dire : « C'est bon maintenant. Donnez-le-moi. »
+Dans ce cas, répondez avec humour : « Client, vous étiez libre lors de la commande, mais... »
+3. En polissant, le temps passe trop vite. Redressez votre dos endolori et regardez le coucher du soleil.
+4. Vous avez peut-être oublié de prévoir un espace pour insérer le Jejellopy, mais ce n'est pas grave.
+
+
+^4C1919Ailes de mouche de novice^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Préparation : Duvet x2, Fourrure douce x2, Jejellopy x2, le désir d'être projeté « le plus loin possible »
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Fabrication : Avec tous les ingrédients dans votre inventaire, essayez d'utiliser le « Kit d’assemblage ».>
+Duvet, Fourrure douce et Jejellopy. Une combinaison si étrange que même leur compatibilité est incompréhensible,
+quelque part entre l'inconnu et l'embarras.
+
+1. Il était une fois deux Duvet.
+2. Il y avait aussi deux Fourrure douce.
+3. Un jour, deux Jejellopy ont pris les Fourrure douce.
+4. Les Duvet ont placé ☆☆ sur ●●● du Jejellopy.
+5. Quiconque touche les Duvet sera ★.
+6. Vraiment, ce sera ★.
+
+
+^231010Couteau de novice^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Préparation : Carapace dure x10, carapaces d'insecte x10, Phracon x1, la volonté de ne pas mourir face aux monstres
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+Lorsque vous commencez sans un sou, le Couteau de novice est l'arme la plus crédible en termes d'attaque.
+Pour une arme facile à obtenir, elle est plutôt correcte.
+
+1. Alignez les Carapace dure x10.
+Si quelqu'un qui observe dérange l'alignement, restez calme et réajustez.
+2. Superposez les carapaces d'insecte et le Phracon sur l'alignement précédent.
+3. Placez vos mains dessus et concentrez-vous.
+
+
+^FF0000En cas d'échec, répétez les étapes 1 à 3 jusqu'à réussite.^000000
+
+
+^006F61Pomme verte préférée des Poring novice^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Préparation : pomme x1, Herbe verte x1, l'espoir d'un miracle
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+1. Lavez soigneusement la pomme et l'Herbe verte à l'eau froide.
+2. Enveloppez bien la pomme avec l'Herbe verte.
+3. Serrez fort jusqu'à ce que l'Herbe verte adhère bien.
+
+* Si votre détermination manque à l'étape 3, l'Herbe verte risque de ne pas tenir correctement.
+Plus vous y croyez, plus l'Herbe verte a de chances de transmettre ses sentiments à la pomme.
+Lorsque l'Herbe verte et la pomme semblent être devenues assez proches, vous pouvez relâcher vos mains.
+
+
+
+
+
+^8B4513Pour conclure...
+
+Après des années d'expériences, de recherches et d'échecs répétés,
+
+j'ai rassemblé tout cela, même si c'est imparfait, dans ce livre.
+
+Bien que ce ne soit pas une publication officielle reconnue,
+
+je me considère chanceux de pouvoir vous rencontrer ainsi à travers ce livre.
+
+^0A6E0AEn outre, pour les novices dont le rêve vise plus haut, j'ai ajouté un supplément.^000000
+
+
+
+
+-	En espérant que vous passerez rapidement la première classe ^8C4040Poring novice^000000
+
+[Créons notre chance ! Trèfle à quatre feuilles]
+^003A9D
+« Suite à la recommandation de l'Association de protection de la nature de Midgard,
+selon laquelle le bonheur du Trèfle à quatre feuilles est le plus grand lorsqu'il est trouvé dans la nature,
+la méthode de fabrication temporaire a été supprimée.
+Merci de votre compréhension, aventuriers. »
+^000000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Ju s de fruits et légumes bons pour la santé (Série de jus)]
+^003A9D
+Ingrédients : Pour le jus de Banane : Banane x1, lait x1, un peu de force de préhension
+Pour le jus de pomme : pomme x1, lait x1, un peu de force de préhension
+Pour le jus de carotte : carotte x1, lait x1, un peu de force de préhension
+Pour le jus de raisin : raisin x1, jus de pomme x1, un peu de force de préhension
+
+^000000
+En réalité, le ratio entre le fruit principal et l'ingrédient secondaire n'est pas de 1:1 mais de 1:0,2.
+Les 0,8 restants de l'ingrédient secondaire sont une collation prévue pour les petites faims pendant la préparation.
+
+1. Écrasez le fruit principal. Peu importe la méthode, écrasez-le bien.
+2. Mettez le fruit écrasé dans une bouteille de lait à moitié vide.
+(Pour le jus de raisin, utilisez du jus de pomme à la place du lait.)
+3. Fermez bien le bouchon et secouez vigoureusement.
+4. Un goût si bon que deux personnes pourraient se battre pour le boire ! Peut-être que c'est pile à votre goût ?!.
+
+
+
+[Le goût préféré des Poring !! Pomme pas mûre]
+^003A9D
+Ingrédients : Fluide collant x10, Herbe verte x20, pommes x10, main solaire
+
+^000000
+1. Coupez finement les Herbe verte.
+2. Mélangez toutes les Herbe verte coupées avec le Fluide collant pour former une boule.
+3. Même si c'est un peu collant, rassemblez le tout avec patience.
+4. Quand la pâte ne colle plus trop à vos mains, creusez un trou au centre assez grand pour y mettre une pomme.
+-> Offrez les 9 autres pommes à vous-même pour récompenser votre labeur.
+5. Mettez la pomme dans le trou et refermez la pâte pour qu'on ne voie plus la pomme.
+6. Reformez une belle boule bien lisse.
+7. Placez la pomme pas mûre ainsi obtenue sur un pommier.
+8. Si un oiseau vient la goûter, c'est bon signe.
+9. Maintenant, essayez d'en donner à un Poring.^000000

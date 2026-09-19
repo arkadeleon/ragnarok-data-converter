@@ -1,0 +1,43 @@
+%faf0e6
+^000088-Ne paniquez pas même si vous êtes seul. Avec ceci, vous pouvez survivre n'importe où.-^000000
+
+Vous pouvez le faire ! Cuisine niv. 1 !
+
+^FF0000Sauterelles frites :^000000 Déjà frites, elles ne sauteront pas dans votre bouche, ne vous inquiétez pas.
+Ingrédients : ^4B0082Patte arrière de sauterelle x1, Huile de cuisson x1^000000
+Préparation : Faites chauffer la poêle à feu moyen.
+(Avec une poêle neuve, il faut du temps pour que l'huile imprègne le fond, alors on utilise parfois du gras de Savage pour huiler la poêle...)
+Une fois la poêle suffisamment chaude, versez 2 cuillères à soupe d'huile, ajoutez Patte arrière de sauterelle x1 et faites-la revenir légèrement.
+Lorsqu'elle commence à dorer, ajoutez l'autre patte et une cuillère à soupe d'huile supplémentaire, puis faites sauter jusqu'à ce que ce soit croustillant.
+
+^0000FFKräutertee au jus de raisin :^000000 Il suffit de mixer du raisin dans une potion, et c'est prêt !
+Ingrédients : ^4B0082x1, Potion rouge x1^000000
+Préparation : Mettez le raisin et Potion rouge x1 dans un mixeur et mixez pour obtenir du jus.
+Le secret est de mixer aussi la peau et les pépins !
+Une fois bien mixé, ajoutez le reste et mixez encore 10 secondes.
+
+
+
+^800000Jus de raisin au miel :^000000 Ajoutez des fraises au raisin pour un résultat parfait !
+Ingrédients : ^4B0082x1, x1, Herbe rouge x1^000000
+Préparation : Préparez-le presque comme le Kräutertee au jus de raisin,
+mais au lieu d'ajouter Potion rouge x1 à la fin, ajoutez une fraise sucrée !
+
+^008040Soupe de frai de grenouille :^000000 Une soupe accompagnée de sauce
+Ingrédients : ^4B0082Céréales x1, x1^000000
+Préparation : Broyez finement les Céréales et préparez les œufs de grenouille en les trempant dans de l'eau glacée.
+(On les trempe dans l'eau glacée pour qu'ils restent bien fermes.)
+Ajoutez la farine de Céréales broyée dans une quantité d'eau appropriée et faites mijoter à feu doux jusqu'à épaississement,
+puis ajoutez les œufs de grenouille trempés dans l'eau glacée.
+Lorsque les œufs sont légèrement cuits, ajoutez la sauce, faites bouillir un instant et servez.
+
+^FF8040Pince de crabe vapeur :^000000 Le plaisir de décortiquer !
+Ingrédients : ^4B0082Pince de crabe x1, Herbe verte x1, Potion rouge x1^000000
+Préparation : Faites mariner Pince de crabe x1 dans Potion rouge x1 la veille.
+Placez un linge dans le cuiseur vapeur, disposez l'Herbe verte dessus, puis la Pince de crabe bien marinée, et faites cuire à la vapeur.
+
+^400080Sauté de queue de singe :^000000 On pourrait croire que c'est dur, mais pas du tout.
+Ingrédients : ^4B0082Queue de singe x1, Huile de cuisson x1^000000
+Préparation : Épluchez la Queue de singe et coupez-la en morceaux de la taille d'une bouchée.
+Faites chauffer la poêle à feu moyen, ajoutez l'huile et faites revenir la quantité appropriée.
+Si vous en faites trop d'un coup, la viande deviendra dure, alors faites sauter en petites quantités.

@@ -1,0 +1,551 @@
+%f5f5dc
+^000088Reward Items!!^000000
+
+The items you can receive as rewards differ by faction.
+The emblem you can receive from Tierra battles is the Valor Emblem (-A),
+and the emblem you can receive from Flavius battles is the Assault Emblem (-B).
+The parentheses indicate the emblem type and the required quantity.
+If there is no emblem type indicated, it can be obtained with emblems of the same type.
+
+^FF0000[Dagger]^000000
+^008040Assassin’s Damascus (Valor: 100)^000000
+A dagger specialized for assassination and PvP combat.
+STR + 1, AGI + 1, Unbreakable
+Physical damage to Demi-Human monsters +75%.
+Ignores 20% of Demi-Human monsters’ physical defense.
+When equipped by Ninja, Rogue, or Stalker, additionally MATK +15%.
+Type: ^777777Dagger^000000 ATK: ^777777120^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Novice/Swordman/Mage/Archer/Merchant/Thief/Soul Linker/Ninja^000000
+
+^008040Assassin’s Damascus (Assault: 100)^000000
+A dagger specialized for assassination and PvP combat.
+STR + 1, AGI + 1, Unbreakable
+Physical damage to Demi-Human monsters +75%.
+On attack, has a chance to grant Infiltration effect for 6 seconds when the weapon awakens.
+When equipped by Ninja, Rogue, or Stalker, additionally MATK +15%.
+Type: ^777777Dagger^000000 ATK: ^777777120^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Novice/Swordman/Mage/Archer/Merchant/Thief/Soul Linker/Ninja^000000
+
+^FF0000[One-Handed Sword]^000000
+^008040Gladiator’s Blade (Assault: 100)^000000
+A sword favored by gladiators, highly effective in PvP combat.
+STR + 1, DEX + 1, Unbreakable
+Physical damage to Demi-Human monsters +75%. Ignores 20% of Demi-Human monsters’ physical defense.
+Type: ^777777One-Handed Sword^000000 ATK: ^777777115^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Novice/Swordman/Merchant/Thief/Ninja^000000
+
+^008040Gladiator’s Blade (Valor: 100)^000000
+A sword favored by gladiators, highly effective in PvP combat.
+STR + 1, DEX + 1, MATK +10%, Unbreakable
+Physical damage to Demi-Human monsters +75%.
+Type: ^777777One-Handed Sword^000000 ATK: ^777777115^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Novice/Swordman/Merchant/Thief/Ninja^000000
+
+^FF0000[One-Handed Spear]^000000
+^008040Vanguard Captain’s Spear (Valor: 100)^000000
+A one-handed spear specially made for charges. Highly effective in PvP combat.
+STR + 2, Unbreakable
+Physical damage to Demi-Human monsters +95%. Ignores 20% of Demi-Human monsters’ physical defense.
+When equipped by Crusader/Paladin, additionally ASPD +20%.
+Type: ^777777Spear^000000 ATK: ^77777760^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Swordman classes only^000000
+
+^FF0000[One-Handed Staff]^000000
+^008040Warlock’s Magic Staff (Valor: 100)^000000
+A magic staff specially modified for mages who joined the war. Said to be optimized for PvP.
+MATK +15%, INT +4, DEX +3, Unbreakable
+Ignores 25% of Demi-Human monsters’ magic defense. On magic attack, 5% chance to inflict Stun.
+Type: ^777777Staff^000000 ATK: ^77777770^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Mage/Acolyte/Soul Linker only^000000
+
+^008040Warlock’s Battle Staff (Assault: 100)^000000
+A battle staff specially modified for mages who joined combat. Said to be optimized for PvP.
+MATK +15%, INT +3, DEX +3, Unbreakable
+Magic damage to Demi-Human monsters +15%.
+On magic attack, 5% chance to inflict Stun.
+Type: ^777777Staff^000000 ATK: ^77777770^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Mage/Acolyte/Soul Linker only^000000
+
+^008040Strong Recovery Staff (Valor: 100)^000000
+A staff made for healing in battle. Highly effective even for deep wounds.
+MATK +15%, Unbreakable
+Increases the recovery amount of your [Heal] and [Sanctuary] by 14%.
+Recovers 5 SP every 10 seconds.
+Type: ^777777Staff^000000 ATK: ^77777770^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Mage/Acolyte/Soul Linker only^000000
+
+^008040Fast Recovery Staff (Assault: 100)^000000
+A staff made for healing in battle. Optimized for faster healing effects.
+MATK +15%, INT +3, DEX +2, Unbreakable
+Global cooldown -15%.
+Recovers 5 SP every 10 seconds.
+Type: ^777777Staff^000000 ATK: ^77777770^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Mage/Acolyte/Soul Linker only^000000
+
+^FF0000[Mace]^000000
+^008040Warrior’s Morning Star (Assault: 100)^000000
+A mace favored by warriors—terrifying enough to transmit impact even through armor.
+Optimized for PvP combat.
+STR + 1, DEX + 1, Unbreakable
+Physical damage to Demi-Human monsters +75%. Ignores 20% of Demi-Human monsters’ physical defense.
+Type: ^777777Mace^000000 ATK: ^777777105^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Novice/Swordman/Merchant/Acolyte^000000
+
+^008040Warrior’s Morning Star (Valor: 100)^000000
+A mace favored by warriors—terrifying enough to transmit impact even through armor.
+Optimized for PvP combat.
+STR + 1, DEX + 1, Unbreakable
+Physical damage to Demi-Human monsters +75%.
+On attack, has a chance to Stun the enemy (50% chance for 6 seconds) when the weapon awakens.
+Type: ^777777Mace^000000 ATK: ^777777105^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Novice/Swordman/Merchant/Acolyte^000000
+
+^FF0000[Instrument]^000000
+^008040Battlefield Guitar (Assault: 100)^000000
+A guitar made to raise allies’ morale on the battlefield. Said to be usable for PvP attacks as well.
+DEX + 2, Unbreakable
+Physical damage to Demi-Human monsters +95%. Ignores 20% of Demi-Human monsters’ physical defense.
+Type: ^777777Instrument^000000 ATK: ^77777750^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Bard only^000000
+
+^008040Battlefield Guitar (Valor: 100)^000000
+A guitar made to raise allies’ morale on the battlefield. Said to be usable for PvP attacks as well.
+DEX + 2, Unbreakable
+Physical damage to Demi-Human monsters +95%. Arrow Vulcan damage +20%.
+Type: ^777777Instrument^000000 ATK: ^77777750^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Bard only^000000
+
+^FF0000[Whip]^000000
+^008040Battle Lariat (Assault: 100)^000000
+A whip specialized for PvP combat—strong enough to gouge flesh if it lands properly.
+DEX + 2, Unbreakable
+Physical damage to Demi-Human monsters +95%. Ignores 20% of Demi-Human monsters’ physical defense.
+Type: ^777777Whip^000000 ATK: ^77777750^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Dancer only^000000
+
+^008040Battle Lariat (Valor: 100)^000000
+A whip specialized for PvP combat—strong enough to gouge flesh if it lands properly.
+DEX + 2, Unbreakable
+Physical damage to Demi-Human monsters +95%. Arrow Vulcan damage +20%.
+Type: ^777777Whip^000000 ATK: ^77777750^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Dancer only^000000
+
+^FF0000[Book]^000000
+^008040The Art of War (Valor: 100)^000000
+A book in which an eastern strategist recorded the essence of strategy.
+It is said that countless soldiers still study this book today.
+STR + 2, INT + 1, MATK +15%, Unbreakable
+Physical damage to Demi-Human monsters +75%. Ignores 20% of Demi-Human monsters’ physical defense.
+Type: ^777777Book^000000 ATK: ^77777790^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Priest/Sage/Champion^000000
+
+^008040The Art of War (Assault: 100)^000000
+A book in which an eastern strategist recorded the essence of strategy.
+It is said that countless soldiers still study this book today.
+STR + 1, INT + 2, MATK +15%, Unbreakable
+Physical damage to Demi-Human monsters +75%. Ignores 25% of Demi-Human monsters’ magic defense.
+Type: ^777777Book^000000 ATK: ^77777790^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Priest/Sage/Champion^000000
+
+^FF0000[Knuckle]^000000
+^008040Warrior’s Battle Fist (Assault: 100)^000000
+PvP gloves used by martial artists on the battlefield. When worn, strength surges endlessly,
+making long battles manageable.
+STR + 2, AGI + 1, Unbreakable
+Physical damage to Demi-Human monsters +95%. Ignores 20% of Demi-Human monsters’ physical defense.
+On physical attack, has a chance to autocast a Light Expander.
+Type: ^777777Knuckle^000000 ATK: ^77777730^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Priest/Monk^000000
+
+^008040Warrior’s Battle Fist (Valor: 100)^000000
+PvP gloves used by martial artists on the battlefield. When worn, strength surges endlessly,
+making long battles manageable.
+STR + 2, INT + 1, Unbreakable
+Physical damage to Demi-Human monsters +95%. Asura Strike cast time -25%.
+On attack, has a chance to reduce Asura Strike cast time by 100% for 6 seconds when the weapon awakens.
+Type: ^777777Knuckle^000000 ATK: ^77777730^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Priest/Monk^000000
+
+^FF0000[Two-Handed Sword]^000000
+^008040Vanguard Captain’s Katzbalger (Valor: 100)^000000
+A two-handed sword specially made for charges. Highly effective in PvP combat.
+STR + 2, Unbreakable
+Physical damage to Demi-Human monsters +55%. Ignores 20% of Demi-Human monsters’ physical defense.
+Type: ^777777Two-Handed Sword^000000 ATK: ^777777200^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Swordman classes only^000000
+
+^008040Vanguard Captain’s Katzbalger (Assault: 100)^000000
+A two-handed sword specially made for charges. Highly effective in PvP combat.
+CRI + 20, Unbreakable
+Physical damage to Demi-Human monsters +55%. Critical damage +20%.
+Type: ^777777Two-Handed Sword^000000 ATK: ^777777200^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Swordman classes only^000000
+
+^FF0000[Two-Handed Spear]^000000
+^008040Vanguard Captain’s Lance (Assault: 100)^000000
+A two-handed spear specially made for charges. Optimized for PvP combat.
+STR + 2, Unbreakable
+Physical damage to Demi-Human monsters +25%. Ignores Demi-Human monsters’ physical defense.
+Type: ^777777Two-Handed Spear^000000 ATK: ^777777160^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Swordman classes only^000000
+
+^FF0000[Two-Handed Axe]^000000
+^008040Berserker’s Battle Axe (Assault: 100)^000000
+A terrifying two-handed axe for PvP—said to make its wielder swing like a berserker.
+STR + 3, Unbreakable
+Physical damage to Demi-Human monsters +55%. Ignores 20% of Demi-Human monsters’ physical defense.
+Type: ^777777Two-Handed Axe^000000 ATK: ^777777200^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Swordman/Merchant classes only^000000
+
+^008040Berserker’s Battle Axe (Valor: 100)^000000
+A terrifying two-handed axe for PvP—said to make its wielder swing like a berserker.
+STR + 3, Unbreakable
+Physical damage to Demi-Human monsters +55%.
+On attack, has a chance to destroy the target’s armor with 100% success for 3 seconds when the weapon awakens.
+Type: ^777777Two-Handed Axe^000000 ATK: ^777777200^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Swordman/Merchant classes only^000000
+
+^FF0000[Huuma Shuriken]^000000
+^008040Battle Huuma Shuriken (Valor: 100)^000000
+A Huuma Shuriken that delivers brutal power in PvP combat.
+STR + 2, DEX + 1, Unbreakable
+Physical damage to Demi-Human monsters +95%. Ignores 20% of Demi-Human monsters’ physical defense.
+Type: ^777777Huuma^000000 ATK: ^77777755^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Ninja only^000000
+
+^008040Battle Huuma Shuriken (Assault: 100)^000000
+A Huuma Shuriken that delivers brutal power in PvP combat.
+STR + 2, DEX + 1, Unbreakable
+Physical damage to Demi-Human monsters +95%.
+On attack, has a chance to increase Huuma Shuriken Throw and Issen attack power by 100% for 10 seconds when the weapon awakens.
+Type: ^777777Huuma^000000 ATK: ^77777755^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Ninja only^000000
+
+^FF0000[Katar]^000000
+^008040Massacre Katar (Valor: 100)^000000
+A PvP-specialized katar said to unleash a field of slaughter when wielded by a skilled assassin. Terrifying.
+STR + 1, DEX + 1, LUK + 1, Unbreakable
+Physical damage to Demi-Human monsters +70%. Ignores 20% of Demi-Human monsters’ physical defense.
+Type: ^777777Katar^000000 ATK: ^777777130^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Assassin only^000000
+
+^008040Massacre Katar (Assault: 100)^000000
+A PvP-specialized katar said to unleash a field of slaughter when wielded by a skilled assassin. Terrifying.
+STR + 1, DEX + 1, LUK + 1, Unbreakable
+Physical damage to Demi-Human monsters +70%. Critical damage +20%.
+ASPD +5%.
+Type: ^777777Katar^000000 ATK: ^777777130^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Assassin only^000000
+
+^FF0000[Bow]^000000
+^008040Battle Crossbow (Assault: 100)^000000
+A crossbow designed so arrows pierce Demi-Human enemies harder and more painfully.
+DEX + 2, Unbreakable
+Physical damage to Demi-Human monsters +55%. Ignores 20% of Demi-Human monsters’ physical defense.
+Type: ^777777Bow^000000 ATK: ^777777100^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Thief/Archer classes^000000
+
+^008040Battle Crossbow (Valor: 100)^000000
+A crossbow designed so arrows pierce Demi-Human enemies harder and more painfully.
+DEX + 2, INT + 10, Unbreakable
+Physical damage to Demi-Human monsters +55%.
+Type: ^777777Bow^000000 ATK: ^777777100^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Thief/Archer classes^000000
+
+^FF0000[Revolver]^000000
+^008040Soldier Revolver (Valor: 100)^000000
+A revolver made for close- to mid-range PvP combat. Even against a bulletproof vest, it can deliver impact to some extent.
+DEX + 2, Hit -10, Unbreakable
+Physical damage to Demi-Human monsters +55%. Ignores 20% of Demi-Human monsters’ physical defense.
+On attack, has a chance to increase ASPD by 100% for 3 seconds when the weapon awakens.
+Type: ^777777Revolver^000000 ATK: ^77777770^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Gunslinger only^000000
+
+^FF0000[Rifle]^000000
+^008040Soldier Rifle (Assault: 100)^000000
+A rifle made for mid- to long-range PvP sniping. Minimizes hand tremors,
+greatly reducing the time required for targeting.
+DEX + 2, Hit +10, CRI +10, Unbreakable, Tracking cast time -25%.
+Physical damage to Demi-Human monsters +75%. Ignores 20% of Demi-Human monsters’ physical defense.
+Type: ^777777Rifle^000000 ATK: ^77777750^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Gunslinger only^000000
+
+^FF0000[Gatling Gun]^000000
+^008040Soldier Gatling Gun (Valor: 100)^000000
+A motor-driven rotary multi-shot firearm specialized for PvP combat. If you fire enough,
+sometimes the bullets come out stronger than usual.
+DEX + 2, Unbreakable
+Physical damage to Demi-Human monsters +35%. Ignores 20% of Demi-Human monsters’ physical defense.
+On attack, has a chance to increase ATK by 80 for 6 seconds when the weapon awakens. Recoil drains 120 HP per second.
+Type: ^777777Gatling Gun^000000 ATK: ^77777780^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Gunslinger only^000000
+
+^FF0000[Shotgun]^000000
+^008040Soldier Shotgun (Assault: 100)^000000
+A PvP shotgun that delivers strong power at close range. Has high damage variance.
+DEX + 2, Splash damage, Unbreakable
+Physical damage to Demi-Human monsters +55%. Ignores 20% of Demi-Human monsters’ physical defense.
+On attack, has a chance to increase ATK by 100 for 6 seconds when the weapon awakens. Recoil drains 100 HP per second.
+Type: ^777777Shotgun^000000 ATK: ^777777100^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Gunslinger only^000000
+
+^FF0000[Grenade Launcher]^000000
+^008040Soldier Grenade Launcher (Assault: 100)^000000
+A grenade launcher boasting outstanding firepower in PvP combat.
+DEX + 2, Unbreakable
+Physical damage to Demi-Human monsters +35%. Ignores 20% of Demi-Human monsters’ physical defense.
+On attack, has a chance to increase ATK by 300 for 9 seconds when the weapon awakens. Recoil drains 120 HP per second.
+Type: ^777777Grenade Launcher^000000 ATK: ^777777300^000000 Weight: ^7777770^000000
+Weapon Level: ^7777773^000000 Required Level: ^77777780^000000
+Usable by: ^777777Gunslinger only^000000
+
+^FF0000[Garment]^000000
+^008040Commander’s Cloak (50)^000000
+A dignified-looking cloak issued on the battlefield.
+It is said to be given only to those who achieved distinguished merit on the front lines.
+Damage taken from Demi-Human monsters -1%.
+Max HP +50. MDEF +1.
+Type: ^777777Garment^000000 DEF: ^7777774^000000
+Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Swordman/Merchant/Thief (Ninja)/Taekwon/Champion^000000
+
+^008040Commander’s Cloak (50)^000000
+A cloak issued to commanders who excel at rear-line support—the most important role on the battlefield.
+Damage taken from Demi-Human monsters -1%. Max HP +50. MDEF +1.
+Type: ^777777Garment^000000 DEF: ^7777773^000000
+Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Mage/Acolyte/Archer/Soul Linker^000000
+
+^008040Sheriff’s Cloak (50)^000000
+A cloak that evokes the dry sandy winds of the plains, and the tension and resolve that grip your hands.
+Damage taken from Demi-Human monsters -1%. Max HP +50. MDEF +1.
+Type: ^777777Garment^000000 DEF: ^7777773^000000
+Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Gunslinger only^000000
+
+^FF0000[Footgear]^000000
+^008040Combat Greaves (50)^000000
+Greaves optimized for combat.
+Damage taken from Demi-Human monsters -1%.
+Max HP +100. MDEF +1.
+Type: ^777777Footgear^000000 DEF: ^7777774^000000
+Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Swordman/Merchant/Thief (Ninja)/Taekwon/Champion^000000
+
+^008040Military Boots (50)^000000
+Despite their looks, they are sturdy and do not hinder movement.
+Damage taken from Demi-Human monsters -1%.
+Max HP +100. MDEF +1.
+Type: ^777777Footgear^000000 DEF: ^7777773^000000
+Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Mage/Acolyte/Archer/Soul Linker^000000
+
+^008040Combat Boots (50)^000000
+Gunslinger-only, but not significantly different from other boots.
+Damage taken from Demi-Human monsters -1%.
+Max HP +100. MDEF +1.
+Type: ^777777Footgear^000000 DEF: ^7777773^000000
+Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Gunslinger only^000000
+
+^FF0000[Armor]^000000
+^008040Vanguard Captain’s Plate (80)^000000
+Recommended for you, who meets the enemy first on the front line!
+Collect the set to feel the boosted effects even more!
+Damage taken from Demi-Human monsters -2%. Max HP +150. MDEF +2.
+When equipped together with Combat Greaves and Commander’s Cloak:
+Damage taken from non–Demi-Human monsters increases by 3x,
+VIT +3, Max HP +12%,
+Healing received and the effectiveness of certain recovery items +10%,
+When hit by physical attacks, has a chance to recover 6000 HP over 10 seconds.
+Type: ^777777Armor^000000 DEF: ^7777777^000000 Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Swordman/Merchant/Taekwon/Champion^000000
+
+^008040Elite Engineer’s Armor (80)^000000
+Recommended for you, who boasts exceptional offense! Collect the set to feel the boosted effects even more!
+Damage taken from Demi-Human monsters -2%. Max HP +150. MDEF +2.
+When equipped together with Combat Greaves and Commander’s Cloak:
+Damage taken from non–Demi-Human monsters increases by 3x,
+STR +3, Max HP +12%,
+Mammonite damage +20%,
+HP recovered by [Heal] and [Potion Pitcher] +10%,
+Armor cannot be broken.
+Type: ^777777Armor^000000 DEF: ^7777777^000000 Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Merchant classes^000000
+
+^008040Assassin’s Robe (80)^000000
+Recommended for you, who craves speed and agility above all!
+Collect the set to feel the boosted effects even more!
+Damage taken from Demi-Human monsters -2%. Max HP +150. MDEF +2.
+When equipped together with Combat Greaves and Commander’s Cloak:
+Damage taken from non–Demi-Human monsters increases by 3x,
+AGI +3, Max HP +12%,
+ASPD and Critical Rate +5%,
+When hit by physical attacks, has a chance to recover 3000 HP over 10 seconds.
+Type: ^777777Armor^000000 DEF: ^7777777^000000 Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Thief classes (Ninja)^000000
+
+^008040Warlock’s Battle Robe (80)^000000
+Recommended for you, who fears nothing as long as your survival odds rise!
+Collect the set to feel the boosted effects even more!
+Damage taken from Demi-Human monsters -2%. Max HP +150. MDEF +2.
+When equipped together with Military Boots and Commander’s Cloak:
+Damage taken from non–Demi-Human monsters increases by 3x,
+INT +3, Max HP +12%,
+Stun resistance +20%,
+When hit by physical attacks, has a chance to imbue the armor with Shadow property for 10 seconds.
+Type: ^777777Armor^000000 DEF: ^7777773^000000 Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Mage classes^000000
+
+^008040Medic’s Robe (80)^000000
+Recommended for you, who ensures the survival of your party or guild!
+Collect the set to feel the boosted effects even more!
+Damage taken from Demi-Human monsters -2%. Max HP +150. MDEF +2.
+When equipped together with Military Boots and Commander’s Cloak:
+Damage taken from non–Demi-Human monsters increases by 3x,
+INT +3, Max HP +12%,
+Holy Light cast time -50%,
+Increases HP recovered by your [Heal] and [Sanctuary] by 6%.
+When hit by physical attacks, has a chance to imbue the armor with Shadow property for 10 seconds.
+Type: ^777777Armor^000000 DEF: ^7777773^000000 Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Acolyte classes^000000
+
+^008040Elite Archer’s Suit (80)^000000
+Recommended for you, who pursues accurate, sharp, and effective combat!
+Collect the set to feel the boosted effects even more!
+Damage taken from Demi-Human monsters -2%. Max HP +150. MDEF +2.
+When equipped together with Military Boots and Commander’s Cloak:
+Damage taken from non–Demi-Human monsters increases by 3x,
+DEX +3, Max HP +12%,
+Damage taken from ranged attacks -10%. Global cooldown -25%.
+Type: ^777777Armor^000000 DEF: ^7777773^000000 Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Archer classes^000000
+
+^008040Elite Sharpshooter’s Suit (80)^000000
+A suit every true Gunslinger would want!
+Collect the set to feel the boosted effects even more!
+Damage taken from Demi-Human monsters -2%. Max HP +150. MDEF +2.
+When equipped together with Combat Boots and Sheriff’s Cloak:
+Damage taken from non–Demi-Human monsters increases by 3x,
+DEX +3, Max HP +12%,
+Damage taken from ranged attacks -10%. Global cooldown -25%.
+Type: ^777777Armor^000000 DEF: ^7777773^000000 Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Gunslinger only^000000
+
+^FF0000[Accessory]^000000
+^008040Medal of Valor (500)^000000
+A medal awarded to those with outstanding performance on the battlefield.
+ATK +5%, MATK +5%, HIT +10, Max HP +500, Max SP +50.
+On melee physical attacks, has a low chance to inflict Stun on the enemy.
+Type: ^777777Accessory^000000 DEF: ^7777771^000000
+Weight: ^7777770^000000 Required Level: ^77777770^000000
+Usable by: ^777777Swordman classes / Champion only^000000
+
+^008040Medal of Valor (500)^000000
+A medal awarded to those with outstanding performance on the battlefield.
+ATK +5%, MATK +5%, FLEE +10, Max HP +300, Max SP +80.
+On melee physical attacks, has a low chance to inflict Poison on the enemy.
+Type: ^777777Accessory^000000 DEF: ^7777771^000000
+Weight: ^7777770^000000 Required Level: ^77777770^000000
+Usable by: ^777777Thief classes (Ninja) only^000000
+
+^008040Medal of Valor (500)^000000
+A medal awarded to those with outstanding performance on the battlefield.
+ATK +5%, MATK +5%, MDEF +6, Max HP +600.
+On melee physical attacks, has a low chance to inflict Silence on the enemy.
+Type: ^777777Accessory^000000 DEF: ^7777771^000000
+Weight: ^7777770^000000 Required Level: ^77777770^000000
+Usable by: ^777777Acolyte classes only^000000
+
+^008040Medal of Valor (500)^000000
+A medal awarded to those with outstanding performance on the battlefield.
+ATK +5%, MATK +5%, MDEF +6, Max HP +600.
+When taking physical damage, has a low chance to inflict Petrification on the enemy.
+Type: ^777777Accessory^000000 DEF: ^7777771^000000
+Weight: ^7777770^000000 Required Level: ^77777770^000000
+Usable by: ^777777Mage classes only^000000
+
+^008040Medal of Valor (500)^000000
+A medal awarded to those with outstanding performance on the battlefield.
+ATK +5%, MATK +5%, CRI +10, Max HP +300, Max SP +80.
+On ranged physical attacks, has a low chance to inflict Blind on the enemy.
+Type: ^777777Accessory^000000 DEF: ^7777771^000000
+Weight: ^7777770^000000 Required Level: ^77777770^000000
+Usable by: ^777777Archer classes only^000000
+
+^008040Medal of Valor (500)^000000
+A medal awarded to those with outstanding performance on the battlefield.
+ATK +5%, MATK +5%, ASPD +10%, Max HP +500, Max SP +50.
+On melee physical attacks, has a low chance to inflict Curse on the enemy.
+Type: ^777777Accessory^000000 DEF: ^7777771^000000
+Weight: ^7777770^000000 Required Level: ^77777770^000000
+Usable by: ^777777Merchant classes only^000000
+
+^008040Sheriff Badge - Gunslinger (500)^000000
+A medal awarded to those with outstanding performance on the battlefield.
+ATK +5%, MATK +5%, CRI +10, Max HP +300, Max SP +80.
+On ranged physical attacks, has a chance to inflict Blind on the enemy.
+Type: ^777777Accessory^000000 DEF: ^7777771^000000
+Weight: ^7777770^000000 Required Level: ^77777780^000000
+Usable by: ^777777Gunslinger only^000000
+
+^FF0000[Consumable Items]^000000
+^008040Tasty Captain (10)^000000
+Emergency food for survival. If eaten too quickly, you may choke.
+^000088ATK +15 for 10 minutes.^000000
+Weight: ^7777777^000000
+
+^008040Tasty Lieutenant (10)^000000
+Emergency food for survival. If eaten too quickly, you may choke.
+^000088MATK +15 for 10 minutes.^000000
+Weight: ^7777777^000000
+
+^008040Military Rations Type A (5)^000000
+Improved food Type A designed for quick eating when busy. Taste not guaranteed.
+^000088Restores 5% HP.^000000
+Weight: ^7777777^000000
+
+^008040Military Rations Type B (10)^000000
+Improved food Type B designed for quick eating when busy. Taste not guaranteed.
+^000088HIT +33 for 10 minutes.^000000
+Weight: ^7777777^000000
+
+^008040Military Rations Type C (10)^000000
+Improved food Type C designed for quick eating when busy. Taste not guaranteed.
+^000088FLEE +33 for 10 minutes.^000000
+Weight: ^7777777^000000
+"

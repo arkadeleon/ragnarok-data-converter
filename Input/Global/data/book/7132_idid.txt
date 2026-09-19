@@ -1,0 +1,17 @@
+%faf0e6
+^000088Alkimia Tingkat Menengah: Pembuatan Glistening Coat^000000
+
+
+----------------Pendahuluan--------------------
+
+Skill Energy Coat milik para Magician yang menghasilkan lapisan mana untuk melindungi penggunanya menginspirasi para Alchemist untuk mengembangkan Glistening Coat. Glistening Coat dapat digunakan bersama dengan skill perlindungan milik Alchemist untuk meningkatkan perlindungan yang tidak mudah terpengaruh oleh sebagian besar faktor eksternal. Namun, lapisan buatan ini secara otomatis akan kehilangan efektivitasnya setelah jangka waktu tertentu.
+
+------------------------------------------
+
+Apa itu ^400080Glistening Coat^000000?
+
+Glistening Coat adalah zat lembut dan kental yang dapat melapisi objek dengan aman untuk sementara waktu meningkatkan ketahanannya terhadap kerusakan. Hanya Alchemist yang sangat terampil yang mampu mengaplikasikan Glistening Coat dengan menggunakan skill Biochemical Helm, Synthesized Shield, Synthetic Armor, dan Alchemical Weapon.
+
+Bahan yang Dibutuhkan: ^4B00821 Alcohol, 1 Zenorc's Fang, 1 Mermaid's Heart, 1 Empty Bottle^000000
+
+Proses: Isi mangkuk obat hingga setengahnya dengan alkohol, lalu lelehkan Zenorc's Fang di dalamnya. Bersihkan Mermaid's Heart, kemudian tambahkan ke dalam campuran Zenorc's Fang dan alkohol tersebut. Terakhir, gunakan skill Pharmacy untuk menuangkan larutan tersebut ke dalam botol kosong. Kamu perlu mempelajari skill khusus seperti Biochemical Helm, Synthesized Shield, Synthetic Armor, dan Alchemical Weapon agar dapat mengaplikasikan Glistening Coat pada equipment.

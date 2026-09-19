@@ -1,0 +1,35 @@
+%faf0e6
+^000088Alchemy for Manufacturing Plant Bottles^000000
+
+
+----------------Foreword--------------------
+The alchemy of life is an extremely difficult endeavor.
+The first step we approached in order to study the high-level task known as life synthesis
+was the synthesis of plants.
+However, the weak life force of ordinary plants brought nothing but failure.
+With no research results in sight and just as we were about to give up,
+we learned of the existence of man-eating plants.
+Plants with stronger vitality and a ferocious nature compared to others...
+The man-eating plants we discovered while wandering the Mjolnir Mountains and areas near Juno
+brought us great achievements in our research and immense joy.
+It was the moment we opened our eyes to the astonishing world of plant synthesis.
+------------------------------------------
+
+
+
+
+What is a ^FF8040Plant Bottle^000000?
+
+When thrown onto the ground, a man-eating plant instantly grows
+and attacks creatures that come near it in order to devour them.
+This plant is preserved in a bottle through a special processing method.
+However, only alchemists who have mastered specialized techniques
+are said to be able to use it.
+
+
+Materials: ^4B00822 Man-Eating Plant Flowers, 1 Empty Bottle^000000
+Manufacturing Method: Prepare a mortar.
+          Place 2 man-eating plant flowers into the mortar, and while carrying this book,
+          use Pharmacy to bottle the result into an empty bottle.
+          The alchemy used to summon man-eating plants must be learned separately
+          from standard synthesis techniques in order to be used.

@@ -1,0 +1,170 @@
+%faf0e6
+^4D4DFFKapitel: Anfänger-Roter-Trank^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Vorbereitung: 2x Rotes Kraut, 1 Apfel, ein wenig sehnsüchtige Hingabe zum Trank
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Herstellung: Wenn du alle Materialien im Inventar hast, drücke auf das „Kombinationsset“.>
+Egal, wie du an das Rote Kraut gekommen bist. Ob du es aufgehoben hast, nachdem es jemand fallen ließ,
+oder es einem schwachen, gutmütigen Monster abgenommen hast – Hauptsache, es sind 2 Stück. Der Apfel ist nur ein Snack.
+
+1. Bereite 2x Rotes Kraut vor.
+2. Reibe es mit den Handflächen gründlich ein. (Wenn du Hunger hast, iss einfach den Apfel.)
+3. Wenn du Schritt 1 und 2 gut befolgt hast, tritt Saft aus und zerdrückte Reste des Roten Krauts kleben an deinen Handflächen.
+4. Ach ja, hast du dir die Hände gewaschen?
+5. .....Nun gut. Dann geht es eben so zum Königspalast.
+* Punkt: Lege beide Hände zusammen und bete inständig, dass das in deinen Handflächen zu einem Roten Trank wird.
+
+
+^CD3278Kapitel: Anfänger-Lupe^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Vorbereitung: 3 fein gemaserte Holzstücke, 1x Jejellopy, etwas gottgegebenes handwerkliches Geschick
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Herstellung: Wenn du alle Materialien im Inventar hast, drücke auf das „Kombinationsset“.>
+Das Griffgefühl fein gemaserter Holzstücke, die perfekt in der Hand liegen, als wären sie schon immer deine gewesen.
+Die blendende Harmonie, die das .... von Jejellopy erzeugt, das kaum Sonnenlicht durchlässt.
+
+1. Schnitze die fein gemaserten Holzstücke in die gewünschte Form.
+2. Schnitze und glätte weiter. So lange, bis alles schön glatt ist.
+-> Der Kunde könnte sagen: „Jetzt reicht's. Gib es mir endlich.“
+In dem Fall antworte gelassen: „Kunde, beim Bestellen konnten Sie ja auch tun, was Sie wollten....“
+3. Beim Bearbeiten ist viel zu viel Zeit vergangen. Strecke den steifen Rücken und schau in den Abendhimmel.
+4. Offenbar hast du bei Schritt 1 keinen Platz für Jejellopy vorgesehen, aber das ist wohl auch nicht weiter schlimm.
+
+
+^4C1919Kapitel: Anfänger-Fliegenflügel^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Vorbereitung: 2x Flaum, 2x Weiches Fell, 2x Jejellopy, der Wunsch, „so weit wie möglich“ wegzukommen
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Herstellung: Wenn du alle Materialien im Inventar hast, drücke auf das „Kombinationsset“.>
+Flaum, Weiches Fell und Jejellopy. Eine rätselhafte Kombination, bei der selbst die Materialverträglichkeit unbegreiflich ist,
+irgendwo zwischen Ungewissheit und Verlegenheit.
+
+1. Vor langer Zeit lebten einmal 2x Flaum.
+2. Auch 2x Weiches Fell lebten dort.
+3. Eines Tages nahmen 2x Jejellopy das Weiche Fell mit.
+4. Flaum legte ☆☆ auf Jejellopys ●●●.
+5. Wer Flaum anfasst, wird zu ★.
+6. So richtig ★.
+
+
+^231010Kapitel: Anfänger-Cutter^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Vorbereitung: 10x Harte Schale, 10x Insektenschale, 1x Phracon, der Wunsch, nicht von Monstern getötet zu werden
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+Wenn du mittellos anfängst, ist der Anfänger-Cutter so ziemlich das Höchste an brauchbarer Waffenangriffskraft.
+Für eine Waffe, die leicht zu bekommen ist, ist er ziemlich ordentlich.
+
+1. Lege 10x Harte Schale in einer Reihe aus.
+Bleib dabei ruhig, selbst wenn jemand, der zusieht, die Anordnung durcheinanderbringt.
+2. Lege auf die Anordnung aus Schritt 1 auch Insektenschale und Phracon übereinander.
+3. Lege die Hände darauf und brüll einmal kräftig auf.
+
+
+^FF0000Bei Fehlschlag wiederhole die Schritte 1~3, bis es klappt.^000000
+
+
+^006F61Kapitel: Grüner Apfel, den Anfänger-Poring liebt^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Vorbereitung: 1 Apfel, 1x Grünes Kraut, der Wunsch nach einem Wunder
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+1. Wasche den Apfel und das Grüne Kraut gründlich in kaltem Wasser.
+2. Wickle das Grüne Kraut sorgfältig um den Apfel.
+3. Drücke es fest zusammen, bis das Grüne Kraut gut haftet.
+
+* Wenn es dir in Schritt 3 an innerer Überzeugung fehlt, haftet das Grüne Kraut womöglich nicht stabil.
+Je inständiger du es dir wünschst, desto größer ist die Chance, dass das Herz des Grünen Krauts auch den Apfel erreicht.
+Sobald Grünes Kraut und Apfel ein einigermaßen vertrautes Verhältnis zueinander haben, kannst du loslassen.
+
+
+
+
+
+^8B4513Zum Schluss. . .
+
+Nach etwa nnn Jahren voller Experimente, Forschung und wiederholter Fehlschläge
+
+habe ich all das, wenn auch unvollkommen, in einem Buch zusammengetragen.
+
+Auch wenn es nicht als offizielle Veröffentlichung anerkannt wurde,
+
+halte ich es für ein Glück,
+
+euch auf diese Weise durch dieses Buch begegnen zu können.^000000
+
+^0A6E0AAußerdem habe ich für Novizen mit noch höheren Zielen einen Anhang beigefügt.^000000
+
+
+
+
+- Ich hoffe, du schaffst bald wenigstens den ersten Klassenwechsel ^8C4040Anfänger-Poring^000000
+
+[Lasst uns Glück erschaffen! Vierblättriger Klee]
+^003A9D
+„Da die Freude am größten ist, wenn man vierblättrigen Klee in der Natur findet,
+wurde auf Empfehlung der Midgard-Gesellschaft für Naturschutz die provisorische Herstellungsanleitung entfernt.
+Wir bitten die Abenteurer um Verständnis.“
+^000000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Gesundes Obst und Gemüse, Saft (Saft-Serie)]
+^003A9D
+Zutaten: Zutaten für Bananensaft: 1 Banane, 1 Milch, etwas Griffkraft
+Zutaten für Apfelsaft: 1 Apfel, 1 Milch, etwas Griffkraft
+Zutaten für Karottensaft: 1 Karotte, 1 Milch, etwas Griffkraft
+Zutaten für Traubensaft: 1 Traube, 1x Apfelsaft, etwas Griffkraft
+
+^000000
+Das Verhältnis von Hauptfrucht zu Nebenzutat beträgt eigentlich nicht 1:1, sondern 1:0,2.
+Die übrigen 0,8 der Nebenzutat sind als Snack gedacht, falls du beim Herstellen hungrig wirst.
+
+1. Zerdrücke die Hauptfrucht. Ganz egal, auf welche Weise.
+2. Gib die fein zerdrückte Frucht in eine Milchflasche, aus der du beim Naschen noch etwas übrig gelassen hast.
+(Bei Traubensaft wird allerdings statt Milch Apfelsaft verwendet.)
+3. Verschließe die Flasche gut und schüttle sie kräftig.
+4. Ein Geschmack, bei dem beim Essen von zweien einer sterben könnte! Und überraschenderweise genau dein Fall?!
+
+
+
+[Der Geschmack, auf den Poring total abfährt!! Unreifer Apfel]
+^003A9D
+Zutaten: 10x Klebrige Flüssigkeit, 20x Grünes Kraut, 10 Äpfel, die Hand der Sonne
+
+^000000
+1. Teile das Grüne Kraut in kleine Stücke.
+2. Sammle das zerkleinerte Grüne Kraut und die Klebrige Flüssigkeit und knete alles zu einer Masse.
+3. Es ist etwas klebrig, aber knete geduldig weiter.
+4. Wenn es durch den Gebrauch deiner Hände irgendwann nicht mehr so sehr an ihnen klebt, forme in der Mitte eine Mulde,
+groß genug für 1 Apfel.
+-> Die übrigen 9 Äpfel kannst du dir selbst als Belohnung für deine Arbeit schenken.
+5. Lege den Apfel hinein und schließe die Masse sorgfältig, sodass man den Apfel nicht mehr sieht.
+6. Forme alles wieder glatt, bis es schön rund ist.
+7. Lege den fertigen unreifen Apfel auf einen Apfelbaum.
+8. Wenn sogar ein Vogel davon kostet, ist es OK.
+9. Jetzt gib ihn auch mal einem Poring.

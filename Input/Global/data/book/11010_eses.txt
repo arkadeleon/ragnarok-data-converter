@@ -1,0 +1,561 @@
+%f5f5dc
+^000088¡¡Objetos de recompensa!!^000000
+
+Los objetos que pueden obtenerse como recompensa varían según cada facción,
+las insignias que pueden obtenerse en la batalla de Tierra son Insignias de Valor (-A)
+y las insignias que pueden obtenerse en la batalla de Flavius son Insignias de Bravura (-B).
+Entre paréntesis se indican el tipo y la cantidad de insignias necesarias.
+Si no se especifica el tipo de insignia, puede obtenerse con insignias del mismo tipo.
+
+^FF0000[Daga]^000000
+^008040Damasco del Asesino (Val.:100)^000000
+Daga especializada en asesinatos y combates contra jugadores.
+STR + 1, AGI + 1, indestructible
+ATQ físico contra monstruos de raza Humanoide 75% aumentado.
+DEF física de los monstruos de raza Humanoide 20% ignorada.
+Al equiparla un Ninja, Rogue o Stalker, MATK + 15% adicional
+Tipo: ^777777Daga^000000 Ataque: ^777777120^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Novice/Swordman/Mage/Archer/Merchant/Thief/Soul Linker/Ninja^000000
+
+^008040Damasco del Asesino (Esp.:100)^000000
+Daga especializada en asesinatos y combates contra jugadores.
+STR + 1, AGI + 1, indestructible
+ATQ físico contra monstruos de raza Humanoide 75% aumentado.
+Al atacar, cierta probabilidad de activar el arma y obtener el efecto de Infiltración durante 6 segundos.
+Al equiparla un Ninja, Rogue o Stalker, MATK + 15% adicional
+Tipo: ^777777Daga^000000 Ataque: ^777777120^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Novice/Swordman/Mage/Archer/Merchant/Thief/Soul Linker/Ninja^000000
+
+^FF0000[Espada de una mano]^000000
+^008040Espada del Gladiador (Esp.:100)^000000
+Espada muy utilizada por los gladiadores, extremadamente eficaz en combates contra jugadores.
+STR + 1, Dex + 1, indestructible
+ATQ físico contra monstruos de raza Humanoide 75% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Tipo: ^777777Espada de una mano^000000 Ataque: ^777777115^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Novice/Swordman/Merchant/Thief/Ninja^000000
+
+^008040Espada del Gladiador (Val.:100)^000000
+Espada muy utilizada por los gladiadores, extremadamente eficaz en combates contra jugadores.
+STR + 1, Dex + 1, MATK + 10%, indestructible
+ATQ físico contra monstruos de raza Humanoide 75% aumentado.
+Tipo: ^777777Espada de una mano^000000 Ataque: ^777777115^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Novice/Swordman/Merchant/Thief/Ninja^000000
+
+
+^FF0000[Lanza de una mano]^000000
+^008040Lanza del Capitán de Asalto (Val.:100)^000000
+Lanza de una mano fabricada especialmente para cargas. Muy eficaz en combates contra jugadores.
+STR + 2, indestructible
+ATQ físico contra monstruos de raza Humanoide 95% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Al equiparla un Crusader/Paladin, velocidad de ataque 20% aumentada adicionalmente.
+Tipo: ^777777Lanza^000000 Ataque: ^77777760^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo clase Swordman^000000
+
+^FF0000[Bastón de una mano]^000000
+^008040Bastón Mágico del Warlock (Val.:100)^000000
+Bastón mágico modificado especialmente para magos que participan en la guerra. Se dice que está optimizado para combates contra jugadores.
+MATK + 15%, INT + 4, Dex + 3, indestructible
+DEF mágica de los monstruos de raza Humanoide 25% ignorada. Al realizar ataques mágicos, 5% de probabilidad de infligir Aturdimiento.
+Tipo: ^777777Bastón^000000 Ataque: ^77777770^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo clases Mage/Acolyte/Soul Linker^000000
+
+
+^008040Bastón de Combate del Warlock (Esp.:100)^000000
+Bastón de combate modificado especialmente para magos que participan en la batalla. Se dice que está optimizado para combates contra jugadores.
+MATK + 15%, INT + 3, Dex + 3, indestructible
+Daño mágico adicional contra monstruos de raza Humanoide 15%.
+Al realizar ataques mágicos, 5% de probabilidad de infligir Aturdimiento.
+Tipo: ^777777Bastón^000000 Ataque: ^77777770^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo clases Mage/Acolyte/Soul Linker^000000
+
+^008040Bastón de Curación Potente (Val.:100)^000000
+Bastón creado para curar en combate. Resulta muy eficaz incluso contra heridas profundas.
+MATK + 15%, indestructible
+Curación de [Heal] y [Sanctuary] usados por el portador 14% aumentada.
+Cada 10 segundos, recupera 5 de SP.
+Tipo: ^777777Bastón^000000 Ataque: ^77777770^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo clases Mage/Acolyte/Soul Linker^000000
+
+
+^008040Bastón de Curación Rápida (Esp.:100)^000000
+Bastón creado para curar en combate. Está optimizado para proporcionar una curación rápida.
+MATK + 15%, INT + 3, Dex + 2, indestructible
+Tiempo de reutilización global 15% reducido.
+Cada 10 segundos, recupera 5 de SP.
+Tipo: ^777777Bastón^000000 Ataque: ^77777770^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo clases Mage/Acolyte/Soul Linker^000000
+
+^FF0000[Maza]^000000
+^008040Lucero del Alba del Luchador (Esp.:100)^000000
+Maza muy utilizada por los luchadores, un arma temible cuyo impacto se transmite incluso a través de la armadura.
+Está optimizada para combates contra jugadores.
+STR + 1, Dex + 1, indestructible
+ATQ físico contra monstruos de raza Humanoide 75% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Tipo: ^777777Maza^000000 Ataque: ^777777105^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Novice/Swordman/Merchant/Acolyte^000000
+
+^008040Lucero del Alba del Luchador (Val.:100)^000000
+Maza muy utilizada por los luchadores, un arma temible cuyo impacto se transmite incluso a través de la armadura.
+Está optimizada para combates contra jugadores.
+STR + 1, Dex + 1, indestructible
+ATQ físico contra monstruos de raza Humanoide 75% aumentado.
+Al atacar, cierta probabilidad de activar el arma y, durante 6 segundos, probabilidad de 50% de infligir Aturdimiento al enemigo.
+Tipo: ^777777Maza^000000 Ataque: ^777777105^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Novice/Swordman/Merchant/Acolyte^000000
+^FF0000[Instrumento]^000000
+^008040Guitarra del Campo de Batalla (Esp.:100)^000000
+Guitarra creada para elevar la moral de los aliados en el campo de batalla. También resulta útil para atacar a otros jugadores.
+Dex + 2, indestructible
+ATQ físico contra monstruos de raza Humanoide 95% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Tipo: ^777777Instrumento^000000 Ataque: ^77777750^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Bard^000000
+
+
+^008040Guitarra del Campo de Batalla (Val.:100)^000000
+Guitarra creada para elevar la moral de los aliados en el campo de batalla. También resulta útil para atacar a otros jugadores.
+Dex + 2, indestructible
+ATQ físico contra monstruos de raza Humanoide 95% aumentado. Daño de Arrow Vulcan 20% aumentado.
+Tipo: ^777777Instrumento^000000 Ataque: ^77777750^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Bard^000000
+
+
+^FF0000[Látigo]^000000
+^008040Látigo de Batalla (Esp.:100)^000000
+Látigo especializado en combates contra jugadores, tan potente que un golpe certero puede desgarrar la carne.
+Dex + 2, indestructible
+ATQ físico contra monstruos de raza Humanoide 95% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Tipo: ^777777Látigo^000000 Ataque: ^77777750^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Dancer^000000
+
+
+^008040Látigo de Batalla (Val.:100)^000000
+Látigo especializado en combates contra jugadores, tan potente que un golpe certero puede desgarrar la carne.
+Dex + 2, indestructible
+ATQ físico contra monstruos de raza Humanoide 95% aumentado. Daño de Arrow Vulcan 20% aumentado.
+Tipo: ^777777Látigo^000000 Ataque: ^77777750^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Dancer^000000
+
+
+^FF0000[Libro]^000000
+^008040El arte de la guerra (Val.:100)^000000
+Libro en el que un estratega oriental plasmó la esencia de la estrategia,
+y que todavía hoy estudian numerosos militares.
+STR + 2, INT + 1, MATK + 15%, indestructible
+ATQ físico contra monstruos de raza Humanoide 75% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Tipo: ^777777Libro^000000 Ataque: ^77777790^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777Priest/Sage/Taekwon Master^000000
+
+
+^008040El arte de la guerra (Esp.:100)^000000
+Libro en el que un estratega oriental plasmó la esencia de la estrategia,
+y que todavía hoy estudian numerosos militares.
+STR + 1, INT + 2, MATK + 15%, indestructible
+ATQ físico contra monstruos de raza Humanoide 75% aumentado. DEF mágica de los monstruos de raza Humanoide 25% ignorada.
+Tipo: ^777777Libro^000000 Ataque: ^77777790^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777Priest/Sage/Taekwon Master^000000
+^FF0000[Puño]^000000
+^008040Puño de Batalla del Luchador (Esp.:100)^000000
+Guantes para combates contra jugadores usados por artistas marciales en el campo de batalla. Al equiparlos, la fuerza brota sin cesar,
+por lo que permiten resistir incluso combates prolongados. STR + 2, AGI + 1, indestructible
+ATQ físico contra monstruos de raza Humanoide 95% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Al realizar ataques físicos, cierta probabilidad de activar automáticamente Fury.
+Tipo: ^777777Puño^000000 Ataque: ^77777730^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777Priest/Monk^000000
+
+
+^008040Puño de Batalla del Luchador (Val.:100)^000000
+Guantes para combates contra jugadores usados por artistas marciales en el campo de batalla. Al equiparlos, la fuerza brota sin cesar,
+por lo que permiten resistir incluso combates prolongados. STR + 2, INT + 1, indestructible
+ATQ físico contra monstruos de raza Humanoide 95% aumentado. Tiempo de lanzamiento de Asura Strike 25% reducido.
+Al atacar, cierta probabilidad de activar el arma y, durante 6 segundos, tiempo de lanzamiento de Asura Strike 100% reducido.
+Tipo: ^777777Puño^000000 Ataque: ^77777730^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777Priest/Monk^000000
+^FF0000[Espada de dos manos]^000000
+^008040Katzbalger del Capitán de Asalto (Val.:100)^000000
+Espada de dos manos fabricada especialmente para cargas. Muy eficaz en combates contra jugadores.
+STR + 2, indestructible
+ATQ físico contra monstruos de raza Humanoide 55% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Tipo: ^777777Espada de dos manos^000000 Ataque: ^777777200^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo clase Swordman^000000
+
+
+
+^008040Katzbalger del Capitán de Asalto (Esp.:100)^000000
+Espada de dos manos fabricada especialmente para cargas. Muy eficaz en combates contra jugadores.
+CRI + 20, indestructible
+ATQ físico contra monstruos de raza Humanoide 55% aumentado. Daño crítico 20% aumentado.
+Tipo: ^777777Espada de dos manos^000000 Ataque: ^777777200^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo clase Swordman^000000
+
+^FF0000[Lanza de dos manos]^000000
+^008040Lanza del Capitán de Asalto (Esp.:100)^000000
+Lanza de dos manos fabricada especialmente para cargas. Está optimizada para combates contra jugadores.
+STR + 2, indestructible
+ATQ físico contra monstruos de raza Humanoide 25% aumentado. DEF física de los monstruos de raza Humanoide ignorada.
+Tipo: ^777777Lanza de dos manos^000000 Ataque: ^777777160^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo clase Swordman^000000
+
+
+^FF0000[Hacha de dos manos]^000000
+^008040Hacha de Batalla del Berserker (Esp.:100)^000000
+Temible hacha de dos manos para combates contra jugadores que hace que quien la empuña la blanda como un berserker.
+STR + 3, indestructible
+ATQ físico contra monstruos de raza Humanoide 55% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Tipo: ^777777Hacha de dos manos^000000 Ataque: ^777777200^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo clases Swordman/Merchant^000000
+
+^008040Hacha de Batalla del Berserker (Val.:100)^000000
+Temible hacha de dos manos para combates contra jugadores que hace que quien la empuña la blanda como un berserker.
+STR + 3, indestructible
+ATQ físico contra monstruos de raza Humanoide 55% aumentado.
+Al atacar, cierta probabilidad de activar el arma y, durante 3 segundos, destruir la armadura del objetivo enemigo con una probabilidad de 100%.
+Tipo: ^777777Hacha de dos manos^000000 Ataque: ^777777200^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo clases Swordman/Merchant^000000
+
+
+^FF0000[Shuriken Fuma]^000000
+^008040Shuriken Fuma de Batalla (Val.:100)^000000
+Shuriken Fuma de potencia devastadora en combates contra jugadores.
+STR + 2, Dex + 1, indestructible
+ATQ físico contra monstruos de raza Humanoide 95% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Tipo: ^777777Fuma^000000 Ataque: ^77777755^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Ninja^000000
+
+^008040Shuriken Fuma de Batalla (Esp.:100)^000000
+Shuriken Fuma de potencia devastadora en combates contra jugadores.
+STR + 2, Dex + 1, indestructible
+ATQ físico contra monstruos de raza Humanoide 95% aumentado.
+Al atacar, cierta probabilidad de activar el arma y, durante 10 segundos, ATQ de Throw Huuma Shuriken y Final Strike 100% aumentado.
+Tipo: ^777777Fuma^000000 Ataque: ^77777755^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Ninja^000000
+
+
+^FF0000[Katar]^000000
+^008040Katar de la Masacre (Val.:100)^000000
+Katar especializado en combates contra jugadores que, en manos de un asesino experto, convierte el lugar en un matadero. Es aterrador.
+STR + 1, Dex + 1, Luk + 1, indestructible
+ATQ físico contra monstruos de raza Humanoide 70% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Tipo: ^777777Katar^000000 Ataque: ^777777130^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Assassin^000000
+
+^008040Katar de la Masacre (Esp.:100)^000000
+Katar especializado en combates contra jugadores que, en manos de un asesino experto, convierte el lugar en un matadero. Es aterrador.
+STR + 1, Dex + 1, Luk + 1, indestructible
+ATQ físico contra monstruos de raza Humanoide 70% aumentado. Daño crítico 20% aumentado.
+Velocidad de ataque 5% aumentada.
+Tipo: ^777777Katar^000000 Ataque: ^777777130^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Assassin^000000
+
+
+^FF0000[Arco]^000000
+^008040Ballesta de Batalla (Esp.:100)^000000
+Ballesta creada para que las flechas se claven con más fuerza y causen más daño a enemigos humanoides.
+Dex + 2, indestructible
+ATQ físico contra monstruos de raza Humanoide 55% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Tipo: ^777777Arco^000000 Ataque: ^777777100^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Thief/Archer^000000
+
+^008040Ballesta de Batalla (Val.:100)^000000
+Ballesta creada para que las flechas se claven con más fuerza y causen más daño a enemigos humanoides.
+Dex + 2, INT + 10, indestructible
+ATQ físico contra monstruos de raza Humanoide 55% aumentado.
+Tipo: ^777777Arco^000000 Ataque: ^777777100^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Thief/Archer^000000
+
+
+^FF0000[Revólver]^000000
+^008040Revólver del Soldado (Val.:100)^000000
+Revólver creado para combates contra jugadores a corta y media distancia. Incluso con chaleco antibalas, el impacto se transmite en cierta medida.
+Dex + 2, precisión - 10, indestructible
+ATQ físico contra monstruos de raza Humanoide 55% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Al atacar, cierta probabilidad de activar el arma y, durante 3 segundos, velocidad de ataque 100% aumentada.
+Tipo: ^777777Revólver^000000 Ataque: ^77777770^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Gunslinger^000000
+^FF0000[Rifle]^000000
+^008040Rifle del Soldado (Esp.:100)^000000
+Rifle creado para disparos de precisión contra jugadores a media y larga distancia. Minimiza el temblor de las manos,
+reduciendo enormemente el tiempo necesario para apuntar.
+Dex + 2, precisión + 10, crítico + 10, indestructible, tiempo de lanzamiento de Tracking 25% reducido.
+ATQ físico contra monstruos de raza Humanoide 75% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Tipo: ^777777Rifle^000000 Ataque: ^77777750^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Gunslinger^000000
+
+^FF0000[Ametralladora Gatling]^000000
+^008040Ametralladora Gatling del Soldado (Val.:100)^000000
+Arma automática rotatoria de múltiples cañones especializada en combates contra jugadores. Al disparar mucho,
+a veces las balas salen con más potencia de lo habitual. Dex + 2, indestructible
+ATQ físico contra monstruos de raza Humanoide 35% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Al atacar, cierta probabilidad de activar el arma y, durante 6 segundos, ATK 80 aumentado. Por el retroceso, pierde 120 de HP cada segundo.
+Tipo: ^777777Ametralladora Gatling^000000 Ataque: ^77777780^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Gunslinger^000000
+^FF0000[Escopeta]^000000
+^008040Escopeta del Soldado (Esp.:100)^000000
+Escopeta para combates contra jugadores que despliega una gran potencia a corta distancia. Su ataque varía considerablemente.
+Dex + 2, ataque de área, indestructible
+ATQ físico contra monstruos de raza Humanoide 55% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Al atacar, cierta probabilidad de activar el arma y, durante 6 segundos, ATK 100 aumentado. Por el retroceso, pierde 100 de HP cada segundo.
+Tipo: ^777777Escopeta^000000 Ataque: ^777777100^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Gunslinger^000000
+
+^FF0000[Lanzagranadas]^000000
+^008040Lanzagranadas del Soldado (Esp.:100)^000000
+Lanzagranadas que presume de una potencia de fuego excepcional en combates contra jugadores.
+Dex + 2, indestructible
+ATQ físico contra monstruos de raza Humanoide 35% aumentado. DEF física de los monstruos de raza Humanoide 20% ignorada.
+Al atacar, cierta probabilidad de activar el arma y, durante 9 segundos, ATK 300 aumentado. Por el retroceso, pierde 120 de HP cada segundo.
+Tipo: ^777777Lanzagranadas^000000 Ataque: ^777777300^000000 Peso: ^7777770^000000
+Nivel de arma: ^7777773^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Gunslinger^000000
+^FF0000[Prenda]^000000
+^008040Manto del Comandante (50)^000000
+Manto de aspecto imponente entregado en el campo de batalla.
+Se dice que solo se concede a quienes han logrado grandes hazañas en primera línea.
+Daño recibido de monstruos de raza Humanoide 1% reducido.
+MHP + 50. MDEF + 1.
+Tipo: ^777777Prenda^000000 Defensa: ^7777774^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Swordman, Merchant y Thief (Ninja), Taekwon Master^000000
+
+
+^008040Manto del Oficial (50)^000000
+Manto concedido a oficiales que destacan en el apoyo de retaguardia, la parte más importante del campo de batalla.
+Daño recibido de monstruos de raza Humanoide 1% reducido. MHP + 50. MDEF + 1.
+Tipo: ^777777Prenda^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Mage, Acolyte y Archer, Soul Linker^000000
+
+
+^008040Manto del Sheriff (50)^000000
+Manto que evoca una llanura azotada por un viento arenoso y seco, junto con una tensión y solemnidad estremecedoras.
+Daño recibido de monstruos de raza Humanoide 1% reducido. MHP + 50. MDEF + 1.
+Tipo: ^777777Prenda^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Gunslinger^000000
+
+
+
+^FF0000[Calzado]^000000
+^008040Grebas de Combate (50)^000000
+Grebas optimizadas para el combate.
+Daño recibido de monstruos de raza Humanoide 1% reducido.
+MHP + 100. MDEF + 1.
+Tipo: ^777777Calzado^000000 Defensa: ^7777774^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Swordman, Merchant y Thief (Ninja), Taekwon Master^000000
+
+
+^008040Botas Militares (50)^000000
+A pesar de su aspecto, son resistentes y no dificultan el movimiento.
+Daño recibido de monstruos de raza Humanoide 1% reducido.
+MHP + 100. MDEF + 1.
+Tipo: ^777777Calzado^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clases Mage, Acolyte y Archer, Soul Linker^000000
+
+
+
+^008040Botas de Combate (50)^000000
+Aunque son exclusivas para pistoleros, no se diferencian demasiado de otras botas.
+Daño recibido de monstruos de raza Humanoide 1% reducido.
+MHP + 100. MDEF + 1.
+Tipo: ^777777Calzado^000000 Defensa: ^7777773^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Gunslinger^000000
+
+
+^FF0000[Armadura]^000000
+^008040Placa del Capitán de Asalto (80)^000000
+¡Recomendada para quienes sois los primeros en enfrentaros al enemigo en primera línea!
+¡Al reunir el conjunto, notaréis todavía más sus efectos mejorados!
+Daño recibido de monstruos de raza Humanoide 2% reducido. MHP + 150. MDEF + 2.
+Al equiparla junto con las Grebas de Combate y el Manto del Comandante, daño recibido de monstruos que no sean de raza Humanoide 3 veces aumentado,
+VIT + 3, MHP 12% aumentado, eficacia de la curación recibida y de algunos objetos curativos 10% aumentada,
+al recibir ataques físicos, cierta probabilidad de recuperar 6000 de HP a lo largo de 10 segundos.
+Tipo: ^777777Armadura^000000 Defensa: ^7777777^000000 Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777Swordman, Merchant, Taekwon, Taekwon Master^000000
+
+^008040Armadura del Ingeniero de Élite (80)^000000
+¡Recomendada para quienes presumís de una potencia de ataque excepcional! ¡Al reunir el conjunto, notaréis todavía más sus efectos mejorados!
+Daño recibido de monstruos de raza Humanoide 2% reducido. MHP + 150. MDEF + 2.
+Al equiparla junto con las Grebas de Combate y el Manto del Comandante, daño recibido de monstruos que no sean de raza Humanoide 3 veces aumentado,
+STR + 3, MHP 12% aumentado, daño de Mammonite 20% aumentado,
+recuperación de HP de [Heal] y [Potion Pitcher] 10% aumentada, armadura indestructible.
+Tipo: ^777777Armadura^000000 Defensa: ^7777777^000000 Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clase Merchant^000000
+^008040Túnica del Asesino (80)^000000
+¡Recomendada para quienes ansiáis una agilidad superior a la de cualquier otro!
+¡Al reunir el conjunto, notaréis todavía más sus efectos mejorados!
+Daño recibido de monstruos de raza Humanoide 2% reducido. MHP + 150. MDEF + 2.
+Al equiparla junto con las Grebas de Combate y el Manto del Comandante, daño recibido de monstruos que no sean de raza Humanoide 3 veces aumentado,
+AGI + 3, MHP 12% aumentado, velocidad de ataque y probabilidad de crítico 5% aumentadas,
+al recibir ataques físicos, cierta probabilidad de recuperar 3000 de HP a lo largo de 10 segundos.
+Tipo: ^777777Armadura^000000 Defensa: ^7777777^000000 Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clase Thief (Ninja)^000000
+
+^008040Túnica de Combate del Warlock (80)^000000
+¡Recomendada para quienes no teméis nada con tal de aumentar vuestras probabilidades de supervivencia!
+¡Al reunir el conjunto, notaréis todavía más sus efectos mejorados!
+Daño recibido de monstruos de raza Humanoide 2% reducido. MHP + 150. MDEF + 2.
+Al equiparla junto con las Botas Militares y el Manto del Oficial, daño recibido de monstruos que no sean de raza Humanoide 3 veces aumentado,
+INT + 3, MHP 12% aumentado, resistencia a Aturdimiento 20% aumentada,
+al recibir ataques físicos, cierta probabilidad de otorgar a la armadura propiedad Fantasma durante 10 segundos.
+Tipo: ^777777Armadura^000000 Defensa: ^7777773^000000 Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clase Mage^000000
+^008040Túnica del Sanitario (80)^000000
+¡Recomendada para quienes sois responsables de la supervivencia del Party o del Guild!
+¡Al reunir el conjunto, notaréis todavía más sus efectos mejorados!
+Daño recibido de monstruos de raza Humanoide 2% reducido. MHP + 150. MDEF + 2.
+Al equiparla junto con las Botas Militares y el Manto del Oficial, daño recibido de monstruos que no sean de raza Humanoide 3 veces aumentado,
+INT + 3, MHP 12% aumentado, tiempo de lanzamiento de Holy Light 50% reducido.
+Recuperación de HP de [Heal] y [Sanctuary] usados por el portador 6% aumentada.
+Al recibir ataques físicos, cierta probabilidad de otorgar a la armadura propiedad Fantasma durante 10 segundos.
+Tipo: ^777777Armadura^000000 Defensa: ^7777773^000000 Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clase Acolyte^000000
+
+^008040Traje del Arquero de Élite (80)^000000
+¡Recomendado para quienes buscáis un combate preciso, certero y eficaz!
+¡Al reunir el conjunto, notaréis todavía más sus efectos mejorados!
+Daño recibido de monstruos de raza Humanoide 2% reducido. MHP + 150. MDEF + 2.
+Al equiparlo junto con las Botas Militares y el Manto del Oficial, daño recibido de monstruos que no sean de raza Humanoide 3 veces aumentado,
+DEX + 3, MHP 12% aumentado, daño a distancia recibido 10% reducido. Tiempo de reutilización global 25% reducido.
+Tipo: ^777777Armadura^000000 Defensa: ^7777773^000000 Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777clase Archer^000000
+^008040Traje del Tirador de Élite (80)^000000
+¡Un traje que todo auténtico Gunslinger desea poseer!
+¡Al reunir el conjunto, notaréis todavía más sus efectos mejorados!
+Daño recibido de monstruos de raza Humanoide 2% reducido. MHP + 150. MDEF + 2.
+Al equiparlo junto con las Botas de Combate y el Manto del Sheriff, daño recibido de monstruos que no sean de raza Humanoide 3 veces aumentado,
+DEX + 3, MHP 12% aumentado, daño a distancia recibido 10% reducido. Tiempo de reutilización global 25% reducido.
+Tipo: ^777777Armadura^000000 Defensa: ^7777773^000000 Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Gunslinger^000000
+
+
+^FF0000[Accesorio]^000000
+^008040Medalla al Mérito (500)^000000
+Medalla concedida a quienes destacan por sus hazañas en el campo de batalla.
+ATK + 5%, MATK + 5%. HIT + 10. MHP + 500. MSP + 50.
+Al realizar ataques físicos cuerpo a cuerpo, baja probabilidad de infligir Aturdimiento al enemigo.
+Tipo: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777770^000000
+Equipable por: ^777777solo clase Swordman / Taekwon Master^000000
+
+^008040Medalla al Mérito (500)^000000
+Medalla concedida a quienes destacan por sus hazañas en el campo de batalla.
+ATK + 5%, MATK + 5%. FLEE + 10. MHP + 300. MSP + 80.
+Al realizar ataques físicos cuerpo a cuerpo, baja probabilidad de infligir Veneno al enemigo.
+Tipo: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777770^000000
+Equipable por: ^777777solo clase Thief (Ninja)^000000
+
+
+
+^008040Medalla al Mérito (500)^000000
+Medalla concedida a quienes destacan por sus hazañas en el campo de batalla.
+ATK + 5%, MATK + 5%. MDEF + 6. MHP + 600.
+Al realizar ataques físicos cuerpo a cuerpo, baja probabilidad de infligir Silencio al enemigo.
+Tipo: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777770^000000
+Equipable por: ^777777solo clase Acolyte^000000
+
+
+^008040Medalla al Mérito (500)^000000
+Medalla concedida a quienes destacan por sus hazañas en el campo de batalla.
+ATK + 5%, MATK + 5%. MDEF + 6. MHP + 600.
+Al recibir daño físico, baja probabilidad de infligir Petrificación al enemigo.
+Tipo: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777770^000000
+Equipable por: ^777777solo clase Mage^000000
+
+
+
+^008040Medalla al Mérito (500)^000000
+Medalla concedida a quienes destacan por sus hazañas en el campo de batalla.
+ATK + 5%, MATK + 5%. CRI + 10. MHP + 300. MSP + 80.
+Al realizar ataques físicos a distancia, baja probabilidad de infligir Ceguera.
+Tipo: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777770^000000
+Equipable por: ^777777solo clase Archer^000000
+
+
+^008040Medalla al Mérito (500)^000000
+Medalla concedida a quienes destacan por sus hazañas en el campo de batalla.
+ATK + 5%, MATK + 5%. ASPD + 10%. MHP + 500. MSP + 50.
+Al realizar ataques físicos cuerpo a cuerpo, baja probabilidad de infligir Maldición.
+Tipo: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777770^000000
+Equipable por: ^777777solo clase Merchant^000000
+
+
+
+^008040Insignia del Sheriff-Gunslinger (500)^000000
+Medalla concedida a quienes destacan por sus hazañas en el campo de batalla.
+ATK + 5%, MATK + 5%. CRI + 10. MHP + 300. MSP + 80.
+Al realizar ataques físicos a distancia, cierta probabilidad de infligir Ceguera.
+Tipo: ^777777Accesorio^000000 Defensa: ^7777771^000000
+Peso: ^7777770^000000 Nivel necesario: ^77777780^000000
+Equipable por: ^777777solo Gunslinger^000000
+
+
+^FF0000[Objeto consumible]^000000
+^008040Ración del General (10)^000000
+Alimento para sobrevivir en emergencias. Si se come con demasiada prisa, puede atragantar.
+^000088Durante 10 minutos, ATK + 15.^000000
+Peso: ^7777777^000000
+
+
+^008040Ración del Comandante (10)^000000
+Alimento para sobrevivir en emergencias. Si se come con demasiada prisa, puede atragantar.
+^000088Durante 10 minutos, MATK + 15.^000000
+Peso: ^7777777^000000
+
+
+^008040Ración Militar Tipo A (5)^000000
+Comida de tipo A adaptada para poder consumirla fácilmente cuando hay prisa. Su sabor no está garantizado.
+^000088HP 5% recuperado.^000000
+Peso: ^7777777^000000
+
+
+^008040Ración Militar Tipo B (10)^000000
+Comida de tipo B adaptada para poder consumirla fácilmente cuando hay prisa. Su sabor no está garantizado.
+^000088Durante 10 minutos, HIT + 33.^000000
+Peso: ^7777777^000000
+
+
+^008040Ración Militar Tipo C (10)^000000
+Comida de tipo C adaptada para poder consumirla fácilmente cuando hay prisa. Su sabor no está garantizado.
+^000088Durante 10 minutos, FLEE + 33.^000000
+Peso: ^7777777^000000

@@ -1,0 +1,80 @@
+%faf0e6
+^000088-Kami tidak peduli siapa kamu: masakan lezat kami akan memuaskan siapa pun, baik laki-laki yang lapar, Poring, maupun Poporing.-^000000
+
+Berikut adalah rahasia hidangan lezat kami, resep masakan Level 7.
+
+
+^FF0000Whole Roast:^000000 Nikmati hidangan panggang utuh dengan cita rasa pedas yang menggugah selera!
+
+
+Bahan: ^4B008210 Meat, 1 Live Coal, 2 Coals, 1 Spicy Sauce, 15 Trunks, 10 White Herbs^000000
+
+Cara membuat:
+
+1. Cuci Meat di bawah air mengalir.
+2. Lumuri Meat secara merata dengan Spicy Sauce.
+3. Cincang White Herbs lalu taburkan di atas Meat yang telah dimarinasi.
+4. Nyalakan api menggunakan Live Coal dan Coals.
+5. Panggang Meat yang telah dimarinasi di atas bara.
+6. Tambahkan Spicy Sauce beberapa kali di atas Meat selama proses pemanggangan.
+7. Sajikan dengan taburan White Herbs cincang di atasnya.
+
+^0000FFSpecial Royal Jelly Herbal Tea:^000000 Nikmati rasa manis dari teh herbal madu spesial ini.
+
+Bahan: ^4B00824 Royal Jelly, 2 Honey, 5 White Herbs, 10 Hinalle Leaflets, 1 Yellow Spice^000000
+
+Cara membuat:
+
+1. Resep ini pada dasarnya sama dengan hidangan Level 3, Honey Herbal Tea, tetapi menggunakan herbal berkualitas lebih tinggi yaitu Hinalle Leaflets serta tambahan Royal Jelly.
+
+^800000Soul Haunted Bread:^000000 Hati-hati! Roti ini bisa mencuri jiwamu dengan rasanya yang luar biasa lezat!
+
+Bahan: ^4B008210 Bread, 5 Mastela Fruits, 1 Sweet Sauce, 5 Ments, 5 Amulets, 2 Unripe Apples^000000
+
+Cara membuat:
+
+1. Kupas Mastela Fruits dan apples lalu potong menjadi kubus kecil.
+2. Cuci Ments lalu haluskan untuk mengambil sarinya. Campurkan sari Ment dengan gula dengan perbandingan 1:1.
+3. Lumuri potongan Mastela Fruits dan apples dengan sari Ment yang telah dicampur gula.
+4. Simpan campuran tersebut di lemari pendingin selama 30 menit.
+5. Rebus campuran tersebut dengan api besar hingga mulai berbuih.
+6. Kecilkan api menjadi sedang, tambahkan gula, lalu masak hingga mengental menjadi selai. Pastikan terus mengaduk selai selama proses ini.
+7. Haluskan Amulets lalu campurkan dengan Sweet Sauce. Simpan campuran ini di lemari pendingin hingga selai selesai dibuat.
+8. Oleskan selai dan campuran Sweet Sauce dengan Amulets di atas Bread lalu nikmati.
+
+^008040Steamed Alligator with Vegetables:^000000 Daging Alligator kukus yang lembut dan kenyal disajikan bersama sayuran segar.
+
+Bahan: ^4B008210 Anolian Skin, 10 Jack o' Pumpkins, 10 Carrots, 10 Aloe Leaflets, 10 Yellow Herbs, 1 Yellow Spice^000000
+
+Cara membuat:
+
+1. Cuci Anolian Skin lalu uleni sambil mencampurnya dengan garam, merica, air, dan Yellow Spice.
+2. Potong Carrots menjadi irisan panjang dan tipis.
+3. Rebus sebentar Aloe Leaflets dan Yellow Herbs lalu peras hingga kering.
+4. Iris Jack o' Pumpkins tipis-tipis, goreng sebentar, lalu dinginkan.
+5. Bentangkan kain katun di atas papan kayu tebal lalu letakkan Anolian Skin yang telah diuleni di atasnya. Masukkan papan tersebut ke dalam pengukus dan kukus selama 15 menit.
+6. Potong kulit tersebut menjadi bagian kecil lalu sajikan bersama sayuran.
+
+^FF8040Sumptuous Feast:^000000 Nikmati hidangan mewah yang dibuat dari berbagai bahan makanan unik.
+
+Bahan: ^4B008210 Fish Tails, 5 Aloe Leaflets, 10 Manes, 2 Fresh Fishes, 10 Pet Food, 1 Sweet Sauce^000000
+
+Cara membuat:
+
+1. Rebus sebentar Aloe Leaflets dalam air garam.
+2. Buang sisik dari Fresh Fishes, lumuri dengan Sweet Sauce, lalu diamkan selama 10 menit.
+3. Bungkus Fresh Fishes yang telah dimarinasi dengan Aloe Leaflets. Kukus ikan yang telah dibungkus bersama Fish Tails selama 10 menit lalu sajikan di atas piring.
+4. Potong Manes sepanjang sekitar 4 cm lalu rebus sebentar.
+5. Potong Pet Food menjadi bagian kecil lalu campurkan dengan Sweet Sauce. Panggang potongan Pet Food di atas wajan.
+
+^400080Assorted Shish Kebab:^000000 Shish kebab lezat yang dibuat dari daging, sayuran, dan kerang!
+
+Bahan: ^4B008210 Scale Shells, 5 Gill, 10 Soft Blades of Grass, 5 Meat, 10 Edible Mushrooms, 10 Clam Flesh^000000
+
+Cara membuat:
+
+1. Potong Soft Blades of Grass sepanjang 4 cm dan iris Edible Mushrooms.
+2. Cuci Scale Shells dan duri Gill yang paling panjang di bawah air mengalir.
+3. Rebus sebentar Meat dan Clam Flesh.
+4. Tusukkan bahan-bahan pada duri Gill yang panjang: mulai dari Meat, kemudian sayuran, lalu Clam Flesh.
+5. Panaskan Scale Shells dengan api sedang lalu letakkan kebab di atasnya untuk dimasak.

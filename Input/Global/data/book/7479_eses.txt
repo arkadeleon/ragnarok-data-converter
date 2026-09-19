@@ -1,0 +1,73 @@
+%faf0e6
+^000088¡Ahora hay un cocinero que vaga por Rune-Midgarts...!^000000
+- Epopeya de la conmovedora difusión de la cocina - Receta de 8 nivel
+¡Aprended con tranquilidad, que dominar todos estos platos no os obligará a vagar por el mundo!
+
+
+^FF0000Plato especial de pata de oso:^000000
+Ingredientes: ^4B0082Pata de oso 1 unidad, zanahoria 1 unidad, cabeza de calabaza 1 unidad, hoja de aloe 1 unidad,
+hoja de Hinalle 1 unidad, salsa suave 1 unidad^000000
+Preparación: Lava bien la pata de oso previamente puesta en remojo, escáldala brevemente en agua hirviendo y
+vuelve a lavarla a fondo. Haz un corte en forma de "+" en la parte con carne y envuélvela en un paño.
+Ponla en una olla, añade agua, sal, sake y pimienta molida, llévala a ebullición y retira la espuma.
+Añade jengibre y cebolleta, y cuécela a fuego lento. Corta la zanahoria y la calabaza en trozos fáciles de comer y hiérvelas.
+Lava bien las hojas, saltéalas con sal, coloca la mitad en el centro de un plato y
+saca la pata de oso cocida al vapor del paño para ponerla encima. Coloca la otra mitad alrededor del plato y
+decora con la zanahoria y la calabaza hervidas. Al caldo restante de cocer la pata de oso
+añádele la salsa suave, sazónalo y hiérvelo hasta que espese; después, agrega aceite aromático y viértelo sobre la pata de oso.
+La pata de oso desprende un olor fuerte, así que hay que cocinarla con cuidado. Retira por completo las impurezas y el pelo,
+procurando no dañar la superficie, y cambia el agua con frecuencia para eliminar el olor.
+Es especialmente importante controlar el fuego al cocer la pata de oso.
+
+^0000FFTé selecto exclusivo de la realeza:^000000 ¡Un sabor distinto según la mezcla!
+Ingredientes: ^4B0082Fruto espinoso 1 unidad, hoja de Hinalle 1 unidad, hoja de Yggdrasil 1 unidad, hoja de aloe 1 unidad,
+jalea real 1 unidad, especia amarilla 1 unidad^000000
+Preparación: Tuesta bien los frutos espinosos y las hojas previamente secos, córtalos al tamaño adecuado y
+mézclalos en la proporción apropiada usando hojas ya fermentadas y secas.
+Para obtener un sabor ácido, añade una cantidad algo mayor de frutos espinosos;
+para obtener un sabor amargo, añade más hojas de Hinalle.
+Vierte en la tetera agua hirviendo justo antes de que alcance el punto de ebullición y
+deja infusionar las hojas pequeñas durante 2 ~ 3 min y las hojas grandes durante 3 ~4 min.
+Ajusta la cantidad de jalea real y especia amarilla al gusto.
+
+^800000Tostada especial:^000000 ¡No tiene (los mismos ingredientes que) una tostada callejera!
+Ingredientes: ^4B0082Pan 1 unidad, jalea real 1 unidad, carne 1 unidad, fresa 1 unidad , salsa picante 1 unidad, queso 1 unidad, salsa dulce 1 unidad^000000
+Preparación: Dora el pan con mantequilla, pica bien la carne, mézclala con salsa picante y
+forma una hamburguesa gruesa del tamaño del pan. Prepara la fresa como mermelada o córtala en láminas finas.
+Unta la mermelada en el pan, coloca encima la hamburguesa de carne, añade salsa picante y
+termina con el queso. Si has cortado la fresa en láminas, unta salsa picante en el pan, coloca encima la hamburguesa,
+mezcla la salsa dulce con la jalea real, extiéndela por encima y añade el queso;
+después, coloca las láminas de fresa y cúbrelo con otra rebanada de pan.
+
+^008040Curry ultrapicante +9:^000000 ¡Tan picante que escuece al hacer de vientre!
+Ingredientes: ^4B0082Aloe vera 1 unidad, salsa picante 1 unidad, carne 1 unidad, hoja de Hinalle 1 unidad,
+cabeza de calabaza 1 unidad, zanahoria 1 unidad^000000
+Preparación: Seca el aloe vera y el Hinalle, y tritúralos hasta obtener un polvo.
+Corta la carne en dados de 2cm y sazónala previamente con sal, pimienta molida y otros condimentos.
+Corta también la calabaza y la zanahoria en dados, derrite mantequilla en una sartén y saltéalas.
+Saltea la carne por separado de las verduras y, cuando esté cocinada, añádela a las verduras ya hechas.
+Saltéalo todo un poco más, añade el polvo de aloe vera y Hinalle mezclado en la proporción adecuada y
+continúa salteando. Vierte agua, llévalo a ebullición y deja que reduzca; después, añade la salsa picante y dale un último hervor.
+
+^FF8040Envoltura gigante:^000000 ¡Tan grande que cuesta comérsela en solitario!
+Ingredientes: ^4B0082Ropaje de hojas 1 unidad, carne 1 unidad, zanahoria arcoíris 1 unidad, cabeza de calabaza 1 unidad, salsa suave 1 unidad, cereal 1 unidad^000000
+Preparación: Retira las fibras de la parte del tallo del ropaje de hojas y cuécelo al vapor
+junto con la calabaza; después, enfríalo en agua fría. Desangra la carne, átala con hilo y
+cuécela durante unos 40 min en agua hirviendo con la calabaza y la zanahoria. También puedes añadir un poco de salsa suave.
+Cuando esté bien cocida por dentro, sácala, deja que se temple y córtala en láminas finas del tamaño adecuado.
+Pela el cereal y cuécelo como arroz; corta la zanahoria en tiras finas y saltéala ligeramente.
+Extiende las hojas y coloca los tallos hacia la parte interior.
+Añade el arroz, la carne, la zanahoria, la calabaza y otros ingredientes, unta salsa suave y envuélvelo todo con las hojas.
+
+^400080Bola de arroz con sabor a fresa:^000000 Algunos también la llaman bola de arroz con sabor a Poring.
+Ingredientes: ^4B0082Fresa 1 unidad, cereal 1 unidad, ropaje de hojas 1 unidad, especia amarilla 1 unidad, especia roja 1 unidad, salsa suave 1 unidad^000000
+Preparación: Trilla el cereal, retira la cáscara y cuécelo como arroz; exprime la fresa para obtener su zumo.
+Pon el arroz suelto recién cocido en un recipiente amplio y deja que se enfríe lo suficiente.
+Añade la salsa suave, las especias y el zumo de fresa, y mézclalo todo de manera uniforme.
+Ten cuidado de no mezclarlo con demasiada fuerza, pues los granos de arroz podrían aplastarse.
+Forma porciones de un tamaño adecuado para comer y envuélvelas con el
+ropaje de hojas previamente escaldado.
+
+^FF3366Surtido de 8 nivel:^000000 La esencia de los platos de 8 nivel
+Ingredientes: ^4B0082Plato especial de pata de oso 1 unidad, té selecto exclusivo de la realeza 1 unidad, tostada especial 1 unidad, curry ultrapicante+9 1 unidad, envoltura gigante 1 unidad, bola de arroz con sabor a fresa 1 unidad^000000
+Preparación: Reúne todos los platos de 8 nivel y sírvelos cuidadosamente dispuestos en un gran banquete.

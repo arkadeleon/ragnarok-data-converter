@@ -1,0 +1,32 @@
+%faf0e6
+^000088Asit Şişesi Üretimi için Simya Temelleri^000000
+
+
+----------------Önsöz--------------------
+
+Durmayan Kalp üzerinde çalışırken, belirli koşullar sağlandığında hidrojen klorür(HCl) oluştuğunu keşfettik.
+Bunu kullanarak hidroklorik asit üretim yöntemini buraya kaydediyorum.
+
+Hidroklorik asit, iyonlaşması yüksek bir asittir; güçlü asidik çözelti oluşturur.
+Bazen taşı bile eritecek kadar kuvvetli olabilir. Dikkatli kullanın.
+
+------------------------------------------
+
+
+^008040Hidroklorik Asit^000000 Nedir?
+
+Hidrojen klorürün(HCl) suda çözündürülmesiyle elde edilen çözelti.
+Bunu şişeye doldurulanına Asit Şişesi denir.
+
+
+
+Malzemeler: ^4B0082Durmayan Kalp 1 adet, Boş Şişe 1 adet^000000
+Yöntem: Bir İlaç Kasesi hazırlayın.
+İlaç Kasesi'ne Durmayan Kalp'i koyun, biraz su ekleyin ve benmari usulü ısıtın.
+Bu sırada suyun sıcaklığını 72 derecede tutun.
+Bu sırada oluşan gazı damıtarak hidrojen klorür elde edin.
+Boş Şişe'ye su doldurun ve hidrojen klorürün su içinde çözünmesini sağlayın.
+100 hidrojen klorür molekülü çözünüp dengeye ulaştığında,
+moleküllerin çoğu ayrışır ve güçlü bir Asit Şişesi elde edilir.
+Kolay üretim için bu kitabı üzerinizdeyken malzemeleri hazırlayın
+ve simyanın temeli olan Eczacılık'ı kullanın.

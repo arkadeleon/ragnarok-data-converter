@@ -1,0 +1,264 @@
+4001#Chanceux#
+4002#Vital#
+4003#Dur#
+4004#Dextre#
+4006#Chanceux#
+4007#Beholder#
+4008#Extra#
+4009#Léger#
+4010#Sage#
+4011#Dynamique#
+4012#Rigide#
+4013#Excellent#
+4014#du Champion#
+4015#Rapide#
+4016#Vif#
+4017#Étourdissement#
+4019#Essence#
+4020#Clignotant#
+4021#Habileté#
+4022#de la Spore#
+4023#du Désert#
+4024#Somnolent#
+4025#Perspicace#
+4026#Rusé#
+4027#Athlétique#
+4028#Double Force#
+4029#Glouton#
+4030#Venteux#
+4031#de Marse#
+4032#d’Athéna#
+4033#Détoxication#
+4034#Astucieux#
+4035#Sanglant#
+4036#Robuste#
+4037#Intouchable#
+4038#Récupération#
+4039#Aristo#
+4040#Téléportant#
+4041#du Sandman#
+4042#du Gardien du Vent#
+4043#Ouragan#
+4044#Dissimulation#
+4045#Pesant#
+4046#du Clerc#
+4047#Spectral#
+4048#Poison#
+4049#Flamme#
+4050#d’Hermès#
+4051#de l’Éclair#
+4052#Érudit#
+4053#Soignant#
+4054#Sacré#
+4055#Gelé#
+4056#de la Chaleur#
+4057#Silencieux#
+4058#Cranien#
+4060#Tapageur#
+4061#Immortel#
+4063#Insecticide#
+4064#Agile#
+4066#Brutal#
+4067#Atomique#
+4068#Chimique#
+4069#Saharien#
+4070#de la Sorcière#
+4071#Angélique#
+4072#Solide#
+4073#Remise#
+4074#de Gigantua#
+4075#Hypnotique#
+4076#Maudissant#
+4077#Sous-Incanté#
+4078#de la Récupération#
+4079#de la Puissance#
+4080#Pêcheur#
+4081#Glorieux#
+4084#Explosif#
+4085#Maudit#
+4086#Critique#
+4087#Ordre#
+4088#Garde#
+4089#Aquatique#
+4090#Amulette#
+4092#Lié#
+4093#Guérison#
+4094#Oiseau-Roi#
+4095#Génie#
+4096#Venomous#
+4097#Verdoyant#
+4098#de Zéphyrus#
+4099#d’Ifrit#
+4100#Âme enchantée#
+4101#du Gnome#
+4102#Moqueur#
+4103#Clairevoyant#
+4104#Chaotique#
+4105#Décongelant#
+4106#Ancien#
+4107#Pestiféré#
+4108#Inoffensif#
+4109#Garde-flamme#
+4110#Vipère#
+4111#Ramifié#
+4112#sans égal#
+4113#du Fantôme#
+4114#Empoisonné#
+4116#Bhaine#
+4117#Hybride#
+4118#Dragoon#
+4119#Maléfique#
+4120#du Dragoon#
+4122#Endurci#
+4123#Porteur#
+4124#Plâtrier#
+4125#Aquatique#
+4126#Titan#
+4127#Insomniaque#
+4129#du Voleur#
+4133#Immunisé#
+4135#Miroitant#
+4136#Né des Enfers#
+4137#de l’Infini#
+4138#Satanique#
+4139#du Clair de lune#
+4140#Libérateur#
+4141#Mortel#
+4143#Neutre#
+4147#Frappe latérale#
+4148#du Kirin#
+4149#Ciel clair#
+4152#Juteux#
+4153#Cancéreux#
+4155#Gobelin Fatal#
+4156#Cadre Fatal#
+4157#Coup Dur#
+4159#Haut Niveau#
+4164#Halieutique#
+4167#Âme bestiale#
+4168#du Destin Funeste#
+4169#du Maître des Sorts#
+4170#Durci#
+4171#Drain d'âme#
+4177#de la Pierre Verte#
+4178#du Maître archer (Arc)#
+4179#Brillant#
+4180#Âme Draconique#
+4183#Loup-Garou#
+4185#Sapient#
+4186#Inébranlable#
+4187#Crépuscule Sombre#
+4188#de la Pierre Rouge#
+4189#Malchanceux#
+4190#du Faiseur de Riffs#
+4192#Poissons fatals#
+4194#de l’Étourdissement#
+4196#du Jejellopy#
+4197#Très chanceux#
+4199#de l’Élan#
+4200#de la Résistance Magique#
+4201#Bhaine Étourdissement#
+4203#Brûlant#
+4205#du Cubique Bleu#
+4206#Cubique#
+4210#Pression#
+4211#Expert#
+4212#Repousseur#
+4213#Muet#
+4216#du Gel#
+4219#de la Pierre Magique#
+4222#du Sommeil#
+4223#Résistant à l’étourdissement#
+4225#Tirant#
+4226#Haut Niveau#
+4229#Accéléré#
+4234#Âme pure#
+4235#Ange Déchu#
+4236#de la Protection#
+4237#de la Race Divine#
+4238#de la Double Puissance#
+4240#de la Résistance Magique#
+4244#du Chercheur#
+4247#Étoile de mer#
+4248#Croix brillante#
+4249#Exorciste#
+4251#Envahissant#
+4252#Trèfle à quatre feuilles#
+4253#de la Garde Royale#
+4255#Fracassant#
+4256#Désiré#
+4257#Ailé#
+4259#de la Nature#
+4260#Garde de la confusion#
+4261#Garde hémorragique#
+4264#Foudroyant#
+4266#Résistant à la magie#
+4268#Extensif#
+4271#de la Pierre Jaune#
+4273#Carapace#
+4274#Âme Mort-Vivante#
+4275#Tueur de morts-vivants#
+4277#du Maître Tireur#
+4283#Lance de mana#
+4284#Toucher Doux#
+4285#Elfique enchanté#
+4288#Haut Niveau#
+4289#Âme Végétale#
+4293#Hasard#
+4296#Avide#
+4297#Pochage#
+4298#du Chaos#
+4299#Gardien#
+4300#de la Charge de Poison#
+4302#À Haut Risque#
+4306#du Roi#
+4307#Âme des forces maritimes#
+4308#Drain de Force#
+4309#Couverture Dure#
+4310#Mal Fatal#
+4312#Esprit#
+4313#du Marais#
+4314#Protection du cadre#
+4315#de la Malédiction de Pierre#
+4317#Aura#
+4322#Contre-attaque#
+4323#Glacial#
+4326#de l’Odeur de Poisson#
+4329#Gain d’âme#
+4375#Extra Élevé#
+4377#du Sucré#
+4545#Novice#
+27153#des Profondeurs#
+27154#du Blocage#
+27206#du Berserker#
+27207#Hâtif#
+27208#de l’Éternité#
+27266#Malveillant#
+27267#Parfait#
+27268#Spirituel#
+27270#du Joker#
+27271#de la Magicienne#
+27272#de Jennifer#
+27273#Assaillant#
+27274#Sournois#
+27275#Lumière météorique#
+300547#Guetteur#
+300550#Fei-Chai#
+300551#Azi#
+300618#Kung Fu Panda#
+300737#Marée#
+300740#Frontalière#
+300741#Côtière#
+300742#Glast Heim#
+300834#Baby Shark#
+300835#Shar Family#
+300936#de Force Nord#
+300937#de Chance Nord#
+300938#Gemme#
+300939#de Vitalité Nord#
+300940#d'Intelligence Nord#
+300941#de Dextérité Nord#
+300942#d'Agilité Nord#
+300943#Rocher magique#
+300944#Rocher fatal#
+300964#du Maître Rocher#

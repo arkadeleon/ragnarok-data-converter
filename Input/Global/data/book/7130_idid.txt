@@ -1,0 +1,17 @@
+%faf0e6
+^000088Dasar-Dasar Alkimia: Pembuatan Plant Bottle^000000
+
+
+----------------Pendahuluan--------------------
+
+Menggunakan alkimia untuk membentuk dan mengubah struktur makhluk hidup merupakan hal yang sangat sulit, dan dianggap sebagai ilmu tingkat lanjut. Ketika kami melakukan percobaan perubahan bentuk pada berbagai tanaman, kami gagal mengubah satu pun di antaranya karena tanaman tersebut terlalu lemah untuk bertahan dari perubahan alkimia. Tepat sebelum kami memutuskan untuk menghentikan penelitian ini, kami menemukan bahwa tanaman pemakan manusia yang berada di sekitar Gunung Mjolnir dan Juno memiliki daya tahan yang luar biasa, sehingga mampu bertahan terhadap transformasi alkimia. Buku ini menjelaskan proses mengubah tanaman pemakan manusia tersebut menjadi bentuk botol.
+
+------------------------------------------
+
+Apa itu ^FF8040plant bottle^000000?
+
+Plant Bottle adalah tanaman pemakan manusia yang telah diproses dengan alkimia dan diubah sehingga dapat disimpan dalam botol. Jika botol ini dilempar ke tanah, akan muncul Monster Plant yang telah tumbuh sepenuhnya dan akan menyerang makhluk lain. Seorang Alchemist harus memiliki skill Bio Cannibalize untuk mengubah plant bottle kembali menjadi tanaman pemakan manusia.
+
+Bahan: ^4B00822 Maneater Blossoms, 1 Empty Bottle^000000
+
+Cara membuat: Masukkan dua Maneater Blossoms ke dalam mangkuk obat, lalu gunakan skill Pharmacy sambil merujuk buku ini. Kamu harus mempelajari skill Bio Cannibalize agar dapat mengubah plant bottle kembali menjadi tanaman pemakan manusia.

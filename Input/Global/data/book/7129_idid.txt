@@ -1,0 +1,18 @@
+%faf0e6
+^000088Dasar-Dasar Alkimia: Pembuatan Acid Bottle^000000
+
+
+----------------Pendahuluan--------------------
+
+Melalui eksperimen dengan immortal heart, kami menemukan bahwa dalam kondisi tertentu kami dapat menghasilkan hidrogen klorida. Asam klorida adalah larutan asam kuat dengan tingkat ionisasi yang sangat tinggi; sifatnya begitu korosif hingga mampu melarutkan batu, sehingga harus ditangani dengan langkah-langkah keselamatan yang tepat. Buku ini menjelaskan proses pembuatan asam klorida yang digunakan dalam pembuatan Acid Bottle.
+
+------------------------------------------
+
+
+Apa itu ^008040asam klorida^000000?
+
+Asam klorida adalah larutan air dari gas hidrogen klorida (HCl). Acid Bottle yang digunakan dalam pertempuran biasanya diisi dengan asam klorida.
+
+Bahan: ^4B00821 Immortal Heart, 1 Empty Bottle^000000
+
+Cara membuat: Letakkan sebuah immortal heart ke dalam mangkuk obat, lalu tambahkan air. Hangatkan mangkuk menggunakan metode pemanasan tidak langsung (double boiler), dengan menjaga suhu air sekitar 72 derajat. Kumpulkan gas yang dihasilkan dari mangkuk tersebut, lalu lakukan proses distilasi untuk menghasilkan hidrogen klorida. Isi botol kosong dengan air dan campurkan dengan hidrogen klorida untuk membentuk asam. Simpan buku ini bersamamu dan gunakan sebagai referensi saat mengumpulkan bahan serta menggunakan skill Pharmacy agar kamu dapat membuat Acid Bottle.

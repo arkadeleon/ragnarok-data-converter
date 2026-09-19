@@ -1,0 +1,175 @@
+^FF0000---- Chapter of the Fire Spirit, Agni ----^000000 
+
+Summoned fire spirits respond to the “Spirit Control” command by taking different actions 
+depending on their size, carrying out their summoner’s orders. 
+
+
+
+^FA8072[Lend me your strength]^000000 
+i - Pyrotechnic: Increases the damage of Fire Wall and Fire Bolt. 
+
+ii - Heater: Increases the damage of Fire Walk. 
+Slightly increases the healing effect of Warmer. 
+Slightly increases the damage of Psychic Wave. 
+Changes Psychic Wave’s property to Fire. 
+
+iii - Tropic: When the summoner attacks, Hindsight Fire Bolt activates. 
+When using Flame Launcher or Volcano, there is a 1/2 chance 
+not to consume Red Blood or Yellow Gemstone. 
+
+
+
+^0000FF[Protect me]^000000 
+i - Circle of Fire: Surrounds the summoner with a ring of flames. 
+When an enemy attacks the summoner, it has a chance to deal damage 
+and knock the enemy back. 
+
+ii - Fire Cloak: Greatly increases Fire property resistance, 
+but greatly decreases Water property resistance. 
+
+iii - Fire Mantle: Creates a powerful Fire Wall around the summoner. 
+
+
+
+^FF0000[Defeat those who stand against me]^000000 
+
+i - Fire Arrow: Fires a single flaming arrow at one target, 
+dealing Fire property damage. 
+
+ii - Fire Bomb: Uses a fire bomb to deal Fire property damage to one target 
+and nearby enemies, 
+or deals Fire magical damage to a single target. 
+
+iii - Fire Wave Attack: Unleashes a large wave of flames, dealing Fire property physical damage 
+to one target and nearby enemies, 
+or deals heavy Fire magical damage to a single target. 
+
+
+^0000FF---- Chapter of the Water Spirit, Aqua ----^000000 
+
+Summoned water spirits respond to the “Spirit Control” command by taking different actions 
+depending on their size, carrying out their summoner’s orders. 
+
+
+^FA8072[Lend me your strength]^000000 
+i - Aquaplay: Increases the damage of Cold Bolt and Frost Driver. 
+
+ii - Cooler: Slightly increases the freeze success rate of Diamond Dust. 
+Slightly increases the damage of Diamond Dust. 
+Slightly increases the damage of Psychic Wave. 
+Changes Psychic Wave’s property to Water. 
+
+iii - Chilly Air: When the summoner attacks, Hindsight Cold Bolt activates. 
+When using Endow Tsunami or Deluge, there is a 1/2 chance 
+not to consume Crystal Blue or Yellow Gemstone. 
+
+
+^0000FF[Protect me]^000000 
+i - Water Screen: Continuously restores the summoner’s HP by a fixed amount. 
+While the effect lasts, Aqua takes damage in the caster’s place. 
+
+ii - Water Drop: Greatly increases Water property resistance, 
+but greatly decreases Fire property resistance. 
+
+iii - Water Barrier: Creates a wall of water around the caster. 
+This barrier reduces physical and magical damage by a fixed amount. 
+However, within the barrier, FLEE Rate and ATK are reduced. 
+
+
+^FF0000[Defeat those who stand against me]^000000 
+i - Ice Needle: Forms a sharp ice needle and strikes one target, 
+dealing Water magical damage. 
+
+ii - Water Screw Attack: Fires a wave of water at a target to deal Water magical damage, 
+or deals Water magical damage to the target and nearby enemies. 
+
+iii - Tidal Weapon: For a short time, changes the weapons of the summoner and spirit 
+to Water property and increases the spirit’s ATK, 
+or deals heavy Water property damage to a single target. 
+
+
+^000088---- Chapter of the Wind Spirit, Ventus ----^000000 
+
+Summoned wind spirits respond to the “Spirit Control” command by taking different actions 
+depending on their size, carrying out their summoner’s orders. 
+
+
+^FA8072[Lend me your strength]^000000 
+i - Gust: Increases the damage of Lightning Bolt and Thunder Storm. 
+
+ii - Blast: Increases the damage of Electric Walk. 
+Increases the damage of Varetyr Spear. 
+Increases the damage of Psychic Wave. 
+Changes Psychic Wave’s property to Wind. 
+
+iii - Wild Storm: When the summoner attacks, Hindsight Lightning Bolt activates. 
+When using Endow Tornado or Whirlwind, there is a 1/2 chance 
+not to consume Wind of Verdure or Yellow Gemstone. 
+
+
+^0000FF[Protect me]^000000 
+i - Wind Step: Instantly teleports the summoner when it triggers. 
+Also increases movement speed and FLEE Rate for a certain time. 
+
+ii - Wind Curtain: Greatly increases Wind property resistance, 
+but greatly decreases Earth property resistance. 
+
+iii - Zephyr: Creates a wind barrier around the summoner. 
+Within the barrier, FLEE Rate increases, 
+and ranged attacks deal no damage. 
+It also has a small chance to nullify physical and magical damage. 
+
+
+^FF0000[Defeat those who stand against me]^000000 
+i - Wind Slash: Sends a blade of wind at a distant target, 
+dealing Wind property damage and inflicting Bleeding. 
+
+ii - Hurricane Attack: Deals Wind magical damage to a distant target, 
+or deals Wind property physical damage to the target and nearby enemies. 
+
+iii - Typhoon Mist Attack: Deals Wind property damage to a distant target, 
+or deals Wind magical damage and inflicts Silence. 
+
+
+^008040---- Chapter of the Earth Spirit, Tera ----^000000 
+
+Summoned earth spirits respond to the “Spirit Control” command by taking different actions 
+depending on their size, carrying out their summoner’s orders. 
+
+
+^FA8072[Lend me your strength]^000000 
+i - Geologia: Slightly increases the chance to inflict Stone Curse. 
+Increases the damage of Earth Spike and Heaven’s Drive. 
+
+ii - Cursed Soil: Increases the final damage of Killing Cloud. 
+Increases the damage of Poison Burst. 
+Increases the damage of Earth Grave. 
+Increases the damage of Psychic Wave. 
+Changes Psychic Wave’s property to Earth. 
+
+iii - Upheaval: When the summoner attacks, Hindsight Earth Spike activates. 
+When using Endow Quake, there is a 1/2 chance not to consume Green Live. 
+
+
+^0000FF[Protect me]^000000 
+i - Solid Skin: Greatly increases the summoner’s DEF and Max HP. 
+
+ii - Stone Shield: Greatly increases Earth property resistance, 
+but greatly decreases Fire property resistance. 
+
+iii - Power of Gaia: Creates an earth barrier around the summoner. 
+Within the area, you cannot be inflicted with Bleeding or Petrification. 
+Max HP and DEF increase for a certain time, 
+but movement speed is greatly reduced. 
+
+
+^FF0000[Defeat those who stand against me]^000000 
+i - Stone Hammer: Strikes one target with Earth property damage 
+and inflicts Stun. 
+
+ii - Rock Crusher Attack: Deals Earth property damage to one target and reduces its DEF, 
+or deals Earth magical damage and reduces the target’s movement speed. 
+
+iii - Stone Rain: Drops countless stones onto one target and nearby enemies, 
+dealing Earth property damage, 
+or deals Earth property damage to a single target and inflicts Stun.

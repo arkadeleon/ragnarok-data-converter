@@ -1,0 +1,153 @@
+^FF0000---- Bab Roh Api Agni ----^000000
+
+Roh api yang dipanggil akan merespons perintah pemanggil dengan melakukan berbagai aksi berbeda sesuai dengan ukurannya melalui perintah "Spirit Control".
+
+
+^FA8072[Lend Me Your Aid]^000000
+i - Pyrotechnic: Meningkatkan damage Fire Wall dan Fire Bolt.
+
+ii - Heater: Meningkatkan damage Fire Walk.
+Sedikit meningkatkan efek pemulihan saat menggunakan skill Warmer.
+Sedikit meningkatkan damage Psychic Wave.
+Mengubah atribut damage Psychic Wave menjadi Fire.
+
+iii - Tropic: Saat pemanggil menyerang, Auto Spell Fire Bolt akan terpicu.
+Saat menggunakan Flame Launcher atau Volcano, terdapat kemungkinan 1/2 untuk tidak mengonsumsi Red Blood atau Yellow Gemstone.
+
+
+^0000FF[Protect Me]^000000
+i - Circle of Fire: Mengelilingi pemanggil dengan penghalang api. Saat musuh menyerang pemanggil,
+terdapat kemungkinan memberikan damage dan mendorong mereka ke belakang.
+
+ii - Fire Cloak: Sangat meningkatkan resistensi elemen Fire dan sangat mengurangi resistensi elemen Water.
+
+iii - Fire Mantle: Memasang Fire Wall yang kuat di sekitar pemanggil.
+
+
+^FF0000[Defeat Those Who Oppose Me]^000000
+
+i - Fire Arrow: Menembakkan satu panah api ke satu musuh dan memberikan damage elemen Fire.
+
+ii - Fire Bomb: Menggunakan bom api untuk memberikan damage elemen Fire kepada satu target dan musuh di sekitarnya,
+atau memberikan damage sihir elemen Fire kepada satu target.
+
+iii - Fire Wave: Menciptakan kobaran api besar untuk memberikan damage fisik elemen Fire kepada satu target dan musuh di sekitarnya,
+atau memberikan damage sihir elemen Fire yang besar kepada satu target.
+
+
+^0000FF---- Bab Roh Air Aqua ----^000000
+
+Roh air yang dipanggil akan merespons perintah pemanggil dengan melakukan berbagai aksi berbeda sesuai dengan ukurannya melalui perintah "Spirit Control".
+
+
+^FA8072[Lend Me Your Aid]^000000
+i - Aqua Play: Meningkatkan damage Cold Bolt dan Frost Diver.
+
+ii - Cooler: Sedikit meningkatkan peluang Freeze dari Diamond Dust.
+Sedikit meningkatkan damage Diamond Dust.
+Sedikit meningkatkan damage Psychic Wave.
+Mengubah atribut damage Psychic Wave menjadi Water.
+
+iii - Chilly Air: Saat pemanggil menyerang, Auto Spell Cold Bolt akan terpicu.
+Saat menggunakan Frost Weapon atau Deluge, terdapat kemungkinan 1/2 untuk tidak mengonsumsi Crystal Blue atau Yellow Gemstone.
+
+
+^0000FF[Protect Me]^000000
+i - Water Screen: Memulihkan HP pemanggil secara terus-menerus dalam jumlah tetap.
+Selama durasi berlangsung, Aqua akan menerima damage yang seharusnya diterima oleh pemanggil.
+
+ii - Water Drop: Sangat meningkatkan resistensi elemen Water dan sangat mengurangi resistensi elemen Fire.
+
+iii - Water Barrier: Menciptakan dinding pertahanan air di sekitar caster.
+Penghalang ini mengurangi damage fisik dan sihir dalam jumlah tetap.
+Namun, tingkat evasion dan kekuatan serangan akan berkurang di dalam penghalang.
+
+
+^FF0000[Defeat Those Who Oppose Me]^000000
+i - Ice Needle: Menciptakan jarum es tajam dan memberikan damage sihir elemen Water kepada satu musuh.
+
+ii - Water Screw: Menembakkan gelombang air untuk memberikan damage sihir elemen Water kepada satu target,
+atau memberikan damage sihir elemen Water kepada satu target dan musuh di sekitarnya.
+
+iii - Tidal Weapon: Sementara mengubah senjata pemanggil dan roh menjadi elemen Water
+dan meningkatkan kekuatan serangan roh itu sendiri,
+atau memberikan damage elemen Water yang besar kepada satu target.
+
+
+^000088---- Bab Roh Angin Ventus ----^000000
+
+Roh angin yang dipanggil akan merespons perintah pemanggil dengan melakukan berbagai aksi berbeda sesuai dengan ukurannya melalui perintah "Spirit Control".
+
+
+^FA8072[Lend Me Your Aid]^000000
+i - Gust: Meningkatkan damage Lightning Bolt dan Thunder Storm.
+
+ii - Blast: Meningkatkan damage Electric Walk.
+Meningkatkan damage Varetyr Spear.
+Meningkatkan damage Psychic Wave.
+Mengubah atribut damage Psychic Wave menjadi Wind.
+
+iii - Wild Storm: Saat pemanggil menyerang, Auto Spell Lightning Bolt akan terpicu.
+Saat menggunakan Lightning Loader atau Violent Gale, terdapat kemungkinan 1/2 untuk tidak mengonsumsi Wind of Verdure atau Yellow Gemstone.
+
+
+^0000FF[Protect Me]^000000
+i - Wind Step: Saat diaktifkan, langsung memindahkan pemanggil (teleport).
+Juga meningkatkan kecepatan gerak dan tingkat evasion caster selama durasi tertentu.
+
+ii - Wind Curtain: Sangat meningkatkan resistensi elemen Wind dan sangat mengurangi resistensi elemen Earth.
+
+iii - Zephyr: Menciptakan penghalang angin di sekitar pemanggil.
+Di dalam penghalang ini, tingkat evasion meningkat dan tidak menerima damage dari serangan jarak jauh.
+Terdapat juga peluang kecil untuk meniadakan damage fisik atau sihir.
+
+
+^FF0000[Defeat Those Who Oppose Me]^000000
+i - Wind Slash: Menembakkan bilah angin ke satu target jarak jauh,
+memberikan damage elemen Wind dan memberikan status Bleeding.
+
+ii - Hurricane Rage: Memberikan damage sihir elemen Wind kepada satu target jarak jauh,
+atau memberikan damage fisik elemen Wind kepada satu target dan musuh di sekitarnya.
+
+iii - Typhoon Missile: Memberikan damage elemen Wind kepada satu target jarak jauh,
+atau memberikan damage sihir elemen Wind serta memberikan status Silence.
+
+
+^008040---- Bab Roh Tanah Terra ----^000000
+
+Roh tanah yang dipanggil akan merespons perintah pemanggil dengan melakukan berbagai aksi berbeda sesuai dengan ukurannya melalui perintah "Spirit Control".
+
+
+^FA8072[Lend Me Your Aid]^000000
+i - Petrology: Sedikit meningkatkan peluang Stone Curse.
+Meningkatkan damage Earth Spike dan Heaven’s Drive.
+
+ii - Cursed Soil: Meningkatkan final damage Cloud Kill.
+Meningkatkan damage Poison Buster.
+Meningkatkan damage Earth Grave.
+Meningkatkan damage Psychic Wave.
+Mengubah atribut damage Psychic Wave menjadi Earth.
+
+iii - Upheaval: Saat pemanggil menyerang, Auto Spell Earth Spike akan terpicu.
+Saat menggunakan Seismic Weapon, terdapat kemungkinan 1/2 untuk tidak mengonsumsi Green Live.
+
+
+^0000FF[Protect Me]^000000
+i - Solid Skin: Sangat meningkatkan defense dan maksimum HP pemanggil.
+
+ii - Stone Shield: Sangat meningkatkan resistensi elemen Earth dan sangat mengurangi resistensi elemen Fire.
+
+iii - Power of Gaia: Menciptakan penghalang tanah di sekitar pemanggil.
+Di dalam area ini, status Bleeding dan Petrification dicegah.
+Selama durasi tertentu, maksimum HP dan defense meningkat.
+Namun, kecepatan gerak akan sangat berkurang.
+
+
+^FF0000[Defeat Those Who Oppose Me]^000000
+i - Stone Hammer: Memberikan damage elemen Earth kepada satu target dan memberikan status Stun.
+
+ii - Rock Crusher: Memberikan damage elemen Earth kepada satu target dan mengurangi defense dalam jumlah tetap,
+atau memberikan damage sihir elemen Earth kepada satu target dan mengurangi kecepatan gerak dalam jumlah tetap.
+
+iii - Stone Rain: Menjatuhkan banyak batu ke satu target dan musuh di sekitarnya, memberikan damage elemen Earth,
+atau memberikan damage elemen Earth kepada satu target serta memberikan status Stun.

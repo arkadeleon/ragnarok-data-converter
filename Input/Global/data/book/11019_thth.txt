@@ -1,0 +1,22 @@
+%f5f5dc
+^000088ไอเทมจำหน่ายใน Manuk^000000
+
+ไอเทมต่อไปนี้สามารถซื้อได้ด้วย Manuk Coin
+
+^008040[Manuk's Opportunity]^000000
+อาหารเสริมที่ผลิตโดยห้องวิจัย Manuk และแนะนำให้แก่คนงานเหมืองใช้อย่างเป็นทางการ
+เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ใน Manuk Field 10% เป็นเวลา 10 นาที
+^000088(Nepenthes, Hillslion, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+น้ำหนัก : ^7777775^000000
+
+^008040[Manuk's Courage]^000000
+อาหารเสริมที่ผลิตโดยห้องวิจัย Manuk และแนะนำให้แก่คนงานเหมืองใช้อย่างเป็นทางการ
+ลด Damage ทางกายภาพและเวทมนตร์ที่ได้รับจากมอนสเตอร์ใน Manuk Field 10% เป็นเวลา 10 นาที
+^000088(Nepenthes, Hillslion, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+น้ำหนัก : ^7777775^000000
+
+^008040[Manuk's Faith]^000000
+อาหารเสริมที่ผลิตโดยห้องวิจัย Manuk และแนะนำให้แก่คนงานเหมืองใช้อย่างเป็นทางการ
+เพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ใน Manuk Field 10% เป็นเวลา 10 นาที
+^000088(Nepenthes, Centipede, Centipede Larva, Hillslion, Tatacho, Hardrock Mammoth)^000000
+น้ำหนัก : ^7777775^000000

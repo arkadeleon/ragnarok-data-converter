@@ -1,0 +1,265 @@
+^4D4DFF Lista de objetos de alquiler exclusivos de TE ^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Todo el equipo de alquiler de TE no puede intercambiarse con otras cuentas.
+Todo el equipo de alquiler de TE se elimina automáticamente del inventario cuando finaliza el periodo de alquiler.
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+[Katar de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Hemorragia al realizar ataques físicos.
+Tipo: Katar Ataque: 120
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: clases Assassin
+
+[Hacha de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Congelación al realizar ataques físicos.
+Tipo: Hacha de una mano Ataque: 100
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: Novice/clases Swordman/clases Merchant/clases Thief
+
+[Hacha a dos manos de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Aturdimiento al realizar ataques físicos.
+Tipo: Hacha a dos manos Ataque: 150
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: clases Swordman/clases Merchant
+
+[Pica de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Maldición al realizar ataques físicos.
+Tipo: Lanza de una mano Ataque: 100
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: clases Swordman
+
+[Lanza de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Ceguera al realizar ataques físicos.
+Tipo: Lanza a dos manos Ataque: 150
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: clases Swordman
+
+
+[Libro de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Poder de ataque mágico 5% aumentado.
+Alta probabilidad de causar Ceguera al realizar ataques físicos.
+Eficacia de curación 5% aumentada.
+Tipo: Libro Ataque: 120
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: clases Priest/clases Sage/Taekwon Master
+
+[Bastón de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque mágico 10% aumentado contra jugadores. Alta probabilidad de causar Ceguera al realizar ataques mágicos.
+Eficacia de curación 5% aumentada.
+Tipo: Bastón de una mano Ataque: 50 Peso: 0
+Nivel de arma: 3 Nivel necesario: 40 Equipable por: clases Novice/clases Mage/clases Acolyte/Soul Linker
+
+[Puño de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Congelación al realizar ataques físicos.
+Tipo: Puño Ataque: 150 Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: clases Priest/clases Monk
+[Guitarra de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Envenenamiento al realizar ataques físicos.
+Tipo: Instrumento musical Ataque: 100
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: solo Bard
+
+[Cuerda de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Ceguera al realizar ataques físicos.
+Tipo: Látigo Ataque: 100
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: solo Dancer
+
+[Cuchillo de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Silencio al realizar ataques físicos.
+Tipo: Daga Ataque: 100 MATK + 100.
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40
+Equipable por: Novice/clases Swordman/clases Mage/clases Archer/clases Merchant/clases Thief/Soul Linker/Ninja
+
+[Bastón a dos manos TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque mágico 20% aumentado contra jugadores. Alta probabilidad de causar Aturdimiento al realizar ataques mágicos.
+Eficacia de curación 5% aumentada.
+Tipo: Bastón a dos manos Ataque: 50 MATK + 130
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40
+Equipable por: clases Novice/clases Mage/clases Acolyte/Soul Linker
+
+[Pistola de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Maldición al realizar ataques físicos.
+Tipo: Pistola Ataque: 60
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: Gunslinger
+
+[Rifle de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Silencio al realizar ataques físicos.
+Tipo: Rifle Ataque: 80
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: Gunslinger
+
+[Ametralladora Gatling de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Aturdimiento al realizar ataques físicos.
+Tipo: Ametralladora Gatling Ataque: 100
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: Gunslinger
+
+[Escopeta de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Envenenamiento al realizar ataques físicos.
+Tipo: Escopeta Ataque: 100
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: Gunslinger
+
+[Lanzagranadas de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Ceguera al realizar ataques físicos.
+Tipo: Lanzagranadas Ataque: 100
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: Gunslinger
+
+[Shuriken Huuma de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Hemorragia al realizar ataques físicos.
+Tipo: Shuriken Huuma Ataque: 80 MATK + 100.
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: Ninja
+
+[Espada de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Envenenamiento al realizar ataques físicos.
+Tipo: Espada Ataque: 120 MATK + 100.
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: Novice/clases Swordman/clases Merchant/clases Thief
+
+[Maza de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Congelación al realizar ataques físicos.
+Eficacia de curación 5% aumentada.
+Tipo: Maza Ataque: 120
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40
+Equipable por: Novice/clases Swordman/clases Acolyte/clases Merchant
+
+[Arco de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Maldición al realizar ataques físicos.
+Tipo: Arco Ataque: 120
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: clases Archer/Thief/clases Rogue
+
+[Espada a dos manos de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 40% aumentado contra jugadores. Alta probabilidad de causar Hemorragia al realizar ataques físicos.
+Tipo: Espada a dos manos Ataque: 150
+Peso: 0 Nivel de arma: 3 Nivel necesario: 40 Equipable por: clases Swordman
+
+
+
+
+
+
+
+
+[Broquel de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+MAXHP + 100, MAXSP + 100. Daño recibido de jugadores 15% reducido.
+Tipo: Escudo Defensa: 15 MDEF + 15.
+Peso: 0 Nivel necesario: 40 Equipable por: todas las clases
+
+[Escudo de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+MAXHP + 200. Daño recibido de jugadores 20% reducido.
+Tipo: Escudo Defensa: 25 MDEF + 5.
+Peso: 0 Nivel necesario: 40 Equipable por: clases Swordman/clases Merchant
+
+[Guardia mágica de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+MAXSP + 200. Daño recibido de jugadores 10% reducido.
+Tipo: Escudo Defensa: 5 MDEF + 25
+Peso: 0 Nivel necesario: 40 Equipable por: clases Novice/clases Mage/clases Acolyte/Soul Linker
+
+[Bufanda de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico/mágico 5% aumentado contra jugadores. Resistencia a Congelación 25% aumentada.
+Tipo: Prenda Defensa: 5 MDEF + 5.
+Peso: 0 Nivel necesario: 40 Equipable por: todas las clases
+
+[Manto de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico 10% aumentado contra jugadores. Resistencia a Congelación 25% aumentada.
+Tipo: Prenda Defensa: 10
+Peso: 0 Nivel necesario: 40 Equipable por: clases Swordman/clases Merchant
+
+[Manto mágico de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque mágico 10% aumentado contra jugadores.
+Resistencia a Congelación 25% aumentada.
+Tipo: Prenda Defensa: 5 MDEF + 5.
+Peso: 0 Nivel necesario: 40 Equipable por: clases Novice/clases Mage/clases Acolyte/Soul Linker
+
+[Anillo protector TE]
+※ Opciones adicionales en zonas de asedio TE
+MAXHP + 100. Daño recibido de jugadores 5% reducido.
+Tipo: Accesorio Defensa: 0
+Peso: 0 Nivel necesario: 40 Equipable por: todas las clases
+
+[Anillo de furia TE]
+※ Opciones adicionales en zonas de asedio TE
+Poder de ataque físico/mágico 5% aumentado contra jugadores.
+Tipo: Accesorio Defensa: 0
+Peso: 0 Nivel necesario: 40 Equipable por: todas las clases
+
+[Anillo de rebeldía TE]
+※ Opciones adicionales en zonas de asedio TE
+Daño recibido de jugadores 5% reducido.
+Tipo: Accesorio Defensa: 0 MDEF + 5.
+Peso: 0 Nivel necesario: 40 Equipable por: todas las clases
+
+
+[Zapatos de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+MAXHP + 150, MAXSP + 150. Poder de ataque físico/mágico 5% aumentado contra jugadores.
+Resistencia a Congelación 25% aumentada.
+Tipo: Calzado Defensa: 5 MDEF + 5. Peso: 0 Nivel necesario: 40 Equipable por: todas las clases
+
+[Botas de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+MAXHP + 200, MAXSP + 100. Poder de ataque físico 10% aumentado contra jugadores.
+Resistencia a Congelación 25% aumentada.
+Tipo: Calzado Defensa: 10 Peso: 0 Nivel necesario: 40 Equipable por: clases Swordman/clases Merchant
+
+[Sandalias mágicas de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+MAXHP + 100, MAXSP + 200. Poder de ataque mágico 5% aumentado contra jugadores.
+Resistencia a Congelación 25% aumentada.
+Tipo: Calzado Defensa: 5 MDEF + 5.
+Peso: 0 Nivel necesario: 40 Equipable por: clases Novice/clases Mage/clases Acolyte/Soul Linker
+
+[Abrigo largo de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+MAXHP + 250, MAXSP + 250. Daño recibido de jugadores 10% reducido.
+Resistencia a Congelación 25% aumentada.
+Tipo: Armadura Defensa: 15 MDEF + 15. Peso: 0 Nivel necesario: 40 Equipable por: todas las clases
+
+[Cota de malla de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+MAXHP + 450, MAXSP + 50. Daño recibido de jugadores 15% reducido.
+Resistencia a Congelación 25% aumentada.
+Tipo: Armadura Defensa: 25 MDEF + 5.
+Peso: 0 Nivel necesario: 40 Equipable por: clases Swordman/clases Merchant
+
+[Abrigo mágico de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+MAXHP + 200, MAXSP + 300. Daño recibido de jugadores 5% reducido.
+Resistencia a Congelación 25% aumentada.
+Tipo: Armadura Defensa: 5 MDEF + 25.
+Peso: 0 Nivel necesario: 40 Equipable por: clases Novice/clases Mage/clases Acolyte/Soul Linker
+[Gorra de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+ATK + 5, MATK + 5. Poder de ataque físico/mágico 10% aumentado contra jugadores.
+Resistencia a Congelación 25% aumentada.
+Tipo: Tocado Defensa: 5 MDEF + 5. Posición: Superior Peso: 0 Nivel necesario: 40 Equipable por: todas las clases
+
+[Yelmo de hueso de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+ATK + 10. Poder de ataque físico 20% aumentado contra jugadores. Resistencia a Congelación 25% aumentada.
+Tipo: Tocado Defensa: 10 Posición: Superior
+Peso: 0 Nivel necesario: 40 Equipable por: clases Novice
+
+[Ojos mágicos de asedio TE]
+※ Opciones adicionales en zonas de asedio TE
+MATK + 10. Poder de ataque mágico 20% aumentado contra jugadores.
+Resistencia a Congelación 25% aumentada.
+Tipo: Tocado Defensa: 5 MDEF + 5. Posición: Superior
+Peso: 0 Nivel necesario: 40 Equipable por: clases Novice/clases Mage/clases Acolyte/Soul Linker

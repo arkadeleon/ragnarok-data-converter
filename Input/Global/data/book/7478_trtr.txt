@@ -1,0 +1,61 @@
+%faf0e6
+^000088Aç olan herkese ikram var! Poring de olsa Poporing de!^000000
+
+Tabii bana da kalacak; mutfak kuralı bu! - Sv. 7 Tarifi -
+
+
+^FF0000Bütün Barbekü :^000000Merak etme, fıçıyı kızartmıyorum!Malzemeler : ^4B0082Et 1, Köz 1, Kömür 1, Acı Sos 1, Odun Parçası 1, Beyaz Ot 1^000000
+Yöntem : Eti içi dışı iyice yıkayın; Acı Sosu her yerine sürün.
+Beyaz Otu ince doğrayıp hafifçe serpin.
+Odun parçasına Köz koyun; sönmeyecek kısık ateş hazırlayıp eti pişirin.
+Pişirirken ara ara Acı Sos sürün; son olarak doğranmış otu serpin.
+
+^0000FFÖzel Arı Sütlü Bitki Çayı :^000000İçerken arı sokmaz; rahat ol!
+
+Malzemeler : ^4B0082Kraliyet Jölesi 1, Bal 1, Beyaz Ot 1, Hinare Yaprağı 1, Sarı Baharat 1^000000Yöntem : Sv. 3 Ballı Bitki Çayı ile aynı.
+Farkı: Lüks Hinare Yaprağı kullanın; bala ek olarak Kraliyet Jölesi de katın.
+
+^800000Ruh Musallatlı Ekmek :^000000Dikkat: ruhun uçabilir!
+
+
+Malzemeler : ^4B0082Ekmek 1, Mastela Meyvesi 1, Tatlı Sos 1, Ment 1, Ban Honbu 1, Ham Elma 1^000000Yöntem : Mastela meyvesi ve elmayı soyup küp doğrayın.Ment'i yıkayıp suyunu çıkarın; Mastela ve elmayla karıştırın.
+Şeker ekleyip 30 dk bekletin. (Oran yaklaşık 1:1)
+Yüksek ateşte kaynatın; köpürünce orta ateşe alın.
+Biraz daha şeker ekleyip kısık ateşte pişirin. (Dibe tutmaması için sürekli karıştırın.)
+Şeffaf ve parlak kıvam alana kadar indirip reçel yapın.
+Ban Honbu'yu iyice öğütün; Tatlı Sos ile olgunlaştırıp hazırlayın.
+Ekmeğe reçel ve Tatlı Sos sürüp servis edin.
+
+^008040Buharda Sebzeli Timsah :^000000Beklediğinden yumuşak, çiğnemesi keyifli!
+Malzemeler : ^4B0082Anolian Derisi 1, Balkabağı Kafası 1, Havuç 1, Aloe Yaprağı 1,
+
+Sarı Ot 1, Sarı Baharat 1^000000Yöntem : Anolian derisini yıkayıp ince kıyın; tuz, karabiber, yumurta, su ve Sarı Baharat ekleyin.
+Kıvam alana kadar iyice yoğurun.
+Havucu jülyen doğrayıp haşlayın. Aloe Yaprağı ve Sarı Ot'u haşlayıp suyunu sıkın.
+Balkabağı kafasını ince doğrayıp hafifçe soteleyin; soğutun.
+Kesme tahtasına tülbent serin; karışımı üzerine yayıp kızgın buharda yaklaşık 15 dk pişirin.
+Lokmalık kesip sebzelerle servis edin.
+
+^FF8040Şatafatlı Ziyafet :^000000Dağa gidersen domuz, denize gidersen balık!
+
+Malzemeler : ^4B0082Balık Kuyruğu 1, Aloe Yaprağı 1, Yaban Domuzu Yelesi 1, Taze Balık 1,Evcil Hayvan Yemi 1, Tatlı Sos 1^000000
+Yöntem : Aloe Yaprağını tuzlu suda hafifçe haşlayın.
+Taze Balık'ı temizleyip Tatlı Sos sürün; 10 dk dinlendirin.
+Balığı Aloe Yaprağına sarın; Balık Kuyruğu ile birlikte 10 dk buharda pişirip servis edin.
+Yaban Domuzu Yelesini yaklaşık 4 cm kesin; hafifçe haşlayın.
+Evcil Hayvan Yemi'ni lokmalık kesin; tavada kızartırken Tatlı Sos sürün.
+
+^400080Şiş :^000000Yerken Ghoul'a batmaması için Ghoul ucunu törpüle!
+Malzemeler : ^4B0082Pullu Deri 1, Dikenli Solungaç 1, Yumuşak Yaprak 1, Et 1,
+
+Yenilebilir Mantar 1, Midye Eti 1^000000Yöntem : Yumuşak yaprağı 4 cm kare kesin; mantarı uzun dilimleyin.
+Pullu deriyi yıkayıp hazırlayın.
+Dikenli Solungaç'tan uzun dikenleri seçip şiş olarak ayırın.
+Eti hafifçe haşlayın; Midye Etini kısa süre haşlayın.
+Uzun dikene sırasıyla et → sebze → Midye Eti dizin.
+Izgarada Pullu Deriyi ısıtın; şişleri üzerinde pişirin.
+
+^FF3366Karışık Yemek Sv. 7 :^000000Sv. 7 yemeklerin özü
+Malzemeler : ^4B0082Bütün Barbekü 1, Özel Arı Sütlü Bitki Çayı 1, Ruh Musallatlı Ekmek 1, Buharda Sebzeli Timsah 1, Şatafatlı Ziyafet 1, Şiş 1^000000
+
+Yöntem : Tüm Sv. 7 yemekleri toplayın; büyük bir sofra olarak özenle sunun.

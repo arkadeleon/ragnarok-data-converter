@@ -1,0 +1,58 @@
+^000088The energetic drink manual: Monthly Alchemist - [SP of Dream Vol.10]^000000
+
+
+Alchemist: We've invited two famous figures among Alchemists who developed the fantastic SP Increase Potion! May I ask them to introduce themselves?
+
+Vain: I am the oldest boy! And I like to collect flowers.
+
+Vajin: I am the second boy and I like to watch puppet shows. Our brothers are nominated among famous 10 Alchemists. We really appreciated your cheering greeting.
+
+Alchemist: I've heard that you two invented the SP Increase Potion series. Can I ask that how you came to make these items?
+
+Vain: Yes, while we investigating the life stone, we ended up to make the potions for customers for making lives. At first, we've just made some of supplying juices, but we could get to know how to enlarge SP extent itself while having investigations. We've never intended to get the monopoly for producing these potions.
+
+Vajin: This technique requires delicate skill and time-taking. Though you can get to know how to make it, it's not that easy. Also success rate is very low, so that it could just consume the materials. So I hope you young guys won't lose a lot from it.
+
+Alchemist: So the main point is, it requires the talent of the creators than techniques.
+
+Vain: Definitely! With the same material and ingredients, it could result in different tastes! We've tried it almost 136,072 times. So I would like to ask people to try it if you come up with a better way.
+
+Alchemist: But you two brothers dare to be dedicated to the progress and development of this refining. As an exclusive story, I feel honored to do this and thank you.
+
+Vajin: You are welcome. We think that this progresses better activity and peaceful work. Though we try to have the monopoly on this skill, it won't last longer.
+
+Alchemist: Really? Why?
+
+Vain: As my brother explained, there's no potion which maximizes SP itself currently. So far, as we did, there's only skill, cards and equipment which lead to maximizing SP. Though we only enhance SP itself, we can't solve the core problem. All we made better is the size of engine, not the fuel itself. Vajin: There's some recovery function with the SP potion itself, but it's not that big. In conclusion, we supported accelerating the activity of the brain and body for getting as much mana as we can. As far as I know, lots of monks are based on the same principle.
+
+Vain: So although we alchemists garnered lots of interest through this refine method, it's quite a domestic point, and it's not good for the long-run.
+
+Vajin: Yes, it would lead to a bad situation.
+
+Alchemist: Okay, I understand your points. The secret isn't that long-lasting, and we'd better focus on the stimulation of the market. It's a broad perspective.
+
+Vain: We believe that things come full circle. If we do good to others, good things are going back to us. It's called the 'Golden rule'.
+
+Alchemist: So the thing Alchemists found out is the Golden rule!
+
+Vain: (Smiling) It's not that big of a contribution. (being shy)
+
+Alchemist: But I think many people could benefit from your labor. You two guys are very inspiring and may I ask your future plans?
+
+Vain: We would be dedicated to investigate "stone of life". That was our fundamental purpose. And I hope the potions would be useful.
+
+Alchemist: Thanks. Lastly, I would like you to meet the person who would sponsor you!
+
+(The recipe is enclosed below.)
+
+
+Recipe
+
+SP Increase Potion (S): 10 Empty Bottle + 10 Lemon + 10 Grape + 1 Sweet Sauce
+SP Increase Potion (M): 10 Empty Bottle + 10 Honey + 10 Blue Herb + 1 Sweet Sauce
+SP Increase Potion (L): 10 Empty Bottle + 10 Royal Jelly + 15 Blue Herb + 1 Sweet Sauce
+
+
+Effect
+
+Maximize Max SP by 1 -20% for 500 sec. As effective as it is, it's getting stronger.

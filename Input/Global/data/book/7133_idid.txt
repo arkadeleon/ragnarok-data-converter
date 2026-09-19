@@ -1,0 +1,35 @@
+%faf0e6
+^000088Intermediate Alchemy: Condensed Potions^000000
+
+
+----------------Pendahuluan--------------------
+
+Jika dasar-dasar pembuatan potion sudah menjadi hal yang sangat alami bagimu, maka kamu mungkin telah siap mempelajari proses yang lebih lanjut dalam menghasilkan condensed potions. Proses kondensasi memaksimalkan efektivitas potion sekaligus meminimalkan berat serta bahan yang dibutuhkan dalam proses pembuatannya.
+
+------------------------------------------
+
+Apa itu ^FF0000Slim Potion^000000?
+
+
+Slim Potion adalah potion yang sangat padat dengan efektivitas yang sama seperti potion normalnya, namun memiliki berat yang jauh lebih ringan. Proses mengonsentrasikan potion sangatlah berguna karena memungkinkan para Alchemist dan petualang lainnya membawa lebih banyak potion.
+
+
+
+^0000FFRed Slim Potion^000000: Memulihkan 45 HP.
+
+Bahan yang Dibutuhkan: ^4B00821 Red Potion, 1 Cactus Needle, 1 Empty Test Tube^000000
+
+Proses: Tuangkan Red Potion secara perlahan ke dalam mangkuk obat, lalu campurkan dengan bubuk Cactus Needle yang telah dihaluskan. Kamu harus menyimpan buku ini sebagai referensi saat menggunakan skill Pharmacy untuk menuangkan larutan tersebut ke dalam Empty Test Tube.
+
+
+^800000Yellow Slim Potion^000000: Memulihkan 175 HP.
+Bahan yang Dibutuhkan: ^4B00821 Yellow Potion, 1 Mole Whisker, 1 Empty Test Tube^000000
+
+Proses: Tuangkan Yellow Potion secara perlahan ke dalam mangkuk obat, lalu campurkan dengan Mole Whisker yang telah direbus hingga mencair. Kamu harus menyimpan buku ini sebagai referensi saat menggunakan skill Pharmacy untuk menuangkan larutan tersebut ke dalam Empty Test Tube.
+
+
+^008040White Slim Potion^000000: Memulihkan 325 HP.
+
+Bahan yang Dibutuhkan: ^4B00821 White Potion, 1 Witch Starsand, 1 Empty Test Tube^000000
+
+Proses: Tuangkan White Potion secara perlahan ke dalam mangkuk obat, lalu campurkan dengan Witch Starsand. Kamu harus menyimpan buku ini sebagai referensi saat menggunakan skill Pharmacy untuk menuangkan larutan tersebut ke dalam Empty Test Tube.

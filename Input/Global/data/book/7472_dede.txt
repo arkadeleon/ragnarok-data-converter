@@ -1,0 +1,42 @@
+%faf0e6
+^000088-Keine Panik, auch wenn du allein zurückbleibst. Mit diesem hier kannst du überall überleben.-^000000
+
+Auch du kannst es! Kochen auf Level 1!
+
+^FF0000Gebratene Heuschrecke :^000000 Keine Sorge, sie ist schon gebraten und springt dir nicht im Mund herum.
+Zutaten : ^4B0082Hinterbein einer Heuschrecke 1 Stück, Speiseöl 1 Stück^000000
+Zubereitung : Pfanne bei mittlerer Hitze erhitzen.
+(Bei einer neuen Pfanne dauert es etwas, bis das Öl in den Boden einzieht; dafür verwendet man mitunter auch das Fettstück eines Savage, um sie einzufetten.)
+Sobald die Pfanne heiß genug ist, 2 EL Speiseöl hineingeben, 1 Hinterbein dazugeben und kurz anbraten.
+Sobald es leicht goldbraun wird, das übrige Stück dazugeben, 1 weiteren EL Speiseöl hinzufügen und knusprig braten.
+
+^0000FFKräutertee mit Traubensaft :^000000 Einfach Trauben in den Trank mixen – fertig!
+Zutaten : ^4B0082Traube 1 Stück, Roter Trank 1 Stück^000000
+Zubereitung : Traube und 1 Portion Roter Trank in den Mixer geben und zu Saft verarbeiten.
+Der Kniff dabei: Schale und Kerne gleich mitmixen!
+Sobald alles gut gemixt ist, die restliche Portion hinzugeben und 10 Sekunden weiter mixen.
+
+
+^800000Honig-Traubensaft :^000000 Mit Erdbeeren zu den Trauben wird's noch besser!
+Zutaten : ^4B0082Erdbeere 1 Stück, Traube 1 Stück, Rotes Kraut 1 Stück^000000
+Zubereitung : Wird fast genauso wie Kräutertee mit Traubensaft zubereitet,
+aber statt der später hinzugefügten Trankportion kommt eine süße Erdbeere hinein!
+
+^008040Froschlaichsuppe :^000000 Suppe mit Soße
+Zutaten : ^4B0082Getreide 1 Stück, Froschlaich 1 Stück^000000
+Zubereitung : Das Getreide fein mahlen und vorbereiten, den Froschlaich in Eiswasser einlegen.
+(Das Eiswasser sorgt dafür, dass die bissfeste Konsistenz besser erhalten bleibt.)
+Das fein gemahlene Getreidemehl in eine passende Menge Wasser geben und bei schwacher Hitze sanft köcheln lassen, bis es eindickt.
+Dann den in Eiswasser eingelegten Froschlaich hinzufügen.
+Sobald der Froschlaich leicht gegart ist, die Soße hinzugeben, einmal aufkochen lassen und dann servieren.
+
+^FF8040Gedämpfte Krabbenscheren :^000000 Macht Spaß, sie auszulösen!
+Zutaten : ^4B0082Greifzange 1 Stück, Grünes Kraut 1 Stück, Roter Trank 1 Stück^000000
+Zubereitung : Die Greifzange zunächst einen Tag lang gut in Roter Trank einlegen.
+Ein Baumwolltuch in den Dämpfer legen, darauf Grünes Kraut verteilen, dann die gut durchgezogene Greifzange darauflegen und dämpfen.
+
+^400080Gebratener Affenschwanz :^000000 Klingt zäh, ist es aber überhaupt nicht.
+Zutaten : ^4B0082Affenschwanz 1 Stück, Speiseöl 1 Stück^000000
+Zubereitung : Den Affenschwanz schälen und in mundgerechte Stücke schneiden.
+Pfanne bei mittlerer Hitze erhitzen, Speiseöl hineingeben und eine passende Menge anbraten.
+Wird zu viel auf einmal gebraten, wird das Fleisch zäh – also lieber in passender Menge braten.

@@ -1,0 +1,34 @@
+%faf0e6
+^000088Alquimia para fabricar botellas de planta^000000
+
+
+----------------Prólogo--------------------
+La alquimia de la vida es una tarea extremadamente difícil.
+El primer paso que dimos para investigar la elevada disciplina de la creación de vida
+fue la transmutación de plantas.
+Sin embargo, la débil fuerza vital de las plantas comunes solo nos condujo al fracaso.
+Cuando no obteníamos ningún resultado y estábamos a punto de rendirnos,
+descubrimos la existencia de las plantas carnívoras.
+Plantas con mayor capacidad de supervivencia que las demás y de naturaleza feroz...
+Tras vagar por la cordillera de Mjolnir y los alrededores de Yuno, encontramos una planta carnívora que aportó
+grandes avances a nuestra investigación y nos llenó de alegría.
+Habíamos abierto los ojos al asombroso mundo de la transmutación vegetal.
+------------------------------------------
+
+
+
+
+¿Qué es una ^FF8040botella de planta^000000?
+
+Una botella que contiene, mediante un proceso especial, una planta que, al arrojarla al suelo, hace brotar al instante una planta carnívora
+que ataca a cualquier criatura que se acerque para devorarla.
+Sin embargo, se dice que solo los alquimistas que hayan aprendido una técnica especial
+pueden utilizarla.
+
+
+Materiales: ^4B0082flores de planta carnívora 2 unidades, botella vacía 1 unidad^000000
+Método de fabricación: prepara un mortero.
+Introduce flores de planta carnívora 2 unidades en el mortero y, mientras llevas este libro contigo,
+utiliza Farmacia para guardarlas en una botella vacía.
+La alquimia necesaria para invocar plantas carnívoras debe aprenderse por separado de la transmutación
+para poder utilizarla.

@@ -1,0 +1,49 @@
+%faf0e6
+^000088¡Figura estilizada, investigación optimizada! ¡La revolución de la fabricación de pociones! ¡¡Pociones condensadas!!^000000
+
+
+----------------Prólogo--------------------
+
+¿Has aprendido los fundamentos de las pociones? Entonces ha llegado el momento de pasar a una aplicación avanzada.
+¡Qué podría haber mejor que conseguir un efecto mayor con una cantidad menor!
+¡No te esfuerces solo por estilizar tu figura; optimiza también tu investigación!
+
+------------------------------------------
+
+¿Qué es una ^FF0000poción condensada^000000?
+
+
+Una poción altamente concentrada que ofrece el mismo rendimiento que una poción convencional con una cantidad menor.
+Naturalmente, también resulta más fácil de transportar.
+
+
+
+^0000FFPoción roja condensada^000000: restaura aproximadamente HP 45.
+Materiales: ^4B0082Poción roja 1, Aguja afilada de cactus 1, Tubo de ensayo vacío 1^000000
+Método de fabricación: prepara un mortero.
+Vierte poco a poco la poción roja..
+Tritura una aguja afilada de cactus bien seca, mézclala con la poción roja
+y vierte la mezcla en un tubo de ensayo vacío.
+Para utilizar el método de fabricación sencillo,
+prepara este libro y los materiales, y usa la habilidad Farmacia.
+
+
+^800000Poción amarilla condensada^000000: restaura aproximadamente HP 175.
+Materiales: ^4B0082Poción amarilla 1, Bigote de topo 1, Tubo de ensayo vacío 1^000000
+Método de fabricación: prepara un mortero.
+Vierte poco a poco la poción amarilla..
+Añade el agua obtenida tras cocer bien el bigote de topo y mézclala con la poción.
+Vierte la mezcla en un tubo de ensayo vacío.
+Para utilizar el método de fabricación sencillo,
+prepara este libro y los materiales, y usa la habilidad Farmacia.
+
+
+^008040Poción blanca condensada^000000: restaura aproximadamente HP 325.
+Materiales: ^4B0082Poción blanca 1, Arena estelar de bruja 1, Tubo de ensayo vacío 1^000000
+Método de fabricación: prepara un mortero.
+Vierte poco a poco la poción blanca..
+Lava bien la arena estelar de bruja, elimina por completo la humedad
+y añádela poco a poco mientras mezclas.
+Vierte la mezcla en un tubo de ensayo vacío.
+Para utilizar el método de fabricación sencillo,
+prepara este libro y los materiales, y usa la habilidad Farmacia.

@@ -1,0 +1,171 @@
+%faf0e6
+^4D4DFFEdición: Poción roja para principiantes^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Preparación: 2 Hierbas rojas, 1 Manzana y un poco de ferviente deseo de conseguir una poción
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Elaboración: con todos los materiales en el inventario, pulsa el "Kit de combinación".>
+Puedes usar Hierbas rojas obtenidas por cualquier medio. Da igual si las recogiste porque alguien las dejó caer
+o si se las arrebataste a un monstruo débil e inocente: mientras tengas 2, todo irá bien. La Manzana es para picar.
+
+1. Prepara 2 Hierbas rojas.
+2. Frótalas moderadamente con las palmas de las manos. (Si tienes hambre, cómete la Manzana.)
+3. Si has seguido bien los pasos 1~2, tendrás las palmas cubiertas de jugo y restos machacados de Hierba roja.
+4. Ah, por cierto, ¿te has lavado las manos?
+5. .....No queda otra. Vamos así al palacio real.
+* Punto clave: junta ambas manos y desea con todas tus fuerzas que eso que tienes en las palmas se convierta en una Poción roja.
+
+
+^CD3278 Edición: Lupa para principiantes^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Preparación: 3 Trozos de madera de veta fina, 1 Jellopy y un poco de destreza innata casi divina
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Elaboración: con todos los materiales en el inventario, pulsa el "Kit de combinación".>
+El agarre de un Trozo de madera de veta fina que encaja en la mano como si siempre te hubiera pertenecido.
+La deslumbrante armonía creada por el .... de un Jellopy que apenas deja pasar la luz solar.
+
+1. Talla el Trozo de madera de veta fina con la forma deseada.
+2. Sigue tallándolo y puliéndolo. Continúa hasta que quede liso.
+-> Puede que quien hizo el encargo diga: 'Ya está bien. Para y dámelo.'
+En ese caso, responde con una sonrisa despreocupada: 'Mire, cuando hizo el encargo pudo decidir libremente, pero ahora....'
+3. Has tardado demasiado en pulirlo. Estira la espalda entumecida y contempla el atardecer.
+4. Parece que en el paso 1 olvidaste dejar un hueco para colocar el Jellopy, pero tampoco importa demasiado.
+
+
+^4C1919Edición: Ala de mosca para principiantes^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Preparación: 2 Pelusas, 2 Pelajes suaves, 2 Jellopy y el deseo de acabar "lo más lejos posible"
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+<Elaboración: con todos los materiales en el inventario, pulsa el "Kit de combinación".>
+Pelusa, Pelaje suave y Jellopy. En esta desconcertante combinación, cuya compatibilidad entre materiales resulta incomprensible,
+uno se queda en algún punto entre la confusión y la perplejidad.
+
+1. Érase una vez 2 Pelusas.
+2. También vivían allí 2 Pelajes suaves.
+3. Entonces, un día, 2 Jellopy se llevaron los Pelajes suaves.
+4. Las Pelusas colocaron ☆☆ en los ●●● de los Jellopy.
+5. Cualquiera que toque las Pelusas acabará ★.
+6. Acabará muy ★.
+
+
+^231010Edición: Cúter para principiantes^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Preparación: 10 Caparazones duros, 10 Caparazones de insecto, 1 Phracon y el deseo de no morir a manos de un monstruo
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+Cuando empiezas sin nada, el Cúter para principiantes se encuentra en la cima de las armas con una potencia de ataque decente.
+Para ser un arma fácil de conseguir, está bastante bien.
+
+1. Coloca 10 Caparazones duros en fila.
+Si alguien que está observando desordena la fila durante el proceso, mantén la calma.
+2. Sobre la disposición del paso 1, apila también los Caparazones de insecto y el Phracon.
+3. Coloca las manos encima y concéntrate con todas tus fuerzas.
+
+
+^FF0000Si fallas, repite los pasos 1~3 hasta que funcione.^000000
+
+
+^006F61Edición: Manzana verde que encanta al Poring novato^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+Preparación: 1 Manzana, 1 Hierba verde y el deseo de que ocurra un milagro
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+1. Lava bien la Manzana y la Hierba verde con agua fría.
+2. Envuelve bien la Manzana con la Hierba verde.
+3. Apriétala con fuerza hasta que la Hierba verde quede bien adherida.
+
+* Si en el paso 3 no tienes la actitud adecuada, puede que la Hierba verde no quede bien fijada.
+Cuanto más intensamente lo desees, mayor será la probabilidad de que los sentimientos de la Hierba verde lleguen también a la Manzana.
+Cuando parezca que la Hierba verde y la Manzana han entablado una relación lo bastante íntima, puedes soltarla.
+
+
+
+
+
+^8B4513Para terminar. . .
+
+Tras nnn años de experimentos, investigaciones y repetidos fracasos,
+
+he reunido, aunque de forma imperfecta, todo este conocimiento en un libro.
+
+Aunque no haya sido reconocido como una publicación oficial,
+
+considero una suerte poder encontrarme con todos vosotros
+
+aunque sea de esta manera, a través de este libro.^000000
+
+^0A6E0AAdemás, he incluido un apéndice para los Novatos que aspiran a llegar aún más lejos.^000000
+
+
+
+
+- Con la esperanza de que os apresuréis a realizar al menos el primer cambio de clase, ^8C4040Poring novato^000000
+
+[¡Creemos nuestra propia suerte! Trébol de cuatro hojas]
+^003A9D
+'Aceptando la recomendación de la Sociedad para la Protección de la Naturaleza de Midgard, según la cual
+la mayor alegría de un Trébol de cuatro hojas se siente al encontrarlo en la naturaleza,
+la receta de elaboración provisional ha sido eliminada.
+Rogamos la comprensión de todos los aventureros.'
+^000000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Frutas y zumos de verduras saludables (serie de zumos)]
+^003A9D
+Ingredientes: ingredientes del Zumo de plátano: 1 Plátano, 1 Leche y un poco de fuerza de agarre
+ingredientes del Zumo de manzana: 1 Manzana, 1 Leche y un poco de fuerza de agarre
+ingredientes del Zumo de zanahoria: 1 Zanahoria, 1 Leche y un poco de fuerza de agarre
+ingredientes del Zumo de uva: 1 Uva, 1 Zumo de manzana y un poco de fuerza de agarre
+
+^000000
+En realidad, la proporción entre la fruta principal y el ingrediente auxiliar no es 1:1, sino 1:0.2.
+El 0.8 restante del ingrediente auxiliar se reserva como tentempié por si te entra hambre mientras lo preparas.
+
+1. Machaca la fruta principal. Hazlo como sea.
+2. Mete la fruta bien machacada en una botella de Leche de la que hayas bebido un poco.
+(Sin embargo, para el Zumo de uva se utiliza Zumo de manzana en lugar de Leche.)
+3. Cierra bien el tapón y agita con fuerza.
+4. ¡Un sabor tan intenso que, si lo compartís entre dos, puede que uno no sobreviva! ¿¡Y si resulta que es justo lo que te gusta!?
+
+
+
+[¡¡Un sabor por el que los Poring se mueren!! Manzana sin madurar]
+^003A9D
+Ingredientes: 10 Líquidos pegajosos, 20 Hierbas verdes, 10 Manzanas y la Mano del Sol
+
+^000000
+1. Corta las Hierbas verdes en trozos pequeños.
+2. Junta todas las Hierbas verdes picadas y el Líquido pegajoso hasta formar una sola masa.
+3. Aunque resulte algo pegajosa, ten paciencia y amásala bien.
+4. Cuando, debido a la suciedad acumulada en las manos, la masa ya no se te pegue demasiado, haz una hendidura en el centro
+lo bastante profunda como para que quepa 1 Manzana.
+-> Regálate las 9 Manzanas restantes como recompensa por tu trabajo.
+5. Introduce la Manzana y cierra bien la masa hasta que quede completamente oculta.
+6. Sigue amasándola hasta que vuelva a tener una forma redonda y lisa.
+7. Coloca la Manzana sin madurar terminada sobre un manzano.
+8. Si un pájaro viene a probarla, está bien.
+9. Ahora dásela también a un Poring.

@@ -1,0 +1,35 @@
+%faf0e6
+^000088Método de síntesis intermedio para la protección. ¡Revestimiento!^000000
+
+
+----------------Prólogo--------------------
+
+Al ver cómo los magos recubrían sus cuerpos con una barrera de maná,
+surgió la idea de proteger armas y armaduras mediante la alquimia.
+El revestimiento alquímico no se rompe,
+se adapta al cuerpo como si lo envolviera
+y no puede ser disipado por un adversario.
+Sin embargo, recuerda que desaparece al cabo de cierto tiempo.
+
+------------------------------------------
+
+¿Qué es el ^400080revestimiento^000000?
+
+Consiste en cubrir la superficie de un objeto con una fina capa de resina u otro material.
+Se utiliza para crear una película antirreflectante sobre una lente
+o para aplicar a un tejido un tratamiento impermeable o resistente al calor.
+Sin embargo, en alquimia, el revestimiento sirve para impedir por completo que un objeto se rompa
+y para evitar que un adversario pueda retirarlo por la fuerza.
+Eso es lo que significa.
+No obstante, se dice que solo los alquimistas que han aprendido una técnica especial
+pueden utilizarlo.
+
+
+Materiales: ^4B0082Alcohol 1, Diente de Zenorc 1, Corazón de sirena 1, Botella vacía 1^000000
+Método de fabricación: prepara un mortero.
+Vierte aproximadamente la mitad del alcohol en el mortero y añade el diente de Zenorc para disolverlo.
+Lava bien el corazón de sirena, sécalo, tritúralo, añádelo al alcohol y mézclalo bien.
+Utiliza Farmacia para envasar la mezcla en una botella vacía.
+Aunque parezca que basta con aplicarlo,
+en realidad, solo es posible revestir armas o armaduras mediante una técnica especial.
+Llegarás a dominar esta técnica especializada a medida que avances en tus investigaciones de alquimia.

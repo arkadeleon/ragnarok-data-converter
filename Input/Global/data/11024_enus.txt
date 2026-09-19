@@ -1,0 +1,101 @@
+^000088 Monthly Alchemist Vitality Drink Recipe - [Dream SP Vol.10] ^000000
+
+
+Monthly Alchemist (hereafter “Alche”): Today’s guests are the Bar brothers, the developers of the legendary SP-increasing potion that has recently become a hot topic among Alchemists.
+First, could you please introduce yourselves?
+
+Bain: I am Bain, the eldest of the Bar brothers. My hobby is collecting flowers.
+
+Bazin: I am Bazin, the younger of the Bar brothers. My hobby is puppet theater. My brother and I were selected as two of the Top 10 Alchemists this year.
+Thank you all for your continued support.
+
+Alche: The Dream SP Increase Potion series has been drawing a lot of attention lately.
+We heard it is a collaborative work by the two of you. May we ask how it came to be?
+
+Bain: Yes. At first, my brother and I were researching a stone called the Stone of Life.
+However, making a living became difficult, and we eventually ended up producing and selling potions that customers wanted.
+In the beginning, it was merely refining grape juice for SP recovery to slightly improve its effectiveness.
+But while combining various SP recovery items, we discovered that it was possible to refine a large-capacity recovery potion that not only far surpassed existing SP recovery items, but also increased the maximum SP amount.
+Of course, we have no intention of monopolizing the method of creating such potions.
+
+Bazin: This compounding technique requires extreme care and a great deal of time.
+Even if one were to discover the required materials and methods, it would not be easy to produce.
+Additionally, the success rate is very low, so mistakes may simply result in wasted materials.
+We hope that young Alchemists with little experience will not suffer major losses by failing large-scale refinements of SP increase potions.
+
+Alche: So what you are saying is that the key lies not so much in the materials or recipe itself, but in the skill and aptitude of the person creating it?
+
+Bain: Exactly. Even with the same ingredients and seasoning, the taste of a dish can be sweet, bitter, or spicy depending on who prepares it.
+The total number of refinement methods we have tested so far for SP increase potions amounts to an astonishing 136,072.
+Even at 100 refinements per day, it took nearly four years.
+Therefore, anyone who believes they can find a better method than ours is welcome to try.
+
+Alche: Nevertheless, you are willing to publicly release this method for the development and contribution of Alchemists as a whole.
+As an exclusive feature, this is a tremendous honor. Thank you very much.
+
+Bazin: Not at all. We hope that this will further energize the activities of Alchemists and contribute to maintaining peace in the world.
+Even if we tried to monopolize this method for profit, we believe it would not last long.
+
+Alche: Is that so? Why do you think that?
+
+Bain: As my brother said, there are currently almost no potions that increase maximum SP.
+Until now, SP has mainly been increased forcibly through equipment, card options, or special skills.
+
+However, merely increasing the maximum SP capacity does not solve the problem.
+What we increase is the size of the engine, not the fuel itself.
+
+Bazin: Of course, SP increase potions do have some recovery effect.
+However, that is simply the inherent effect of the materials themselves, and they do not produce anything beyond that.
+Ultimately, what we do is temporarily assist the activation of the mind and body, allowing more mana to be stored within the body.
+This shares common ground with the techniques developed by martial monks who have trained relentlessly in recent years.
+Though the approach differs, the root is the same.
+
+Bain: Therefore, even if we alone possessed this knowledge, the only ones who would lose out are Alchemists themselves.
+By releasing this refinement method, the Alchemist community as a whole will gain great benefits.
+The value and rarity of the materials used in each method will also increase.
+However, if only we know the methods and materials, wealth will circulate only between us and consumers, producing no additional ripple effects.
+Even if we were to obtain large-scale factories or sponsors to mass-produce these potions, the sudden increase in demand for existing materials would undoubtedly create market distortion.
+The amount of items used by Alchemists as potion materials is always limited in the market.
+
+Bazin: That’s right. Even if we tried to disguise it by purchasing large quantities of other items, the truth would eventually come out.
+Such actions would only make things difficult in the long run.
+
+Alche: I understand your perspective.
+In the end, secrecy brings only temporary gains, whereas market activation and increased trade among Alchemists promise far greater benefits.
+
+Bain: Yes, we would appreciate it if you saw it that way.
+Even if what we are doing now does not bring much profit, we believe that actions taken to help others or to serve a good cause eventually return to oneself.
+This is what we call the "Golden Rule of Life."
+
+Alche: Oh! So what an Alchemist who creates gold ultimately discovers is the "Golden Rule of Life"!
+
+Bain: (Laughs) It’s nothing that grand. Saying it out loud makes me feel a bit embarrassed.
+
+Alche: Still, thanks to the two of you, many people can now easily make use of new potions.
+We have no doubt that this decision will serve as a great example for many Alchemists.
+What are your future plans?
+
+Bain: My brother and I intend to continue devoting the rest of our lives to researching the "Stone of Life."
+That was our original goal.
+We also hope that the potions we create will be put to meaningful use in many ways.
+
+Alche: Thank you.
+Lastly, our magazine would like to introduce individuals interested in investing research funds to support the continued studies of the Bain and Bazin brothers.
+Those who wish to know more details are encouraged to contact the Monthly Alchemist editorial department or consult the research management officer at a nearby Alchemist Guild.
+
+With that, we conclude today’s interview. Thank you very much.
+
+Bain & Bazin: Thank you.
+
+(Attached below is the recipe information for the SP increase potion.)
+
+Recipe
+
+- SP Increase Potion (Small): Empty Bottle 10 + Lemon 10 + Grape 10 + Sweet Sauce 1
+- SP Increase Potion (Medium): Empty Bottle 10 + Honey 10 + Blue Herb 10 + Sweet Sauce 1
+- SP Increase Potion (Large): Empty Bottle 10 + Royal Jelly 10 + Blue Herb 15 + Sweet Sauce 1
+
+Effect
+
+For approximately 500 seconds, increases the user’s MSP by up to 1% ~ 20%.
+The larger the size, the greater the effect.

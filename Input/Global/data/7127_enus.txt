@@ -1,0 +1,38 @@
+%faf0e6
+^000088Alchemy Basics for Alcohol Production^000000
+
+
+----------------Preface--------------------
+
+As I write this recipe now, the world of alchemy is in utter turmoil.
+Many alchemists, frustrated by research setbacks, have fallen into despair,
+using the alcohol production method announced to the academy to mass-produce alcohol.
+More and more people have come to depend on it.
+This was not the outcome I had hoped for, yet the result has been devastating.
+To you, who are learning alchemy and reading this book, I earnestly hope such a thing never happens.
+I sincerely hope you will never produce alcohol for the purpose of harming your own body,
+and so I record this recipe once again for future generations.
+
+"Alcohol addiction!!! Basically, it’s not good!!"
+
+------------------------------------------
+
+
+
+What is ^FF0000alcohol^000000?
+
+A general term for compounds in which a hydrogen atom of a hydrocarbon is substituted with a hydroxyl group (-OH).
+
+The general formula is ROH (R = alkyl group). When the alkyl group is methyl, it is called methanol;
+when the alkyl group is ethyl, it is called ethanol, and so on, appending -ol to the alkyl group’s name.
+A methyl group refers to methane with one hydrogen atom removed,
+and an ethyl group refers to ethane with one hydrogen atom removed.
+In other words, an alkyl group refers to the original hydrocarbon with one hydrogen atom removed.
+
+
+Ingredients: ^4B0082Plant Stem x5, Poison Spore x5, Empty Test Tube x1, Empty Bottle x1^000000
+Method: Put plant stems rich in sugar and processed poison mushroom spores into an empty bottle,
+        then boil with water. Distill by cooling the gas produced during this process.
+        Place the liquefied output into an empty test tube.
+        For easy production, carry this book, prepare the materials,
+        and use Pharmacy, the foundation of alchemy.

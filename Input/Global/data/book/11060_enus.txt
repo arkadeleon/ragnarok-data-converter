@@ -1,0 +1,281 @@
+^000088Energy Crystal Combination Items^000000
+
+^008040[Modified Mage Hat]^000000
+Description : A hat coveted by any talented Mage. It may look a bit awkward, but it offers a surprisingly comfortable fit
+and gives a fresh, lively feel. Modified to enhance its abilities.
+INT +2, SP +150, MATK +1 per refine level, At Refine +7: INT +1 per refine level.
+Type : Headgear DEF : 2 Position : Upper Weight : 30
+Required Level : 1 Equippable by : Mage Class/Soul Linker SLOT : 1
+^FF0000[Combination Materials]^000000
+Mage Hat x1 + Unrefined Energy Crystal x100
+
+^008040[Modified Magician Hat]^000000
+Description : A Magician Hat that looks like a rabbit might jump out the moment you put your hand inside.
+Sturdy enough that it won’t break easily. Modified to enhance its abilities.
+DEX +1, AGI +1, SP +50, SP +5 per refine level, At Refine +7: DEX +1 per refine level.
+Type : Headgear DEF : 6 Position : Upper Weight : 50
+Required Level : 50 Equippable by : Mage Class/Acolyte Class/Soul Linker SLOT : 1
+^FF0000[Combination Materials]^000000
+Magician Hat x1 + Unrefined Energy Crystal x100
+
+^008040[Modified Fox Mask]^000000
+Description : A mask modeled after one said to be worn by a certain assassin corps to conceal their identity.
+Wearing it somehow makes you feel more nimble. Modified to enhance its abilities.
+AGI +2, LUK +2, At Refine +7: Perfect Dodge +4
+Type : Headgear DEF : 2 Position : Upper Weight : 30
+Required Level : 1 Equippable by : All Jobs except Novice
+^FF0000[Combination Materials]^000000
+Fox Mask x1 + Unrefined Energy Crystal x100
+
+^008040[Modified Jester Hat]^000000
+Description : A hat a jester might wear while performing tricks. Pointy, colorful, and strangely bizarre.
+Modified to enhance its abilities.
+LUK +2, MDEF +5, At Refine +7: Critical Damage +5%.
+Type : Headgear DEF : 3 Position : Upper Weight : 10
+Required Level : 1 Equippable by : All Jobs except Novice SLOT : 1
+^FF0000[Combination Materials]^000000
+Jester Hat x1 + Unrefined Energy Crystal x100
+
+
+^008040[Modified Rabbit Headband]^000000
+Description : A headband with rabbit-ear decorations. It looks like it would be hard to keep balanced,
+but it’s surprisingly practical. Modified to enhance its abilities.
+LUK +2, At Refine +7: CRIT +5
+Type : Headgear DEF : 3 Position : Upper Weight : 10
+Required Level : 1 Equippable by : All Jobs SLOT : 1
+^FF0000[Combination Materials]^000000
+Rabbit Headband x1 + Unrefined Energy Crystal x100
+
+^008040[Modified Munak Hat]^000000
+Description : A hat worn by the monster Munak. A large hat with mysterious talismans attached,
+and it seems to have Braided Hair as well. Modified to enhance its abilities.
+Damage taken from Undead monsters -10%, At Refine +7: Damage to Undead monsters +10%.
+Type : Headgear DEF : 5 Position : Upper, Middle, Lower Weight : 30
+Required Level : 1 Equippable by : All Jobs SLOT : 1
+^FF0000[Combination Materials]^000000
+Munak Hat[1] x1 + Unrefined Energy Crystal x100
+
+
+^008040[Modified Bongun Hat]^000000
+Description : A hat once worn by the monster Bongun. Its highlight is the half-torn talisman at the front.
+Very sturdy, and the torn talisman also reduces obstruction to your view.
+Modified to enhance its abilities.
+Damage taken from Demon monsters -10%, At Refine +7: Damage to Demon monsters +10%.
+Type : Headgear DEF : 5 Position : Upper, Middle, Lower Weight : 30
+Required Level : 1 Equippable by : All Jobs SLOT : 1
+^FF0000[Combination Materials]^000000
+Bongun Hat[1] x1 + Unrefined Energy Crystal x100
+
+^008040[Modified Phantom of Opera Mask]^000000
+Description : A mask said to have been worn by an unfortunate protagonist of a certain tale.
+If you stare at it long enough, you can almost feel the protagonist’s pain seep into you.
+ATK +5, MATK +5
+Type : Headgear DEF : 2 Position : Middle Weight : 20
+Required Level : 20 Equippable by : All Jobs
+^FF0000[Combination Materials]^000000
+Phantom of Opera Mask x1 + Unrefined Energy Crystal x100
+
+^008040[Improved Telescope]^000000
+Description : Mysterious glasses made with compressed glass, letting you see distant things as if they were right in front of you.
+DEX +1, Ranged Damage +1%.
+Type : Headgear DEF : 2 Position : Middle Weight : 10
+Required Level : 50 Equippable by : Archer Class
+^FF0000[Combination Materials]^000000
+Telescope x1 + Refined Energy Crystal x200
+
+^008040[Improved Gill Helm]^000000
+Description : A fish-fin-shaped helm said to protect Swordsmen.
+Be careful—wearing it doesn’t actually let you breathe underwater.
+MHP +300, Additional MHP increases based on Base Level
+Type : Headgear DEF : 5 Position : Middle Weight : 30
+Required Level : 65 Equippable by : Swordsman Class
+^FF0000[Combination Materials]^000000
+Gill Helm x1 + Refined Energy Crystal x200
+
+
+
+^008040[Improved Assassin Mask]^000000
+Description : A dark mask worn by assassins to hide their faces.
+After putting it on, it feels like your emotions fade away.
+CRIT +1, Critical Damage +1%
+Type : Headgear DEF : 1 Position : Lower Weight : 10
+Required Level : 70 Equippable by : Assassin Class/Priest Class
+^FF0000[Combination Materials]^000000
+Assassin Mask x1 + Refined Energy Crystal x200
+
+^008040[Improved Welding Mask]^000000
+Description : A steel mask. Made purely for practicality with no regard for style or elegance.
+Protects your face from any flames, cold, or impact.
+Fire Property Resistance +10%, DEX +5, LUK +5.
+Type : Headgear DEF : 2 Position : Middle, Lower Weight : 30
+Required Level : 50 Equippable by : Merchant Class
+^FF0000[Combination Materials]^000000
+Welding Mask x1 + Refined Energy Crystal x200
+
+
+
+
+
+^008040[Safety Ring]^000000
+Description : A magical ring that protects its wearer, greatly reducing damage taken through mysterious power.
+DEF +10, MDEF +5, All Stats +1.
+Type : Accessory DEF : 0 Weight : 10
+Required Level : 50 Equippable by : All Jobs except Novice SLOT : 1
+^FF0000[Combination Materials]^000000
+Safety Ring x1, Ring[1] x1, Glove[1] x1, Earring[1] x1, Brooch[1] x1, Necklace[1] x1, Rosary[1] x1,
+Refined Energy Crystal x200
+
+
+
+
+
+
+
+
+^008040[Improved Angel’s Blessing]^000000
+Description : An angel’s robe made for Super Novices. The cozy fit that wraps your whole body is the best!
+MDEF +30. When worn with Improved Angel’s Protection: Neutral Property Resistance +5%.
+When all of the following are worn: Improved Angel’s Blessing, Improved Angel’s Descent, Improved Angel’s Protection, Improved Angel’s Warmth,
+Improved Angel’s Kiss: HP +900, SP +100,
+When receiving physical damage: Low chance to autocast Assumptio Lv.1 on yourself.
+Type : Armor DEF : 40 Weight : 60
+Required Level : 99 Equippable by : Novice Class SLOT : 1
+^FF0000[Combination Materials]^000000
+Angel’s Blessing x1, Refined Energy Crystal x100 OR High-Purity Energy Crystal x20
+
+^008040[Improved Angel’s Protection]^000000
+Description : An angel’s shield made for Super Novices. It holds sacred power to drive away evil.
+Damage taken from Demon monsters -5%, Damage taken from all properties except Neutral -5%.
+When worn with Improved Angel’s Descent: All Stats +2.
+Type : Shield DEF : 30 Weight : 40
+Required Level : 99 Equippable by : Novice Class SLOT : 1
+^FF0000[Combination Materials]^000000
+Angel’s Protection x1, Refined Energy Crystal x100 OR High-Purity Energy Crystal x20
+
+^008040[Improved Angel’s Descent]^000000
+Description : Angel sandals made for Super Novices. If you jump while wearing these sandals, it feels like you could leap all the way into the sky.
+MHP +500, MSP +100.
+When worn with Improved Angel’s Kiss: MATK +20.
+Type : Shoes DEF : 8 Weight : 30
+Required Level : 99 Equippable by : Novice Class SLOT : 1
+^FF0000[Combination Materials]^000000
+Angel’s Descent x1, Refined Energy Crystal x100 OR High-Purity Energy Crystal x20
+
+^008040[Improved Angel’s Warmth]^000000
+Description : An angel cardigan made for Super Novices.
+It warms you up when worn—like you wouldn’t catch a cold even if you slept outdoors.
+HP Recovery +50%.
+When worn with Improved Angel’s Blessing: AGI +5, Flee +10
+Type : Headgear DEF : 6 Position : Upper Weight : 40
+Required Level : 99 Equippable by : Novice Class SLOT : 1
+^FF0000[Combination Materials]^000000
+Angel’s Warmth x1, Refined Energy Crystal x100 OR High-Purity Energy Crystal x20
+
+
+
+
+^008040[Improved Angel’s Kiss]^000000
+Description : A headpiece blessed with an Angel’s Kiss for Super Novices.
+If you kiss this headpiece, it might count as an indirect kiss with an angel…
+SP Recovery +30%.
+When worn with Improved Angel’s Warmth: ATK +10
+Type : Headgear DEF : 6 Position : Upper Weight : 30
+Required Level : 99 Equippable by : Novice Class SLOT : 1
+^FF0000[Combination Materials]^000000
+Angel’s Kiss x1, Refined Energy Crystal x100 OR High-Purity Energy Crystal x20
+
+
+
+
+
+
+
+^008040[Enhanced Corsair]^000000
+Description : A large hat worn by pirate captains. Made extra large to emphasize a captain’s authority,
+it almost looks like a pirate ship drifting at sea. However, it’s quite worn.
+VIT +1, MHP +5%, At Refine +7: Neutral Property Resistance +1%, At Refine +9: MHP +3%
+Type : Headgear DEF : 10 Position : Upper Weight : 50
+Required Level : 99 Equippable by : All Jobs except Novice SLOT : 1
+^FF0000[Combination Materials]^000000
+Corsair x1, High-Purity Energy Crystal x300
+
+^008040[Enhanced Bone Helm]^000000
+Description : An extremely sturdy helm made of bone. Too heavy for just anyone to wear, but its defensive power is exceptional.
+Damage taken from Shadow-Property attacks +15%, Neutral Property Resistance +2%,
+At Refine +7: Neutral Property Resistance +2%, At Refine +9: Neutral Property Resistance +2%
+Type : Headgear DEF : 15 Position : Upper Weight : 80
+Required Level : 70 Equippable by : Swordsman Class/Merchant Class SLOT : 1
+^FF0000[Combination Materials]^000000
+Bone Helm[1] x1, High-Purity Energy Crystal x300
+
+
+^008040[Enhanced Angel Helm]^000000
+Description : A remarkable helm made by attaching wings crafted from gathered Angel Feathers
+to a high-defense helm. The creator is unknown.
+AGI +1, LUK +1, MDEF +3, At Refine +7: AGI +2, LUK +2, At Refine +9: ASPD +1
+Type : Headgear DEF : 10 Position : Upper Weight : 160
+Required Level : 99 Equippable by : 2nd Jobs and above/Taekwon Master/Soul Linker/Kagerou/Oboro SLOT : 1
+^FF0000[Combination Materials]^000000
+Angel Helm x1, High-Purity Energy Crystal x300
+
+^008040[Enhanced Sun God Hat]^000000
+Description : A hat highlighted by enormous golden wings symbolizing the sun.
+Don’t even try to figure out how anyone can walk after putting it on.
+STR +3, INT +2, ATK +10, MATK +10,
+At Refine +7: ATK +15, MATK +15, At Refine +9: ATK +15, MATK +15.
+Type : Headgear DEF : 4 Position : Upper, Middle Weight : 240
+Required Level : 99 Equippable by : 2nd Jobs and above/Taekwon Master/Soul Linker/Kagerou/Oboro SLOT : 1
+^FF0000[Combination Materials]^000000
+Sun God Hat x1, High-Purity Energy Crystal x1000 OR
+Sun God Hat[1] x1, High-Purity Energy Crystal x100
+
+
+
+
+^008040[Enhanced Variant Shoes]^000000
+Description : Shoes that still feel somehow off.
+You can sense the maker’s intention to challenge the will of the gods, but these improve upon the imperfect Mutant Shoes.
+MHP/MSP +12%, Additional DEF/MDEF increases based on refine level
+Type : Shoes DEF : 13 Weight : 50
+Required Level : 85 Equippable by : 2nd Jobs and above/Taekwon Master/Soul Linker/Kagerou/Oboro SLOT : 1
+^FF0000[Combination Materials]^000000
+Variant Shoes x1, High-Purity Energy Crystal x300
+
+
+
+
+
+
+
+
+
+
+
+^008040[Enhanced Ring of Flame Lord]^000000
+Description : A ring imbued with the power of the king of fire spirits. When worn, the surging spirit energy within
+is said to burst forth through your weapon.
+It is a pair with the Enhanced Ring of Resonance.
+STR +3, VIT +2, ATK +20, Fire-Property Resistance +10%
+On physical attack: Chance to trigger various autocast spells.
+When worn with Enhanced Ring of Resonance: Additional autocast effects.
+Type : Accessory DEF : 0 Weight : 10
+Required Level : 85 Equippable by : 2nd Jobs and above/Taekwon Master/Soul Linker/Kagerou/Oboro
+^FF0000[Combination Materials]^000000
+Ring of Flame Lord x1, High-Purity Energy Crystal x300
+
+
+
+
+
+
+
+
+^008040[Enhanced Ring of Resonance]^000000
+Description : A ring paired with the Enhanced Ring of Flame Lord.
+When worn together, the two rings resonate with each other, strengthening each other’s power.
+AGI +3, VIT +1, MDEF +2, MATK +10
+When receiving physical attacks: Chance to trigger various autocast spells.
+Type : Accessory DEF : 2 Weight : 10
+Required Level : 85 Equippable by : 2nd Jobs and above/Taekwon Master/Soul Linker/Kagerou/Oboro
+^FF0000[Combination Materials]^000000
+Ring of Resonance x1, High-Purity Energy Crystal x300

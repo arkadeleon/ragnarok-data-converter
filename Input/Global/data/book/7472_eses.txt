@@ -1,0 +1,44 @@
+%faf0e6
+^000088-No te asustes aunque te quedes a solas. Con esto, tú también podrás sobrevivir en cualquier lugar.-^000000
+
+¡Tú también puedes hacerlo! ¡Cocina de nivel 1!
+
+^FF0000Saltamontes salteado :^000000 Ya está cocinado, así que no te preocupes: no saltará dentro de tu boca.
+Ingredientes : ^4B0082Pata trasera de saltamontes 1 unidad, Aceite de cocina 1 unidad^000000
+Preparación : Calienta una sartén a fuego medio.
+(Si la sartén es nueva, el aceite tarda en impregnar el fondo, por lo que a veces se utiliza
+grasa de Savage para curarla..)
+Cuando esté suficientemente caliente, añade Aceite de cocina 2 cucharadas, incorpora Pata trasera 1 unidad y saltéala ligeramente.
+Cuando empiece a dorarse, añade la otra 1 unidad, agrega Aceite de cocina 1 cucharada más y saltéalo hasta que quede crujiente.
+
+^0000FFTé de hierbas con zumo de uva :^000000 ¡Solo tienes que triturar la uva con la poción y listo!
+Ingredientes : ^4B0082Uva 1 unidad, Poción roja 1 unidad^000000
+Preparación : Introduce en la batidora la uva y Poción roja 1 unidad, y tritúralas para obtener el zumo.
+¡La clave está en triturar también la piel y las semillas!
+Cuando esté suficientemente triturado, añade la otra 1 unidad y bátelo durante 10 segundos.
+
+
+
+^800000Zumo de uva con miel :^000000 ¡Con fresas, la uva queda aún mejor!
+Ingredientes : ^4B0082Fresa 1 unidad, Uva 1 unidad, Hierba roja 1 unidad^000000
+Preparación : Se prepara casi igual que el Té de hierbas con zumo de uva,
+pero la clave está en sustituir la Poción 1 unidad que se añade al final por una dulce fresa.
+
+^008040Sopa de huevas de rana :^000000 Una sopa acompañada de salsa.
+Ingredientes : ^4B0082Cereal 1 unidad, Huevas de rana 1 unidad^000000
+Preparación : Muele bien el cereal y déjalo preparado, y pon las huevas de rana en agua helada.
+(Se ponen en agua helada para que conserven una textura más elástica.)
+Añade el cereal bien molido a una cantidad adecuada de agua y cuécelo lentamente a fuego bajo hasta que espese;
+después, incorpora las huevas de rana que habías dejado en agua helada.
+Cuando las huevas de rana estén ligeramente cocidas, añade la salsa, deja que hierva una vez y sírvelo.
+
+^FF8040Pinza de cangrejo al vapor :^000000 ¡Lo divertido es sacar la carne del caparazón!
+Ingredientes : ^4B0082Pinza 1 unidad, Hierba verde 1 unidad, Poción roja 1 unidad^000000
+Preparación : Primero, deja la pinza bien marinada en Poción roja desde el día anterior.
+Coloca una tela en la vaporera, extiende encima la Hierba verde y cocina al vapor la pinza bien impregnada de sabor.
+
+^400080Cola de mono salteada :^000000 Puede parecer dura, pero no lo es en absoluto.
+Ingredientes : ^4B0082Cola de mono 1 unidad, Aceite de cocina 1 unidad^000000
+Preparación : Pela la cola de mono y córtala en trozos fáciles de comer de un solo bocado.
+Calienta una sartén a fuego medio, añade Aceite de cocina y saltea una cantidad adecuada.
+Si salteas demasiada cantidad de una vez, la carne se endurecerá, así que cocina solo una cantidad adecuada.

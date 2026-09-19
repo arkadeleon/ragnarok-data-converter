@@ -1,0 +1,123 @@
+%f5f5dc
+^000088Objetos de intercambio del oficial de logística del castillo de Prontera - Objetos consumibles^000000
+
+^FF0000[Mapa urbano]^000000
+Un mapa que guía por el interior de la ciudad.
+Al usarlo, activa Aumentar agilidad Nv. 1.
+¡Atención! - Si se usa durante el lanzamiento, el efecto no se activa.
+¡Atención! - Como consume HP 15, si no se dispone de al menos HP 15, el efecto no se activa y solo desaparece el Mapa urbano, así que ten cuidado.
+Peso: 1
+
+^FF0000[Agua bendita resplandeciente]^000000
+Reduce durante 3 minutos el daño recibido en la Cámara del Ritual y en el Dungeon de la Invasión de Prontera en 10%.
+Elimina Veneno, Maldición y Silencio, y recupera HP 1000.
+Peso: 1.5
+
+^FF0000[Llave de la prisión]^000000
+Lleva colgadas varias llaves viejas y mugrientas.
+Permite desplazarse al Dungeon de la prisión subterránea del castillo de Prontera.
+Peso: 1
+
+^FF0000[Insignia de Prontera]^000000
+Una insignia que tiene guardadas las coordenadas de Prontera.
+Al usarla, te envía a Prontera.
+Peso: 1
+
+
+^000088Objetos de intercambio del oficial de logística del castillo de Prontera - Objetos de armadura^000000
+
+^FF0000[Mapa urbano]^000000
+Un mapa que guía por el interior de la ciudad.
+Permite usar Aumentar agilidad Nv. 3.
+Tipo: Accesorio
+Defensa: 0
+Peso: 10
+Nivel necesario: 40
+Equipable por: todas las clases
+Ranura: 1
+
+^FF0000[Agua bendita resplandeciente]^000000
+Reduce el daño recibido en la Cámara del Ritual y en el Dungeon de la Invasión de Prontera en 20%.
+Cada 10 segundos, recupera HP 100 y SP 5.
+Tipo: Accesorio Defensa: 0
+Peso: 15
+Nivel necesario: 100
+Equipable por: todas las clases
+Ranura: 1
+
+^FF0000[Escudo de la Guardia Real]^000000
+El escudo de un caballero de la Guardia Real del reino.
+Permite usar 'Hechizo de escudo' Nv. 1.
+Al recibir daño físico cuerpo a cuerpo, cierta probabilidad de activar 'Asumptio' Nv. 3 sobre uno mismo.
+La probabilidad de activar 'Asumptio' Nv. 3 aumenta según el nivel de refinamiento.
+Por cada refinamiento 1, DEF +10, MDEF +1.
+Tipo: Escudo
+Defensa: 30
+Peso: 300
+Nivel necesario: 100
+Equipable por: todas las clases
+Ranura: 1
+
+^FF0000[Insignia de Prontera]^000000
+Permite usar la habilidad 'Regreso a Prontera'.
+Tras usarla una vez, no puede volver a usarse durante 15 minutos.
+Tipo: Accesorio
+Defensa: 0
+Peso: 10
+Nivel necesario: 40
+Equipable por: todas las clases
+
+^FF0000[Túnica de adulación]^000000
+Ropa de quienes no reparan en los medios para alcanzar sus objetivos.
+Permite usar Endure Nv. 1
+MATK + 50
+Si el nivel de quien la lleva es 120 o superior, MATK + 50 adicional
+Si el nivel de quien la lleva es 140 o superior, MATK + 50 adicional
+
+Al equiparla junto con la Capa del antiguo señor,
+MSP + 10%, por cada refinamiento 1 de la armadura, MSP + 1% adicional.
+FLEE + 10, por cada refinamiento 1 de la armadura, FLEE + 1 adicional.
+Al equiparla junto con la Capa de supervivencia,
+MHP + 10%, por cada refinamiento 1 de la armadura, MHP + 1% adicional.
+MATK + 2%, por cada refinamiento 1 de la armadura, MATK + 1% adicional.
+Tipo: Armadura
+Defensa: 0
+Peso: 10
+Nivel necesario: 100
+Equipable por: todas las clases
+Ranura: 1
+
+^FF0000[Túnica de invectivas]^000000
+Ropa de quienes son capaces de mantener conversaciones que hieren gravemente hasta el alma.
+Permite usar Mejorar concentración Nv. 1.
+Por cada refinamiento 1 de la armadura, ignora adicionalmente la defensa física de enemigos de tipo Humanoide, Demonio y Muerto viviente en 4%.
+Al equiparla junto con la Capa de Morrigane,
+ignora la defensa física de enemigos de tipo Humanoide, Demonio y Muerto viviente en 15%.
+LUK + 3, por cada refinamiento 1 de la armadura, LUK + 1 adicional.
+CRI + 10, por cada refinamiento 1 de la armadura, CRI + 1 adicional.
+Al equiparla junto con la Capa de Valkyrie,
+ignora la defensa física de enemigos de tipo Humanoide, Demonio y Muerto viviente en 15%.
+MHP + 10%, por cada refinamiento 1 de la armadura, MHP + 1% adicional.
+ATK + 2%, por cada refinamiento 1 de la armadura, ATK + 1% adicional.
+Tipo: Armadura
+Defensa: 0
+Peso: 10
+Nivel necesario: 100
+Equipable por: todas las clases
+Ranura: 1
+
+^FF0000[Adorno temporal de atuendo]^000000
+Da la sensación de estar atrapado en el tiempo que fluye.
+Tipo: Equipo de atuendo
+Defensa: 0
+Posición: Media
+Peso: 0
+Nivel necesario: 1
+Equipable por: todas las clases
+
+^FF0000[Mano negra del destino]^000000
+Da la sensación de que te agarran la cabeza y el destino juega contigo.
+Tipo: Equipo de atuendo Defensa: 0
+Posición: Superior Peso: 0
+Nivel necesario: 1
+Equipable por: todas las clases

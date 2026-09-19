@@ -1,0 +1,229 @@
+^4D4DFFTE Özel Kiralık Eşya Listesi^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+TE’deki tüm kiralık ekipmanlar diğer hesaplarla takas edilemez.
+TE’deki tüm kiralık ekipmanların kiralama süresi dolunca, envanterden otomatik olarak silinir.
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+[TE Kuşatma Katarı]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Kanama.
+Kategori : Katar Saldırı: 120
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Suikastçı Serisi
+
+[TE Kuşatma Baltası]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Donmuş.
+Kategori : Tek El Balta Saldırı: 100
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Çaylak/Kılıç Ustası Sınıfı/Tüccar Sınıfı/Hırsız Sınıfı
+
+[TE Kuşatma Çift Elli Baltası]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Sersemletme.
+Kategori : Çift El Balta Saldırı: 150
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Kılıç Ustası Sınıfı/Tüccar Sınıfı
+
+[TE Kuşatma Pike]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Lanet.
+Kategori : Tek El Mızrak Saldırı: 100
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Kılıç Ustası Sınıfı
+
+[TE Kuşatma Lansı]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Kör.
+Kategori : Çift El Mızrak Saldırı: 150
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Kılıç Ustası Sınıfı
+
+
+[TE Kuşatma Kitabı]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Büyü Saldırı Gücü +%5.
+Fiziksel saldırılarda yüksek olasılıkla Kör.
+İyileştirme Miktarı +%5.
+Kategori : Kitap Saldırı: 120
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Rahip Sınıfı/Bilge Sınıfı/Taekwon Ustası
+
+[TE Kuşatma Asası]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Büyü Saldırı Gücü +%10. Büyü saldırılarında yüksek olasılıkla Kör.
+İyileştirme Miktarı +%5.
+Kategori : Tek El Asa Saldırı: 50 Ağırlık: 0
+Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Acemi Sınıfı/Büyücü Sınıfı/Mürit Sınıfı/Soul Linker
+
+[TE Kuşatma Yumruk]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Donmuş.
+Kategori : Knuckle Saldırı: 150 Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Rahip Sınıfı/Keşiş Sınıfı
+
+[TE Kuşatma Enstrümanı]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Zehir.
+Kategori : Enstrüman Saldırı: 100
+
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Ozan’a Özel
+[TE Kuşatma Kamçısı]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Kör.
+Kategori : Kırbaç Saldırı: 100
+
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Dansçı’ya Özel
+[TE Kuşatma Bıçak]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Sessizlik.
+Kategori : Hançer Saldırı: 100 MATK + 100.
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40
+
+Kuşanabilir: Acemi Sınıfı/Kılıç Ustası Sınıfı/Büyücü Sınıfı/Okçu Sınıfı/Tüccar Sınıfı/Hırsız Sınıfı/Soul Linker/Ninja
+[TE Kuşatma Çift Elli Asası]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Büyü Saldırı Gücü +%20. Büyü saldırılarında yüksek olasılıkla Sersemletme.
+İyileştirme Miktarı +%5.
+Kategori : Çift El Asa Saldırı: 50 MATK + 130
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40
+
+Kuşanabilir: Acemi Sınıfı/Büyücü Sınıfı/Mürit Sınıfı/Soul Linker
+[TE Kuşatma Tabancası]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Lanet.
+Kategori : Tabanca Saldırı: 60
+
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Gunslinger
+[TE Kuşatma Tüfeği]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Sessizlik.
+Kategori : Tüfek Saldırı: 80
+
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Gunslinger
+[TE Kuşatma Gatling Gun]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Sersemletme.
+Kategori : Gatling Gun Saldırı: 100
+
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Gunslinger
+[TE Kuşatma Shotgun]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Zehir.
+Kategori : Shotgun Saldırı: 100
+
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Gunslinger
+[TE Kuşatma Grenade Launcher]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Kör.
+Kategori : Grenade Launcher Saldırı: 100
+
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Gunslinger
+[TE Kuşatma Huuma Shuriken]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Kanama.
+Kategori : Huuma Shuriken Saldırı: 80 MATK + 100.
+
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Ninja
+[TE Kuşatma Kılıcı]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Zehir.
+Kategori : Kılıç Saldırı: 120 MATK + 100.
+
+Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Çaylak/Kılıç Ustası Sınıfı/Tüccar Sınıfı/Hırsız Sınıfı[TE Kuşatma Topuzu]※ TE Kuşatma Bölgesi Ek SeçenekleriOyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Donmuş.İyileştirme Miktarı +%5.Kategori : Topuz Saldırı: 120Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40Kuşanabilir: Çaylak/Kılıç Ustası Sınıfı/Mürit Sınıfı/Tüccar Sınıfı[TE Kuşatma Yayı]※ TE Kuşatma Bölgesi Ek SeçenekleriOyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Lanet.Kategori : Yay Saldırı: 120Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Okçu Sınıfı/Hırsız/Haydut Sınıfı[TE Kuşatma İki Elli Kılıç]※ TE Kuşatma Bölgesi Ek SeçenekleriOyuncuya Fiziksel Saldırı Gücü +%40. Fiziksel saldırılarda yüksek olasılıkla Kanama.Kategori : Çift El Kılıç Saldırı: 150Ağırlık: 0 Silah Seviyesi: 3 Gerekli Seviye: 40 Kuşanabilir: Kılıç Ustası Sınıfı[TE Kuşatma Küçük Kalkan]※ TE Kuşatma Bölgesi Ek SeçenekleriMAXHP + 100, MAXSP + 100. Oyuncudan alınan hasar %15 azalır.Kategori : Kalkan Savunma : 15 MDEF + 15.Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Tüm Sınıflar[TE Kuşatma Kalkan]※ TE Kuşatma Bölgesi Ek SeçenekleriMAXHP + 200. Oyuncudan alınan hasar %20 azalır.Kategori : Kalkan Savunma: 25 MDEF + 5.Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Kılıç Ustası Sınıfı/Tüccar Sınıfı
+
+[TE Kuşatma Magic Guard]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+MAXSP + 200. Oyuncudan alınan hasar %10 azalır.
+Kategori : Kalkan Savunma: 5 MDEF + 25
+Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Acemi Sınıfı/Büyücü Sınıfı/Mürit Sınıfı/Soul Linker
+
+[TE Kuşatma Kaşkol]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel/Büyü Saldırı Gücü %5 artar. Donmaya Direnç %25 artar.
+Kategori : Pelerin Savunma : 5 MDEF + 5.
+Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Tüm Sınıflar
+
+[TE Kuşatma Pelerin]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel Saldırı Gücü %10 artar. Donmaya Direnç %25 artar.
+Kategori : Pelerin Savunma : 10
+Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Kılıç Ustası Sınıfı/Tüccar Sınıfı
+
+
+
+
+
+
+
+
+[TE Kuşatma Büyü Pelerin]※ TE Kuşatma Bölgesi Ek SeçenekleriOyuncuya Büyü Saldırı Gücü %10 artar.Donmaya Direnç %25 artar.Kategori : Pelerin Savunma : 5 MDEF + 5.Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Acemi Sınıfı/Büyücü Sınıfı/Mürit Sınıfı/Soul Linker[TE Korumanın Yüzüğü]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+MAXHP + 100. Oyuncudan alınan hasar %5 azalır.
+Kategori : Aksesuar Savunma : 0
+Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Tüm Sınıflar
+
+[TE Öfke Yüzüğü]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncuya Fiziksel/Büyü Saldırı Gücü %5 artar.
+Kategori : Aksesuar Savunma : 0
+Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Tüm Sınıflar
+
+[TE Direnişin Yüzüğü]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+Oyuncudan alınan hasar %5 azalır.
+Kategori : Aksesuar Savunma : 0 MDEF + 5.
+Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Tüm Sınıflar
+
+
+[TE Kuşatma Ayakkabı]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+MAXHP + 150, MAXSP + 150. Oyuncuya Fiziksel/Büyü Saldırı Gücü %5 artar.
+Donmaya Direnç %25 artar.
+
+Kategori : Ayakkabı Savunma : 5 MDEF + 5. Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Tüm Sınıflar
+[TE Kuşatma Çizme]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+MAXHP + 200, MAXSP + 100. Oyuncuya Fiziksel Saldırı Gücü %10 artar.
+Donmaya Direnç %25 artar.
+
+Kategori : Ayakkabı Savunma : 10 Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Kılıç Ustası Sınıfı/Tüccar Sınıfı
+[TE Kuşatma Büyü Sandalet]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+MAXHP + 100, MAXSP + 200. Oyuncuya Büyü Saldırı Gücü %5 artar.
+Donmaya Direnç %25 artar.
+Kategori : Ayakkabı Savunma : 5 MDEF + 5.
+
+Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Acemi Sınıfı/Büyücü Sınıfı/Mürit Sınıfı/Soul Linker
+[TE Kuşatma Longcoat]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+MAXHP + 250, MAXSP + 250. Oyuncudan alınan hasar %10 azalır.
+Donmaya Direnç %25 artar.
+
+Kategori : Zırh Savunma : 15 MDEF + 15. Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Tüm Sınıflar
+[TE Kuşatma Mail]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+MAXHP + 450, MAXSP + 50. Oyuncudan alınan hasar %15 azalır.
+Donmaya Direnç %25 artar.
+
+Kategori : Zırh Savunma : 25 MDEF + 5.Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Kılıç Ustası Sınıfı/Tüccar Sınıfı
+
+[TE Kuşatma Büyü Palto]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+MAXHP + 200, MAXSP + 300. Oyuncudan alınan hasar %5 azalır.
+
+
+Donmaya Direnç %25 artar.Kategori : Zırh Savunma : 5 MDEF + 25.Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Acemi Sınıfı/Büyücü Sınıfı/Mürit Sınıfı/Soul Linker
+[TE Kuşatma Cap]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+ATK + 5, MATK + 5. Oyuncuya Fiziksel/Büyü Saldırı Gücü %10 artar.
+Donmaya Direnç %25 artar.
+
+Kategori : Başlık Savunma: 5 MDEF + 5. Konum: Üst Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Tüm Sınıflar
+[TE Kuşatma Kemik Miğfer]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+ATK + 10. Oyuncuya Fiziksel Saldırı Gücü %20 artar. Donmaya Direnç %25 artar.
+Kategori : Başlık Savunma: 10 Konum: Üst
+
+Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Acemi Sınıfı
+[TE Kuşatma Magic Eyes]
+※ TE Kuşatma Bölgesi Ek Seçenekleri
+MATK + 10. Oyuncuya Büyü Saldırı Gücü %20 artar.
+Donmaya Direnç %25 artar.
+Kategori : Başlık Savunma: 5 MDEF + 5. Konum: Üst
+
+Ağırlık: 0 Gerekli Seviye: 40 Kuşanabilir: Acemi Sınıfı/Büyücü Sınıfı/Mürit Sınıfı/Soul Linker

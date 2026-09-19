@@ -1,0 +1,77 @@
+%faf0e6
+^000088One Who Creates Cooking Even in a Sealed Room^000000
+
+"There is always only one result! The dish is in this pot!!" A Level 6 recipe!
+A secret technique of the master chef grandpa, on his path to gourmet glory.
+
+^FF0000Shining Neobiani:^000000 Don’t worry—it doesn’t shine so brightly that you can’t eat it!
+Materials: ^4B00821 Meat, 1 Honey, 1 Yellow Herb, 1 Mastela Fruit, 1 Shining Scale^000000
+Cooking Method: Remove bones from the meat and tenderize it thoroughly with a meat mallet.
+          Place the meat on a wide plate and generously drizzle honey and Mastela fruit juice.
+          Pat it by hand so the seasoning soaks in well, then season lightly with salt and pepper.
+          Wrap the seasoned meat well with the shining scale and marinate for about a day.
+          Heat a grill rack or frying pan until hot, spread the marinated meat out, and grill.
+          Line a slightly concave wide plate with yellow herb and plate the grilled meat.
+
+^0000FFRed Mushroom Wine:^000000 Rest assured—it’s not that mushrooms grew because it was stored in a damp place!
+Materials: ^4B00821 Edible Mushroom, 1 Grape Juice, 1 Mushroom Spore, 1 Alcohol, 1 Red Spice^000000
+Cooking Method: Finely chop the edible mushroom.
+          Pour an appropriate amount of grape juice into a container,
+          sprinkle sliced mushrooms and spores little by little, layering them,
+          and let it sit for about 1 to 3 days.
+          Add a small amount of alcohol and red spice, seal the lid tightly,
+          then steep and age in a cool, dark place for about 3 months.
+          When aging is complete, remove the solids, filter until clear,
+          then bottle it to finish.
+
+^800000Peach Cake:^000000 The key is bringing out a soft peach flavor!
+Materials: ^4B00821 Very Hard Peach, 1 Slice of Cake, 1 Cheese, 1 Milk,
+         1 Orange Juice, 1 Sweet Sauce^000000
+Cooking Method: Prepare by leaving an appropriate amount of the slice cake’s sponge portion,
+          then gulp down the rest.
+          Slice the peach thinly into half-moon shapes.
+          Put sweet sauce and a little cheese into a pot and melt,
+          add the sliced peaches, simmer until softened, then cool at room temperature.
+          Butter a cake mold, sprinkle sugar, and set aside.
+          Finely chop the remaining cheese and the slice cake and mix,
+          then add eggs and milk and mix a bit more.
+          Pour the cooled peach compote together with syrup into the mold,
+          then pour the batter on top.
+          (Decoration is up to your preference.)
+          Bake at 160°C for 50 minutes to enjoy the taste of a soft peach cake.
+
+
+
+^008040Chili Shrimp Gratin:^000000
+Materials: ^4B00821 Red Chili, 1 Shrimp, 1 Sweet Sauce, 1 Lemon^000000
+Cooking Method: Peel the shrimp and prepare; juice the lemon using a squeezer.
+          Grind chili powder finely.
+          In a pan, add 5 tablespoons of water to the finely ground chili powder and add the shrimp to stir-fry,
+          then stir-fry a bit more while adding sweet sauce and lemon juice.
+          Butter a gratin dish, add the stir-fried shrimp, top with cheese,
+          bake for about 10 minutes in an oven preheated to 180°C,
+          then top with sliced lemon and serve.
+              
+
+^FF8040Extremely Bitter Tonic:^000000 Medicine to the pharmacist, treatment to the doctor...
+Materials: ^4B00821 Brown Root, 1 Man-Eating Plant Root, 1 Mushroom Spore, 1 Edible Mushroom, 1 Honey^000000
+Cooking Method: Dry the herbs well and slice them thinly with scissors or similar.
+          Put them into a decoction pot (or glass kettle), pour in 4–5 cups of cold water,
+          and wait 1–2 hours for the herbs to swell.
+          Then simmer gently over the lowest heat, and when the water begins to bubble against the herbs, turn off the heat.
+          Strain through fine cloth without squeezing, and drink only the clear decoction.
+          For a second brew, add water to the strained herbs and boil again.
+
+
+^400080Geoun-tang:^000000 A huge stroke of luck made purely by luck. It’s a (hot) lucky soup!
+Materials: ^4B00821 Reptile Tongue, 1 Long Thin Tongue, 1 Clover, 1 Witch’s Star Sand, 1 Aloe^000000
+Cooking Method: Blanch the reptile tongue and long thin tongue, rinse in cold water, and shred.
+          Peel the aloe and shred it.
+          Put the witch’s star sand into a wide pot and boil,
+          add the shredded tongues, and when the broth boils vigorously and they are somewhat cooked,
+          add clover and boil a little longer.
+
+
+^FF3366Level 6 Assorted Cuisine:^000000 The essence of Level 6 cooking
+Materials: ^4B00821 Shining Neobiani, 1 Red Mushroom Wine, 1 Peach Cake, 1 Chili Shrimp Gratin, 1 Extremely Bitter Tonic, 1 Geoun-tang^000000 
+Cooking Method: Gather all Level 6 dishes and serve them neatly as one large full-course spread.

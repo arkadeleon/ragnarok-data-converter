@@ -1,0 +1,56 @@
+[ Gildenerstellung ]
+1. Du musst ein Emperium besitzen.
+ 
+2. Während du ein Emperium besitzt,
+   gib im Chatfenster
+   „/guild (Gildenname)“ ein
+   oder klicke auf die Schaltfläche „Gilde erstellen“,
+   um eine Gilde zu gründen.
+ 
+3. Das Gildeninformationsfenster kann mit G (ALT+G) geöffnet werden.
+ 
+[ Gildeninformationsfenster ]
+1. Du kannst Informationen wie Gildenname, Erfahrung, Gildenlevel,
+   Gildenemblem, Name des Meisters, Mitgliederanzahl,
+   durchschnittliches Mitgliederlevel, Allianzen
+   und feindliche Gilden einsehen.
+ 
+2. Mitgliederinformationen:
+   Du kannst individuelle Informationen der Gildenmitglieder einsehen
+   und per Rechtsklick deinen eigenen Gildenaustritt verwalten.
+   Der Austritt ist nur durch das Mitglied selbst möglich,
+   zusätzlich kann der Gildenmeister Mitglieder ausschließen.
+ 
+3. Rängeinstellungen:
+   Du kannst die Abgabe von Gilden-EXP und die Ränge der Mitglieder festlegen.
+   Die Abgaberate kann bis zu 50 % betragen.
+   Bei Austritt aus der Gilde werden die abgegebenen EXP zurückgesetzt.
+ 
+4. Gildenskills:
+   Bei jedem Anstieg des Gildenlevels um 1
+   erhältst du 1 Skillpunkt,
+   der in Gildenskills investiert werden kann.
+ 
+5. Ausgeschlossene Mitglieder:
+   Zeigt eine Liste der aus der Gilde ausgeschlossenen Mitglieder
+   sowie die Gründe an.
+ 
+6. Der Gildenmeister kann verschiedene Ankündigungen
+   über das Chatfenster an die Mitglieder senden.
+ 
+[ Emblemregistrierung und -änderung ]
+1. Erstelle ein Emblem im 24x24-Pixel-Format
+   als 256-Farben-Bitmap (BMP).
+ 
+2. Erstelle im Ragnarok-Installationsverzeichnis
+   einen Ordner namens „Emblem“
+   und kopiere die Emblemdatei dort hinein.
+ 
+3. Klicke im Gildeninformationsfenster
+   auf die Bearbeiten-Schaltfläche am Emblem,
+   um es anzuwenden.
+ 
+4. Nur der Gildenmeister kann das Emblem ändern,
+   und es kann jederzeit geändert werden.
+ 
+#

@@ -1,0 +1,45 @@
+[ Guild Creation ]
+1. You must have an Emperium in your possession.
+ 
+2. While holding an Emperium, enter
+   '/guild (Guild Name)' in the chat window, or
+   click the 'Create Guild' button to create a guild.
+ 
+3. You can open the Guild Information window with G (ALT+G).
+ 
+[ Guild Information Window ]
+1. You can view information such as the guild name, experience, guild level, guild emblem,
+   master name, number of members, average member level, alliances, and enemy guilds.
+ 
+2. Member Information:
+   You can check individual information for guild members,
+   and right-click to manage leaving the guild.
+   Leaving the guild can only be done by the member themselves,
+   and expulsion by the guild master is also possible separately.
+ 
+3. Position Settings:
+   You can set members’ guild EXP contribution rate and positions.
+   The contribution rate can be set up to 50%.
+   Any EXP contributed to the guild is reset when leaving the guild.
+ 
+4. Guild Skills:
+   You receive 1 skill point for each guild level-up step,
+   and you can invest these points to use guild skills.
+ 
+5. Expelled Members:
+   Displays a list of members expelled from the guild and the reasons.
+ 
+6. The guild master can announce various notices to members through the chat window.
+ 
+[ Emblem Registration and Change ]
+1. Create an emblem in 24 x 24 pixels, 256-color bitmap (BMP) format.
+ 
+2. Create an Emblem folder in the Ragnarok installation directory,
+   and copy the emblem image file into it.
+ 
+3. In the Guild Information window, press the edit button where the emblem is displayed
+   to apply the emblem.
+ 
+4. Only the guild master can change the emblem,
+   and it can be changed at any time.
+#

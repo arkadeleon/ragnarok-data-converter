@@ -1,0 +1,56 @@
+%faf0e6
+^000088Transmutationskunst für Attributtränke zur Erhöhung der Resistenz^000000
+
+
+----------------Vorwort--------------------
+Während der Forschung an den vier Grundelementen Feuer, Wasser, Wind und Erde
+wurde ein Katalysator entdeckt, der vorübergehend die Resistenz gegen dasselbe Attribut erhöht.
+Daher halte ich in diesem Buch die Transmutationskunst für Attribut-Resistenztränke fest.
+Ich hoffe, dass dies beim Umgang mit den vier Elementen nützlich sein wird.
+------------------------------------------
+
+
+^FF0000Was ist ein Attribut-Resistenztrank^000000?
+
+Ein Trank, der die Resistenz gegen das jeweilige Attribut erhöht und den Schaden verringert.
+Achten Sie jedoch darauf, dass Sie dadurch gegen das entgegengesetzte Attribut
+noch größeren Schaden erleiden.
+
+
+
+
+^0000FFTrank gegen Feuer^000000 : Ein Trank, der die Resistenz gegen das Attribut Feuer erhöht.
+Zutaten : ^4B0082Echsennackenhaut 2 Stück, Roter Edelstein 1 Stück, Leere Trankflasche 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Geben Sie 2 Echsennackenhaut als Katalysator des Feuerattributs in die Schale.
+Lassen Sie sie mit dem Roten Edelstein chemisch reagieren und verwenden Sie Trankzubereitung,
+um den Trank herzustellen.
+
+
+
+
+^800000Trank gegen Kälte^000000 : Ein Trank, der die Resistenz gegen das Attribut Wasser erhöht.
+Zutaten : ^4B0082Herz der Meerjungfrau 3 Stück, Blauer Edelstein 1 Stück, Leere Trankflasche 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Geben Sie 3 Herzen der Meerjungfrau als Katalysator des Wasserattributs in die Schale.
+Lassen Sie sie mit dem Blauen Edelstein chemisch reagieren und verwenden Sie Trankzubereitung,
+um den Trank herzustellen.
+
+
+
+^008040Trank gegen Donner^000000 : Ein Trank, der die Resistenz gegen das Attribut Wind erhöht.
+Zutaten : ^4B0082Mottenflügelstaub 3 Stück, Blauer Edelstein 1 Stück, Leere Trankflasche 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Geben Sie 3 Flügel der Motte als Katalysator des Windattributs in die Schale.
+Lassen Sie sie mit dem Blauen Edelstein chemisch reagieren und verwenden Sie Trankzubereitung,
+um den Trank herzustellen.
+
+
+
+
+^FF8040Trank gegen Erde^000000 : Ein Trank, der die Resistenz gegen das Attribut Erde erhöht.
+Zutaten : ^4B0082Großes Jellopy 2 Stück, Gelber Edelstein 1 Stück, Leere Trankflasche 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Geben Sie 2 Großes Jellopy als Katalysator des Erdattributs in die Schale.
+Lassen Sie sie mit dem Gelben Edelstein chemisch reagieren und verwenden Sie Trankzubereitung,
+um den Trank herzustellen.

@@ -1,0 +1,72 @@
+%faf0e6
+^000088Wage dich an die verbotene legendäre Küche.
+Die erbarmungslose Reise eines Kochs, der mit seinem jüngeren Bruder den Geschmackssinn verlor.^000000
+Wer der legendären Küche nachjagt, sollte sich in Acht nehmen.
+Was am Ende des Geschmacks bleibt, ist...
+- Ultimatives Kochrezept Lv. 9 -
+
+
+^FF0000Sautierte Sehnen :^000000 Vergiss nicht: Auch Sehnen können zart sein!
+Zutaten : ^4B0082Sehne 1 Stück, Topf 1 Stück, Käse 1 Stück, Scharfe Soße 1 Stück, Kohle 1 Stück, Grünes Kraut 1 Stück, Tinte 1 Stück^000000
+Zubereitung : Die Sehne in 3-cm-Stücke schneiden und mit Salz und Pfeffer würzen.
+Einen Teil des Grünen Krauts kurz in kochendem Wasser blanchieren und in kaltem Wasser abschrecken, den Rest fein hacken.
+Tinte und Wasser in einen Topf geben, erhitzen und dann Scharfe Soße hinzufügen, bis eine sämige Soße entsteht.
+Die abgekühlten Kräuter und den Käse dazugeben und die Sehne goldbraun anbraten.
+Dabei die Kohle zur Glut werden lassen und alles bei sanfter Hitze garen.
+Die gegarte Sehne anrichten, die vorbereitete Soße darübergeben und mit gehacktem Grünem Kraut bestreuen.
+
+^0000FFTristan 12 Jahre :^000000 Fruchtwein mit Whisky-Feeling!
+Zutaten : ^4B0082Yggdrasil-Blatt 1 Stück, Orange 1 Stück, Alkohol 1 Stück, Gelée Royale 1 Stück, Blauer Trank 1 Stück,
+Gelbes Gewürz 1 Stück, Aloe-Blatt 1 Stück^000000
+Zubereitung : Die Orange mit einem Entsafter auspressen,
+das gut getrocknete Yggdrasil-Blatt, das Aloe-Blatt und Gelée Royale zusammen mit dem Blauen Trank mixen
+und dann Alkohol hinzufügen und fermentieren lassen. Nach 12 Jahren Reifung wird daraus Tristan 12 Jahre.
+Den Glasrand leicht mit Gelbem Gewürz bestreichen und Gelée Royale als Beilage servieren.
+
+^800000Himmlischer Fruchtsaft :^000000 Man fühlt sich, als würde man abheben – fliegen kann man aber nicht, also Vorsicht!
+Zutaten : ^4B0082Unreifer Apfel 1 Stück, Orange 1 Stück, Erdbeere 1 Stück, Rotes Gewürz 1 Stück,
+Tropische Banane 1 Stück, Traubensaft 1 Stück, Alkohol 1 Stück^000000
+Zubereitung : Apfel und Orange schälen und in 3 bzw. 4 Stücke schneiden.
+Die Erdbeeren entstielen, die Banane schälen und in passende Stücke schneiden.
+Die geschnittenen Früchte in den Mixer geben, etwa die Hälfte des Traubensafts hinzufügen und fein mixen.
+Sobald alles fein püriert ist, den restlichen Traubensaft und den Alkohol dazugeben und 30 Sekunden mixen.
+In ein Glas füllen und leicht mit Rotem Gewürz bestreuen.
+Mischt man beim Zubereiten Eis dazu,
+bleiben mehr Nährstoffe erhalten und der Geschmack wird besser.
+
+^008040Spezieller Fleischeintopf :^000000 Ganz sicher kein glühender Metallstempel!
+Zutaten : ^4B0082Fleisch 1 Stück, Gelée Royale 1 Stück, Sprossen 1 Stück, Milde Soße 1 Stück, Gelbes Kraut 1 Stück,
+Weißes Kraut 1 Stück, Rotes Kraut 1 Stück^000000
+Zubereitung : Das Fleisch etwa einen Tag in Reiswein einlegen, dann im Dämpfer etwa 2 Stunden garen und dünn aufschneiden.
+Gelée Royale und die Kräuter mundgerecht schneiden, die Sprossen blanchieren.
+Frühlingszwiebelöl in einem Topf erhitzen; sobald es heiß ist, Reiswein, Brühe, Gewürze, Salz, Pfeffer und Shaoxingwein hinzufügen.
+Dann alle vorbereiteten Zutaten hineingeben, luftdicht verschließen und etwa 3 Stunden dämpfen.
+
+
+^FF8040Suppe des aufsteigenden Drachen :^000000 So scharf, als würde man Feuer speien!
+Zutaten : ^4B0082Drachenhaut 1 Stück, Drachenschwanz 1 Stück, Yggdrasil-Blatt 1 Stück, Gelée Royale 1 Stück, Scharfe Soße 1 Stück,
+Rotes Gewürz 1 Stück, praller Regenwurm 1 Stück^000000
+Zubereitung : Die Drachenhaut ist zäh, daher ausreichend einschneiden.
+Den Drachenschwanz in mundgerechte Stücke schneiden.
+Gelée Royale in dicke Halbmondscheiben schneiden und das Yggdrasil-Blatt schräg schneiden.
+Den gewaschenen prallen Regenwurm in einen Topf geben, Wasser hinzufügen und etwa 10 Minuten sprudelnd kochen.
+Sobald die Brühe gezogen hat, den Regenwurm herausnehmen.
+Scharfe Soße und Rotes Gewürz gleichmäßig in die Brühe einrühren
+und dann Drachenhaut, Drachenschwanz und Gelée Royale hinzufügen und kochen.
+Wenn die Brühe kräftig kocht und Haut sowie Schwanz fast gar sind,
+das vorbereitete Yggdrasil-Blatt hinzufügen, einmal kurz aufkochen und servieren.
+
+^400080Blutgeschmack-Limonade :^000000 Bekannt als der Geschmack, an einem Stahlschreibtisch zu lecken.
+Zutaten : ^4B0082Tierblut 1 Stück, Anodynenan 1 Stück, Aloe Vera 1 Stück, Alkohol 1 Stück, Gelée Royale 1 Stück,
+Rotes Gewürz 1 Stück, Apfelsaft 1 Stück^000000
+Zubereitung : Eine Aloe Vera fein schneiden, lauwarmes Wasser von etwa 20 Grad dazugeben und 5 Minuten ziehen lassen.
+Nach 5 Minuten Zucker und die fein geschnittene zweite Aloe Vera zusammen mit Wasser in eine
+etwa 3,7-Liter-Flasche geben und 2 Minuten kräftig schütteln (bis sich der Zucker vollständig gelöst hat).
+Danach den Deckel fest verschließen und 4–6 Tage fermentieren lassen.
+Gelée Royale in passende Stücke schneiden und zusammen mit Apfelsaft mixen,
+dann das oben fermentierte Sodawasser sowie Alkohol und AnodyneMant hinzufügen und 30 Sekunden mixen,
+in ein Glas füllen und leicht mit Rotem Gewürz bestreuen.
+
+^FF3366Gemischtes Gericht Lv. 9 :^000000 Die Essenz der Küche auf Lv. 9
+Zutaten : ^4B0082Sautierte Sehnen 1 Stück, Tristan 12 Jahre 1 Stück, Himmlischer Fruchtsaft 1 Stück, Spezieller Fleischeintopf 1 Stück, Suppe des aufsteigenden Drachen 1 Stück, Blutgeschmack-Limonade 1 Stück^000000
+Zubereitung : Alle Gerichte der Stufe 9 sammeln und als großes Festmahl ordentlich anrichten.

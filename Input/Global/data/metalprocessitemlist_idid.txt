@@ -1,0 +1,327 @@
+501#
+1 Red Herb
+1 Empty Potion Bottle
+#
+503#
+1 Yellow Herb
+1 Empty Potion Bottle
+#
+504#
+1 White Herb
+1 Empty Potion Bottle
+#
+505#
+1 Blue Herb
+1 Cell
+1 Empty Potion Bottle
+#
+545#
+1 Red Potion
+1 Empty Test Tube
+1 Cactus Needle
+#
+546#
+1 Yellow Potion
+1 Empty Test Tube
+1 Mole Whisker
+#
+547#
+1 White Potion
+1 Empty Test Tube
+1 Witch's Star Sand
+#
+605#
+1 Ment
+1 Alcohol
+1 Empty Bottle
+#
+606#
+1 Aloe
+1 Honey
+1 Empty Bottle
+#
+970#
+5 Plant Stem
+1 Empty Bottle
+5 Poison Mushroom Spore
+1 Empty Test Tube
+#
+994#
+10 Red Blood
+#
+995#
+10 Crystal Blue
+#
+996#
+10 Wind of Verdure
+#
+997#
+10 Green Live
+#
+998#
+1 Iron Ore
+#
+999#
+5 Iron
+1 Coal
+#
+1000#
+10 Star Powder
+#
+1101#
+2 Iron
+#
+1104#
+30 Iron
+#
+1107#
+45 Iron
+25 Bat Fang
+#
+1110#
+20 Steel
+#
+1113#
+35 Steel
+#
+1116#
+35 Iron
+15 Dead Man's Tooth
+#
+1119#
+8 Oridecon
+15 Steel
+1 Garnet
+#
+1122#
+40 Steel
+50 Wolf Claw
+#
+1123#
+8 Oridecon
+10 Steel
+1 Topaz
+#
+1126#
+8 Oridecon
+5 Steel
+1 Opal
+#
+1129#
+16 Oridecon
+1 Ruby
+#
+1151#
+25 Steel
+20 Dead Man's Nail
+#
+1154#
+45 Steel
+#
+1157#
+12 Oridecon
+10 Steel
+#
+1160#
+12 Oridecon
+20 Steel
+#
+1163#
+16 Oridecon
+20 Steel
+1 Diamond
+#
+1201#
+1 Iron
+10 Jellopy
+#
+1204#
+25 Iron
+#
+1207#
+50 Iron
+#
+1210#
+17 Steel
+#
+1213#
+30 Steel
+#
+1216#
+40 Steel
+#
+1219#
+4 Oridecon
+40 Steel
+1 Sapphire
+#
+1222#
+4 Oridecon
+60 Steel
+1 Zircon
+#
+1301#
+10 Iron
+#
+1330#
+2 Mithril Ore, 15 Steel
+18 Oridecon, 1 Twilight Jellostone
+#
+1351#
+110 Iron
+#
+1354#
+30 Steel
+#
+1357#
+4 Oridecon
+20 Steel
+30 Orc Fang
+#
+1360#
+8 Oridecon
+10 Steel
+1 Amethyst
+#
+1401#
+3 Iron
+#
+1404#
+35 Iron
+#
+1407#
+70 Iron
+#
+1410#
+12 Oridecon
+3 Ruby
+2 Demon Horn
+#
+1451#
+25 Steel
+#
+1454#
+40 Steel
+#
+1457#
+55 Steel
+#
+1460#
+8 Oridecon
+10 Steel
+5 Aquamarine
+#
+1463#
+12 Oridecon
+10 Steel
+#
+1501#
+3 Iron
+#
+1504#
+30 Iron
+#
+1507#
+20 Steel
+#
+1510#
+33 Steel
+#
+1513#
+85 Steel
+1 Diamond
+#
+1516#
+100 Steel
+20 Sharp Scale
+#
+1519#
+45 Steel
+#
+1522#
+120 Steel
+1 Orc Hero's Proof
+#
+1801#
+160 Iron
+1 Pearl
+#
+1803#
+50 Steel
+#
+1805#
+65 Steel
+#
+1807#
+4 Oridecon
+10 Ruby
+#
+1809#
+8 Oridecon
+10 Topaz
+#
+1811#
+4 Oridecon
+10 Opal
+#
+1860#
+2 Mithril Ore, 15 Steel
+18 Oridecon, 1 Blood-Soaked Ruby
+#
+7135#
+1 Alcohol
+1 Transparent Cloth
+1 Empty Bottle
+#
+7136#
+1 Never-Ending Heart
+1 Empty Bottle
+#
+7137#
+2 Man-Eating Plant Flower
+1 Empty Bottle
+#
+7138#
+1 Detonator
+1 Tendon
+1 Empty Bottle
+#
+7139#
+1 Alcohol
+1 Zenorc Fang
+1 Mermaid's Heart
+1 Empty Bottle
+#
+13491#
+2 Mithril Ore, 15 Steel
+18 Oridecon, 1 Brilliant Light Opal
+#
+16086#
+2 Mithril Ore, 15 Steel
+18 Oridecon, 1 Blue Sea Sapphire
+#
+21045#
+2 Mithril Ore, 15 Steel
+22 Oridecon, 1 Zephyr Jellostone
+#
+26020#
+2 Mithril Ore, 15 Steel
+22 Oridecon, 1 Chaos Jellostone
+#
+28134#
+2 Mithril Ore, 15 Steel
+22 Oridecon, 1 Cursed Emerald
+#
+28752#
+2 Mithril Ore, 15 Steel
+18 Oridecon, 1 Crimson Jellostone
+#
+32016#
+2 Mithril Ore, 15 Steel
+18 Oridecon, 1 Twilight Jellostone
+#
+100371#
+1 Seed of Life
+1 Yellow Herb
+1 Empty Bottle
+#

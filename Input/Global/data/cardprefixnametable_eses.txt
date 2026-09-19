@@ -1,0 +1,264 @@
+4001#Afortunado#
+4002#Vital#
+4003#Duro#
+4004#Diestro#
+4006#Afortunado#
+4007#Observador#
+4008#Extra#
+4009#Ligero#
+4010#Sabio#
+4011#Dinámico#
+4012#Rígido#
+4013#Excelente#
+4014#de Campeón#
+4015#Rápido#
+4016#Veloz#
+4017#Aturdimiento#
+4019#Mártir#
+4020#Destello#
+4021#Hábil#
+4022#de Espora#
+4023#del Desierto#
+4024#Somnoliento#
+4025#Agudo#
+4026#Astuto#
+4027#Atlético#
+4028#Doble fuerza#
+4029#Lobezno#
+4030#Ventoso#
+4031#de Marse#
+4032#de Atenea#
+4033#de Desintoxicación#
+4034#Alerta#
+4035#Sangriento#
+4036#Robusto#
+4037#Intocable#
+4038#de recuperación#
+4039#de Aristo#
+4040#Teletransporte#
+4041#de Hombre de Arena#
+4042#de He-Man#
+4043#Huracán#
+4044#Ocultarse#
+4045#Pesado#
+4046#del clérigo#
+4047#Fantasmal#
+4048#Venenoso#
+4049#Llameante#
+4050#de Hermes#
+4051#del destello#
+4052#Erudito#
+4053#Curar#
+4054#Sagrado#
+4055#Gélido#
+4056#del calor#
+4057#Silencio#
+4058#Craneal#
+4060#Clamoroso#
+4061#Inmortal#
+4063#Insecticida#
+4064#Ágil#
+4066#Brutal#
+4067#Atómico#
+4068#Químico#
+4069#Sahárico#
+4070#de la bruja#
+4071#Angélico#
+4072#Sólido#
+4073#Descuento#
+4074#de Gargantúa#
+4075#Hipnótico#
+4076#Maldito#
+4077#Bajo un hechizo#
+4078#de Recuperación#
+4079#de poder#
+4080#Pescador#
+4081#Glorioso#
+4084#Mina Explosiva#
+4085#Condenado#
+4086#Crítico#
+4087#Orden#
+4088#Guardia#
+4089#Acuático#
+4090#Amuleto#
+4092#Vinculado#
+4093#Curar#
+4094#Ave regia#
+4095#del genio#
+4096#Venenoso#
+4097#Verde#
+4098#de Céfiro#
+4099#de Ifrit#
+4100#Alma encantada#
+4101#del gnomo#
+4102#Burlón#
+4103#Clarividente#
+4104#Caos#
+4105#Incongelable#
+4106#Antiguo#
+4107#Apestado#
+4108#Inofensivo#
+4109#Guardallamas#
+4110#de la víbora#
+4111#Cruzado#
+4112#Intrépido#
+4113#del fantasma#
+4114#Envenenado#
+4116#Divino#
+4117#Híbrido#
+4118#Dragón#
+4119#Maligno#
+4120#del dragón#
+4122#Duradero#
+4123#del portador#
+4124#del yesero#
+4125#Acuático#
+4126#Titán#
+4127#Insomne#
+4129#de Pícaro#
+4133#Inmune#
+4135#Espejo#
+4136#del infierno#
+4137#del infinito#
+4138#Satánico#
+4139#de Luz de Luna#
+4140#Liberación#
+4141#Mortal#
+4143#Neutral#
+4147#Esciforme#
+4148#de Kirin#
+4149#del cielo despejado#
+4152#Jugoso#
+4153#Cáncer#
+4155#Goblin letal#
+4156#Llama letal#
+4157#Golpe contundente#
+4159#de nivel alto#
+4164#del pescador#
+4167#Ganancia de almas de bestias#
+4168#de la perdición#
+4169#del maestro de hechizos#
+4170#de endurecimiento#
+4171#Drenaje de Almas#
+4177#de la piedra verde#
+4178#del maestro arquero#
+4179#Luz intensa#
+4180#Ganancia de almas dracónica#
+4183#Hombre lobo#
+4185#Sabiduría#
+4186#Tenaz#
+4187#del atardecer siniestro#
+4188#de la piedra roja#
+4189#de la mala suerte#
+4190#del hacedor de risas#
+4192#Piscis letal#
+4194#de Aturdimiento#
+4196#de Jellopy#
+4197#Muy afortunado#
+4199#de la carrera#
+4200#de resistencia al poder mágico#
+4201#Aturdimiento vinculante#
+4203#Ardiente#
+4205#del cubo azul#
+4206#Cúbico#
+4210#Presión#
+4211#Experto#
+4212#Retroceso#
+4213#Silencioso#
+4216#de congelación#
+4219#de la piedra mágica#
+4222#del sueño#
+4223#Resistencia al Aturdimiento#
+4225#Tiro#
+4226#de nivel alto#
+4229#Más rápido#
+4234#de Alma Pura#
+4235#del ángel caído#
+4236#de protección#
+4237#de la gracia divina#
+4238#del doble poder#
+4240#de resistencia al poder mágico#
+4244#del buscador#
+4247#Estrella de mar#
+4248#Cruz resplandeciente#
+4249#del exorcista#
+4251#Invasor#
+4252#del trébol de cuatro hojas#
+4253#de la Guardia Real#
+4255#Golpe#
+4256#Deseado#
+4257#Ala#
+4259#de la naturaleza#
+4260#Protección contra confusión#
+4261#Protección contra sangrado#
+4264#Relámpago#
+4266#Resistencia mágica#
+4268#Extendido#
+4271#de la piedra amarilla#
+4273#Coraza#
+4274#Ganancia de almas de no muertos#
+4275#del exterminador de no muertos#
+4277#del maestro de tiro#
+4283#Lanza de maná#
+4284#Toque suave#
+4285#Encantado por los elfos#
+4288#de nivel alto#
+4289#Ganancia de almas de plantas#
+4293#Oportunidad#
+4296#Codicia#
+4297#Embolsado#
+4298#del caos#
+4299#Guardián#
+4300#de carga venenosa#
+4302#de alto riesgo#
+4306#del rey#
+4307#Ganancia de almas de Xiphos#
+4308#Drenaje de fuerza#
+4309#Cobertura resistente#
+4310#Mal letal#
+4312#Espíritu#
+4313#de Borg#
+4314#Protección del armazón#
+4315#de la maldición pétrea#
+4317#Aura#
+4322#de contraataque#
+4323#Escarcha#
+4326#del olor a pescado#
+4329#Ganancia de almas#
+4375#de nivel muy alto#
+4377#de dulzura#
+4545#Novato#
+27153#de DEF#
+27154#de bloqueo#
+27206#del berserker#
+27207#Apresurado#
+27208#de la eternidad#
+27266#Malicioso#
+27267#Perfecto#
+27268#Espiritual#
+27270#de Joker#
+27271#de la hechicera#
+27272#de Jennifer#
+27273#Asalto pesado#
+27274#Astuto#
+27275#Luz meteórica#
+300547#del acechador#
+300550#de Fei-Chai#
+300551#de Aji#
+300618#Kung Fu Panda#
+300737#de Mallas#
+300740#de la ciudad fronteriza#
+300741#de la ciudad de Playa#
+300742#de Glast Heim#
+300834#Tiburón Bebé#
+300835#Familia Tiburón#
+300936#de Fuerza de Nord#
+300937#de Suerte de Nord#
+300938#Gema#
+300939#de Vitalidad de Nord#
+300940#de Inteligencia de Nord#
+300941#de Destreza de Nord#
+300942#de Agilidad de Nord#
+300943#Boulder Mágico#
+300944#Boulder Fatal#
+300964#del Maestro Boulder#

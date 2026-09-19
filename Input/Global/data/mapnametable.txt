@@ -1,0 +1,850 @@
+// ==========================================================================
+// mapNameTable.txt
+// ==========================================================================
+prt_cas.rsw#프론테라 중앙궁#
+prt_pri00.rsw#프론테라 감옥#
+iz_ac01.rsw#아카데미1층#
+iz_ac02.rsw#아카데미2층#
+moc_para01.rsw#모로크 낙원단 내부#
+treasure_n1.rsw#이즈루드 난파선 1층#
+treasure_n2.rsw#이즈루드 난파선 2층#
+itemmall.rsw#아이템 몰#
+um_dun01.rsw#움발라 나무 속의 목공소#
+um_dun02.rsw#움발라 나무 속의 이계 통로#
+um_in.rsw#움발라 내부#
+um_fild01.rsw#움발라 루루카 숲#
+um_fild02.rsw#움발라 훔가 숲#
+um_fild03.rsw#움발라 카라라 늪#
+um_fild04.rsw#움발라 훔가 정글#
+umbala.rsw#우탄족마을 움발라#
+pay_gld.rsw#청림 호수#
+alde_gld.rsw#알데바란 위성도시 루이나#
+gef_fild13.rsw#브리토리아#
+prt_gld.rsw#발키리 렐름#
+cmd_in02.rsw#코모도 내부#
+cmd_in01.rsw#코모도 내부#
+comodo.rsw#해변도시 코모도#
+//beach_dun.rsw#코모도 서쪽 동굴 카루#
+beach_dun2.rsw#코모도 북쪽 동굴 루안다#
+beach_dun3.rsw#코모도 동쪽 동굴 마오#
+cmd_fild01.rsw#코모도 파푸치카 숲#
+cmd_fild02.rsw#코모도 코코모 해변#
+cmd_fild03.rsw#코모도 지나이 늪#
+cmd_fild04.rsw#코모도 코코모 해변#
+cmd_fild06.rsw#요새도시 산다르만 서쪽 지역#
+cmd_fild07.rsw#파로스 등대섬#
+cmd_fild08.rsw#요새도시 산다르만 동쪽 지역#
+cmd_fild09.rsw#요새도시 산다르만 남쪽 지역#
+//xmas_in.rsw#루티에 내부#
+//xmas_dun02.rsw#루티에 장난감 분류소#
+//xmas_dun01.rsw#루티에 장난감 공장 창고#
+//xmas_fild01.rsw#루티에 필드#
+//xmas.rsw#눈의 마을 루티에(Lutie)#
+mjolnir_01.rsw#묘르닐 산맥 북쪽 지역#
+mjolnir_02.rsw#묘르닐 산맥 북쪽 지역#
+mjolnir_03.rsw#묘르닐 산맥 북쪽 지역#
+mjolnir_04.rsw#묘르닐 산맥 북쪽 지역#
+mjolnir_05.rsw#묘르닐 산맥 북쪽 지역#
+mjolnir_06.rsw#묘르닐 산맥 남쪽 지역#
+mjolnir_07.rsw#묘르닐 산맥 남쪽 지역#
+mjolnir_08.rsw#묘르닐 산맥 남쪽 지역#
+mjolnir_09.rsw#묘르닐 산맥 남쪽 산기슭#
+mjolnir_10.rsw#묘르닐 산맥 남쪽 지역#
+mjolnir_11.rsw#묘르닐 산맥 남쪽 지역#
+mjolnir_12.rsw#묘르닐 산맥 북쪽 산기슭#
+prt_fild00.rsw#프론테라 필드#
+prt_fild01.rsw#프론테라 필드#
+prt_fild02.rsw#프론테라 필드#
+prt_fild03.rsw#프론테라 필드#
+prt_fild04.rsw#프론테라 필드#
+prt_fild05.rsw#프론테라 필드#
+prt_fild06.rsw#프론테라 필드#
+prt_fild07.rsw#프론테라 필드#
+prt_fild08.rsw#프론테라 필드#
+prt_fild09.rsw#프론테라 필드#
+prt_fild10.rsw#프론테라 필드#
+prt_fild11.rsw#프론테라 필드#
+prt_monk.rsw#성 카피톨리나 수도원#
+gef_fild00.rsw#게펜 필드#
+gef_fild01.rsw#게펜 필드#
+gef_fild02.rsw#게펜 필드#
+gef_fild03.rsw#게펜 필드#
+gef_fild04.rsw#게펜 필드#
+gef_fild05.rsw#집시 마을#
+gef_fild06.rsw#게펜 필드#
+gef_fild07.rsw#게펜 필드#
+gef_fild08.rsw#게펜 필드#
+gef_fild09.rsw#게펜 필드#
+gef_fild10.rsw#오크 마을#
+in_orcs01.rsw#오크 마을 실내#
+gef_fild11.rsw#게펜 필드#
+moc_fild01.rsw#소그라트 사막#
+moc_fild02.rsw#소그라트 사막#
+moc_fild03.rsw#소그라트 사막#
+moc_fild07.rsw#소그라트 사막#
+moc_fild11.rsw#소그라트 사막#
+moc_fild12.rsw#소그라트 사막#
+moc_fild13.rsw#소그라트 사막#
+moc_fild16.rsw#소그라트 사막#
+moc_fild17.rsw#소그라트 사막#
+moc_fild18.rsw#소그라트 사막#
+//moc_fild19.rsw#소그라트 사막#
+pay_fild01.rsw#페이욘 숲 속#
+pay_fild02.rsw#페이욘 숲 속#
+pay_fild03.rsw#페이욘 숲 속#
+pay_fild04.rsw#소그라트 사막#
+pay_fild06.rsw#페이욘 숲 속#
+pay_fild07.rsw#페이욘 숲 속#
+pay_fild08.rsw#페이욘 숲 속#
+pay_fild09.rsw#페이욘 숲 속#
+pay_fild10.rsw#페이욘 숲 속#
+anthell01.rsw#모로크 개미지옥 던전 1층#
+anthell02.rsw#모로크 개미지옥 던전 2층#
+gef_dun00.rsw#게펜 지하 던전 1층#
+gef_dun01.rsw#게펜 지하 던전 2층#
+gef_dun02.rsw#게펜 지하 던전 3층#
+iz_dun00.rsw#이즈루드 해저동굴 던전 1층#
+iz_dun01.rsw#이즈루드 해저동굴 던전 2층#
+iz_dun02.rsw#이즈루드 해저동굴 던전 3층#
+//iz_dun03.rsw#이즈루드 해저동굴 던전 4층#
+//iz_dun04.rsw#이즈루드 해저동굴 던전 5층#
+//in_sphinx1.rsw#모로크 스핑크스 지하 1층#
+//in_sphinx2.rsw#모로크 스핑크스 지하 2층#
+//in_sphinx3.rsw#모로크 스핑크스 지하 3층#
+//in_sphinx4.rsw#모로크 스핑크스 지하 4층#
+//in_sphinx5.rsw#모로크 스핑크스 지하 5층#
+moc_pryd01.rsw#모로크 피라미드 1층#
+moc_pryd02.rsw#모로크 피라미드 2층#
+moc_pryd03.rsw#모로크 피라미드 3층#
+moc_pryd04.rsw#모로크 피라미드 4층#
+moc_pryd05.rsw#모로크 피라미드 지하 1층#
+moc_pryd06.rsw#모로크 피라미드 지하 2층#
+moc_prydb1.rsw#도둑 길드#
+//mjo_dun01.rsw#묘르닐 폐광 1층#
+//mjo_dun02.rsw#묘르닐 폐광 2층#
+//mjo_dun03.rsw#묘르닐 폐광 3층#
+orcsdun01.rsw#게펜 오크 지하 동굴 1층#
+orcsdun02.rsw#게펜 오크 지하 동굴 2층#
+pay_dun00.rsw#페이욘 동굴 1층#
+pay_dun01.rsw#페이욘 동굴 2층#
+pay_dun02.rsw#페이욘 동굴 3층#
+pay_dun03.rsw#페이욘 동굴 4층(폐가촌)#
+pay_dun04.rsw#페이욘 동굴 5층(폐가촌)#
+//prt_maze01.rsw#프론테라 미궁 숲 1층#
+//prt_maze02.rsw#프론테라 미궁 숲 2층#
+//prt_maze03.rsw#프론테라 미궁 숲 3층#
+prt_sewb1.rsw#프론테라 지하 수로 1층#
+prt_sewb2.rsw#프론테라 지하 수로 2층#
+prt_sewb3.rsw#프론테라 지하 수로 3층#
+prt_sewb4.rsw#프론테라 지하 수로 4층#
+treasure01.rsw#알베르타 침몰선 1층#
+treasure02.rsw#알베르타 침몰선 2층#
+alb_ship.rsw#알베르타 선박 내부#
+alberta.rsw#항구도시 알베르타#
+alberta_in.rsw#알베르타 내부#
+alb2trea.rsw#침몰선 부근의 섬#
+aldebaran.rsw#국경도시 알데바란#
+aldeba_in.rsw#알데바란 내부#
+gef_tower.rsw#게펜 중앙탑#
+geffen.rsw#마법도시 게펜#
+geffen_in.rsw#게펜 내부#
+moc_ruins.rsw#모로크 유적지#
+morocc.rsw#사막도시 모로크#
+morocc_in.rsw#모로크 내부#
+pay_arche.rsw#페이욘 궁수마을#
+payon.rsw#산악도시 페이욘#
+payon_in01.rsw#페이욘 내부#
+payon_in02.rsw#페이욘 내부#
+payon_in03.rsw#페이욘 내부#
+prontera.rsw#룬미드가츠 왕국 수도 프론테라#
+prt_in.rsw#프론테라 내부#
+prt_castle.rsw#프론테라 성 내부#
+prt_church.rsw#프론테라 성당 내부#
+izlude.rsw#위성도시 이즈루드#
+izlude_in.rsw#이즈루드 내부#
+izlu2dun.rsw#바이아란 섬#
+monk_in.rsw#성 카피톨리나 수도원 내부#
+//glast_01.rsw#글래스트헤임#
+//gl_cas01.rsw#글래스트헤임 성 1층#
+//gl_cas02.rsw#글래스트헤임 성 2층#
+//gl_church.rsw#수도원#
+//gl_chyard.rsw#지하 묘지#
+//gl_dun01.rsw#지하 동굴 1층#
+//gl_dun02.rsw#지하 동굴 2층#
+//gl_in01.rsw#글래스트헤임 실내#
+//gl_knt01.rsw#기사단 1층#
+//gl_knt02.rsw#기사단 2층#
+//gl_prison.rsw#지하 감옥 1층#
+//gl_prison1.rsw#지하 감옥 2층#
+//gl_sew01.rsw#지하 수로 1층#
+//gl_sew02.rsw#지하 수로 2층#
+//gl_sew03.rsw#지하 수로 3층#
+//gl_sew04.rsw#지하 수로 4층#
+//gl_step.rsw#계단 던전#
+//alde_dun01.rsw#시계탑 지하 1층#
+//alde_dun02.rsw#시계탑 지하 2층#
+//alde_dun03.rsw#시계탑 지하 3층#
+//alde_dun04.rsw#시계탑 지하 4층#
+//c_tower1.rsw#시계탑 지상 1층#
+//c_tower2.rsw#시계탑 지상 2층#
+//c_tower3.rsw#시계탑 지상 3층#
+//c_tower4.rsw#시계탑 지상 4층#
+
+// 2차 전직 장소 누락 부 - 내비 이슈
+alde_alche.rsw#알케미스트 전직소#
+in_moc_16.rsw#어새신 길드#
+in_rogue.rsw#로그 길드 내부#
+in_hunter.rsw#헌터 전직소#
+job_duncer.rsw#코모도 소극장#
+
+// EP 1-1
+pay_dc01.rsw#페이욘 동굴 1층#
+pay_dc02.rsw#비밀 장소#
+prt_ca01.rsw#프론테라 성 지하 1층#
+prt_ca02.rsw#프론테라 성 지하 2층#
+
+// 프론테라 훈련장
+tra_fild.rsw#프론테라 외곽 훈련장#
+
+// 프론테라 시장
+prt_mk.rsw#프론테라 시장 거리#
+//pay_mk.rsw#페이욘 시장거리#
+prt_mk_g1.rsw#프론테라 시장 거리#
+prt_mk_g2.rsw#프론테라 시장 거리#
+
+// 포링 마을
+1@begi.rsw#포링 마을#
+
+// 노르트펠트
+nordfeld.rsw#노르트펠트#
+nrd_in.rsw#노르트펠트 내부#
+nrd_fild01.rsw#노르트펠트 초원#
+nrd_fild02.rsw#노르트펠트 언덕#
+nrd_dun01.rsw#노르트펠트 동굴 1층#
+nrd_dun02.rsw#노르트펠트 동굴 2층#
+1@nraid.rsw#노르트펠트 방어전#
+
+
+// ==========================================================================
+// Channeling Map
+// ==========================================================================
+um_f01_a.rsw#움발라 루루카 숲#
+um_f01_b.rsw#움발라 루루카 숲#
+um_f01_c.rsw#움발라 루루카 숲#
+um_f01_d.rsw#움발라 루루카 숲#
+um_f01_y.rsw#움발라 루루카 숲#
+um_f01_z.rsw#움발라 루루카 숲#
+um_f02_a.rsw#움발라 훔가 숲#
+um_f02_b.rsw#움발라 훔가 숲#
+um_f02_c.rsw#움발라 훔가 숲#
+um_f02_d.rsw#움발라 훔가 숲#
+um_f02_y.rsw#움발라 훔가 숲#
+um_f02_z.rsw#움발라 훔가 숲#
+um_f03_a.rsw#움발라 카라라 늪#
+um_f03_b.rsw#움발라 카라라 늪#
+um_f03_c.rsw#움발라 카라라 늪#
+um_f03_d.rsw#움발라 카라라 늪#
+um_f03_y.rsw#움발라 카라라 늪#
+um_f03_z.rsw#움발라 카라라 늪#
+um_f04_a.rsw#움발라 훔가 정글#
+um_f04_b.rsw#움발라 훔가 정글#
+um_f04_c.rsw#움발라 훔가 정글#
+um_f04_d.rsw#움발라 훔가 정글#
+um_f04_y.rsw#움발라 훔가 정글#
+um_f04_z.rsw#움발라 훔가 정글#
+bea_d03_a.rsw#코모도 동쪽 동굴 마오#
+bea_d03_b.rsw#코모도 동쪽 동굴 마오#
+bea_d03_c.rsw#코모도 동쪽 동굴 마오#
+bea_d03_d.rsw#코모도 동쪽 동굴 마오#
+bea_d03_y.rsw#코모도 동쪽 동굴 마오#
+bea_d03_z.rsw#코모도 동쪽 동굴 마오#
+cmd_f01_a.rsw#코모도 파푸치카 숲#
+cmd_f01_b.rsw#코모도 파푸치카 숲#
+cmd_f01_c.rsw#코모도 파푸치카 숲#
+cmd_f01_d.rsw#코모도 파푸치카 숲#
+cmd_f01_y.rsw#코모도 파푸치카 숲#
+cmd_f01_z.rsw#코모도 파푸치카 숲#
+cmd_f02_a.rsw#코모도 코코모 해변#
+cmd_f02_b.rsw#코모도 코코모 해변#
+cmd_f02_c.rsw#코모도 코코모 해변#
+cmd_f02_d.rsw#코모도 코코모 해변#
+cmd_f02_y.rsw#코모도 코코모 해변#
+cmd_f02_z.rsw#코모도 코코모 해변#
+cmd_f03_a.rsw#코모도 지나이 늪#
+cmd_f03_b.rsw#코모도 지나이 늪#
+cmd_f03_c.rsw#코모도 지나이 늪#
+cmd_f03_d.rsw#코모도 지나이 늪#
+cmd_f03_y.rsw#코모도 지나이 늪#
+cmd_f03_z.rsw#코모도 지나이 늪#
+cmd_f04_a.rsw#코모도 코코모 해변#
+cmd_f04_b.rsw#코모도 코코모 해변#
+cmd_f04_c.rsw#코모도 코코모 해변#
+cmd_f04_d.rsw#코모도 코코모 해변#
+cmd_f04_y.rsw#코모도 코코모 해변#
+cmd_f04_z.rsw#코모도 코코모 해변#
+cmd_f06_a.rsw#요새도시 산다르만 서쪽 지역#
+cmd_f06_b.rsw#요새도시 산다르만 서쪽 지역#
+cmd_f06_c.rsw#요새도시 산다르만 서쪽 지역#
+cmd_f06_d.rsw#요새도시 산다르만 서쪽 지역#
+cmd_f06_y.rsw#요새도시 산다르만 서쪽 지역#
+cmd_f06_z.rsw#요새도시 산다르만 서쪽 지역#
+cmd_f07_a.rsw#파로스 등대섬#
+cmd_f07_b.rsw#파로스 등대섬#
+cmd_f07_c.rsw#파로스 등대섬#
+cmd_f07_d.rsw#파로스 등대섬#
+cmd_f07_y.rsw#파로스 등대섬#
+cmd_f07_z.rsw#파로스 등대섬#
+cmd_f08_a.rsw#요새도시 산다르만 동쪽 지역#
+cmd_f08_b.rsw#요새도시 산다르만 동쪽 지역#
+cmd_f08_c.rsw#요새도시 산다르만 동쪽 지역#
+cmd_f08_d.rsw#요새도시 산다르만 동쪽 지역#
+cmd_f08_y.rsw#요새도시 산다르만 동쪽 지역#
+cmd_f08_z.rsw#요새도시 산다르만 동쪽 지역#
+cmd_f09_a.rsw#요새도시 산다르만 남쪽 지역#
+cmd_f09_b.rsw#요새도시 산다르만 남쪽 지역#
+cmd_f09_c.rsw#요새도시 산다르만 남쪽 지역#
+cmd_f09_d.rsw#요새도시 산다르만 남쪽 지역#
+cmd_f09_y.rsw#요새도시 산다르만 남쪽 지역#
+cmd_f09_z.rsw#요새도시 산다르만 남쪽 지역#
+mjo_f01_a.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f01_b.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f01_c.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f01_d.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f01_y.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f01_z.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f02_a.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f02_b.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f02_c.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f02_d.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f02_y.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f02_z.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f03_a.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f03_b.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f03_c.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f03_d.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f03_y.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f03_z.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f04_a.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f04_b.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f04_c.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f04_d.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f04_y.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f04_z.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f05_a.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f05_b.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f05_c.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f05_d.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f05_y.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f05_z.rsw#묘르닐 산맥 북쪽 지역#
+mjo_f06_a.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f06_b.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f06_c.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f06_d.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f06_y.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f06_z.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f07_a.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f07_b.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f07_c.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f07_d.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f07_y.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f07_z.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f08_a.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f08_b.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f08_c.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f08_d.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f08_y.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f08_z.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f09_a.rsw#묘르닐 산맥 남쪽 산기슭#
+mjo_f09_b.rsw#묘르닐 산맥 남쪽 산기슭#
+mjo_f09_c.rsw#묘르닐 산맥 남쪽 산기슭#
+mjo_f09_d.rsw#묘르닐 산맥 남쪽 산기슭#
+mjo_f09_y.rsw#묘르닐 산맥 남쪽 산기슭#
+mjo_f09_z.rsw#묘르닐 산맥 남쪽 산기슭#
+mjo_f10_a.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f10_b.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f10_c.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f10_d.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f10_y.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f10_z.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f11_a.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f11_b.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f11_c.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f11_d.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f11_y.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f11_z.rsw#묘르닐 산맥 남쪽 지역#
+mjo_f12_a.rsw#묘르닐 산맥 북쪽 산기슭#
+mjo_f12_b.rsw#묘르닐 산맥 북쪽 산기슭#
+mjo_f12_c.rsw#묘르닐 산맥 북쪽 산기슭#
+mjo_f12_d.rsw#묘르닐 산맥 북쪽 산기슭#
+mjo_f12_y.rsw#묘르닐 산맥 북쪽 산기슭#
+mjo_f12_z.rsw#묘르닐 산맥 북쪽 산기슭#
+prt_f00_a.rsw#프론테라 필드#
+prt_f00_b.rsw#프론테라 필드#
+prt_f00_c.rsw#프론테라 필드#
+prt_f00_d.rsw#프론테라 필드#
+prt_f00_y.rsw#프론테라 필드#
+prt_f00_z.rsw#프론테라 필드#
+prt_f01_a.rsw#프론테라 필드#
+prt_f01_b.rsw#프론테라 필드#
+prt_f01_c.rsw#프론테라 필드#
+prt_f01_d.rsw#프론테라 필드#
+prt_f01_y.rsw#프론테라 필드#
+prt_f01_z.rsw#프론테라 필드#
+prt_f02_a.rsw#프론테라 필드#
+prt_f02_b.rsw#프론테라 필드#
+prt_f02_c.rsw#프론테라 필드#
+prt_f02_d.rsw#프론테라 필드#
+prt_f02_y.rsw#프론테라 필드#
+prt_f02_z.rsw#프론테라 필드#
+prt_f03_a.rsw#프론테라 필드#
+prt_f03_b.rsw#프론테라 필드#
+prt_f03_c.rsw#프론테라 필드#
+prt_f03_d.rsw#프론테라 필드#
+prt_f03_y.rsw#프론테라 필드#
+prt_f03_z.rsw#프론테라 필드#
+prt_f04_a.rsw#프론테라 필드#
+prt_f04_b.rsw#프론테라 필드#
+prt_f04_c.rsw#프론테라 필드#
+prt_f04_d.rsw#프론테라 필드#
+prt_f04_y.rsw#프론테라 필드#
+prt_f04_z.rsw#프론테라 필드#
+prt_f05_a.rsw#프론테라 필드#
+prt_f05_b.rsw#프론테라 필드#
+prt_f05_c.rsw#프론테라 필드#
+prt_f05_d.rsw#프론테라 필드#
+prt_f05_y.rsw#프론테라 필드#
+prt_f05_z.rsw#프론테라 필드#
+prt_f06_a.rsw#프론테라 필드#
+prt_f06_b.rsw#프론테라 필드#
+prt_f06_c.rsw#프론테라 필드#
+prt_f06_d.rsw#프론테라 필드#
+prt_f06_y.rsw#프론테라 필드#
+prt_f06_z.rsw#프론테라 필드#
+prt_f07_a.rsw#프론테라 필드#
+prt_f07_b.rsw#프론테라 필드#
+prt_f07_c.rsw#프론테라 필드#
+prt_f07_d.rsw#프론테라 필드#
+prt_f07_y.rsw#프론테라 필드#
+prt_f07_z.rsw#프론테라 필드#
+prt_f08_a.rsw#프론테라 필드#
+prt_f08_b.rsw#프론테라 필드#
+prt_f08_c.rsw#프론테라 필드#
+prt_f08_d.rsw#프론테라 필드#
+prt_f08_y.rsw#프론테라 필드#
+prt_f08_z.rsw#프론테라 필드#
+prt_f09_a.rsw#프론테라 필드#
+prt_f09_b.rsw#프론테라 필드#
+prt_f09_c.rsw#프론테라 필드#
+prt_f09_d.rsw#프론테라 필드#
+prt_f09_y.rsw#프론테라 필드#
+prt_f09_z.rsw#프론테라 필드#
+prt_f10_a.rsw#프론테라 필드#
+prt_f10_b.rsw#프론테라 필드#
+prt_f10_c.rsw#프론테라 필드#
+prt_f10_d.rsw#프론테라 필드#
+prt_f10_y.rsw#프론테라 필드#
+prt_f10_z.rsw#프론테라 필드#
+prt_f11_a.rsw#프론테라 필드#
+prt_f11_b.rsw#프론테라 필드#
+prt_f11_c.rsw#프론테라 필드#
+prt_f11_d.rsw#프론테라 필드#
+prt_f11_y.rsw#프론테라 필드#
+prt_f11_z.rsw#프론테라 필드#
+gef_f00_a.rsw#게펜 필드#
+gef_f00_b.rsw#게펜 필드#
+gef_f00_c.rsw#게펜 필드#
+gef_f00_d.rsw#게펜 필드#
+gef_f00_y.rsw#게펜 필드#
+gef_f00_z.rsw#게펜 필드#
+gef_f01_a.rsw#게펜 필드#
+gef_f01_b.rsw#게펜 필드#
+gef_f01_c.rsw#게펜 필드#
+gef_f01_d.rsw#게펜 필드#
+gef_f01_y.rsw#게펜 필드#
+gef_f01_z.rsw#게펜 필드#
+gef_f02_a.rsw#게펜 필드#
+gef_f02_b.rsw#게펜 필드#
+gef_f02_c.rsw#게펜 필드#
+gef_f02_d.rsw#게펜 필드#
+gef_f02_y.rsw#게펜 필드#
+gef_f02_z.rsw#게펜 필드#
+gef_f03_a.rsw#게펜 필드#
+gef_f03_b.rsw#게펜 필드#
+gef_f03_c.rsw#게펜 필드#
+gef_f03_d.rsw#게펜 필드#
+gef_f03_y.rsw#게펜 필드#
+gef_f03_z.rsw#게펜 필드#
+gef_f04_a.rsw#게펜 필드#
+gef_f04_b.rsw#게펜 필드#
+gef_f04_c.rsw#게펜 필드#
+gef_f04_d.rsw#게펜 필드#
+gef_f04_y.rsw#게펜 필드#
+gef_f04_z.rsw#게펜 필드#
+gef_f05_a.rsw#집시 마을#
+gef_f05_b.rsw#집시 마을#
+gef_f05_c.rsw#집시 마을#
+gef_f05_d.rsw#집시 마을#
+gef_f05_y.rsw#집시 마을#
+gef_f05_z.rsw#집시 마을#
+gef_f06_a.rsw#게펜 필드#
+gef_f06_b.rsw#게펜 필드#
+gef_f06_c.rsw#게펜 필드#
+gef_f06_d.rsw#게펜 필드#
+gef_f06_y.rsw#게펜 필드#
+gef_f06_z.rsw#게펜 필드#
+gef_f07_a.rsw#게펜 필드#
+gef_f07_b.rsw#게펜 필드#
+gef_f07_c.rsw#게펜 필드#
+gef_f07_d.rsw#게펜 필드#
+gef_f07_y.rsw#게펜 필드#
+gef_f07_z.rsw#게펜 필드#
+gef_f08_a.rsw#게펜 필드#
+gef_f08_b.rsw#게펜 필드#
+gef_f08_c.rsw#게펜 필드#
+gef_f08_d.rsw#게펜 필드#
+gef_f08_y.rsw#게펜 필드#
+gef_f08_z.rsw#게펜 필드#
+gef_f09_a.rsw#게펜 필드#
+gef_f09_b.rsw#게펜 필드#
+gef_f09_c.rsw#게펜 필드#
+gef_f09_d.rsw#게펜 필드#
+gef_f09_y.rsw#게펜 필드#
+gef_f09_z.rsw#게펜 필드#
+gef_f10_a.rsw#오크 마을#
+gef_f10_b.rsw#오크 마을#
+gef_f10_c.rsw#오크 마을#
+gef_f10_d.rsw#오크 마을#
+gef_f10_y.rsw#오크 마을#
+gef_f10_z.rsw#오크 마을#
+gef_f11_a.rsw#게펜 필드#
+gef_f11_b.rsw#게펜 필드#
+gef_f11_c.rsw#게펜 필드#
+gef_f11_d.rsw#게펜 필드#
+gef_f11_y.rsw#게펜 필드#
+gef_f11_z.rsw#게펜 필드#
+moc_f01_a.rsw#소그라트 사막#
+moc_f01_b.rsw#소그라트 사막#
+moc_f01_c.rsw#소그라트 사막#
+moc_f01_d.rsw#소그라트 사막#
+moc_f01_y.rsw#소그라트 사막#
+moc_f01_z.rsw#소그라트 사막#
+moc_f02_a.rsw#소그라트 사막#
+moc_f02_b.rsw#소그라트 사막#
+moc_f02_c.rsw#소그라트 사막#
+moc_f02_d.rsw#소그라트 사막#
+moc_f02_y.rsw#소그라트 사막#
+moc_f02_z.rsw#소그라트 사막#
+moc_f03_a.rsw#소그라트 사막#
+moc_f03_b.rsw#소그라트 사막#
+moc_f03_c.rsw#소그라트 사막#
+moc_f03_d.rsw#소그라트 사막#
+moc_f03_y.rsw#소그라트 사막#
+moc_f03_z.rsw#소그라트 사막#
+moc_f07_a.rsw#소그라트 사막#
+moc_f07_b.rsw#소그라트 사막#
+moc_f07_c.rsw#소그라트 사막#
+moc_f07_d.rsw#소그라트 사막#
+moc_f07_y.rsw#소그라트 사막#
+moc_f07_z.rsw#소그라트 사막#
+moc_f11_a.rsw#소그라트 사막#
+moc_f11_b.rsw#소그라트 사막#
+moc_f11_c.rsw#소그라트 사막#
+moc_f11_d.rsw#소그라트 사막#
+moc_f11_y.rsw#소그라트 사막#
+moc_f11_z.rsw#소그라트 사막#
+moc_f12_a.rsw#소그라트 사막#
+moc_f12_b.rsw#소그라트 사막#
+moc_f12_c.rsw#소그라트 사막#
+moc_f12_d.rsw#소그라트 사막#
+moc_f12_y.rsw#소그라트 사막#
+moc_f12_z.rsw#소그라트 사막#
+moc_f13_a.rsw#소그라트 사막#
+moc_f13_b.rsw#소그라트 사막#
+moc_f13_c.rsw#소그라트 사막#
+moc_f13_d.rsw#소그라트 사막#
+moc_f13_y.rsw#소그라트 사막#
+moc_f13_z.rsw#소그라트 사막#
+moc_f16_a.rsw#소그라트 사막#
+moc_f16_b.rsw#소그라트 사막#
+moc_f16_c.rsw#소그라트 사막#
+moc_f16_d.rsw#소그라트 사막#
+moc_f16_y.rsw#소그라트 사막#
+moc_f16_z.rsw#소그라트 사막#
+moc_f17_a.rsw#소그라트 사막#
+moc_f17_b.rsw#소그라트 사막#
+moc_f17_c.rsw#소그라트 사막#
+moc_f17_d.rsw#소그라트 사막#
+moc_f17_y.rsw#소그라트 사막#
+moc_f17_z.rsw#소그라트 사막#
+moc_f18_a.rsw#소그라트 사막#
+moc_f18_b.rsw#소그라트 사막#
+moc_f18_c.rsw#소그라트 사막#
+moc_f18_d.rsw#소그라트 사막#
+moc_f18_y.rsw#소그라트 사막#
+moc_f18_z.rsw#소그라트 사막#
+pay_f01_a.rsw#페이욘 숲 속#
+pay_f01_b.rsw#페이욘 숲 속#
+pay_f01_c.rsw#페이욘 숲 속#
+pay_f01_d.rsw#페이욘 숲 속#
+pay_f01_y.rsw#페이욘 숲 속#
+pay_f01_z.rsw#페이욘 숲 속#
+pay_f02_a.rsw#페이욘 숲 속#
+pay_f02_b.rsw#페이욘 숲 속#
+pay_f02_c.rsw#페이욘 숲 속#
+pay_f02_d.rsw#페이욘 숲 속#
+pay_f02_y.rsw#페이욘 숲 속#
+pay_f02_z.rsw#페이욘 숲 속#
+pay_f03_a.rsw#페이욘 숲 속#
+pay_f03_b.rsw#페이욘 숲 속#
+pay_f03_c.rsw#페이욘 숲 속#
+pay_f03_d.rsw#페이욘 숲 속#
+pay_f03_y.rsw#페이욘 숲 속#
+pay_f03_z.rsw#페이욘 숲 속#
+pay_f04_a.rsw#소그라트 사막#
+pay_f04_b.rsw#소그라트 사막#
+pay_f04_c.rsw#소그라트 사막#
+pay_f04_d.rsw#소그라트 사막#
+pay_f04_y.rsw#소그라트 사막#
+pay_f04_z.rsw#소그라트 사막#
+pay_f06_a.rsw#페이욘 숲 속#
+pay_f06_b.rsw#페이욘 숲 속#
+pay_f06_c.rsw#페이욘 숲 속#
+pay_f06_d.rsw#페이욘 숲 속#
+pay_f06_y.rsw#페이욘 숲 속#
+pay_f06_z.rsw#페이욘 숲 속#
+pay_f07_a.rsw#페이욘 숲 속#
+pay_f07_b.rsw#페이욘 숲 속#
+pay_f07_c.rsw#페이욘 숲 속#
+pay_f07_d.rsw#페이욘 숲 속#
+pay_f07_y.rsw#페이욘 숲 속#
+pay_f07_z.rsw#페이욘 숲 속#
+pay_f08_a.rsw#페이욘 숲 속#
+pay_f08_b.rsw#페이욘 숲 속#
+pay_f08_c.rsw#페이욘 숲 속#
+pay_f08_d.rsw#페이욘 숲 속#
+pay_f08_y.rsw#페이욘 숲 속#
+pay_f08_z.rsw#페이욘 숲 속#
+pay_f09_a.rsw#페이욘 숲 속#
+pay_f09_b.rsw#페이욘 숲 속#
+pay_f09_c.rsw#페이욘 숲 속#
+pay_f09_d.rsw#페이욘 숲 속#
+pay_f09_y.rsw#페이욘 숲 속#
+pay_f09_z.rsw#페이욘 숲 속#
+pay_f10_a.rsw#페이욘 숲 속#
+pay_f10_b.rsw#페이욘 숲 속#
+pay_f10_c.rsw#페이욘 숲 속#
+pay_f10_d.rsw#페이욘 숲 속#
+pay_f10_y.rsw#페이욘 숲 속#
+pay_f10_z.rsw#페이욘 숲 속#
+an_d01_a.rsw#모로크 개미지옥 던전 1층#
+an_d01_b.rsw#모로크 개미지옥 던전 1층#
+an_d01_c.rsw#모로크 개미지옥 던전 1층#
+an_d01_d.rsw#모로크 개미지옥 던전 1층#
+an_d01_y.rsw#모로크 개미지옥 던전 1층#
+an_d01_z.rsw#모로크 개미지옥 던전 1층#
+an_d02_a.rsw#모로크 개미지옥 던전 2층#
+an_d02_b.rsw#모로크 개미지옥 던전 2층#
+an_d02_c.rsw#모로크 개미지옥 던전 2층#
+an_d02_d.rsw#모로크 개미지옥 던전 2층#
+an_d02_y.rsw#모로크 개미지옥 던전 2층#
+an_d02_z.rsw#모로크 개미지옥 던전 2층#
+iz_d00_a.rsw#이즈루드 해저동굴 던전 1층#
+iz_d00_b.rsw#이즈루드 해저동굴 던전 1층#
+iz_d00_c.rsw#이즈루드 해저동굴 던전 1층#
+iz_d00_d.rsw#이즈루드 해저동굴 던전 1층#
+iz_d00_y.rsw#이즈루드 해저동굴 던전 1층#
+iz_d00_z.rsw#이즈루드 해저동굴 던전 1층#
+iz_d01_a.rsw#이즈루드 해저동굴 던전 2층#
+iz_d01_b.rsw#이즈루드 해저동굴 던전 2층#
+iz_d01_c.rsw#이즈루드 해저동굴 던전 2층#
+iz_d01_d.rsw#이즈루드 해저동굴 던전 2층#
+iz_d01_y.rsw#이즈루드 해저동굴 던전 2층#
+iz_d01_z.rsw#이즈루드 해저동굴 던전 2층#
+iz_d02_a.rsw#이즈루드 해저동굴 던전 3층#
+iz_d02_b.rsw#이즈루드 해저동굴 던전 3층#
+iz_d02_c.rsw#이즈루드 해저동굴 던전 3층#
+iz_d02_d.rsw#이즈루드 해저동굴 던전 3층#
+iz_d02_y.rsw#이즈루드 해저동굴 던전 3층#
+iz_d02_z.rsw#이즈루드 해저동굴 던전 3층#
+pay_d00_a.rsw#페이욘 동굴 1층#
+pay_d00_b.rsw#페이욘 동굴 1층#
+pay_d00_c.rsw#페이욘 동굴 1층#
+pay_d00_d.rsw#페이욘 동굴 1층#
+pay_d00_y.rsw#페이욘 동굴 1층#
+pay_d00_z.rsw#페이욘 동굴 1층#
+pay_d01_a.rsw#페이욘 동굴 2층#
+pay_d01_b.rsw#페이욘 동굴 2층#
+pay_d01_c.rsw#페이욘 동굴 2층#
+pay_d01_d.rsw#페이욘 동굴 2층#
+pay_d01_y.rsw#페이욘 동굴 2층#
+pay_d01_z.rsw#페이욘 동굴 2층#
+pay_d02_a.rsw#페이욘 동굴 3층#
+pay_d02_b.rsw#페이욘 동굴 3층#
+pay_d02_c.rsw#페이욘 동굴 3층#
+pay_d02_d.rsw#페이욘 동굴 3층#
+pay_d02_y.rsw#페이욘 동굴 3층#
+pay_d02_z.rsw#페이욘 동굴 3층#
+pay_d03_a.rsw#페이욘 동굴 4층(폐가촌)#
+pay_d03_b.rsw#페이욘 동굴 4층(폐가촌)#
+pay_d03_c.rsw#페이욘 동굴 4층(폐가촌)#
+pay_d03_d.rsw#페이욘 동굴 4층(폐가촌)#
+pay_d03_y.rsw#페이욘 동굴 4층(폐가촌)#
+pay_d03_z.rsw#페이욘 동굴 4층(폐가촌)#
+pay_d04_a.rsw#페이욘 동굴 5층(폐가촌)#
+pay_d04_b.rsw#페이욘 동굴 5층(폐가촌)#
+pay_d04_c.rsw#페이욘 동굴 5층(폐가촌)#
+pay_d04_d.rsw#페이욘 동굴 5층(폐가촌)#
+pay_d04_y.rsw#페이욘 동굴 5층(폐가촌)#
+pay_d04_z.rsw#페이욘 동굴 5층(폐가촌)#
+prt_d01_a.rsw#프론테라 지하 수로 1층#
+prt_d01_b.rsw#프론테라 지하 수로 1층#
+prt_d01_c.rsw#프론테라 지하 수로 1층#
+prt_d01_d.rsw#프론테라 지하 수로 1층#
+prt_d01_y.rsw#프론테라 지하 수로 1층#
+prt_d01_z.rsw#프론테라 지하 수로 1층#
+prt_d02_a.rsw#프론테라 지하 수로 2층#
+prt_d02_b.rsw#프론테라 지하 수로 2층#
+prt_d02_c.rsw#프론테라 지하 수로 2층#
+prt_d02_d.rsw#프론테라 지하 수로 2층#
+prt_d02_y.rsw#프론테라 지하 수로 2층#
+prt_d02_z.rsw#프론테라 지하 수로 2층#
+prt_d03_a.rsw#프론테라 지하 수로 3층#
+prt_d03_b.rsw#프론테라 지하 수로 3층#
+prt_d03_c.rsw#프론테라 지하 수로 3층#
+prt_d03_d.rsw#프론테라 지하 수로 3층#
+prt_d03_y.rsw#프론테라 지하 수로 3층#
+prt_d03_z.rsw#프론테라 지하 수로 3층#
+prt_d04_a.rsw#프론테라 지하 수로 4층#
+prt_d04_b.rsw#프론테라 지하 수로 4층#
+prt_d04_c.rsw#프론테라 지하 수로 4층#
+prt_d04_d.rsw#프론테라 지하 수로 4층#
+prt_d04_y.rsw#프론테라 지하 수로 4층#
+prt_d04_z.rsw#프론테라 지하 수로 4층#
+tre_d01_a.rsw#알베르타 침몰선 1층#
+tre_d01_b.rsw#알베르타 침몰선 1층#
+tre_d01_c.rsw#알베르타 침몰선 1층#
+tre_d01_d.rsw#알베르타 침몰선 1층#
+tre_d01_y.rsw#알베르타 침몰선 1층#
+tre_d01_z.rsw#알베르타 침몰선 1층#
+tre_d02_a.rsw#알베르타 침몰선 2층#
+tre_d02_b.rsw#알베르타 침몰선 2층#
+tre_d02_c.rsw#알베르타 침몰선 2층#
+tre_d02_d.rsw#알베르타 침몰선 2층#
+tre_d02_y.rsw#알베르타 침몰선 2층#
+tre_d02_z.rsw#알베르타 침몰선 2층#
+orc_d01_a.rsw#게펜 오크 지하 동굴 1층#
+orc_d01_b.rsw#게펜 오크 지하 동굴 1층#
+orc_d01_c.rsw#게펜 오크 지하 동굴 1층#
+orc_d01_d.rsw#게펜 오크 지하 동굴 1층#
+orc_d01_y.rsw#게펜 오크 지하 동굴 1층#
+orc_d01_z.rsw#게펜 오크 지하 동굴 1층#
+orc_d02_a.rsw#게펜 오크 지하 동굴 2층#
+orc_d02_b.rsw#게펜 오크 지하 동굴 2층#
+orc_d02_c.rsw#게펜 오크 지하 동굴 2층#
+orc_d02_d.rsw#게펜 오크 지하 동굴 2층#
+orc_d02_y.rsw#게펜 오크 지하 동굴 2층#
+orc_d02_z.rsw#게펜 오크 지하 동굴 2층#
+bea_d02_a.rsw#코모도 북쪽 동굴 루안다#
+bea_d02_b.rsw#코모도 북쪽 동굴 루안다#
+bea_d02_c.rsw#코모도 북쪽 동굴 루안다#
+bea_d02_d.rsw#코모도 북쪽 동굴 루안다#
+bea_d02_y.rsw#코모도 북쪽 동굴 루안다#
+bea_d02_z.rsw#코모도 북쪽 동굴 루안다#
+pry_d01_a.rsw#모로크 피라미드 1층#
+pry_d01_b.rsw#모로크 피라미드 1층#
+pry_d01_c.rsw#모로크 피라미드 1층#
+pry_d01_d.rsw#모로크 피라미드 1층#
+pry_d01_y.rsw#모로크 피라미드 1층#
+pry_d01_z.rsw#모로크 피라미드 1층#
+pry_d02_a.rsw#모로크 피라미드 2층#
+pry_d02_b.rsw#모로크 피라미드 2층#
+pry_d02_c.rsw#모로크 피라미드 2층#
+pry_d02_d.rsw#모로크 피라미드 2층#
+pry_d02_y.rsw#모로크 피라미드 2층#
+pry_d02_z.rsw#모로크 피라미드 2층#
+pry_d03_a.rsw#모로크 피라미드 3층#
+pry_d03_b.rsw#모로크 피라미드 3층#
+pry_d03_c.rsw#모로크 피라미드 3층#
+pry_d03_d.rsw#모로크 피라미드 3층#
+pry_d03_y.rsw#모로크 피라미드 3층#
+pry_d03_z.rsw#모로크 피라미드 3층#
+pry_d04_a.rsw#모로크 피라미드 4층#
+pry_d04_b.rsw#모로크 피라미드 4층#
+pry_d04_c.rsw#모로크 피라미드 4층#
+pry_d04_d.rsw#모로크 피라미드 4층#
+pry_d04_y.rsw#모로크 피라미드 4층#
+pry_d04_z.rsw#모로크 피라미드 4층#
+pry_d05_a.rsw#모로크 피라미드 지하 1층#
+pry_d05_b.rsw#모로크 피라미드 지하 1층#
+pry_d05_c.rsw#모로크 피라미드 지하 1층#
+pry_d05_d.rsw#모로크 피라미드 지하 1층#
+pry_d05_y.rsw#모로크 피라미드 지하 1층#
+pry_d05_z.rsw#모로크 피라미드 지하 1층#
+pry_d06_a.rsw#모로크 피라미드 지하 2층#
+pry_d06_b.rsw#모로크 피라미드 지하 2층#
+pry_d06_c.rsw#모로크 피라미드 지하 2층#
+pry_d06_d.rsw#모로크 피라미드 지하 2층#
+pry_d06_y.rsw#모로크 피라미드 지하 2층#
+pry_d06_z.rsw#모로크 피라미드 지하 2층#
+gef_d00_a.rsw#게펜 지하 던전 1층#
+gef_d00_b.rsw#게펜 지하 던전 1층#
+gef_d00_c.rsw#게펜 지하 던전 1층#
+gef_d00_d.rsw#게펜 지하 던전 1층#
+gef_d00_y.rsw#게펜 지하 던전 1층#
+gef_d00_z.rsw#게펜 지하 던전 1층#
+gef_d01_a.rsw#게펜 지하 던전 2층#
+gef_d01_b.rsw#게펜 지하 던전 2층#
+gef_d01_c.rsw#게펜 지하 던전 2층#
+gef_d01_d.rsw#게펜 지하 던전 2층#
+gef_d01_y.rsw#게펜 지하 던전 2층#
+gef_d01_z.rsw#게펜 지하 던전 2층#
+gef_d02_a.rsw#게펜 지하 던전 3층#
+gef_d02_b.rsw#게펜 지하 던전 3층#
+gef_d02_c.rsw#게펜 지하 던전 3층#
+gef_d02_d.rsw#게펜 지하 던전 3층#
+gef_d02_y.rsw#게펜 지하 던전 3층#
+gef_d02_z.rsw#게펜 지하 던전 3층#
+
+// 노르트펠트
+nrd_f01_a.rsw#노르트펠트 초원#
+nrd_f01_b.rsw#노르트펠트 초원#
+nrd_f01_c.rsw#노르트펠트 초원#
+nrd_f01_d.rsw#노르트펠트 초원#
+nrd_f01_y.rsw#노르트펠트 초원#
+nrd_f01_z.rsw#노르트펠트 초원#
+nrd_f02_a.rsw#노르트펠트 언덕#
+nrd_f02_b.rsw#노르트펠트 언덕#
+nrd_f02_c.rsw#노르트펠트 언덕#
+nrd_f02_d.rsw#노르트펠트 언덕#
+nrd_f02_y.rsw#노르트펠트 언덕#
+nrd_f02_z.rsw#노르트펠트 언덕#
+nrd_d01_a.rsw#노르트펠트 동굴 1층#
+nrd_d01_b.rsw#노르트펠트 동굴 1층#
+nrd_d01_c.rsw#노르트펠트 동굴 1층#
+nrd_d01_d.rsw#노르트펠트 동굴 1층#
+nrd_d01_y.rsw#노르트펠트 동굴 1층#
+nrd_d01_z.rsw#노르트펠트 동굴 1층#
+nrd_d02_a.rsw#노르트펠트 동굴 2층#
+nrd_d02_b.rsw#노르트펠트 동굴 2층#
+nrd_d02_c.rsw#노르트펠트 동굴 2층#
+nrd_d02_d.rsw#노르트펠트 동굴 2층#
+nrd_d02_y.rsw#노르트펠트 동굴 2층#
+nrd_d02_z.rsw#노르트펠트 동굴 2층#
+
+// ==========================================================================
+// Channeling Map - MVP
+// ==========================================================================
+b_prt_d04.rsw#프론테라 지하 수로 4층#
+b_prt_d04_z.rsw#프론테라 지하 수로 4층#
+b_pay_d04.rsw#페이욘 동굴 5층 - 폐가촌#
+b_pay_d04_z.rsw#페이욘 동굴 5층 - 폐가촌#
+b_gef_f03.rsw#게펜 필드#
+b_gef_f03_z.rsw#게펜 필드#
+b_gef_f10.rsw#오크 마을#
+b_gef_f10_z.rsw#오크 마을#
+b_pry_d04.rsw#피라미드 4층#
+b_pry_d04_z.rsw#피라미드 4층#
+b_gef_d01.rsw#게펜 지하 던전 2층#
+b_gef_d01_z.rsw#게펜 지하 던전 2층#
+b_gef_d02.rsw#게펜 지하 던전 3층#
+b_gef_d02_z.rsw#게펜 지하 던전 3층#

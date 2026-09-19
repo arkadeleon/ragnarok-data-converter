@@ -1,0 +1,126 @@
+%faf0e6
+<Cara membuat: Setelah semua bahan ada di inventori kamu, silakan klik Combination Kit.>
+
+^4D4DFFRed Potion untuk Pemula^000000
+
+Persiapan: 2 Red Herb, 1 Apple, Sedikit keputusasaan untuk membuat potion
+
+Red Herb apa pun yang kamu miliki tidak masalah. Entah itu ditemukan di jalan atau didapat dari monster jahat, selama kamu punya 2, itu sudah cukup. Apple adalah camilan.
+
+1. Siapkan 2 Red Herb.
+2. Gosokkan dengan benar di kedua tanganmu (jika kamu lapar, makan Apple tersebut).
+3. Jika kamu mengikuti instruksinya, akan ada sari yang keluar dari herb dan sisa-sisanya berada di tanganmu.
+4. Oh tunggu, apakah kamu sudah mencuci tanganmu?
+5. ... Baiklah, tidak bisa dihindari. Kita gunakan saja seperti itu.
+
+Tip: Lipat kedua tanganmu dan berdoa agar yang ada di tanganmu adalah Red Potion.
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+^CD3278Magnifier Pemula^000000
+
+Persiapan: 3 Wooden Block berkualitas baik, 1 Jellopy, dan keterampilan tangan yang berbakat
+
+Seolah-olah memang sudah menjadi milikku sejak awal, Wooden Block yang bagus memiliki pegangan yang baik. Jellopy yang tidak dapat ditembus cahaya matahari... menciptakan harmoni yang indah.
+
+1. Potong Wooden Block sesuai bentuk yang kamu inginkan.
+2. Terus potong sampai permukaannya halus.
+Mungkin pelanggan akan berkata, "Tidak apa-apa, berikan saja..."
+Dalam situasi ini kamu bisa mengatakan, "Pelanggan yang terhormat, kamu memang bisa memesan sesuai keinginanmu, tetapi..."
+3. Jika terlalu lama membuat bentuknya, mari beristirahat sejenak dan melihat matahari terbenam.
+4. Sepertinya kita lupa membuat tempat untuk Jellopy pada Langkah 1, tetapi tidak apa-apa.
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+^4C1919Fly Wing Pemula^000000
+
+Persiapan: 2 Fluff, 2 Feather, 2 Jellopy, Keinginan untuk pergi sejauh mungkin
+
+Di suatu tempat di antara ketidaksadaran dan rasa malu dari kombinasi aneh antara Fluff, Feather, dan Jellopy.
+
+1. Pada suatu waktu, ada 2 Fluff.
+2. Ada juga 2 Feather.
+3. Suatu hari, 2 Jellopy mengambil Feather.
+4. Fluff memasukkan XX ke dalam XXX milik Jellopy.
+5. Jika kamu mengganggu Fluff, kamu akan menjadi X.
+6. Oh, tentu saja X.
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+^231010Novice Cutter^000000
+
+Persiapan: 10 Shell, 10 Worm Peeling, 1 Phracon, Keinginan untuk tidak kalah oleh monster
+
+Ketika kamu memulai tanpa uang, senjata yang paling sering dapat digunakan adalah Novice Cutter. Ini adalah item yang bagus untuk digunakan dan mudah didapat.
+
+1. Susun 10 Shell secara berurutan. Jika seseorang merusak susunannya selama proses, harap tetap tenang.
+2. Pada susunan dari Langkah 1, tumpuk Worm Peeling dan Phracon di atasnya.
+3. Letakkan tanganmu di atasnya dan teriakkan seruan konsentrasi.
+
+^FF0000Jika gagal, silakan ulangi Langkah 1–3 di atas.^000000
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+^006F61Unripe Apple, Makanan Favorit Novice Poring^000000
+
+Persiapan: 1 Apple, 1 Green Herb, Sebuah harapan untuk keajaiban
+
+1. Bersihkan Apple dan Green Herb dengan air dingin.
+2. Tutupi Apple dengan Green Herb.
+3. Pegang dengan kuat sampai Green Herb menempel dengan baik pada Apple.
+
+Jika pada Langkah 3 kamu tidak berharap dengan cukup kuat, Green Herb tidak akan menempel dengan stabil pada Apple. Semakin kuat harapanmu, semakin besar kemungkinan pikiran Green Herb menyatu dengan Apple. Kamu boleh melepaskannya ketika Green Herb dan Apple sudah menempel dengan baik.
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+^8B4513Sebagai penutup...^000000
+
+Kami membuat buku ini melalui penelitian dan pengembangan, melewati berbagai kegagalan, selama XXX tahun. Meskipun belum diakui secara resmi, kami tetap merasa beruntung dapat bertemu dengan kalian semua melalui buku ini.
+
+^0A6E0ASelain itu, aku juga menambahkan lampiran untuk para Novice yang memiliki mimpi lebih tinggi. Semoga kamu dapat segera melakukan perubahan Job pertama.^000000
+
+^8C4040Novice Poring^000000
+
+
+Appendix
+
+^006F61Ciptakan Keberuntungan! Four-Leaf Clover
+
+Berdasarkan rekomendasi dari Midgard Nature Protection Society bahwa kebahagiaan terbesar adalah ketika menemukan four-leaf clover langsung di alam,
+resep pembuatan sementara telah dihapus.
+
+Kami mohon pengertian para petualang.
+^000000
+
+^006F61Healthy Fruit & Veggie Juice (Seri Juice)^000000
+
+^003A9DBahan:
+Banana Juice: 1 Banana, 1 Milk, Sedikit tenaga
+Apple Juice: 1 Apple, 1 Milk, Sedikit tenaga
+Carrot Juice: 1 Carrot, 1 Milk, Sedikit tenaga
+Grape Juice: 1 Grape, 1 Apple Juice, Sedikit tenaga^000000
+
+Perbandingan bahan utama dan bahan tambahan bukan 1:1, melainkan 1:0.2. Dari bahan tambahan tersebut, 0.8 adalah camilan yang bisa kamu makan ketika lapar.
+
+1. Hancurkan buah utama dengan cara apa pun.
+2. Masukkan buah yang sudah dihancurkan ke dalam botol susu yang tersisa.
+(Khusus Grape Juice menggunakan Apple Juice, bukan Milk.)
+3. Tutup botol dengan rapat dan kocok sekuat yang kamu bisa.
+4. Rasanya sangat lezat! Tidak disangka ternyata begitu enak?!
+
+^46BEFF--------------------------------------------------------------------------------------^000000
+
+^006F61Poring Sangat Menyukainya! Unripe Apple^000000
+
+^003A9DBahan: 10 Sticky Mucus, 20 Green Herb, 10 Apple, Tangan matahari^000000
+
+1. Iris Green Herb.
+2. Campurkan irisan Green Herb dengan Sticky Mucus.
+3. Memang sedikit lengket, tetapi bersabarlah saat membuatnya.
+4. Ketika tidak terlalu lengket, buat lubang di bagian tengah untuk memasukkan Apple.
+Sisa 9 Apple adalah hadiah untuk dirimu sendiri.
+5. Masukkan Apple dan tutupi dengan adonan hingga Apple tidak terlihat.
+6. Bentuk menjadi bulat.
+7. Letakkan Unripe Apple yang sudah selesai di pohon Apple.
+8. Jika ada burung yang datang dan memakannya, itu tidak masalah.
+9. Sekarang, mari kita berikan kepada para Poring.

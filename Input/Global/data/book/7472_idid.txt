@@ -1,0 +1,64 @@
+%faf0e6
+^000088-Jangan panik ketika kamu sendirian di tengah tempat terpencil. Kamu bisa bertahan hidup dengan resep-resep dalam buku ini!-^000000
+
+Kamu Pasti Bisa: Memasak Level 1!
+
+^FF0000Fried Grasshopper Legs:^000000 Jangan khawatir—kaki belalang sebenarnya cukup lezat dan tidak akan melompat lagi setelah digoreng.
+
+Bahan: ^4B00825 Grasshopper's Legs, 1 Old Frying Pan, 1 Cooking Oil^000000
+
+Cara membuat:
+
+1. Panaskan Old Frying Pan dengan api sedang. (Wajan baru cenderung menyerap minyak dan membutuhkan waktu lebih lama untuk panas. Jika kamu tidak memiliki wajan bekas, gunakan lemak Savage untuk melapisi wajan baru terlebih dahulu.)
+2. Tambahkan 2 sendok teh Cooking Oil ke dalam wajan lalu goreng ringan 3 Grasshopper Legs. Setelah kaki-kaki tersebut berubah menjadi cokelat keemasan, tambahkan 2 kaki sisanya dan 1 sendok teh Cooking Oil, lalu goreng hingga renyah.
+
+
+^0000FFGrape Juice Herbal Tea:^000000 Minuman ini akan siap segera setelah kamu mencampurkan anggur dengan potion!
+
+Bahan: ^4B00823 Grape, 2 Red Potions^000000
+
+Cara membuat:
+
+1. Haluskan 3 Grape lalu campurkan dengan 1 Red Potion menggunakan mixer. Ingat: jangan buang biji dan kulit anggurnya! Setelah Grape dan Red Potion tercampur, tambahkan 1 Red Potion lagi ke dalam mixer lalu kocok selama 10 detik.
+
+
+^800000Honey Grape Juice:^000000 Cukup campurkan Honey dan Grape, dan minumanmu siap dinikmati!
+
+Bahan: ^4B00821 Honey, 2 Grape, 1 Red Potion^000000
+
+Cara membuat:
+
+1. Resep ini sama seperti Grape Juice Herbal Tea, hanya saja pada langkah terakhir kamu menambahkan Honey sebagai pengganti Red Potion.
+
+
+^008040Frog Egg Squid Ink Soup:^000000 Sup dengan saus tinta cumi yang menyehatkan.
+
+Bahan: ^4B00821 Bag of Grain, 10 Spawn, 1 Squid Ink^000000
+
+Cara membuat:
+
+1. Rendam Spawn dalam semangkuk air dingin untuk meningkatkan kekenyalannya, lalu haluskan grain.
+2. Campurkan grain dengan air, kemudian masak perlahan hingga campuran mengental.
+3. Tambahkan Spawn ke dalam campuran yang sedang dimasak.
+4. Setelah Spawn menjadi empuk, tambahkan Squid Ink sebagai saus lalu tingkatkan panas hingga campuran mendidih.
+
+
+^FF8040Steamed Crab Nippers:^000000 Mengupas dan memakan kepiting selalu menyenangkan!
+
+Bahan: ^4B008210 Nippers, 10 Green Herbs, 1 Yellow Potion^000000
+
+Cara membuat:
+
+1. Rendam Nippers dalam Yellow Potion semalam sebelum dimasak.
+2. Lapisi alat pengukus dengan kain katun bersih lalu tambahkan Green Herbs dan Nippers yang telah direndam.
+3. Kukus Nippers hingga warna cangkangnya berubah menjadi merah tua.
+
+
+^400080Fried Monkey Tails:^000000 Kamu mungkin mengira ekor monyet terlalu keras untuk dikunyah, tetapi sebenarnya cukup mudah dimakan.
+
+Bahan: ^4B00825 Yoyo Tails, 1 Old Frying Pan, 1 Cooking Oil^000000
+
+Cara membuat:
+
+1. Kupas kulit Yoyo Tails lalu potong menjadi bagian kecil yang mudah dimakan.
+2. Panaskan Old Frying Pan dengan api sedang, tambahkan Cooking Oil, lalu goreng sedikit Yoyo Tails. Dagingnya akan menjadi terlalu keras jika dimasak sekaligus, jadi goreng dalam beberapa bagian kecil.

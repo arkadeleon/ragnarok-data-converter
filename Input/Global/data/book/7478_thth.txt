@@ -1,0 +1,103 @@
+%faf0e6
+^000088ไม่ว่าจะเป็น Poring หรือ Poporing หากหิวละก็ต้องได้กินกันทั้งนั้น!^000000
+
+แต่แน่นอนว่าต้องเหลือไว้ให้ข้ากินด้วย นั่นแหละหลักของการทำอาหาร!
+
+- เมนูอาหาร Lv.7 -
+
+^FF0000Whole Barbecue :^000000 ไม่ได้เอาถังมาย่างเสียหน่อย ไม่ต้องกังวลไป!
+
+วัตถุดิบ : ^4B0082Meat x1, Live Coal x1, Coal x1, Hot Sauce x1, Trunk x1, White Herb x1^000000
+
+วิธีทำ : ล้าง Meat ให้สะอาดทั้งด้านในและด้านนอก จากนั้นทา Hot Sauce ให้ทั่ว
+ซอย White Herb ให้ละเอียดแล้วโรยบางๆ
+
+ใช้ Live Coal จุดบน Trunk เพื่อรักษาไฟอ่อน ๆ ให้ต่อเนื่อง
+จากนั้นนำ Meat ไปย่าง
+
+ระหว่างย่างให้ทา Hot Sauce เพิ่มเป็นระยะ
+เมื่อสุกแล้วโรยสมุนไพรที่ซอยไว้ก่อนเสิร์ฟ
+
+^0000FFSpecial Royal Jelly Herbal Tea :^000000 ดื่มแล้วไม่มีทางโดนผึ้งต่อยแน่นอน!
+
+วัตถุดิบ : ^4B0082Royal Jelly x1, Honey x1, White Herb x1, Hinalle Leaflet x1, Yellow Spice x1^000000
+
+วิธีทำ : ใช้วิธีเดียวกับ Honey Herbal Tea Lv.3
+แต่จุดสำคัญคือใช้ Hinalle Leaflet ซึ่งเป็นใบชาคุณภาพสูง
+และเพิ่ม Royal Jelly ลงไปพร้อมกับ Honey
+
+^800000Soul Hunt Bread :^000000 ระวังวิญญาณหลุดออกจากร่างเอาล่ะ!
+
+วัตถุดิบ : ^4B0082Bread x1, Mastela Fruit x1, Sweet Sauce x1, Ment x1, Half Soul Bone x1,
+Unripe Apple x1^000000
+
+วิธีทำ : ปอกเปลือก Mastela Fruit และ Unripe Apple แล้วหั่นเป็นลูกเต๋า
+ล้าง Ment ให้สะอาดแล้วคั้นน้ำออกมา
+
+นำน้ำ Ment ไปคลุกกับผลไม้ที่หั่นไว้ เติมน้ำตาลแล้วหมักไว้ 30 นาที
+(อัตราส่วนน้ำตาลประมาณ 1:1)
+
+จากนั้นนำไปตั้งไฟแรงจนเริ่มเกิดฟอง แล้วลดเป็นไฟกลาง
+เติมน้ำตาลเพิ่มเล็กน้อยแล้วเคี่ยวต่อด้วยไฟอ่อน
+
+ระหว่างเคี่ยวต้องคนตลอดเพื่อไม่ให้ติดก้นหม้อ
+เคี่ยวจนใสและเงางามกลายเป็นแยม
+
+บด Half Soul Bone ให้ละเอียดแล้วหมักกับ Sweet Sauce เตรียมไว้
+จากนั้นทาแยมและ Sweet Sauce ลงบน Bread ก่อนเสิร์ฟ
+
+^008040Steamed Alligator with Vegetable :^000000 นุ่มหนึบกว่าที่คิดเอาไว้เสียอีก!
+
+วัตถุดิบ : ^4B0082Anolian Skin x1, Jack o' Pumpkin x1, Carrot x1, Aloe Leaflet x1,
+Yellow Herb x1, Yellow Spice x1^000000
+
+วิธีทำ : ล้าง Anolian Skin ให้สะอาดแล้วสับละเอียด
+ปรุงด้วยเกลือ พริกไทย ไข่ น้ำ และ Yellow Spice
+จากนั้นนวดจนเหนียวเข้ากัน
+
+หั่น Carrot เป็นเส้นยาวแล้วนำไปลวก
+Aloe Leaflet และ Yellow Herb ก็ให้นำไปลวกแล้วบีบน้ำออก
+
+ส่วน Jack o' Pumpkin ให้ซอยเป็นเส้นแล้วผัดเล็กน้อยก่อนพักไว้
+ปูผ้าขาวบางบนเขียง วางส่วนผสม Anolian Skin ลงไป
+
+จากนั้นนำไปนึ่งในลังถึงที่ร้อนจัดประมาณ 15 นาที
+หั่นเป็นชิ้นพอดีคำแล้วเสิร์ฟพร้อมผัก
+
+^FF8040Sumptuous Feast :^000000 จะล่าหมูต้องเข้าป่า จะจับปลาต้องออกทะเล!
+
+วัตถุดิบ : ^4B0082Fish Tail x1, Aloe Leaflet x1, Mane x1, Delicious Fish x1,
+Pet Food x1, Sweet Sauce x1^000000
+
+วิธีทำ : ลวก Aloe Leaflet ในน้ำเกลือแล้วพักไว้
+ขอดเกล็ด Delicious Fish ให้สะอาดแล้วทา Sweet Sauce หมักไว้ 10 นาที
+จากนั้นใช้ Aloe Leaflet ห่อปลาแล้วนำไปนึ่งพร้อม Fish Tail ประมาณ 10 นาที
+
+ส่วน Mane ให้ตัดยาวประมาณ 4 ซม. แล้วลวกพอสุก
+Pet Food ให้หั่นเป็นชิ้นพอดีคำ ทา Sweet Sauce แล้วนำไปย่างบนกระทะ
+
+จากนั้นจัดทุกอย่างลงจานให้สวยงาม
+
+^400080Assorted Shish Kebob :^000000 ถ้าไม่อยากโดนก้างตำตอนกิน ก็อย่าลืมตัดปลายแหลมออกเสียก่อน!
+
+วัตถุดิบ : ^4B0082Scale Shell x1, Gill x1, Soft Blade of Grass x1, Meat x1,
+Mushroom x1, Clam Flesh x1^000000
+
+วิธีทำ : หั่น Soft Blade of Grass เป็นสี่เหลี่ยมขนาดประมาณ 4 ซม.
+หั่น Mushroom ตามแนวยาวให้คงรูปเดิมเอาไว้
+
+ล้าง Scale Shell ให้สะอาดเตรียมไว้
+ลวก Meat และ Clam Flesh พอสุก
+
+จากนั้นเลือกก้างยาวจาก Gill มาใช้แทนไม้เสียบ
+เสียบ Meat, ผัก และ Clam Flesh เรียงสลับกัน
+
+นำ Scale Shell ไปเผาบนตะแกรงให้ร้อน
+แล้วนำไม้เสียบไปย่างบน Scale Shell
+
+^FF3366Dishes Lv.7 :^000000 สุดยอดแห่งอาหารเลเวล 7
+
+วัตถุดิบ : ^4B0082Whole Barbecue x1, Special Royal Jelly Herbal Tea x1, Soul Hunt Bread x1,
+Steamed Alligator with Vegetable x1, Sumptuous Feast x1, Assorted Shish Kebob x1^000000
+
+วิธีทำ : นำอาหารเลเวล 7 ทั้งหมด มาจัดเรียงเป็นสำรับใหญ่ให้ดูเรียบร้อยสวยงาม

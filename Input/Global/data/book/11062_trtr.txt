@@ -1,0 +1,113 @@
+^FF3300[Yer Ejderi Kılıcı]^000000 Yer ejderinin gücünü barındıran kılıç.
+Formless canavarlara verilen fiziksel hasar %5 artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel hasar %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel hasar %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Tek El Kılıç Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Swordsman/Merchant SLOT : 2
+
+^FF3300[Yer Ejderi Büyük Kılıcı]^000000 Yer ejderinin gücünü barındıran büyük kılıç.
+Formless canavarlara verilen fiziksel hasar %5 artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel hasar %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel hasar %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : İki El Kılıç Saldırı : 180 Ağırlık : 140 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Swordsman SLOT : 2
+
+^FF3300[Yer Ejderi Hançeri]^000000 Yer ejderinin gücünü barındıran hançer.
+Formless canavarlara verilen fiziksel hasar %5 artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel hasar %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel hasar %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Hançer Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Swordsman/Thief/Merchant SLOT : 2
+
+^FF3300[Yer Ejderi Yayı]^000000 Yer ejderinin gücünü barındıran yay.
+Formless canavarlara verilen fiziksel hasar %5 artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel hasar %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel hasar %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Yay Saldırı : 130 Ağırlık : 100 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Archer/Thief SLOT : 2
+
+^FF3300[Yer Ejderi Asası]^000000 Yer ejderinin gücünü barındıran asa. MATK + 130, Kırılamaz.
+Formless canavarlara verilen büyü hasarı %5 artar, sürekli tipteki düşmanlara verilen büyü hasarı %5 artar.
++7 yükseltmede, formless canavarlara verilen büyü hasarı %5 ek artar, sürekli tipteki düşmanlara verilen büyü hasarı %5 ek artar.
++9 yükseltmede, formless canavarlara verilen büyü hasarı %10 ek artar, sürekli tipteki düşmanlara verilen büyü hasarı %10 ek artar.
+
+Tür : Tek El Asa Saldırı : 40 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Novice/Mage/Priest/Soul Linker SLOT : 2
+
+^FF3300[Yer Ejderi Topuzu]^000000 Yer ejderinin gücünü barındıran topuz.
+Kırılamaz, formless canavarlara verilen fiziksel hasar %5 artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel hasar %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel hasar %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Topuz Saldırı : 130 Ağırlık : 120 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Swordsman/Novice/Priest/Merchant SLOT : 2
+
+^FF3300[Yer Ejderi Katarı]^000000 Yer ejderinin gücünü barındıran katar.
+Formless canavarlara verilen fiziksel hasar %5 artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel hasar %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel hasar %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Katar Saldırı : 150 Ağırlık : 120 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Assassin SLOT : 2
+
+^FF3300[Yer Ejderi Baltası]^000000 Yer ejderinin gücünü barındıran balta.
+Kırılamaz, formless canavarlara verilen fiziksel hasar %5 artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel hasar %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel hasar %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : İki El Balta Saldırı : 180 Ağırlık : 140 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Merchant SLOT : 2
+
+^FF3300[Yer Ejderi Mızrağı]^000000 Yer ejderinin gücünü barındıran mızrak.
+Formless canavarlara verilen fiziksel hasar %5 artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel hasar %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel hasar %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : İki El Mızrak Saldırı : 180 Ağırlık : 140 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Swordsman SLOT : 2
+
+^FF3300[Yer Ejderi Eldiveni]^000000 Yer ejderinin gücünü barındıran eldiven.
+Formless canavarlara verilen fiziksel hasar %5 artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel hasar %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel hasar %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Knuckle Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Monk/Priest SLOT : 2
+
+^FF3300[Yer Ejderi Kitabı]^000000 Yer ejderinin gücünü barındıran kitap.
+MATK + 130, formless canavarlara verilen fiziksel/büyü hasarı %5 artar, sürekli tipteki düşmanlara verilen fiziksel/büyü hasarı %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel/büyü hasarı %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel/büyü hasarı %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel/büyü hasarı %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel/büyü hasarı %10 ek artar.
+
+Tür : Kitap Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Sage/Priest/Taekwon SLOT : 2
+
+^FF3300[Yer Ejderi Kırbacı]^000000 Yer ejderinin gücünü barındıran kırbaç.
+Formless canavarlara verilen fiziksel hasar %5 artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel hasar %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel hasar %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Kırbaç Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Dancer SLOT : 2
+
+^FF3300[Yer Ejderi Enstrümanı]^000000 Yer ejderinin gücünü barındıran telli çalgı.
+Formless canavarlara verilen fiziksel hasar %5 artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel hasar %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel hasar %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel hasar %10 ek artar.
+
+Tür : Enstrüman Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Bard SLOT : 2
+
+^FF3300[Yer Ejderi Ninja Hançeri]^000000 Yer ejderinin gücünü barındıran ninja hançeri.
+MATK + 70, formless canavarlara verilen fiziksel/büyü hasarı %5 artar, sürekli tipteki düşmanlara verilen fiziksel/büyü hasarı %5 artar.
++7 yükseltmede, formless canavarlara verilen fiziksel/büyü hasarı %5 ek artar, sürekli tipteki düşmanlara verilen fiziksel/büyü hasarı %5 ek artar.
++9 yükseltmede, formless canavarlara verilen fiziksel/büyü hasarı %10 ek artar, sürekli tipteki düşmanlara verilen fiziksel/büyü hasarı %10 ek artar.
+
+Tür : Hançer Saldırı : 130 Ağırlık : 80 Silah Seviyesi : 3
+Gereken Seviye : 70 Ekipman : Ninja SLOT : 2
+
+^FFFFFF[Yer Ejderi Paketi]^000000

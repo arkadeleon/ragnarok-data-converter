@@ -1,0 +1,32 @@
+%faf0e6
+^000088Bases de l'alchimie pour la fabrication de la Bouteille d’acide^000000
+
+
+----------------Préface--------------------
+
+En étudiant le Cœur inarrêtable, nous avons découvert que, sous certaines conditions,
+du chlorure d'hydrogène se formait.
+Voici donc la méthode pour fabriquer de l'acide chlorhydrique à partir de cette découverte.
+L'acide chlorhydrique est un acide fortement ionisé, ce qui en fait une solution très acide.
+Parfois, il peut même devenir assez puissant pour dissoudre la pierre, alors manipulez-le avec précaution.
+
+------------------------------------------
+
+
+^008040Qu'est-ce que l'acide chlorhydrique ?^000000
+
+C'est une solution obtenue en dissolvant du chlorure d'hydrogène (HCl) dans l'eau.
+Lorsqu'on la met en bouteille, cela devient une Bouteille d’acide.
+
+
+
+Ingrédients : ^4B0082Cœur inarrêtable x1, Bouteille vide x1^000000
+Méthode de fabrication : Préparez un Mortier.
+Placez le Cœur inarrêtable dans le Mortier, ajoutez un peu d'eau, puis faites chauffer au bain-marie.
+Maintenez la température de l'eau à 72 degrés.
+Distillez le gaz qui se forme à ce moment pour obtenir du chlorure d'hydrogène,
+puis remplissez une Bouteille vide d'eau et dissolvez le chlorure d'hydrogène dans l'eau.
+Lorsque 100 molécules de chlorure d'hydrogène sont dissoutes et que l'équilibre est atteint,
+la plupart des molécules se dissocient, produisant une puissante Bouteille d’acide.
+Pour une fabrication simplifiée, munissez-vous de ce livre, rassemblez les ingrédients
+et utilisez la compétence de base d'alchimie, la Pharmacie.

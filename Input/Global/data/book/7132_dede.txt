@@ -1,0 +1,35 @@
+%faf0e6
+^000088Fortgeschrittene Transmutationskunst zum Schutz. Beschichtung!^000000
+
+
+----------------Vorwort--------------------
+
+Als ich sah, wie Magier ihren Körper mit einer Schicht aus Mana überzogen,
+kam mir der Gedanke, ob es nicht auch eine alchemistische Methode geben könnte, Waffen oder Rüstungen zu schützen.
+Die so entstandene alchemistische Beschichtung zerbricht nicht,
+legt sich wie eine Hülle an den Körper
+und verleiht einen Effekt, der nicht vom Gegner aufgehoben werden kann.
+Doch behalte im Kopf: Nach einer gewissen Zeit wird sie wieder aufgehoben.
+
+------------------------------------------
+
+^400080Beschichtung^000000 – Was ist das?
+
+Das Überziehen der Oberfläche eines Gegenstands mit einem dünnen Film, etwa aus Harz.
+Es wird verwendet, um auf Linsen eine Antireflexschicht zu erzeugen
+oder Stoffe wasserabweisend oder hitzebeständig zu machen.
+In der Alchemie bedeutet Beschichtung jedoch,
+dass etwas absolut nicht zerbrechen kann
+und vom Gegner niemals gewaltsam entfernt werden kann.
+Doch selbst unter Alchemisten sollen nur jene sie verwenden können,
+die eine besondere Technik erlernt haben.
+
+
+Zutaten : ^4B0082Alkohol 1 Stück, Zenorc-Zahn 1 Stück, Herz der Meerjungfrau 1 Stück, Leere Flasche 1 Stück^000000
+Herstellung : Eine Mörserschale vorbereiten.
+Etwa die Hälfte des Alkohols in die Mörserschale gießen und den Zenorc-Zahn hinzugeben, damit er sich auflöst.
+Das Herz der Meerjungfrau sauber waschen, trocknen, zermahlen, in den Alkohol geben und gut vermischen.
+Dann Trankzubereitung verwenden und das Ergebnis in eine Leere Flasche füllen.
+Es mag so wirken, als müsse man es nur auftragen,
+doch tatsächlich ist eine spezielle Technik nötig, um Waffen oder Rüstungen zu beschichten.
+Die dafür nötige Fachtechnik wirst du im Laufe deiner alchemistischen Forschung begreifen.

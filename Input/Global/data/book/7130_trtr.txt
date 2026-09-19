@@ -1,0 +1,36 @@
+%faf0e6
+^000088Bitki Şişesi Üretimi için Simya^000000
+
+
+----------------Önsöz--------------------
+Yaşam iksiri yapmak çok zordur.
+Yaşam yaratma gibi üst düzey bir konuyu araştırırken ilk adımımız,
+bitki senteziydi.
+
+Ancak sıradan bitkilerin zayıf yaşam gücü bize sadece başarısızlık getirdi.
+Sonuç alamayıp pes etmeye karar verdiğimiz sırada,
+etçil bitkilerin varlığını öğrendik.
+Diğer bitkilere göre daha dayanıklı ve daha yırtıcı bitkiler...
+
+Mjolnir Dağları ve Juno civarında bulduğumuz etçil bitkiler,
+araştırmamıza büyük katkı sağladı ve bize sevinç verdi.
+
+
+
+
+Böylece bitki sentezinin şaşırtıcı dünyasına gözlerimiz açıldı.------------------------------------------
+
+^FF8040Bitki Şişesi^000000 Nedir?
+
+Yere atıldığında etçil bitkiyi anında büyüten,
+yakınındaki canlılara saldırmasını sağlayan özel işlemli şişe.
+
+
+
+Ancak bunu yalnızca özel teknikler öğrenmiş simyacılarınkullanabildiği söylenir.
+
+Malzemeler: ^4B0082İnsan Yiyen Çiçeği 2, Boş Şişe 1^000000
+Yöntem: İlaç Kasesi hazırlayın.
+İlaç Kasesi'ne İnsan Yiyen Çiçeği 2 adet koyun; bu kitabı yanınızda taşırken
+Eczacılık kullanarak karışımı Boş Şişe’ye doldurun.
+Etçil bitki çağırma simyası, sentezden ayrı olarak öğrenilmelidir.

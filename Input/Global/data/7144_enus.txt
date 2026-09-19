@@ -1,0 +1,95 @@
+%faf0e6
+^000088You Can Do It Alone. From the Basics of Potion Making...^000000
+
+
+----------------Foreword--------------------
+
+The foundation of an alchemist is potions! HP, SP, even status ailments!
+You can make them too.
+The definitive guide to potion making, teaching step by step from the basics!
+
+------------------------------------------
+
+What is a ^FF0000Potion^000000?
+
+A single-use dose of medicine or poison.
+A potion generally refers to a single-use recovery item.
+This book explains how to make red, yellow, white, and blue potions,
+as well as Anti Painment and Aloe Vera.
+The appendix on Embryo creation is an essential element
+for alchemists who have studied bioethics.
+
+
+^0000FFRed Potion^000000: Restores approximately 45 HP.
+Materials: ^4B00821 Red Herb, 1 Empty Potion Bottle^000000
+Manufacturing Method: Prepare a mortar.
+          Place the herb into the mortar and grind it.
+          Gradually add clean water while continuing to grind the herb.
+          Pour into an empty potion bottle.
+          For a simpler method,
+          prepare this book and the materials and use the Pharmacy skill.
+
+
+^800000Yellow Potion^000000: Restores approximately 175 HP.
+Materials: ^4B00821 Yellow Herb, 1 Empty Potion Bottle^000000
+Manufacturing Method: Prepare a mortar.
+          Place the herb into the mortar and grind it.
+          Gradually add clean water while continuing to grind the herb.
+          Pour into an empty potion bottle.
+          For a simpler method,
+          prepare this book and the materials and use the Pharmacy skill.
+
+^008040White Potion^000000: Restores approximately 325 HP.
+Materials: ^4B00821 White Herb, 1 Empty Potion Bottle^000000
+Manufacturing Method: Prepare a mortar.
+          Place the herb into the mortar and grind it.
+          Gradually add clean water while continuing to grind the herb.
+          Pour into an empty potion bottle.
+          For a simpler method,
+          prepare this book and the materials and use the Pharmacy skill.
+
+^FF8040Blue Potion^000000: Restores approximately 60 SP.
+Materials: ^4B00821 Blue Herb, 1 Empty Potion Bottle, 1 Cell^000000
+Manufacturing Method: Prepare a mortar.
+          Place the herb into the mortar and grind it.
+          Gradually add clean water and finely ground cell
+          while continuing to grind the herb.
+          Pour into an empty potion bottle.
+          For a simpler method,
+          prepare this book and the materials and use the Pharmacy skill.
+
+^400080Anti Painment^000000: A painkiller that makes you forget pain for a certain period.
+Materials: ^4B00821 Alcohol, 1 Empty Bottle, 1 Ment^000000
+Manufacturing Method: Prepare a mortar.
+          Place the ment into the mortar and grind it.
+          Gradually add a small amount of clean water and alcohol
+          while continuing to grind the ment.
+          Pour into an empty bottle.
+          For a simpler method,
+          prepare this book and the materials and use the Pharmacy skill.
+
+
+^008040Aloe Vera^000000: Temporarily lowers defense and increases attack power.
+Materials: ^4B00821 Aloe, 1 Empty Bottle, 1 Honey^000000
+Manufacturing Method: Prepare a mortar.
+          Place the honey and aloe into the mortar and grind them.
+          Gradually add a small amount of clean water while stirring,
+          then pour into an empty bottle.
+          For a simpler method, prepare this book and the materials and use the Pharmacy skill.
+
+^FF0000Embryo^000000: Creates life in the form of an embryo of something.
+Materials: ^4B00821 Yggdrasil Dew, 1 Seed of Life, 1 Glass Tube^000000
+Manufacturing Method: The foundation of alchemy is the mortar.
+          Prepare a mortar.
+          Place the Yggdrasil Dew and Seed of Life into the mortar,
+          then use the Pharmacy skill to store it in a glass tube.
+          Further use requires study of bioethics.
+          This is extremely dangerous and requires sufficient research.
+
+^0000FFHomunculus Nutrition^000000: A nutritional supplement to increase intimacy with a homunculus.
+Materials: ^4B00821 Seed of Life, 1 Yellow Herb, 1 Empty Bottle^000000
+Manufacturing Method: The foundation of alchemy is the mortar.
+          Prepare a mortar.
+          Grind the Seed of Life and Yellow Herb in the mortar,
+          then use the Pharmacy skill to place them into an empty bottle and shake to mix.
+          Further use requires study of bioethics.

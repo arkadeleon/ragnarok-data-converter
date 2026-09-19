@@ -1,0 +1,23 @@
+%f5f5dc
+^000088Splendide-Verkaufsartikel^000000
+
+Die folgenden Gegenstände können mit Splendide-Münzen erworben werden.
+
+
+^008040[Eingekochte Pinguicula-Früchte]^000000
+Süß eingekochte Marmelade aus Pinguicula-Früchten.
+Erhöht 10 Minuten lang den physischen Schaden gegen Monster in den Feldgebieten von Splendide um 10%.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Gewicht: ^7777775^000000
+
+^008040[Luciolas Honigmarmelade]^000000
+Marmelade aus Luciolas Honig und Kräutern.
+Verringert 10 Minuten lang physischen und magischen Schaden durch Monster in den Feldgebieten von Splendide um 10%.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Gewicht: ^7777775^000000
+
+^008040[Cornus' Tränen]^000000
+Ein aus gereinigten Tränen des Cornus hergestellter Trank. Wie die Tränen gewonnen wurden, ist unbekannt.
+Erhöht 10 Minuten lang den magischen Schaden gegen Monster in den Feldgebieten von Splendide um 10%.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000
+Gewicht: ^7777775^000000

@@ -1,0 +1,22 @@
+%faf0e6
+^000088Dasar-Dasar Alkimia: Pembuatan Alkohol^000000
+
+
+----------------Pendahuluan--------------------
+
+Seluruh dunia alkimia sedang panik, bahkan saat aku menulis ini. Ratusan Alkemis, yang putus asa dengan penelitian mereka, telah menghasilkan alkohol dalam jumlah besar menggunakan metode yang diumumkan oleh Scholar Association. Tidak seorang pun dari kami menyangka bencana ini akan terjadi, tetapi semakin banyak Alkemis yang menyalahgunakan metode pembuatan alkohol ini. Aku berharap kamu, pembaca yang budiman, tidak pernah jatuh ke dalam keburukan alkohol setelah memutuskan untuk mempelajari alkimia. Buku ini kutinggalkan untukmu, dengan harapan dapat mencegah para Alkemis di masa depan menyakiti diri mereka sendiri dengan pengetahuan yang mereka pelajari.
+
+"Alkoholisme... Itu tidak baik!"
+
+------------------------------------------
+
+Apa itu ^FF0000alkohol^000000?
+
+Dalam kimia, alkohol adalah senyawa organik yang memiliki gugus hidroksil (-OH) yang terikat pada atom karbon dari gugus alkil atau alkil tersubstitusi.
+
+Rumus umumnya adalah ROH. Metanol terbentuk ketika gugus alkil berikatan dengan gugus metil, yaitu gugus alkil hidrofobik yang berasal dari etana. Etanol terbentuk ketika gugus alkil berikatan dengan gugus etil, yaitu gugus fungsi alkil yang berasal dari etana. Struktur gugus alkil sama dengan hidrokarbon rantai lurusnya, tetapi dengan satu atom hidrogen lebih sedikit.
+
+
+Bahan: ^4B00825 Stem, 5 Poison Spore, 1 Empty Test Tube, 1 Empty Bottle^000000
+
+Cara membuat: Masukkan stem yang telah diberi gula dan poison spore ke dalam botol kosong. Tambahkan sedikit air lalu didihkan. Kumpulkan gas yang dihasilkan, kemudian dinginkan untuk proses distilasi. Masukkan gas yang telah mencair ke dalam tabung reaksi kosong. Simpan buku ini bersamamu dan gunakan sebagai referensi saat mengumpulkan bahan serta menggunakan skill Pharmacy agar kamu dapat membuat Alcohol.

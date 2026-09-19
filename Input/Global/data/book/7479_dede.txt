@@ -1,0 +1,71 @@
+%faf0e6
+^000088Derzeit zieht ein Koch durch Rune-Midgarts..!!^000000
+- Ein bewegendes Epos der Kochkunst - Rezept der Stufe 8
+Keine Sorge, nur weil du all diese Gerichte lernst, musst du nicht selbst umherziehen!
+
+^FF0000Spezialgericht mit Bärentatze :^000000
+Zutaten : ^4B0082Bärenpfote 1 Stück, Karotte 1 Stück, Kürbiskopf 1 Stück, Aloe-Blatt 1 Stück,
+Hinalle-Blatt 1 Stück, Milde Soße 1 Stück^000000
+Zubereitung : Die eingeweichte Bärenpfote gründlich waschen, kurz in kochendem Wasser blanchieren
+und erneut gründlich säubern. Dann an den fleischigen Stellen kreuzförmige Einschnitte in Form eines "+" setzen und in ein Tuch wickeln.
+In einen Topf geben, Wasser, Salz, Reiswein und Pfeffer hinzufügen, aufkochen und den Schaum abschöpfen.
+Danach Ingwer und Frühlingszwiebeln hinzugeben und bei schwacher Hitze schmoren. Karotte und Kürbis in mundgerechte Stücke schneiden und garen.
+Die Blätter gründlich waschen, mit etwas Salz anbraten und die Hälfte in der Mitte des Tellers anrichten.
+Die gedämpfte Bärentatze aus dem Tuch nehmen und darauflegen. Die übrige Hälfte am Tellerrand platzieren
+und mit den gekochten Karotten und dem Kürbis garnieren. Die restliche Brühe vom Kochen der Bärentatze
+mit Milder Soße abschmecken, weiter einkochen und, sobald sie kräftiger wird, mit Duftöl verfeinern und über die Bärentatze gießen.
+Da Bärentatzen einen starken Eigengeruch haben, ist bei der Zubereitung Vorsicht geboten: Fremdstoffe und Haare gründlich entfernen,
+dabei die Oberfläche nicht beschädigen, häufig das Wasser wechseln und so den Geruch beseitigen.
+Besonders wichtig ist die richtige Hitzeregulierung beim Kochen.
+
+^0000FFKöniglicher Hochwertiger Tee :^000000 Je nach Blend ein ganz eigener Geschmack!
+Zutaten : ^4B0082Stachelige Frucht 1 Stück, Hinalle-Blatt 1 Stück, Yggdrasil-Blatt 1 Stück, Aloe-Blatt 1 Stück,
+Gelée Royale 1 Stück, Gelbes Gewürz 1 Stück^000000
+Zubereitung : Die gut getrocknete Stachelige Frucht und die Blätter sorgfältig anrösten, in passende Stücke schneiden
+und mit den fermentierten und getrockneten Blättern ausgewogen blenden.
+Für eine säuerlichere Note mehr Stachelige Frucht verwenden,
+für eine herbere Note mehr Hinalle-Blatt hinzufügen.
+In die Teekanne Wasser kurz vor dem Siedepunkt gießen,
+kleine Teeblätter 2–3 Minuten, große Teeblätter 3–4 Minuten ziehen lassen.
+Gelée Royale und Gelbes Gewürz nach Geschmack dosieren.
+
+^800000Spezial-Toast :^000000 Anders als Straßen-Toast – die Zutaten machen den Unterschied!
+Zutaten : ^4B0082Brot 1 Stück, Gelée Royale 1 Stück, Fleisch 1 Stück, Erdbeere 1 Stück, Scharfe Soße 1 Stück, Käse 1 Stück, Süße Soße 1 Stück^000000
+Zubereitung : Das Brot in Butter goldbraun rösten, das Fleisch fein hacken und mit Scharfer Soße vermengen,
+dann passend zur Brotgröße als dickes Patty anbraten. Die Erdbeeren zu Marmelade verarbeiten oder dünn aufschneiden.
+Die Marmelade auf das Brot streichen, das Fleischpatty darauflegen, Scharfe Soße darübergeben
+und mit Käse servieren. Bei der Variante mit dünnen Scheiben Scharfe Soße auf das Brot streichen, das Patty darauflegen,
+dann Süße Soße mit Gelée Royale mischen und obenauf streichen, Käse darauflegen,
+dünn geschnittene Erdbeeren darauflegen und mit einer weiteren Brotscheibe abdecken.
+
+^008040Superscharfes Curry +9 :^000000 So scharf, dass es beim Schlucken sticht!
+Zutaten : ^4B0082Aloe Vera 1 Stück, Scharfe Soße 1 Stück, Fleisch 1 Stück, Hinalle-Blatt 1 Stück,
+Kürbiskopf 1 Stück, Karotte 1 Stück^000000
+Zubereitung : Aloe Vera und Hinalle trocknen und zu Pulver verarbeiten.
+Das Fleisch in 2-cm-Würfel schneiden und mit Salz und Pfeffer vorwürzen.
+Kürbis und Karotte ebenfalls würfeln und in Butter in der Pfanne anbraten.
+Das Fleisch separat anbraten; sobald es gar ist, kurz mit dem vorgegarten Gemüse weiterbraten,
+dann das ausgewogen geblendete Aloe-Vera- und Hinalle-Pulver hinzufügen,
+weiter anrösten, Wasser zugießen und einkochen lassen. Zum Schluss Scharfe Soße hinzufügen und einmal kurz aufkochen.
+
+^FF8040Riesiges Wrap-Gericht :^000000 So groß, dass man es kaum allein schafft!
+Zutaten : ^4B0082Kleidung aus Blättern 1 Stück, Fleisch 1 Stück, Regenbogenkarotte 1 Stück, Kürbiskopf 1 Stück, Milde Soße 1 Stück, Getreide 1 Stück^000000
+Zubereitung : Bei der Kleidung aus Blättern die Fasern am Stiel entfernen, dann zusammen mit dem Kürbis im Dämpfer garen
+und in kaltem Wasser abkühlen. Das Fleisch entwässern, mit Garn binden,
+dann in kochendem Wasser mit Kürbis und Karotte etwa 40 Minuten garen. Etwas Milde Soße kann hinzugefügt werden.
+Wenn alles bis ins Innere durch ist, herausnehmen, kurz abkühlen lassen und in dünne Scheiben schneiden.
+Das Getreide schälen und zu Reis kochen; die Karotte in Streifen schneiden und kurz anbraten.
+Das Blatt ausbreiten und den Stiel nach innen legen.
+Reis, Fleisch, Karotte und Kürbis einfüllen, mit Milder Soße bestreichen und einwickeln.
+
+^400080Erdbeer-Reisbällchen :^000000 Manche nennen sie auch Reisbällchen mit Poring-Geschmack.
+Zutaten : ^4B0082Erdbeere 1 Stück, Getreide 1 Stück, Kleidung aus Blättern 1 Stück, Gelbes Gewürz 1 Stück, Rotes Gewürz 1 Stück, Milde Soße 1 Stück^000000
+Zubereitung : Das Getreide dreschen, schälen und zu Reis kochen; die Erdbeeren auspressen und den Saft bereithalten.
+Den locker gekochten Reis in eine breite Schüssel geben und etwas abkühlen lassen,
+dann Milde Soße, Gewürze und Erdbeersaft hinzufügen und gleichmäßig vermengen.
+Dabei nicht zu kräftig mischen, sonst werden die Reiskörner zerdrückt.
+In handliche Portionen formen und in leicht blanchierte Kleidung aus Blättern einwickeln.
+
+^FF3366Gemischtes Gericht Lv. 8 :^000000 Die Essenz der Küche auf Stufe 8
+Zutaten : ^4B0082Spezialgericht mit Bärentatze 1 Stück, Königlicher Hochwertiger Tee 1 Stück, Spezial-Toast 1 Stück, Superscharfes Curry +9 1 Stück, Riesiges Wrap-Gericht 1 Stück, Erdbeer-Reisbällchen 1 Stück^000000
+Zubereitung : Alle Gerichte der Stufe 8 sammeln und als große, ordentliche Festtafel anrichten.

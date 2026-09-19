@@ -1,0 +1,56 @@
+%faf0e6
+^000088Aku dapat menjadi hampir sepenuhnya mandiri jika menguasai dasar-dasar pembuatan potion…^000000
+
+
+----------------Pendahuluan--------------------
+
+Pembuatan potion dianggap sebagai salah satu dasar paling penting dalam alkimia. Edisi terakhir ini menjelaskan proses produksi potion yang memungkinkan para Alchemist memulihkan HP, SP, bahkan menyembuhkan status abnormal dengan menggunakan potion yang dapat mereka buat sendiri dengan mudah!
+
+------------------------------------------
+
+Apa itu ^FF0000Potion^000000?
+
+Potion adalah satu dosis obat cair atau racun. Sebagian besar potion digunakan sebagai obat untuk memulihkan HP atau SP, menyembuhkan status abnormal, atau meningkatkan kemampuan tubuh manusia untuk sementara waktu. Buku ini berisi petunjuk untuk membuat Red Potion, Yellow Potion, White Potion, Blue Potion, Anodyne, Aloe Vera, dan Embryo.
+
+
+^0000FFRed Potion^000000: Memulihkan 45 HP.
+
+Bahan yang Dibutuhkan: ^4B00821 Red Herb, 1 Empty Potion Bottle^000000
+Proses: Haluskan Red Herb di dalam mangkuk obat, lalu tambahkan air bersih secara perlahan. Kamu harus menyimpan buku ini sebagai referensi saat menggunakan skill Pharmacy untuk menuangkan larutan yang dihasilkan ke dalam Empty Potion Bottle.
+
+
+^800000Yellow Potion^000000: Memulihkan 175 HP.
+
+Bahan yang Dibutuhkan: ^4B00821 Yellow Herb, 1 Empty Bottle^000000
+
+Proses: Haluskan Yellow Herb di dalam mangkuk obat, lalu tambahkan air bersih secara perlahan. Kamu harus menyimpan buku ini sebagai referensi saat menggunakan skill Pharmacy untuk menuangkan larutan yang dihasilkan ke dalam Empty Potion Bottle.
+
+^008040White Potion^000000: Memulihkan 325 HP.
+
+Bahan yang Dibutuhkan: ^4B00821 White Herb, 1 Empty Bottle^000000
+
+Proses: Haluskan White Herb di dalam mangkuk obat, lalu tambahkan air bersih secara perlahan. Kamu harus menyimpan buku ini sebagai referensi saat menggunakan skill Pharmacy untuk menuangkan larutan yang dihasilkan ke dalam Empty Potion Bottle.
+
+^FF8040Blue Potion^000000: Memulihkan 60 SP.
+
+Bahan yang Dibutuhkan: ^4B00821 Blue Herb, 1 Empty Potion Bottle, 1 Scell^000000
+
+Proses: Haluskan Blue Herb dan Scell di dalam mangkuk obat, lalu tambahkan air bersih secara perlahan. Kamu harus menyimpan buku ini sebagai referensi saat menggunakan skill Pharmacy untuk menuangkan larutan yang dihasilkan ke dalam Empty Potion Bottle.
+
+^400080Anodyne^000000: Obat pereda nyeri yang untuk sementara waktu meniadakan rasa sakit.
+
+Bahan yang Dibutuhkan: ^4B00821 Alcohol, 1 Empty Bottle, 1 Ment^000000
+
+Proses: Haluskan Ment di dalam mangkuk obat, lalu tambahkan air dan alkohol secara perlahan. Kamu harus menyimpan buku ini sebagai referensi saat menggunakan skill Pharmacy untuk menuangkan larutan yang dihasilkan ke dalam Empty Bottle.
+
+^008040Aloe Vera^000000: Untuk sementara meningkatkan kemampuan menyerang, tetapi menurunkan kemampuan bertahan.
+
+Bahan yang Dibutuhkan: ^4B00821 Alcohol, 1 Empty Bottle, 1 Honey^000000
+
+Proses: Tuangkan Honey dan Alcohol ke dalam mangkuk obat, lalu aduk campuran tersebut. Tambahkan sedikit air secara perlahan sambil terus mengaduknya. Jika kamu merasa aneh karena tidak ada aloe dalam proses ini, pikirkan baik-baik mengapa kamu menjadi seorang alchemist dan apa yang dapat kamu lakukan dengan alkimia (jawaban yang benar adalah melewati bahan tertentu). Kamu harus menyimpan buku ini sebagai referensi saat menggunakan skill Pharmacy untuk menuangkan larutan yang dihasilkan ke dalam Empty Bottle.
+
+^FF0000Embryo^000000: Dasar dari kehidupan alkimia dan item yang dibutuhkan untuk menciptakan Homunculus.
+
+Bahan yang Dibutuhkan: ^4B00821 Morning Dew of Yggdrasil, 1 Seed of Life, 1 Glass Tube^000000
+
+Proses: Campurkan Morning Dew of Yggdrasil dan Seed of Life di dalam mangkuk obat, lalu gunakan skill Pharmacy untuk menuangkan hasilnya ke dalam Glass Tube hingga terbentuk sebuah embryo. Kamu harus mempelajari Bioethics untuk dapat menciptakan embryo; kamu juga harus sepenuhnya memahami bahaya yang berkaitan dengan penciptaan homunculus.

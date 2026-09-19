@@ -1,0 +1,53 @@
+%faf0e6
+^000088-Gönlü bile iyileştiren anne eli tadı. Aile sıcaklığını özleyen sana-^000000
+
+HP iyileştirmeyen Sv. 2 yemek tarifleri.
+
+^FF0000Perdeli Ayak Salatası :^000000 Hafif lezzetiyle yapışkanlığı azaltır, çiğneme keyfini artırır.
+Malzemeler : ^4B0082Yapışkan Perdeli Ayak 1, Yeşil Ot 1, Sarı Ot 1, Hafif Sos 1^000000
+Yöntem : Yapışkan Perdeli Ayak’ı buzlu suda beklet; Yeşil Ot ve Sarı Ot’u ince ince doğra.
+Uygun miktarda perdeli ayak al, doğranmış otlarla harmanla.
+Otlar yumuşayınca Hafif Sos’u ekle; kalan otları da ekleyip tekrar karıştır.
+Buzdolabında sakla; böylece çiğnenebilirliği korunur, yapışmaz.
+
+^0000FFOn Bin Yaprağın Siyah Çayı :^000000 Kurabiye ve kekle birlikte iç.
+Malzemeler : ^4B0082Mavi Ot 1, Kırmızı Ot 1, Sarı Ot 1^000000
+Yöntem : İyi kurutulmuş, fermente otları hazırla.
+İçine su kaçmaması için, kaynar suda yalnızca dışı ısıtılmış demliğe
+ot yapraklarını koy; kaynar suyu ekleyip kapağı kapat, 2~3 dakika demle.
+Ne çok uzun ne çok kısa olmalı; istersen süt, limon vb. ekle.
+
+
+^800000Çikolatalı Mus Kek :^000000 Tatlılığı ağzında erir.
+Malzemeler : ^4B0082Kakao 1, Kek Parçası 1, Süt 1, Beyaz Tabak 1
+Yöntem : İnce öğütülmüş kakao tozunu sütle çırpıp krema yap.
+Kek Parçası’nın pandispanyasından biraz bırak, kalanını afiyetle ye.
+Kalan keke kremayı ve kıvam artırıcıyı karıştır; soğukta dondurup tabağa al.
+
+^008040Kaygan Erişte :^000000 Kolay yemek için çubuk kullanmayı bilmek şart.
+Malzemeler : ^4B0082Tahıl 1, Hafif Sos 1, Kabak Kafası 1, Havuç 1^000000
+Yöntem : Eriştenin temeli hamurdur. Uygun proteinli tahılı öğütüp una çevir.
+Soğuk suyu azar azar ekle; uzat-katla tekrarıyla erişteyi yap.
+Hazırlanan erişteyi yaklaşık 1 gün dinlendirmek iyi olur.
+Kabak Kafası’nı suda iyice haşla; döver gibi ezince erişte gibi ince şeritler çıkar.
+Havucu ince ince doğra, hafifçe sotele.
+Erişteyi haşla; su taşacak gibi olunca az soğuk su ekle, bir kez daha kaynatıp çıkar.
+Haşlanan erişteyi soğuk suda ovalayarak yıka; esnekliği artar.
+Oyulmuş Kabak Kafası kabuğuna erişte ve kabak şeritlerini birlikte koy; hazırlanan suyu dök,
+üstüne sotelenmiş havucu ekle.
+
+
+^FF8040Deniz Ürünleri Yemeği :^000000 Çeşit çeşit deniz ürününün bir araya geldiği karışık.
+Malzemeler : ^4B0082Midye Eti 1, Dikenli Solungaç 1, Sırt Yüzgeci 1, Taze Balık 1^000000
+Yöntem : Midye Eti ve Taze Balık’ı hafifçe haşla, uygun boyda doğra.
+Pens vb. ile Dikenli Solungaç’taki dikenleri tamamen çıkar; hafifçe haşlayıp doğra.
+Sırt Yüzgeci’ni suda haşla; diğer malzemeleri üstüne dizip yelpaze gibi üç kez katla.
+
+
+^400080Karışık Meyve Suyu :^000000 Beklenmedik karışım, beklenmedik tat. Şanslı!Malzemeler : ^4B0082Elma Suyu 1, Havuç Suyu 1, Üzüm Suyu 1, Portakal Suyu 1^000000
+Yöntem : Oran ayarı önemli.
+Baz: Havuç Suyu. Karıştırma sırası ve oranlar lezzeti belirler.
+Ekşi sevenler: Elma Suyu → Portakal Suyu → Üzüm Suyu.
+Tatlı sevenler: Üzüm Suyu → Elma Suyu → Portakal Suyu.
+Arada sırada, sırf değişik tat için içenler de var.
+("Yeni bir dünya yaşadım." derler.)

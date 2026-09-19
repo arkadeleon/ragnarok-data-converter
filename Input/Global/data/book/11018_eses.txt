@@ -1,0 +1,23 @@
+%f5f5dc
+^000088Objetos a la venta en Splendide^000000
+
+Los siguientes objetos pueden adquirirse con monedas de Splendide.
+
+
+^008040[Confitura de frutos de Pinguicula]^000000
+Mermelada elaborada cociendo dulcemente los frutos de Pinguicula.
+El daño de los ataques físicos contra los monstruos de los campos de Splendide aumenta 10% durante 10 minutos.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrilion)^000000
+Peso: ^7777775^000000
+
+^008040[Mermelada de miel de Luciola]^000000
+Mermelada elaborada mezclando miel de Luciola con hierbas.
+El daño físico y mágico recibido de los monstruos de los campos de Splendide disminuye 10% durante 10 minutos.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrilion)^000000
+Peso: ^7777775^000000
+
+^008040[Lágrimas de Cornus]^000000
+Poción elaborada refinando lágrimas de Cornus. Se desconoce cómo se obtuvieron dichas lágrimas.
+El daño de los ataques mágicos contra los monstruos de los campos de Splendide aumenta 10% durante 10 minutos.
+^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrilion)^000000
+Peso: ^7777775^000000

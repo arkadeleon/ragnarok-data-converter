@@ -1,0 +1,127 @@
+^FF3300[Yin-Yang Sword]^000000
+Pedang yang dipenuhi kekuatan Yin dan Yang.
+Physical damage terhadap monster Demon +5%, physical damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: One-Handed Sword  ATK: 130  Berat : 80  Weapon Level: 3
+Required Level: 70  Equip: Swordman Class/Merchant Class  Slot: 2
+
+^FF3300[Yin-Yang Greatsword]^000000
+Greatsword yang dipenuhi kekuatan Yin dan Yang.
+Physical damage terhadap monster Demon +5%, physical damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Two-Handed Sword  ATK: 180  Berat : 140  Weapon Level: 3
+Required Level: 70  Equip: Swordman Class  Slot: 2
+
+^FF3300[Yin-Yang Dagger]^000000
+Belati yang dipenuhi kekuatan Yin dan Yang.
+Physical damage terhadap monster Demon +5%, physical damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Dagger  ATK: 130  Berat : 80  Weapon Level: 3
+Required Level: 70  Equip: Swordman Class/Thief Class/Merchant Class  Slot: 2
+
+^FF3300[Yin-Yang Bow]^000000
+Busur yang dipenuhi kekuatan Yin dan Yang.
+Physical damage terhadap monster Demon +5%, physical damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Bow  ATK: 130  Berat : 100  Weapon Level: 3
+Required Level: 70  Equip: Archer Class/Thief Class  Slot: 2
+
+^FF3300[Yin-Yang Staff]^000000
+Tongkat yang dipenuhi kekuatan Yin dan Yang. MATK +130, Unbreakable.
+Magic damage terhadap monster Demon +5%, magic damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan magic damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan magic damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: One-Handed Staff  ATK: 40  Berat : 80  Weapon Level: 3
+Required Level: 70  Equip: Novice Class/Mage Class/Acolyte Class/Soul Linker Class  Slot: 2
+
+^FF3300[Yin-Yang Mace]^000000
+Gada yang dipenuhi kekuatan Yin dan Yang.
+Unbreakable. Physical damage terhadap monster Demon +5%, physical damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Mace  ATK: 130  Berat : 120  Weapon Level: 3
+Required Level: 70  Equip: Swordman Class/Novice Class/Acolyte Class/Merchant Class  Slot: 2
+
+^FF3300[Yin-Yang Katar]^000000
+Katar yang dipenuhi kekuatan Yin dan Yang.
+Physical damage terhadap monster Demon +5%, physical damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Katar  ATK: 150  Berat : 120  Weapon Level: 3
+Required Level: 70  Equip: Assassin Class  Slot: 2
+
+^FF3300[Yin-Yang Axe]^000000
+Kapak yang dipenuhi kekuatan Yin dan Yang.
+Unbreakable. Physical damage terhadap monster Demon +5%, physical damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Two-Handed Axe  ATK: 180  Berat : 140  Weapon Level: 3
+Required Level: 70  Equip: Merchant Class  Slot: 2
+
+^FF3300[Yin-Yang Spear]^000000
+Tombak yang dipenuhi kekuatan Yin dan Yang.
+Physical damage terhadap monster Demon +5%, physical damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Two-Handed Spear  ATK: 180  Berat : 140  Weapon Level: 3
+Required Level: 70  Equip: Swordman Class  Slot: 2
+
+^FF3300[Yin-Yang Vambrace]^000000
+Sarung tangan tempur yang dipenuhi kekuatan Yin dan Yang.
+Physical damage terhadap monster Demon +5%, physical damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Knuckle  ATK: 130  Berat : 80  Weapon Level: 3
+Required Level: 70  Equip: Monk Class/Priest Class  Slot: 2
+
+^FF3300[Yin-Yang Book]^000000
+Buku yang dipenuhi kekuatan Yin dan Yang.
+MATK +130. Physical/Magic damage terhadap monster Demon +5%, terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical/magic damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical/magic damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Book  ATK: 130  Berat : 80  Weapon Level: 3
+Required Level: 70  Equip: Sage Class/Priest Class/Champion Class  Slot: 2
+
+^FF3300[Yin-Yang Whip]^000000
+Cambuk yang dipenuhi kekuatan Yin dan Yang.
+Physical damage terhadap monster Demon +5%, physical damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Whip  ATK: 130  Berat : 80  Weapon Level: 3
+Required Level: 70  Equip: Dancer Class  Slot: 2
+
+^FF3300[Yin-Yang Instrument]^000000
+Alat musik yang dipenuhi kekuatan Yin dan Yang.
+Physical damage terhadap monster Demon +5%, physical damage terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Instrument  ATK: 130  Berat : 80  Weapon Level: 3
+Required Level: 70  Equip: Bard Class  Slot: 2
+
+^FF3300[Yin-Yang Ninja Blade]^000000
+Belati ninja yang dipenuhi kekuatan Yin dan Yang.
+MATK +70. Physical/Magic damage terhadap monster Demon +5%, terhadap musuh elemen Fire +5%.
+Saat Refine +7, tambahan physical/magic damage terhadap monster Demon +5% dan terhadap musuh elemen Fire +5%.
+Saat Refine +9, tambahan physical/magic damage terhadap monster Demon +10% dan terhadap musuh elemen Fire +10%.
+
+Type: Dagger  ATK: 130  Berat : 80  Weapon Level: 3
+Required Level: 70  Equip: Ninja Class  Slot: 2
+
+^FFFFFF[Yin-Yang Firearm]^000000

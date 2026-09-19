@@ -1,0 +1,65 @@
+= Cuisine mixte
+
+^000088Il suffit de tout mettre dans la marmite à ragoût pour obtenir un plat en un clin d'œil !
+Le tout dernier recueil de recettes de ragoûts, écrit par le mystérieux et scientifique chef Digourman en personne
+^0000FFCuisine mixte Vol.1 ^000000
+
+
+
+
+
+
+^008040Ingrédients du rôti de Savage : ^FF0000Marmite à ragoût 1 / Viande de sauvage 1, Brochette de cuisine 1, Charbon noir 1^000000
+
+~ Beaucoup se demandent comment un rôti peut sortir d’une marmite, mais en réalité, on met du charbon brûlant dans
+la marmite, on y place la viande embrochée, puis on enterre le tout pendant environ 30 minutes.
+La cuisine, c’est l’imagination ! Ça commence par l’imagination, vous voyez ! (…)
+
+
+
+^008040Ingrédients du cocktail Warg Blood : ^FF0000Marmite à ragoût 1 / Sang de loup 3, Glace froide 2 ^000000
+
+~ C’est un cocktail que j’ai inventé en voyageant près du nord. Il faisait chaud. Pas d’eau...
+Honnêtement, j’aurais même voulu boire de l’eau croupie, mais ma fierté de cuisinier ne me le permettait pas.
+J’ai cherché s’il n’y avait pas un Muka dans les parages, mais il n’y avait même pas de salive de Muka. Désespéré,
+je suis allé jusqu’aux environs de la grotte de glace et je suis tombé sur une meute de loups... Quelle foule...
+Je me suis réfugié dans la grotte de glace, mais certains m’ont poursuivi jusque-là... (…)
+Je n’ai eu aucun problème jusqu’à ce que la garde me voie couvert de sang et de glace dans la grotte...
+(…) Au final, ils m’ont pris pour un vampire ! En quoi est-ce que je ressemble à un vampire !
+
+^008040Ingrédients du brisket du mineur : ^FF0000Marmite à ragoût 1 / Viande de tête de bœuf 2, Grande marmite 1^000000
+
+~ Après avoir jeûné trois jours dans le labyrinthe du donjon de la pyramide, je ne voyais plus rien.
+Je ramassais même des Jejellopy par terre pour les manger. Puis j’ai senti une bonne odeur et je suis allé voir...
+Et là, incroyable ! Quelqu’un faisait bouillir quelque chose dans une marmite ! En mangeant frénétiquement,
+j’ai senti une présence derrière moi... enfin, une présence bovine ? En fait, il se peut que j’aie été dans la marmite...
+Ah ! Je parlais de la recette... Bref, il faut d’abord retirer les cornes... ! (…)
+
+^008040Ingrédients du thé glacé de Siroma : ^FF0000Marmite à ragoût 1 / Fragment de glace 3, Cristal de glace 2, Fruit tropical de Comodo 1^000000
+
+~ Franchement, comment voulez-vous manger ces petites créatures si mignonnes ? On ne peut attraper que de la glace.
+Mais le fruit tropical de Comodo doit être congelé à l’avance pour être vraiment délicieux, et avec la technologie actuelle,
+c’est impossible ! Mais cette marmite à ragoût ! Grâce à elle, un miracle s’est produit !
+En mettant la marmite à ragoût, de la glace et des fruits tropicaux ensemble, on peut conserver le tout pendant trois semaines !
+En s’en inspirant, on obtient une boisson au goût et au parfum raffinés ! Allez, vous pouvez le faire tout de suite !
+Et en ce moment, en vente limitée : 10 fruits de Comodo et 10 marmites à ragoût en set pour 39 900 Zeny… (…)
+
+^008040Ingrédients des herbes vapeur de Drosera : ^FF0000Marmite à ragoût 1 / Tentacule de Drosera 3, Herbe rouge 3, Herbe bleue 3, Herbe blanche 3,
+Grande marmite 1 ^000000
+
+~ Pour ceux qui détestent les légumes verts, c’est idéal. Les herbes mélangées offrent un festival de couleurs !
+Et en bouche, c’est frais, et la texture est excellente.
+Comme la texture des légumes fatigue la mâchoire, on ne peut pas en manger beaucoup, c’est vrai.
+Mais associée à la texture moelleuse de la Drosera, on obtient un croquant fantastique.
+J’aurais voulu ajouter plus d’assaisonnement, mais pour ne pas tuer le parfum des herbes, j’ai évité d’autres ingrédients.
+Pour mélanger, faites : haut haut bas bas gauche droite gauche droite BA… (…)
+
+^008040Ingrédients des nouilles à la Queue de Petite : ^FF0000Marmite à ragoût 1 / Queue de Petite 2, Nouilles fines 1, Bouillon frais 1^000000
+
+~ Je suis surtout surpris que personne n’ait essayé de manger la Queue de Petite. C’est un délice d’été.
+L’eau de ce bouillon provient d’un village particulièrement propre (bip-)...
+Oups, secret industriel... Le nom du village est off the record, s’il vous plaît.
+Quoi qu’il en soit, les nouilles fines sont faites avec de la farine issue de blé cultivé sans pesticides.
+En été, avec des ingrédients aussi légers et frais, pas besoin d’ajouter du goût : la saveur naturelle suffit.
+Le bouillon de Queue de Petite intensifie encore ce goût. Il faut donc laisser maturer une journée entière dans la marmite à ragoût...
+(…)

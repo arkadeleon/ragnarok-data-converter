@@ -1,0 +1,37 @@
+%faf0e6
+^000088Bases de l'alchimie pour la fabrication d'Alcool^000000
+
+
+----------------Préface--------------------
+
+Au moment où j'écris cette recette, le monde de l'alchimie est en grand tumulte.
+De nombreux alchimistes, découragés par leurs recherches,
+ont utilisé la méthode de fabrication d'Alcool présentée à l'académie pour produire de grandes quantités d'Alcool.
+Beaucoup de gens en sont venus à en dépendre.
+Ce n'était pas le résultat que j'espérais, mais le constat est désastreux.
+J'espère qu'aucun apprenti alchimiste lisant ce livre ne connaîtra jamais une telle situation.
+Je laisse à nouveau cette recette à la postérité, en espérant que jamais tu ne fabriqueras d'Alcool pour te nuire toi-même.
+
+"Alcoolisme !!! Ce n'est vraiment pas bon !!"
+
+------------------------------------------
+
+
+
+^FF0000Qu'est-ce que l'Alcool ?^000000
+
+Terme générique pour les composés dans lesquels un atome d'hydrogène d'un hydrocarbure est remplacé par un groupe hydroxyle (-OH).
+
+La formule générale est ROH (R = groupe alkyle). Si le groupe alkyle est un méthyle, on l'appelle méthanol ;
+si c'est un éthyle, on l'appelle éthanol, etc. On ajoute le suffixe -ol au nom du groupe alkyle.
+Un groupe méthyle correspond à un méthane auquel on a retiré un atome d'hydrogène,
+un groupe éthyle à un éthane auquel on a retiré un atome d'hydrogène.
+Autrement dit, un groupe alkyle est un hydrocarbure auquel il manque un atome d'hydrogène.
+
+
+Ingrédients : ^4B0082Tige de plante x5, Spore vénéneuse x5, Tube à essai vide x1, Bouteille vide x1^000000
+Méthode : Place les tiges de plante riches en sucres et les spores de champignon vénéneux traitées dans une bouteille vide
+et fais bouillir avec de l'eau. Refroidis le gaz produit pour le condenser par distillation.
+Récupère le liquide obtenu dans un tube à essai vide.
+Pour une fabrication simplifiée, il suffit d'avoir ce livre sur soi, de réunir les ingrédients
+et d'utiliser la compétence de base d'alchimie, la Pharmacie.

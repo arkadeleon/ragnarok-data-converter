@@ -1,0 +1,29 @@
+%faf0e6
+^000088Fundamentos de alquimia para fabricar cócteles molotov^000000
+
+
+----------------Prólogo--------------------
+
+Desde que la fabricación de alcohol se dio a conocer al mundo, se ha utilizado para diversos fines..
+En el ejército, mientras buscábamos un método más eficaz, sencillo
+y fácil de usar, descubrimos que la mejor forma de aprovecharlo era convertirlo en un cóctel molotov.
+Al haber sido creado para uso militar, resulta peligroso en manos de civiles.
+Dejo constancia de ello con la esperanza de que este documento no se divulgue y provoque alguna desgracia.
+
+------------------------------------------
+
+
+
+¿Qué es un ^0000FFcóctel molotov^000000?
+
+Una especie de granada incendiaria improvisada que contiene una sustancia inflamable en una botella de cristal.
+
+
+
+Materiales: ^4B0082alcohol 1 unidad, tela transparente 1 unidad, botella vacía 1 unidad^000000
+Método de fabricación: prepara un mortero.
+Vierte con cuidado el alcohol en el mortero y deja que se oxide ligeramente al entrar en contacto con el aire.
+Vuelve a verter el alcohol en la botella vacía, sumerge un extremo de la tela transparente hasta que quede empapado de alcohol,
+ata una vez el otro extremo y utiliza la parte anudada para tapar la abertura de la botella vacía.
+Para fabricarlo fácilmente, lleva este libro contigo, reúne los materiales necesarios
+y utiliza Farmacia, una técnica básica de alquimia.

@@ -1,0 +1,48 @@
+1. Herramienta de creación de efectos
+   Esta herramienta determina cómo se mostrará el efecto de huellas dentro del juego. Permite ajustar con precisión no solo el aspecto de la imagen, sino también su tamaño, la disposición al cargarla y el tipo de animación. Si la imagen deseada en formato PNG se encuentra en la ruta indicada en la parte inferior de la ventana emergente, podrá cargarse mediante esta herramienta.
+ 
+2. Cuerpo completo
+   Imagen necesaria para el efecto de estela que permanece alrededor del cuerpo del personaje a lo largo del recorrido anterior mientras se mueve.
+   La imagen debe estar en formato PNG, tener un tamaño de 128x128 px y no superar los 64 KB.
+   Solo se detectarán las imágenes de la carpeta footprint cuyos nombres de archivo estén formados únicamente por letras del alfabeto inglés y números.
+ 
+3. Suelo
+   Imagen necesaria para el efecto de estela que permanece en el suelo a lo largo del recorrido anterior mientras el personaje se mueve.
+   La imagen debe estar en formato PNG, tener un tamaño de 128x128 px y no superar los 64 KB.
+   Solo se detectarán las imágenes de la carpeta footprint cuyos nombres de archivo estén formados únicamente por letras del alfabeto inglés y números.
+ 
+※ Para garantizar un entorno de uso seguro, las imágenes de los efectos de Cuerpo completo y Suelo se vuelven a procesar píxel a píxel durante el guardado. Incluso después del procesamiento, se mostrarán de la forma más parecida posible a las imágenes originales.
+ 
+4. Tipo de animación
+   Determina el tipo de animación que se utilizará cuando el efecto aparezca y desaparezca. También se incluyen efectos de partículas dispersas.
+ 
+5. Orientación de la marca en el suelo
+   Determina si la orientación del efecto seguirá la dirección de movimiento del personaje o si siempre mirará hacia la pantalla, independientemente de la dirección del personaje.
+ 
+6. Tamaño en el suelo
+   Determina el tamaño del efecto adherido al suelo.
+   Cuanto mayor sea el valor, mayor será el efecto.
+ 
+7. Tamaño de cuerpo completo
+   Determina el tamaño del efecto adherido al cuerpo del personaje.
+   Cuanto mayor sea el valor, mayor será el efecto.
+ 
+8. Altura de cuerpo completo
+   Determina la altura del efecto adherido al cuerpo del personaje.
+   Cuanto mayor sea el valor, más alta será la posición del efecto.
+ 
+9. Separación entre los pies
+   Determina la distancia entre el pie izquierdo y el derecho.
+   Cuanto mayor sea el valor, mayor será la separación entre los pies.
+ 
+10. Frecuencia de aparición
+    Determina la frecuencia con la que aparece el efecto.
+    Cuanto menor sea el valor, más frecuentemente aparecerá el efecto en un periodo breve.
+ 
+11. Mapa de fondo
+    Cambie el fondo para comprobar el resultado del efecto en cada entorno.
+ 
+12. Botones de reproducción y detención
+    Pulse Reproducir para comprobar el efecto creado en la pantalla correspondiente del juego.
+    Sin embargo, el efecto no funcionará si no se ha añadido la imagen de Cuerpo completo o la imagen de Suelo.
+    Pulse Detener para detener el efecto que se esté reproduciendo.

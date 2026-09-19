@@ -1,0 +1,29 @@
+%faf0e6
+^000088Alchemy Basics for Manufacturing Molotov Cocktails^000000
+
+
+----------------Foreword--------------------
+
+Since alcohol production became known to the world, it has been used for various purposes.
+While searching for a more efficient and convenient method for military use,
+we discovered a way to maximize its effectiveness—the Molotov cocktail.
+As it was created for military purposes, its use by civilians is dangerous.
+I leave this record in the hope that this document does not spread outside and cause unfortunate incidents.
+
+------------------------------------------
+
+
+
+What is a ^0000FFMolotov Cocktail^000000?
+
+A type of simple incendiary grenade made by filling a glass bottle with an incendiary agent.
+
+
+
+Materials: ^4B00821 Alcohol, 1 Transparent Cloth Piece, 1 Empty Bottle^000000
+Manufacturing Method: Prepare a mortar.
+                    Carefully pour alcohol into the mortar and allow it to slightly oxidize through contact with air.
+                    Pour the alcohol back into the empty bottle, soak one end of the transparent cloth in the alcohol,
+                    tie the other end once, and use the tied part to seal the mouth of the bottle.
+                    For easier manufacturing, carry this book, prepare the materials,
+                    and use Pharmacy, the basic skill of alchemy.

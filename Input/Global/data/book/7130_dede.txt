@@ -1,0 +1,35 @@
+%faf0e6
+^000088Alchemie zur Herstellung von Pflanzenflaschen^000000
+
+
+----------------Vorwort--------------------
+Die Alchemie des Lebens ist eine äußerst schwierige Aufgabe.
+Der erste Schritt auf dem Weg zur Erforschung der hochrangigen Lebenserschaffung
+war die Erschaffung von Pflanzen.
+Doch die schwache Lebenskraft gewöhnlicher Pflanzen brachte nur Misserfolge.
+Als sich keine Forschungsergebnisse zeigten und wir kurz davor waren, aufzugeben,
+erfuhren wir von der Existenz einer Menschenfresserpflanze.
+Eine Pflanze mit stärkerer Überlebenskraft als andere Pflanzen und wilder Natur...
+Die Menschenfresserpflanze, die wir nahe Mt. Mjolnir und Juno nach langem Umherirren fanden, brachte unserer Forschung
+gewaltige Erfolge und große Freude.
+So öffnete sich uns die erstaunliche Welt der Pflanzentransmutation.
+------------------------------------------
+
+
+
+
+^FF8040Pflanzenflasche^000000 – Was ist das?
+
+Eine Flasche, die eine Pflanze enthält, welche bei einem Wurf auf den Boden augenblicklich zu einer Menschenfresserpflanze heranwächst
+und Lebewesen in ihrer Nähe angreift, um sie zu verschlingen,
+dank einer speziellen Verarbeitung.
+Doch selbst unter Alchemisten sollen nur jene sie verwenden können,
+die eine besondere Technik erlernt haben.
+
+
+Zutaten : ^4B0082Blüte der Menschenfresserpflanze 2 Stück, Leere Flasche 1 Stück^000000
+Herstellung : Eine Mörserschale vorbereiten.
+2 Blüten der Menschenfresserpflanze in die Mörserschale geben und dieses Buch bei sich tragen.
+Dann Trankzubereitung verwenden und das Ergebnis in eine Leere Flasche füllen.
+Die Alchemie zur Beschwörung der Menschenfresserpflanze muss getrennt von der Transmutationskunst erlernt werden,
+um sie einsetzen zu können.

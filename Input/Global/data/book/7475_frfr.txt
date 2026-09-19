@@ -1,0 +1,57 @@
+%faf0e6
+^000088-Une histoire culinaire émouvante à laquelle personne ne peut résister.-^000000
+
+« Tu es déjà en train de manger ! » : le sous-titre de cette recette de niveau 4 ! En vente avec un grand succès.
+Mais ne t’inquiète pas, cela ne veut pas dire que tu vas dévorer n’importe qui !
+
+^FF0000Côtes marinées aux herbes :^000000 Viande de côtes de qualité, maturée avec un assaisonnement aux herbes : une tendreté exceptionnelle !
+Ingrédients : ^4B0082Viande x1, Herbe rouge x1, Herbe jaune x1, Herbe verte x1, Sauce sucrée x1, Citron x1^000000
+Préparation : Retirer le gras de la viande, inciser légèrement la chair, puis la faire tremper dans l’eau environ 1 heure pour enlever le sang.
+Hacher finement les herbes, mélanger la Sauce sucrée avec une quantité appropriée d’eau, faire bouillir environ 1 heure, puis, une fois refroidi, ajouter le jus de citron,
+bien mélanger, puis laisser refroidir. Préparer un grand plat et un récipient : verser le jus de marinade dans le grand plat,
+y tremper les morceaux de viande préparés un par un, puis les empiler dans le récipient. Verser le reste du jus de marinade ensuite
+dans le récipient et laisser maturer environ une journée à température ambiante, puis griller.
+
+^0000FFVin aux fruits de Morroc :^000000 Acidulé et sucré ! Même ceux qui n’aiment pas l’alcool apprécieront !
+Ingrédients : ^4B0082Fraise x1, Citron x1, Orange x1, Alcool x1, Raisin x1^000000
+Préparation : Presser le citron et l’Orange à l’aide d’un presse-agrumes (outil pour extraire le jus des fruits).
+Laver soigneusement la fraise et retirer le pédoncule ; peler le raisin puis retirer les pépins,
+mettre dans un mixeur et mixer 30 secondes. Ajouter Alcool x1 et le jus de citron, puis mixer 5 secondes supplémentaires.
+Pour finir, ajouter Alcool x1 et le jus d’Orange, puis mixer 15 secondes : c’est prêt !
+
+^800000Sandwich glacé :^000000 Plein de crème ! Si tu trouves qu’il y en a trop, évite de t’en mettre dans les cheveux !
+Ingrédients : ^4B0082Pain x1, Lait x1, Fromage x1, Herbe jaune x1, Viande x1, Sauce sucrée x1^000000
+Préparation : Faire légèrement griller le pain au beurre, et fouetter le lait pour obtenir de la crème (créma).
+Couper la viande en steak épais et la cuire à point.
+Mettre les herbes sur le pain, étaler la Sauce sucrée, puis ajouter le steak.
+Ajouter le fromage, puis encore des herbes, puis mettre une généreuse couche de crème avant de refermer avec le pain.
+
+^008040Naengmyeon bibim de Lutie :^000000 Petit prix et piquant renversant !
+Ingrédients : ^4B0082Céréales x1, Sauce épicée x1, Fragment de glace x1, Carotte x1, Tête de courge x1^000000
+Préparation : Moudre des Céréales à teneur adéquate en protéines, puis ajouter progressivement de l’eau chaude pour former une pâte,
+et pétrir jusqu’à ce qu’elle devienne élastique et brillante.
+Mettre la pâte dans un moule carré (avec une grille fixée au fond), couvrir,
+puis presser fortement par-dessus pour extruder les nouilles. Les cuire dans l’eau bouillante, les rincer à l’eau froide,
+puis les égoutter.
+Mettre la Tête de courge dans l’eau et la faire bouillir, puis la frapper comme pour l’écraser : elle sortira en fins filaments, comme des nouilles.
+Couper la carotte en fines juliennes. Mettre les nouilles et les filaments de courge dans un bol, ajouter le Fragment de glace,
+dresser une quantité appropriée de Sauce épicée par-dessus, puis ajouter la carotte.
+
+^FF8040Salade de méduse :^000000 Elle est bien cuite, donc aucun risque de piqûre.
+Ingrédients : ^4B0082Tentacule x1, Herbe blanche x1, Brin d’herbe tendre x1, Vieille poêle x1, Encre x1^000000
+Préparation : Rincer le Brin d’herbe tendre à l’eau, bien l’essorer, puis l’assaisonner avec la sauce à l’encre et mélanger.
+Émincer le tentacule, le laver, puis faire chauffer de l’eau dans une Vieille poêle et le blanchir légèrement,
+ensuite le rincer à l’eau froide et bien l’essorer. Si on le blanchit trop longtemps, il se rétracte,
+donc le tremper brièvement dans l’eau chaude puis l’égoutter.
+Mélanger l’Herbe blanche émincée, le tentacule et le Brin d’herbe tendre assaisonné, ajouter un peu plus d’assaisonnement à l’encre,
+laisser bien refroidir, puis servir dans une assiette.
+
+^400080Plat de poisson ancien :^000000 Ne t’inquiète pas : tu n’auras pas du tout l’impression d’embrasser un poisson ancien !
+Ingrédients : ^4B0082Lèvres de poisson ancien x1, Feuille de raton laveur x1, Herbe blanche x1, Poisson savoureux x1, Sauce sucrée x1^000000
+Préparation : Laver soigneusement les Lèvres de poisson ancien à l’eau salée. Préparer le Poisson savoureux
+en retirant la tête et les entrailles, puis lever trois filets en prenant l’arête centrale comme axe
+et, à l’aide d’une pince, retirer les petites arêtes restantes, puis le faire mariner avec Sauce sucrée x1.
+Une fois bien mariné, tapisser le fond du cuiseur vapeur avec la Feuille de raton laveur et cuire à la vapeur.
+À ce moment-là, placer le côté peau vers le bas pour éviter que la chair ne se rétracte.
+Avant que la vapeur ne monte dans le cuiseur, répartir uniformément la Sauce sucrée,
+saupoudrer l’Herbe blanche émincée et cuire à la vapeur environ 20 minutes.

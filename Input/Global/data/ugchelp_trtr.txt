@@ -1,0 +1,48 @@
+1. Efekt Oluşturma Aracı
+   Bu araç, ayak izi efektinin oyun içinde nasıl görüneceğini belirler. Görselin görünümünün yanı sıra görsel boyutu, yüklenirken uygulanacak yerleşim düzeni ve animasyon biçimi de ayrıntılı olarak ayarlanabilir. İstenen PNG görseli, açılır pencerenin alt kısmında gösterilen konumda bulunuyorsa bu araçla yüklenebilir.
+ 
+2. Tam Vücut
+   Karakter hareket ederken geçtiği yol boyunca vücudunun çevresinde kalan iz efekti için gereken görseldir.
+   Görsel PNG formatında, 128x128 px boyutunda ve en fazla 64 KB olmalıdır.
+   footprint klasöründe yalnızca dosya adı İngilizce harfler ve rakamlardan oluşan görseller algılanır.
+ 
+3. Zemin
+   Karakter hareket ederken geçtiği yol boyunca zeminde kalan iz efekti için gereken görseldir.
+   Görsel PNG formatında, 128x128 px boyutunda ve en fazla 64 KB olmalıdır.
+   footprint klasöründe yalnızca dosya adı İngilizce harfler ve rakamlardan oluşan görseller algılanır.
+ 
+※ Güvenli bir kullanım ortamı sağlamak amacıyla Tam Vücut ve Zemin efekt görselleri kaydedilirken piksel düzeyinde yeniden işlenir. İşlemden sonra da görseller mümkün olduğunca orijinal görüntüyle aynı şekilde gösterilir.
+ 
+4. Animasyon Türü
+   Efektin görünürken ve kaybolurken kullanacağı animasyon türünü belirler. Dağılan parçacık efektleri de sunulur.
+ 
+5. Zemin Damgası Yönü
+   Efektin yönünün karakterin hareket yönünü takip edip etmeyeceğini veya karakterin yönünden bağımsız olarak her zaman ekrana dönük olup olmayacağını belirler.
+ 
+6. Zemin Boyutu
+   Zemine yapışık efektin boyutunu belirler.
+   Değer arttıkça efektin boyutu büyür.
+ 
+7. Tam Vücut Boyutu
+   Karakterin vücuduna yapışık efektin boyutunu belirler.
+   Değer arttıkça efektin boyutu büyür.
+ 
+8. Tam Vücut Yüksekliği
+   Karakterin vücuduna yapışık efektin yüksekliğini belirler.
+   Değer arttıkça efekt daha yüksek bir konumda görünür.
+ 
+9. Ayak Aralığı
+   Sol ve sağ ayak arasındaki mesafeyi belirler.
+   Değer arttıkça ayaklar arasındaki mesafe genişler.
+ 
+10. Görünme Sıklığı
+    Efektin ne sıklıkla görüneceğini belirler.
+    Değer azaldıkça efekt kısa süre içinde daha sık görünür.
+ 
+11. Arka Plan Haritası
+    Arka planı değiştirerek efektin farklı ortamlardaki sonucunu kontrol edin.
+ 
+12. Oynat ve Durdur Düğmeleri
+    Oynat düğmesine basarak oluşturulan efekti ilgili oyun ekranında kontrol edebilirsiniz.
+    Ancak Tam Vücut görseli veya Zemin görseli eklenmemişse efekt çalışmaz.
+    Durdur düğmesine basıldığında oynatılmakta olan efekt durur.

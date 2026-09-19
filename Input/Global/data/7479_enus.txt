@@ -1,0 +1,84 @@
+%faf0e6
+^000088There is a chef wandering Rune-Midgarts right now..!!^000000
+ - An epic tale of spreading moving cuisine - Level 8 Recipe
+Don’t worry—you won’t end up wandering just because you learn all these dishes!
+
+
+^FF0000Special Bear Paw Dish:^000000 
+Materials: ^4B00821 Bear Paw, 1 Carrot, 1 Pumpkin Head, 1 Aloe Leaf,
+         1 Hinare Leaf, 1 Light Sauce^000000
+Cooking Method: Wash the bear paw that has been soaked in water clean,
+          blanch it briefly in boiling water, then wash it clean once more,
+          and carve "+"-shaped cuts into the fleshy part, then wrap it in cloth.
+          Place it in a pot and boil with water, salt, refined rice wine, and pepper,
+          remove the foam, then add ginger and scallions and simmer over low heat until tender.
+          Cut the carrot and pumpkin into bite-sized pieces and boil to prepare.
+          Wash the leaves clean, stir-fry them with a little salt,
+          place half in the center of the plate,
+          remove the steamed bear paw from the cloth and place it on top.
+          Arrange the other half around the plate and garnish with the boiled carrot and pumpkin.
+          Season the remaining bear-paw broth with light sauce, boil until it thickens,
+          finish with aromatic oil, and pour it over the bear paw.
+          Because bear paw can have a strong odor, take care during cooking:
+          remove impurities and hair thoroughly, but trim carefully so the outer surface is not damaged,
+          and change the water often to remove the smell.
+          In particular, controlling the heat while boiling bear paw is important.
+
+^0000FFRoyal Exclusive Premium Tea:^000000 A different flavor depending on the blending method!
+Materials: ^4B00821 Thorny Fruit, 1 Hinare Leaf, 1 Yggdrasil Leaf, 1 Aloe Leaf,
+         1 Royal Jelly, 1 Yellow Spice^000000
+Cooking Method: Roast the well-dried thorny fruit and leaves, cut them into appropriate sizes,
+          then blend appropriately using leaves that have completed fermentation and drying.
+          If you want a tangy taste, use a bit more thorny fruit,
+          and if you want a bitter taste, add more Hinare leaves.
+          Pour water just before boiling into a teapot,
+          steep small tea leaves for 2–3 minutes and large tea leaves for about 3–4 minutes.
+          Adjust royal jelly and yellow spice to taste.
+
+^800000Special Toast:^000000 Different from street toast (in ingredients)!
+Materials: ^4B00821 Bread, 1 Royal Jelly, 1 Meat, 1 Strawberry, 1 Spicy Sauce, 1 Cheese, 1 Sweet Sauce^000000
+Cooking Method: Toast the bread in butter until golden.
+          Finely mince the meat and mix it with spicy sauce,
+          then form thick patties sized to match the bread and pan-fry them.
+          Make strawberry jam, or prepare the strawberries thinly sliced.
+          Spread jam on the bread, place the meat patty on top, drizzle spicy sauce,
+          then add cheese.
+          If using thin slices, spread spicy sauce on the bread, add the patty,
+          mix sweet sauce with royal jelly and spread it on top, then add cheese,
+          place thinly sliced strawberries on top, and cover with bread.
+
+^008040Super Spicy Curry +9:^000000 So spicy it stings your tongue when you lick it!
+Materials: ^4B00821 Aloe Vera, 1 Spicy Sauce, 1 Meat, 1 Hinare Leaf,
+         1 Pumpkin Head, 1 Carrot^000000
+Cooking Method: Dry the aloe vera and hinare and grind into powder.
+          Cut the meat into 2 cm cubes and season lightly with salt, pepper, and so on.
+          Dice the pumpkin and carrot as well, melt butter in a pan, and stir-fry.
+          Stir-fry the meat separately from the vegetables; when cooked, add it to the cooked vegetables
+          and stir-fry a little more, then add appropriately blended aloe vera and hinare powder,
+          stir-fry, add water, boil and reduce appropriately,
+          then add spicy sauce and bring to a brief boil once more.
+
+^FF8040Giant Wrap Dish:^000000 So big it’s hard to eat alone!
+Materials: ^4B00821 Leaf Garment, 1 Meat, 1 Rainbow Carrot, 1 Pumpkin Head, 1 Light Sauce, 1 Grain^000000
+Cooking Method: Remove fibrous strands from the stem side of the leaf garment,
+          steam it with the pumpkin in a steamer, then cool in cold water.
+          Drain blood from the meat, tie it with string,
+          and boil it in water with pumpkin and carrot for about 40 minutes.
+          You may add a little light sauce as well.
+          When it is fully cooked through, remove, let it cool slightly, then slice thinly into appropriate sizes.
+          Hull the grain and cook rice; julienne the carrot and lightly stir-fry it.
+          Spread out the leaf, and fold the stem inward on the inside of the leaf.
+          Add rice, meat, carrot, pumpkin, and so on, spread light sauce, then fold and wrap.
+
+^400080Strawberry-Flavored Rice Ball:^000000 Some even call it a Poring-flavored rice ball.
+Materials: ^4B00821 Strawberry, 1 Grain, 1 Leaf Garment, 1 Yellow Spice, 1 Red Spice, 1 Light Sauce^000000
+Cooking Method: Hull the grain and cook rice; extract strawberry juice.
+          Put the fluffy cooked rice into a wide bowl and let it cool appropriately,
+          then add light sauce, spices, and strawberry juice and mix evenly.
+          Be careful not to mix too strongly, or the rice grains will be crushed.
+          Shape into bite-sized portions,
+          then wrap with lightly blanched leaf garment.
+         
+^FF3366Level 8 Assorted Cuisine:^000000 The essence of Level 8 cooking
+Materials: ^4B00821 Special Bear Paw Dish, 1 Royal Exclusive Premium Tea, 1 Special Toast, 1 Super Spicy Curry +9, 1 Giant Wrap Dish, 1 Strawberry-Flavored Rice Ball^000000 
+Cooking Method: Gather all Level 8 dishes and serve them neatly as one large full-course spread.

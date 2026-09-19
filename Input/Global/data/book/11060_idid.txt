@@ -1,0 +1,222 @@
+^000088Item Kombinasi Energy Crystal^000000
+
+^008040Improved Mage Hat[1]^000000
+Topi sihir milik penyihir berbakat. Bentuknya terlihat aneh, tetapi berfungsi dengan baik. Telah dimodifikasi untuk efek tambahan.
+INT + 2, SP + 150.
+Setiap Refine menambah MATK + 1
+Jika refine +7 atau lebih tinggi, setiap refine menambah INT +1.
+Class : ^FF0000Helm^000000  Defense : ^FF00002^000000
+Location : ^FF0000Upper^000000  Berat : ^FF000030^000000
+Required Level : ^FF00001^000000  Job : ^FF0000Magic Class/Soul Linker^000000
+Cost -> 100 Rough Energy Crystals
+
+^008040Improved Magician Hat[1]^000000
+Topi penyihir berbentuk kelinci yang tampak hidup. Item yang sangat kuat dan kokoh. Telah dimodifikasi untuk efek tambahan.
+DEX + 1, AGI + 1, SP + 50.
+Setiap Refine menambah SP + 5
+Jika refine +7 atau lebih tinggi, setiap refine menambah DEX + 1.
+Class : ^FF0000Helm^000000  Defense : ^FF00006^000000
+Location : ^FF0000Upper^000000  Berat : ^FF000050^000000
+Required Level : ^FF000050^000000  Job : ^FF0000Magic Class/Acolyte Class/Soul Linker^000000
+Cost -> 100 Rough Energy Crystals
+
+^008040Improved Kitsune Mask^000000
+Replika topeng persembunyian rahasia pasukan Assassin. Bentuknya ramping. Telah dimodifikasi untuk efek tambahan.
+AGI + 2, LUK + 2
+Perfect Flee +4 jika refine +7 atau lebih tinggi.
+Class : ^FF0000Helm^000000  Defense : ^FF00002^000000
+Location : ^FF0000Upper^000000  Berat : ^FF000030^000000
+Required Level : ^FF00001^000000  Job : ^FF0000Semua kecuali Novice^000000
+Cost -> 100 Rough Energy Crystals
+
+^008040Improved Joker Jester[1]^000000
+Topi aneh yang dibuat untuk badut sirkus. Telah dimodifikasi untuk efek tambahan.
+LUK + 2, MDEF + 5.
+Jika refine +7 atau lebih tinggi, meningkatkan Critical Damage sebesar 5%.
+Class : ^FF0000Helm^000000  Defense : ^FF00003^000000
+Location : ^FF0000Upper^000000  Berat : ^FF000010^000000
+Required Level : ^FF00001^000000  Job : ^FF0000Semua kecuali Novice^000000
+Cost -> 100 Rough Energy Crystals
+
+^008040Improved Bunny Band[1]^000000
+Ikat rambut dengan hiasan telinga kelinci. Terlihat indah, tetapi sulit berdiri tegak.
+Telah dimodifikasi untuk efek tambahan.
+LUK + 2
+Jika refine +7 atau lebih tinggi, CRIT + 5
+Class : ^FF0000Helm^000000  Defense : ^FF00003^000000
+Location : ^FF0000Upper^000000  Berat : ^FF000010^000000
+Required Level : ^FF00001^000000  Job : ^FF0000Semua^000000
+Cost -> 100 Rough Energy Crystals
+
+^008040Improved Munak Hat[1]^000000
+Topi milik monster Munak. Topi besar dengan jimat misterius yang menempel. Telah dimodifikasi untuk efek tambahan.
+Mengurangi damage dari monster Undead sebesar 10%.
+Jika refine +7 atau lebih tinggi, meningkatkan damage terhadap monster Undead sebesar 10%.
+Class : ^FF0000Helm^000000  Defense : ^FF00005^000000
+Location : ^FF0000Upper Middle Low^000000  Berat : ^FF000030^000000
+Required Level : ^FF00001^000000  Job : ^FF0000Semua^000000
+Cost -> 100 Rough Energy Crystals
+
+^008040Improved Bongun Hat[1]^000000
+Topi yang dahulu dipakai oleh monster Bongun dengan jimat robek sebagai cirinya.
+Sangat kokoh dan memberikan pandangan yang jelas karena jimatnya telah robek. Telah dimodifikasi untuk efek tambahan.
+Mengurangi damage dari monster Demon sebesar 10%.
+Jika refine +7 atau lebih tinggi, meningkatkan damage terhadap monster Demon sebesar 10%.
+Class : ^FF0000Helm^000000  Defense : ^FF00005^000000
+Location : ^FF0000Upper Middle Low^000000  Berat : ^FF000030^000000
+Required Level : ^FF00001^000000  Job : ^FF0000Semua^000000
+Cost -> 100 Rough Energy Crystals
+
+^008040Opera Phantom Mask^000000
+Topeng yang dikenakan oleh pahlawan gelap dari kisah cinta yang tragis. Saat menatapnya, kamu dapat merasakan kesedihannya.
+ATK +5, MATK +5
+Class : ^FF0000Helm^000000  Defense : ^FF00002^000000
+Location : ^FF0000Middle^000000  Berat : ^FF000020^000000
+Required Level : ^FF000020^000000  Job : ^FF0000Semua^000000
+Cost -> 100 Rough Energy Crystals
+
+^008040Advanced Binoculars^000000
+Kacamata elegan yang membantu kamu melihat jarak jauh. Dibuat dari kaca yang dipadatkan.
+DEX + 1, Range Attack +1%.
+Class : ^FF0000Helm^000000  Defense : ^FF00002^000000
+Location : ^FF0000Middle^000000  Berat : ^FF000010^000000
+Required Level : ^FF000050^000000  Job : ^FF0000Archer Class^000000
+Cost -> 200 Purified Energy Crystals
+
+^008040Advanced Fin Helm^000000
+Helm berbentuk sirip ikan yang melindungi Swordman. Kamu tidak dapat bernapas di dalam air saat mengenakan helm ini.
+MHP +300, tambahan MHP berdasarkan Base Level karakter.
+Class : ^FF0000Helm^000000  Defense : ^FF00005^000000
+Location : ^FF0000Middle^000000  Berat : ^FF000030^000000
+Required Level : ^FF000065^000000  Job : ^FF0000Swordman Class^000000
+Cost -> 200 Purified Energy Crystals
+
+^008040Advanced Assassin Mask^000000
+Topeng gelap untuk para assassin terkenal. Hanya dengan memakainya saja dapat menenangkan pikiranmu.
+CRI +1, Critical Damage +1%
+Class : ^FF0000Helm^000000  Defense : ^FF00001^000000
+Location : ^FF0000Lower^000000  Berat : ^FF000010^000000
+Required Level : ^FF000070^000000  Job : ^FF0000Assassin, Priest Class^000000
+Cost -> 200 Purified Energy Crystals
+
+^008040Advanced Welding Mask^000000
+Topeng baja yang dibuat dengan fokus pada kegunaan. Melindungi wajahmu dari berbagai dampak api.
+Fire Property Resistance + 10%
+DEX +5, LUK +5
+Class : ^FF0000Helm^000000  Defense : ^FF00002^000000
+Location : ^FF0000Middle & Lower^000000  Berat : ^FF000030^000000
+Required Level : ^FF000050^000000  Job : ^FF0000Merchant Class^000000
+Cost -> 200 Purified Energy Crystals
+
+^008040Advanced Safety Ring[1]^000000
+Cincin sihir yang mengurangi damage yang diterima oleh pemakainya.
+DEF + 10, MDEF + 5, Semua Status + 1
+Class : ^FF0000Accessory^000000  Defense : ^FF00000^000000
+Berat : ^FF000010^000000  Required Level : ^FF000050^000000
+Job : ^FF0000Semua kecuali Novice^000000
+Cost -> 200 Purified Energy Crystals
+
+^008040Advanced Angelic Protection[1]^000000
+Jubah malaikat untuk Super Novice. Terasa seperti memelukmu karena dibuat khusus untukmu!
+MDEF + 30. Jika dipakai bersama Advanced Angelic Cardigan, damage dari elemen Neutral -5%
+^FF0000Bonus Set Angelic^000000 : Protection, Reincarnation, Guard, Cardigan, Angel's Kiss
+HP +900, SP +100, memiliki peluang mengaktifkan Assumptio saat menerima damage fisik.
+Class : ^FF0000Armor^000000  Defense : ^FF000040^000000  Berat : ^FF000060^000000
+Required Level : ^FF000099^000000  Job : ^FF0000Novice Class^000000
+Cost -> 100 Purified Energy Crystals
+
+^008040Advanced Angelic Guard[1]^000000
+Perisai malaikat untuk Super Novice. Mengandung kekuatan suci yang memberikan perlindungan terhadap demon.
+Mengurangi damage dari monster tipe Demon sebesar 5%.
+Mengurangi damage dari semua elemen kecuali elemen Neutral sebesar 5%.
+Semua Status +2 jika dipakai bersama ^FF0000Improved Angel's Reincarnation^000000
+Class : ^FF0000Shield^000000  Defense : ^FF000030^000000
+Berat : ^FF000040^000000  Required Level : ^FF000099^000000
+Job : ^FF0000Novice^000000
+Cost -> 100 Purified Energy Crystals
+
+^008040Advanced Angel's Reincarnation[1]^000000
+Sandal milik malaikat penjaga Super Novice. Tampaknya dapat meningkatkan kemampuan melompatmu.
+MHP + 500, MSP + 100
+Jika dipakai bersama Advanced Angel's Kiss, MATK + 20
+Class : ^FF0000Shoes^000000  Defense : ^FF00008^000000
+Berat : ^FF000030^000000  Required Level : ^FF000099^000000
+Job : ^FF0000Novice Class^000000
+Cost -> 100 Purified Energy Crystals
+
+^008040Advanced Angel's Kiss[1]^000000
+Aksesori yang diberkati oleh malaikat penjaga Super Novice. Seolah menerima ciuman dari malaikat.
+SP Recovery Rate + 30%
+Jika dipakai bersama Advanced Angelic Cardigan, ATK + 10
+Class : ^FF0000Helm^000000  Defense : ^FF00006^000000
+Location : ^FF0000Upper^000000  Berat : ^FF000030^000000
+Required Level : ^FF000099^000000  Job : ^FF0000Novice Class^000000
+Cost -> 100 Purified Energy Crystals
+
+^008040Enhanced Corsair[1]^000000
+Topi besar milik kapten bajak laut tua. Penampilannya yang kasar mencerminkan pemiliknya dengan sangat baik.
+VIT +1, MaxHP +5%
+Jika refine +7 atau lebih tinggi, Neutral Resistance +1%
+Jika refine +9 atau lebih tinggi, MaxHP +3%
+Class : ^FF0000Helm^000000  Defense : ^FF000010^000000
+Location : ^FF0000Upper^000000  Berat : ^FF000050^000000
+Required Level : ^FF000099^000000  Job : ^FF0000Semua kecuali Novice^000000
+Cost -> 300 High Energy Crystals
+
+^008040Enhanced Bone Helm[1]^000000
+Helm kokoh yang terbuat dari tulang. Sangat berat, tetapi memiliki pertahanan yang sangat kuat.
+Meningkatkan damage elemen Shadow yang diterima sebesar 15%
+Mengurangi damage elemen Neutral sebesar 2%
+Jika refine +7 atau lebih tinggi, mengurangi damage elemen Neutral sebesar 2%
+Jika refine +9 atau lebih tinggi, mengurangi damage elemen Neutral sebesar 2%
+Class : ^FF0000Helm^000000  Defense : ^FF000015^000000 Location : ^FF0000Upper^000000  Berat : ^FF000080^000000
+Required Level : ^FF000070^000000  Job : ^FF0000Swordman Class/Merchant Class^000000
+Cost -> 300 High Energy Crystals
+
+^008040Enhanced Helm of Angel[1]^000000
+Helm dengan pertahanan tinggi yang dihiasi bulu malaikat. Pembuatnya tidak diketahui.
+AGI +1, LUK +1, MDEF +3
+Jika refine +7 atau lebih tinggi, AGI +2, LUK +2
+Jika refine +9 atau lebih tinggi, Attack Speed +1
+Class : ^FF0000Helm^000000  Defense : ^FF000010^000000
+Location : ^FF0000Upper^000000  Berat : ^FF0000160^000000
+Required Level : ^FF000099^000000 Job : ^FF00002nd Job ke atas/Taekwon Master/Soul Linker/Kagero/Oboro^000000
+Cost -> 300 High Energy Crystals
+
+^008040Enhanced Hat of the Sun God[1]^000000
+Topi bersayap emas yang melambangkan matahari agung. Jangan bertanya bagaimana cara berjalan sambil memakai topi ini.
+STR +3, INT +2, ATK +10, MATK +10
+Jika refine +7 atau lebih tinggi, ATK +15, MATK +15
+Jika refine +9 atau lebih tinggi, ATK +15, MATK +15
+Class : ^FF0000Helm^000000  Defense : ^FF00004^000000
+Location : ^FF0000Upper Middle^000000  Berat : ^FF0000240^000000
+Required Level : ^FF000099^000000 Job : ^FF00002nd Job ke atas/Taekwon Master/Soul Linker/Kagero/Oboro^000000
+Cost -> 300 High Energy Crystals
+
+^008040Enhanced Variant Shoes[1]^000000
+Sepatu dengan desain yang agak aneh. Namun terlihat jelas bahwa pembuatnya berusaha membuat sepatu ini dengan kualitas tinggi.
+MaxHP/MaxSP +12%
+Tambahan DEF/MDEF berdasarkan tingkat refine
+Class : ^FF0000Shoes^000000  Defense : ^FF000013^000000
+Berat : ^FF000050^000000  Required Level : ^FF000085^000000
+Job : ^FF00002nd Job ke atas/Taekwon Master/Soul Linker/Kagero/Oboro^000000
+Cost -> 300 High Energy Crystals
+
+^008040Advanced Ring of Flame Lord^000000
+Cincin kekuatan milik Raja Roh Api. Saat dipakai, senjatamu akan memancarkan kekuatan roh yang membara.
+Pasangan yang baik dengan item ^FF0000Advanced Ring of Resonance^000000.
+STR +3 VIT +2 ATK +20
+Resistance terhadap damage elemen Fire +10%
+Saat memberikan damage fisik, memiliki peluang mengaktifkan berbagai skill secara otomatis.
+Jika dipakai bersama Advanced Ring of Resonance, jumlah skill autocast akan meningkat.
+Class : ^FF0000Accessory^000000  Defense : ^FF00000^000000  Berat : ^FF000010^000000
+Required Level : ^FF000085^000000  Job : ^FF00002nd Job ke atas/Taekwon Master/Soul Linker/Kagero/Oboro^000000
+Cost -> 300 High Energy Crystals
+
+^008040Advanced Ring of Resonance^000000
+Cincin pasangan dari ^FF0000Advanced Ring of Flame Lord^000000. Jika dipakai bersama, kedua cincin akan memberikan efek tambahan.
+AGI +3 VIT +1 MDEF +2 MATK +10
+Saat menerima damage fisik, memiliki peluang mengaktifkan berbagai skill secara otomatis.
+Class : ^FF0000Accessory^000000  Defense : ^FF00002^000000 Berat : ^FF000010^000000  Required Level : ^FF000085^000000
+Job : ^FF00002nd Job ke atas/Taekwon Master/Soul Linker/Kagero/Oboro^000000
+Cost -> 300 High Energy Crystals

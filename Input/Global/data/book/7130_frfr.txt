@@ -1,0 +1,35 @@
+%faf0e6
+^000088Alchimie pour la fabrication de flacons de plantes^000000
+
+
+----------------Préface--------------------
+L'alchimie de la vie est une tâche extrêmement difficile.
+La première étape pour étudier la haute discipline de la transmutation de la vie
+fut la transmutation des plantes.
+Cependant, la faible vitalité des plantes ordinaires n'a apporté que des échecs.
+Aucun résultat de recherche n'apparaissait, et alors que nous songions à abandonner,
+nous avons découvert l'existence des plantes carnivores.
+Des plantes dotées d'une force de survie supérieure à celle des autres, et d'une nature féroce...
+Les plantes carnivores découvertes en errant près du Mont Mjolnir et de Juno
+nous ont apporté de grands résultats et une immense joie dans nos recherches.
+Nous avons ainsi ouvert les yeux sur le monde fascinant de la transmutation des plantes.
+------------------------------------------
+
+
+
+
+^FF8040Qu'est-ce qu'un flacon de plante ?^000000
+
+Lorsqu'il est jeté au sol, une plante carnivore pousse instantanément
+et attaque toute créature s'approchant d'elle pour la dévorer, grâce à une méthode de traitement spéciale
+contenue dans le flacon.
+Cependant, seuls les alchimistes ayant acquis une technique particulière
+peuvent l'utiliser.
+
+
+Ingrédients : ^4B0082Fleur de plante carnivore x2, Bouteille vide x1^000000
+Méthode de fabrication : Préparez un Mortier.
+Placez Fleur de plante carnivore x2 dans le Mortier, puis, en possession de ce livre,
+utilisez la compétence Pharmacie pour les mettre dans une Bouteille vide.
+L'alchimie permettant d'invoquer des plantes carnivores doit être
+apprise séparément de la transmutation classique pour pouvoir être utilisée.

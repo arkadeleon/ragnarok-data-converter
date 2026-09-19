@@ -1,0 +1,73 @@
+%faf0e6
+^000088Şu anda Rune-Midgarts’ta dolaşan bir şef var...!!^000000
+- Duygu Dolu Yemek Destanı - Sv. 8 Tarif
+Hepsini öğrensen bile gezgin olmazsun; gönül rahatlığıyla öğren!
+
+
+^FF0000Özel Ayı Pençesi Yemeği :^000000
+Malzemeler : ^4B0082Ayı Pençesi 1, Havuç 1, Balkabağı Kafası 1, Aloe Yaprağı 1,
+Hinare Yaprağı 1, Hafif Sos 1^000000
+Yöntem : Ayı pençesini suda beklet, iyice yıka. Kaynar suda hafifçe haşla, tekrar yıka.
+Etli kısımlara "\u002B" şeklinde kesik at, beze sar.
+Tencereye al; su, tuz, pirinç şarabı ve karabiber ekleyip kaynat. Köpüğü al.
+Zencefil ve yeşil soğan ekle, kısık ateşte iyice pişir.
+Havuç ve balkabağını lokmalık doğrayıp haşla.
+Yaprakları iyice yıka; tuzla hafifçe sotele. Yarısını tabağın ortasına koy.
+Buharda pişen ayı pençesini bezden çıkarıp üstüne yerleştir.
+Kalan yaprakları tabağın kenarına diz; haşlanmış havuç ve balkabağıyla süsle.
+Haşlama suyuna Hafif Sos ekleyip tatlandır; koyulaşana kadar kaynat.
+Son olarak biraz susam yağı gezdirip ayı pençesinin üstüne dök.
+Ayı pençesi ağır kokar. Tüy ve yabancı maddeleri yüzeyi zedelemeden temizle,
+
+kokuyu gidermek için suyu sık sık değiştir. Kaynatırken ateş ayarı önemlidir.
+^0000FFKraliyet Lüks Çayı :^000000 Harmana göre bambaşka tat!
+Malzemeler : ^4B0082Dikenli Meyve 1, Hinare Yaprağı 1, Yggdrasil Yaprağı 1, Aloe Yaprağı 1,
+Kraliyet Jölesi 1, Sarı Baharat 1^000000
+Yöntem : İyice kurumuş Dikenli Meyve ve yaprakları kavur, uygun boyutta kes.
+Fermente edilip kurutulmuş yapraklarla dengeli şekilde harmanla.
+Ekşi tat için Dikenli Meyve’yi artır; buruk tat için Hinare yaprağını artır.
+Demliğe kaynama noktasına yakın su dök.
+Küçük yaprak: 2–3 dk, büyük yaprak: 3–4 dk demle.
+Kraliyet Jölesi ve Sarı Baharat’ı damak tadına göre ayarla.
+
+^800000Özel Kızarmış Ekmek :^000000 Sokak tostu değil; malzemesi farklı!
+Malzemeler : ^4B0082Ekmek 1, Kraliyet Jölesi 1, Et 1, Çilek 1, Acı Sos 1, Peynir 1, Tatlı Sos 1^000000
+Yöntem : Ekmeği tereyağında kızart.
+Eti kıyıp Acı Sos ile yoğur; ekmek boyutunda kalın bir köfte yapıp pişir.
+Çileği reçel yap ya da ince dilimle.
+Reçelli: ekmeğe sür, köfteyi koy, Acı Sos gezdir, peynir ekle.
+Dilimli: ekmeğe Acı Sos sür, köfteyi koy.
+Tatlı Sos ile Kraliyet Jölesi’ni karıştırıp sür; peynir ekle.
+
+Üstüne çilek dilimlerini dizip ekmekle kapat.
+^008040Çok Acı Köri \u002B9 :^000000 Çalarken bile sızlatacak kadar acı!
+Malzemeler : ^4B0082Aloe Vera 1, Acı Sos 1, Et 1, Hinare Yaprağı 1,
+Balkabağı Kafası 1, Havuç 1^000000
+Yöntem : Aloe Vera ve Hinalle’yi kurutup toz yap.
+Eti 2 cm küp doğra; tuz ve karabiberle ön baharatla.
+Balkabağı ve havucu küp doğrayıp tereyağında sotele.
+Eti ayrı kavur; pişince sebzeleri ekleyip kısa süre daha çevir.
+Aloe Vera ve Hinalle tozunu ekle, kavur. Su ekleyip kaynat.
+
+Kıvam alınca Acı Sos’u ekle, bir taşım daha kaynat.
+^FF8040Dev Ssam Yemeği :^000000 Tek başına bitirmek zor!
+Malzemeler : ^4B0082Yaprak Giysi 1, Et 1, Gökkuşağı Havuç 1, Balkabağı Kafası 1, Hafif Sos 1, Tahıl 1^000000
+Yöntem : Yaprak Giysi’nin sap tarafındaki lifleri ayıkla.
+Balkabağıyla birlikte buharda pişir; soğuk suda soğut.
+Eti kanından arındır, iple bağla. Balkabağı ve havuçla birlikte 40 dk haşla.
+Pişince çıkar, dinlendir, ince dilimle.
+Tahılı ayıkla, pilav yap. Havuçları jülyen doğrayıp hafifçe sotele.
+Yaprağı aç, sap kısmını içe katla.
+
+Pilav, et, havuç ve balkabağını koy; Hafif Sos sürüp sar.
+^400080Çilek Aromalı Onigiri :^000000 Bazıları buna “Poring aromalı” onigiri de der.
+Malzemeler : ^4B0082Çilek 1, Tahıl 1, Yaprak Giysi 1, Sarı Baharat 1, Kırmızı Baharat 1, Hafif Sos 1^000000
+Yöntem : Tahılı ayıkla, pilav yap. Çileğin suyunu çıkar.
+Pilavı geniş bir kaba al, biraz soğut.
+Hafif Sos, baharatlar ve çilek suyunu ekleyip karıştır.
+Çok sert karıştırma; pirinç ezilir.
+Lokmalık şekil ver; hafifçe haşlanmış Yaprak Giysi ile sar.
+
+^FF3366Karışık Yemek Sv. 8 :^000000 Sv. 8 yemeklerinin özü
+Malzemeler : ^4B0082Özel Ayı Pençesi Yemeği 1, Kraliyet Lüks Çayı 1, Özel Kızarmış Ekmek 1, Çok Acı Köri \u002B9 1, Dev Ssam Yemeği 1, Çilek Aromalı Onigiri 1^000000
+Yöntem : Tüm Sv. 8 yemeklerini topla, büyük bir sofra olarak düzenli sun.

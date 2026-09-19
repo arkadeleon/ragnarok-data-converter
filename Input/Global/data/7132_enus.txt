@@ -1,0 +1,35 @@
+%faf0e6
+^000088Intermediate Synthesis for Protection: Coating!^000000
+
+
+----------------Foreword--------------------
+
+After seeing mages coat their bodies with a barrier of mana,
+we wondered if there was a way to protect weapons and armor through alchemy.
+From this idea was born alchemical coating, which does not break,
+gives the sensation of clinging to the body,
+and provides an effect that cannot be removed by opponents.
+However, keep in mind that it will be解除 after a certain amount of time.
+
+------------------------------------------
+
+What is ^400080Coating^000000?
+
+The act of covering the surface of an object with a thin film of resin or similar material.
+It is used to create anti-reflective coatings on lenses,
+or to apply waterproof or heat-resistant processing to fabrics.
+However, coating used in alchemy means making something absolutely unbreakable,
+and ensuring that opponents cannot forcibly remove it.
+Nevertheless, only alchemists who have mastered specialized techniques
+are said to be able to use it.
+
+
+Materials: ^4B00821 Alcohol, 1 Zenorc Fang, 1 Mermaid Heart, 1 Empty Bottle^000000
+Manufacturing Method: Prepare a mortar.
+          Pour about half the alcohol into the mortar and dissolve the Zenorc fang.
+          Clean, dry, and grind the mermaid heart, then mix it thoroughly into the alcohol.
+          Use Pharmacy to bottle the mixture into an empty bottle.
+          Although it may seem like simply applying it is enough,
+          in reality, a special skill must be used to coat weapons or armor.
+          The specialized technique required for this will be realized
+          through continued alchemist research.

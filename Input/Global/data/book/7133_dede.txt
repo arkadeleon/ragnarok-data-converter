@@ -1,0 +1,49 @@
+%faf0e6
+^000088Schlanke Figur, schlanke Forschung! Die Revolution der Trankherstellung! Slim-Trank!!^000000
+
+
+----------------Vorwort--------------------
+
+Hast du die Grundlagen der Tränke gelernt? Dann ist es Zeit für hochwertige Anwendungen.
+Wenn man mit weniger Menge eine größere Wirkung erzielen kann – was könnte besser sein!
+Bemühe dich nicht nur um eine schlanke Figur, sondern auch um eine schlanke Forschung!
+
+------------------------------------------
+
+^FF0000Was ist ein Slim-Trank^000000?
+
+
+Ein angereicherter Trank, der schon in kleiner Menge die gleiche Wirkung wie herkömmliche Tränke zeigt.
+Natürlich lässt er sich auch leichter mitführen.
+
+
+
+^0000FFKondensierter Roter Trank^000000 : Stellt ca. 45 HP wieder her.
+Zutaten : ^4B0082Roter Trank 1 Stück, Spitzer Kaktusstachel 1 Stück, Leeres Reagenzglas 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Gießen Sie nach und nach Roter Trank ein..
+Mahlen Sie den gut getrockneten Spitzen Kaktusstachel und mischen Sie ihn mit dem Roten Trank.
+Füllen Sie alles in ein Leeres Reagenzglas.
+Für eine einfache Herstellung
+bereiten Sie dieses Buch und die Zutaten vor und verwenden Sie die Fertigkeit Trankzubereitung.
+
+
+^800000Kondensierter Gelber Trank^000000 : Stellt ca. 175 HP wieder her.
+Zutaten : ^4B0082Gelber Trank 1 Stück, Schnurrhaar des Maulwurfs 1 Stück, Leeres Reagenzglas 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Gießen Sie nach und nach Gelber Trank ein..
+Geben Sie Wasser hinzu, in dem das Schnurrhaar des Maulwurfs gründlich ausgekocht wurde, und mischen Sie es mit dem Trank.
+Füllen Sie alles in ein Leeres Reagenzglas.
+Für eine einfache Herstellung
+bereiten Sie dieses Buch und die Zutaten vor und verwenden Sie die Fertigkeit Trankzubereitung.
+
+
+^008040Kondensierter Weißer Trank^000000 : Stellt ca. 325 HP wieder her.
+Zutaten : ^4B0082Weißer Trank 1 Stück, Hexen-Sternensand 1 Stück, Leeres Reagenzglas 1 Stück^000000
+Herstellung : Bereiten Sie eine Mörserschale vor.
+Gießen Sie nach und nach Weißer Trank ein..
+Waschen Sie den Hexen-Sternensand gründlich und entfernen Sie die Feuchtigkeit vollständig.
+Geben Sie ihn nach und nach hinzu und mischen Sie alles.
+Füllen Sie alles in ein Leeres Reagenzglas.
+Für eine einfache Herstellung
+bereiten Sie dieses Buch und die Zutaten vor und verwenden Sie die Fertigkeit Trankzubereitung.
