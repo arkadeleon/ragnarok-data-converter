@@ -16,19 +16,28 @@ struct ItemInfo: Codable {
 }
 
 struct ItemInfoConverter {
-    func convert(from input: URL, to output: URL, for locale: Locale) throws {
-        let itemInfoURL = input.appendingPathComponents(locale.path, "System", "itemInfo.lub")
-        var itemInfos = if FileManager.default.fileExists(atPath: itemInfoURL.path) {
-            try luaItemInfos(from: input, for: locale)
-        } else {
-            txtItemInfos(from: input, for: locale)
+    enum Input {
+        case lua(_ url: URL, _ filename: String)
+        case txt(_ url: URL)
+    }
+
+    func convert(from input: Input, to output: URL, for locale: Locale, encoding: String.Encoding? = nil) throws {
+        print("Converting item info for \(locale.path)")
+
+        var itemInfos = switch input {
+        case .lua(let url, let filename):
+            try luaItemInfos(from: url, filename: filename, for: locale)
+        case .txt(let url):
+            txtItemInfos(from: url, for: locale)
         }
 
+        let encoding = encoding ?? locale.preferredEncoding
+
         for itemID in itemInfos.keys {
-            itemInfos[itemID]?.unidentifiedItemName?.transcode(from: .isoLatin1, to: locale.preferredEncoding)
-            itemInfos[itemID]?.unidentifiedItemDescription?.transcode(from: .isoLatin1, to: locale.preferredEncoding)
-            itemInfos[itemID]?.identifiedItemName?.transcode(from: .isoLatin1, to: locale.preferredEncoding)
-            itemInfos[itemID]?.identifiedItemDescription?.transcode(from: .isoLatin1, to: locale.preferredEncoding)
+            itemInfos[itemID]?.unidentifiedItemName?.transcode(from: .isoLatin1, to: encoding)
+            itemInfos[itemID]?.unidentifiedItemDescription?.transcode(from: .isoLatin1, to: encoding)
+            itemInfos[itemID]?.identifiedItemName?.transcode(from: .isoLatin1, to: encoding)
+            itemInfos[itemID]?.identifiedItemDescription?.transcode(from: .isoLatin1, to: encoding)
         }
 
         let encoder = JSONEncoder()
@@ -40,11 +49,11 @@ struct ItemInfoConverter {
         try jsonData.write(to: jsonURL)
     }
 
-    private func luaItemInfos(from input: URL, for locale: Locale) throws -> [String : ItemInfo] {
+    private func luaItemInfos(from input: URL, filename: String, for locale: Locale) throws -> [String : ItemInfo] {
         let context = LuaContext()
         context.loadJSONModule()
 
-        let itemInfoURL = input.appendingPathComponents(locale.path, "System", "itemInfo.lub")
+        let itemInfoURL = input.appendingPathComponents(locale.path, "System", filename)
         context.loadData(at: itemInfoURL)
 
         try context.evaluate("""

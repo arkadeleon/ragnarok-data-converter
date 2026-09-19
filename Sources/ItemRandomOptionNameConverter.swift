@@ -10,6 +10,8 @@ import RagnarokLua
 
 struct ItemRandomOptionNameConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
+        print("Converting item random option name for \(locale.path)")
+
         let addrandomoptionnametableURL = input.appendingPathComponents(locale.path, "data", "luafiles514", "lua files", "datainfo", "addrandomoptionnametable.lub")
         guard FileManager.default.fileExists(atPath: addrandomoptionnametableURL.path) else {
             return

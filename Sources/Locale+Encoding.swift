@@ -7,22 +7,39 @@
 
 import Foundation
 
-let locales = [
-    Locale(identifier: "zh-Hans"),
-    Locale(identifier: "zh-Hant"),
-    Locale(identifier: "en"),
-    Locale(identifier: "fr"),
-    Locale(identifier: "de"),
-    Locale(identifier: "id"),
-    Locale(identifier: "it"),
-    Locale(identifier: "ja"),
-    Locale(identifier: "ko"),
-    Locale(identifier: "pt-BR"),
-    Locale(identifier: "ru"),
-    Locale(identifier: "es"),
-    Locale(identifier: "th"),
-    Locale(identifier: "tr"),
+let locales: [Locale] = [
+    .de,
+    .en,
+    .es,
+    .fr,
+    .id,
+    .it,
+    .ja,
+    .ko,
+    .ptBR,
+    .ru,
+    .th,
+    .tr,
+    .zhHans,
+    .zhHant,
 ]
+
+extension Locale {
+    static let de = Locale(identifier: "de")
+    static let en = Locale(identifier: "en")
+    static let es = Locale(identifier: "es")
+    static let fr = Locale(identifier: "fr")
+    static let id = Locale(identifier: "id")
+    static let it = Locale(identifier: "it")
+    static let ja = Locale(identifier: "ja")
+    static let ko = Locale(identifier: "ko")
+    static let ptBR = Locale(identifier: "pt-BR")
+    static let ru = Locale(identifier: "ru")
+    static let th = Locale(identifier: "th")
+    static let tr = Locale(identifier: "tr")
+    static let zhHans = Locale(identifier: "zh-Hans")
+    static let zhHant = Locale(identifier: "zh-Hant")
+}
 
 extension Locale {
     var path: String {
@@ -33,33 +50,49 @@ extension Locale {
         let identifier = identifier.lowercased().replacingOccurrences(of: "_", with: "-")
         let languageCode = identifier.split(separator: "-").first.map(String.init) ?? identifier
 
-        let cfEncoding = switch languageCode {
+        return switch languageCode {
         case "ar":
-            CFStringConvertWindowsCodepageToEncoding(1256)
+            .cp1256
         case "zh" where identifier.contains("hans"):
-            CFStringConvertWindowsCodepageToEncoding(936)
+            .cp936
         case "zh" where identifier.contains("hant"):
-            CFStringConvertWindowsCodepageToEncoding(950)
+            .cp950
         case "ja":
-            CFStringConvertWindowsCodepageToEncoding(932)
+            .cp932
         case "ko":
-            CFStringConvertWindowsCodepageToEncoding(949)
+            .cp949
         case "ru":
-            CFStringConvertWindowsCodepageToEncoding(1251)
+            .cp1251
         case "es" where identifier.contains("419"):
-            CFStringConvertWindowsCodepageToEncoding(1145)
+            .cp1145
         case "th":
-            CFStringConvertWindowsCodepageToEncoding(874)
+            .cp874
         case "tr":
-            CFStringConvertWindowsCodepageToEncoding(1254)
+            .cp1254
         case "vi":
-            CFStringConvertWindowsCodepageToEncoding(1258)
+            .cp1258
         default:
-            CFStringConvertWindowsCodepageToEncoding(1252)
+            .cp1252
         }
+    }
+}
 
+extension String.Encoding {
+    static let cp874 = String.Encoding(windowsCodepage: 874)
+    static let cp932 = String.Encoding(windowsCodepage: 932)
+    static let cp936 = String.Encoding(windowsCodepage: 936)
+    static let cp949 = String.Encoding(windowsCodepage: 949)
+    static let cp950 = String.Encoding(windowsCodepage: 950)
+    static let cp1145 = String.Encoding(windowsCodepage: 1145)
+    static let cp1251 = String.Encoding(windowsCodepage: 1251)
+    static let cp1252 = String.Encoding(windowsCodepage: 1252)
+    static let cp1254 = String.Encoding(windowsCodepage: 1254)
+    static let cp1256 = String.Encoding(windowsCodepage: 1256)
+    static let cp1258 = String.Encoding(windowsCodepage: 1258)
+
+    init(windowsCodepage: UInt32) {
+        let cfEncoding = CFStringConvertWindowsCodepageToEncoding(windowsCodepage)
         let nsEncoding = CFStringConvertEncodingToNSStringEncoding(cfEncoding)
-        let encoding = String.Encoding(rawValue: nsEncoding)
-        return encoding
+        self.init(rawValue: nsEncoding)
     }
 }

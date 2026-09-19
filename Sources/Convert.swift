@@ -19,39 +19,54 @@ struct Convert: ParsableCommand {
     func run() throws {
         try ItemCommonInfoConverter().convert(from: input, to: output)
 
+        try convertItemInfo()
+
         for locale in locales {
-            print("Converting item info for \(locale.path)")
-            try ItemInfoConverter().convert(from: input, to: output, for: locale)
+            let converter = ItemRandomOptionNameConverter()
+            try converter.convert(from: input, to: output, for: locale)
         }
 
         for locale in locales {
-            print("Converting item random option name for \(locale.path)")
-            try ItemRandomOptionNameConverter().convert(from: input, to: output, for: locale)
+            let converter = MapNameConverter()
+            try converter.convert(from: input, to: output, for: locale)
         }
 
         for locale in locales {
-            print("Converting map name for \(locale.path)")
-            try MapNameConverter().convert(from: input, to: output, for: locale)
+            let converter = MessageStringConverter()
+            try converter.convert(from: input, to: output, for: locale)
         }
 
         for locale in locales {
-            print("Converting message string for \(locale.path)")
-            try MessageStringConverter().convert(from: input, to: output, for: locale)
+            let converter = MonsterNameConverter()
+            try converter.convert(from: input, to: output, for: locale)
         }
 
         for locale in locales {
-            print("Converting monster name for \(locale.path)")
-            try MonsterNameConverter().convert(from: input, to: output, for: locale)
+            let converter = SkillInfoConverter()
+            try converter.convert(from: input, to: output, for: locale)
         }
 
         for locale in locales {
-            print("Converting skill info for \(locale.path)")
-            try SkillInfoConverter().convert(from: input, to: output, for: locale)
+            let converter = StatusInfoConverter()
+            try converter.convert(from: input, to: output, for: locale)
         }
+    }
 
-        for locale in locales {
-            print("Converting status info for \(locale.path)")
-            try StatusInfoConverter().convert(from: input, to: output, for: locale)
-        }
+    func convertItemInfo() throws {
+        let converter = ItemInfoConverter()
+        try converter.convert(from: .txt(input), to: output, for: .de)
+        try converter.convert(from: .txt(input), to: output, for: .en)
+        try converter.convert(from: .txt(input), to: output, for: .es)
+        try converter.convert(from: .txt(input), to: output, for: .fr)
+        try converter.convert(from: .txt(input), to: output, for: .id)
+        try converter.convert(from: .txt(input), to: output, for: .it)
+        try converter.convert(from: .txt(input), to: output, for: .ja)
+        try converter.convert(from: .lua(input, "itemInfo.lub"), to: output, for: .ko)
+        try converter.convert(from: .txt(input), to: output, for: .ptBR)
+        try converter.convert(from: .txt(input), to: output, for: .ru)
+        try converter.convert(from: .txt(input), to: output, for: .th)
+        try converter.convert(from: .txt(input), to: output, for: .tr)
+        try converter.convert(from: .lua(input, "itemInfo.lub"), to: output, for: .zhHans)
+        try converter.convert(from: .txt(input), to: output, for: .zhHant)
     }
 }

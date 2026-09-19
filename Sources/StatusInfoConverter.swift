@@ -14,6 +14,8 @@ struct StatusInfo: Codable {
 
 struct StatusInfoConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
+        print("Converting status info for \(locale.path)")
+
         let stateiconinfoURL = input.appendingPathComponents(locale.path, "data", "luafiles514", "lua files", "stateicon", "stateiconinfo.lub")
         guard FileManager.default.fileExists(atPath: stateiconinfoURL.path) else {
             return

@@ -15,6 +15,8 @@ struct SkillInfo: Codable {
 
 struct SkillInfoConverter {
     func convert(from input: URL, to output: URL, for locale: Locale) throws {
+        print("Converting skill info for \(locale.path)")
+
         let context = LuaContext()
         context.loadJSONModule()
 
