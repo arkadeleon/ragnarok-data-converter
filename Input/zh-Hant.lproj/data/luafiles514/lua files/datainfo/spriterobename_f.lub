@@ -1,0 +1,100 @@
+--==========================================
+-- filename : SpriteRobeName_F.lub
+-- author : sadlyfox
+-- created : Nov 10, 2010
+-- descript : 
+-- version : 1.0.0
+--==========================================
+
+--===============================================
+-- function : ReqRobSprName
+-- descript : 로브 Data 파일명을 Return
+-- returns : str
+--===============================================
+function	ReqRobSprName ( index )
+		if RobeNameTable[index] == nil then
+			return ""
+		end
+
+		local NameMsg = RobeNameTable[index]
+	
+		if NameMsg ~= nil then
+			return NameMsg
+		else
+			return ""
+		end
+end
+
+--===============================================
+-- function : ReqRobSprName_V2
+-- descript : 로브 Data 파일명을 Return(영문명 선택)
+-- returns : str
+--===============================================
+function	ReqRobSprName_V2 ( index, in_bResEnglishName )
+		if (in_bResEnglishName == true) then
+			if RobeNameTable_Eng[index] == nil then
+				return ""
+			end
+
+			local NameMsg = RobeNameTable_Eng[index]
+		
+			if NameMsg ~= nil then
+				return NameMsg
+			else
+				return ""
+			end
+		else		
+			return ReqRobSprName(index)
+		end
+end
+
+
+--===============================================
+-- function : IsTopLayer
+-- descript : 로브 레이어 예외처리 검색
+-- returns : bool
+--===============================================
+function	IsTopLayer( RobeID )
+	for i, v in ipairs( RobeTopLayer ) do
+		if ( v == RobeID ) then
+			return true
+		end
+	end
+	
+	return false
+end
+
+
+--===============================================
+-- function : ReqRobActName
+-- descript : 로브 Data 파일명을 Return
+-- returns : str
+--===============================================
+function	ReqRobActName ( index )
+		if RobeActNameTable[index] == nil then
+			return nil
+		end
+
+		local NameMsg = RobeActNameTable[index]
+	
+		if NameMsg ~= nil then
+			return NameMsg
+		else
+			return nil
+		end
+end
+
+-- 인덱스 중가장 높은 수를 얻기
+function	ReqRobSprTopId ()
+	local TopId = 0
+	for i, v in pairs(SPRITE_ROBE_IDs) do
+		if v > TopId then
+			TopId = v
+		end
+	end
+	return TopId
+end
+
+function	SaveRobeTopLayer ( index )
+		return Save_RobeTopLayer[index]
+end
