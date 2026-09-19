@@ -45,7 +45,7 @@ struct Convert: ParsableCommand {
             to: output, for: .ptBR
         )
         try MessageStringConverter().convert(
-            from: root.appendingPathIgnoringCase("data/msgstringtable.txt"),
+            from: .txt(msgStringTableURL: root.appendingPathIgnoringCase("data/msgstringtable.txt")),
             to: output, for: .ptBR
         )
         try SkillInfoConverter().convert(
@@ -74,7 +74,7 @@ struct Convert: ParsableCommand {
             to: output, for: .zhHans
         )
         try MessageStringConverter().convert(
-            from: root.appendingPathIgnoringCase("data/msgstringtable.txt"),
+            from: .csv(msgStringTableURL: root.appendingPathIgnoringCase("data/msgstringtable.csv"), column: 1),
             to: output, for: .zhHans
         )
         try MonsterNameConverter().convert(
@@ -121,7 +121,7 @@ struct Convert: ParsableCommand {
                 to: output, for: locale
             )
             try MessageStringConverter().convert(
-                from: data.appendingPathIgnoringCase("msgstringtable.txt"),
+                from: .txt(msgStringTableURL: data.appendingPathIgnoringCase("msgstringtable.txt")),
                 to: output, for: locale
             )
 
@@ -152,7 +152,7 @@ struct Convert: ParsableCommand {
             to: output, for: .id
         )
         try MessageStringConverter().convert(
-            from: root.appendingPathIgnoringCase("data/msgstringtable.txt"),
+            from: .txt(msgStringTableURL: root.appendingPathIgnoringCase("data/msgstringtable.txt")),
             to: output, for: .id
         )
         try SkillInfoConverter().convert(
@@ -181,7 +181,7 @@ struct Convert: ParsableCommand {
             to: output, for: .en
         )
         try MessageStringConverter().convert(
-            from: root.appendingPathIgnoringCase("data/msgstringtable.txt"),
+            from: .txt(msgStringTableURL: root.appendingPathIgnoringCase("data/msgstringtable.txt")),
             to: output, for: .en
         )
         try SkillInfoConverter().convert(
@@ -213,7 +213,7 @@ struct Convert: ParsableCommand {
             to: output, for: .ja
         )
         try MessageStringConverter().convert(
-            from: root.appendingPathIgnoringCase("data/msgstringtable.txt"),
+            from: .txt(msgStringTableURL: root.appendingPathIgnoringCase("data/msgstringtable.txt")),
             to: output, for: .ja
         )
         try SkillInfoConverter().convert(
@@ -246,7 +246,10 @@ struct Convert: ParsableCommand {
             from: .init(directory: root.appendingPathIgnoringCase("data/luafiles514/lua files/datainfo")),
             to: output, for: .ko
         )
-        // kRO now ships MsgStringTable.csv instead of msgstringtable.txt; not supported yet.
+        try MessageStringConverter().convert(
+            from: .csv(msgStringTableURL: root.appendingPathIgnoringCase("data/MsgStringTable.csv"), column: 1),
+            to: output, for: .ko
+        )
         try SkillInfoConverter().convert(
             from: .init(directory: root.appendingPathIgnoringCase("data/luafiles514/lua files/skillinfoz")),
             to: output, for: .ko
@@ -272,7 +275,7 @@ struct Convert: ParsableCommand {
             to: output, for: .ru
         )
         try MessageStringConverter().convert(
-            from: root.appendingPathIgnoringCase("data/msgstringtable.txt"),
+            from: .txt(msgStringTableURL: root.appendingPathIgnoringCase("data/msgstringtable.txt")),
             to: output, for: .ru
         )
         try SkillInfoConverter().convert(
@@ -301,7 +304,7 @@ struct Convert: ParsableCommand {
             to: output, for: .zhHant
         )
         try MessageStringConverter().convert(
-            from: root.appendingPathIgnoringCase("data/msgstringtable.txt"),
+            from: .csv(msgStringTableURL: root.appendingPathIgnoringCase("data/MsgStringTable.csv"), column: 1),
             to: output, for: .zhHant
         )
         try MonsterNameConverter().convert(
@@ -334,7 +337,7 @@ struct Convert: ParsableCommand {
             to: output, for: .th
         )
         try MessageStringConverter().convert(
-            from: root.appendingPathIgnoringCase("data/msgstringtable.txt"),
+            from: .txt(msgStringTableURL: root.appendingPathIgnoringCase("data/msgstringtable.txt")),
             to: output, for: .th
         )
         try SkillInfoConverter().convert(
