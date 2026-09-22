@@ -1,0 +1,2475 @@
+1001,Escorpião
+1002,Poring
+1004,Zangão
+1005,Farmiliar
+1007,Fabre
+1008,Pupa
+1009,Condor
+1010,Salgueiro
+1011,ChonChon
+1012,Sapo de Rodda
+1013,Lobo
+1014,Esporo
+1015,Zumbi
+1016,Esqueleto Arqueiro
+1018,Creamy
+1019,PecoPeco
+1020,Mandrágora
+1022,Lobisomem
+1023,Guerreiro Orc
+1024,Rabo de Verme
+1025,Jiboia
+1026,Munak
+1027,Raptic
+1028,Esqueleto Soldado
+1029,Isis
+1030,Anaconda
+1031,Poporing
+1032,Verit
+1033,Salgueiro Ancião
+1034,Sapo de Thara
+1035,Mosca Caçadora
+1036,Carniçal
+1037,Sorrateiro
+1038,Osíris
+1039,Bafomé
+1040,Golem
+1041,Múmia
+1042,Chonchon de Aço
+1043,Cavalo Marinho
+1044,Obeaune
+1045,Cavalo-Marinho
+1046,Doppelganger
+1047,Ovo de PecoPeco
+1048,Ovo de Besouro-Ladrão
+1049,Picky
+1050,Picky
+1051,Besouro-Ladrão
+1052,Rocker
+1053,Besouro-Ladrão Fêmea
+1054,Besouro-Ladrão Macho
+1055,Muka
+1056,Fumacento
+1057,Yoyo
+1058,Metaller
+1059,Abelha-Rainha
+1060,Pé-Grande
+1061,Pesadelo
+1062,Poring Noel
+1063,Lunático
+1064,Megalodon
+1065,Strouf
+1066,Vadon
+1067,Cornutus
+1068,Hidra
+1069,Peixe-Espada
+1070,Kukre
+1071,Esqueleto Pirata
+1072,Kaho
+1073,Caranguejo
+1074,Molusco
+1075,Tartaruga
+1076,Esqueleto
+1077,Esporo Venenoso
+1078,Planta Vermelha
+1079,Planta Azul
+1080,Planta Verde
+1081,Planta Amarela
+1082,Planta Branca
+1083,Planta Brilhante
+1084,Cogumelo Negro
+1085,Cogumelo Vermelho
+1086,Besouro-Ladrão Dourado
+1087,Orc Herói
+1088,Vocal
+1089,Sapo-Cururu
+1090,Mastering
+1091,Libélula
+1092,Lobo Errante
+1093,Eclipse
+1094,Ambernite
+1095,Andre
+1096,Angeling
+1097,Ovo de Andre
+1098,Anubis
+1099,Argiope
+1100,Argos
+1101,Bafomé Jr.
+1102,Bathory
+1103,Caramelo
+1104,Koko
+1105,Deniro
+1106,Lobo do Deserto
+1107,Filhote de Lobo
+1108,Deviace
+1109,Deviruchi
+1110,Dokebi
+1111,Drainliar
+1112,Drake
+1113,Drops
+1114,Poeira
+1115,Eddga
+1116,Eggyra
+1117,Druida Maligno
+1118,Flora
+1119,Frilldora
+1120,Ghostring
+1121,Gierath
+1122,Goblin
+1123,Goblin
+1124,Goblin
+1125,Goblin
+1126,Goblin
+1127,Hode
+1128,Besouro-Chifre
+1129,Horong
+1130,Jakk
+1131,Coringa
+1132,Khalitzburg
+1133,Kobold
+1134,Kobold
+1135,Kobold
+1136,Kobold
+1137,Kobold
+1138,Magnólia
+1139,Louva-a-Deus
+1140,Marduk
+1141,Marina
+1142,Esfera Marinha
+1143,Marionete
+1144,Marte
+1145,Martin
+1146,Matyr
+1147,Maya
+1148,Medusa
+1149,Minorous
+1150,Flor do Luar
+1151,Névoa
+1152,Orc Esqueleto
+1153,Orc Zumbi
+1154,Pasana
+1155,Petite
+1156,Petite Voador
+1157,Faraó
+1158,Fen
+1159,Freeoni
+1160,Piere
+1161,Plâncton
+1162,Rafflesia
+1163,Raydric
+1164,Réquiem
+1165,Arenoso
+1166,Selvagem
+1167,Bebê Selvagem
+1168,Rei Escorpião
+1169,Esqueleto Operário
+1170,Sohee
+1171,Soldado Andre
+1172,Soldado Deniro
+1173,Soldado Piere
+1174,Percevejo
+1175,Tarou
+1176,Vitata
+1177,Zenorc
+1178,Zerom
+1179,Sussurro
+1180,Nove Caudas
+1181,Fafnir
+1182,Cogumelo
+1183,ChonChon
+1184,Fabre
+1185,Sussurro
+1186,Cochicho
+1187,Vareta
+1188,Bongun
+1189,Orc Arqueiro
+1190,Senhor dos Orcs
+1191,Mímico
+1192,Alma Penada
+1193,Alarme
+1194,Arclouse
+1195,Rideword
+1196,Esqueleto Prisioneiro
+1197,Zumbi Prisioneiro
+1198,Sacerdote Maldito
+1199,Punk
+1200,Jirtas
+1201,Rybio
+1202,Fendark
+1203,Mysteltainn
+1204,Tirfing
+1205,Executor
+1206,Anolian
+1207,Sting
+1208,Andarilho
+1209,Cãibra
+1210,Filamentous
+1211,Escaravelho
+1212,Mão de Ferro
+1213,Grand Orc
+1214,Choco
+1215,Talo de Verme
+1216,Penomena
+1219,Cavaleiro do Abismo
+1220,Lobo do Deserto
+1221,Selvagem
+1229,Fabre
+1230,Pupa
+1231,Creamy
+1232,Ovo de PecoPeco
+1233,PecoPeco
+1234,Yoyo
+1235,Guerreiro Orc
+1236,Ovo de Andre
+1237,Andre
+1238,Piere
+1239,Deniro
+1240,Picky
+1241,Picky
+1242,Marin
+1243,Sasquatch
+1244,Jakk
+1245,Goblin Natalino
+1246,Cookie
+1247,Antonio
+1248,Soldadinho de Chumbo
+1249,Presente
+1250,Chepet
+1251,Cavaleiro da Tempestade
+1252,Hatii
+1253,Gárgula
+1254,Raggler
+1255,Nereida
+1256,Peste
+1257,Injustiçado
+1258,Goblin Arqueiro
+1259,Grifo
+1260,Moldura Maldita
+1261,Rosa Selvagem
+1262,Dragão Mutante
+1263,Xamã do Vento
+1264,Tritão
+1265,Cookie
+1266,Estrela do Mar
+1267,Carat
+1268,Cavaleiro Sanguinário
+1269,Relógio
+1270,Gerente
+1271,Crocodilo
+1272,Senhor das Trevas
+1273,Senhora Orc
+1274,Megalith
+1275,Alice
+1276,Raydric Arqueiro
+1277,Guardião da Floresta
+1278,Golem Estalactítico
+1279,Trilobita
+1280,Goblin a Vapor
+1281,Verme Sábio
+1282,Kobold Arqueiro
+1283,Quimera
+1284,Hugeling
+1285,Arqueiro Guardião
+1286,Cavaleiro Guardião
+1287,Soldado Guardião
+1288,Emperium
+1289,Maya Macho
+1290,Esqueleto General
+1291,Aparição
+1292,Diabinho
+1293,Creamy Ameaçador
+1294,Mantis Assassino
+1295,Barão Coruja
+1296,Líder Kobold
+1297,Múmia Anciã
+1298,Zumbi Mestre
+1299,Líder Goblin
+1300,Lagarta
+1301,Am Mut
+1302,Ilusão das Trevas
+1303,Zangão Gigante
+1304,Aranha Gigante
+1305,Verme Ancião
+1306,Leib Olmai
+1307,Gato de Nove Caudas
+1308,Panzer Goblin
+1309,Gajomart
+1310,Majoruros
+1311,Gullinbursti
+1312,General Tartaruga
+1313,Yakuza
+1314,Batedor
+1315,Agressor
+1316,Solidificador
+1317,Foca
+1318,Aquecedor
+1319,Congelador
+1320,Duque Coruja
+1321,Lavadeira
+1322,Coelho
+1323,Lontra
+1324,Tesouro
+1325,Tesouro
+1326,Tesouro
+1327,Tesouro
+1328,Tesouro
+1329,Tesouro
+1330,Tesouro
+1331,Tesouro
+1332,Tesouro
+1333,Tesouro
+1334,Tesouro
+1335,Tesouro
+1336,Tesouro
+1337,Tesouro
+1338,Tesouro
+1339,Tesouro
+1340,Tesouro
+1341,Tesouro
+1342,Tesouro
+1343,Tesouro
+1344,Tesouro
+1345,Tesouro
+1346,Tesouro
+1347,Tesouro
+1348,Tesouro
+1349,Tesouro
+1350,Tesouro
+1351,Tesouro
+1352,Tesouro
+1353,Tesouro
+1354,Tesouro
+1355,Tesouro
+1356,Tesouro
+1357,Tesouro
+1358,Tesouro
+1359,Tesouro
+1360,Tesouro
+1361,Tesouro
+1362,Tesouro
+1363,Tesouro
+1364,Agressor
+1365,Apocalipse
+1366,Golem de Lava
+1367,Labareda
+1368,Planta Carnívora
+1369,Grand Peco
+1370,Succubus
+1371,Anjo Fajuto
+1372,Bode
+1373,Senhor dos Mortos
+1374,Incubus
+1375,Papel
+1376,Harpia
+1377,Ancião
+1378,Pungus
+1379,Pesadelo Sombrio
+1380,Furador
+1381,Grizzly
+1382,Diabolik
+1383,Estrondo
+1384,Exterminador
+1385,Deletério
+1386,Rochoso
+1387,Ferrão
+1388,ArchAngeling
+1389,Drácula
+1390,Violinista
+1391,Pingu
+1392,Giro-Goblin
+1393,Múmia
+1394,Zumbi
+1395,Cristal
+1396,Cristal
+1397,Cristal
+1398,Cristal
+1399,Bafomé
+1400,Karakasa
+1401,Shinobi
+1402,Sapo Venenoso
+1403,Zumbi Atirador
+1404,Miyabi Ningyo
+1405,Tengu
+1406,Kapha
+1408,Borboleta Sanguinária
+1409,Pirralho
+1410,Pessegueira Encantada
+1412,Ermitão Maligno
+1413,Ginseng Selvagem
+1415,Filhote de Leopardo
+1416,Ninfa Perversa
+1417,Zipper
+1418,Serpente Suprema
+1419,Farmiliar
+1420,Esqueleto Arqueiro
+1421,Isis
+1422,Mosca Caçadora
+1423,Carniçal
+1424,Sorrateiro
+1425,Obeaune
+1426,Cavalo-Marinho
+1427,Pesadelo
+1428,Esporo Venenoso
+1429,Argiope
+1430,Argos
+1431,Bafomé Jr.
+1432,Lobo do Deserto
+1433,Deviruchi
+1434,Drainliar
+1435,Druida Maligno
+1436,Jakk
+1437,Coringa
+1438,Khalitzburg
+1439,Grand Orc
+1440,Talo de Verme
+1441,Penomena
+1442,Sasquatch
+1443,Soldadinho de Chumbo
+1444,Chepet
+1445,Raggler
+1446,Injustiçado
+1447,Grifo
+1448,Moldura Maldita
+1449,Dragão Mutante
+1450,Xamã do Vento
+1451,Tritão
+1452,Senhora Orc
+1453,Raydric Arqueiro
+1454,Trilobita
+1455,Kobold Arqueiro
+1456,Quimera
+1457,Louva-a-Deus
+1458,Marduk
+1459,Marionete
+1460,Matyr
+1461,Minorous
+1462,Orc Esqueleto
+1463,Orc Zumbi
+1464,Pasana
+1465,Petite
+1466,Petite
+1467,Raydric
+1468,Réquiem
+1469,Esqueleto Operário
+1470,Zerom
+1471,Nove Caudas
+1472,Bongun
+1473,Orc Arqueiro
+1474,Mímico
+1475,Alma Penada
+1476,Alarme
+1477,Arclouse
+1478,Rideword
+1479,Esqueleto Prisioneiro
+1480,Zumbi Prisioneiro
+1481,Punk
+1482,Jirtas
+1483,Rybio
+1484,Fendark
+1485,Mysteltainn
+1486,Tirfing
+1487,Executor
+1488,Anolian
+1489,Sting
+1490,Andarilho
+1491,Dokebi
+1492,Samurai Encarnado
+1493,Dríade
+1494,Encouraçado
+1495,Atirador de Pedras
+1497,Golem de Madeira
+1498,Artilheiro Wootan
+1499,Guerreiro Wootan
+1500,Parasita
+1502,Demolidor
+1503,Árvore Maldita
+1504,Dullahan
+1505,Loli Ruri
+1506,Mascarado
+1507,Serial Killer
+1508,Quve
+1509,Lude
+1510,Poltergeist
+1511,Amon Ra
+1512,Yao Jun
+1513,Mao Guai
+1514,Zhu Po Long
+1515,Filhote Hatii
+1516,Mi Gao
+1517,Jing Guai
+1518,Lady Branca
+1519,Donzela Verde
+1521,Alice
+1522,Múmia Anciã
+1523,Zumbi Atirador
+1524,Filhote de Leopardo
+1525,Bathory
+1526,Borboleta Sanguinária
+1527,Gerente
+1528,Relógio
+1529,Serpente Suprema
+1530,Drácula
+1531,Ermitão Maligno
+1532,Estrondo
+1533,Foca
+1534,Goblin
+1535,Goblin
+1536,Goblin
+1537,Goblin
+1538,Goblin
+1539,Líder Goblin
+1540,Golem
+1541,Guardião da Floresta
+1543,Kapha
+1544,Karakasa
+1545,Kobold
+1546,Kobold
+1547,Kobold
+1548,Líder Kobold
+1549,Golem de Lava
+1550,Pessegueira Encantada
+1551,Marte
+1552,Miyabi Ningyo
+1553,Névoa
+1554,Pesadelo Sombrio
+1555,Parasita
+1556,Sapo Venenoso
+1557,Giro-Goblin
+1558,Arenoso
+1559,Escorpião
+1560,Shinobi
+1561,Fumacento
+1562,Esqueleto Soldado
+1563,Tengu
+1564,Ninfa Perversa
+1565,Ginseng Selvagem
+1566,Aparição
+1567,Verme Ancião
+1568,Angeling
+1569,Cavaleiro Sanguinário
+1570,Cãibra
+1571,Deviace
+1572,Drops
+1573,Ancião
+1574,Salgueiro Ancião
+1575,Flora
+1576,Ghostring
+1577,Goblin Arqueiro
+1578,Horong
+1579,Hidra
+1580,Incubus
+1581,Vocal
+1582,Deviling
+1583,Tao Gunka
+1584,Tamruan
+1586,Gato de Folha
+1587,Kraben
+1588,Orc Natalino
+1589,Mandrágora
+1590,Planta Carnívora
+1591,Lunático
+1593,Múmia Anciã
+1594,Congelador
+1595,Marin
+1596,Tamruan
+1597,Gárgula
+1599,Cochicho
+1600,Aquecedor
+1601,Batedor
+1602,Solidificador
+1603,Pé-Grande
+1604,Zangão Gigante
+1605,Ilusão das Trevas
+1606,Filhote Hatii
+1607,Goblin Natalino
+1608,Besouro-Ladrão Macho
+1609,Zhu Po Long
+1610,Munak
+1611,Bongun
+1612,Yao Jun
+1613,Metaling
+1614,Mineral
+1615,Obsidiana
+1616,Mineiros
+1617,Fornalha Velha
+1618,Ungoliant
+1619,Porcellio
+1620,Nuvem Tóxica
+1621,Nuvem Venenosa
+1622,Ursinho
+1623,RSX-0806
+1624,Fornalha Velha
+1625,Porcellio
+1626,Espectro de Hellion
+1627,Anopheles
+1628,Holden
+1629,Vento da Colina
+1630,Lady Branca
+1631,Donzela Verde
+1632,Gremlin
+1633,Beholder
+1634,Seyren Windsor
+1635,Eremes Guile
+1636,Harword Alteisen
+1637,Margaretha Sorin
+1638,Cecil Damon
+1639,Kathryne Keyron
+1640,Lorde Seyren
+1641,Algoz Eremes
+1642,Mestre-ferreiro Howard
+1643,Sacerdotisa Margaretha
+1644,Atiradora Cecil
+1645,Arquimaga Kathryne
+1646,Lorde Seyren
+1647,Algoz Eremes
+1648,Mestre-ferreiro Harword
+1649,Sumo Margaretha
+1650,Atiradora Cecil
+1651,Arquimaga Kathryne
+1652,Egnigem Cenia
+1653,Wickebine Tres
+1654,Armeyer Dinze
+1655,Errende Ebecee
+1656,Kavach Icarus
+1657,Laurell Weinder
+1658,Espadachim Egnigem
+1659,Wickebine Tres
+1660,Armeyer Dinze
+1661,Errende Ebecee
+1662,Kavach Icarus
+1663,Laurell Weinder
+1664,Canhão de Fóton
+1665,Canhão de Fóton
+1666,Canhão de Fóton
+1667,Canhão de Fóton
+1668,Archdam
+1669,Dimik
+1670,Dimik
+1671,Dimik
+1672,Dimik
+1673,Dimik
+1674,Monemus
+1675,Venatu
+1676,Venatu
+1677,Venatu
+1678,Venatu
+1679,Venatu
+1680,Vento da Colina
+1681,Gemini-S58
+1682,Remover
+1683,Canhão de Fóton
+1684,Archdam
+1685,Vesper
+1686,Filhote de Orc
+1687,Grove
+1688,Lady Tanee
+1689,Lady Branca
+1690,Coelho
+1691,Kraben
+1692,Breeze
+1693,Plasma
+1694,Plasma
+1695,Plasma
+1696,Plasma
+1697,Plasma
+1698,Palavra Morta
+1699,Mímico Antigo
+1700,Dama da Guarda
+1701,Senhora do Abrigo
+1702,Baronesa da Retribuição
+1703,Senhora do Conforto
+1704,Odium de Thanatos
+1705,Despero de Thanatos
+1706,Maero de Thanatos
+1707,Pesar de Thanatos
+1708,Memória de Thanatos
+1709,Odium de Thanatos
+1710,Despero de Thanatos
+1711,Maero de Thanatos
+1712,Pesar de Thanatos
+1713,Acidus
+1714,Ferus
+1715,Novus
+1716,Acidus
+1717,Ferus
+1718,Novus
+1719,Detardeurus
+1720,Hydrolancer
+1721,Ovo de Dragão
+1722,Jakk
+1723,Cecil Damon
+1724,Canhão de Fóton
+1725,Poring
+1726,Lunático
+1727,Bebê Selvagem
+1728,Filhote de Lobo
+1729,Bafomé Jr.
+1730,Deviruchi
+1731,Doppelganger
+1732,Tesouro
+1733,Kiel
+1734,Kiel-D-01
+1735,Alicel
+1736,Aliot
+1737,Aliza
+1738,Constant
+1739,Alicel
+1740,Aliot
+1741,Cookie
+1742,Carat
+1743,Presente
+1744,Rosa Selvagem
+1745,Constant
+1746,Aliza
+1747,Jiboia
+1748,Anaconda
+1749,Medusa
+1750,Planta Vermelha
+1751,Valquíria Randgris
+1752,Skogul
+1753,Frus
+1754,Skeggiold
+1755,Skeggiold
+1756,Hydrolancer
+1757,Acidus
+1758,Ferus
+1759,Acidus
+1760,Ferus
+1761,Skogul
+1762,Frus
+1763,Skeggiold
+1764,Skeggiold
+1765,Valquíria
+1766,Angeling
+1767,Deviling
+1768,Pesar Noturno
+1769,Agav
+1770,Echio
+1771,Vanberk
+1772,Isilla
+1773,Hodremlin
+1774,Rastreador
+1775,Yeti
+1776,Siroma
+1777,Titã de Gelo
+1778,Gazeti
+1779,Ktullanux
+1780,Muscipular
+1781,Drosera
+1782,Roween
+1783,Galion
+1784,Stapo
+1785,Atroce
+1786,Agav
+1787,Echio
+1788,Titã de Gelo
+1789,Estalactite
+1790,Rafflesia
+1791,Galion
+1792,Bola de Futebol
+1793,Megalith
+1794,Roween
+1795,Cavaleiro Sanguinário
+1796,Aunoe
+1797,Fanat
+1798,Baú do Tesouro
+1799,Seyren
+1800,Eremes
+1801,Harword
+1802,Margaretha
+1803,Cecil
+1804,Katrine
+1805,Lorde Seyren
+1806,Algoz Eremes
+1807,Harword
+1808,Sacerdotisa Margaretha
+1809,Atiradora Cecil
+1810,Arquimaga Kathryne
+1813,Hydrolancer
+1814,Flor do Luar
+1817,Detardeurus
+1818,Alarme
+1819,Bathory
+1820,Pé-Grande
+1821,Lobo do Deserto
+1822,Deviruchi
+1823,Congelador
+1824,Filhote Hatii
+1825,Goblin Natalino
+1826,Névoa
+1827,Sasquatch
+1828,Gullinbursti
+1829,Espadachim Guardião
+1830,Arqueiro Guardião
+1831,Salamandra
+1832,Ifrit
+1833,Kasa
+1834,Salamandra
+1835,Kasa
+1836,Magmaring
+1837,Imp
+1838,Golpeador
+1839,Byorgue
+1840,Selvagem Dourado
+1846,Emperium
+1847,Poring
+1848,Bafomé
+1849,Osíris
+1850,Orc Herói
+1851,Yakuza
+1852,Angeling
+1853,Deviling
+1854,Muka
+1855,Esporo Venenoso
+1856,Magnólia
+1857,Marin
+1858,Plâncton
+1859,Mandrágora
+1860,Koko
+1861,Choco
+1862,Martin
+1863,Coelho
+1864,Massacre
+1865,Zumbi Dilacerado
+1866,Cão Infernal
+1867,Banshee
+1868,Banshee
+1869,Crânio Flamejante
+1870,Necromante
+1871,Bispo Decadente
+1872,Mosca Infernal
+1873,Belzebu
+1874,Belzebu
+1875,Tristan III
+1876,Senhor dos Mortos
+1877,Cristal
+1879,Coelho
+1880,Leshij
+1881,Les
+1882,Baba-Yaga
+1883,Kikimora
+1884,Mavka
+1885,Gorynych
+1886,Mavka
+1887,Congelador
+1888,Filhote Hatii
+1891,Valquíria
+1893,Cavaleiro do Abismo
+1894,Pouring
+1895,Seyren Windsor
+1896,Kathryne Keyron
+1897,Bafomé
+1898,Zumbi
+1899,Cavaleiro Guardião
+1900,Arqueiro Guardião
+1901,Condor
+1904,Bombporing
+1905,Barricada
+1906,Barricada
+1907,Runa Guardiã
+1908,Runa Guardiã
+1909,Suprimentos
+1910,Suprimentos
+1911,Bandeira Neutra
+1912,Bandeira de Leão
+1913,Bandeira de Águia
+1914,Cristal Azul
+1915,Cristal Vermelho
+1916,Imperador Morroc
+1917,Morroc Ferido
+1918,Sombra da Inveja
+1919,Sombra da Gula
+1920,Sombra da Vaidade
+1921,Sombra da Ira
+1926,Jakk Fugitivo
+1927,Sussurro do Halloween
+1928,Deviruchi do Halloween
+1929,Bafomé
+1930,Piamette
+1931,Dama dos Desejos
+1932,Guardião
+1933,Vigia
+1934,Flor Azul
+1935,Flor Vermelha
+1936,Flor Amarela
+1937,Constant
+1938,Caixa de Tesouro
+1939,Caixa de Tesouro
+1940,Caixa de Tesouro
+1941,Caixa de Tesouro
+1942,Caixa de Tesouro
+1943,Caixa de Tesouro
+1944,Caixa de Tesouro
+1945,Caixa de Tesouro
+1946,Caixa de Tesouro
+1947,Piamette
+1948,Egnigem Cenia
+1949,Guardião Guerreiro
+1950,Guardião Arqueiro
+1951,Cristal
+1952,Cristal
+1953,Cristal
+1954,Cristal
+1955,Baú de Tesouro
+1956,Naght Sieger
+1957,Entweihen Crothen
+1962,Ladrão de Biscoitos
+1964,Pesadelo
+1965,Rosa Selvagem
+1966,Doppelganger
+1967,Egnigem Cenia
+1968,Strouf
+1969,Cavalo-Marinho
+1971,Vadon
+1972,Marina
+1973,Poring
+1974,Senhora das Banshees
+1975,Mestre Beholder
+1976,Cobalto
+1977,Metaling Pesado
+1978,Apocalipse Infernal
+1979,Zakudam
+1980,Kublin
+1981,Grand Orc
+1982,Orc Arqueiro
+1983,Orc Esqueleto
+1984,Senhora Orc
+1985,Dandelion
+1986,Tatacho
+1987,Centopéia
+1988,Nepenthes
+1989,Leão da Montanha
+1990,Mamute Rochoso
+1991,Leão de Vinhas
+1992,Cornus
+1993,Naga
+1994,Vespa Vagalume
+1995,Pinguicula
+1997,Tatacho
+1999,Larva de Centopéia
+2002,Coelho Chinês
+2003,Ninfa Chinesa
+2004,Lady Chinesa
+2005,Plasma
+2006,Plasma
+2007,Plasma
+2013,Draco
+2014,Ovo de Draco
+2015,Pinguicula Sombria
+2016,Elemental da Água
+2017,Ratatosk
+2018,Duneyrr
+2019,Árvore Anciã
+2020,Rhyncho
+2021,Phylla
+2022,Sombra de Nidhogg
+2023,Sombra Obscura
+2024,Golem de Bradium
+2025,Presentinho
+2026,Dandelion Fugitivo
+2027,Sombra Obscura
+2030,Padre Escondido
+2031,Dandelion Executivo
+2034,Filhote de Lobo
+2035,Pedra da Futilidade
+2036,Pesadelo da Valquíria
+2037,Valquíria
+2038,Valquíria
+2039,Executor
+2040,Augertus
+2041,Mysteltainn
+2042,Artilheiro Prateado
+2043,Distração Mágica
+2044,Distração Mágica
+2045,Distração Mágica
+2046,Distração Mágica
+2047,Naga
+2048,Pinguicula
+2049,Golem
+2050,Elemental
+2052,Senhor das Trevas
+2053,Dimik
+2057,Rato
+2058,Mímico
+2059,Mascarado
+2060,Alice
+2066,Anopheles
+2067,Anopheles
+2068,Boitatá
+2069,Iara
+2070,Espírito da Água
+2071,Mula Sem Cabeça
+2072,Espírito da Terra
+2073,Espírito do Vento
+2074,Curupira
+2076,Sombra da Decepção
+2077,Sombra da Ilusão
+2078,Sombra do Prazer
+2079,Cristal Mãe
+2080,Cristal Enorme
+2082,Espírito da Água
+2083,Scaraba Chifre
+2084,Scaraba Chifres Duplos
+2085,Scaraba Galhado
+2086,Scaraba Ancinho
+2087,Rainha Scaraba
+2088,Ovo de Scaraba Chifre
+2089,Ovo de Chifres Duplos
+2090,Ovo de Scaraba Galhado
+2091,Ovo de Scaraba Ancinho
+2092,Dolomedes
+2093,Botaring
+2094,Orc Herói
+2095,Eddga
+2096,Osíris
+2097,Drácula
+2098,Doppelganger
+2099,Abelha-Rainha
+2100,Bafomé
+2101,Senhor dos Mortos
+2102,Senhor das Trevas
+2103,Ktullanux
+2104,Serpente Suprema
+2105,General Tartaruga
+2106,Vesper
+2108,Pesar Noturno
+2109,Valquíria Randgris
+2110,Ifrit
+2111,Mestre-ferreiro Howard
+2112,Lorde Seyren
+2113,Algoz Eremes
+2126,Anopheles
+2127,Zangão
+2128,Zangão
+2129,Vespa Vagalume
+2130,Vespa Vagalume
+2131,Dragão Púrpura
+2132,Aranha Pom
+2133,Louva-a-deus Angra
+2134,Chapim
+2135,Trepadeira
+2136,Pequeno Fatum
+2137,Plagiador
+2138,Lembrança da Guardiã
+2139,Lembrança da Guardiã
+2140,Lembrança da Guardiã
+2141,Lembrança da Guardiã
+2142,Lembrança da Guardiã
+2143,Lembrança da Guardiã
+2144,Scaraba Galhado
+2145,Scaraba Ancinho
+2147,Planta Branca
+2148,Planta Azul
+2149,Bebê Selvagem
+2151,Rafflesia Alnoldi
+2152,Comodo
+2153,Cendrawasih
+2154,Banaspaty
+2155,Butoijo
+2156,Leak
+2157,Banaspaty
+2158,Zangão
+2159,Zangão Gigante
+2160,Vespa Vagalume
+2161,Scaraba Chifre
+2162,Scaraba Chifres Duplos
+2163,Scaraba Galhado
+2164,Scaraba Ancinho
+2165,Rainha Scaraba
+2166,Ovo de Scaraba Chifre
+2167,Ovo de Chifres Duplos
+2168,Ovo de Scaraba Galhado
+2169,Ovo de Scaraba Ancinho
+2170,Scaraba Galhado
+2171,Scaraba Ancinho
+2172,Scaraba Chifre
+2173,Scaraba Chifres Duplos
+2174,Vadon Ancestral
+2175,Marte das Profundezas
+2176,Caranguejo das Profundezas
+2177,Cornutus das Profundezas
+2178,Ostra das Profundezas
+2179,Kukre Ancestral
+2180,Strouf Ancestral
+2181,Peixe-espada Ancestral
+2182,Cavalo-marinho das Profundezas
+2183,Anolian Mutante
+2184,Obeaune Ancestral
+2185,Kapha Metamorfo
+2186,Celacanto
+2187,Celacanto Sombrio
+2188,Celacanto Cruel
+2189,Celacanto Mutante
+2190,Celacanto Violento
+2191,Alga
+2192,Polvo Pequeno
+2193,Tentáculo de Polvo
+2194,Polvo Gigante
+2195,Kukre Ancestral
+2196,Strouf Ancestral
+2197,Eruma Vermelho
+2198,Dramoh Rei
+2199,Siorava
+2201,Sropho
+2202,Kraken
+2203,Dofle
+2204,Sedora
+2206,Perna de Kraken
+2208,Montaria Selvagem
+2209,Besouro-Ladrão
+2210,Lebre da Neve
+2212,Cavaleiro da Tempestade
+2213,Andarilho
+2214,Ninfa Perversa
+2215,Kasa
+2216,Salamandra
+2217,Ursinho
+2219,Polvo Gigante
+2221,Randel Lawrence
+2222,Flamer Emul
+2223,Celia Alde
+2224,Chen Liu
+2225,Gertie We
+2226,Alphoccio Basil
+2227,Trentini
+2228,Paladino Randel
+2229,Criador Flamel
+2230,Professora Celia
+2231,Mestre Chen
+2232,Desordeira Gertie
+2233,Menestrel Alphochio
+2234,Cigana Trentini
+2235,Paladino Randel
+2236,Criador Flamer
+2237,Professora Celia
+2238,Mestre Chen
+2239,Desordeira Gertie
+2240,Menestrel Alphoccio
+2241,Cigana Trentini
+2242,Cobaia Faminta
+2243,Cobaia Faminta
+2244,Mestre
+2245,Soldado
+2246,Guerreiro Wootan
+2247,Mi Gao
+2248,Poring Dourado
+2249,Pyuriel Furiosa
+2250,Guerreira Laura
+2251,Gioia
+2252,Elvira
+2253,General Daehyun
+2254,Samurai Soheon
+2255,Guardião Morto Kades
+2256,Rudo
+2257,Piamette
+2258,Piamette
+2259,Guardião
+2260,Guardião
+2261,Vigia
+2262,Vigia
+2263,Dama dos Desejos
+2264,Armeyer Dinze
+2265,Armeyer Dinze
+2266,Errende Ebecee
+2267,Errende Ebecee
+2268,Kavach Icarus
+2269,Kavach Icarus
+2270,Laurell Weinder
+2271,Laurell Weinder
+2272,Wickebine Tres
+2273,Wickebine Tres
+2274,Egnigem Cenia
+2275,Egnigem Cenia
+2276,Doppelganger
+2277,Guerreira Laura
+2278,Elvira
+2279,Samurai Soheon
+2280,Rudo
+2281,Sombra Abissal
+2282,Moldura Abissal
+2283,Sacerdote Abissal
+2284,Kobold Abissal
+2285,Kobold Abissal
+2286,Kobold Abissal
+2287,Arqueiro Abissal
+2288,Velha Arca do Tesouro
+2289,Fabre
+2290,Besouro-Ladrão
+2291,Zangão
+2292,Besouro-Chifre
+2293,Encouraçado
+2294,Argiope
+2295,Aranha Gigante
+2296,Mantis Assassino
+2297,Zangão Gigante
+2298,Lavadeira
+2299,Percevejo
+2300,ChonChon
+2301,Chonchon de Aço
+2302,Mosca Caçadora
+2303,Maya
+2305,Ungoliant
+2306,Besouro-Ladrão Dourado
+2307,Abelha-Rainha
+2308,KO_KAGE
+2309,Bungisngis
+2310,Engkanto
+2311,Manananggal
+2312,Mangkukulam
+2313,Tikbalang
+2314,Tiyanak
+2315,Wakwak
+2316,Jejeling
+2317,Bangungot
+2318,Bangungot
+2319,Buwaya
+2320,Bakonawa
+2321,Bakonawa
+2322,Bakonawa
+2323,Bombporing
+2324,Penomena
+2325,Bafomé
+2326,Pingu
+2327,Bangungot
+2328,Gongo
+2329,Ovo de Buwaya
+2330,Escravo de Buwaya
+2331,Alga de Malaya
+2332,Buwaya
+2333,Ponto Fraco
+2334,Wakwak
+2335,Tesouro de Bakonawa
+2337,Monstro
+2338,Manananggal
+2339,Mangkukulam
+2340,Tiyanak
+2341,Hrist
+2342,Diabolik
+2343,Monstro
+2344,Dama dos Desejos
+2345,Jirtas
+2346,Ktullanux
+2347,Eddga
+2348,Mao Guai
+2349,Loli Ruri
+2350,Sedora
+2351,Chepet
+2353,Minorous Pesadelo
+2354,Múmia Pesadelo
+2355,Verit Pesadelo
+2356,Mímico Pesadelo
+2357,Mímico Pesadelo
+2358,Arclouse Pesadelo
+2359,Arclouse Pesadelo
+2360,Múmia Anciã Pesadelo
+2361,Múmia Anciã Pesadelo
+2362,Amon Ra Pesadelo
+2363,Menblatt
+2364,Petal
+2365,Cenere
+2366,Antigo Livro Danificado
+2367,Lichtern Laguz
+2368,Lichtern Anzus
+2369,Lichtern Kenaz
+2370,Lichtern Inguz
+2371,Gerente de Bifröst
+2372,Monte de Terra
+2373,Pedra
+2374,Monte de Mato
+2375,Suspeito
+2376,Devoto de Morroc
+2377,Novus
+2378,Scaraba Galhado
+2379,Fumacento em Meias
+2380,Fumacento Natalino
+2398,Bebê Poring
+2401,Alvo de Prática
+2402,Poporing Anti-Magia
+2403,Poporing Anti-Ataques
+2404,Plâncton Morto
+2405,Esqueleto Frágil
+2406,Soldado Frágil
+2407,Esqueleto Marinheiro
+2408,Ovo Nível 10
+2409,Ovo Nível 50
+2410,Ovo Nível 100
+2411,Ovo Nível 150
+2413,Ovo Nível 10 (Fogo)
+2415,Cavaleiro
+2416,Mercenário
+2417,Ferreiro
+2418,Caçadora
+2419,Bruxa
+2420,Sacerdotisa
+2421,Templária
+2422,Arruaceira
+2423,Alquimista
+2424,Bardo
+2425,Odalisca
+2426,Sábio
+2427,Monge
+2428,Cavaleiro
+2429,Mercenário
+2430,Ferreiro
+2431,Caçadora
+2432,Bruxa
+2433,Sacerdotisa
+2434,Templária
+2435,Arruaceira
+2436,Alquimista
+2437,Bardo
+2438,Odalisca
+2439,Sábio
+2440,Monge
+2441,Aprendiz
+2442,Superaprendiz
+2443,Aira
+2444,Kuluna
+2445,Mallina
+2446,Ezella
+2447,Lune
+2448,Morin
+2449,Nasarin
+2450,Poring Suspeito
+2451,Bebê Suspeito
+2452,Baú do Tesouro
+2453,Baú do Tesouro
+2454,Baú do Tesouro
+2455,Baú do Tesouro
+2456,Baú do Tesouro
+2457,Baú do Tesouro
+2458,Baú do Tesouro
+2459,Baú do Tesouro
+2460,Baú do Tesouro
+2461,Baú do Tesouro
+2462,Baú do Tesouro
+2464,Zumbi Amaldiçoado
+2465,Alma Amaldiçoada
+2466,Carniçal Amaldiçoado
+2467,Arclouse Amaldiçoado
+2468,Raydric Amaldiçoado
+2469,Arqueiro Amaldiçoado
+2470,Amaldiçoado do Abismo
+2471,Khalitzburg Amaldiçoado
+2472,Sanguinário Amaldiçoado
+2473,Cavaleiro Desmorto
+2474,Cavaleira Desmorta
+2475,Origem da Maldição
+2476,Amdarais
+2477,Andarilho Amaldiçoado
+2478,Rideword Distorcido
+2479,Mímico Distorcido
+2480,Druida Amaldiçoado
+2481,Aparição Amaldiçoada
+2483,Bafomé Amaldiçoado
+2485,Quimera Amaldiçoada
+2528,Verme com Rosto
+2529,Rainha Verme
+2530,Verme Sombrio com Rosto
+2531,Inseto Venenoso
+2532,Rainha Verme
+2533,Rainha Verme
+2534,Rainha Verme
+2535,Rainha Verme
+2540,Ovo de Verme com Rosto
+2541,Larva de Verme
+2542,Lorde Irine
+2543,Guarda de Payon
+2544,Soldado de Payon
+2545,Lobo da Guarda
+2546,Lobo da Guarda Feroz
+2549,Alphard
+2550,Sirius
+2551,Gatuna de Geffen
+2552,Valentão de Geffen
+2553,Bandido de Geffen
+2554,Mirzam
+2555,Muliphen
+2556,Wezen
+2557,Wei
+2558,Sargas
+2559,Shaula
+2560,Ahdara
+2561,Procyon
+2562,Atria
+2563,Fay Kanavion
+2564,Fenris Fenrir
+2565,Alphonse
+2566,Alphonse Jr.
+2567,Valentão de Geffen
+2568,Bandido de Geffen
+2569,Anopheles
+2570,Breeze
+2571,Butoijo
+2572,Caramelo
+2573,ChonChon
+2575,Koko
+2576,Creamy
+2577,Fabre
+2578,Besouro-Chifre
+2580,Kaho
+2581,Lude
+2582,Lunático
+2583,Martin
+2584,Mineral
+2587,Obsidiana
+2588,Mineiros
+2589,Poporing
+2590,Rocker
+2591,Selvagem
+2592,Siorava
+2593,Siroma
+2594,Yeti
+2595,Percevejo
+2596,Stapo
+2597,Chonchon de Aço
+2598,Ungoliant
+2599,Montaria Selvagem
+2600,Lobo
+2601,Yoyo
+2602,Zipper
+2603,Massacre Ágil
+2604,Prisioneiro Brutal
+2605,Zumbi Mestre Alfa
+2606,Zumbi Feroz
+2607,Zakudam Fugaz
+2608,Yoyo Ágil
+2609,Yoyo Brutal
+2610,Rabo de Verme Alfa
+2611,Guerreiro Wootan Feroz
+2612,Leshij Fugaz
+2613,Lobo Ágil
+2614,Xamã do Vento Brutal
+2615,Salgueiro Alfa
+2616,Rosa Selvagem Feroz
+2617,Ninfa Perversa Fugaz
+2618,Sussurro Brutal
+2619,Esqueleto Frágil Alfa
+2620,Andarilho Feroz
+2621,Violinista Fugaz
+2622,Violinista Ágil
+2623,Violinista Brutal
+2624,Nuvem Venenosa Alfa
+2625,Venatu Feroz
+2626,Baba-Yaga Fugaz
+2627,Vanberk Ágil
+2628,Vadon Brutal
+2629,Ungoliant Alfa
+2630,Espírito do Vento Feroz
+2631,Tiyanak Fugaz
+2632,Besouro-Ladrão Brutal
+2633,Besouro-Ladrão Alfa
+2634,Besouro-Ladrão Feroz
+2635,Sapo de Thara Fugaz
+2636,Ursinho Ágil
+2637,Tatacho Brutal
+2638,Tarou Alfa
+2639,Tamruan Feroz
+2640,Sting Fugaz
+2641,Talo de Verme Ágil
+2642,Chonchon de Aço Brutal
+2643,Stapo Alfa
+2644,Estalactítico Feroz
+2645,Percevejo Fugaz
+2646,Esporo Ágil
+2647,Solidificador Brutal
+2648,Esqueleto Soldado Alfa
+2649,Esqueleto Soldado Feroz
+2650,Senhora Fugaz
+2651,Sohee Ágil
+2652,Yeti Brutal
+2653,Jiboia Alfa
+2654,Fumacento Feroz
+2655,Rochoso Fugaz
+2656,Rochoso Ágil
+2657,Skogul Brutal
+2658,Esqueleto General Alfa
+2659,Esqueleto General Feroz
+2660,Operário Fugaz
+2661,Siroma Ágil
+2662,Sorrateiro Brutal
+2663,Sorrateiro Alfa
+2664,Shinobi Feroz
+2665,Senhora do Abrigo Fugaz
+2666,Molusco Ágil
+2667,Cecil Damon Brutal
+2668,Lontra Alfa
+2669,Sedora Feroz
+2670,Escorpião Fugaz
+2671,Bebê Selvagem Ágil
+2672,Selvagem Brutal
+2673,Selvagem Alfa
+2674,Arenoso Feroz
+2675,Salamandra Fugaz
+2676,Marinheiro Ágil
+2677,Roween Brutal
+2678,Sapo de Rodda Alfa
+2679,Sapo de Rodda Feroz
+2680,Rocker Fugaz
+2681,Rideword Ágil
+2682,Rideword Brutal
+2683,Pirralho Alfa
+2684,Baronesa Feroz
+2685,Baronesa Fugaz
+2686,Baronesa Ágil
+2687,Réquiem Brutal
+2688,Remover Alfa
+2689,Eruma Vermelho Fugaz
+2690,Raydric Ágil
+2691,Raydric Brutal
+2692,Laurell Weinder Alfa
+2693,Scaraba Ancinho Feroz
+2694,Raggler Fugaz
+2695,Rafflesia Ágil
+2696,Poring Alfa
+2697,Poring Feroz
+2698,Poring Fugaz
+2699,Poring Ágil
+2700,Porcellio Brutal
+2701,Poporing Alfa
+2702,Poporing Feroz
+2703,Poporing Fugaz
+2704,Sapo Venenoso Ágil
+2705,Esporo Venenoso Brutal
+2706,Plasma Alfa
+2707,Plâncton Feroz
+2708,Mineiros Fugaz
+2709,Espírito da Água Ágil
+2710,Pinguicula Brutal
+2711,Pinguicula Alfa
+2712,Picky Feroz
+2713,Fen Fugaz
+2714,Petite Ágil
+2715,Petite Brutal
+2716,Penomena Alfa
+2717,Penomena Feroz
+2718,PecoPeco Fugaz
+2719,Pasana Ágil
+2720,Parasita Brutal
+2721,Duque Coruja Alfa
+2722,Guerreiro Orc Feroz
+2723,Orc Zumbi Fugaz
+2724,Orc Esqueleto Ágil
+2725,Senhora Orc Brutal
+2726,Dama da Guarda Alfa
+2727,Nuvem Tóxica Feroz
+2728,Novus Fugaz
+2729,Novus Ágil
+2730,Novus Brutal
+2731,Novus Alfa
+2732,Pesadelo Sombrio Feroz
+2733,Aparição Fugaz
+2734,Andarilho Ágil
+2735,Nepenthes Brutal
+2736,Necromante Alfa
+2737,Presente Feroz
+2738,Muscipular Fugaz
+2739,Múmia Ágil
+2740,Múmia Brutal
+2741,Muka Alfa
+2742,Sombra da Inveja Feroz
+2743,Sombra da Inveja Fugaz
+2744,Sombra da Inveja Ágil
+2745,Holden Brutal
+2746,Miyabi Ningyo Alfa
+2747,Minorous Feroz
+2748,Minorous Fugaz
+2749,Minorous Ágil
+2750,Mineral Brutal
+2751,Plagiador Alfa
+2752,Mímico Feroz
+2753,Mímico Fugaz
+2754,Metaller Ágil
+2755,Metaling Brutal
+2756,Metaling Alfa
+2757,Tritão Feroz
+2758,Menblatt Fugaz
+2759,Medusa Ágil
+2760,Martin Brutal
+2761,Marionete Alfa
+2762,Marin Feroz
+2763,Marduk Fugaz
+2764,Louva-a-Deus Ágil
+2765,Mandrágora Brutal
+2766,Manananggal Alfa
+2767,Majoruros Feroz
+2768,Magnólia Fugaz
+2769,Magmaring Ágil
+2770,Lunático Brutal
+2771,Lunático Alfa
+2772,Lude Feroz
+2773,Vespa Vagalume Fugaz
+2774,Loli Ruri Ágil
+2775,Pessegueira Brutal
+2776,Bebê Poring Alfa
+2777,Pequeno Fatum Feroz
+2778,Jing Guai Fugaz
+2779,Les Ágil
+2780,Leib Olmai Brutal
+2781,Gato de Folha Alfa
+2782,Arruaceira Feroz
+2783,Mercenário Fugaz
+2784,Kobold Arqueiro Ágil
+2785,Kobold Brutal
+2786,Golpeador Alfa
+2787,Encouraçado Feroz
+2788,Kasa Fugaz
+2789,Karakasa Ágil
+2790,Isis Brutal
+2791,Isilla Alfa
+2792,Injustiçado Feroz
+2793,Mi Gao Fugaz
+2794,Titã de Gelo Ágil
+2795,Iara Brutal
+2796,Yao Jun Alfa
+2797,Mosca Caçadora Feroz
+2798,Zangão Fugaz
+2799,Scaraba Chifre Ágil
+2800,Besouro-Chifre Brutal
+2801,Hodremlin Alfa
+2802,Hode Feroz
+2803,Vento da Colina Fugaz
+2804,Vento da Colina Ágil
+2805,Grand Orc Brutal
+2806,Harpia Alfa
+2807,Harpia Feroz
+2808,Grove Fugaz
+2809,Guardião Ágil
+2810,Grand Peco Brutal
+2811,Grand Peco Alfa
+2812,Golem Feroz
+2813,Goblin Fugaz
+2814,Goblin Ágil
+2815,Bode Brutal
+2816,Bode Alfa
+2817,Kobold Abissal Feroz
+2818,Kobold Abissal Fugaz
+2819,Sombra Abissal Ágil
+2820,Sombra Abissal Brutal
+2821,Zangão Gigante Alfa
+2822,Carniçal Feroz
+2823,Carniçal Fugaz
+2824,Planta Carnívora Ágil
+2825,Planta Carnívora Brutal
+2826,Gárgula Alfa
+2827,Gárgula Feroz
+2828,Galion Fugaz
+2829,Foca Ágil
+2830,Congelador Brutal
+2831,Congelador Alfa
+2832,Ferus Feroz
+2833,Farmiliar Fugaz
+2834,Anjo Fajuto Ágil
+2835,Fabre Brutal
+2836,Fabre Alfa
+2837,Estrondo Feroz
+2838,Druida Maligno Fugaz
+2839,Salgueiro Ancião Ágil
+2840,Salgueiro Ancião Brutal
+2841,Echio Alfa
+2842,Poeira Feroz
+2843,Dríade Ágil
+2844,Drosera Brutal
+2845,Drops Alfa
+2846,Furador Feroz
+2847,Drainliar Fugaz
+2848,Lavadeira Ágil
+2849,Draco Brutal
+2850,Dolomedes Alfa
+2851,Dokebi Feroz
+2852,Mascarado Fugaz
+2853,Dimik Ágil
+2854,Deviruchi Brutal
+2855,Filhote de Lobo Alfa
+2856,Filhote de Lobo Feroz
+2857,Deniro Fugaz
+2858,Palavra Morta Ágil
+2859,Palavra Morta Brutal
+2860,Palavra Morta Alfa
+2861,Sacerdote Maldito Feroz
+2862,Zhu Po Long Fugaz
+2863,Creamy Ágil
+2864,Cornutus Brutal
+2865,Cookie Alfa
+2866,Constant Feroz
+2867,Comodo Fugaz
+2868,Koko Ágil
+2869,Koko Brutal
+2870,Relógio Alfa
+2871,Relógio Feroz
+2872,ChonChon Fugaz
+2873,Centopéia Ágil
+2874,Cenere Brutal
+2875,Celia Alde Alfa
+2876,Lagarta Feroz
+2877,Carat Fugaz
+2878,Caramelo Ágil
+2879,Bungisngis Brutal
+2880,Breeze Alfa
+2881,Breeze Feroz
+2882,Golem de Bradium Fugaz
+2883,Borboleta Ágil
+2884,Pé-Grande Alfa
+2885,Bathory Feroz
+2886,Sra das Banshees Fugaz
+2887,Banshee Ágil
+2888,Banaspaty Brutal
+2889,Agressor Alfa
+2890,Argos Feroz
+2891,Argiope Fugaz
+2892,Argiope Ágil
+2893,Arclouse Brutal
+2894,Arclouse Alfa
+2895,Apocalipse Feroz
+2896,Scaraba Galhado Fugaz
+2897,Antigo Livro Ágil
+2898,Antigo Livro Brutal
+2899,Anolian Feroz
+2900,Angra Fugaz
+2901,Angra Ágil
+2902,Andre Brutal
+2903,Mímico Antigo Alfa
+2904,Anaconda Feroz
+2905,Ambernite Fugaz
+2906,Rafflesia Alnoldi Ágil
+2907,Crocodilo Brutal
+2908,Aliza Alfa
+2909,Alicel Feroz
+2910,Alarme Fugaz
+2911,Agav Ágil
+2912,Acidus Brutal
+2913,Acidus Alfa
+2914,Gatuna de Geffen
+2916,Marca-Tempo
+2917,Despertador
+2918,Diretor
+2919,Neo Punk
+2920,Ancião Ancestral
+2921,Visconde Coruja
+2922,Visconde Coruja
+2923,Marquês Coruja
+2924,Salgueiro Ancião
+2925,Salgueiro
+2926,Harpia
+2927,Mineral
+2928,Árvore Maldita
+2929,Plasma
+2931,Metaling
+2932,Poporing
+2933,Deviling
+2934,ArchAngeling
+2935,Ermitão Maligno
+2936,Ghostring
+2938,Selo Místico
+2939,Habitante das Sombras
+2940,Convidado do Inferno
+2941,Espírito das Trevas
+2942,Fanático das Trevas
+2943,Mina de Gelo
+2948,Soldado Amaldiçoado
+2949,Sentinela Amaldiçoado
+2950,Alma Estilhaçada
+2951,Lamento Errante
+2952,Suplício Perdido
+2953,Memória Ressentida
+2954,Juramento Desolado
+2955,Rancor Antigo
+2956,Massacre Prazeroso
+2957,Legado Esquecido
+2958,Passado Irreversível
+2959,Angústia Torturante
+2960,Cruz de Chamas
+2961,Angústia Torturante
+2987,Árvore Maldita Decorada
+2988,Antonio Sombrio
+2989,Cookie Aterrorizante
+2990,Soldadinho Corrompido
+2991,Presente das Trevas
+2992,Lude Grotesco
+2993,Poltergeist Sangrento
+2994,Marionete Demoníaca
+2995,Ursinho Abominável
+2996,Celine Kimi
+2998,Imperador Morroc
+2999,Necromante de Morroc
+3000,Necromante de Morroc
+3001,Carniçal Profano
+3002,Múmia Profana
+3003,Esqueleto Profano
+3004,Aparição Profana
+3005,Verit Profano
+3006,Lude Profano
+3007,Morroc Falso
+3008,Imperador Morroc
+3010,Bebê Orc Caído
+3011,Filhote de Lobo Caído
+3012,Farmiliar Caído
+3013,Orc Caído
+3014,Lobo Caído
+3015,Fen Caído
+3016,Orc Zumbi Caído
+3017,Verit Caído
+3018,Megalodon Caído
+3020,Condor de Fogo
+3021,Arenoso de Fogo
+3022,Frilldora de Fogo
+3023,Golem de Fogo
+3024,Construtora
+3025,Construtor
+3026,Fosso de Fogo
+3027,Besouro Rola Brasa
+3028,Sonia
+3029,Ceifador Ankou
+3039,Lamento da Inveja
+3040,Lamento da Gula
+3041,Lamento da Ira
+3061,Mímico Enfurecido
+3069,Allegro
+3070,Sonata
+3071,Adagio
+3072,Minueto
+3073,Réquiem de Marfim
+3074,Vigia do Tempo
+3088,Brinaranha Jovem
+3089,Kasa Enfurecido
+3090,Salamandra Enfurecida
+3091,Brinaranha
+3092,Skoll
+3093,Núcleo de Brinaranha
+3094,Núcleo de Skoll
+3095,Lamento dos Deuses
+3096,Reencarnação de Morroc
+3097,Deus Morroc
+3098,Morroc Exórdio
+3099,Morroc Caído
+3100,Mana da Escuridão
+3101,Mana da Aurora
+3102,Mana da Vitalidade
+3103,Mana da Terra
+3104,Mana do Oceano
+3105,Lamento da Inveja
+3106,Lamento da Ira
+3108,Sustenido
+3109,Bemol
+3122,Charleston 01
+3123,Charleston 02
+3124,Charleston 03
+3125,Roboring
+3126,Mecha v2.0
+3127,Transistor
+3128,Mecha v1.6
+3139,Zumbi Sombrio
+3140,Alma Penada Sombria
+3141,Carniçal Sombrio
+3142,Larva
+3143,Raydric Sombrio
+3144,Arqueiro Sombrio
+3145,Cavaleiro Sombrio
+3146,Khalitzburg Sombria
+3147,Sanguinário Sombrio
+3148,Desmorto Sombrio
+3149,Desmorta Sombria
+3150,Amdarais Sombrio
+3151,Origem da Escuridão
+3153,Robô Escavador
+3154,Robô de Reconhecimento
+3155,Robô Reparador
+3156,Robô Explorador
+3157,Adorador do Infortúnio
+3158,Adorador do Infortúnio
+3159,Propaganda Ilegal
+3161,Bomba
+3175,Giro-Goblin
+3176,Gremlin
+3177,Beholder
+3178,Acidus
+3179,Acidus
+3182,Giro-Goblin Invasor
+3183,Gremlin Invasor
+3184,Beholder Invasor
+3185,Wyvern Azul
+3186,Wyvern Dourado
+3187,Wyvern Gigante
+3188,Capitão Ferlock
+3190,Sara Irine
+3191,Gigante
+3192,Gigante
+3193,Gigante
+3194,Gigante Antimagia
+3195,Gigante Imaterial
+3196,Gigante Ancestral
+3197,Gárgula Ancestral
+3198,Galion Ancestral
+3199,Dragão Ancestral
+3200,Quimera Ancestral
+3202,Abóbora Orgânica
+3203,Abóbora Inorgânica
+3208,Eremes Guile
+3209,Margaretha Sorin
+3210,Kathryne Keyron
+3211,Cecil Damon
+3212,Harword Alteisen
+3213,Seyren Windsor
+3214,Cobaia Eremes
+3215,Cobaia Margaretha
+3216,Cobaia Kathryne
+3217,Cobaia Cecil
+3218,Cobaia Harword
+3219,Cobaia Seyren
+3220,Sicário Eremes
+3221,Arcebispa Margaretha
+3222,Sentinela Cecil
+3223,Mecânico Harword
+3224,Arcana Kathryne
+3225,Cavaleiro Rúnico Seyren
+3226,Randel Lawrence
+3227,Flamel Emule
+3228,Celia Alde
+3229,Chen Liu
+3230,Gertie We
+3231,Alphoccio Basil
+3232,Trentini
+3233,Cobaia Randel
+3234,Cobaia Flamel
+3235,Cobaia Celia
+3236,Cobaia Chen
+3237,Cobaia Gertie
+3238,Cobaia Alphoccio
+3239,Cobaia Trentini
+3240,Guardião Real Randel
+3241,Bioquímico Flamel
+3242,Feiticeira Celia
+3243,Shura Chen
+3244,Renegada Gertie
+3245,Trovador Alphoccio
+3246,Musa Trentini
+3247,Fumaça Verde
+3248,Robô Reparador Turbo
+3249,Robô Explorador Turbo
+3250,Robô de Sucata
+3251,GC109
+3252,DR815
+3253,Glitch do Sistema
+3254,T_W_O
+3255,Carniçal Fedorento
+3256,Zumbi Fedorento
+3259,Cavalo Azul Furioso
+3260,Pequeno Cavalo Azul
+3261,Unicórnio
+3381,Alma da Escuridão
+3382,Alma Andarilha
+3384,Poring Espacial
+3385,Lunatico Espacial
+3386,Fabre Espacial
+3387,Picky Espacial
+3388,Condor Espacial
+3389,Salgueiro Espacial
+3390,Esporo Espacial
+3391,Poporing Espacial
+3392,Fumacento Espacial
+3393,Dokebi Espacial
+3394,Pe-Grande Espacial
+3395,Rabo de Verme Espacial
+3396,Lobo Espacial
+3397,Jiboia Espacial
+3398,Anaconda Espacial
+3399,Marin Espacial
+3400,Muka Espacial
+3401,PecoPeco Espacial
+3402,Deniro Espacial
+3403,Pierre Espacial
+3404,Andre Espacial
+3405,Golem Espacial
+3406,Escorpiao Espacial
+3407,Chon Chon Espacial
+3408,Metaller Espacial
+3409,Arenoso Espacial
+3410,Raggler Espacial
+3411,Lavadeira Espacial
+3412,Grove Espacial
+3413,Lontra Espacial
+3414,Pingu Espacial
+3415,Foca Espacial
+3416,Crocodilo Espacial
+3417,Megalodon Espacial
+3418,Trilobita Espacial
+3419,Megalith Espacial
+3420,Driade Espacial
+3421,Sapo Espacial
+3422,Errante Espacial
+3423,Vocal Espacial
+3424,Eclipse Espacial
+3425,Quimera Espacial
+3426,Eddga Espacial
+3427,Osiris Espacial
+3428,Freeoni Espacial
+3429,Orc Heroi Espacial
+3430,Tao Gunka Espacial
+3431,Sapo de Rodda
+3432,Lobo
+3433,Rocker
+3434,Lunático
+3435,Gárgula
+3436,Pé-Grande
+3437,Múmia Anciã
+3438,Arenoso
+3439,Grand Orc
+3440,Megalith
+3442,Lobo de Gelo
+3443,Tappy
+3444,Observador
+3445,Arqueiro Imortal
+3446,Esqueleto Imortal
+3447,Soldado Imortal
+3448,Amdarais Imortal
+3450,Bijou
+3451,Legionário Imortal
+3452,Zumbi da Guarda
+3453,Carneiro Perdido
+3454,Intruso
+3455,Prato Luxuoso
+3473,Jack Wolf
+3474,Cavaleiro Imortal
+3475,Xamã Imortal
+3476,Zumbi Imortal
+3477,Legionário Imortal
+3478,Guardião da Chave
+3479,Carniçal Imortal
+3480,Dilacerado Imortal
+3481,Habitante Imortal
+3482,Convidado Imortal
+3483,Espírito Imortal
+3484,Jack Wolf
+3485,Dilacerado Mortal
+3487,Legionário Imortal
+3488,Legionário Imortal
+3489,Legionário Imortal
+3490,General Imortal
+3494,Poring de Ouro
+3495,Omeleting
+3496,Lunático Folhado
+3497,Fabre Gramíneo
+3498,Zangão Selvagem
+3499,Sapo de Rodda Doce
+3500,Filhote de Lobo Caçador
+3501,Esporo de Água Doce
+3502,Basilisco Guarda
+3503,Basilisco Guerreiro
+3504,Basilisco General
+3505,Gemaring
+3506,Mandrágora da Selva
+3507,Aranha Pomar
+3508,Omeleting
+3510,Guarda de Freya
+3511,Crente Agressiva
+3512,Crente Agressivo
+3513,Cachorro
+3514,Sacerdote Violento
+3515,Coração Congelado
+3516,Loomin
+3517,Espectro de Gelo
+3518,Guarda de Freya
+3519,Crente Agressiva
+3520,Crente Agressivo
+3521,Cachorro
+3522,Sacerdote Violento
+3523,Coração Congelado
+3524,Loomin
+3525,Espectro de Gelo
+3526,Espectro de Ktullanux
+3527,Papisa
+3528,Papisa Casual
+3569,Papisa
+3570,Papisa Casual
+3621,Fofinho
+3622,Caça-Coração Guarda
+3623,Chama Etérea
+3624,Chama Etérea
+3625,Chama Etérea
+3626,Caça-Coração Gigante
+3627,Caça-Coração
+3628,Malícia
+3629,Rancor de Arma
+3630,Elena Bolkova
+3631,Quimera Humana
+3632,Quimera Disforme
+3633,Quimera Venenosa
+3634,Presente Gigante
+3636,Bebê Isis
+3637,Esqueleto 60
+3638,Esqueleto 80
+3639,Esqueleto 100
+3640,Esqueleto 120
+3641,Esqueleto 140
+3642,Esqueleto 160
+3643,Familiar 60
+3644,Familiar 80
+3645,Familiar 100
+3646,Familiar 140
+3647,Familiar 140
+3648,Familiar 160
+3649,Zumbi 60
+3650,Zumbi 80
+3651,Zumbi 100
+3652,Zumbi 120
+3653,Zumbi 140
+3654,Zumbi 160
+3658,Monarca Lich
+3659,Monarca Lich
+3660,Pesadelo 100
+3661,Pesadelo 160
+3662,Jakk 100
+3663,Jakk 160
+3664,Carniçal 100
+3665,Carniçal 160
+3666,Drainliar 100
+3667,Drainliar 160
+3669,Diabolik
+3670,Deletério
+3721,Poring
+3722,Poporing
+3723,Drops
+3724,Lunático
+3725,Salgueiro
+3726,Picky
+3727,Picky
+3728,Zumbi
+3729,Esporo Venenoso
+3731,Zumbichano
+3734,Merry Santa Orc
+3735,Santa Poring
+3736,Búfalo Bandido
+3737,Búfalo Atirador
+3738,Búfalo Ladrão
+3739,Coiote
+3740,Gaster
+3741,Aranha Mecânica
+3747,Bandido de Elite
+3748,Atirador de Elite
+3749,Ladrão de Elite
+3750,Mattiliar
+3751,Morto-Vivo
+3752,Zumbi Ilusional
+3753,Carniçal Ilusional
+3754,Doce Pesadelo
+3755,Cogumelo Brilhante
+3756,Bomi
+3757,Conde Drácula
+3758,Ilusão do Luar
+3759,Raposa Raivosa
+3760,Munak Ressentida
+3761,Bongun Ressentido
+3762,Sohee Maldita
+3763,Arqueiro Cruel
+3764,Veritas
+3765,Aventureiro
+3787,Tapuru
+3788,Gabiru
+3790,Quinding
+3792,Gazeti de Cristal
+3793,Yeti de Cristal
+3794,Titã de Cristal
+3795,Cristal de Gelo
+3796,Ktullanux de Cristal
+3797,Vrid
+3798,Zeith
+3799,Agressor Ominoso
+3800,Batedor Ominoso
+3801,Congelador Ominoso
+3802,Solidificador Ominoso
+3803,Aquecedor Ominoso
+3804,Marechal Tartaruga
+3810,Rei Poring
+3811,Dourading Gigante
+3812,Amering Gigante
+3813,Drops Encorpado
+3814,Poporing Encorpado
+3815,Poring Encorpado
+3816,Marin Encorpado
+3817,Meloring
+3818,Meloring Gigante
+3820,Imp Morno
+3821,Estrondo Morno
+3826,Y.S.F.01
+3897,Orc Zumbi Putrefato
+3898,Orc Zumbi
+3899,Orc Guerreiro Antigo
+3900,Orc Arqueiro Antigo
+3901,Orc Falso
+3902,Senhor dos Orcs Antigo
+3903,Flor dos Orcs
+3969,Cogumelo Vermelho
+3970,Cogumelo Negro
+3971,EsqueLeão
+3976,Fada
+20061,Bafomé Voraz
+20062,Bafomé Jr. Cruel
+20063,Lobo Selvagem
+20064,Eclipse Bárbaro
+20065,Vocal Cruel
+20066,Ungoliant Violento
+20073,Siroma Natalino
+20074,Caixa de Presente
+20180,Sharkira
+20181,Fantasma de Rá
+20182,Fantasma do Bode
+20183,Fantasma das Trevas
+20184,Fantasma do Sósia
+20185,Fantasma de Drácula
+20186,Fantasma do Pirata
+20187,Fantasma de Eddga
+20188,Fantasma do Hatii
+20189,Fantasma do Ladrão
+20190,Fantasma da Rena
+20191,Fantasma de Maya
+20192,Fantasma da Abelha
+20193,Fantasma da Raposa
+20194,Fantasma do Orc
+20195,Fantasma do Herói
+20196,Fantasma de Osíris
+20197,Fantasma do Faraó
+20198,Fantasma de Freeoni
+20199,Fantasma do Gunka
+20200,Fantasma do General
+20201,Fantasma de Seyren
+20202,Fantasma de Howard
+20203,Fantasma de Eremes
+20204,Fantasma de Kathryne
+20205,Fantasma de Sorin
+20206,Fantasma da Morte
+20207,Fantasma do Esqueleto
+20208,Fantasma de Sieger
+20209,Fantasma do Dragão
+20210,Fantasma de Thanatos
+20211,Fantasma de Vesper
+20212,Fantasma de Kiel
+20213,Fantasma da Randgris
+20214,Fantasma do RSX
+20215,Fantasma de Egnigem
+20216,Fantasma do Atroce
+20217,Fantasma de Belzebu
+20218,Fantasma do Bispo
+20219,Fantasma do Pesar
+20220,Fantasma do Ifrit
+20221,Fantasma do Gelo
+20222,Fantasma da Malícia
+20223,Fantasma do Fofinho
+20224,Fantasma da Quimera
+20225,Fantasma da Cecil
+20226,Fantasma do Randel
+20227,Fantasma do Flamel
+20228,Fantasma da Trentini
+20229,Fantasma do Robô
+20230,Fantasma do Piano
+20231,Fantasma da Sombra
+20232,Fantasma da Rainha
+20233,Fantasma do Kraken
+20234,Fantasma do Vigia
+20235,Fantasma do Samurai
+20236,Fantasma da Lady
+20237,Fantasma da Serpente
+20238,Fantasma da Palmeira
+20239,Fantasma do Rei
+20240,Fantasma do Leak
+20241,Fantasma da Aranha
+20242,Fantasma da Pyuriel
+20243,Fantasma de Kades
+20244,Fantasma de Gioia
+20245,Fantasma de Daehyon
+20246,Fantasma da Celia
+20247,Fantasma do Chen
+20248,Fantasma do Alphoccio
+20249,Fantasma da Gertie
+20250,Fantasma do Espinho
+20251,Fantasma do Espinho
+20252,Fantasma do Espinho
+20253,Fantasma do Espinho
+20254,Fantasma de Mímico
+20255,Ursinho Vermelho
+20256,Ursinho Amarelo
+20257,Ursinho Verde
+20258,Ursinho Branco
+20259,Urzinho Azul
+20260,Ursinho Brilhante
+20261,Mineradores
+20262,Fragmento de Alma
+20263,Obsidiana Sinistra
+20264,Ursinho Vermelho
+20265,Ursinho Amarelo
+20266,Ursinho Verde
+20267,Ursinho Branco
+20268,Urzinho Azul
+20269,Bandeira
+20270,Trilobita Ancestral
+20271,Golem Ancestral
+20272,Megalith Ancestral
+20273,Tao Gunka Ancestral
+20274,Disparador de Pedras
+20275,Arqueiro Wootan
+20276,Lutador Wootan
+20277,Defensor Wootan
+20278,Megalith Ancestral
+20279,Arqueiro Wootan
+20280,Lutador Wootan
+20340,EL-A17T
+20341,E-EA1L
+20342,E-EA2S
+20343,E-13EN0
+20344,Veneno Químico
+20345,Biobateria
+20346,Miguel
+20347,Miguel
+20348,A013-Caput
+20349,A013-Dolor
+20350,A013-Bellare
+20351,Buraco
+20352,Gás Venenoso
+20353,Vítima
+20355,Bellare
+20356,Bellare Mutante
+20357,Sanare
+20358,Sanare Mutante
+20359,Plaga
+20360,Plaga Mutante
+20361,Dolor
+20362,Dolor Mutante
+20363,Venenum
+20364,Venenum Mutante
+20365,Caput
+20366,Caput Mutante
+20367,Raydric Poluto
+20368,Raydric Atirador
+20369,Gárgula Congelada
+20370,Sting Poluto
+20371,Foragido
+20372,Brasa
+20373,Pesadelo Sinistro
+20374,Deleter Voador
+20375,Deleter
+20376,Explosão
+20377,Kaho Torrente
+20378,Golem de Magma
+20379,Xamã do Gelo
+20380,Xamã do Fogo
+20381,R48-85-BESTIA
+20419,Muspellskoll
+20420,Andarilho Poluto
+20421,Aranha Rainha
+20422,Lorde das Trevas
+20423,Lady Branca
+20424,Flor do Luar
+20425,Freeoni
+20520,Bafomé Caótico
+20521,Andrea
+20522,Agnes
+20523,Silvano
+20524,Cecília
+20525,Bafinho Caótico
+20526,Sorrateiro Caótico
+20527,Mosca Caótica
+20528,Louva-Caos
+20529,Ghostring Caótico
+20530,Mantis Caótico
+20531,Poporing Caótico
+20532,Talo Caótico
+20536,Espadachim Anônima
+20537,Cobaia Anônima
+20538,Noviço Anônimo
+20539,Mercadora Anônima
+20540,Eremes Guile
+20541,Segurança da Rekenber
+20542,Guarda da Rekenber
+20543,Cientista da Regenschrim
+20560,Mineral de Jade
+20570,Meloring Sombrio
+20571,Orc Herói
+20589,Alga-Chicote
+20591,Papare
+20592,Nuvem Nociva
+20593,Nuvem Perigosa
+20594,Mineral de Jade
+20595,Mineral de Jaspe
+20596,Mineral de Selenita
+20597,Mineral de Ametista
+20598,Geodoliant
+20599,Geodoliant
+20600,Geodo
+20601,Joialiant
+20602,Porcellio Albino
+20603,Garimpeiros
+20604,Angelgolt
+20605,Angelgolt
+20606,Frus Angelical
+20607,Skogul Angelical
+20608,Plasma Angelical
+20609,Plasma Espectral
+20610,Valquíria Reginleif
+20611,Valquíria Ingrid
+20612,Ferus Roxo
+20613,Mímico Precioso
+20614,Acidus Negro
+20615,Acidus Prateado
+20616,Ferus Esqueleto
+20617,Acidus Esqueleto
+20618,Detale Esqueleto
+20619,Pesar Noturno
+20801,Sropho Abismal
+20802,Obeaune Abismal
+20803,Deviace Abismal
+20804,Marse Abismal
+20805,Tritão Abismal
+20806,Sedora Abismal
+20807,Peixe Abismal
+20808,Strouf Abismal
+20809,Fen Abismal
+20810,Dramoh Abismal
+20811,Kraken Abismal
+20843,Bruxa do Mar
+20850,Trepadeira
+21064,Dummy - Pequeno
+21065,Dummy - Médio
+21066,Dummy - Grande
+21067,Dummy - Amorfo
+21068,Dummy - Dragão
+21069,Dummy - Bruto
+21070,Dummy - Humanoide
+21071,Dummy - Inseto
+21072,Dummy - Peixe
+21073,Dummy - Demônio
+21074,Dummy - Planta
+21075,Dummy - Anjo
+21076,Dummy - Morto-Vivo
+21077,Dummy - Neutro
+21078,Dummy - Água
+21079,Dummy - Terra
+21080,Dummy - Fogo
+21081,Dummy - Vento
+21082,Dummy - Veneno
+21083,Dummy - Sagrado
+21084,Dummy - Sombrio
+21085,Dummy - Fantasma
+21086,Dummy - Maldito
+21087,Dummy - Humano
+21088,Dummy - Doram
+21089,Patinho
+21310,Guarda de Freya
+21386,Andre Diligente
+21387,Guerreiro Andre
+21388,Larva de Formiga
+21389,Deniro Diligente
+21390,Piere Diligente
+21391,Ovo de Formiga
+21392,Giearth Intrépido
+21393,Farmiliar Intrépido
+21394,Vitata Diligente
+21395,Maya Silente
+21630,Rosa Selvagem
+21887,Geodo
+22712,hpEB
+22713,h5EB
+23000,Ilusão das Trevas
+23308,Loli Morta
+23309,Cadáver de Criança
+23310,Árvore dos Enforcados
+23311,Matador de Aluguel
+23312,Lisa Kahn Himmelmez

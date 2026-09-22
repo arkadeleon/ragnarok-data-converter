@@ -53,6 +53,10 @@ struct Convert: ParsableCommand {
             from: .txt(msgStringTableURL: root.appendingPathIgnoringCase("data/msgstringtable.txt")),
             to: output, for: .ptBR
         )
+        try MonsterNameConverter().convert(
+            from: root.appendingPathIgnoringCase("mobname.txt"),
+            to: output, for: .ptBR
+        )
         try SkillInfoConverter().convert(
             from: .init(directory: root.appendingPathIgnoringCase("data/luafiles514/lua files/skillinfoz")),
             to: output, for: .ptBR
@@ -219,6 +223,10 @@ struct Convert: ParsableCommand {
             from: .txt(msgStringTableURL: root.appendingPathIgnoringCase("data/msgstringtable.txt")),
             to: output, for: .ja
         )
+        try MonsterNameConverter().convert(
+            from: root.appendingPathIgnoringCase("mobname.txt"),
+            to: output, for: .ja
+        )
         try SkillInfoConverter().convert(
             from: .init(directory: root.appendingPathIgnoringCase("data/luafiles514/lua files/skillinfoz")),
             to: output, for: .ja
@@ -251,6 +259,10 @@ struct Convert: ParsableCommand {
         )
         try MessageStringConverter().convert(
             from: .csv(msgStringTableURL: root.appendingPathIgnoringCase("data/MsgStringTable.csv"), column: 1),
+            to: output, for: .ko
+        )
+        try MonsterNameConverter().convert(
+            from: root.appendingPathIgnoringCase("mobname.txt"),
             to: output, for: .ko
         )
         try SkillInfoConverter().convert(
@@ -322,6 +334,10 @@ struct Convert: ParsableCommand {
         )
         try MessageStringConverter().convert(
             from: .txt(msgStringTableURL: root.appendingPathIgnoringCase("data/msgstringtable.txt")),
+            to: output, for: .ru
+        )
+        try MonsterNameConverter().convert(
+            from: root.appendingPathIgnoringCase("mobname.txt"),
             to: output, for: .ru
         )
         try SkillInfoConverter().convert(

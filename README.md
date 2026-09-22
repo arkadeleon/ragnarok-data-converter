@@ -34,7 +34,7 @@ swift run ragnarok-data-converter fetch-mobname --region bRO Input
 - `--region`: server as named in the divine-pride server selector; each maps to one client directory (`bRO` → `Brazil`, `cRO` → `China`, `twRO` → `Taiwan`, `LATAM` → `LatinAmerica`, …; see `FetchMonsterName.swift`)
 - `input`: the same directory `convert` reads; the file is written to `<input>/<client>/mobname.txt`
 
-The file has one `id,name` line per monster; monsters with no name on that server are omitted.
+The file has one `id,name` line per monster. divine-pride's list skips clones that share a name with another monster (e.g. 1220 next to 1106 "Desert Wolf"), so the command also pulls [rAthena's `mob_db.yml`](https://github.com/arkadeleon/swift-rathena/blob/master/db/re/mob_db.yml) and gives such monsters the translation of the other monster with the same English name. Monsters that still have no name are omitted.
 
 ## Input
 
@@ -42,15 +42,15 @@ Each client is kept as it ships, under a directory named after the region it ser
 
 ```text
 Input/
-  Korea/          data/ System/                  → ko
+  Korea/          data/ System/ mobname.txt      → ko
   International/  data/ System/                  → en
-  Japan/          data/ System/                  → ja
+  Japan/          data/ System/ mobname.txt      → ja
   China/          data/ System/ mobname.txt      → zh-Hans
   Taiwan/         data/ System/ mobname.txt      → zh-Hant
-  Brazil/         data/ System/                  → pt-BR
+  Brazil/         data/ System/ mobname.txt      → pt-BR
   Thailand/       data/ System/                  → th
   Indonesia/      data/ System/                  → id
-  Russia/         data/ System/                  → ru
+  Russia/         data/ System/ mobname.txt      → ru
   Europe/         data/{german,french,turkish}/ …
                   data/luafiles514/{german,…}/lua files/ …
                                                  → de, fr, tr
@@ -60,6 +60,8 @@ Input/
 ```
 
 Single-language clients keep everything in `data/` and `System/`. The euRO and latam clients ship one subdirectory per language with only the translated files, and fall back to the root of `data/` for the rest.
+
+No client ships a `mobname.txt`; it is added by hand. The Chinese ones (`China/`, `Taiwan/`) come from [Pandas](https://github.com/PandasWS/Pandas.git), the others are scraped from [divine-pride.net](https://www.divine-pride.net) with `fetch-mobname` (see above).
 
 ## Output
 

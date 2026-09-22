@@ -15,6 +15,11 @@ import Foundation
 /// divine-pride keeps the selected server in a cookie set by
 /// `POST /account/set-preference`, so the command sets it first and then walks
 /// the paginated monster list with the same cookie storage.
+///
+/// The list leaves out clones that share a name with another monster (1220
+/// "Desert Wolf" next to 1106), so afterwards the gaps are filled from
+/// rAthena's `mob_db.yml`: a monster with no translation borrows the one of
+/// another monster with the same English name.
 struct FetchMonsterName: AsyncParsableCommand {
     static let configuration = CommandConfiguration(
         commandName: "fetch-mobname",
@@ -80,6 +85,10 @@ struct FetchMonsterName: AsyncParsableCommand {
         let output = input.appendingPathIgnoringCase(directory).appendingPathComponent("mobname.txt")
         let session = URLSession(configuration: .ephemeral)
 
+        // Fetch the English names first.
+        let englishNames = try await fetchEnglishNames(with: session)
+        print("Fetched \(englishNames.count) English monster names from mob_db.yml")
+
         try await setPreference(["region": region.rawValue], with: session)
 
         var monsterNames: [Int : String] = [:]
@@ -104,6 +113,9 @@ struct FetchMonsterName: AsyncParsableCommand {
             // Be polite to divine-pride and pause between pages.
             try await Task.sleep(for: .seconds(1))
         }
+
+        let filled = fillMissingNames(in: &monsterNames, using: englishNames)
+        print("Filled \(filled) monster names from monsters with the same English name")
 
         let lines = monsterNames.keys.sorted().map { "\($0),\(monsterNames[$0]!)" }
         let contents = lines.joined(separator: "\n") + "\n"
@@ -144,6 +156,53 @@ struct FetchMonsterName: AsyncParsableCommand {
         if let response = response as? HTTPURLResponse, !(200..<300).contains(response.statusCode) {
             throw ValidationError("\(response.url?.absoluteString ?? "") returned HTTP \(response.statusCode).")
         }
+    }
+
+    // MARK: - mob_db.yml
+
+    /// Reads `Id` → `Name` from rAthena's `mob_db.yml`. Each entry is a
+    /// `  - Id:` line followed by its indented fields, so a line-based scan is
+    /// enough and avoids pulling in a YAML parser.
+    private func fetchEnglishNames(with session: URLSession) async throws -> [Int : String] {
+        let mobDBURL = URL(string: "https://raw.githubusercontent.com/arkadeleon/swift-rathena/master/db/re/mob_db.yml")!
+        let (data, response) = try await session.data(from: mobDBURL)
+        try checkStatus(of: response)
+
+        guard let yaml = String(data: data, encoding: .utf8) else {
+            throw ValidationError("mob_db.yml is not valid UTF-8.")
+        }
+
+        var englishNames: [Int : String] = [:]
+        var currentID: Int?
+        for line in yaml.split(separator: "\n", omittingEmptySubsequences: false) {
+            if let match = line.firstMatch(of: /^  - Id: (\d+)\s*$/) {
+                currentID = Int(match.1)
+            } else if let id = currentID, let match = line.firstMatch(of: /^    Name: (.*?)\s*$/) {
+                var name = Substring(match.1)
+                if name.count >= 2, let first = name.first, first == "\"" || first == "'", name.last == first {
+                    name = name.dropFirst().dropLast()
+                }
+                englishNames[id] = String(name)
+            }
+        }
+        return englishNames
+    }
+
+    /// Gives every monster in `mob_db.yml` that has no translated name the
+    /// translation of the lowest-numbered monster with the same English name.
+    /// Returns how many names were filled in.
+    private func fillMissingNames(in monsterNames: inout [Int : String], using englishNames: [Int : String]) -> Int {
+        let idsByEnglishName = Dictionary(grouping: englishNames.keys, by: { englishNames[$0]! })
+
+        var filled = 0
+        for (id, englishName) in englishNames where monsterNames[id] == nil {
+            let donors = idsByEnglishName[englishName]!.sorted()
+            if let donor = donors.first(where: { monsterNames[$0] != nil }) {
+                monsterNames[id] = monsterNames[donor]
+                filled += 1
+            }
+        }
+        return filled
     }
 
     // MARK: - HTML parsing
