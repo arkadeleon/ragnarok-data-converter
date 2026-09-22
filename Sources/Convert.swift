@@ -8,8 +8,12 @@
 import ArgumentParser
 import Foundation
 
-@main
 struct Convert: ParsableCommand {
+    static let configuration = CommandConfiguration(
+        commandName: "convert",
+        abstract: "Convert Ragnarok Online client resource files into normalized JSON datasets."
+    )
+
     @Argument(transform: { URL(fileURLWithPath: $0, isDirectory: true) })
     var input: URL
 

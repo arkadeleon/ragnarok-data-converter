@@ -12,12 +12,29 @@ Convert Ragnarok Online client resource files into normalized JSON datasets.
 
 ## Usage
 
+### Convert
+
 ```bash
-swift run ragnarok-data-converter <input> <output>
+swift run ragnarok-data-converter convert <input> <output>
 ```
+
+`convert` is the default subcommand, so it may be omitted.
 
 - `input`: directory containing one subdirectory per Ragnarok Online client (see below)
 - `output`: directory where JSON files will be written
+
+### Fetch monster names
+
+Clients that don't ship monster names get them as a `mobname.txt` scraped from [divine-pride.net](https://www.divine-pride.net/database/monster):
+
+```bash
+swift run ragnarok-data-converter fetch-mobname --region bRO Input
+```
+
+- `--region`: server as named in the divine-pride server selector; each maps to one client directory (`bRO` → `Brazil`, `cRO` → `China`, `twRO` → `Taiwan`, `LATAM` → `LatinAmerica`, …; see `FetchMonsterName.swift`)
+- `input`: the same directory `convert` reads; the file is written to `<input>/<client>/mobname.txt`
+
+The file has one `id,name` line per monster; monsters with no name on that server are omitted.
 
 ## Input
 
