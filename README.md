@@ -71,6 +71,7 @@ Locale-independent data is written to `Common/`; locale-specific data is written
 Output/
   Common/
     ItemCommonInfo.json
+    StatusIcon.json
   en.lproj/
     ItemInfo.json
     ...
@@ -82,13 +83,14 @@ Output/
 | File | Description |
 | --- | --- |
 | `Common/ItemCommonInfo.json` | Locale-independent item properties |
+| `Common/StatusIcon.json` | Status icon file names |
 | `ItemInfo.json` | Item names and descriptions |
 | `ItemRandomOptionName.json` | Random option display names |
 | `MapInfo.json` | Map display names and sign titles |
 | `MessageString.json` | Indexed message string table |
 | `MonsterName.json` | Monster names |
 | `SkillInfo.json` | Skill names and descriptions |
-| `StatusInfo.json` | Status effect descriptions |
+| `StatusInfo.json` | Status description lines and their colors |
 
 Some files are only generated when the corresponding source files exist for a locale.
 

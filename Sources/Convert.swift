@@ -244,6 +244,10 @@ struct Convert: ParsableCommand {
             from: root.appendingPathIgnoringCase("System/itemInfo_true.lub"),
             to: output
         )
+        try StatusIconConverter().convert(
+            from: .init(directory: root.appendingPathIgnoringCase("data/luafiles514/lua files/stateicon")),
+            to: output
+        )
 
         try ItemInfoConverter().convert(
             from: .lua(itemInfoURL: root.appendingPathIgnoringCase("System/itemInfo_true.lub")),
